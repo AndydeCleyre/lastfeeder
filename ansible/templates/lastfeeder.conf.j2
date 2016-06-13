@@ -1,0 +1,11 @@
+server {
+    listen *:80;
+    server_name {{ nginx_server_name }};
+    location {{ nginx_location }} {
+        root {{ rss_dir }};
+        autoindex on;
+        types {
+            application/rss+xml rss;
+        }
+    }
+}
