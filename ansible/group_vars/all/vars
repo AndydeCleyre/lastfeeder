@@ -1,3 +1,5 @@
 ---
 lastfm_api_key: "{{ vault_lastfm_api_key }}"
 lastfm_shared_secret: "{{ vault_lastfm_shared_secret }}"
+nginx_server_name: .mrpoopybutthole.duckdns.org
+rss_dir: /home/user/static
