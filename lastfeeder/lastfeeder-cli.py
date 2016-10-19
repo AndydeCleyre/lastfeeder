@@ -2,7 +2,6 @@
 
 """Create RSS feeds for Last.fm users."""
 
-from textwrap import dedent
 from time import sleep
 
 from plumbum import local

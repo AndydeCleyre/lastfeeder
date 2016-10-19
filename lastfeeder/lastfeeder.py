@@ -2,8 +2,6 @@
 
 """Create RSS feeds for users, since Last.fm now hates users."""
 
-from textwrap import dedent
-
 import arrow
 from feedgen.feed import FeedGenerator
 from plumbum import local
