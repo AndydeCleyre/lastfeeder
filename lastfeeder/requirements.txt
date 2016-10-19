@@ -3,3 +3,4 @@ feedgen~=0.4.0
 requests~=2.11.1
 plumbum~=1.6.2
 PyYAML~=3.12
+structlog~=16.1.0

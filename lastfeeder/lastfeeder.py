@@ -12,7 +12,7 @@ from requests import get
 from vault import LASTFM_API_KEY
 
 
-def get_recent_tracks(username, logger=None):
+def get_recent_tracks(username, log=None):
     """
     Fetch and return a list of the user's recently listened tracks.
 
@@ -32,13 +32,13 @@ def get_recent_tracks(username, logger=None):
             }
         ).json()['recenttracks']['track']
     except Exception as e:
-        if logger:
-            logger.error(dedent("""\
-                Error parsing recent tracks for {}:
-                Error Type: {}
-                Error: {}
-                """.format(username, type(e), e)
-            ))
+        if log:
+            log.error(
+                "failed to parse recent tracks",
+                username=username,
+                error_type=type(e),
+                error=e
+            )
 
 
 def add_track_rss_entry(feed, track, username):
@@ -71,7 +71,7 @@ def add_track_rss_entry(feed, track, username):
 
 def create_rss(
     username, recent_tracks,
-    feed_dir=local.cwd, url_prefix='localhost', logger=None
+    feed_dir=local.cwd, url_prefix='localhost', log=None
 ):
     """
     Write a new RSS document to a file.
@@ -99,14 +99,14 @@ def create_rss(
             try:
                 add_track_rss_entry(feed, track, username)
             except Exception as e:
-                if logger:
-                    logger.error(dedent("""\
-                        Error adding track to RSS for {}:
-                        Error Type: {}
-                        Error: {}
-                        Track: {}
-                        """.format(username, type(e), e, track)
-                    ))
+                if log:
+                    log.error(
+                        "failed to add track to RSS feed",
+                        username=username,
+                        error_type=type(e),
+                        error=e,
+                        track=track
+                    )
     fp = local.path(feed_dir) / '{}.rss'.format(username)
     feed.rss_file(fp)
     return fp

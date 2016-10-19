@@ -2,13 +2,12 @@
 
 """Create RSS feeds for Last.fm users."""
 
-from logging import getLogger
-from logging.handlers import RotatingFileHandler
 from textwrap import dedent
 from time import sleep
 
 from plumbum import local
 from plumbum.cli import Application, SwitchAttr
+from structlog import get_logger
 from yaml import safe_load as load_yaml
 
 from lastfeeder import create_rss, get_recent_tracks
@@ -33,33 +32,15 @@ class LastFeeder(Application):
         help="destination folder for the RSS files",
         default=local.cwd
     )
-    log_dir = SwitchAttr(
-        ['l', 'log-dir'], argname='PATH',
-        help="destination folder for the log file",
-        default=local.path('~/logs')
-    )
     url_prefix = SwitchAttr(
         ['p', 'prefix'], argname='PREFIX',
         help="leading URL of the feed address (http://<prefix>/<user>.rss)",
         default='localhost'
     )
 
-    def make_logger(self, log_dir, level='INFO'):
-        """Return a logger object."""
-        logger = getLogger('LastFeeder')
-        log_dir = local.path(log_dir)
-        log_dir.mkdir()
-        logger.addHandler(RotatingFileHandler(
-            log_dir / 'lastfeeder.log',
-            maxBytes=10**7,
-            backupCount=1
-        ))
-        logger.setLevel(level)
-        return logger
-
     def main(self):
         """Generate RSS feed files for the specified users."""
-        logger = self.make_logger(self.log_dir, 'DEBUG')
+        log = get_logger()
         for user_file in self.username_files:
             self.usernames.extend(load_yaml(
                 local.path(user_file).read('utf8')
@@ -68,17 +49,18 @@ class LastFeeder(Application):
             try:
                 create_rss(
                     username,
-                    get_recent_tracks(username, logger),
+                    get_recent_tracks(username, log),
                     self.feed_dir,
                     self.url_prefix,
-                    logger
+                    log
                 )
             except Exception as e:
-                logger.error(dedent("""
-                    Error creating RSS feed for {}
-                    Error Type: {}
-                    Error: {}
-                    """.format(username, type(e), e)))
+                log.error(
+                    "failed to create RSS feed",
+                    username=username,
+                    error_type=type(e),
+                    error=e
+                )
             sleep(1)
         if not self.usernames:
             self.help()
