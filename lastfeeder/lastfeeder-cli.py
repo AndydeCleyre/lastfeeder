@@ -9,7 +9,7 @@ from time import sleep
 
 from plumbum import local
 from plumbum.cli import Application, SwitchAttr
-from yaml import safe_load as yaml_load
+from yaml import safe_load as load_yaml
 
 from lastfeeder import create_rss, get_recent_tracks
 
@@ -61,11 +61,9 @@ class LastFeeder(Application):
         """Generate RSS feed files for the specified users."""
         logger = self.make_logger(self.log_dir, 'DEBUG')
         for user_file in self.username_files:
-            self.usernames.extend(
-                yaml_load(
-                    local.path(user_file).read('utf8')
-                )
-            )
+            self.usernames.extend(load_yaml(
+                local.path(user_file).read('utf8')
+            ))
         for username in self.usernames:
             try:
                 create_rss(
