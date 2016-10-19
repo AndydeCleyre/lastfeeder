@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Create RSS feeds for users, since Last.fm now hates users."""
+"""Create RSS feeds for Last.fm users."""
 
 from logging import getLogger
 from logging.handlers import RotatingFileHandler
@@ -40,16 +40,17 @@ class LastFeeder(Application):
     )
     url_prefix = SwitchAttr(
         ['p', 'prefix'], argname='PREFIX',
-        help="leading URL of the feed address (<prefix>/<user>.rss)",
+        help="leading URL of the feed address (http://<prefix>/<user>.rss)",
         default='localhost'
     )
 
     def make_logger(self, log_dir, level='INFO'):
         """Return a logger object."""
-        local.path(log_dir).mkdir()
         logger = getLogger('LastFeeder')
+        log_dir = local.path(log_dir)
+        log_dir.mkdir()
         logger.addHandler(RotatingFileHandler(
-            str(local.path(log_dir) / 'lastfeeder.log'),
+            log_dir / 'lastfeeder.log',
             maxBytes=10**7,
             backupCount=1
         ))
@@ -57,7 +58,7 @@ class LastFeeder(Application):
         return logger
 
     def main(self):
-        """Generate RSS feed files for users' recent Last.fm scrobbles."""
+        """Generate RSS feed files for the specified users."""
         logger = self.make_logger(self.log_dir, 'DEBUG')
         for user_file in self.username_files:
             self.usernames.extend(
@@ -83,6 +84,7 @@ class LastFeeder(Application):
             sleep(1)
         if not self.usernames:
             self.help()
+            print("I'm gonna need at least one Last.fm username.")
 
 
 if __name__ == '__main__':

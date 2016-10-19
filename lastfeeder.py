@@ -14,7 +14,7 @@ from vault import LASTFM_API_KEY
 
 def get_recent_tracks(username, logger=None):
     """
-    Get a list of the user's recently listened tracks.
+    Fetch and return a list of the user's recently listened tracks.
 
     Last.fm response to `user.getRecentTracks(...)['recenttracks']['track']`
 
@@ -37,11 +37,17 @@ def get_recent_tracks(username, logger=None):
                 Error parsing recent tracks for {}:
                 Error Type: {}
                 Error: {}
-                """.format(username, type(e), e)))
+                """.format(username, type(e), e)
+            ))
 
 
 def add_track_rss_entry(feed, track, username):
-    """Add a new rss entry for the `track` to the `feed`."""
+    """
+    Add a new RSS entry for the `track` to the `feed`.
+
+    `track` is the Last.fm response to
+    `user.getRecentTracks(...)['recenttracks']['track'][i]`.
+    """
     entry = feed.add_entry()
     entry.title(
         "{} - {}".format(
@@ -68,7 +74,7 @@ def create_rss(
     feed_dir=local.cwd, url_prefix='localhost', logger=None
 ):
     """
-    Write a new .rss document to a file.
+    Write a new RSS document to a file.
 
     `recent_tracks` is the Last.fm API response to
     `user.getRecentTracks(...)['recenttracks']['track']`
@@ -85,10 +91,10 @@ def create_rss(
     feed.link(href='http://www.last.fm/user/{}'.format(username))
     feed.description("Because now Last.fm hates users.")
     for track in recent_tracks:
-        if (
-            '@attr' not in track or
-            'nowplaying' not in track['@attr'] or
-            track['@attr']['nowplaying'] != 'true'
+        if not (
+            '@attr' in track and
+            'nowplaying' in track['@attr'] and
+            track['@attr']['nowplaying'] == 'true'
         ):
             try:
                 add_track_rss_entry(feed, track, username)
@@ -99,11 +105,8 @@ def create_rss(
                         Error Type: {}
                         Error: {}
                         Track: {}
-                        """.format(username, type(e), e, track)))
-                    logger.error(username)
-                    logger.error(type(e))
-                    logger.error(e)
-                    logger.error(track)
+                        """.format(username, type(e), e, track)
+                    ))
     fp = local.path(feed_dir) / '{}.rss'.format(username)
     feed.rss_file(fp)
     return fp
