@@ -6,13 +6,12 @@ from time import sleep
 
 from plumbum import local
 from plumbum.cli import Application, SwitchAttr
-from structlog import get_logger
 from yaml import safe_load as load_yaml
 
-from lastfeeder import create_rss, get_recent_tracks
+from lastfeeder import LastFeeder
 
 
-class LastFeeder(Application):
+class LastFeederCLI(Application):
     """Generate RSS feed files for users' recent Last.fm scrobbles."""
 
     VERSION = '0.1'
@@ -39,27 +38,15 @@ class LastFeeder(Application):
 
     def main(self):
         """Generate RSS feed files for the specified users."""
-        log = get_logger()
         for user_file in self.username_files:
             self.usernames.extend(load_yaml(
                 local.path(user_file).read('utf8')
             ))
+        lf = LastFeeder()
         for username in self.usernames:
-            try:
-                create_rss(
-                    username,
-                    get_recent_tracks(username, log),
-                    self.feed_dir,
-                    self.url_prefix,
-                    log
-                )
-            except Exception as e:
-                log.error(
-                    "failed to create RSS feed",
-                    username=username,
-                    error_type=type(e),
-                    error=e
-                )
+            lf.create_recent_tracks_rss(
+                username, self.feed_dir, self.url_prefix
+            )
             sleep(1)
         if not self.usernames:
             self.help()
@@ -67,5 +54,5 @@ class LastFeeder(Application):
 
 
 if __name__ == '__main__':
-    LastFeeder.unbind_switches('--help-all')
-    LastFeeder.run()
+    LastFeederCLI.unbind_switches('--help-all')
+    LastFeederCLI.run()
