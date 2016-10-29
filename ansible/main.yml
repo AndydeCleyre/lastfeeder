@@ -1,13 +1,17 @@
 ---
-- hosts: monolith
+- hosts: lastfeeder_all-in-one
   gather_facts: false
   vars_files:
     - /ansible-container/lastfm_users.yml
     - /ansible-container/lastfm_credentials.yml
+    - /ansible-container/misc.yml
   vars:
     app_name: lastfeeder
+    app_dir: /home/{{ app_name }}
 
   tasks:
+
+  # app installation
 
     - name: get legacy python so ansible can do its thing
       raw: apk-install python
@@ -27,27 +31,27 @@
     - name: create a user to run the script
       command: adduser -D {{ app_name }} creates=/home/{{ app_name }}
 
-    - name: copy the code into place
-      copy: src=../{{ app_name }} dest=/home/ owner={{ app_name }}
+    - name: install the code
+      copy: src=../{{ app_name }}/ dest={{ app_dir }} owner={{ app_name }}
 
     - name: get code's python package dependencies
-      pip: executable=pip3 requirements=/home/{{ app_name }}/requirements.txt
+      pip: executable=pip3 requirements={{ app_dir }}/requirements.txt
 
     - name: make script executable
-      file: path=/home/{{ app_name }}/lastfeeder-cli.py mode=ugo+x
+      file: path={{ app_dir }}/lastfeeder-cli.py mode=ugo+x
 
-    - name: copy super secret credentials into place
-      template: src=vault.py.j2 dest=/home/{{ app_name }}/vault.py owner={{ app_name }}
+    - name: install super secret credentials
+      template: src=vault.py.j2 dest={{ app_dir }}/vault.py owner={{ app_name }}
 
-    - name: copy last.fm user list into place
-      template: src=users.yml.j2 dest=/home/{{ app_name }}/users.yml owner={{ app_name }}
+    - name: install last.fm user list
+      template: src=users.yml.j2 dest={{ app_dir }}/users.yml owner={{ app_name }}
 
-# - hosts: monolith
-  # gather_facts: false
-  # vars:
-    # app_name: lastfeeder
+  # s6 process supervision
 
-  # tasks:
+    - name: get s6 process supervision tools
+      apk: name=s6
 
-    # - name: get s6 something something
-      # apk: name=s6something
+    - name: install supervised service configurations
+      template: src={{ item }}.service/run.j2 dest={{ app_dir }}/services/{{ item }}/run owner={{ app_name }} mode=ugo+x
+      with_items:
+        - lastfeeder

@@ -1,0 +1,5 @@
+#!/bin/sh
+# if s6-svscan were run as root, we'd prepend the command with:
+# s6-setuidgid {{ app_name }}
+{{ app_dir }}/lastfeeder-cli.py -U {{ app_dir }}/users.yml -p {{ app_url }} -o {{ app_dir }}/feeds
+sleep 5m
