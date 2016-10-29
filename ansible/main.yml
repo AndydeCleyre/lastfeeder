@@ -1,0 +1,53 @@
+---
+- hosts: monolith
+  gather_facts: false
+  vars_files:
+    - /ansible-container/lastfm_users.yml
+    - /ansible-container/lastfm_credentials.yml
+  vars:
+    app_name: lastfeeder
+
+  tasks:
+
+    - name: get legacy python so ansible can do its thing
+      raw: apk-install python
+
+    - name: update package list and upgrade packages
+      apk: update_cache=yes upgrade=yes
+
+    - name: get python and other dependencies
+      apk: name={{ item }}
+      with_items:
+        - gcc
+        - libxml2-dev
+        - libxslt-dev
+        - musl-dev
+        - python3-dev
+
+    - name: create a user to run the script
+      command: adduser -D {{ app_name }} creates=/home/{{ app_name }}
+
+    - name: copy the code into place
+      copy: src=../{{ app_name }} dest=/home/ owner={{ app_name }}
+
+    - name: get code's python package dependencies
+      pip: executable=pip3 requirements=/home/{{ app_name }}/requirements.txt
+
+    - name: make script executable
+      file: path=/home/{{ app_name }}/lastfeeder-cli.py mode=ugo+x
+
+    - name: copy super secret credentials into place
+      template: src=vault.py.j2 dest=/home/{{ app_name }}/vault.py owner={{ app_name }}
+
+    - name: copy last.fm user list into place
+      template: src=users.yml.j2 dest=/home/{{ app_name }}/users.yml owner={{ app_name }}
+
+# - hosts: monolith
+  # gather_facts: false
+  # vars:
+    # app_name: lastfeeder
+
+  # tasks:
+
+    # - name: get s6 something something
+      # apk: name=s6something

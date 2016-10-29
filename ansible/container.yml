@@ -1,0 +1,10 @@
+version: "1"
+services:
+  monolith:
+    image: gliderlabs/alpine:3.4
+    # ports:
+      # - "80:80"
+    user: lastfeeder
+    # command: ['s6something']
+    restart: unless-stopped
+
