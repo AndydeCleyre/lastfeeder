@@ -1,0 +1,9 @@
+.directory
+.hidden
+__pycache__
+ansible-original-backup
+vault.py
+venv
+venv2
+lastfm_credentials.yml
+lastfm_users.yml
