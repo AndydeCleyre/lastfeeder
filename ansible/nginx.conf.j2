@@ -1,0 +1,28 @@
+worker_processes  4;
+
+events {
+    worker_connections  1024;
+}
+
+daemon off;
+
+http {
+    include mime.types;
+    default_type application/octet-stream;
+
+    sendfile on;
+
+    keepalive_timeout 65;
+
+    server {
+        listen *:80;
+        server_name .{{ web_domain }};
+        location {{ web_path }} {
+            root {{ app_dir }}/feeds;
+            autoindex on;
+            types {
+                application/rss+xml rss;
+            }
+        }
+    }
+}

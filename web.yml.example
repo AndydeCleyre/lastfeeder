@@ -1,0 +1,5 @@
+---
+web_domain: localhost
+# web_domain: example.org
+web_protocol: http
+web_path: /
