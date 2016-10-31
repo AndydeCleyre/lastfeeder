@@ -20,6 +20,7 @@ http {
         location {{ web_path }} {
             root {{ app_dir }}/feeds;
             autoindex on;
+            autoindex_localtime on;
             types {
                 application/rss+xml rss;
             }
