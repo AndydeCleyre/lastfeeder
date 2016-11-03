@@ -1,9 +1,9 @@
 version: "1"
 services:
-  lastfeeder_all-in-one:
+  monolith:
     image: gliderlabs/alpine:3.4
     ports:
       - "80:80"
-    command: ['s6-svscan', '/home/lastfeeder/services']
+    command: ['s6-svscan', '/etc/s6-services']
     restart: unless-stopped
 
