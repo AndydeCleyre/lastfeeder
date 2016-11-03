@@ -35,6 +35,7 @@
       apk: update_cache=yes upgrade=yes
 
     - name: get python and related dependencies
+    # consider removing build-time deps later for space-saving
       apk: name={{ item }}
       with_items:
         - gcc
@@ -74,3 +75,14 @@
       with_items:
         - lastfeeder
         - nginx
+
+  # timezone
+
+    - name: get timezone data
+      apk: name=tzdata
+
+    - name: set timezone (NY)
+      copy: remote_src=yes src=/usr/share/zoneinfo/America/New_York dest=/etc/localtime
+
+    - name: purge timezone data
+      apk: name=tzdata state=absent
