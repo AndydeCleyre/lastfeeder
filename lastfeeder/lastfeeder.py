@@ -43,7 +43,8 @@ class LastFeeder:
             )
 
     def add_track_rss_entry(
-        self, feed: FeedGenerator, track: [dict], username: str
+        self, feed: FeedGenerator, track: [dict], username: str,
+        tz: str = 'America/New_York'
     ):
         """
         Add a new RSS entry for the track to the feed.
@@ -68,7 +69,7 @@ class LastFeeder:
         )
         entry.link(href=track['url'])
         entry.published(
-            arrow.get(track['date']['uts']).to('America/New_York').datetime
+            arrow.get(track['date']['uts']).to(tz).datetime
         )
 
     def create_recent_tracks_rss(
