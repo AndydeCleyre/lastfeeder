@@ -34,10 +34,11 @@
     - name: update package list and upgrade packages
       apk: update_cache=yes upgrade=yes
 
-    - name: get python and related dependencies
-    # consider removing build-time deps later for space-saving
+    - name: get python and python package build & runtime dependencies
       apk: name={{ item }}
       with_items:
+        - python3
+        - libxslt
         - gcc
         - libxml2-dev
         - libxslt-dev
@@ -46,6 +47,15 @@
 
     - name: get code's python package dependencies
       pip: executable=pip3 requirements={{ app_dir }}/requirements.txt
+
+    - name: purge python package build dependencies
+      apk: name={{ item }} state=absent
+      with_items:
+        - gcc
+        - libxml2-dev
+        - libxslt-dev
+        - musl-dev
+        - python3-dev
 
   # web server installation
 
