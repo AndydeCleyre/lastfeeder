@@ -5,7 +5,7 @@
 import arrow
 from feedgen.feed import FeedGenerator
 from plumbum import local
-from requests import get
+from requests import get, head
 from structlog import get_logger
 
 from vault import LASTFM_API_KEY
@@ -71,6 +71,13 @@ class LastFeeder:
         entry.published(
             arrow.get(track['date']['uts']).to(tz).datetime
         )
+        if 'image' in track and len(track['image']) >= 1:
+            url = track['image'][-1]['#text'].strip()
+            if url:
+                r = head(url)
+                length = r.headers['Content-Length']
+                mime = r.headers['Content-Type']
+                entry.enclosure(url, length, mime)
 
     def create_recent_tracks_rss(
         self, username: str, feed_dir: str = local.cwd,
