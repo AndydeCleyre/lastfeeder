@@ -47,7 +47,7 @@ class LastFeederCLI(Application):
             lf.create_recent_tracks_rss(
                 username, self.feed_dir, self.url_prefix
             )
-            sleep(1)
+            sleep(.2)
         if not self.usernames:
             self.help()
             print("I'm gonna need at least one Last.fm username.")
