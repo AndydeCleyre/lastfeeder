@@ -66,7 +66,7 @@ class LastFeeder:
                     'track': title, 'artist': artist,
                     'api_key': LASTFM_API_KEY, 'format': 'json'
                 }
-            ).json()['track']['playcount']
+            ).json()['track']['userplaycount']
         except Exception as e:
             self.log.error(
                 "failed to get play count",
