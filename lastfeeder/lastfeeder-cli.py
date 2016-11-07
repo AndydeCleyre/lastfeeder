@@ -2,8 +2,6 @@
 
 """Create RSS feeds for Last.fm users."""
 
-from time import sleep
-
 from plumbum import local
 from plumbum.cli import Application, SwitchAttr
 from yaml import safe_load as load_yaml
@@ -47,7 +45,6 @@ class LastFeederCLI(Application):
             lf.create_recent_tracks_rss(
                 username, self.feed_dir, self.url_prefix
             )
-            sleep(.2)
         if not self.usernames:
             self.help()
             print("I'm gonna need at least one Last.fm username.")

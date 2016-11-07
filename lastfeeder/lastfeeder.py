@@ -2,6 +2,9 @@
 
 """Create RSS feeds of Last.fm users' recent tracks."""
 
+from time import time, sleep
+from contextlib import suppress
+
 import arrow
 from feedgen.feed import FeedGenerator
 from plumbum import local
@@ -18,6 +21,13 @@ class LastFeeder:
         """Initialize a feed generator with a logger."""
         self.log = get_logger()
 
+    def rate_limit(self, min_delay=.2):
+        now = time()
+        with suppress(AttributeError):
+            if now - self.last_call < min_delay:
+                sleep(min_delay)
+        self.last_call = now
+
     def get_recent_tracks(self, username: str) -> [dict]:
         """
         Fetch and return a list of the user's recently listened tracks.
@@ -28,6 +38,7 @@ class LastFeeder:
         attribute if the user is currently listening.
         """
         self.log.msg("getting recent tracks", username=username)
+        self.rate_limit()
         try:
             return get(
                 'http://ws.audioscrobbler.com/2.0',
