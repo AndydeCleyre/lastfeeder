@@ -21,12 +21,12 @@ class LastFeeder:
         """Initialize a feed generator with a logger."""
         self.log = get_logger()
 
-    def rate_limit(self, min_delay=.2):
+    def api_wait(self, min_delay=.2):
         now = time()
         with suppress(AttributeError):
-            if now - self.last_call < min_delay:
+            if now - self.last_api_call_time < min_delay:
                 sleep(min_delay)
-        self.last_call = now
+        self.last_api_call_time = now
 
     def get_recent_tracks(self, username: str) -> [dict]:
         """
@@ -38,7 +38,7 @@ class LastFeeder:
         attribute if the user is currently listening.
         """
         self.log.msg("getting recent tracks", username=username)
-        self.rate_limit()
+        self.api_wait()
         try:
             return get(
                 'http://ws.audioscrobbler.com/2.0',
