@@ -55,18 +55,18 @@ class LastFeeder:
                 username=username, error_type=type(e), error=e
             )
 
-    def get_playcount(self, username: str, title: str, artist: str) -> str:
+    def get_playcount(self, username: str, title: str, artist: str) -> int:
         """Return the number of times the user's played the track."""
         self.api_wait()
         try:
-            return get(
+            return int(get(
                 'http://ws.audioscrobbler.com/2.0',
                 params={
                     'method': 'track.getinfo', 'username': username,
                     'track': title, 'artist': artist,
                     'api_key': LASTFM_API_KEY, 'format': 'json'
                 }
-            ).json()['track']['userplaycount']
+            ).json()['track']['userplaycount'])
         except Exception as e:
             self.log.error(
                 "failed to get play count",
@@ -85,12 +85,13 @@ class LastFeeder:
         user.getRecentTracks(...)['recenttracks']['track'][i].
         """
         entry = feed.add_entry()
+        playcount = self.get_playcount(
+            username, track['name'], track['artist']['#text']
+        )
+        pc_text = '{} plays'.format(playcount) if playcount > 1 else '1st play'
         entry.title(
-            "{} - {} ({} plays)".format(
-                track['artist']['#text'], track['name'],
-                self.get_playcount(
-                    username, track['name'], track['artist']['#text']
-                )
+            "{} - {} ({})".format(
+                track['artist']['#text'], track['name'], pc_text
             )
         )
         entry.guid(
