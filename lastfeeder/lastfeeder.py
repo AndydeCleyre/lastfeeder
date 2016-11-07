@@ -57,10 +57,6 @@ class LastFeeder:
 
     def get_playcount(self, username: str, title: str, artist: str) -> str:
         """Return the number of times the user's played the track."""
-        self.log.msg(
-            "getting play count",
-            username=username, title=title, artist=artist
-        )
         self.api_wait()
         try:
             return get(
