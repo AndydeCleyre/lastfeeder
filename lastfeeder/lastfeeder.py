@@ -55,7 +55,7 @@ class LastFeeder:
                 username=username, error_type=type(e), error=e
             )
 
-    def get_playcount(self, username: str, title: str, artist: str) -> int:
+    def get_playcount(self, username: str, title: str, artist: str) -> {int,None}:
         """Return the number of times the user's played the track."""
         self.api_wait()
         try:
@@ -85,15 +85,18 @@ class LastFeeder:
         user.getRecentTracks(...)['recenttracks']['track'][i].
         """
         entry = feed.add_entry()
+        title = "{} - {}".format(
+            track['artist']['#text'], track['name']
+        )
         playcount = self.get_playcount(
             username, track['name'], track['artist']['#text']
         )
-        pc_text = '{} plays'.format(playcount) if playcount > 1 else '1st play'
-        entry.title(
-            "{} - {} ({})".format(
-                track['artist']['#text'], track['name'], pc_text
-            )
-        )
+        if playcount:
+            if playcount > 1:
+                title += ' ({} plays)'.format(playcount)
+            else:
+                title += ' (1st play)'
+        entry.title(title)
         entry.guid(
             '{}-{}--{}---{}'.format(
                 username,
