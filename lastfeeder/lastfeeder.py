@@ -22,10 +22,12 @@ class LastFeeder:
         self.log = get_logger()
 
     def api_wait(self, min_delay=.2):
+        """Wait until it's been min_delay seconds since the last API call."""
         now = time()
         with suppress(AttributeError):
-            if now - self.last_api_call_time < min_delay:
-                sleep(min_delay)
+            time_since = now - self.last_api_call_time
+            if time_since < min_delay:
+                sleep(min_delay - time_since)
         self.last_api_call_time = now
 
     def get_recent_tracks(self, username: str) -> [dict]:
@@ -53,6 +55,29 @@ class LastFeeder:
                 username=username, error_type=type(e), error=e
             )
 
+    def get_playcount(self, username: str, title: str, artist: str) -> str:
+        """Return the number of times the user's played the track."""
+        self.log.msg(
+            "getting play count",
+            username=username, title=title, artist=artist
+        )
+        self.api_wait()
+        try:
+            return get(
+                'http://ws.audioscrobbler.com/2.0',
+                params={
+                    'method': 'track.getinfo', 'username': username,
+                    'track': title, 'artist': artist,
+                    'api_key': LASTFM_API_KEY, 'format': 'json'
+                }
+            ).json()['track']['playcount']
+        except Exception as e:
+            self.log.error(
+                "failed to get play count",
+                username=username, title=title, artist=artist,
+                error_type=type(e), error=e
+            )
+
     def add_track_rss_entry(
         self, feed: FeedGenerator, track: [dict], username: str,
         tz: str = 'America/New_York'
@@ -65,9 +90,11 @@ class LastFeeder:
         """
         entry = feed.add_entry()
         entry.title(
-            "{} - {}".format(
-                track['artist']['#text'],
-                track['name']
+            "{} - {} ({} plays)".format(
+                track['artist']['#text'], track['name'],
+                self.get_playcount(
+                    username, track['name'], track['artist']['#text']
+                )
             )
         )
         entry.guid(
