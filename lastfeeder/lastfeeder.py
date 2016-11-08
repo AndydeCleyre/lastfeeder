@@ -92,10 +92,9 @@ class LastFeeder:
             username, track['name'], track['artist']['#text']
         )
         if playcount:
-            if playcount > 1:
-                title += ' ({} plays)'.format(playcount)
-            else:
-                title += ' (1st play)'
+            title += ' ({} play{})'.format(
+                playcount, 's' if playcount > 1 else ''
+            )
         entry.title(title)
         entry.guid(
             '{}-{}--{}---{}'.format(
