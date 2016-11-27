@@ -3,7 +3,6 @@
 """Create RSS feeds of Last.fm users' recent tracks."""
 
 from time import time, sleep
-from contextlib import suppress
 
 import arrow
 from feedgen.feed import FeedGenerator
@@ -24,9 +23,16 @@ class LastFeeder:
     def api_wait(self, min_delay=.2):
         """Wait until it's been min_delay seconds since the last API call."""
         now = time()
-        with suppress(AttributeError):
+        try:
             time_since = now - self.last_api_call_time
+        except AttributeError:
+            pass
+        else:
             if time_since < min_delay:
+                self.log.msg(
+                    "rate limiting",
+                    time_since=time_since, min_delay=min_delay
+                )
                 sleep(min_delay - time_since)
         self.last_api_call_time = now
 
