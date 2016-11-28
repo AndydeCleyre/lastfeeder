@@ -10,7 +10,9 @@ services:
 
   monolith-without-configs:
     image: gliderlabs/alpine:3.4
-    command: ['sh']
+    ports:
+      - "80:80"
+    command: ['s6-svscan', '/etc/s6-services']
     restart: unless-stopped
 
   # monolith-only-configs:

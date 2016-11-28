@@ -7,3 +7,6 @@ services:
 before_install: touch lastfm_users.yml lastfm_credentials.yml web.yml
 install: pip install -r requirements.txt
 script: ansible-container build --services monolith-without-configs
+after_success:
+  - docker tag lastfeeder-monolith-without-configs andydecleyre/lastfeeder:without-configs
+  - docker push andydecleyre/lastfeeder:without-configs
