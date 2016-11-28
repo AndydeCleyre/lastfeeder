@@ -5,4 +5,4 @@ services:
 
 install: pip install -r requirements.txt
 
-script: ansible-container build --services monolith-without-configs
+script: ansible-container build --debug --services monolith-without-configs
