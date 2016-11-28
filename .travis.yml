@@ -6,8 +6,8 @@ services:
   - docker
 before_install: touch lastfm_users.yml lastfm_credentials.yml web.yml
 install: pip install -r requirements.txt
-script: ansible-container build --services monolith-without-configs
-after_success:
-  - docker login -u $DOCKER_USER -p $DOCKER_PASS
+script:
+  - ansible-container build --services monolith-without-configs
+  - docker login -u "$DOCKER_USER" -p "$DOCKER_PASS"
   - docker tag lastfeeder-monolith-without-configs andydecleyre/lastfeeder:without-configs
   - docker push andydecleyre/lastfeeder:without-configs
