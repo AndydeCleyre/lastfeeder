@@ -20,7 +20,7 @@ class LastFeeder:
         """Initialize a feed generator with a logger."""
         self.log = get_logger()
 
-    def api_wait(self, min_delay=.2):
+    def api_wait(self, min_delay: {int,float} = .2):
         """Wait until it's been min_delay seconds since the last API call."""
         now = time()
         try:
@@ -29,10 +29,7 @@ class LastFeeder:
             pass
         else:
             if time_since < min_delay:
-                self.log.msg(
-                    "rate limiting",
-                    time_since=time_since, min_delay=min_delay
-                )
+                self.log.msg("rate limiting", time_since=time_since, min_delay=min_delay)
                 sleep(min_delay - time_since)
         self.last_api_call_time = now
 
@@ -47,43 +44,37 @@ class LastFeeder:
         """
         self.log.msg("getting recent tracks", username=username)
         self.api_wait()
+        log = self.log
         try:
-            return get(
-                'http://ws.audioscrobbler.com/2.0',
-                params={
-                    'method': 'user.getrecenttracks', 'user': username,
-                    'api_key': LASTFM_API_KEY, 'format': 'json'
-                }
-            ).json()['recenttracks']['track']
+            r = get('http://ws.audioscrobbler.com/2.0', params={
+                'method': 'user.getrecenttracks', 'user': username,
+                'api_key': LASTFM_API_KEY, 'format': 'json'
+            })
+            log = log.bind(status_code=r.status_code, json=r.json())
+            return r.json()['recenttracks']['track']
         except Exception as e:
-            self.log.error(
-                "failed to get recent tracks",
-                username=username, error_type=type(e), error=e
-            )
+            log.error("failed to get recent tracks", username=username, error_type=type(e), error=e)
+            return []
 
     def get_playcount(self, username: str, title: str, artist: str) -> {int,None}:
         """Return the number of times the user's played the track."""
+        self.log.msg("getting playcount", username=username, title=title, artist=artist)
         self.api_wait()
+        log = self.log
         try:
-            return int(get(
-                'http://ws.audioscrobbler.com/2.0',
-                params={
-                    'method': 'track.getinfo', 'username': username,
-                    'track': title, 'artist': artist,
-                    'api_key': LASTFM_API_KEY, 'format': 'json'
-                }
-            ).json()['track']['userplaycount'])
+            r = get('http://ws.audioscrobbler.com/2.0', params={
+                'method': 'track.getinfo', 'username': username, 'track': title, 'artist': artist,
+                'api_key': LASTFM_API_KEY, 'format': 'json'
+            })
+            log = log.bind(status_code=r.status_code, json=r.json())
+            return int(r.json()['track']['userplaycount'])
         except Exception as e:
-            self.log.error(
+            log.error(
                 "failed to get play count",
-                username=username, title=title, artist=artist,
-                error_type=type(e), error=e
+                username=username, title=title, artist=artist, error=e, error_type=type(e)
             )
 
-    def add_track_rss_entry(
-        self, feed: FeedGenerator, track: [dict], username: str,
-        tz: str = 'America/New_York'
-    ):
+    def add_track_rss_entry(self, feed: FeedGenerator, track: [dict], username: str, tz: str = 'America/New_York'):
         """
         Add a new RSS entry for the track to the feed.
 
@@ -91,62 +82,39 @@ class LastFeeder:
         user.getRecentTracks(...)['recenttracks']['track'][i].
         """
         entry = feed.add_entry()
-        title = "{} - {}".format(
-            track['artist']['#text'], track['name']
-        )
-        playcount = self.get_playcount(
-            username, track['name'], track['artist']['#text']
-        )
+        title = "{} - {}".format(track['artist']['#text'], track['name'])
+        playcount = self.get_playcount(username, track['name'], track['artist']['#text'])
         if playcount:
-            title += ' ({} play{})'.format(
-                playcount, 's' if playcount > 1 else ''
-            )
+            title += ' ({} play{})'.format(playcount, 's' if playcount > 1 else '')
         entry.title(title)
-        entry.guid(
-            '{}-{}--{}---{}'.format(
-                username,
-                track['date']['uts'],
-                track['artist']['mbid'] or track['artist']['#text'],
-                track['name']
-            )
-        )
+        entry.guid('{}-{}--{}---{}'.format(
+            username,
+            track['date']['uts'],
+            track['artist']['mbid'] or track['artist']['#text'],
+            track['name']
+        ))
         entry.link(href=track['url'])
-        entry.published(
-            arrow.get(track['date']['uts']).to(tz).datetime
-        )
+        entry.published(arrow.get(track['date']['uts']).to(tz).datetime)
         if 'image' in track and len(track['image']) >= 1:
             url = track['image'][-1]['#text'].strip()
             if url:
                 r = head(url)
-                length = r.headers['Content-Length']
-                mime = r.headers['Content-Type']
-                entry.enclosure(url, length, mime)
+                entry.enclosure(url, r.headers['Content-Length'], r.headers['Content-Type'])
 
-    def create_recent_tracks_rss(
-        self, username: str, feed_dir: str = local.cwd,
-        url_prefix: str = 'localhost'
-    ):
+    def create_recent_tracks_rss(self, username: str, feed_dir: str = local.cwd, url_prefix: str = 'localhost'):
         """Write a new recent tracks RSS document to a file."""
-        self.log.msg("creating RSS feed", username=username)
-        self.create_rss(
-            username, self.get_recent_tracks(username), feed_dir, url_prefix
-        )
+        self.create_rss(username, self.get_recent_tracks(username), feed_dir, url_prefix)
 
-    def create_rss(
-        self, username: str, recent_tracks: [dict],
-        feed_dir: str = local.cwd, url_prefix: str = 'localhost'
-    ):
+    def create_rss(self, username: str, recent_tracks: [dict], feed_dir: str = local.cwd, url_prefix: str = 'localhost') -> str:
         """
-        Write a new RSS document to a file.
+        Write a new RSS document to a file and return the filepath.
 
         recent_tracks is the Last.fm API response to
         user.getRecentTracks(...)['recenttracks']['track']
         """
+        self.log.msg("creating RSS feed", username=username)
         feed = FeedGenerator()
-        feed.link(
-            href='{}/{}.rss'.format(url_prefix.rstrip('/'), username),
-            rel='self'
-        )
+        feed.link(href='{}/{}.rss'.format(url_prefix.rstrip('/'), username), rel='self')
         feed.title("{}'s Recent Tracks".format(username))
         feed.link(href='http://www.last.fm/user/{}'.format(username))
         feed.description("Because Last.fm has gone mad.")
@@ -161,10 +129,7 @@ class LastFeeder:
                 except Exception as e:
                     self.log.error(
                         "failed to add track to RSS feed",
-                        username=username,
-                        error_type=type(e),
-                        error=e,
-                        track=track
+                        username=username, error_type=type(e), error=e, track=track
                     )
         fp = local.path(feed_dir) / '{}.rss'.format(username)
         feed.rss_file(fp)
