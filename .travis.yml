@@ -4,5 +4,6 @@ python:
 sudo: required
 services:
   - docker
+before_install: touch lastfm_users.yml lastfm_credentials.yml web.yml
 install: pip install -r requirements.txt
 script: ansible-container --debug build --services monolith-without-configs
