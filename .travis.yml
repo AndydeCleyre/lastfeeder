@@ -1,8 +1,8 @@
+language: python
+python:
+  - "2.7"
 sudo: required
-
 services:
   - docker
-
 install: pip install -r requirements.txt
-
-script: ansible-container build --debug --services monolith-without-configs
+script: ansible-container --debug build --services monolith-without-configs
