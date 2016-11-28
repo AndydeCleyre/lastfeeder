@@ -1,10 +1,6 @@
 ---
-- hosts: monolith
+- hosts: monolith:monolith-without-configs
   gather_facts: false
-  vars_files:
-    - /ansible-container/lastfm_users.yml
-    - /ansible-container/lastfm_credentials.yml
-    - /ansible-container/web.yml
   vars:
     app_name: lastfeeder
     app_dir: /home/{{ app_name }}
@@ -19,22 +15,19 @@
     - name: create a user to run the script
       command: adduser -D {{ app_name }} creates=/home/{{ app_name }}
 
+    - name: clean up the code folder
+      local_action: command git clean -fx ../{{ app_name }}
+
     - name: install the code
       copy: src=../{{ app_name }}/ dest={{ app_dir }} owner={{ app_name }}
 
-    - name: make script executable
+    - name: make the script executable
       file: path={{ app_dir }}/lastfeeder-cli.py mode=ugo+x
 
-    - name: install super secret credentials
-      template: src=vault.py.j2 dest={{ app_dir }}/vault.py owner={{ app_name }}
-
-    - name: install last.fm user list
-      template: src=users.yml.j2 dest={{ app_dir }}/users.yml owner={{ app_name }}
-
-    - name: update package list and upgrade packages
+    - name: upgrade packages
       apk: update_cache=yes upgrade=yes
 
-    - name: get python and python package build & runtime dependencies
+    - name: get build & runtime dependencies from system repos
       apk: name={{ item }}
       with_items:
         - python3
@@ -45,10 +38,10 @@
         - musl-dev
         - python3-dev
 
-    - name: get code's python package dependencies
+    - name: get pypi dependencies
       pip: executable=pip3 requirements={{ app_dir }}/requirements.txt
 
-    - name: purge python package build dependencies
+    - name: purge build dependencies
       apk: name={{ item }} state=absent
       with_items:
         - gcc
@@ -60,28 +53,18 @@
   # web server installation
 
     - name: get nginx
-      # probably switch to hiawatha once it's in alpine stable
       apk: name=nginx
 
     - name: make nginx pid folder
       file: path=/run/nginx state=directory
 
-    - name: install nginx configuration
-      template: src=nginx.conf.j2 dest=/etc/nginx/nginx.conf owner=nginx
-
-  # process supervision
+  # process supervision installation
 
     - name: get s6 process supervision tools
       apk: name=s6
 
     - name: make supervised service folders
       file: path=/etc/s6-services/{{ item }} state=directory
-      with_items:
-        - lastfeeder
-        - nginx
-
-    - name: install supervised service configurations
-      template: src={{ item }}.service/run.j2 dest=/etc/s6-services/{{ item }}/run mode=ugo+x
       with_items:
         - lastfeeder
         - nginx
@@ -96,3 +79,31 @@
 
     - name: purge timezone data
       apk: name=tzdata state=absent
+
+# - hosts: monolith:monolith-only-configs
+- hosts: monolith
+  gather_facts: false
+  vars_files:
+    - /ansible-container/lastfm_users.yml
+    - /ansible-container/lastfm_credentials.yml
+    - /ansible-container/web.yml
+  vars:
+    app_name: lastfeeder
+    app_dir: /home/{{ app_name }}
+
+  tasks:
+
+    - name: install super secret credentials
+      template: src=vault.py.j2 dest={{ app_dir }}/vault.py owner={{ app_name }}
+
+    - name: install last.fm user list
+      template: src=users.yml.j2 dest={{ app_dir }}/users.yml owner={{ app_name }}
+
+    - name: install nginx configuration
+      template: src=nginx.conf.j2 dest=/etc/nginx/nginx.conf owner=nginx
+
+    - name: install supervised service configurations
+      template: src={{ item }}.service/run.j2 dest=/etc/s6-services/{{ item }}/run mode=ugo+x
+      with_items:
+        - lastfeeder
+        - nginx

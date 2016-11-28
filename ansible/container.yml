@@ -1,5 +1,6 @@
 version: "1"
 services:
+
   monolith:
     image: gliderlabs/alpine:3.4
     ports:
@@ -7,3 +8,16 @@ services:
     command: ['s6-svscan', '/etc/s6-services']
     restart: unless-stopped
 
+  monolith-without-configs:
+    image: gliderlabs/alpine:3.4
+    ports:
+      - "80:80"
+    command: ['s6-svscan', '/etc/s6-services']
+    restart: unless-stopped
+
+  # monolith-only-configs:
+  #   image: monolith-without-configs_from-docker-hub_built-with-drone-io
+  #   ports:
+  #     - "80:80"
+  #   command: ['s6-svscan', '/etc/s6-services']
+  #   restart: unless-stopped
