@@ -1,0 +1,8 @@
+sudo: required
+
+services:
+  - docker
+
+install: pip install -r requirements.txt
+
+script: ansible-container build --services monolith-without-configs
