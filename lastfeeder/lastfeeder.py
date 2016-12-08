@@ -12,6 +12,8 @@ from structlog import get_logger
 
 from vault import LASTFM_API_KEY
 
+TIMEOUT = 3
+
 
 class LastFeeder:
     """RSS feed generator for Last.fm users."""
@@ -46,7 +48,7 @@ class LastFeeder:
         self.api_wait()
         log = self.log
         try:
-            r = get('http://ws.audioscrobbler.com/2.0', params={
+            r = get('http://ws.audioscrobbler.com/2.0', timeout=TIMEOUT, params={
                 'method': 'user.getrecenttracks', 'user': username,
                 'api_key': LASTFM_API_KEY, 'format': 'json'
             })
@@ -62,7 +64,7 @@ class LastFeeder:
         self.api_wait()
         log = self.log
         try:
-            r = get('http://ws.audioscrobbler.com/2.0', params={
+            r = get('http://ws.audioscrobbler.com/2.0', timeout=TIMEOUT, params={
                 'method': 'track.getinfo', 'username': username, 'track': title, 'artist': artist,
                 'api_key': LASTFM_API_KEY, 'format': 'json'
             })
@@ -98,7 +100,7 @@ class LastFeeder:
         if 'image' in track and len(track['image']) >= 1:
             url = track['image'][-1]['#text'].strip()
             if url:
-                r = head(url)
+                r = head(url, timeout=TIMEOUT)
                 entry.enclosure(url, r.headers['Content-Length'], r.headers['Content-Type'])
 
     def create_recent_tracks_rss(self, username: str, feed_dir: str = local.cwd, url_prefix: str = 'localhost'):
