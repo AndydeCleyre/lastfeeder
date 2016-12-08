@@ -77,6 +77,7 @@ class LastFeeder:
             )
 
     def add_track_rss_entry(self, feed: FeedGenerator, track: [dict], username: str, tz: str = 'America/New_York'):
+        # maybe break out mkguid(track), and then use that to prevent rewriting with no changes . . .
         """
         Add a new RSS entry for the track to the feed.
 

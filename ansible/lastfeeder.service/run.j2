@@ -1,2 +1,2 @@
 #!/bin/execlineb
-s6-sleep 300 s6-setuidgid {{ app_name }} {{ app_dir }}/lastfeeder-cli.py -U {{ app_dir }}/users.yml -p {{ web_protocol }}://{{ web_domain }} -o {{ app_dir }}/feeds
+s6-sleep 150 s6-setuidgid {{ app_name }} {{ app_dir }}/lastfeeder-cli.py -U {{ app_dir }}/users.yml -p {{ web_protocol }}://{{ web_domain }} -o {{ app_dir }}/feeds
