@@ -61,7 +61,10 @@
   # process supervision installation
 
     - name: get s6 process supervision tools
-      apk: name=s6
+      apk: name={{ item }}
+      with_items:
+        - s6
+        - s6-portable-utils
 
     - name: make supervised service folders
       file: path=/etc/s6-services/{{ item }} state=directory

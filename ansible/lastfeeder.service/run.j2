@@ -1,4 +1,2 @@
-#!/bin/sh
-s6-setuidgid {{ app_name }} {{ app_dir }}/lastfeeder-cli.py -U {{ app_dir }}/users.yml -p {{ web_protocol }}://{{ web_domain }} -o {{ app_dir }}/feeds
-sleep 5m
-# probably switch to execline when I better understand that
+#!/bin/execlineb
+s6-sleep 300 s6-setuidgid {{ app_name }} {{ app_dir }}/lastfeeder-cli.py -U {{ app_dir }}/users.yml -p {{ web_protocol }}://{{ web_domain }} -o {{ app_dir }}/feeds
