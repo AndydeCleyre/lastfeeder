@@ -87,9 +87,9 @@
 - hosts: monolith
   gather_facts: false
   vars_files:
-    - /ansible-container/lastfm_users.yml
-    - /ansible-container/lastfm_credentials.yml
-    - /ansible-container/web.yml
+    - vars/lastfm_users.yml
+    - vars/lastfm_credentials.yml
+    - vars/web.yml
   vars:
     app_name: lastfeeder
     app_dir: /home/{{ app_name }}
@@ -97,16 +97,16 @@
   tasks:
 
     - name: install super secret credentials
-      template: src=vault.py.j2 dest={{ app_dir }}/vault.py owner={{ app_name }}
+      template: src=templates/vault.py.j2 dest={{ app_dir }}/vault.py owner={{ app_name }}
 
     - name: install last.fm user list
-      template: src=users.yml.j2 dest={{ app_dir }}/users.yml owner={{ app_name }}
+      template: src=templates/users.yml.j2 dest={{ app_dir }}/users.yml owner={{ app_name }}
 
     - name: install nginx configuration
-      template: src=nginx.conf.j2 dest=/etc/nginx/nginx.conf owner=nginx
+      template: src=templates/nginx.conf.j2 dest=/etc/nginx/nginx.conf owner=nginx
 
     - name: install supervised service configurations
-      template: src={{ item }}.service/run.j2 dest=/etc/s6-services/{{ item }}/run mode=ugo+x
+      template: src=services/{{ item }}/run.j2 dest=/etc/s6-services/{{ item }}/run mode=ugo+x
       with_items:
         - lastfeeder
         - nginx
