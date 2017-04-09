@@ -16,7 +16,7 @@
       command: adduser -D {{ app_name }} creates=/home/{{ app_name }}
 
     - name: clean up the code folder
-      local_action: command git clean -fx ../{{ app_name }}
+      local_action: command git clean -fdx ../{{ app_name }}
 
     - name: install the code
       copy: src=../{{ app_name }}/ dest={{ app_dir }} owner={{ app_name }}
