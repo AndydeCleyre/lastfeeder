@@ -1,10 +1,18 @@
-arrow==0.10.0
-feedgen==0.5.1
+babel==2.7.0              # via delorean
+certifi==2019.6.16        # via requests
+chardet==3.0.4            # via requests
+delorean==1.0.0
+feedgen==0.7.0
 feedparser==5.2.1
-lxml==3.7.3               # via feedgen
-plumbum==1.6.3
-python-dateutil==2.6.0    # via arrow, feedgen
-pyyaml==3.12
-requests==2.13.0
-six==1.10.0               # via python-dateutil, structlog
-structlog==16.1.0
+humanize==0.5.1           # via delorean
+idna==2.8                 # via requests
+lxml==4.3.4               # via feedgen
+plumbum==1.6.7
+python-dateutil==2.8.0    # via delorean, feedgen
+pytz==2019.1              # via babel, delorean, tzlocal
+pyyaml==5.1.1
+requests==2.22.0
+six==1.12.0               # via python-dateutil, structlog
+structlog==19.1.0
+tzlocal==1.5.1            # via delorean
+urllib3==1.25.3           # via requests
