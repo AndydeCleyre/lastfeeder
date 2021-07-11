@@ -262,5 +262,5 @@ class LastFeeder:
                         error=e,
                         track=track,
                     )
-        feed.rss_file(fp)
+        feed.rss_file(fp, pretty=True)
         return fp
