@@ -26,10 +26,6 @@ regex==2021.7.6
     # via black
 requests==2.25.1
     # via flit
-ruamel.yaml==0.17.10
-    # via yamlpath
-ruamel.yaml.clib==0.2.6
-    # via ruamel.yaml
 toml==0.10.2
     # via
     #   black
@@ -37,7 +33,3 @@ toml==0.10.2
     #   flit-core
 urllib3==1.26.6
     # via requests
-wheezy.template==3.1.0
-    # via -r dev-requirements.in
-yamlpath==3.6.1
-    # via -r dev-requirements.in
