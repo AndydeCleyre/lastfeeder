@@ -1,7 +1,7 @@
 name: Update feeds
 on:
   schedule:
-    - cron: '*/21 * * * *'
+    - cron: '*/31 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
