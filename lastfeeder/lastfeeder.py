@@ -1,22 +1,21 @@
 #!/usr/bin/env python3
 """Create RSS feeds of Last.fm users' recent tracks."""
 
+from contextlib import suppress
 from time import sleep, time
 from xml.etree import ElementTree
 
 import delorean
-
 from feedgen.feed import FeedGenerator
 from plumbum import local
 from requests import get, head
 from structlog import get_logger
 
-from vault import LASTFM_API_KEY
-
 TIMEOUT = 3
 
 
-def mkguid(username, track):
+def mkguid(username, track) -> str:
+    """A poor man's scrobble-event unique id."""
     return (
         f"{username}-"
         f"{track['date']['uts']}--"
@@ -27,12 +26,13 @@ def mkguid(username, track):
 
 class LastFeeder:
     """RSS feed generator for Last.fm users."""
-    def __init__(self, lfm_api_key=LASTFM_API_KEY):
+
+    def __init__(self, lfm_api_key=None):
         """Initialize a feed generator with a logger."""
         self.log = get_logger()
-        self.lfm_api_key = lfm_api_key
+        self.lfm_api_key = lfm_api_key or local.env['LASTFM_API_KEY']
 
-    def api_wait(self, min_delay=.2):
+    def api_wait(self, min_delay=0.2):
         """Wait until it's been min_delay seconds since the last API call."""
         # how async friendly is this?
         now = time()
@@ -42,22 +42,20 @@ class LastFeeder:
             pass
         else:
             while time_since < min_delay:
-                self.log.msg(
-                    "rate limiting", time_since=time_since, min_delay=min_delay
-                )
+                self.log.msg("rate limiting", time_since=time_since, min_delay=min_delay)
                 wait = min_delay - time_since
                 sleep(wait)
                 now += wait
                 time_since = now - self.last_api_call_time
         self.last_api_call_time = now
 
-    def get_recent_tracks(self, username) -> [dict]:
+    def get_recent_tracks(self, username) -> list[dict]:
         """
         Fetch and return a list of the user's recently listened tracks.
 
         Last.fm response to user.getRecentTracks(...)['recenttracks']['track']
 
-        The list includes the currently playing track with a nowplaying="true"
+        The list excludes the currently playing track with a nowplaying="true"
         attribute if the user is currently listening.
         """
         self.log.msg("getting recent tracks", username=username)
@@ -71,26 +69,30 @@ class LastFeeder:
                     'method': 'user.getrecenttracks',
                     'user': username,
                     'api_key': self.lfm_api_key,
-                    'format': 'json'
-                }
+                    'format': 'json',
+                },
             )
             log = log.bind(status_code=r.status_code, json=r.json())
-            return r.json()['recenttracks']['track']
+            tracks = r.json()['recenttracks']['track']
+            if (
+                '@attr' in tracks[0]
+                and 'nowplaying' in tracks[0]['@attr']
+                and tracks[0]['@attr']['nowplaying'] == 'true'
+            ):
+                tracks = tracks[1:]
+            return tracks
         except Exception as e:
             log.error(
                 "failed to get recent tracks",
                 username=username,
                 error_type=type(e),
-                error=e
+                error=e,
             )
             return []
 
-    def get_playcount(self, username: str, title: str,
-                      artist: str) -> {int, None}:
+    def get_playcount(self, username: str, title: str, artist: str) -> {int, None}:
         """Return the number of times the user's played the track."""
-        self.log.msg(
-            "getting playcount", username=username, title=title, artist=artist
-        )
+        self.log.msg("getting playcount", username=username, title=title, artist=artist)
         self.api_wait()
         log = self.log
         try:
@@ -103,8 +105,8 @@ class LastFeeder:
                     'track': title,
                     'artist': artist,
                     'api_key': self.lfm_api_key,
-                    'format': 'json'
-                }
+                    'format': 'json',
+                },
             )
             log = log.bind(status_code=r.status_code, json=r.json())
             return int(r.json()['track']['userplaycount'])
@@ -115,15 +117,15 @@ class LastFeeder:
                 title=title,
                 artist=artist,
                 error=e,
-                error_type=type(e)
+                error_type=type(e),
             )
 
     def add_track_rss_entry(
         self,
         feed: FeedGenerator,
-        track: [dict],
+        track: dict,
         username: str,
-        tz: str = 'America/New_York'
+        tz: str = 'America/New_York',
     ):
         """
         Add a new RSS entry for the track to the feed.
@@ -133,17 +135,13 @@ class LastFeeder:
         """
         entry = feed.add_entry()
         title = f"{track['artist']['#text']} - {track['name']}"
-        playcount = self.get_playcount(
-            username, track['name'], track['artist']['#text']
-        )
+        playcount = self.get_playcount(username, track['name'], track['artist']['#text'])
         if playcount:
             title += f" ({playcount} play{'s' if playcount > 1 else ''})"
         entry.title(title)
         entry.guid(mkguid(username, track))
         entry.link(href=track['url'])
-        entry.published(
-            delorean.epoch(int(track['date']['uts'])).shift(tz).datetime
-        )
+        entry.published(delorean.epoch(int(track['date']['uts'])).shift(tz).datetime)
         if 'image' in track and len(track['image']) >= 1:
             url = track['image'][-1]['#text'].strip()
             if url:
@@ -153,59 +151,58 @@ class LastFeeder:
                 )
 
     def create_recent_tracks_rss(
-        self,
-        username: str,
-        feed_dir: str = local.cwd,
-        url_prefix: str = 'localhost'
+        self, username: str, feed_dir: str = local.cwd, url_domain: str = 'localhost'
     ):
         """Write a new recent tracks RSS document to a file."""
-        self.create_rss(
-            username, self.get_recent_tracks(username), feed_dir, url_prefix
-        )
+        self.create_rss(username, self.get_recent_tracks(username), feed_dir, url_domain)
 
     def create_rss(
         self,
         username: str,
-        recent_tracks: [dict],
+        recent_tracks: list[dict],
         feed_dir: str = local.cwd,
-        url_prefix: str = 'localhost'
+        url_domain: str = 'localhost',
     ) -> str:
 
-        # recent_tracks [{
-        # '@attr': {'nowplaying': 'true', ... },  # may be present or not (@attr, nowplaying)
-        # 'url': str,
-        # 'artist': {'#text': str, ... },
-        # 'artist': {'mbid': str, ... },
-        # 'date': {'uts': str, ... },
-        # 'name': str,
-        # 'image': [{'#text': str, ... }],  # may be present or not, list may be empty
-        # },{...},{...},...]
         """
         Write a new RSS document to a file and return the filepath.
 
         recent_tracks is the Last.fm API response to
         user.getRecentTracks(...)['recenttracks']['track']
+
+        recent_tracks [{
+        '@attr': {'nowplaying': 'true', ... },  # (nowplaying entries may have no timestamp; we ignore them)
+        'url': str,
+        'artist': {'#text': str, ... },
+        'artist': {'mbid': str, ... },
+        'date': {'uts': str, ... },
+        'name': str,
+        'image': [{'#text': str, ... }],  # may be present or not, list may be empty
+        },{...},{...},...]
         """
         self.log.msg("creating RSS feed", username=username)
         fp = local.path(feed_dir) / f"{username}.rss"
+        fp.up().mkdir()
         if fp.is_file():
             old_feed = ElementTree.parse(str(fp))
-            if [*old_feed.iter('guid')
-               ][-1].text == mkguid(username, recent_tracks[0]):
-                self.log.msg(
-                    "RSS feed looks up to date already; skipping",
-                    username=username
-                )
-                return fp
+            with suppress(IndexError):
+                if [*old_feed.iter('guid')][-1].text == mkguid(
+                    username, recent_tracks[0]
+                ):
+                    self.log.msg(
+                        "RSS feed looks up to date already; skipping", username=username
+                    )
+                    return fp
         feed = FeedGenerator()
-        feed.link(href=f"{url_prefix.rstrip('/')}/{username}.rss", rel='self')
+        feed.link(href=f"{url_domain.rstrip('/')}/{username}.rss", rel='self')
         feed.title(f"{username}'s Recent Tracks")
         feed.link(href=f"http://www.last.fm/user/{username}")
         feed.description("Because Last.fm has gone mad.")
         for track in recent_tracks:
             if not (
-                '@attr' in track and 'nowplaying' in track['@attr'] and
-                track['@attr']['nowplaying'] == 'true'
+                '@attr' in track
+                and 'nowplaying' in track['@attr']
+                and track['@attr']['nowplaying'] == 'true'
             ):
                 try:
                     self.add_track_rss_entry(feed, track, username)
@@ -215,7 +212,7 @@ class LastFeeder:
                         username=username,
                         error_type=type(e),
                         error=e,
-                        track=track
+                        track=track,
                     )
         feed.rss_file(fp)
         return fp

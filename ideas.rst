@@ -4,3 +4,4 @@
 - implement the tweeting
 - stop rewriting unnecessarily
 - merge feeds
+- bulk api calls possible?

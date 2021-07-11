@@ -1,4 +1,0 @@
-"""Keys and credentials, not to be checked in to SCM."""
-
-LASTFM_API_KEY = 'api_key_goes_here'
-LASTFM_SHARED_SECRET = 'shared_secret_goes_here'

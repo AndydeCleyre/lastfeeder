@@ -1,0 +1,31 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "lastfeeder"
+author = "Andy Kluger"
+home-page = "https://github.com/andydecleyre/lastfeeder"
+classifiers = []
+license = "WTFPL"
+description-file = "README.rst"
+requires-python = ">=3.8"
+keywords = "lastfm rss feed cli"
+requires = ["delorean", "feedgen", "plumbum", "requests", "structlog"]
+
+[tool.flit.metadata.requires-extra]
+dev = ["black", "flit", "isort", "wheezy.template", "yamlpath"]
+
+[tool.flit.scripts]
+lastfeeder = "lastfeeder.cli:LastFeederCLI"
+
+[tool.black]
+line-length = 89
+skip-string-normalization = true
+
+[tool.isort]
+balanced_wrapping = true
+combine_as_imports = true
+line_length = 89
+multi_line_output = 6
+use_parentheses = true
