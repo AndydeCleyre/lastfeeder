@@ -1,6 +1,6 @@
 delorean
 feedgen
+httpx
 plumbum
-requests
 structlog
-
+wrapt

@@ -1,22 +1,68 @@
 #!/usr/bin/env python3
 """Create RSS feeds of Last.fm users' recent tracks."""
 
+import functools
 from contextlib import suppress
 from time import sleep, time
-from typing import Dict, List, Optional, Union
+from typing import Any, Callable, Dict, Iterable, List, Mapping, Optional, Tuple, Union
 from xml.etree import ElementTree
 
 import delorean
 from feedgen.feed import FeedGenerator
+from httpx import HTTPError, get, head
 from plumbum import local
-from requests import get, head
 from structlog import get_logger
+from wrapt import decorator
 
-TIMEOUT = 3
+WraptFunc = Callable[[Callable, Any, Iterable, Mapping], Callable]
+Track = Dict[str, Union[Dict[str, str], List[Dict[str, str]], str]]
+
+
+def retry(
+    original: Callable = None,  # needed to make args altogether optional
+    exceptions: Union[Exception, Tuple[Exception]] = HTTPError,
+    attempts: int = 6,
+    seconds: float = 3
+) -> WraptFunc:
+
+    if not original:  # needed to make args altogether optional
+        return functools.partial(
+            retry, exceptions=exceptions, attempts=attempts, seconds=seconds
+        )
+
+    @decorator
+    def wrapper(original, instance, args, kwargs):
+        has_logger = (
+            hasattr(instance, 'log')
+            and hasattr(instance.log, 'bind')
+            and hasattr(instance.log, 'msg')
+        )
+        last_error = None
+        if has_logger:
+            log = instance.log.bind(method=original.__name__)
+        for attempt in range(attempts):
+            try:
+                resp = original(*args, **kwargs)
+            except exceptions as e:
+                last_error = e
+                if has_logger:
+                    log = log.bind(exc_info=e)
+                    # exc_info will get overwritten by most recent attempt
+                sleep(seconds)
+            else:
+                last_error = None
+                break
+        if has_logger and attempt > 0:
+            log.msg("called retry-able", retries=attempt, success=not last_error)
+        if last_error:
+            raise last_error
+        return resp
+    # return wrapper
+    return wrapper(original)  # needed to make args altogether optional
 
 
 def mkguid(
-    username: str, track: Dict[str, Union[Dict[str, str], List[Dict[str, str]], str]]
+    username: str, track: Track
 ) -> str:
     """A poor man's scrobble-event unique id."""
     return (
@@ -52,9 +98,10 @@ class LastFeeder:
                 time_since = now - self.last_api_call_time
         self.last_api_call_time = now
 
+    @retry
     def get_recent_tracks(
         self, username: str
-    ) -> List[Dict[str, Union[Dict[str, str], List[Dict[str, str]], str]]]:
+    ) -> List[Track]:
         """
         Fetch and return a list of the user's recently listened tracks.
 
@@ -69,7 +116,6 @@ class LastFeeder:
         try:
             r = get(
                 'http://ws.audioscrobbler.com/2.0',
-                timeout=TIMEOUT,
                 params={
                     'method': 'user.getrecenttracks',
                     'user': username,
@@ -95,6 +141,7 @@ class LastFeeder:
             )
             return []
 
+    @retry
     def get_playcount(self, username: str, title: str, artist: str) -> {int, None}:
         """Return the number of times the user's played the track."""
         self.log.msg("getting playcount", username=username, title=title, artist=artist)
@@ -103,7 +150,6 @@ class LastFeeder:
         try:
             r = get(
                 'http://ws.audioscrobbler.com/2.0',
-                timeout=TIMEOUT,
                 params={
                     'method': 'track.getinfo',
                     'username': username,
@@ -150,7 +196,7 @@ class LastFeeder:
         if 'image' in track and len(track['image']) >= 1:
             url = track['image'][-1]['#text'].strip()
             if url:
-                r = head(url, timeout=TIMEOUT)
+                r = head(url)
                 entry.enclosure(
                     url, r.headers['Content-Length'], r.headers['Content-Type']
                 )
@@ -164,7 +210,7 @@ class LastFeeder:
     def create_rss(
         self,
         username: str,
-        recent_tracks: List[Dict[str, Union[Dict[str, str], List[Dict[str, str]], str]]],
+        recent_tracks: List[Track],
         feed_dir: str = local.cwd,
         url_domain: str = 'localhost',
     ) -> str:

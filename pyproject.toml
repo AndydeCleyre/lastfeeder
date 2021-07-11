@@ -11,10 +11,10 @@ license = "WTFPL"
 description-file = "README.rst"
 requires-python = ">=3.8"
 keywords = "lastfm rss feed cli"
-requires = ["delorean", "feedgen", "plumbum", "requests", "structlog"]
+requires = ["delorean", "feedgen", "httpx", "plumbum", "structlog", "wrapt"]
 
 [tool.flit.metadata.requires-extra]
-dev = ["black", "flit", "isort", "wheezy.template", "yamlpath"]
+dev = ["black", "flit", "isort"]
 
 [tool.flit.scripts]
 lastfeeder = "lastfeeder.cli:LastFeederCLI"
