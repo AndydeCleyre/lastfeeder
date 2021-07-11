@@ -199,7 +199,7 @@ class LastFeeder:
                     )
                     return fp
         feed = FeedGenerator()
-        feed.link(href=f"{url_domain.rstrip('/')}/{username}.rss", rel='self')
+        feed.link(href=f"https://{url_domain.rstrip('/')}/{username}.rss", rel='self')
         feed.title(f"{username}'s Recent Tracks")
         feed.link(href=f"http://www.last.fm/user/{username}")
         feed.description("Because Last.fm has gone mad.")
