@@ -22,7 +22,7 @@ def retry(
     original: Callable = None,  # needed to make args altogether optional
     exceptions: Union[Exception, Tuple[Exception]] = HTTPError,
     attempts: int = 6,
-    seconds: float = 3
+    seconds: float = 3,
 ) -> WraptFunc:
 
     if not original:  # needed to make args altogether optional
@@ -57,13 +57,12 @@ def retry(
         if last_error:
             raise last_error
         return resp
+
     # return wrapper
     return wrapper(original)  # needed to make args altogether optional
 
 
-def mkguid(
-    username: str, track: Track
-) -> str:
+def mkguid(username: str, track: Track) -> str:
     """A poor man's scrobble-event unique id."""
     return (
         f"{username}-"
@@ -99,9 +98,7 @@ class LastFeeder:
         self.last_api_call_time = now
 
     @retry
-    def get_recent_tracks(
-        self, username: str
-    ) -> List[Track]:
+    def get_recent_tracks(self, username: str) -> List[Track]:
         """
         Fetch and return a list of the user's recently listened tracks.
 
