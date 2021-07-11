@@ -3,6 +3,7 @@
 
 from contextlib import suppress
 from time import sleep, time
+from typing import Dict, List, Optional, Union
 from xml.etree import ElementTree
 
 import delorean
@@ -14,7 +15,9 @@ from structlog import get_logger
 TIMEOUT = 3
 
 
-def mkguid(username, track) -> str:
+def mkguid(
+    username: str, track: Dict[str, Union[Dict[str, str], List[Dict[str, str]], str]]
+) -> str:
     """A poor man's scrobble-event unique id."""
     return (
         f"{username}-"
@@ -27,12 +30,12 @@ def mkguid(username, track) -> str:
 class LastFeeder:
     """RSS feed generator for Last.fm users."""
 
-    def __init__(self, lfm_api_key=None):
+    def __init__(self, lfm_api_key: Optional[str] = None):
         """Initialize a feed generator with a logger."""
         self.log = get_logger()
         self.lfm_api_key = lfm_api_key or local.env['LASTFM_API_KEY']
 
-    def api_wait(self, min_delay=0.2):
+    def api_wait(self, min_delay: float = 0.2):
         """Wait until it's been min_delay seconds since the last API call."""
         # how async friendly is this?
         now = time()
@@ -49,7 +52,9 @@ class LastFeeder:
                 time_since = now - self.last_api_call_time
         self.last_api_call_time = now
 
-    def get_recent_tracks(self, username) -> list[dict]:
+    def get_recent_tracks(
+        self, username: str
+    ) -> List[Dict[str, Union[Dict[str, str], List[Dict[str, str]], str]]]:
         """
         Fetch and return a list of the user's recently listened tracks.
 
@@ -159,7 +164,7 @@ class LastFeeder:
     def create_rss(
         self,
         username: str,
-        recent_tracks: list[dict],
+        recent_tracks: List[Dict[str, Union[Dict[str, str], List[Dict[str, str]], str]]],
         feed_dir: str = local.cwd,
         url_domain: str = 'localhost',
     ) -> str:
