@@ -24,4 +24,4 @@ pip install -U wheel
 pip install .
 
 sops exec-env "sops/lastfm.${deployment}.yml" \
-"lastfeeder -o docs/feeds -U users.${deployment}.txt -d andydecleyre.github.io/lastfeeder"
+"lastfeeder -o docs/feeds -U users.${deployment}.txt -d andydecleyre.github.io/lastfeeder/feeds"
