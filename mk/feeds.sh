@@ -20,6 +20,7 @@ fi
 # shellcheck disable=SC1091
 . ./venv/bin/activate
 
+pip install -U wheel
 pip install .
 
 sops exec-env "sops/lastfm.${deployment}.yml" \
