@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jul 2021 10:42:51 +0000</lastBuildDate>
-    <item>
-      <title>Donny Hathaway - A Song For You (1 play)</title>
-      <link>https://www.last.fm/music/Donny+Hathaway/_/A+Song+For+You</link>
-      <guid isPermaLink="false">manosg--1626015177--3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9---A Song For You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a69f5f860dd55e7041ca1ecbe24ad996.jpg" length="18945" type="image/jpeg"/>
-      <pubDate>Sun, 11 Jul 2021 10:52:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Donny Hathaway - Little Girl (1 play)</title>
-      <link>https://www.last.fm/music/Donny+Hathaway/_/Little+Girl</link>
-      <guid isPermaLink="false">manosg--1626015503--3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9---Little Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60f5e2f36ebcc6ca0edc09200c849bde.jpg" length="35517" type="image/jpeg"/>
-      <pubDate>Sun, 11 Jul 2021 10:58:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jul 2021 10:54:59 +0000</lastBuildDate>
     <item>
       <title>Donny Hathaway - He Ain't Heavy, He's My Brother (1 play)</title>
       <link>https://www.last.fm/music/Donny+Hathaway/_/He+Ain%27t+Heavy,+He%27s+My+Brother</link>
@@ -354,6 +340,19 @@
       <guid isPermaLink="false">manosg--1626172121--8eb2b29d-ac81-4845-b802-e4746891313b---Slow Colours of Shade</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b68979522bde78cb5d69a9ed98d25272.jpg" length="38538" type="image/jpeg"/>
       <pubDate>Tue, 13 Jul 2021 06:28:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Krahnholm - Mistress of the Stars (1 play)</title>
+      <link>https://www.last.fm/music/Krahnholm/_/Mistress+of+the+Stars</link>
+      <guid isPermaLink="false">manosg--1626173166--Krahnholm---Mistress of the Stars</guid>
+      <pubDate>Tue, 13 Jul 2021 06:46:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Night Flight Orchestra - Barcelona (8 plays)</title>
+      <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/Barcelona</link>
+      <guid isPermaLink="false">manosg--1626173328--0aa7e8fd-ba08-4a2d-93fc-91baf635072d---Barcelona</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9542a4927a7d99a4cd6273d48262c486.jpg" length="21109" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jul 2021 06:48:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
