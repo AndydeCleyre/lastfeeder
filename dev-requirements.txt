@@ -4,7 +4,7 @@ black==21.6b0
     # via -r dev-requirements.in
 certifi==2021.5.30
     # via requests
-chardet==4.0.0
+charset-normalizer==2.0.1
     # via requests
 click==8.0.1
     # via black
@@ -14,7 +14,7 @@ flit==3.2.0
     # via -r dev-requirements.in
 flit-core==3.2.0
     # via flit
-idna==2.10
+idna==3.2
     # via requests
 isort==5.9.2
     # via -r dev-requirements.in
@@ -24,7 +24,7 @@ pathspec==0.8.1
     # via black
 regex==2021.7.6
     # via black
-requests==2.25.1
+requests==2.26.0
     # via flit
 toml==0.10.2
     # via
