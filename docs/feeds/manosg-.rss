@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 18:48:18 +0000</lastBuildDate>
-    <item>
-      <title>Leo Sayer - How Much Love (1 play)</title>
-      <link>https://www.last.fm/music/Leo+Sayer/_/How+Much+Love</link>
-      <guid isPermaLink="false">manosg--1626256863--74df4e2f-fe75-4b4a-87c5-3f1b4bc95aa2---How Much Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22d33512a7024681c6e80bd87dc5916b.jpg" length="21609" type="image/jpeg"/>
-      <pubDate>Wed, 14 Jul 2021 06:01:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Leo Sayer - I Think We Fell In Love Too Fast (1 play)</title>
-      <link>https://www.last.fm/music/Leo+Sayer/_/I+Think+We+Fell+In+Love+Too+Fast</link>
-      <guid isPermaLink="false">manosg--1626257082--74df4e2f-fe75-4b4a-87c5-3f1b4bc95aa2---I Think We Fell In Love Too Fast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e565f7c59d46a9893f79538837625a55.png" length="163969" type="image/png"/>
-      <pubDate>Wed, 14 Jul 2021 06:04:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jul 2021 07:52:28 +0000</lastBuildDate>
     <item>
       <title>Leo Sayer - Endless Flight (1 play)</title>
       <link>https://www.last.fm/music/Leo+Sayer/_/Endless+Flight</link>
@@ -335,6 +321,19 @@
       <link>https://www.last.fm/music/Iron+Maiden/_/The+Writing+On+The+Wall</link>
       <guid isPermaLink="false">manosg--1626374197--Iron Maiden---The Writing On The Wall</guid>
       <pubDate>Thu, 15 Jul 2021 14:36:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yngwie Malmsteen - Having fun... (1 play)</title>
+      <link>https://www.last.fm/music/Yngwie+Malmsteen/_/Having+fun...</link>
+      <guid isPermaLink="false">manosg--1626421220--Yngwie Malmsteen---Having fun...</guid>
+      <pubDate>Fri, 16 Jul 2021 03:40:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yngwie Malmsteen - Icarus' Dream Suite Op.4 (1 play)</title>
+      <link>https://www.last.fm/music/Yngwie+Malmsteen/_/Icarus%27+Dream+Suite+Op.4</link>
+      <guid isPermaLink="false">manosg--1626421298--8fa5d80d-37e8-4133-9d5c-6bad446c63f0---Icarus' Dream Suite Op.4</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d01839d8355c90fc333fb5ebbb48f620.jpg" length="22591" type="image/jpeg"/>
+      <pubDate>Fri, 16 Jul 2021 03:41:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
