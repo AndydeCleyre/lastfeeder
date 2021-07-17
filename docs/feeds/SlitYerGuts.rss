@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jul 2021 17:35:25 +0000</lastBuildDate>
-    <item>
-      <title>Cannibal Corpse - Murderous Rampage (4 plays)</title>
-      <link>https://www.last.fm/music/Cannibal+Corpse/_/Murderous+Rampage</link>
-      <guid isPermaLink="false">SlitYerGuts-1626476490--af8e4cc5-ef54-458d-a194-7b210acf638f---Murderous Rampage</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/942b82f6db0b68046d033932b95d50de.png" length="218153" type="image/png"/>
-      <pubDate>Fri, 16 Jul 2021 19:01:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Slayer - South of Heaven (2 plays)</title>
-      <link>https://www.last.fm/music/Slayer/_/South+of+Heaven</link>
-      <guid isPermaLink="false">SlitYerGuts-1626477945--bdacc37b-8633-4bf8-9dd5-4662ee651aec---South of Heaven</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea16ee8d8dca0481359cfe828b083ef7.png" length="228729" type="image/png"/>
-      <pubDate>Fri, 16 Jul 2021 19:25:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jul 2021 17:53:09 +0000</lastBuildDate>
     <item>
       <title>Death - Primitive Ways (2 plays)</title>
       <link>https://www.last.fm/music/Death/_/Primitive+Ways</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">SlitYerGuts-1626542209--1870fb43-50f1-4660-a879-bb596d1519b6---Mordecai</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36299fb9e7284b4584d6a62acd3edd0c.png" length="121260" type="image/png"/>
       <pubDate>Sat, 17 Jul 2021 13:16:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Between the Buried and Me - Ants of the Sky (6 plays)</title>
+      <link>https://www.last.fm/music/Between+the+Buried+and+Me/_/Ants+of+the+Sky</link>
+      <guid isPermaLink="false">SlitYerGuts-1626542635--1870fb43-50f1-4660-a879-bb596d1519b6---Ants of the Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/986799e10f13484aa990c508bab7fbf9.png" length="67092" type="image/png"/>
+      <pubDate>Sat, 17 Jul 2021 13:23:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Between the Buried and Me - Prequel to the Sequel (5 plays)</title>
+      <link>https://www.last.fm/music/Between+the+Buried+and+Me/_/Prequel+to+the+Sequel</link>
+      <guid isPermaLink="false">SlitYerGuts-1626543424--1870fb43-50f1-4660-a879-bb596d1519b6---Prequel to the Sequel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/986799e10f13484aa990c508bab7fbf9.png" length="67092" type="image/png"/>
+      <pubDate>Sat, 17 Jul 2021 13:37:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
