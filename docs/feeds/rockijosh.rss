@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 16:29:35 +0000</lastBuildDate>
-    <item>
-      <title>GFRIEND - MAGO (9 plays)</title>
-      <link>https://www.last.fm/music/GFRIEND/_/MAGO</link>
-      <guid isPermaLink="false">rockijosh-1626554963--GFRIEND---MAGO</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae37fa376ed1eaa413c6c2fd04c52e46.png" length="123897" type="image/png"/>
-      <pubDate>Sat, 17 Jul 2021 16:49:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jul 2021 18:51:42 +0000</lastBuildDate>
     <item>
       <title>Kiiara - Whippin (feat. Felix Snow) (19 plays)</title>
       <link>https://www.last.fm/music/Kiiara/_/Whippin+(feat.+Felix+Snow)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1626708038--Bo Burnham---All Eyes on Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10ce8b3f446033d4bb52f59cb9567d5e.jpg" length="16667" type="image/jpeg"/>
       <pubDate>Mon, 19 Jul 2021 11:20:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bo Burnham - Goodbye (6 plays)</title>
+      <link>https://www.last.fm/music/Bo+Burnham/_/Goodbye</link>
+      <guid isPermaLink="false">rockijosh-1626709846--Bo Burnham---Goodbye</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10ce8b3f446033d4bb52f59cb9567d5e.jpg" length="16667" type="image/jpeg"/>
+      <pubDate>Mon, 19 Jul 2021 11:50:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
