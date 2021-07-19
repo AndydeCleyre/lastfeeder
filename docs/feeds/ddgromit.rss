@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jul 2021 17:35:08 +0000</lastBuildDate>
-    <item>
-      <title>Thomas Farnon - A (3 plays)</title>
-      <link>https://www.last.fm/music/Thomas+Farnon/_/A</link>
-      <guid isPermaLink="false">ddgromit-1626385285--80e64bd6-e835-4f64-ab04-2d45c7d9c0d6---A</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/086a6bc2845d54ac3de4ea8d3f819618.jpg" length="12915" type="image/jpeg"/>
-      <pubDate>Thu, 15 Jul 2021 17:41:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jul 2021 02:05:48 +0000</lastBuildDate>
     <item>
       <title>Terence Holmes - Watcher of the Earth (1 play)</title>
       <link>https://www.last.fm/music/Terence+Holmes/_/Watcher+of+the+Earth</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1626628411--Doug &amp; The Beets---Theme</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97485f59ae067784f8f52b421836821e.jpg" length="22152" type="image/jpeg"/>
       <pubDate>Sun, 18 Jul 2021 13:13:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Doug &amp; The Beets - Killer Tofu (Extended Mix) (1 play)</title>
+      <link>https://www.last.fm/music/Doug+&amp;+The+Beets/_/Killer+Tofu+(Extended+Mix)</link>
+      <guid isPermaLink="false">ddgromit-1626628954--Doug &amp; The Beets---Killer Tofu (Extended Mix)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97485f59ae067784f8f52b421836821e.jpg" length="22152" type="image/jpeg"/>
+      <pubDate>Sun, 18 Jul 2021 13:22:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
