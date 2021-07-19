@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 15:21:54 +0000</lastBuildDate>
-    <item>
-      <title>Kacey Musgraves - Lonely Weekend (31 plays)</title>
-      <link>https://www.last.fm/music/Kacey+Musgraves/_/Lonely+Weekend</link>
-      <guid isPermaLink="false">rockijosh-1626554725--d1393ecb-431b-4fde-a6ea-d769f2f040cb---Lonely Weekend</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff0056e09edb833b0aa4583a5aa02120.png" length="154564" type="image/png"/>
-      <pubDate>Sat, 17 Jul 2021 16:45:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jul 2021 16:29:35 +0000</lastBuildDate>
     <item>
       <title>GFRIEND - MAGO (9 plays)</title>
       <link>https://www.last.fm/music/GFRIEND/_/MAGO</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1626707736--Bo Burnham---That Funny Feeling</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10ce8b3f446033d4bb52f59cb9567d5e.jpg" length="16667" type="image/jpeg"/>
       <pubDate>Mon, 19 Jul 2021 11:15:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bo Burnham - All Eyes on Me (15 plays)</title>
+      <link>https://www.last.fm/music/Bo+Burnham/_/All+Eyes+on+Me</link>
+      <guid isPermaLink="false">rockijosh-1626708038--Bo Burnham---All Eyes on Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10ce8b3f446033d4bb52f59cb9567d5e.jpg" length="16667" type="image/jpeg"/>
+      <pubDate>Mon, 19 Jul 2021 11:20:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
