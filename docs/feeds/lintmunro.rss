@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jul 2021 22:18:54 +0000</lastBuildDate>
-    <item>
-      <title>Carm - Soft Night (1 play)</title>
-      <link>https://www.last.fm/music/Carm/_/Soft+Night</link>
-      <guid isPermaLink="false">lintmunro-1625349560--ac74294c-faba-4537-9086-dc3745688598---Soft Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/524dc055735391c73651dc055e109cb0.jpg" length="7647" type="image/jpeg"/>
-      <pubDate>Sat, 03 Jul 2021 17:59:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jul 2021 22:40:54 +0000</lastBuildDate>
     <item>
       <title>Helena Deland - Dog (1 play)</title>
       <link>https://www.last.fm/music/Helena+Deland/_/Dog</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1626819284--Fake Fruit---Swing and a Miss</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e44c91936ee382469d80e7b4daf6e282.jpg" length="25535" type="image/jpeg"/>
       <pubDate>Tue, 20 Jul 2021 18:14:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fake Fruit - Don't Put it On Me (1 play)</title>
+      <link>https://www.last.fm/music/Fake+Fruit/_/Don%27t+Put+it+On+Me</link>
+      <guid isPermaLink="false">lintmunro-1626819530--Fake Fruit---Don't Put it On Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e44c91936ee382469d80e7b4daf6e282.jpg" length="25535" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jul 2021 18:18:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
