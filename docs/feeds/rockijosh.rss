@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jul 2021 19:38:53 +0000</lastBuildDate>
-    <item>
-      <title>ABBA - Waterloo (22 plays)</title>
-      <link>https://www.last.fm/music/ABBA/_/Waterloo</link>
-      <guid isPermaLink="false">rockijosh-1626720344--d87e52c5-bb8d-4da8-b941-9f4928627dc8---Waterloo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56ef885330556e8bc3291d7980991bdd.jpg" length="27864" type="image/jpeg"/>
-      <pubDate>Mon, 19 Jul 2021 14:45:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jul 2021 19:52:30 +0000</lastBuildDate>
     <item>
       <title>ABBA - Waterloo (22 plays)</title>
       <link>https://www.last.fm/music/ABBA/_/Waterloo</link>
@@ -26,6 +19,7 @@
       <title>Miley Cyrus - Wrecking Ball (21 plays)</title>
       <link>https://www.last.fm/music/Miley+Cyrus/_/Wrecking+Ball</link>
       <guid isPermaLink="false">rockijosh-1626721091--7e9bd05a-117f-4cce-87bc-e011527a8b18---Wrecking Ball</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eded4a4c88054d0dcd8b819efb0afae3.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Mon, 19 Jul 2021 14:58:11 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1626739328--7f378f19-4686-41aa-b83e-3df359ae1578---The Greatest Show</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb003aecdbdea85ef515132cdc7c19b1.jpg" length="28155" type="image/jpeg"/>
       <pubDate>Mon, 19 Jul 2021 20:02:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bo Burnham - Look Who’s Inside Again (6 plays)</title>
+      <link>https://www.last.fm/music/Bo+Burnham/_/Look+Who%E2%80%99s+Inside+Again</link>
+      <guid isPermaLink="false">rockijosh-1626982711--Bo Burnham---Look Who’s Inside Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10ce8b3f446033d4bb52f59cb9567d5e.jpg" length="16667" type="image/jpeg"/>
+      <pubDate>Thu, 22 Jul 2021 15:38:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
