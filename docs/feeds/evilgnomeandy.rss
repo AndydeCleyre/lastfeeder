@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jul 2021 21:41:54 +0000</lastBuildDate>
-    <item>
-      <title>Reigning Sound - I'm Holding Out (10 plays)</title>
-      <link>https://www.last.fm/music/Reigning+Sound/_/I%27m+Holding+Out</link>
-      <guid isPermaLink="false">evilgnomeandy-1627265794--fd15c842-515a-4157-8c37-2b54c86390bc---I'm Holding Out</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b4ef046df8b4c4781a38221ae11efcd.jpg" length="41956" type="image/jpeg"/>
-      <pubDate>Sun, 25 Jul 2021 22:16:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Reigning Sound - Drowning (111 plays)</title>
-      <link>https://www.last.fm/music/Reigning+Sound/_/Drowning</link>
-      <guid isPermaLink="false">evilgnomeandy-1627265947--fd15c842-515a-4157-8c37-2b54c86390bc---Drowning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b4ef046df8b4c4781a38221ae11efcd.jpg" length="41956" type="image/jpeg"/>
-      <pubDate>Sun, 25 Jul 2021 22:19:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jul 2021 21:53:55 +0000</lastBuildDate>
     <item>
       <title>Reigning Sound - Break It (20 plays)</title>
       <link>https://www.last.fm/music/Reigning+Sound/_/Break+It</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1627335457--56cfe6aa-b464-43d2-bec7-8ec52f313e7d---Your Touch</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d056fa8f74a544809161a2a4c8d63a91.jpg" length="15188" type="image/jpeg"/>
       <pubDate>Mon, 26 Jul 2021 17:37:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Annette Funicello - Pineapple Princess (8 plays)</title>
+      <link>https://www.last.fm/music/Annette+Funicello/_/Pineapple+Princess</link>
+      <guid isPermaLink="false">evilgnomeandy-1627335692--59b8608d-6af2-4dc7-87c7-4d52e7ab6e6a---Pineapple Princess</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f7fe47759accd9204ce7da5eff4a22.jpg" length="29620" type="image/jpeg"/>
+      <pubDate>Mon, 26 Jul 2021 17:41:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Annette Funicello - Jamaica Ska (3 plays)</title>
+      <link>https://www.last.fm/music/Annette+Funicello/_/Jamaica+Ska</link>
+      <guid isPermaLink="false">evilgnomeandy-1627335837--59b8608d-6af2-4dc7-87c7-4d52e7ab6e6a---Jamaica Ska</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29b9c9d9843a17023d00461630a08fbc.jpg" length="21567" type="image/jpeg"/>
+      <pubDate>Mon, 26 Jul 2021 17:43:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
