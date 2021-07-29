@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jul 2021 21:54:11 +0000</lastBuildDate>
-    <item>
-      <title>Turnstile - HOLIDAY (2 plays)</title>
-      <link>https://www.last.fm/music/Turnstile/_/HOLIDAY</link>
-      <guid isPermaLink="false">lintmunro-1625610677--Turnstile---HOLIDAY</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33a52599eb952c806cc67284efaadd57.jpg" length="25506" type="image/jpeg"/>
-      <pubDate>Tue, 06 Jul 2021 18:31:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>MAH KEE OH - _003 (2 plays)</title>
-      <link>https://www.last.fm/music/MAH+KEE+OH/_/_003</link>
-      <guid isPermaLink="false">lintmunro-1625610793--1040423f-1f26-40b3-ad31-16f106239240---_003</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f0f2977f5a30a03975d1497cda97596.jpg" length="35475" type="image/jpeg"/>
-      <pubDate>Tue, 06 Jul 2021 18:33:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jul 2021 22:19:53 +0000</lastBuildDate>
     <item>
       <title>MAH KEE OH - Feelin' Good (2 plays)</title>
       <link>https://www.last.fm/music/MAH+KEE+OH/_/Feelin%27+Good</link>
@@ -135,7 +121,7 @@
       <pubDate>Fri, 16 Jul 2021 20:15:28 -0400</pubDate>
     </item>
     <item>
-      <title>Diabolizer - Dawn Of Obliteration (1 play)</title>
+      <title>Diabolizer - Dawn Of Obliteration (2 plays)</title>
       <link>https://www.last.fm/music/Diabolizer/_/Dawn+Of+Obliteration</link>
       <guid isPermaLink="false">lintmunro-1626643156--Diabolizer---Dawn Of Obliteration</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ebc096006fc491c2a8686b059899cedd.jpg" length="20235" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1627594890--Polemicist---Epistemology Reduced to Absurdity</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6d597e472fac61d40808183d7c8ab78.jpg" length="20119" type="image/jpeg"/>
       <pubDate>Thu, 29 Jul 2021 17:41:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Polemicist - The Delphic Temple I: Consulting the Pythia (1 play)</title>
+      <link>https://www.last.fm/music/Polemicist/_/The+Delphic+Temple+I:+Consulting+the+Pythia</link>
+      <guid isPermaLink="false">lintmunro-1627595135--Polemicist---The Delphic Temple I: Consulting the Pythia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6d597e472fac61d40808183d7c8ab78.jpg" length="20119" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jul 2021 17:45:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Diabolizer - Dawn Of Obliteration (2 plays)</title>
+      <link>https://www.last.fm/music/Diabolizer/_/Dawn+Of+Obliteration</link>
+      <guid isPermaLink="false">lintmunro-1627596379--Diabolizer---Dawn Of Obliteration</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ebc096006fc491c2a8686b059899cedd.jpg" length="20235" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jul 2021 18:06:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
