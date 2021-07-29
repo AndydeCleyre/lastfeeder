@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jul 2021 02:39:27 +0000</lastBuildDate>
-    <item>
-      <title>David Sylvian - September (70 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/September</link>
-      <guid isPermaLink="false">Frippertron-1627371403--719db6b1-0d91-458c-8d18-875ec44105bf---September</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ff3fe7b2dc693b5e828c0a576ebf578.jpg" length="41003" type="image/jpeg"/>
-      <pubDate>Tue, 27 Jul 2021 03:36:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jul 2021 02:52:31 +0000</lastBuildDate>
     <item>
       <title>David Sylvian - The Boy With The Gun (66 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/The+Boy+With+The+Gun</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1627526118--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Epitaph</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 28 Jul 2021 22:35:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Moonchild (15 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Moonchild</link>
+      <guid isPermaLink="false">Frippertron-1627526652--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Moonchild</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 28 Jul 2021 22:44:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
