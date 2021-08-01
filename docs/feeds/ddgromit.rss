@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Aug 2021 02:54:16 +0000</lastBuildDate>
-    <item>
-      <title>Odie - Slowly (1 play)</title>
-      <link>https://www.last.fm/music/Odie/_/Slowly</link>
-      <guid isPermaLink="false">ddgromit-1626966806--60d64a4a-8d8f-4d4e-bcaa-dda70253542c---Slowly</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b282e71626c8565534c4e8c10921897.jpg" length="28148" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jul 2021 11:13:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Aug 2021 03:20:46 +0000</lastBuildDate>
     <item>
       <title>Choker - Petrol Bliss (1 play)</title>
       <link>https://www.last.fm/music/Choker/_/Petrol+Bliss</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1627785478--8bfac288-ccc5-448d-9573-c33ea2aa5c30---Dark Necessities</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ebf02da38698b19da67aa5c4e6531843.jpg" length="15565" type="image/jpeg"/>
       <pubDate>Sat, 31 Jul 2021 22:37:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sufjan Stevens - Should Have Known Better (11 plays)</title>
+      <link>https://www.last.fm/music/Sufjan+Stevens/_/Should+Have+Known+Better</link>
+      <guid isPermaLink="false">ddgromit-1627785785--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Should Have Known Better</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f514a669233d4965c9f372ec91e62a80.jpg" length="20455" type="image/jpeg"/>
+      <pubDate>Sat, 31 Jul 2021 22:43:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
