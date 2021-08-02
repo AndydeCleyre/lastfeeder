@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Aug 2021 22:18:47 +0000</lastBuildDate>
-    <item>
-      <title>Taylor Swift - Begin Again (30 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Begin+Again</link>
-      <guid isPermaLink="false">SlitYerGuts-1627759340--20244d07-534f-4eff-b4d4-930878889970---Begin Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b71a089829ea60136f560816d534be1.png" length="126080" type="image/png"/>
-      <pubDate>Sat, 31 Jul 2021 15:22:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>AFI - Medicate (26 plays)</title>
-      <link>https://www.last.fm/music/AFI/_/Medicate</link>
-      <guid isPermaLink="false">SlitYerGuts-1627759577--AFI---Medicate</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b71daa75bb9de95e6d9e9201a1af9be.jpg" length="24502" type="image/jpeg"/>
-      <pubDate>Sat, 31 Jul 2021 15:26:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Aug 2021 22:40:36 +0000</lastBuildDate>
     <item>
       <title>Say Anything - The Church Channel (24 plays)</title>
       <link>https://www.last.fm/music/Say+Anything/_/The+Church+Channel</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">SlitYerGuts-1627942278--John Mayer---Why You No Love Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/032a5cfd9cd59e9f2e3893ea7b9117a2.jpg" length="17360" type="image/jpeg"/>
       <pubDate>Mon, 02 Aug 2021 18:11:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Mayer - Wild Blue (1 play)</title>
+      <link>https://www.last.fm/music/John+Mayer/_/Wild+Blue</link>
+      <guid isPermaLink="false">SlitYerGuts-1627942480--John Mayer---Wild Blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/032a5cfd9cd59e9f2e3893ea7b9117a2.jpg" length="17360" type="image/jpeg"/>
+      <pubDate>Mon, 02 Aug 2021 18:14:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Mayer - Shot in the Dark (1 play)</title>
+      <link>https://www.last.fm/music/John+Mayer/_/Shot+in+the+Dark</link>
+      <guid isPermaLink="false">SlitYerGuts-1627943161--John Mayer---Shot in the Dark</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/032a5cfd9cd59e9f2e3893ea7b9117a2.jpg" length="17360" type="image/jpeg"/>
+      <pubDate>Mon, 02 Aug 2021 18:26:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
