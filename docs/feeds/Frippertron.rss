@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Aug 2021 06:23:54 +0000</lastBuildDate>
-    <item>
-      <title>Circle X - Current (1 play)</title>
-      <link>https://www.last.fm/music/Circle+X/_/Current</link>
-      <guid isPermaLink="false">Frippertron-1627842100--b0efa8ba-4a39-4b69-9fb0-0c06ab6a0a71---Current</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/387b13e5f69b4863c886d0f6b012d2a3.jpg" length="44451" type="image/jpeg"/>
-      <pubDate>Sun, 01 Aug 2021 14:21:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Aug 2021 07:37:17 +0000</lastBuildDate>
     <item>
       <title>Circle X - Prehistory Part I (1 play)</title>
       <link>https://www.last.fm/music/Circle+X/_/Prehistory+Part+I</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1627885113--756af95c-8793-4546-a93f-f3581b5b1c8d---Graves Of The Fathers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/612f179e5f992bfa562ec062e33eb863.png" length="197746" type="image/png"/>
       <pubDate>Mon, 02 Aug 2021 02:18:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Watcher of the Skies (64 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Watcher+of+the+Skies</link>
+      <guid isPermaLink="false">Frippertron-1627889554--60aa2510-4ab1-4e50-9267-30a15700dc1c---Watcher of the Skies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
+      <pubDate>Mon, 02 Aug 2021 03:32:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
