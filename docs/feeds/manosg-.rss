@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Aug 2021 14:52:33 +0000</lastBuildDate>
-    <item>
-      <title>Player - Baby Come Back (1 play)</title>
-      <link>https://www.last.fm/music/Player/_/Baby+Come+Back</link>
-      <guid isPermaLink="false">manosg--1627814931--7ad4ef1c-4f82-4755-a74b-94cd3096d221---Baby Come Back</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6cc98ad3473c48dbb0821de511b0f8ad.jpg" length="25969" type="image/jpeg"/>
-      <pubDate>Sun, 01 Aug 2021 06:48:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Undisputed Truth - Law Of The Land (1 play)</title>
-      <link>https://www.last.fm/music/The+Undisputed+Truth/_/Law+Of+The+Land</link>
-      <guid isPermaLink="false">manosg--1627815187--5e676b63-5c50-4c86-88d8-54243bba76d9---Law Of The Land</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/094dd1142757664e29d64802de0115e5.jpg" length="27382" type="image/jpeg"/>
-      <pubDate>Sun, 01 Aug 2021 06:53:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Aug 2021 15:21:38 +0000</lastBuildDate>
     <item>
       <title>The Undisputed Truth - Papa Was A Rollin' Stone (1 play)</title>
       <link>https://www.last.fm/music/The+Undisputed+Truth/_/Papa+Was+A+Rollin%27+Stone</link>
@@ -340,6 +326,20 @@
       <guid isPermaLink="false">manosg--1628001979--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Father to Son</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/090eb7f6fedb433f8c57a8b0a26c120c.png" length="109639" type="image/png"/>
       <pubDate>Tue, 03 Aug 2021 10:46:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - White Queen (1 play)</title>
+      <link>https://www.last.fm/music/Queen/_/White+Queen</link>
+      <guid isPermaLink="false">manosg--1628002358--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---White Queen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c1807ad4eeb8d3128e1b226c4b95e6b.png" length="233183" type="image/png"/>
+      <pubDate>Tue, 03 Aug 2021 10:52:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Some Day One Day (10 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Some+Day+One+Day</link>
+      <guid isPermaLink="false">manosg--1628002641--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Some Day One Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/090eb7f6fedb433f8c57a8b0a26c120c.png" length="109639" type="image/png"/>
+      <pubDate>Tue, 03 Aug 2021 10:57:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
