@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Aug 2021 21:41:24 +0000</lastBuildDate>
-    <item>
-      <title>U2 - Staring at the Sun (3 plays)</title>
-      <link>https://www.last.fm/music/U2/_/Staring+at+the+Sun</link>
-      <guid isPermaLink="false">TalonsOfFire-1627944381--a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432---Staring at the Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c41db901cedf46d2c6e2c7159129b2ac.png" length="136253" type="image/png"/>
-      <pubDate>Mon, 02 Aug 2021 18:46:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jeremy Soule - Dusk at the Market (6 plays)</title>
-      <link>https://www.last.fm/music/Jeremy+Soule/_/Dusk+at+the+Market</link>
-      <guid isPermaLink="false">TalonsOfFire-1627944513--f413369d-d72f-46b9-8744-2d09344a9c6a---Dusk at the Market</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a954a91fde2b08e7e6057ec757aa807.png" length="234531" type="image/png"/>
-      <pubDate>Mon, 02 Aug 2021 18:48:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Aug 2021 21:53:22 +0000</lastBuildDate>
     <item>
       <title>EL VY - Sleeping Light (9 plays)</title>
       <link>https://www.last.fm/music/EL+VY/_/Sleeping+Light</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1628112639--Lantlôs---The Bubble</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4608fa783468937882f4f57d5c0d5e6.jpg" length="8304" type="image/jpeg"/>
       <pubDate>Wed, 04 Aug 2021 17:30:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lantlôs - Amber (1 play)</title>
+      <link>https://www.last.fm/music/Lantl%C3%B4s/_/Amber</link>
+      <guid isPermaLink="false">TalonsOfFire-1628112898--Lantlôs---Amber</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4608fa783468937882f4f57d5c0d5e6.jpg" length="8304" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 17:34:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lantlôs - Cloud Inhaler (1 play)</title>
+      <link>https://www.last.fm/music/Lantl%C3%B4s/_/Cloud+Inhaler</link>
+      <guid isPermaLink="false">TalonsOfFire-1628113720--Lantlôs---Cloud Inhaler</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4608fa783468937882f4f57d5c0d5e6.jpg" length="8304" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 17:48:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
