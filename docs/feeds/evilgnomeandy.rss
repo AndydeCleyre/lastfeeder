@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Aug 2021 22:39:55 +0000</lastBuildDate>
-    <item>
-      <title>C.W. Stoneking - In New Orleans (1 play)</title>
-      <link>https://www.last.fm/music/C.W.+Stoneking/_/In+New+Orleans</link>
-      <guid isPermaLink="false">evilgnomeandy-1627920237--22a94cd7-cb1f-4b67-9be6-46d465ffc787---In New Orleans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74c4fa95e3f04bc4cb55c22eac4d649b.jpg" length="40254" type="image/jpeg"/>
-      <pubDate>Mon, 02 Aug 2021 12:03:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jolie Holland - Sascha (1 play)</title>
-      <link>https://www.last.fm/music/Jolie+Holland/_/Sascha</link>
-      <guid isPermaLink="false">evilgnomeandy-1627920425--66932740-f510-4bc6-b4d0-160bb1f4c723---Sascha</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/83680b2675c9974eb4b1ea82afd3817d.jpg" length="22964" type="image/jpeg"/>
-      <pubDate>Mon, 02 Aug 2021 12:07:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Aug 2021 22:52:37 +0000</lastBuildDate>
     <item>
       <title>Booker T. Jones - What a Wonderful World (1 play)</title>
       <link>https://www.last.fm/music/Booker+T.+Jones/_/What+a+Wonderful+World</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1628116550--Ty Segall---Learning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a86395aebae74e6a34bbfa70dcba76d1.jpg" length="12663" type="image/jpeg"/>
       <pubDate>Wed, 04 Aug 2021 18:35:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ty Segall - Whisper (1 play)</title>
+      <link>https://www.last.fm/music/Ty+Segall/_/Whisper</link>
+      <guid isPermaLink="false">evilgnomeandy-1628116657--Ty Segall---Whisper</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a86395aebae74e6a34bbfa70dcba76d1.jpg" length="12663" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 18:37:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ty Segall - Erased (1 play)</title>
+      <link>https://www.last.fm/music/Ty+Segall/_/Erased</link>
+      <guid isPermaLink="false">evilgnomeandy-1628116877--Ty Segall---Erased</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a86395aebae74e6a34bbfa70dcba76d1.jpg" length="12663" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 18:41:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
