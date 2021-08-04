@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Aug 2021 21:53:22 +0000</lastBuildDate>
-    <item>
-      <title>EL VY - Sleeping Light (9 plays)</title>
-      <link>https://www.last.fm/music/EL+VY/_/Sleeping+Light</link>
-      <guid isPermaLink="false">TalonsOfFire-1627944736--EL VY---Sleeping Light</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3df75478b155e5769a2ec4285383710.jpg" length="22024" type="image/jpeg"/>
-      <pubDate>Mon, 02 Aug 2021 18:52:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bohren &amp; der Club of Gore - Nightwolf (2 plays)</title>
-      <link>https://www.last.fm/music/Bohren+&amp;+der+Club+of+Gore/_/Nightwolf</link>
-      <guid isPermaLink="false">TalonsOfFire-1627945727--938df0a0-c650-4cf8-9b23-5ad8a5cb4805---Nightwolf</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4896034934247629945a381ee87a02a.png" length="173853" type="image/png"/>
-      <pubDate>Mon, 02 Aug 2021 19:08:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fleet Foxes - Maestranza (3 plays)</title>
-      <link>https://www.last.fm/music/Fleet+Foxes/_/Maestranza</link>
-      <guid isPermaLink="false">TalonsOfFire-1628003464--fa97dd36-1b82-43d7-a6e4-2adeafd59cef---Maestranza</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3638eeb1bb4ffc5a8c12cf28e56ba0f.png" length="219566" type="image/png"/>
-      <pubDate>Tue, 03 Aug 2021 11:11:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fleet Foxes - Young Man's Game (3 plays)</title>
-      <link>https://www.last.fm/music/Fleet+Foxes/_/Young+Man%27s+Game</link>
-      <guid isPermaLink="false">TalonsOfFire-1628003657--fa97dd36-1b82-43d7-a6e4-2adeafd59cef---Young Man's Game</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3638eeb1bb4ffc5a8c12cf28e56ba0f.png" length="219566" type="image/png"/>
-      <pubDate>Tue, 03 Aug 2021 11:14:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Aug 2021 22:18:46 +0000</lastBuildDate>
     <item>
       <title>Fleet Foxes - I'm Not My Season (3 plays)</title>
       <link>https://www.last.fm/music/Fleet+Foxes/_/I%27m+Not+My+Season</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">TalonsOfFire-1628113720--Lantlôs---Cloud Inhaler</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4608fa783468937882f4f57d5c0d5e6.jpg" length="8304" type="image/jpeg"/>
       <pubDate>Wed, 04 Aug 2021 17:48:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lantlôs - Planetarium (1 play)</title>
+      <link>https://www.last.fm/music/Lantl%C3%B4s/_/Planetarium</link>
+      <guid isPermaLink="false">TalonsOfFire-1628113868--Lantlôs---Planetarium</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4608fa783468937882f4f57d5c0d5e6.jpg" length="8304" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 17:51:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lantlôs - Dream Machine (1 play)</title>
+      <link>https://www.last.fm/music/Lantl%C3%B4s/_/Dream+Machine</link>
+      <guid isPermaLink="false">TalonsOfFire-1628114199--Lantlôs---Dream Machine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4608fa783468937882f4f57d5c0d5e6.jpg" length="8304" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 17:56:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lantlôs - Dog In The Wild (1 play)</title>
+      <link>https://www.last.fm/music/Lantl%C3%B4s/_/Dog+In+The+Wild</link>
+      <guid isPermaLink="false">TalonsOfFire-1628114628--Lantlôs---Dog In The Wild</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4608fa783468937882f4f57d5c0d5e6.jpg" length="8304" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 18:03:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lantlôs - Lich (1 play)</title>
+      <link>https://www.last.fm/music/Lantl%C3%B4s/_/Lich</link>
+      <guid isPermaLink="false">TalonsOfFire-1628114951--Lantlôs---Lich</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4608fa783468937882f4f57d5c0d5e6.jpg" length="8304" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 18:09:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
