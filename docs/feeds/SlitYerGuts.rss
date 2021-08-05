@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Aug 2021 01:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - The Promise (34 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/The+Promise</link>
-      <guid isPermaLink="false">SlitYerGuts-1628023946--70248960-cb53-4ea4-943a-edb18f7d336f---The Promise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95b3980d5d7141dda70457ad7c0a8485.png" length="97680" type="image/png"/>
-      <pubDate>Tue, 03 Aug 2021 16:52:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>Taylor Swift - Sparks Fly (31 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Sparks+Fly</link>
-      <guid isPermaLink="false">SlitYerGuts-1628024297--20244d07-534f-4eff-b4d4-930878889970---Sparks Fly</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1da1b44635dca6ee3f950f221425adb.jpg" length="25849" type="image/jpeg"/>
-      <pubDate>Tue, 03 Aug 2021 16:58:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bruce Springsteen - Devils &amp; Dust (32 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/Devils+&amp;+Dust</link>
-      <guid isPermaLink="false">SlitYerGuts-1628024578--70248960-cb53-4ea4-943a-edb18f7d336f---Devils &amp; Dust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c050211ec7407bb5ee8248fbc06515.png" length="172349" type="image/png"/>
-      <pubDate>Tue, 03 Aug 2021 17:02:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Aug 2021 02:02:05 +0000</lastBuildDate>
     <item>
       <title>Flyleaf - Set Apart This Dream (42 plays)</title>
       <link>https://www.last.fm/music/Flyleaf/_/Set+Apart+This+Dream</link>
@@ -93,7 +72,7 @@
       <pubDate>Tue, 03 Aug 2021 19:03:51 -0400</pubDate>
     </item>
     <item>
-      <title>Tomahawk - SHHH! (1 play)</title>
+      <title>Tomahawk - SHHH!</title>
       <link>https://www.last.fm/music/Tomahawk/_/SHHH!</link>
       <guid isPermaLink="false">SlitYerGuts-1628035277--9a6116f1-fa4b-4d34-87ad-24b5fb98380d---SHHH!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/566251747bb4ad08827d63bf9d3de5d7.jpg" length="12398" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">SlitYerGuts-1628122874--Morgan Wade---Wilder Days</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b82b0e696b9757728b930203a75737b3.jpg" length="28574" type="image/jpeg"/>
       <pubDate>Wed, 04 Aug 2021 20:21:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grima - Mourning Comes at Sunset (1 play)</title>
+      <link>https://www.last.fm/music/Grima/_/Mourning+Comes+at+Sunset</link>
+      <guid isPermaLink="false">SlitYerGuts-1628127810--a1fe77b8-8ce0-49d5-b64c-ba42f116d4b8---Mourning Comes at Sunset</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3a656c9f3637302829d2df37e359c8d.jpg" length="13359" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 21:43:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grima - At the Foot of the Red Mountains (1 play)</title>
+      <link>https://www.last.fm/music/Grima/_/At+the+Foot+of+the+Red+Mountains</link>
+      <guid isPermaLink="false">SlitYerGuts-1628128141--a1fe77b8-8ce0-49d5-b64c-ba42f116d4b8---At the Foot of the Red Mountains</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3a656c9f3637302829d2df37e359c8d.jpg" length="13359" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 21:49:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grima - Old Oak (1 play)</title>
+      <link>https://www.last.fm/music/Grima/_/Old+Oak</link>
+      <guid isPermaLink="false">SlitYerGuts-1628128423--a1fe77b8-8ce0-49d5-b64c-ba42f116d4b8---Old Oak</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3a656c9f3637302829d2df37e359c8d.jpg" length="13359" type="image/jpeg"/>
+      <pubDate>Wed, 04 Aug 2021 21:53:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
