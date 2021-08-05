@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Aug 2021 08:42:29 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Back in N.Y.C. (59 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Back+in+N.Y.C.</link>
-      <guid isPermaLink="false">Frippertron-1628134154--60aa2510-4ab1-4e50-9267-30a15700dc1c---Back in N.Y.C.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
-      <pubDate>Wed, 04 Aug 2021 23:29:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Hairless Heart (32 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Hairless+Heart</link>
-      <guid isPermaLink="false">Frippertron-1628134501--60aa2510-4ab1-4e50-9267-30a15700dc1c---Hairless Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
-      <pubDate>Wed, 04 Aug 2021 23:35:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Aug 2021 08:54:26 +0000</lastBuildDate>
     <item>
       <title>Genesis - Counting Out Time (32 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Counting+Out+Time</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1628152509--a95ef44c-aeda-4222-9d57-10b28240e634---Illuminatus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70fb441be5d82d231c29888d78bd0fbd.jpg" length="13050" type="image/jpeg"/>
       <pubDate>Thu, 05 Aug 2021 04:35:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gorguts - Faceless Ones (3 plays)</title>
+      <link>https://www.last.fm/music/Gorguts/_/Faceless+Ones</link>
+      <guid isPermaLink="false">Frippertron-1628152890--a95ef44c-aeda-4222-9d57-10b28240e634---Faceless Ones</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70fb441be5d82d231c29888d78bd0fbd.jpg" length="13050" type="image/jpeg"/>
+      <pubDate>Thu, 05 Aug 2021 04:41:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gorguts - Sweet Silence (3 plays)</title>
+      <link>https://www.last.fm/music/Gorguts/_/Sweet+Silence</link>
+      <guid isPermaLink="false">Frippertron-1628153125--a95ef44c-aeda-4222-9d57-10b28240e634---Sweet Silence</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70fb441be5d82d231c29888d78bd0fbd.jpg" length="13050" type="image/jpeg"/>
+      <pubDate>Thu, 05 Aug 2021 04:45:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
