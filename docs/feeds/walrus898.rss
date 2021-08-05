@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Aug 2021 13:05:40 +0000</lastBuildDate>
-    <item>
-      <title>JennyLee - I’m So Tired (12 plays)</title>
-      <link>https://www.last.fm/music/JennyLee/_/I%E2%80%99m+So+Tired</link>
-      <guid isPermaLink="false">walrus898-1627863120--JennyLee---I’m So Tired</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01c8dcb59162ddd0537b89b68b0863be.jpg" length="23730" type="image/jpeg"/>
-      <pubDate>Sun, 01 Aug 2021 20:12:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Aug 2021 13:34:31 +0000</lastBuildDate>
     <item>
       <title>JennyLee - I’m So Tired (12 plays)</title>
       <link>https://www.last.fm/music/JennyLee/_/I%E2%80%99m+So+Tired</link>
@@ -100,7 +93,7 @@
       <pubDate>Sun, 01 Aug 2021 21:48:19 -0400</pubDate>
     </item>
     <item>
-      <title>Strange Ranger - Sunday (36 plays)</title>
+      <title>Strange Ranger - Sunday (37 plays)</title>
       <link>https://www.last.fm/music/Strange+Ranger/_/Sunday</link>
       <guid isPermaLink="false">walrus898-1627869109--765f925f-dc9b-4f01-ac12-0b25d58bd387---Sunday</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85bd080a648a1ed57132b95524d2e88e.jpg" length="12359" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">walrus898-1628168381--098dea79-7258-427f-af67-5626a6f38965---Birthday</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b461af47e208867af9a147bc59b10fdd.jpg" length="9405" type="image/jpeg"/>
       <pubDate>Thu, 05 Aug 2021 08:59:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Strange Ranger - Sunday (37 plays)</title>
+      <link>https://www.last.fm/music/Strange+Ranger/_/Sunday</link>
+      <guid isPermaLink="false">walrus898-1628168604--765f925f-dc9b-4f01-ac12-0b25d58bd387---Sunday</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85bd080a648a1ed57132b95524d2e88e.jpg" length="12359" type="image/jpeg"/>
+      <pubDate>Thu, 05 Aug 2021 09:03:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
