@@ -30,7 +30,7 @@ toml==0.10.2
     # via
     #   flit
     #   flit-core
-tomli==1.2.0
+tomli==1.2.1
     # via black
 urllib3==1.26.6
     # via requests
