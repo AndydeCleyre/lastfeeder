@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Aug 2021 02:52:37 +0000</lastBuildDate>
-    <item>
-      <title>Bobby Goldsboro - Honey (2 plays)</title>
-      <link>https://www.last.fm/music/Bobby+Goldsboro/_/Honey</link>
-      <guid isPermaLink="false">ddgromit-1627461038--a85c70af-90e4-4a7c-83b1-e1bd567d7d2f---Honey</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbcb3b94f0a146de93ad6c9dad6eac24.jpg" length="27545" type="image/jpeg"/>
-      <pubDate>Wed, 28 Jul 2021 04:30:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Aug 2021 05:52:41 +0000</lastBuildDate>
     <item>
       <title>Bobby Goldsboro - Summer (The First Time) (1 play)</title>
       <link>https://www.last.fm/music/Bobby+Goldsboro/_/Summer+(The+First+Time)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1628476980--Fat Freddy's Drop---Shady</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 08 Aug 2021 22:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fat Freddy's Drop - Wandering Eye (1 play)</title>
+      <link>https://www.last.fm/music/Fat+Freddy%27s+Drop/_/Wandering+Eye</link>
+      <guid isPermaLink="false">ddgromit-1628477411--d451395a-f768-432e-bb70-d38c32baf4cb---Wandering Eye</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e30abef02840d6babff35d012dab32.png" length="130909" type="image/png"/>
+      <pubDate>Sun, 08 Aug 2021 22:50:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
