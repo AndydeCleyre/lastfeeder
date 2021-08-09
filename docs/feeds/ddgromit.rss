@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Aug 2021 20:18:32 +0000</lastBuildDate>
-    <item>
-      <title>Nelly - Lil Bit (4 plays)</title>
-      <link>https://www.last.fm/music/Nelly/_/Lil+Bit</link>
-      <guid isPermaLink="false">ddgromit-1627444670--811900b2-68fc-4d41-8bad-69b7a1f4d628---Lil Bit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41a1f940f26f065177bf57eabe785c6f.png" length="160420" type="image/png"/>
-      <pubDate>Tue, 27 Jul 2021 23:57:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cardi B - I Like It (6 plays)</title>
-      <link>https://www.last.fm/music/Cardi+B/_/I+Like+It</link>
-      <guid isPermaLink="false">ddgromit-1627444865--2f3c4d70-0462-40da-bba3-0aec5772c556---I Like It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/605c546aaa22731fd58f2b60471ed58b.jpg" length="28867" type="image/jpeg"/>
-      <pubDate>Wed, 28 Jul 2021 00:01:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Aug 2021 02:52:37 +0000</lastBuildDate>
     <item>
       <title>Bobby Goldsboro - Honey (2 plays)</title>
       <link>https://www.last.fm/music/Bobby+Goldsboro/_/Honey</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1628440024--d451395a-f768-432e-bb70-d38c32baf4cb---Hope - LOCK-IN</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36bfe4be7ec5012df0f72cfa9fef74e8.jpg" length="24619" type="image/jpeg"/>
       <pubDate>Sun, 08 Aug 2021 12:27:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fat Freddy's Drop - Ernie (3 plays)</title>
+      <link>https://www.last.fm/music/Fat+Freddy%27s+Drop/_/Ernie</link>
+      <guid isPermaLink="false">ddgromit-1628440598--d451395a-f768-432e-bb70-d38c32baf4cb---Ernie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e30abef02840d6babff35d012dab32.png" length="130909" type="image/png"/>
+      <pubDate>Sun, 08 Aug 2021 12:36:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fat Freddy's Drop - Shady (1 play)</title>
+      <link>https://www.last.fm/music/Fat+Freddy%27s+Drop/_/Shady</link>
+      <guid isPermaLink="false">ddgromit-1628476980--Fat Freddy's Drop---Shady</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 08 Aug 2021 22:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
