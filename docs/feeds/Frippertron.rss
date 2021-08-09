@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Aug 2021 09:43:16 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - The Howler (15 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/The+Howler</link>
-      <guid isPermaLink="false">Frippertron-1628480097--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Howler</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sun, 08 Aug 2021 23:34:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Frame by Frame (59 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Frame+by+Frame</link>
-      <guid isPermaLink="false">Frippertron-1628480397--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Frame by Frame</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sun, 08 Aug 2021 23:39:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Aug 2021 09:54:57 +0000</lastBuildDate>
     <item>
       <title>King Crimson - The Sheltering Sky (16 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/The+Sheltering+Sky</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1628501601--a95ef44c-aeda-4222-9d57-10b28240e634---Ember's Voice</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb4cfedeae4b8571c983f72ff4d95bfa.png" length="155973" type="image/png"/>
       <pubDate>Mon, 09 Aug 2021 05:33:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gorguts - Absconders (1 play)</title>
+      <link>https://www.last.fm/music/Gorguts/_/Absconders</link>
+      <guid isPermaLink="false">Frippertron-1628502010--a95ef44c-aeda-4222-9d57-10b28240e634---Absconders</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb4cfedeae4b8571c983f72ff4d95bfa.png" length="155973" type="image/png"/>
+      <pubDate>Mon, 09 Aug 2021 05:40:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gorguts - Reduced to Silence (1 play)</title>
+      <link>https://www.last.fm/music/Gorguts/_/Reduced+to+Silence</link>
+      <guid isPermaLink="false">Frippertron-1628502561--a95ef44c-aeda-4222-9d57-10b28240e634---Reduced to Silence</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb4cfedeae4b8571c983f72ff4d95bfa.png" length="155973" type="image/png"/>
+      <pubDate>Mon, 09 Aug 2021 05:49:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
