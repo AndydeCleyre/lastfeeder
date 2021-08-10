@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Aug 2021 03:44:01 +0000</lastBuildDate>
-    <item>
-      <title>XTC - This Is Pop? (43 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/This+Is+Pop%3F</link>
-      <guid isPermaLink="false">Frippertron-1628493002--97c86b2c-2765-46a2-aef8-76a7e24c430f---This Is Pop?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a3d6bc4ecb6bc8b7ec6414d478ec7aa.jpg" length="40159" type="image/jpeg"/>
-      <pubDate>Mon, 09 Aug 2021 03:10:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Loving the Alien (71 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
-      <guid isPermaLink="false">Frippertron-1628493182--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
-      <pubDate>Mon, 09 Aug 2021 03:13:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Japan - Quiet Life (13 plays)</title>
-      <link>https://www.last.fm/music/Japan/_/Quiet+Life</link>
-      <guid isPermaLink="false">Frippertron-1628493627--Japan---Quiet Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/828e10a974d849e9c9e9ff3f0e2b92c1.png" length="120398" type="image/png"/>
-      <pubDate>Mon, 09 Aug 2021 03:20:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Aug 2021 03:55:38 +0000</lastBuildDate>
     <item>
       <title>Japan - The Other Side Of Life (11 plays)</title>
       <link>https://www.last.fm/music/Japan/_/The+Other+Side+Of+Life</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1628566706--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---I'm Waiting for the Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99088f450ca5eecffdd08995d53bcf8b.jpg" length="17373" type="image/jpeg"/>
       <pubDate>Mon, 09 Aug 2021 23:38:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Velvet Underground - Femme Fatale (29 plays)</title>
+      <link>https://www.last.fm/music/The+Velvet+Underground/_/Femme+Fatale</link>
+      <guid isPermaLink="false">Frippertron-1628566987--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---Femme Fatale</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99088f450ca5eecffdd08995d53bcf8b.jpg" length="17373" type="image/jpeg"/>
+      <pubDate>Mon, 09 Aug 2021 23:43:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Velvet Underground - Venus in Furs (68 plays)</title>
+      <link>https://www.last.fm/music/The+Velvet+Underground/_/Venus+in+Furs</link>
+      <guid isPermaLink="false">Frippertron-1628567148--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---Venus in Furs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99088f450ca5eecffdd08995d53bcf8b.jpg" length="17373" type="image/jpeg"/>
+      <pubDate>Mon, 09 Aug 2021 23:45:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Neurosis - Erode (1 play)</title>
+      <link>https://www.last.fm/music/Neurosis/_/Erode</link>
+      <guid isPermaLink="false">Frippertron-1628567469--3fb418fa-3c6e-412a-9218-12adb0408192---Erode</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/477d294050c9d036bcfe5af1d2957bc7.jpg" length="48317" type="image/jpeg"/>
+      <pubDate>Mon, 09 Aug 2021 23:51:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
