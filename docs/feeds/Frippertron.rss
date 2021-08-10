@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Aug 2021 06:23:45 +0000</lastBuildDate>
-    <item>
-      <title>Gorguts - Forgotten Arrows (1 play)</title>
-      <link>https://www.last.fm/music/Gorguts/_/Forgotten+Arrows</link>
-      <guid isPermaLink="false">Frippertron-1628498825--a95ef44c-aeda-4222-9d57-10b28240e634---Forgotten Arrows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb4cfedeae4b8571c983f72ff4d95bfa.png" length="155973" type="image/png"/>
-      <pubDate>Mon, 09 Aug 2021 04:47:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gorguts - Colored Sands (1 play)</title>
-      <link>https://www.last.fm/music/Gorguts/_/Colored+Sands</link>
-      <guid isPermaLink="false">Frippertron-1628500340--a95ef44c-aeda-4222-9d57-10b28240e634---Colored Sands</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb4cfedeae4b8571c983f72ff4d95bfa.png" length="155973" type="image/png"/>
-      <pubDate>Mon, 09 Aug 2021 05:12:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Aug 2021 07:17:21 +0000</lastBuildDate>
     <item>
       <title>Gorguts - The Battle of Chamdo (1 play)</title>
       <link>https://www.last.fm/music/Gorguts/_/The+Battle+of+Chamdo</link>
@@ -345,7 +331,7 @@
       <pubDate>Tue, 10 Aug 2021 01:51:00 -0400</pubDate>
     </item>
     <item>
-      <title>Manic Street Preachers - Faster</title>
+      <title>Manic Street Preachers - Faster (50 plays)</title>
       <link>https://www.last.fm/music/Manic+Street+Preachers/_/Faster</link>
       <guid isPermaLink="false">Frippertron-1628574920--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---Faster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/043da116d0804617c657c5bd6089ddad.png" length="104339" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1628575156--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---4st 7lb</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/043da116d0804617c657c5bd6089ddad.png" length="104339" type="image/png"/>
       <pubDate>Tue, 10 Aug 2021 01:59:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Larks' Tongues In Aspic (Part II) (191 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+In+Aspic+(Part+II)</link>
+      <guid isPermaLink="false">Frippertron-1628579203--King Crimson---Larks' Tongues In Aspic (Part II)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 10 Aug 2021 03:06:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - 21st Century Schizoid Man (294 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/21st+Century+Schizoid+Man</link>
+      <guid isPermaLink="false">Frippertron-1628579564--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---21st Century Schizoid Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 10 Aug 2021 03:12:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
