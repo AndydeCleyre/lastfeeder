@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Aug 2021 03:21:28 +0000</lastBuildDate>
-    <item>
-      <title>Katchafire - 100 (1 play)</title>
-      <link>https://www.last.fm/music/Katchafire/_/100</link>
-      <guid isPermaLink="false">ddgromit-1628547045--24c1a4f1-6de0-46a5-bcec-88167a33b18d---100</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7fb8bd9f814956eb1d733bd5b4d4a262.jpg" length="22318" type="image/jpeg"/>
-      <pubDate>Mon, 09 Aug 2021 18:10:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Aug 2021 04:29:10 +0000</lastBuildDate>
     <item>
       <title>Fat Freddy's Drop - This Room - LOCK-IN (2 plays)</title>
       <link>https://www.last.fm/music/Fat+Freddy%27s+Drop/_/This+Room+-+LOCK-IN</link>
@@ -233,7 +226,7 @@
       <pubDate>Tue, 10 Aug 2021 18:25:43 -0400</pubDate>
     </item>
     <item>
-      <title>Robyn - Dancing On My Own - Radio Edit (8 plays)</title>
+      <title>Robyn - Dancing On My Own - Radio Edit (9 plays)</title>
       <link>https://www.last.fm/music/Robyn/_/Dancing+On+My+Own+-+Radio+Edit</link>
       <guid isPermaLink="false">ddgromit-1628634617--Robyn---Dancing On My Own - Radio Edit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5c899a52d2cfd06a81f489afeaeaff4.png" length="114368" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1628651917--f9777ea6-02fd-4ba1-8266-cd619f3937fd---Trampoline</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3a9c1cf08264fe5dffbe43c0ff1d6fed.jpg" length="13784" type="image/jpeg"/>
       <pubDate>Tue, 10 Aug 2021 23:18:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Robyn - Dancing On My Own - Radio Edit (9 plays)</title>
+      <link>https://www.last.fm/music/Robyn/_/Dancing+On+My+Own+-+Radio+Edit</link>
+      <guid isPermaLink="false">ddgromit-1628652781--Robyn---Dancing On My Own - Radio Edit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5c899a52d2cfd06a81f489afeaeaff4.png" length="114368" type="image/png"/>
+      <pubDate>Tue, 10 Aug 2021 23:33:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
