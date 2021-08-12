@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Aug 2021 14:38:23 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - Atlantic City (19 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/Atlantic+City</link>
-      <guid isPermaLink="false">Arcade1996-1628679436--70248960-cb53-4ea4-943a-edb18f7d336f---Atlantic City</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/92587764cd2b43baadcc8c22cdfc53a3.png" length="141132" type="image/png"/>
-      <pubDate>Wed, 11 Aug 2021 06:57:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Aug 2021 14:52:47 +0000</lastBuildDate>
     <item>
       <title>De La Soul - Breakadawn (1 play)</title>
       <link>https://www.last.fm/music/De+La+Soul/_/Breakadawn</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1628778654--The Killers---West Hills</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d127f383a8ff0bde7ab9b37eb89abe4.png" length="120187" type="image/png"/>
       <pubDate>Thu, 12 Aug 2021 10:30:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Killers - Quiet Town (1 play)</title>
+      <link>https://www.last.fm/music/The+Killers/_/Quiet+Town</link>
+      <guid isPermaLink="false">Arcade1996-1628779012--The Killers---Quiet Town</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d127f383a8ff0bde7ab9b37eb89abe4.png" length="120187" type="image/png"/>
+      <pubDate>Thu, 12 Aug 2021 10:36:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
