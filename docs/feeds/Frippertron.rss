@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Aug 2021 02:38:12 +0000</lastBuildDate>
-    <item>
-      <title>Peter Hammill - A Louse Is Not a Home (18 plays)</title>
-      <link>https://www.last.fm/music/Peter+Hammill/_/A+Louse+Is+Not+a+Home</link>
-      <guid isPermaLink="false">Frippertron-1628742962--3b972356-4410-4858-ab9c-6e3c3cf76609---A Louse Is Not a Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb88163072e011215888e32ec49c5fa0.jpg" length="10881" type="image/jpeg"/>
-      <pubDate>Thu, 12 Aug 2021 00:36:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>10cc - Une Nuit a Paris (3 plays)</title>
-      <link>https://www.last.fm/music/10cc/_/Une+Nuit+a+Paris</link>
-      <guid isPermaLink="false">Frippertron-1628743833--f37c537b-3557-4031-bfd6-ab63ced32854---Une Nuit a Paris</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aff3da7e9cdedcefcbc5fdbdcc50c446.jpg" length="35696" type="image/jpeg"/>
-      <pubDate>Thu, 12 Aug 2021 00:50:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Aug 2021 02:52:12 +0000</lastBuildDate>
     <item>
       <title>10cc - I'm Not in Love (3 plays)</title>
       <link>https://www.last.fm/music/10cc/_/I%27m+Not+in+Love</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1628821886--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Lament</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 12 Aug 2021 22:31:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Exiles (47 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Exiles</link>
+      <guid isPermaLink="false">Frippertron-1628822167--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Exiles</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 12 Aug 2021 22:36:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Improv: A Voyage to the Centre of the Cosmos (3 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Improv:+A+Voyage+to+the+Centre+of+the+Cosmos</link>
+      <guid isPermaLink="false">Frippertron-1628822706--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Improv: A Voyage to the Centre of the Cosmos</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 12 Aug 2021 22:45:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
