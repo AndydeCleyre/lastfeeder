@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Aug 2021 17:08:46 +0000</lastBuildDate>
-    <item>
-      <title>Sum 41 - Fat Lip (7 plays)</title>
-      <link>https://www.last.fm/music/Sum+41/_/Fat+Lip</link>
-      <guid isPermaLink="false">SlitYerGuts-1628978844--f2eef649-a6d5-4114-afba-e50ab26254d2---Fat Lip</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c423974e266c9b30a4045e1ed88006fd.jpg" length="25641" type="image/jpeg"/>
-      <pubDate>Sat, 14 Aug 2021 18:07:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jimmy Eat World - Pain (14 plays)</title>
-      <link>https://www.last.fm/music/Jimmy+Eat+World/_/Pain</link>
-      <guid isPermaLink="false">SlitYerGuts-1628979035--bbc5b66b-d037-4f26-aecf-0b129e7f876a---Pain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c095d73521e18dfdef3538e83dd37cda.png" length="86309" type="image/png"/>
-      <pubDate>Sat, 14 Aug 2021 18:10:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Aug 2021 22:19:19 +0000</lastBuildDate>
     <item>
       <title>Story of the Year - Anthem of Our Dying Day (8 plays)</title>
       <link>https://www.last.fm/music/Story+of+the+Year/_/Anthem+of+Our+Dying+Day</link>
@@ -226,7 +212,7 @@
       <pubDate>Sun, 15 Aug 2021 14:13:08 -0400</pubDate>
     </item>
     <item>
-      <title>EVE 6 - Here's To The Night (1 play)</title>
+      <title>EVE 6 - Here's To The Night</title>
       <link>https://www.last.fm/music/EVE+6/_/Here%27s+To+The+Night</link>
       <guid isPermaLink="false">SlitYerGuts-1629051461--ebd2ac91-6249-4e4b-bde1-353a424138c9---Here's To The Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5398c1afef3cb1165b4aa6875e3829e8.jpg" length="28220" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">SlitYerGuts-1629131641--42d79b6b-2cfe-43f4-b5d9-239503074153---Exit Perfect Mind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcc8b9a2f96b9f4e5810cf07b49eac12.jpg" length="11356" type="image/jpeg"/>
       <pubDate>Mon, 16 Aug 2021 12:34:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>AFI - Twisted Tongues (5 plays)</title>
+      <link>https://www.last.fm/music/AFI/_/Twisted+Tongues</link>
+      <guid isPermaLink="false">SlitYerGuts-1629150802--AFI---Twisted Tongues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50112811db28a3f04845675978b8d618.png" length="182968" type="image/png"/>
+      <pubDate>Mon, 16 Aug 2021 17:53:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>AFI - Far Too Near (2 plays)</title>
+      <link>https://www.last.fm/music/AFI/_/Far+Too+Near</link>
+      <guid isPermaLink="false">SlitYerGuts-1629151043--AFI---Far Too Near</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50112811db28a3f04845675978b8d618.png" length="182968" type="image/png"/>
+      <pubDate>Mon, 16 Aug 2021 17:57:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
