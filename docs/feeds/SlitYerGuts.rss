@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Aug 2021 16:34:53 +0000</lastBuildDate>
-    <item>
-      <title>Linkin Park - Waiting for the End (21 plays)</title>
-      <link>https://www.last.fm/music/Linkin+Park/_/Waiting+for+the+End</link>
-      <guid isPermaLink="false">SlitYerGuts-1629047035--f59c5520-5f46-4d2c-b2c4-822eabf53419---Waiting for the End</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2174f7b60b8b4db6b7e5c0a402aee3ef.png" length="66648" type="image/png"/>
-      <pubDate>Sun, 15 Aug 2021 13:03:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Linkin Park - Numb (43 plays)</title>
-      <link>https://www.last.fm/music/Linkin+Park/_/Numb</link>
-      <guid isPermaLink="false">SlitYerGuts-1629047230--f59c5520-5f46-4d2c-b2c4-822eabf53419---Numb</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b636ff6f39f8dd435c89fc7bd2e002f8.jpg" length="14389" type="image/jpeg"/>
-      <pubDate>Sun, 15 Aug 2021 13:07:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Aug 2021 22:19:12 +0000</lastBuildDate>
     <item>
       <title>Lady Gaga - Paparazzi (48 plays)</title>
       <link>https://www.last.fm/music/Lady+Gaga/_/Paparazzi</link>
@@ -352,11 +338,25 @@
       <pubDate>Tue, 17 Aug 2021 12:22:36 -0400</pubDate>
     </item>
     <item>
-      <title>Genghis Tron - Desert Stairs (1 play)</title>
+      <title>Genghis Tron - Desert Stairs (2 plays)</title>
       <link>https://www.last.fm/music/Genghis+Tron/_/Desert+Stairs</link>
       <guid isPermaLink="false">SlitYerGuts-1629217670--42d79b6b-2cfe-43f4-b5d9-239503074153---Desert Stairs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcc8b9a2f96b9f4e5810cf07b49eac12.jpg" length="11356" type="image/jpeg"/>
       <pubDate>Tue, 17 Aug 2021 12:27:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genghis Tron - Desert Stairs (2 plays)</title>
+      <link>https://www.last.fm/music/Genghis+Tron/_/Desert+Stairs</link>
+      <guid isPermaLink="false">SlitYerGuts-1629238144--42d79b6b-2cfe-43f4-b5d9-239503074153---Desert Stairs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcc8b9a2f96b9f4e5810cf07b49eac12.jpg" length="11356" type="image/jpeg"/>
+      <pubDate>Tue, 17 Aug 2021 18:09:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genghis Tron - Alone In The Heart Of The Light (1 play)</title>
+      <link>https://www.last.fm/music/Genghis+Tron/_/Alone+In+The+Heart+Of+The+Light</link>
+      <guid isPermaLink="false">SlitYerGuts-1629238268--42d79b6b-2cfe-43f4-b5d9-239503074153---Alone In The Heart Of The Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcc8b9a2f96b9f4e5810cf07b49eac12.jpg" length="11356" type="image/jpeg"/>
+      <pubDate>Tue, 17 Aug 2021 18:11:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
