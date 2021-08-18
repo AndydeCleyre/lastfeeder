@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Aug 2021 06:23:27 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Don't Go Near the Water (31 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Don%27t+Go+Near+the+Water</link>
-      <guid isPermaLink="false">Frippertron-1629189738--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Don't Go Near the Water</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/796eff6bb6aa4fe3b2405e9625e97160.png" length="192575" type="image/png"/>
-      <pubDate>Tue, 17 Aug 2021 04:42:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Long Promised Road (65 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Long+Promised+Road</link>
-      <guid isPermaLink="false">Frippertron-1629189901--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Long Promised Road</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/796eff6bb6aa4fe3b2405e9625e97160.png" length="192575" type="image/png"/>
-      <pubDate>Tue, 17 Aug 2021 04:45:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Aug 2021 07:37:49 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Take a Load Off Your Feet (30 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Take+a+Load+Off+Your+Feet</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1629266244--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Pioneers Over C</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
       <pubDate>Wed, 18 Aug 2021 01:57:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Peter Hammill - A Louse Is Not a Home (20 plays)</title>
+      <link>https://www.last.fm/music/Peter+Hammill/_/A+Louse+Is+Not+a+Home</link>
+      <guid isPermaLink="false">Frippertron-1629271082--3b972356-4410-4858-ab9c-6e3c3cf76609---A Louse Is Not a Home</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb88163072e011215888e32ec49c5fa0.jpg" length="10881" type="image/jpeg"/>
+      <pubDate>Wed, 18 Aug 2021 03:18:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Lemmings (20 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Lemmings</link>
+      <guid isPermaLink="false">Frippertron-1629271824--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7171b446be627b4af103454ba62795ea.png" length="180929" type="image/png"/>
+      <pubDate>Wed, 18 Aug 2021 03:30:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
