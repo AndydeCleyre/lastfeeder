@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Aug 2021 08:22:09 +0000</lastBuildDate>
-    <item>
-      <title>Witchwood - A Taste Of Winter (5 plays)</title>
-      <link>https://www.last.fm/music/Witchwood/_/A+Taste+Of+Winter</link>
-      <guid isPermaLink="false">manosg--1629023159--8eb2b29d-ac81-4845-b802-e4746891313b---A Taste Of Winter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b68979522bde78cb5d69a9ed98d25272.jpg" length="38538" type="image/jpeg"/>
-      <pubDate>Sun, 15 Aug 2021 06:25:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Witchwood - Feelin' (4 plays)</title>
-      <link>https://www.last.fm/music/Witchwood/_/Feelin%27</link>
-      <guid isPermaLink="false">manosg--1629023160--8eb2b29d-ac81-4845-b802-e4746891313b---Feelin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b68979522bde78cb5d69a9ed98d25272.jpg" length="38538" type="image/jpeg"/>
-      <pubDate>Sun, 15 Aug 2021 06:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Witchwood - Feelin' (4 plays)</title>
-      <link>https://www.last.fm/music/Witchwood/_/Feelin%27</link>
-      <guid isPermaLink="false">manosg--1629023420--8eb2b29d-ac81-4845-b802-e4746891313b---Feelin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b68979522bde78cb5d69a9ed98d25272.jpg" length="38538" type="image/jpeg"/>
-      <pubDate>Sun, 15 Aug 2021 06:30:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Aug 2021 14:52:35 +0000</lastBuildDate>
     <item>
       <title>Witchwood - Crimson Moon (4 plays)</title>
       <link>https://www.last.fm/music/Witchwood/_/Crimson+Moon</link>
@@ -325,7 +304,7 @@
       <title>Ringarë - A Paean For Endless Snow (3 plays)</title>
       <link>https://www.last.fm/music/Ringar%C3%AB/_/A+Paean+For+Endless+Snow</link>
       <guid isPermaLink="false">manosg--1629272262--ebcc7f57-ca8d-4170-af6d-b04137cfe87c---A Paean For Endless Snow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d71872187c507579b0187306a22140c4.jpg" length="18689" type="image/jpeg"/>
       <pubDate>Wed, 18 Aug 2021 03:37:42 -0400</pubDate>
     </item>
     <item>
@@ -345,6 +324,27 @@
       <link>https://www.last.fm/music/Vinterkrig/_/H%C3%A4rskare+%C3%B6ver+stj%C3%A4rnorna</link>
       <guid isPermaLink="false">manosg--1629274398--Vinterkrig---Härskare över stjärnorna</guid>
       <pubDate>Wed, 18 Aug 2021 04:13:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dunbarrow - When It's All Over (3 plays)</title>
+      <link>https://www.last.fm/music/Dunbarrow/_/When+It%27s+All+Over</link>
+      <guid isPermaLink="false">manosg--1629297435--1a566e15-a039-4fe3-b2a6-9eb3ee838fbf---When It's All Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3968f6fc90a43b7c36d756c0928e2e5.jpg" length="27011" type="image/jpeg"/>
+      <pubDate>Wed, 18 Aug 2021 10:37:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dunbarrow - Curse (1 play)</title>
+      <link>https://www.last.fm/music/Dunbarrow/_/Curse</link>
+      <guid isPermaLink="false">manosg--1629297693--1a566e15-a039-4fe3-b2a6-9eb3ee838fbf---Curse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69855ab68512fbf9fd32ccac97fa05a4.jpg" length="39418" type="image/jpeg"/>
+      <pubDate>Wed, 18 Aug 2021 10:41:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dunbarrow - Lost Forever (1 play)</title>
+      <link>https://www.last.fm/music/Dunbarrow/_/Lost+Forever</link>
+      <guid isPermaLink="false">manosg--1629297983--1a566e15-a039-4fe3-b2a6-9eb3ee838fbf---Lost Forever</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69855ab68512fbf9fd32ccac97fa05a4.jpg" length="39418" type="image/jpeg"/>
+      <pubDate>Wed, 18 Aug 2021 10:46:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
