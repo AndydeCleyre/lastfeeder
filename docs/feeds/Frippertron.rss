@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Aug 2021 06:23:16 +0000</lastBuildDate>
-    <item>
-      <title>Van der Graaf Generator - Killer (23 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Killer</link>
-      <guid isPermaLink="false">Frippertron-1629367981--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Killer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b078c13fab849c0c9d24bae6d42e0ee.jpg" length="19551" type="image/jpeg"/>
-      <pubDate>Thu, 19 Aug 2021 06:13:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Easy Money (131 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Easy+Money</link>
-      <guid isPermaLink="false">Frippertron-1629368559--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Easy Money</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 19 Aug 2021 06:22:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Lament (84 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Lament</link>
-      <guid isPermaLink="false">Frippertron-1629368932--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Lament</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 19 Aug 2021 06:28:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Aug 2021 07:17:54 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Book of Saturday (36 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Book+of+Saturday</link>
@@ -352,11 +331,32 @@
       <pubDate>Fri, 20 Aug 2021 02:01:52 -0400</pubDate>
     </item>
     <item>
-      <title>David Bowie - Sweet Thing (170 plays)</title>
+      <title>David Bowie - Sweet Thing (171 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Sweet+Thing</link>
       <guid isPermaLink="false">Frippertron-1629439675--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sweet Thing</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
       <pubDate>Fri, 20 Aug 2021 02:07:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Sweet Thing (171 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Sweet+Thing</link>
+      <guid isPermaLink="false">Frippertron-1629439894--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sweet Thing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
+      <pubDate>Fri, 20 Aug 2021 02:11:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Candidate (120 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Candidate</link>
+      <guid isPermaLink="false">Frippertron-1629443379--5441c29d-3602-4898-b1a1-b77fa23b8e50---Candidate</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
+      <pubDate>Fri, 20 Aug 2021 03:09:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Sweet Thing (reprise) (94 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Sweet+Thing+(reprise)</link>
+      <guid isPermaLink="false">Frippertron-1629443545--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sweet Thing (reprise)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
+      <pubDate>Fri, 20 Aug 2021 03:12:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
