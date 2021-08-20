@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Aug 2021 07:37:46 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - The Talking Drum (98 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/The+Talking+Drum</link>
-      <guid isPermaLink="false">Frippertron-1629369796--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Talking Drum</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 19 Aug 2021 06:43:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Aug 2021 07:52:47 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Pictures of a City (104 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Pictures+of+a+City</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1629444495--24750b27-fa3d-41e0-8ea3-0307190e647f---Death</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac2261a6273645754105aab2ee928ef1.jpg" length="16364" type="image/jpeg"/>
       <pubDate>Fri, 20 Aug 2021 03:28:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Laurel Halo - Airsick (45 plays)</title>
+      <link>https://www.last.fm/music/Laurel+Halo/_/Airsick</link>
+      <guid isPermaLink="false">Frippertron-1629445344--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Airsick</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c07e216742143ad92ca86e4d6c7831f.png" length="259409" type="image/png"/>
+      <pubDate>Fri, 20 Aug 2021 03:42:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
