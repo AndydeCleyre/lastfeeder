@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Aug 2021 15:44:37 +0000</lastBuildDate>
-    <item>
-      <title>Аквариум - Твоей звезде (1 play)</title>
-      <link>https://www.last.fm/music/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC/_/%D0%A2%D0%B2%D0%BE%D0%B5%D0%B9+%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B5</link>
-      <guid isPermaLink="false">Frippertron-1629438599--8d741103-d319-4cc8-9f4f-9926b5bf112a---Твоей звезде</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9aef18d025374f069b2f815a432a1ee1.png" length="142627" type="image/png"/>
-      <pubDate>Fri, 20 Aug 2021 01:49:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Аквариум - С утра шёл снег (1 play)</title>
-      <link>https://www.last.fm/music/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC/_/%D0%A1+%D1%83%D1%82%D1%80%D0%B0+%D1%88%D1%91%D0%BB+%D1%81%D0%BD%D0%B5%D0%B3</link>
-      <guid isPermaLink="false">Frippertron-1629438727--8d741103-d319-4cc8-9f4f-9926b5bf112a---С утра шёл снег</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9aef18d025374f069b2f815a432a1ee1.png" length="142627" type="image/png"/>
-      <pubDate>Fri, 20 Aug 2021 01:52:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Aug 2021 15:56:38 +0000</lastBuildDate>
     <item>
       <title>Аквариум - Ещё один упавший вниз (1 play)</title>
       <link>https://www.last.fm/music/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC/_/%D0%95%D1%89%D1%91+%D0%BE%D0%B4%D0%B8%D0%BD+%D1%83%D0%BF%D0%B0%D0%B2%D1%88%D0%B8%D0%B9+%D0%B2%D0%BD%D0%B8%D0%B7</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1629559358--5063e5f6-8bf3-4539-b24f-7f821bed27f2---Better Get a Broom!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00766f8dea2f437f81c9e3bbbd66bb18.png" length="117869" type="image/png"/>
       <pubDate>Sat, 21 Aug 2021 11:22:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>MSW - O Brother (1 play)</title>
+      <link>https://www.last.fm/music/MSW/_/O+Brother</link>
+      <guid isPermaLink="false">Frippertron-1629560343--fd63ae8b-afa6-4be4-aab4-94dd91ef6e9f---O Brother</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47a89270aeda356bb39bcd1ed9bf5058.jpg" length="36146" type="image/jpeg"/>
+      <pubDate>Sat, 21 Aug 2021 11:39:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>MSW - Funus (1 play)</title>
+      <link>https://www.last.fm/music/MSW/_/Funus</link>
+      <guid isPermaLink="false">Frippertron-1629560780--fd63ae8b-afa6-4be4-aab4-94dd91ef6e9f---Funus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47a89270aeda356bb39bcd1ed9bf5058.jpg" length="36146" type="image/jpeg"/>
+      <pubDate>Sat, 21 Aug 2021 11:46:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
