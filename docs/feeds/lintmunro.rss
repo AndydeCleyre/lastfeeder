@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Aug 2021 00:56:29 +0000</lastBuildDate>
-    <item>
-      <title>Arin Ray - ZZZ (7 plays)</title>
-      <link>https://www.last.fm/music/Arin+Ray/_/ZZZ</link>
-      <guid isPermaLink="false">lintmunro-1628966156--ba09f88f-d95a-4dad-8e99-60ce49349251---ZZZ</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e060d1c1a3c5d3449d30ec28d60c310f.jpg" length="6547" type="image/jpeg"/>
-      <pubDate>Sat, 14 Aug 2021 14:35:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Aug 2021 17:05:56 +0000</lastBuildDate>
     <item>
       <title>Fatima - Westside (8 plays)</title>
       <link>https://www.last.fm/music/Fatima/_/Westside</link>
@@ -317,7 +310,7 @@
       <pubDate>Thu, 19 Aug 2021 16:10:07 -0400</pubDate>
     </item>
     <item>
-      <title>Succumb - Okeanos (1 play)</title>
+      <title>Succumb - Okeanos</title>
       <link>https://www.last.fm/music/Succumb/_/Okeanos</link>
       <guid isPermaLink="false">lintmunro-1629404282--Succumb---Okeanos</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1629504156--1870fb43-50f1-4660-a879-bb596d1519b6---Revolution In Limbo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a3255a04c32cffa5c39be51acde5d5e.jpg" length="12257" type="image/jpeg"/>
       <pubDate>Fri, 20 Aug 2021 20:02:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Between the Buried and Me - Fix The Error (2 plays)</title>
+      <link>https://www.last.fm/music/Between+the+Buried+and+Me/_/Fix+The+Error</link>
+      <guid isPermaLink="false">lintmunro-1629504708--1870fb43-50f1-4660-a879-bb596d1519b6---Fix The Error</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a3255a04c32cffa5c39be51acde5d5e.jpg" length="12257" type="image/jpeg"/>
+      <pubDate>Fri, 20 Aug 2021 20:11:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
