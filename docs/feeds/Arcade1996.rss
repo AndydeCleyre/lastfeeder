@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Aug 2021 10:54:12 +0000</lastBuildDate>
-    <item>
-      <title>Radiohead - All I Need (20 plays)</title>
-      <link>https://www.last.fm/music/Radiohead/_/All+I+Need</link>
-      <guid isPermaLink="false">Arcade1996-1629712986--a74b1b7f-71a5-4011-9441-d0b5e4122711---All I Need</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d91b7dd13084606b99d756175917f7d.png" length="189314" type="image/png"/>
-      <pubDate>Mon, 23 Aug 2021 06:03:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Aug 2021 12:29:24 +0000</lastBuildDate>
     <item>
       <title>Flying Lotus - Black Balloons Reprise (19 plays)</title>
       <link>https://www.last.fm/music/Flying+Lotus/_/Black+Balloons+Reprise</link>
@@ -135,7 +128,7 @@
       <pubDate>Mon, 23 Aug 2021 08:56:52 -0400</pubDate>
     </item>
     <item>
-      <title>Denzel Curry - The Game (11 plays)</title>
+      <title>Denzel Curry - The Game (12 plays)</title>
       <link>https://www.last.fm/music/Denzel+Curry/_/The+Game</link>
       <guid isPermaLink="false">Arcade1996-1629723647--Denzel Curry---The Game</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/23705422aa3e58e11599f5562065ac1d.jpg" length="27014" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1629801831--959cf5bf-ee29-4af6-a85a-0b480181d988---These Early Days</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2793420057304356a95620cb1ec4eaef.png" length="161863" type="image/png"/>
       <pubDate>Tue, 24 Aug 2021 06:43:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Denzel Curry - The Game (12 plays)</title>
+      <link>https://www.last.fm/music/Denzel+Curry/_/The+Game</link>
+      <guid isPermaLink="false">Arcade1996-1629807990--Denzel Curry---The Game</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/23705422aa3e58e11599f5562065ac1d.jpg" length="27014" type="image/jpeg"/>
+      <pubDate>Tue, 24 Aug 2021 08:26:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
