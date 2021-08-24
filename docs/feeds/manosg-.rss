@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Aug 2021 07:18:07 +0000</lastBuildDate>
-    <item>
-      <title>Men at Work - Down Under (2 plays)</title>
-      <link>https://www.last.fm/music/Men+at+Work/_/Down+Under</link>
-      <guid isPermaLink="false">manosg--1629542245--395cc503-63b5-4a0b-a20a-604e3fcacea2---Down Under</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be456f85aa33444fc470101b2ec2e6bc.png" length="116767" type="image/png"/>
-      <pubDate>Sat, 21 Aug 2021 06:37:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Toto - Rosanna (6 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/Rosanna</link>
-      <guid isPermaLink="false">manosg--1629542646--aab5c954-cabe-432e-899e-1c4f99757327---Rosanna</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80e5970656e54f52b3e29b69de89751e.png" length="221479" type="image/png"/>
-      <pubDate>Sat, 21 Aug 2021 06:44:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Aug 2021 09:23:52 +0000</lastBuildDate>
     <item>
       <title>Yes - Owner of a Lonely Heart (1 play)</title>
       <link>https://www.last.fm/music/Yes/_/Owner+of+a+Lonely+Heart</link>
@@ -290,6 +276,13 @@
       <pubDate>Mon, 23 Aug 2021 14:03:12 -0400</pubDate>
     </item>
     <item>
+      <title>Blood Curse - Isabelle (2 plays)</title>
+      <link>https://www.last.fm/music/Blood+Curse/_/Isabelle</link>
+      <guid isPermaLink="false">manosg--1629785413--0a2e3144-9e61-41ca-9718-cd649ba9489a---Isabelle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58770dc9c967a77cb82e8081e9d04728.jpg" length="24695" type="image/jpeg"/>
+      <pubDate>Tue, 24 Aug 2021 02:10:13 -0400</pubDate>
+    </item>
+    <item>
       <title>Rose City Band - Silver Roses (5 plays)</title>
       <link>https://www.last.fm/music/Rose+City+Band/_/Silver+Roses</link>
       <guid isPermaLink="false">manosg--1629785452--5c0fd749-09f8-4ece-b489-364fa10fe202---Silver Roses</guid>
@@ -344,6 +337,12 @@
       <guid isPermaLink="false">manosg--1629789216--5c0fd749-09f8-4ece-b489-364fa10fe202---Dawn Patrol</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fd34c875fb9316c8c32e9333eb309da.jpg" length="26534" type="image/jpeg"/>
       <pubDate>Tue, 24 Aug 2021 03:13:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sorceress of Sin - Constantine (1 play)</title>
+      <link>https://www.last.fm/music/Sorceress+of+Sin/_/Constantine</link>
+      <guid isPermaLink="false">manosg--1629789712--Sorceress of Sin---Constantine</guid>
+      <pubDate>Tue, 24 Aug 2021 03:21:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
