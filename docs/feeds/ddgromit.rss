@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Aug 2021 19:14:20 +0000</lastBuildDate>
-    <item>
-      <title>Randy Newman - So Long (1 play)</title>
-      <link>https://www.last.fm/music/Randy+Newman/_/So+Long</link>
-      <guid isPermaLink="false">ddgromit-1629839723--da7bb7d8-557d-4635-9ca1-e6e985525bd5---So Long</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b26c722cb55308a72ea929c4bcaa342.jpg" length="19214" type="image/jpeg"/>
-      <pubDate>Tue, 24 Aug 2021 17:15:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Aug 2021 20:19:19 +0000</lastBuildDate>
     <item>
       <title>Dario Marianelli - Awaken (feat. Jack Liebeck) (2 plays)</title>
       <link>https://www.last.fm/music/Dario+Marianelli/_/Awaken+(feat.+Jack+Liebeck)</link>
@@ -177,7 +170,7 @@
       <pubDate>Tue, 24 Aug 2021 22:36:38 -0400</pubDate>
     </item>
     <item>
-      <title>Scayos - Nebula (2 plays)</title>
+      <title>Scayos - Nebula</title>
       <link>https://www.last.fm/music/Scayos/_/Nebula</link>
       <guid isPermaLink="false">ddgromit-1629859154--Scayos---Nebula</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c6db897764a61b7450f5c0e91bbacd2.jpg" length="24526" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1629918043--Corre---A Spark, a Beginning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bab83697db56164db9b6c1155e6553f5.jpg" length="7619" type="image/jpeg"/>
       <pubDate>Wed, 25 Aug 2021 15:00:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenant Rights - The Sign of Wilderness (1 play)</title>
+      <link>https://www.last.fm/music/Tenant+Rights/_/The+Sign+of+Wilderness</link>
+      <guid isPermaLink="false">ddgromit-1629918675--Tenant Rights---The Sign of Wilderness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d52542a32b390c9c73baead48b0ffcb3.jpg" length="15646" type="image/jpeg"/>
+      <pubDate>Wed, 25 Aug 2021 15:11:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
