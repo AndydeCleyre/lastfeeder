@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Aug 2021 09:41:13 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Neuköln (42 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Neuk%C3%B6ln</link>
-      <guid isPermaLink="false">Frippertron-1629860304--5441c29d-3602-4898-b1a1-b77fa23b8e50---Neuköln</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Tue, 24 Aug 2021 22:58:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - The Secret Life of Arabia (70 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Secret+Life+of+Arabia</link>
-      <guid isPermaLink="false">Frippertron-1629860580--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Secret Life of Arabia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Tue, 24 Aug 2021 23:03:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Aug 2021 09:54:22 +0000</lastBuildDate>
     <item>
       <title>Gentle Giant - Just the Same (75 plays)</title>
       <link>https://www.last.fm/music/Gentle+Giant/_/Just+the+Same</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1629884218--678d88b2-87b0-403b-b63d-5da7465aecc3---South Bound Saurez</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0eb877276928ff19d482ae9ea1dedcf1.jpg" length="27431" type="image/jpeg"/>
       <pubDate>Wed, 25 Aug 2021 05:36:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Fool in the Rain (8 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Fool+in+the+Rain</link>
+      <guid isPermaLink="false">Frippertron-1629884473--678d88b2-87b0-403b-b63d-5da7465aecc3---Fool in the Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0eb877276928ff19d482ae9ea1dedcf1.jpg" length="27431" type="image/jpeg"/>
+      <pubDate>Wed, 25 Aug 2021 05:41:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - In the Light (40 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/In+the+Light</link>
+      <guid isPermaLink="false">Frippertron-1629884852--678d88b2-87b0-403b-b63d-5da7465aecc3---In the Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
+      <pubDate>Wed, 25 Aug 2021 05:47:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
