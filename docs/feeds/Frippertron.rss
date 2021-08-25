@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Aug 2021 08:42:27 +0000</lastBuildDate>
-    <item>
-      <title>Yes - To Be Over (55 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/To+Be+Over</link>
-      <guid isPermaLink="false">Frippertron-1629822171--c1d4f2ba-cf39-460c-9528-6b827d3417a1---To Be Over</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
-      <pubDate>Tue, 24 Aug 2021 12:22:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Beauty and the Beast (103 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
-      <guid isPermaLink="false">Frippertron-1629858327--5441c29d-3602-4898-b1a1-b77fa23b8e50---Beauty and the Beast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Tue, 24 Aug 2021 22:25:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Aug 2021 08:54:28 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Joe the Lion (47 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Joe+the+Lion</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1629880723--92de643f-fa8f-4e68-b627-4376711b7b33---All Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
       <pubDate>Wed, 25 Aug 2021 04:38:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - Disappearing (1 play)</title>
+      <link>https://www.last.fm/music/Low/_/Disappearing</link>
+      <guid isPermaLink="false">Frippertron-1629881039--92de643f-fa8f-4e68-b627-4376711b7b33---Disappearing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
+      <pubDate>Wed, 25 Aug 2021 04:43:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - Hey (1 play)</title>
+      <link>https://www.last.fm/music/Low/_/Hey</link>
+      <guid isPermaLink="false">Frippertron-1629881253--92de643f-fa8f-4e68-b627-4376711b7b33---Hey</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
+      <pubDate>Wed, 25 Aug 2021 04:47:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
