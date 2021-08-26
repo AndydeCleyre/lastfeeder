@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Aug 2021 03:41:44 +0000</lastBuildDate>
-    <item>
-      <title>Flash - Watch your Step (9 plays)</title>
-      <link>https://www.last.fm/music/Flash/_/Watch+your+Step</link>
-      <guid isPermaLink="false">Frippertron-1629878848--e01bab3c-fd48-44ab-9091-12a50070ba90---Watch your Step</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3615ac2268bf2750d2a3478ab84c33b6.jpg" length="20402" type="image/jpeg"/>
-      <pubDate>Wed, 25 Aug 2021 04:07:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kraftwerk - Ruckzuck (51 plays)</title>
-      <link>https://www.last.fm/music/Kraftwerk/_/Ruckzuck</link>
-      <guid isPermaLink="false">Frippertron-1629879072--5700dcd4-c139-4f31-aa3e-6382b9af9032---Ruckzuck</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbed016415c2a7cd34d90672fff56c21.png" length="65881" type="image/png"/>
-      <pubDate>Wed, 25 Aug 2021 04:11:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Aug 2021 03:53:35 +0000</lastBuildDate>
     <item>
       <title>Kraftwerk - Vom Himmel Hoch (33 plays)</title>
       <link>https://www.last.fm/music/Kraftwerk/_/Vom+Himmel+Hoch</link>
@@ -317,7 +303,7 @@
       <pubDate>Wed, 25 Aug 2021 23:11:21 -0400</pubDate>
     </item>
     <item>
-      <title>Lewis - Like To See You Again (6 plays)</title>
+      <title>Lewis - Like To See You Again</title>
       <link>https://www.last.fm/music/Lewis/_/Like+To+See+You+Again</link>
       <guid isPermaLink="false">Frippertron-1629947686--Lewis---Like To See You Again</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a80d7835623e4878c87568b973150a6f.png" length="97882" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1629948906--Lewis---Romance For Two</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a80d7835623e4878c87568b973150a6f.png" length="97882" type="image/png"/>
       <pubDate>Wed, 25 Aug 2021 23:35:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Manifesto (15 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Manifesto</link>
+      <guid isPermaLink="false">Frippertron-1629949240--331ce348-1b08-40b9-8ed7-0763b92bd003---Manifesto</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/270341ee809c465cadf861bae0ce7451.png" length="210086" type="image/png"/>
+      <pubDate>Wed, 25 Aug 2021 23:40:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Deacon Blues (36 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Deacon+Blues</link>
+      <guid isPermaLink="false">Frippertron-1629949581--e01c3376-15fa-40d7-b747-5f219bdefdd7---Deacon Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Wed, 25 Aug 2021 23:46:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
