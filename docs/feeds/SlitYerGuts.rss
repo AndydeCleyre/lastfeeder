@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Aug 2021 17:06:24 +0000</lastBuildDate>
-    <item>
-      <title>Fruit Bats - Discovering (1 play)</title>
-      <link>https://www.last.fm/music/Fruit+Bats/_/Discovering</link>
-      <guid isPermaLink="false">SlitYerGuts-1629927176--e3f139c7-11bc-4803-82be-2bac85ca3c61---Discovering</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e96d5190a028f946f62602ad4e934d6.jpg" length="13432" type="image/jpeg"/>
-      <pubDate>Wed, 25 Aug 2021 17:32:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fruit Bats - The Balcony (1 play)</title>
-      <link>https://www.last.fm/music/Fruit+Bats/_/The+Balcony</link>
-      <guid isPermaLink="false">SlitYerGuts-1629927452--e3f139c7-11bc-4803-82be-2bac85ca3c61---The Balcony</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e96d5190a028f946f62602ad4e934d6.jpg" length="13432" type="image/jpeg"/>
-      <pubDate>Wed, 25 Aug 2021 17:37:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Aug 2021 17:35:54 +0000</lastBuildDate>
     <item>
       <title>Fruit Bats - Here For Now, For You (1 play)</title>
       <link>https://www.last.fm/music/Fruit+Bats/_/Here+For+Now,+For+You</link>
@@ -156,7 +142,7 @@
       <pubDate>Thu, 26 Aug 2021 17:40:20 -0400</pubDate>
     </item>
     <item>
-      <title>Cabela and Schmitt - Check the Line (1 play)</title>
+      <title>Cabela and Schmitt - Check the Line (2 plays)</title>
       <link>https://www.last.fm/music/Cabela+and+Schmitt/_/Check+the+Line</link>
       <guid isPermaLink="false">SlitYerGuts-1630014182--df30433f-b44a-4d99-822b-c8e537f41874---Check the Line</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -198,7 +184,7 @@
       <pubDate>Fri, 27 Aug 2021 11:00:46 -0400</pubDate>
     </item>
     <item>
-      <title>Drik Barbosa - Quem Tem Joga (1 play)</title>
+      <title>Drik Barbosa - Quem Tem Joga (2 plays)</title>
       <link>https://www.last.fm/music/Drik+Barbosa/_/Quem+Tem+Joga</link>
       <guid isPermaLink="false">SlitYerGuts-1630076697--51b8f194-ca98-42e8-bb8c-94056aad9b20---Quem Tem Joga</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99a353d17fc55aabfaf8b37dc553624c.jpg" length="17353" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">SlitYerGuts-1630083511--03153d64-813d-4ec0-ae1d-0df3522c0be7---Idiot</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d92f990566306e265db3eec02d4832f.png" length="140734" type="image/png"/>
       <pubDate>Fri, 27 Aug 2021 12:58:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Drik Barbosa - Quem Tem Joga (2 plays)</title>
+      <link>https://www.last.fm/music/Drik+Barbosa/_/Quem+Tem+Joga</link>
+      <guid isPermaLink="false">SlitYerGuts-1630083702--51b8f194-ca98-42e8-bb8c-94056aad9b20---Quem Tem Joga</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99a353d17fc55aabfaf8b37dc553624c.jpg" length="17353" type="image/jpeg"/>
+      <pubDate>Fri, 27 Aug 2021 13:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cabela and Schmitt - Check the Line (2 plays)</title>
+      <link>https://www.last.fm/music/Cabela+and+Schmitt/_/Check+the+Line</link>
+      <guid isPermaLink="false">SlitYerGuts-1630084590--df30433f-b44a-4d99-822b-c8e537f41874---Check the Line</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 27 Aug 2021 13:16:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
