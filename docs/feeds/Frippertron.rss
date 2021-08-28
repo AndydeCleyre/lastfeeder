@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Aug 2021 15:44:03 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Everyone Says 'Hi' (40 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Everyone+Says+%27Hi%27</link>
-      <guid isPermaLink="false">Frippertron-1630103561--5441c29d-3602-4898-b1a1-b77fa23b8e50---Everyone Says 'Hi'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de189195ab834c449adfc34815549796.png" length="157830" type="image/png"/>
-      <pubDate>Fri, 27 Aug 2021 18:32:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - A Better Future (59 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/A+Better+Future</link>
-      <guid isPermaLink="false">Frippertron-1630103802--5441c29d-3602-4898-b1a1-b77fa23b8e50---A Better Future</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de189195ab834c449adfc34815549796.png" length="157830" type="image/png"/>
-      <pubDate>Fri, 27 Aug 2021 18:36:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Aug 2021 15:55:54 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Heathen (The Rays) (69 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Heathen+(The+Rays)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1630164600--b071f9fa-14b0-4217-8e97-eb41da73f598---Salt Of The Earth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35965a03f2d3c9ba77954e06a515cb14.jpg" length="33815" type="image/jpeg"/>
       <pubDate>Sat, 28 Aug 2021 11:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Beach Boys - Slip On Through (60 plays)</title>
+      <link>https://www.last.fm/music/The+Beach+Boys/_/Slip+On+Through</link>
+      <guid isPermaLink="false">Frippertron-1630165539--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Slip On Through</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7c6741f194dbeb9c1a6ce02c3bc88bc.jpg" length="23028" type="image/jpeg"/>
+      <pubDate>Sat, 28 Aug 2021 11:45:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Beach Boys - Add Some Music To Your Day (52 plays)</title>
+      <link>https://www.last.fm/music/The+Beach+Boys/_/Add+Some+Music+To+Your+Day</link>
+      <guid isPermaLink="false">Frippertron-1630165799--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Add Some Music To Your Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7c6741f194dbeb9c1a6ce02c3bc88bc.jpg" length="23028" type="image/jpeg"/>
+      <pubDate>Sat, 28 Aug 2021 11:49:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
