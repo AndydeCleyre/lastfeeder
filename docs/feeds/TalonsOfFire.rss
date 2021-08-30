@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Aug 2021 18:27:38 +0000</lastBuildDate>
-    <item>
-      <title>U2 - Stateless (3 plays)</title>
-      <link>https://www.last.fm/music/U2/_/Stateless</link>
-      <guid isPermaLink="false">TalonsOfFire-1630183304--a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432---Stateless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15430b6e9e014b0860c7e110903bb1c2.jpg" length="28100" type="image/jpeg"/>
-      <pubDate>Sat, 28 Aug 2021 16:41:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>MGMT - Hand It Over (2 plays)</title>
-      <link>https://www.last.fm/music/MGMT/_/Hand+It+Over</link>
-      <guid isPermaLink="false">TalonsOfFire-1630183569--c485632c-b784-4ee9-8ea1-c5fb365681fc---Hand It Over</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28700d076e5afb3bc0fba47ab8e71975.png" length="118649" type="image/png"/>
-      <pubDate>Sat, 28 Aug 2021 16:46:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Aug 2021 19:26:42 +0000</lastBuildDate>
     <item>
       <title>Sade - Kiss Of Life (4 plays)</title>
       <link>https://www.last.fm/music/Sade/_/Kiss+Of+Life</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1630346091--f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302---Villain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8258cdca8879915ccf7fd0043863de.jpg" length="25314" type="image/jpeg"/>
       <pubDate>Mon, 30 Aug 2021 13:54:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Deafheaven - The Gnashing (8 plays)</title>
+      <link>https://www.last.fm/music/Deafheaven/_/The+Gnashing</link>
+      <guid isPermaLink="false">TalonsOfFire-1630346407--f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302---The Gnashing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8258cdca8879915ccf7fd0043863de.jpg" length="25314" type="image/jpeg"/>
+      <pubDate>Mon, 30 Aug 2021 14:00:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Deafheaven - Other Language (4 plays)</title>
+      <link>https://www.last.fm/music/Deafheaven/_/Other+Language</link>
+      <guid isPermaLink="false">TalonsOfFire-1630351132--f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302---Other Language</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8258cdca8879915ccf7fd0043863de.jpg" length="25314" type="image/jpeg"/>
+      <pubDate>Mon, 30 Aug 2021 15:18:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
