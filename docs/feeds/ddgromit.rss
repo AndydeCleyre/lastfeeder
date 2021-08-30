@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Aug 2021 18:45:57 +0000</lastBuildDate>
-    <item>
-      <title>Ukkonen - Kaksi (1 play)</title>
-      <link>https://www.last.fm/music/Ukkonen/_/Kaksi</link>
-      <guid isPermaLink="false">ddgromit-1629936452--Ukkonen---Kaksi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff7a0ad75e954f51cf0b7c3bf997de3f.png" length="121322" type="image/png"/>
-      <pubDate>Wed, 25 Aug 2021 20:07:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Aug 2021 02:31:35 +0000</lastBuildDate>
     <item>
       <title>The Album Leaf - Blank Pages (1 play)</title>
       <link>https://www.last.fm/music/The+Album+Leaf/_/Blank+Pages</link>
@@ -257,6 +250,7 @@
       <title>Harry Gregson-Williams - The Wardrobe (1 play)</title>
       <link>https://www.last.fm/music/Harry+Gregson-Williams/_/The+Wardrobe</link>
       <guid isPermaLink="false">ddgromit-1630088234--Harry Gregson-Williams---The Wardrobe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5705bbd4deee54b5a676d781c0b62e62.jpg" length="28824" type="image/jpeg"/>
       <pubDate>Fri, 27 Aug 2021 14:17:14 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1630176023--5a59b740-deb2-4bd4-8abb-5a46b9c3aa6f---Kites</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a801bf581bc5ef65ce5865301d4ffa4.png" length="105530" type="image/png"/>
       <pubDate>Sat, 28 Aug 2021 14:40:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rezz - Hypnocurrency (2 plays)</title>
+      <link>https://www.last.fm/music/Rezz/_/Hypnocurrency</link>
+      <guid isPermaLink="false">ddgromit-1630216089--2eaf4267-4dd6-412a-9bb0-596afb90215b---Hypnocurrency</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ceb9d5a5d2c7c2bc9475e89141ed2ea5.jpg" length="15687" type="image/jpeg"/>
+      <pubDate>Sun, 29 Aug 2021 01:48:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
