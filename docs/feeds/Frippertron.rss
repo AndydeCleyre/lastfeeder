@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Aug 2021 04:24:15 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Because You're Young (58 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Because+You%27re+Young</link>
-      <guid isPermaLink="false">Frippertron-1630302775--5441c29d-3602-4898-b1a1-b77fa23b8e50---Because You're Young</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
-      <pubDate>Mon, 30 Aug 2021 01:52:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - It's No Game (Part 2) (55 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/It%27s+No+Game+(Part+2)</link>
-      <guid isPermaLink="false">Frippertron-1630303914--5441c29d-3602-4898-b1a1-b77fa23b8e50---It's No Game (Part 2)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
-      <pubDate>Mon, 30 Aug 2021 02:11:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>black midi - Cruising (2 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Cruising</link>
-      <guid isPermaLink="false">Frippertron-1630307956--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Cruising</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
-      <pubDate>Mon, 30 Aug 2021 03:19:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>black midi - John L (18 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/John+L</link>
-      <guid isPermaLink="false">Frippertron-1630308347--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---John L</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
-      <pubDate>Mon, 30 Aug 2021 03:25:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 04:51:38 +0000</lastBuildDate>
     <item>
       <title>black midi - Marlene Dietrich (18 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Marlene+Dietrich</link>
@@ -352,11 +324,39 @@
       <pubDate>Tue, 31 Aug 2021 00:04:39 -0400</pubDate>
     </item>
     <item>
-      <title>Roxy Music - Manifesto (16 plays)</title>
+      <title>Roxy Music - Manifesto (17 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Manifesto</link>
       <guid isPermaLink="false">Frippertron-1630382853--331ce348-1b08-40b9-8ed7-0763b92bd003---Manifesto</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/270341ee809c465cadf861bae0ce7451.png" length="210086" type="image/png"/>
       <pubDate>Tue, 31 Aug 2021 00:07:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Manifesto (17 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Manifesto</link>
+      <guid isPermaLink="false">Frippertron-1630383182--331ce348-1b08-40b9-8ed7-0763b92bd003---Manifesto</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/270341ee809c465cadf861bae0ce7451.png" length="210086" type="image/png"/>
+      <pubDate>Tue, 31 Aug 2021 00:13:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Léo Ferré - La Solitude (22 plays)</title>
+      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/La+Solitude</link>
+      <guid isPermaLink="false">Frippertron-1630384460--15b1cbac-060a-4136-9e07-4622c52c0f60---La Solitude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
+      <pubDate>Tue, 31 Aug 2021 00:34:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Deacon Blues (37 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Deacon+Blues</link>
+      <guid isPermaLink="false">Frippertron-1630384815--e01c3376-15fa-40d7-b747-5f219bdefdd7---Deacon Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Tue, 31 Aug 2021 00:40:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Home At Last (17 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Home+At+Last</link>
+      <guid isPermaLink="false">Frippertron-1630385269--e01c3376-15fa-40d7-b747-5f219bdefdd7---Home At Last</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Tue, 31 Aug 2021 00:47:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
