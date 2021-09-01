@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Sep 2021 09:18:45 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Stay (192 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
-      <guid isPermaLink="false">Frippertron-1630468748--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
-      <pubDate>Tue, 31 Aug 2021 23:59:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Future Legend (34 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Future+Legend</link>
-      <guid isPermaLink="false">Frippertron-1630470418--5441c29d-3602-4898-b1a1-b77fa23b8e50---Future Legend</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
-      <pubDate>Wed, 01 Sep 2021 00:26:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 09:41:11 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Diamond Dogs (100 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Diamond+Dogs</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1630487301--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Dethroned</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
       <pubDate>Wed, 01 Sep 2021 05:08:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Hogwash and Balderdash (18 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Hogwash+and+Balderdash</link>
+      <guid isPermaLink="false">Frippertron-1630488581--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Hogwash and Balderdash</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Wed, 01 Sep 2021 05:29:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Ascending Forth (23 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Ascending+Forth</link>
+      <guid isPermaLink="false">Frippertron-1630488736--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ascending Forth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Wed, 01 Sep 2021 05:32:16 -0400</pubDate>
     </item>
   </channel>
 </rss>
