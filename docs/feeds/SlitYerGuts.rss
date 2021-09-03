@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 15:45:09 +0000</lastBuildDate>
-    <item>
-      <title>Leprous - Have You Ever? (1 play)</title>
-      <link>https://www.last.fm/music/Leprous/_/Have+You+Ever%3F</link>
-      <guid isPermaLink="false">SlitYerGuts-1630539216--a2e55cf5-ca3a-4c26-ba62-fc4a4f2bc603---Have You Ever?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/481b32d39f675139f9b45a13593f7567.png" length="130266" type="image/png"/>
-      <pubDate>Wed, 01 Sep 2021 19:33:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Leprous - The Silent Revelation (1 play)</title>
-      <link>https://www.last.fm/music/Leprous/_/The+Silent+Revelation</link>
-      <guid isPermaLink="false">SlitYerGuts-1630596718--a2e55cf5-ca3a-4c26-ba62-fc4a4f2bc603---The Silent Revelation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/481b32d39f675139f9b45a13593f7567.png" length="130266" type="image/png"/>
-      <pubDate>Thu, 02 Sep 2021 11:31:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Sep 2021 15:57:04 +0000</lastBuildDate>
     <item>
       <title>Leprous - The Shadow Side (1 play)</title>
       <link>https://www.last.fm/music/Leprous/_/The+Shadow+Side</link>
@@ -289,14 +275,14 @@
       <pubDate>Thu, 02 Sep 2021 14:41:52 -0400</pubDate>
     </item>
     <item>
-      <title>Bob Dylan - Lily, Rosemary and the Jack of Hearts (3 plays)</title>
+      <title>Bob Dylan - Lily, Rosemary and the Jack of Hearts (4 plays)</title>
       <link>https://www.last.fm/music/Bob+Dylan/_/Lily,+Rosemary+and+the+Jack+of+Hearts</link>
       <guid isPermaLink="false">SlitYerGuts-1630674541--72c536dc-7137-4477-a521-567eeb840fa8---Lily, Rosemary and the Jack of Hearts</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aee10269cd1d4e488c27b234b2213188.png" length="173672" type="image/png"/>
       <pubDate>Fri, 03 Sep 2021 09:09:01 -0400</pubDate>
     </item>
     <item>
-      <title>Bob Dylan - If You See Her, Say Hello (5 plays)</title>
+      <title>Bob Dylan - If You See Her, Say Hello (6 plays)</title>
       <link>https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello</link>
       <guid isPermaLink="false">SlitYerGuts-1630675071--72c536dc-7137-4477-a521-567eeb840fa8---If You See Her, Say Hello</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aee10269cd1d4e488c27b234b2213188.png" length="173672" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">SlitYerGuts-1630680670--72c536dc-7137-4477-a521-567eeb840fa8---Meet Me in the Morning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aee10269cd1d4e488c27b234b2213188.png" length="173672" type="image/png"/>
       <pubDate>Fri, 03 Sep 2021 10:51:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bob Dylan - Lily, Rosemary and the Jack of Hearts (4 plays)</title>
+      <link>https://www.last.fm/music/Bob+Dylan/_/Lily,+Rosemary+and+the+Jack+of+Hearts</link>
+      <guid isPermaLink="false">SlitYerGuts-1630683443--72c536dc-7137-4477-a521-567eeb840fa8---Lily, Rosemary and the Jack of Hearts</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aee10269cd1d4e488c27b234b2213188.png" length="173672" type="image/png"/>
+      <pubDate>Fri, 03 Sep 2021 11:37:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bob Dylan - If You See Her, Say Hello (6 plays)</title>
+      <link>https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello</link>
+      <guid isPermaLink="false">SlitYerGuts-1630683974--72c536dc-7137-4477-a521-567eeb840fa8---If You See Her, Say Hello</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aee10269cd1d4e488c27b234b2213188.png" length="173672" type="image/png"/>
+      <pubDate>Fri, 03 Sep 2021 11:46:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
