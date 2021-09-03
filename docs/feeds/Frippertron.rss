@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 08:42:46 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Changes (112 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Changes</link>
-      <guid isPermaLink="false">Frippertron-1630576053--5441c29d-3602-4898-b1a1-b77fa23b8e50---Changes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Thu, 02 Sep 2021 05:47:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Oh! You Pretty Things (56 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Oh!+You+Pretty+Things</link>
-      <guid isPermaLink="false">Frippertron-1630576269--5441c29d-3602-4898-b1a1-b77fa23b8e50---Oh! You Pretty Things</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Thu, 02 Sep 2021 05:51:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Sep 2021 08:54:40 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Eight Line Poem (47 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Eight+Line+Poem</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1630658284--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part Two)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Fri, 03 Sep 2021 04:38:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bluetile Lounge - Liner (9 plays)</title>
+      <link>https://www.last.fm/music/Bluetile+Lounge/_/Liner</link>
+      <guid isPermaLink="false">Frippertron-1630658546--70470501-24f7-45f5-abcd-aa5c09e3441d---Liner</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16e9b7f96100438fc309b34be8a16805.jpg" length="12552" type="image/jpeg"/>
+      <pubDate>Fri, 03 Sep 2021 04:42:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bluetile Lounge - Hiding to Crash (9 plays)</title>
+      <link>https://www.last.fm/music/Bluetile+Lounge/_/Hiding+to+Crash</link>
+      <guid isPermaLink="false">Frippertron-1630658970--70470501-24f7-45f5-abcd-aa5c09e3441d---Hiding to Crash</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16e9b7f96100438fc309b34be8a16805.jpg" length="12552" type="image/jpeg"/>
+      <pubDate>Fri, 03 Sep 2021 04:49:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
