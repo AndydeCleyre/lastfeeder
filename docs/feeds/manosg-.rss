@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 15:56:14 +0000</lastBuildDate>
-    <item>
-      <title>Black Sabbath - Nightwing (1 play)</title>
-      <link>https://www.last.fm/music/Black+Sabbath/_/Nightwing</link>
-      <guid isPermaLink="false">manosg--1630509294--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---Nightwing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca6fbac9d7224fd1cf2deb4653a3d579.png" length="145701" type="image/png"/>
-      <pubDate>Wed, 01 Sep 2021 11:14:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Black Sabbath - The Shining (2009 Remaster) (1 play)</title>
-      <link>https://www.last.fm/music/Black+Sabbath/_/The+Shining+(2009+Remaster)</link>
-      <guid isPermaLink="false">manosg--1630510356--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---The Shining (2009 Remaster)</guid>
-      <pubDate>Wed, 01 Sep 2021 11:32:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Sep 2021 16:32:14 +0000</lastBuildDate>
     <item>
       <title>Black Sabbath - Ancient Warrior (2009 Remaster) (1 play)</title>
       <link>https://www.last.fm/music/Black+Sabbath/_/Ancient+Warrior+(2009+Remaster)</link>
@@ -347,11 +334,25 @@
       <pubDate>Fri, 03 Sep 2021 11:43:47 -0400</pubDate>
     </item>
     <item>
-      <title>Iron Maiden - Lost In A Lost World (1 play)</title>
+      <title>Iron Maiden - Lost In A Lost World (2 plays)</title>
       <link>https://www.last.fm/music/Iron+Maiden/_/Lost+In+A+Lost+World</link>
       <guid isPermaLink="false">manosg--1630683831--Iron Maiden---Lost In A Lost World</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
       <pubDate>Fri, 03 Sep 2021 11:43:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Lost In A Lost World (2 plays)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Lost+In+A+Lost+World</link>
+      <guid isPermaLink="false">manosg--1630684919--Iron Maiden---Lost In A Lost World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
+      <pubDate>Fri, 03 Sep 2021 12:01:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Days of Future Past (1 play)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Days+of+Future+Past</link>
+      <guid isPermaLink="false">manosg--1630684923--Iron Maiden---Days of Future Past</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
+      <pubDate>Fri, 03 Sep 2021 12:02:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
