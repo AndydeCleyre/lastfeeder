@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 03:42:03 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - It's About Time (74 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/It%27s+About+Time</link>
-      <guid isPermaLink="false">Frippertron-1630570185--ebfc1398-8d96-47e3-82c3-f782abcdb13d---It's About Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ee3ee51391309c17a7cc4fa10f9d6b.jpg" length="27020" type="image/jpeg"/>
-      <pubDate>Thu, 02 Sep 2021 04:09:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Tears in the Morning (61 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Tears+in+the+Morning</link>
-      <guid isPermaLink="false">Frippertron-1630570364--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Tears in the Morning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ee3ee51391309c17a7cc4fa10f9d6b.jpg" length="27020" type="image/jpeg"/>
-      <pubDate>Thu, 02 Sep 2021 04:12:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Sep 2021 03:53:59 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - All I Wanna Do (126 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1630640253--97c86b2c-2765-46a2-aef8-76a7e24c430f---Generals And Majors</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8836d10c699527cf57fe719308a93b47.png" length="210965" type="image/png"/>
       <pubDate>Thu, 02 Sep 2021 23:37:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Morgan - Fire in the Head (35 plays)</title>
+      <link>https://www.last.fm/music/Morgan/_/Fire+in+the+Head</link>
+      <guid isPermaLink="false">Frippertron-1630640516--7d6fa35a-5bd1-4379-bb26-4ffa8c561e0e---Fire in the Head</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
+      <pubDate>Thu, 02 Sep 2021 23:41:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Morgan - The Sleeper Wakes (30 plays)</title>
+      <link>https://www.last.fm/music/Morgan/_/The+Sleeper+Wakes</link>
+      <guid isPermaLink="false">Frippertron-1630640817--7d6fa35a-5bd1-4379-bb26-4ffa8c561e0e---The Sleeper Wakes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
+      <pubDate>Thu, 02 Sep 2021 23:46:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
