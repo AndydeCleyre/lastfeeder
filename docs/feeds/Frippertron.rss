@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 19:14:42 +0000</lastBuildDate>
-    <item>
-      <title>Low - I Can Wait (3 plays)</title>
-      <link>https://www.last.fm/music/Low/_/I+Can+Wait</link>
-      <guid isPermaLink="false">Frippertron-1630661652--92de643f-fa8f-4e68-b627-4376711b7b33---I Can Wait</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Fri, 03 Sep 2021 05:34:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Sep 2021 19:38:28 +0000</lastBuildDate>
     <item>
       <title>Low - All Night (3 plays)</title>
       <link>https://www.last.fm/music/Low/_/All+Night</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1630696011--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Ladies of the Road</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 03 Sep 2021 15:06:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Groon (38 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Groon</link>
+      <guid isPermaLink="false">Frippertron-1630696399--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Groon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 03 Sep 2021 15:13:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
