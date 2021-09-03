@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 10:21:13 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - She Sells (53 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/She+Sells</link>
-      <guid isPermaLink="false">Frippertron-1630638824--331ce348-1b08-40b9-8ed7-0763b92bd003---She Sells</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
-      <pubDate>Thu, 02 Sep 2021 23:13:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Sep 2021 10:42:16 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - Whirlwind (22 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Whirlwind</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1630663713--92de643f-fa8f-4e68-b627-4376711b7b33---The Price You Pay (It Must Be Wearing Off)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
       <pubDate>Fri, 03 Sep 2021 06:08:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Peter Hammill - A Louse Is Not a Home (25 plays)</title>
+      <link>https://www.last.fm/music/Peter+Hammill/_/A+Louse+Is+Not+a+Home</link>
+      <guid isPermaLink="false">Frippertron-1630664323--3b972356-4410-4858-ab9c-6e3c3cf76609---A Louse Is Not a Home</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb88163072e011215888e32ec49c5fa0.jpg" length="10881" type="image/jpeg"/>
+      <pubDate>Fri, 03 Sep 2021 06:18:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
