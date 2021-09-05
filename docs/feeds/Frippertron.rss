@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 19:52:26 +0000</lastBuildDate>
-    <item>
-      <title>Low - Disappearing (3 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Disappearing</link>
-      <guid isPermaLink="false">Frippertron-1630662214--92de643f-fa8f-4e68-b627-4376711b7b33---Disappearing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Fri, 03 Sep 2021 05:43:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Sep 2021 03:41:49 +0000</lastBuildDate>
     <item>
       <title>Low - Hey (3 plays)</title>
       <link>https://www.last.fm/music/Low/_/Hey</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1630697366--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---21st Century Schizoid Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 03 Sep 2021 15:29:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Zoom (5 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Zoom</link>
+      <guid isPermaLink="false">Frippertron-1630812278--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Zoom</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 04 Sep 2021 23:24:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
