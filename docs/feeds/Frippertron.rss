@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Sep 2021 03:19:35 +0000</lastBuildDate>
-    <item>
-      <title>Peter Hammill - A Louse Is Not a Home (25 plays)</title>
-      <link>https://www.last.fm/music/Peter+Hammill/_/A+Louse+Is+Not+a+Home</link>
-      <guid isPermaLink="false">Frippertron-1630664323--3b972356-4410-4858-ab9c-6e3c3cf76609---A Louse Is Not a Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb88163072e011215888e32ec49c5fa0.jpg" length="10881" type="image/jpeg"/>
-      <pubDate>Fri, 03 Sep 2021 06:18:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Soulful Old Man Sunshine (Writing Session Excerpt) (8 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Soulful+Old+Man+Sunshine+(Writing+Session+Excerpt)</link>
-      <guid isPermaLink="false">Frippertron-1630675545--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Soulful Old Man Sunshine (Writing Session Excerpt)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/083c865fe132468dc64db0127edff06e.jpg" length="30076" type="image/jpeg"/>
-      <pubDate>Fri, 03 Sep 2021 09:25:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Sep 2021 03:42:02 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Soulful Old Man Sunshine (29 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Soulful+Old+Man+Sunshine</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1630897917--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Arrow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
       <pubDate>Sun, 05 Sep 2021 23:11:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - The Sleepwalkers (21 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
+      <guid isPermaLink="false">Frippertron-1630898516--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
+      <pubDate>Sun, 05 Sep 2021 23:21:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Twenty Six - One Exit (1 play)</title>
+      <link>https://www.last.fm/music/Twenty+Six/_/One+Exit</link>
+      <guid isPermaLink="false">Frippertron-1630899179--Twenty Six---One Exit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81eaffa5b7b84556838a02556b797aad.jpg" length="18162" type="image/jpeg"/>
+      <pubDate>Sun, 05 Sep 2021 23:32:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
