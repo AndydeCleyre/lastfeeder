@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Sep 2021 08:54:30 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Pictures of a City (108 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Pictures+of+a+City</link>
-      <guid isPermaLink="false">Frippertron-1630694310--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Pictures of a City</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 03 Sep 2021 14:38:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Sep 2021 09:18:20 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Formentera Lady (68 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Formentera+Lady</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1630917753--José Mário Branco---A Noite</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43d8e7f52fde452abaaf136ab5e148ee.jpg" length="19911" type="image/jpeg"/>
       <pubDate>Mon, 06 Sep 2021 04:42:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Achilles Last Stand (35 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Achilles+Last+Stand</link>
+      <guid isPermaLink="false">Frippertron-1630919351--678d88b2-87b0-403b-b63d-5da7465aecc3---Achilles Last Stand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Mon, 06 Sep 2021 05:09:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
