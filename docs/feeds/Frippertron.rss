@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Sep 2021 09:41:20 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Be My Wife (56 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Be+My+Wife</link>
-      <guid isPermaLink="false">Frippertron-1631159460--5441c29d-3602-4898-b1a1-b77fa23b8e50---Be My Wife</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86f2c847b2304cd89771d152e67f378d.png" length="192641" type="image/png"/>
-      <pubDate>Wed, 08 Sep 2021 23:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - A New Career in a New Town (54 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/A+New+Career+in+a+New+Town</link>
-      <guid isPermaLink="false">Frippertron-1631159639--5441c29d-3602-4898-b1a1-b77fa23b8e50---A New Career in a New Town</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86f2c847b2304cd89771d152e67f378d.png" length="192641" type="image/png"/>
-      <pubDate>Wed, 08 Sep 2021 23:53:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 09:53:13 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Warszawa (49 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Warszawa</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1631180395--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Procession</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/090eb7f6fedb433f8c57a8b0a26c120c.png" length="109639" type="image/png"/>
       <pubDate>Thu, 09 Sep 2021 05:39:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Father to Son (42 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Father+to+Son</link>
+      <guid isPermaLink="false">Frippertron-1631180469--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Father to Son</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/090eb7f6fedb433f8c57a8b0a26c120c.png" length="109639" type="image/png"/>
+      <pubDate>Thu, 09 Sep 2021 05:41:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - White Queen (As It Began) (44 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/White+Queen+(As+It+Began)</link>
+      <guid isPermaLink="false">Frippertron-1631180844--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---White Queen (As It Began)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/090eb7f6fedb433f8c57a8b0a26c120c.png" length="109639" type="image/png"/>
+      <pubDate>Thu, 09 Sep 2021 05:47:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
