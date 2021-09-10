@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 19:38:11 +0000</lastBuildDate>
-    <item>
-      <title>The Shivas - My Baby Don't (1 play)</title>
-      <link>https://www.last.fm/music/The+Shivas/_/My+Baby+Don%27t</link>
-      <guid isPermaLink="false">evilgnomeandy-1631123153--50bb2d85-7a6b-4457-b995-9c1074c17d52---My Baby Don't</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 08 Sep 2021 13:45:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Mose Allison - Your Mind Is On Vacation (1976 Version) (1 play)</title>
-      <link>https://www.last.fm/music/Mose+Allison/_/Your+Mind+Is+On+Vacation+(1976+Version)</link>
-      <guid isPermaLink="false">evilgnomeandy-1631123371--Mose Allison---Your Mind Is On Vacation (1976 Version)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce5824dd94a43c4fbb846052e9030bc6.jpg" length="17958" type="image/jpeg"/>
-      <pubDate>Wed, 08 Sep 2021 13:49:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 19:52:36 +0000</lastBuildDate>
     <item>
       <title>Devendra Banhart - Book of Bringhi (1 play)</title>
       <link>https://www.last.fm/music/Devendra+Banhart/_/Book+of+Bringhi</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1631293261--Pete Fountain---Basin Street Blues</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33cfdb0ee69849a092b2dcee7afbfb77.jpg" length="39415" type="image/jpeg"/>
       <pubDate>Fri, 10 Sep 2021 13:01:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tom Waits - Downtown Train (1 play)</title>
+      <link>https://www.last.fm/music/Tom+Waits/_/Downtown+Train</link>
+      <guid isPermaLink="false">evilgnomeandy-1631302445--c3aeb863-7b26-4388-94e8-5a240f2be21b---Downtown Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/105d5d8d95e64886c80af404ebcfdbe9.png" length="138952" type="image/png"/>
+      <pubDate>Fri, 10 Sep 2021 15:34:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Flaming Lips - Yoshimi Battles The Pink Robots, Pt. 1 (2 plays)</title>
+      <link>https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1</link>
+      <guid isPermaLink="false">evilgnomeandy-1631302863--The Flaming Lips---Yoshimi Battles The Pink Robots, Pt. 1</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e0c41249f1d437e8dc20b2ff9043262.png" length="172938" type="image/png"/>
+      <pubDate>Fri, 10 Sep 2021 15:41:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
