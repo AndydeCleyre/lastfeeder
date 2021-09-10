@@ -7,27 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Sep 2021 16:33:57 +0000</lastBuildDate>
-    <item>
-      <title>Iron Maiden - Senjutsu (4 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Senjutsu</link>
-      <guid isPermaLink="false">manosg--1630911568--Iron Maiden---Senjutsu</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
-      <pubDate>Mon, 06 Sep 2021 02:59:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Stratego (7 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Stratego</link>
-      <guid isPermaLink="false">manosg--1630912050--Iron Maiden---Stratego</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
-      <pubDate>Mon, 06 Sep 2021 03:07:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tuesday the Sky - Half Remembered (1 play)</title>
-      <link>https://www.last.fm/music/Tuesday+the+Sky/_/Half+Remembered</link>
-      <guid isPermaLink="false">manosg--1630912768--Tuesday the Sky---Half Remembered</guid>
-      <pubDate>Mon, 06 Sep 2021 03:19:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 07:52:36 +0000</lastBuildDate>
     <item>
       <title>Tuesday the Sky - Near Light (1 play)</title>
       <link>https://www.last.fm/music/Tuesday+the+Sky/_/Near+Light</link>
@@ -337,6 +317,27 @@
       <guid isPermaLink="false">manosg--1631204149--059afdf5-77e8-4e51-90f5-453b623232ec---A Farewell to Kings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89563a50fde790d433b550ff08157ca4.jpg" length="26220" type="image/jpeg"/>
       <pubDate>Thu, 09 Sep 2021 12:15:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sorcerer - Stargazer (3 plays)</title>
+      <link>https://www.last.fm/music/Sorcerer/_/Stargazer</link>
+      <guid isPermaLink="false">manosg--1631259311--d4b6e0b4-70cb-4ea6-bea7-1cb830a74f38---Stargazer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e5169989a52345dfcdfc48c72bd0d9d.jpg" length="24306" type="image/jpeg"/>
+      <pubDate>Fri, 10 Sep 2021 03:35:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sorcerer - Premonition (4 plays)</title>
+      <link>https://www.last.fm/music/Sorcerer/_/Premonition</link>
+      <guid isPermaLink="false">manosg--1631259749--d4b6e0b4-70cb-4ea6-bea7-1cb830a74f38---Premonition</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e5169989a52345dfcdfc48c72bd0d9d.jpg" length="24306" type="image/jpeg"/>
+      <pubDate>Fri, 10 Sep 2021 03:42:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sorcerer - The Sorcerer (3 plays)</title>
+      <link>https://www.last.fm/music/Sorcerer/_/The+Sorcerer</link>
+      <guid isPermaLink="false">manosg--1631259791--d4b6e0b4-70cb-4ea6-bea7-1cb830a74f38---The Sorcerer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e5169989a52345dfcdfc48c72bd0d9d.jpg" length="24306" type="image/jpeg"/>
+      <pubDate>Fri, 10 Sep 2021 03:43:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
