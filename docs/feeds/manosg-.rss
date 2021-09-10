@@ -7,19 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 16:31:17 +0000</lastBuildDate>
-    <item>
-      <title>Lucifer - Bring Me His Head (1 play)</title>
-      <link>https://www.last.fm/music/Lucifer/_/Bring+Me+His+Head</link>
-      <guid isPermaLink="false">manosg--1631182821--Lucifer---Bring Me His Head</guid>
-      <pubDate>Thu, 09 Sep 2021 06:20:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Mario Elie “Kiss Of Death” 3 - Pointer (4 plays)</title>
-      <link>https://www.last.fm/music/Mario+Elie+%E2%80%9CKiss+Of+Death%E2%80%9D+3/_/Pointer</link>
-      <guid isPermaLink="false">manosg--1631183099--Mario Elie “Kiss Of Death” 3---Pointer</guid>
-      <pubDate>Thu, 09 Sep 2021 06:24:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 17:33:38 +0000</lastBuildDate>
     <item>
       <title>Eric Clapton - This Has Gotta Stop (1 play)</title>
       <link>https://www.last.fm/music/Eric+Clapton/_/This+Has+Gotta+Stop</link>
@@ -347,11 +335,24 @@
       <pubDate>Fri, 10 Sep 2021 12:10:00 -0400</pubDate>
     </item>
     <item>
-      <title>The Night Flight Orchestra - Aeromantic (14 plays)</title>
+      <title>The Night Flight Orchestra - Aeromantic (15 plays)</title>
       <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/Aeromantic</link>
       <guid isPermaLink="false">manosg--1631290204--0aa7e8fd-ba08-4a2d-93fc-91baf635072d---Aeromantic</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9868783b2ea3f9201f7365d52bee4ddb.jpg" length="22963" type="image/jpeg"/>
       <pubDate>Fri, 10 Sep 2021 12:10:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Night Flight Orchestra - Aeromantic (15 plays)</title>
+      <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/Aeromantic</link>
+      <guid isPermaLink="false">manosg--1631293837--0aa7e8fd-ba08-4a2d-93fc-91baf635072d---Aeromantic</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9868783b2ea3f9201f7365d52bee4ddb.jpg" length="22963" type="image/jpeg"/>
+      <pubDate>Fri, 10 Sep 2021 13:10:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mario Elie “Kiss Of Death” 3 - Pointer (5 plays)</title>
+      <link>https://www.last.fm/music/Mario+Elie+%E2%80%9CKiss+Of+Death%E2%80%9D+3/_/Pointer</link>
+      <guid isPermaLink="false">manosg--1631293947--Mario Elie “Kiss Of Death” 3---Pointer</guid>
+      <pubDate>Fri, 10 Sep 2021 13:12:27 -0400</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 17:03:05 +0000</lastBuildDate>
-    <item>
-      <title>Deftones - Ceremony (2 plays)</title>
-      <link>https://www.last.fm/music/Deftones/_/Ceremony</link>
-      <guid isPermaLink="false">lintmunro-1630428595--7527f6c2-d762-4b88-b5e2-9244f1e34c46---Ceremony</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/352a7065fe6c236b20b0c9e585597a8a.jpg" length="29268" type="image/jpeg"/>
-      <pubDate>Tue, 31 Aug 2021 12:49:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 17:34:15 +0000</lastBuildDate>
     <item>
       <title>Cursetheknife - Feeling Real (1 play)</title>
       <link>https://www.last.fm/music/Cursetheknife/_/Feeling+Real</link>
@@ -352,11 +345,18 @@
       <pubDate>Fri, 10 Sep 2021 12:56:33 -0400</pubDate>
     </item>
     <item>
-      <title>Ghost - Enter Sandman</title>
+      <title>Ghost - Enter Sandman (1 play)</title>
       <link>https://www.last.fm/music/Ghost/_/Enter+Sandman</link>
       <guid isPermaLink="false">lintmunro-1631293202--Ghost---Enter Sandman</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/40518e92a0d88fb311d7ed529abf1d53.jpg" length="24924" type="image/jpeg"/>
       <pubDate>Fri, 10 Sep 2021 13:00:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>PUP - Holier Than Thou (1 play)</title>
+      <link>https://www.last.fm/music/PUP/_/Holier+Than+Thou</link>
+      <guid isPermaLink="false">lintmunro-1631293889--3165f5e0-44ff-446a-81d7-c09ec69661ae---Holier Than Thou</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e8178b21b64439636688fed755d15f90.jpg" length="22482" type="image/jpeg"/>
+      <pubDate>Fri, 10 Sep 2021 13:11:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
