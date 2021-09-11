@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Sep 2021 15:19:03 +0000</lastBuildDate>
-    <item>
-      <title>Low - Hey (6 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Hey</link>
-      <guid isPermaLink="false">Frippertron-1631177045--92de643f-fa8f-4e68-b627-4376711b7b33---Hey</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Thu, 09 Sep 2021 04:44:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Radiohead - Everything in Its Right Place (27 plays)</title>
-      <link>https://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place</link>
-      <guid isPermaLink="false">Frippertron-1631177495--a74b1b7f-71a5-4011-9441-d0b5e4122711---Everything in Its Right Place</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" length="184467" type="image/png"/>
-      <pubDate>Thu, 09 Sep 2021 04:51:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Radiohead - No Surprises (17 plays)</title>
-      <link>https://www.last.fm/music/Radiohead/_/No+Surprises</link>
-      <guid isPermaLink="false">Frippertron-1631177742--a74b1b7f-71a5-4011-9441-d0b5e4122711---No Surprises</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62d26c6cb4ac4bdccb8f3a2a0fd55421.png" length="166162" type="image/png"/>
-      <pubDate>Thu, 09 Sep 2021 04:55:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Radiohead - Exit Music (for a Film) (41 plays)</title>
-      <link>https://www.last.fm/music/Radiohead/_/Exit+Music+(for+a+Film)</link>
-      <guid isPermaLink="false">Frippertron-1631177990--a74b1b7f-71a5-4011-9441-d0b5e4122711---Exit Music (for a Film)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62d26c6cb4ac4bdccb8f3a2a0fd55421.png" length="166162" type="image/png"/>
-      <pubDate>Thu, 09 Sep 2021 04:59:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Sep 2021 15:43:13 +0000</lastBuildDate>
     <item>
       <title>Radiohead - The Tourist (13 plays)</title>
       <link>https://www.last.fm/music/Radiohead/_/The+Tourist</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1631372959--92de643f-fa8f-4e68-b627-4376711b7b33---Standby</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bda4486b4ae94bdebe078d0dd226a6e2.png" length="171785" type="image/png"/>
       <pubDate>Sat, 11 Sep 2021 11:09:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - Laugh (1 play)</title>
+      <link>https://www.last.fm/music/Low/_/Laugh</link>
+      <guid isPermaLink="false">Frippertron-1631373267--92de643f-fa8f-4e68-b627-4376711b7b33---Laugh</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bda4486b4ae94bdebe078d0dd226a6e2.png" length="171785" type="image/png"/>
+      <pubDate>Sat, 11 Sep 2021 11:14:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - Lust (1 play)</title>
+      <link>https://www.last.fm/music/Low/_/Lust</link>
+      <guid isPermaLink="false">Frippertron-1631373846--92de643f-fa8f-4e68-b627-4376711b7b33---Lust</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bda4486b4ae94bdebe078d0dd226a6e2.png" length="171785" type="image/png"/>
+      <pubDate>Sat, 11 Sep 2021 11:24:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - Stars Gone Out (1 play)</title>
+      <link>https://www.last.fm/music/Low/_/Stars+Gone+Out</link>
+      <guid isPermaLink="false">Frippertron-1631374092--92de643f-fa8f-4e68-b627-4376711b7b33---Stars Gone Out</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bda4486b4ae94bdebe078d0dd226a6e2.png" length="171785" type="image/png"/>
+      <pubDate>Sat, 11 Sep 2021 11:28:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - Same (1 play)</title>
+      <link>https://www.last.fm/music/Low/_/Same</link>
+      <guid isPermaLink="false">Frippertron-1631374358--92de643f-fa8f-4e68-b627-4376711b7b33---Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bda4486b4ae94bdebe078d0dd226a6e2.png" length="171785" type="image/png"/>
+      <pubDate>Sat, 11 Sep 2021 11:32:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
