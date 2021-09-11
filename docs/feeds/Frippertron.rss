@@ -7,30 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 19:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Sep 2021 14:52:55 +0000</lastBuildDate>
     <item>
-      <title>The Stooges - Loose (102 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/Loose</link>
-      <guid isPermaLink="false">Frippertron-1631175206--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Loose</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfdb5e6cc43184c0d6160c3bef9f43d9.jpg" length="22361" type="image/jpeg"/>
-      <pubDate>Thu, 09 Sep 2021 04:13:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Stooges - Down On The Street (112 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/Down+On+The+Street</link>
-      <guid isPermaLink="false">Frippertron-1631175420--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Down On The Street</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfdb5e6cc43184c0d6160c3bef9f43d9.jpg" length="22361" type="image/jpeg"/>
-      <pubDate>Thu, 09 Sep 2021 04:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Stooges - T.V. Eye (160 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/T.V.+Eye</link>
-      <guid isPermaLink="false">Frippertron-1631175646--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---T.V. Eye</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfdb5e6cc43184c0d6160c3bef9f43d9.jpg" length="22361" type="image/jpeg"/>
-      <pubDate>Thu, 09 Sep 2021 04:20:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Low - White Horses (7 plays)</title>
+      <title>Low - White Horses (8 plays)</title>
       <link>https://www.last.fm/music/Low/_/White+Horses</link>
       <guid isPermaLink="false">Frippertron-1631175955--92de643f-fa8f-4e68-b627-4376711b7b33---White Horses</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
@@ -177,7 +156,7 @@
       <pubDate>Thu, 09 Sep 2021 06:04:45 -0400</pubDate>
     </item>
     <item>
-      <title>Queen - Nevermore (45 plays)</title>
+      <title>Queen - Nevermore</title>
       <link>https://www.last.fm/music/Queen/_/Nevermore</link>
       <guid isPermaLink="false">Frippertron-1631182047--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Nevermore</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/090eb7f6fedb433f8c57a8b0a26c120c.png" length="109639" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1631300661--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---21st Century Schizoid Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 10 Sep 2021 15:04:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - White Horses (8 plays)</title>
+      <link>https://www.last.fm/music/Low/_/White+Horses</link>
+      <guid isPermaLink="false">Frippertron-1631371023--92de643f-fa8f-4e68-b627-4376711b7b33---White Horses</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
+      <pubDate>Sat, 11 Sep 2021 10:37:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - Anon (1 play)</title>
+      <link>https://www.last.fm/music/Low/_/Anon</link>
+      <guid isPermaLink="false">Frippertron-1631371457--92de643f-fa8f-4e68-b627-4376711b7b33---Anon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bda4486b4ae94bdebe078d0dd226a6e2.png" length="171785" type="image/png"/>
+      <pubDate>Sat, 11 Sep 2021 10:44:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - The Plan (1 play)</title>
+      <link>https://www.last.fm/music/Low/_/The+Plan</link>
+      <guid isPermaLink="false">Frippertron-1631371718--92de643f-fa8f-4e68-b627-4376711b7b33---The Plan</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bda4486b4ae94bdebe078d0dd226a6e2.png" length="171785" type="image/png"/>
+      <pubDate>Sat, 11 Sep 2021 10:48:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
