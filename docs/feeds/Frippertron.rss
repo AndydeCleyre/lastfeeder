@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Sep 2021 05:52:32 +0000</lastBuildDate>
-    <item>
-      <title>Low - Canada (2 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Canada</link>
-      <guid isPermaLink="false">Frippertron-1631375896--92de643f-fa8f-4e68-b627-4376711b7b33---Canada</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b06fe97892b42cb90217b2627571d63.png" length="142897" type="image/png"/>
-      <pubDate>Sat, 11 Sep 2021 11:58:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Low - Candy Girl (2 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Candy+Girl</link>
-      <guid isPermaLink="false">Frippertron-1631376119--92de643f-fa8f-4e68-b627-4376711b7b33---Candy Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b06fe97892b42cb90217b2627571d63.png" length="142897" type="image/png"/>
-      <pubDate>Sat, 11 Sep 2021 12:01:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Sep 2021 06:22:23 +0000</lastBuildDate>
     <item>
       <title>Low - Time Is The Diamond (2 plays)</title>
       <link>https://www.last.fm/music/Low/_/Time+Is+The+Diamond</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1631512018--b7ffd2af-418f-4be2-bdd1-22f8b48613da---Hurt</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dc4dedbe1f9441c832c26ec70b5704d.png" length="218407" type="image/png"/>
       <pubDate>Mon, 13 Sep 2021 01:46:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Lemmings (24 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Lemmings</link>
+      <guid isPermaLink="false">Frippertron-1631512462--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7171b446be627b4af103454ba62795ea.png" length="180929" type="image/png"/>
+      <pubDate>Mon, 13 Sep 2021 01:54:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - Do You Know How to Waltz? (2 plays)</title>
+      <link>https://www.last.fm/music/Low/_/Do+You+Know+How+to+Waltz%3F</link>
+      <guid isPermaLink="false">Frippertron-1631513198--92de643f-fa8f-4e68-b627-4376711b7b33---Do You Know How to Waltz?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bda4486b4ae94bdebe078d0dd226a6e2.png" length="171785" type="image/png"/>
+      <pubDate>Mon, 13 Sep 2021 02:06:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
