@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Sep 2021 11:40:35 +0000</lastBuildDate>
-    <item>
-      <title>Acylum - Hunter (4 plays)</title>
-      <link>https://www.last.fm/music/Acylum/_/Hunter</link>
-      <guid isPermaLink="false">WillieFisterbut-1631483437--330bbd94-7391-4fe5-a7ef-c21c6a84cffd---Hunter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/40b98dfe89d6da4769b53d3d18c97aa2.jpg" length="26131" type="image/jpeg"/>
-      <pubDate>Sun, 12 Sep 2021 17:50:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Sep 2021 11:53:01 +0000</lastBuildDate>
     <item>
       <title>Acylum - Sieg oder Walhalla (2 plays)</title>
       <link>https://www.last.fm/music/Acylum/_/Sieg+oder+Walhalla</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">WillieFisterbut-1631532780--af575064-0f47-42d3-abb5-6d07ae292e55---Imperator</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bbefc505aa3709548c4627f4584ff49.jpg" length="30679" type="image/jpeg"/>
       <pubDate>Mon, 13 Sep 2021 07:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ex Deo - The Head of the Snake (1 play)</title>
+      <link>https://www.last.fm/music/Ex+Deo/_/The+Head+of+the+Snake</link>
+      <guid isPermaLink="false">WillieFisterbut-1631533026--af575064-0f47-42d3-abb5-6d07ae292e55---The Head of the Snake</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bbefc505aa3709548c4627f4584ff49.jpg" length="30679" type="image/jpeg"/>
+      <pubDate>Mon, 13 Sep 2021 07:37:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
