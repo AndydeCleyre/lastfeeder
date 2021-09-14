@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Sep 2021 20:19:36 +0000</lastBuildDate>
-    <item>
-      <title>RudeManners - Somewun (1 play)</title>
-      <link>https://www.last.fm/music/RudeManners/_/Somewun</link>
-      <guid isPermaLink="false">ddgromit-1631553765--711370b3-9930-4f02-a347-e357ffaec165---Somewun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f92484bcfba9f9f1ee56922a719c2e91.jpg" length="22292" type="image/jpeg"/>
-      <pubDate>Mon, 13 Sep 2021 13:22:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Flying Lotus - Getting There (2 plays)</title>
-      <link>https://www.last.fm/music/Flying+Lotus/_/Getting+There</link>
-      <guid isPermaLink="false">ddgromit-1631553953--fc7376fe-1a6f-4414-b4a7-83f50ed59c92---Getting There</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c173c6486e9841a8b148ae5030a1ebdf.png" length="89086" type="image/png"/>
-      <pubDate>Mon, 13 Sep 2021 13:25:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Isohype - Dive (3 plays)</title>
-      <link>https://www.last.fm/music/Isohype/_/Dive</link>
-      <guid isPermaLink="false">ddgromit-1631554725--Isohype---Dive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 13 Sep 2021 13:38:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Plusma - Forumvibe#4 (3 plays)</title>
-      <link>https://www.last.fm/music/Plusma/_/Forumvibe%234</link>
-      <guid isPermaLink="false">ddgromit-1631554906--10e9397c-f2c4-4618-9772-625c4421415c---Forumvibe#4</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/785a394c6d01fb91bc315f01dbf75f06.jpg" length="28352" type="image/jpeg"/>
-      <pubDate>Mon, 13 Sep 2021 13:41:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Sep 2021 20:40:14 +0000</lastBuildDate>
     <item>
       <title>VHVL - 0006 (3 plays)</title>
       <link>https://www.last.fm/music/VHVL/_/0006</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">ddgromit-1631650525--Taylor Swift---Love Story (Taylor’s Version)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1aaa3638ee0bfee0ba8089c78ad63b26.jpg" length="18850" type="image/jpeg"/>
       <pubDate>Tue, 14 Sep 2021 16:15:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Denver - Take Me Home, Country Roads (1 play)</title>
+      <link>https://www.last.fm/music/John+Denver/_/Take+Me+Home,+Country+Roads</link>
+      <guid isPermaLink="false">ddgromit-1631650860--34e10b51-b5c6-4bc1-b70e-f05f141eda1e---Take Me Home, Country Roads</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10da75dda1c1df4357280824d800f3b9.jpg" length="19529" type="image/jpeg"/>
+      <pubDate>Tue, 14 Sep 2021 16:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dire Straits - Sultans of Swing (47 plays)</title>
+      <link>https://www.last.fm/music/Dire+Straits/_/Sultans+of+Swing</link>
+      <guid isPermaLink="false">ddgromit-1631651058--614e3804-7d34-41ba-857f-811bad7c2b7a---Sultans of Swing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc8218235b6f438dbddd294d9022880e.png" length="83558" type="image/png"/>
+      <pubDate>Tue, 14 Sep 2021 16:24:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Portugal. The Man - Feel It Still (6 plays)</title>
+      <link>https://www.last.fm/music/Portugal.+The+Man/_/Feel+It+Still</link>
+      <guid isPermaLink="false">ddgromit-1631651444--3599a39e-4e10-4cb5-90d4-c8a015ebc73b---Feel It Still</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d56dc3794dfe83224f8257a27c6864ac.jpg" length="28238" type="image/jpeg"/>
+      <pubDate>Tue, 14 Sep 2021 16:30:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Justin Bieber - Hold On (1 play)</title>
+      <link>https://www.last.fm/music/Justin+Bieber/_/Hold+On</link>
+      <guid isPermaLink="false">ddgromit-1631651624--e0140a67-e4d1-4f13-8a01-364355bee46e---Hold On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a3d813e3e2ac451f52d45297c8c5017.jpg" length="26863" type="image/jpeg"/>
+      <pubDate>Tue, 14 Sep 2021 16:33:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
