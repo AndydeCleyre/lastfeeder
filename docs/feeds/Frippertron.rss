@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Sep 2021 03:41:42 +0000</lastBuildDate>
-    <item>
-      <title>Aphex Twin - Strotha Tynhe (1 play)</title>
-      <link>https://www.last.fm/music/Aphex+Twin/_/Strotha+Tynhe</link>
-      <guid isPermaLink="false">Frippertron-1631518314--f22942a1-6f70-4f48-866e-238cb2308fbd---Strotha Tynhe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e35e044f0ea914064a303b34aedaf1d.gif" length="236025" type="image/gif"/>
-      <pubDate>Mon, 13 Sep 2021 03:31:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Sep 2021 03:53:16 +0000</lastBuildDate>
     <item>
       <title>Aphex Twin - Gwely Mernans (1 play)</title>
       <link>https://www.last.fm/music/Aphex+Twin/_/Gwely+Mernans</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1631590783--1cd29434-ae52-4651-b620-0c2c53e39c55---The Sad Skinhead</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/662a75daba52456fa02404ec6935a3c4.jpg" length="27982" type="image/jpeg"/>
       <pubDate>Mon, 13 Sep 2021 23:39:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Improv (21 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Improv</link>
+      <guid isPermaLink="false">Frippertron-1631591070--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Improv</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 13 Sep 2021 23:44:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
