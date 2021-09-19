@@ -7,19 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Sep 2021 07:17:09 +0000</lastBuildDate>
-    <item>
-      <title>Auri - Kiss the Mountain (1 play)</title>
-      <link>https://www.last.fm/music/Auri/_/Kiss+the+Mountain</link>
-      <guid isPermaLink="false">manosg--1631802447--32805f2c-34d5-4ec4-a57d-fbebf7212812---Kiss the Mountain</guid>
-      <pubDate>Thu, 16 Sep 2021 10:27:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Auri - Light and Flood (1 play)</title>
-      <link>https://www.last.fm/music/Auri/_/Light+and+Flood</link>
-      <guid isPermaLink="false">manosg--1631802660--32805f2c-34d5-4ec4-a57d-fbebf7212812---Light and Flood</guid>
-      <pubDate>Thu, 16 Sep 2021 10:31:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Sep 2021 07:37:37 +0000</lastBuildDate>
     <item>
       <title>Auri - It Takes Me Places (1 play)</title>
       <link>https://www.last.fm/music/Auri/_/It+Takes+Me+Places</link>
@@ -346,6 +334,19 @@
       <guid isPermaLink="false">manosg--1632035435--7dba6614-d0bd-4950-8b7b-841b31c413c2---Under the Oak</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/590bce962ee04efe8bf1a75b734424c3.jpg" length="28034" type="image/jpeg"/>
       <pubDate>Sun, 19 Sep 2021 03:10:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Candlemass - A Sorcerer's Pledge (5 plays)</title>
+      <link>https://www.last.fm/music/Candlemass/_/A+Sorcerer%27s+Pledge</link>
+      <guid isPermaLink="false">manosg--1632035849--7dba6614-d0bd-4950-8b7b-841b31c413c2---A Sorcerer's Pledge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e8a655d0376944f2ab4a142300e17092.jpg" length="12058" type="image/jpeg"/>
+      <pubDate>Sun, 19 Sep 2021 03:17:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Candlemass - Nightfall (1 play)</title>
+      <link>https://www.last.fm/music/Candlemass/_/Nightfall</link>
+      <guid isPermaLink="false">manosg--1632036495--Candlemass---Nightfall</guid>
+      <pubDate>Sun, 19 Sep 2021 03:28:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
