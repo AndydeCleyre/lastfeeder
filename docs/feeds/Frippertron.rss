@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Sep 2021 08:21:41 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Right (38 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Right</link>
-      <guid isPermaLink="false">Frippertron-1632238304--5441c29d-3602-4898-b1a1-b77fa23b8e50---Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Tue, 21 Sep 2021 11:31:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Somebody Up There Likes Me (37 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
-      <guid isPermaLink="false">Frippertron-1632238567--5441c29d-3602-4898-b1a1-b77fa23b8e50---Somebody Up There Likes Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Tue, 21 Sep 2021 11:36:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Sep 2021 08:42:46 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Across the Universe (17 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Across+the+Universe</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1632298153--3979eee5-c72a-4b0a-9191-a0243881250a---The First Matter (Saturn in the Guise of Sadness)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/faafd120b6b44b80b46ea5cb36b761e2.png" length="98704" type="image/png"/>
       <pubDate>Wed, 22 Sep 2021 04:09:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - The Second Operation (Lunar Water) (3 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/The+Second+Operation+(Lunar+Water)</link>
+      <guid isPermaLink="false">Frippertron-1632298724--3979eee5-c72a-4b0a-9191-a0243881250a---The Second Operation (Lunar Water)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/faafd120b6b44b80b46ea5cb36b761e2.png" length="98704" type="image/png"/>
+      <pubDate>Wed, 22 Sep 2021 04:18:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Floodgate (3 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Floodgate</link>
+      <guid isPermaLink="false">Frippertron-1632299807--3979eee5-c72a-4b0a-9191-a0243881250a---Floodgate</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/faafd120b6b44b80b46ea5cb36b761e2.png" length="98704" type="image/png"/>
+      <pubDate>Wed, 22 Sep 2021 04:36:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
