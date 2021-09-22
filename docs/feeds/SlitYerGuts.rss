@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Sep 2021 23:39:49 +0000</lastBuildDate>
-    <item>
-      <title>Bleachers - chinatown (feat. Bruce Springsteen) (4 plays)</title>
-      <link>https://www.last.fm/music/Bleachers/_/chinatown+(feat.+Bruce+Springsteen)</link>
-      <guid isPermaLink="false">SlitYerGuts-1632313733--58e235fc-f6ea-4614-9ed4-9855a5665ae1---chinatown (feat. Bruce Springsteen)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b13307ce100f179ed81ea9cd972af3af.jpg" length="23480" type="image/jpeg"/>
-      <pubDate>Wed, 22 Sep 2021 08:28:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Drinking Boys and Girls Choir - Limitless Night (1 play)</title>
-      <link>https://www.last.fm/music/Drinking+Boys+and+Girls+Choir/_/Limitless+Night</link>
-      <guid isPermaLink="false">SlitYerGuts-1632313987--75f91440-24ae-4673-bb26-73fd12234373---Limitless Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ebad3a83119d2dd93436b170c41a81fa.jpg" length="16759" type="image/jpeg"/>
-      <pubDate>Wed, 22 Sep 2021 08:33:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>Drinking Boys and Girls Choir - Odoby (1 play)</title>
-      <link>https://www.last.fm/music/Drinking+Boys+and+Girls+Choir/_/Odoby</link>
-      <guid isPermaLink="false">SlitYerGuts-1632314066--75f91440-24ae-4673-bb26-73fd12234373---Odoby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ebad3a83119d2dd93436b170c41a81fa.jpg" length="16759" type="image/jpeg"/>
-      <pubDate>Wed, 22 Sep 2021 08:34:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Sep 2021 23:52:18 +0000</lastBuildDate>
     <item>
       <title>Drinking Boys and Girls Choir - There is no spring (1 play)</title>
       <link>https://www.last.fm/music/Drinking+Boys+and+Girls+Choir/_/There+is+no+spring</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">SlitYerGuts-1632353375--Eidola---Occam's Razor</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c31ba7b7d9e4f19a342f1be8eeabae09.jpg" length="24127" type="image/jpeg"/>
       <pubDate>Wed, 22 Sep 2021 19:29:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eidola - Perennial Philosophy (1 play)</title>
+      <link>https://www.last.fm/music/Eidola/_/Perennial+Philosophy</link>
+      <guid isPermaLink="false">SlitYerGuts-1632353486--Eidola---Perennial Philosophy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c31ba7b7d9e4f19a342f1be8eeabae09.jpg" length="24127" type="image/jpeg"/>
+      <pubDate>Wed, 22 Sep 2021 19:31:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eidola - Forgotten Tongues (1 play)</title>
+      <link>https://www.last.fm/music/Eidola/_/Forgotten+Tongues</link>
+      <guid isPermaLink="false">SlitYerGuts-1632354281--Eidola---Forgotten Tongues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c31ba7b7d9e4f19a342f1be8eeabae09.jpg" length="24127" type="image/jpeg"/>
+      <pubDate>Wed, 22 Sep 2021 19:44:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eidola - Unequivocal Nature (1 play)</title>
+      <link>https://www.last.fm/music/Eidola/_/Unequivocal+Nature</link>
+      <guid isPermaLink="false">SlitYerGuts-1632354511--Eidola---Unequivocal Nature</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c31ba7b7d9e4f19a342f1be8eeabae09.jpg" length="24127" type="image/jpeg"/>
+      <pubDate>Wed, 22 Sep 2021 19:48:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
