@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Sep 2021 22:40:10 +0000</lastBuildDate>
-    <item>
-      <title>Agnes Obel - Familiar (24 plays)</title>
-      <link>https://www.last.fm/music/Agnes+Obel/_/Familiar</link>
-      <guid isPermaLink="false">ddgromit-1631640761--e3c4c4af-f83b-4168-84cb-898009dd0447---Familiar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7484253c26648de4bb40fce68ca77e2d.jpg" length="14395" type="image/jpeg"/>
-      <pubDate>Tue, 14 Sep 2021 13:32:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Agnes Obel - Riverside (5 plays)</title>
-      <link>https://www.last.fm/music/Agnes+Obel/_/Riverside</link>
-      <guid isPermaLink="false">ddgromit-1631640955--e3c4c4af-f83b-4168-84cb-898009dd0447---Riverside</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e21208e4351466dbd9b7ae1f0c06d06.jpg" length="15606" type="image/jpeg"/>
-      <pubDate>Tue, 14 Sep 2021 13:35:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Sep 2021 04:24:55 +0000</lastBuildDate>
     <item>
       <title>Agnes Obel - September Song (9 plays)</title>
       <link>https://www.last.fm/music/Agnes+Obel/_/September+Song</link>
@@ -177,7 +163,7 @@
       <pubDate>Tue, 14 Sep 2021 16:21:00 -0400</pubDate>
     </item>
     <item>
-      <title>Dire Straits - Sultans of Swing (47 plays)</title>
+      <title>Dire Straits - Sultans of Swing (48 plays)</title>
       <link>https://www.last.fm/music/Dire+Straits/_/Sultans+of+Swing</link>
       <guid isPermaLink="false">ddgromit-1631651058--614e3804-7d34-41ba-857f-811bad7c2b7a---Sultans of Swing</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc8218235b6f438dbddd294d9022880e.png" length="83558" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1632263224--f1560407-8826-4ec9-b78f-e0c3fa3ea4f5---Time Is the Enemy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/218e161ad1c64e659576266aa3068259.png" length="130487" type="image/png"/>
       <pubDate>Tue, 21 Sep 2021 18:27:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dire Straits - Sultans of Swing (48 plays)</title>
+      <link>https://www.last.fm/music/Dire+Straits/_/Sultans+of+Swing</link>
+      <guid isPermaLink="false">ddgromit-1632370068--614e3804-7d34-41ba-857f-811bad7c2b7a---Sultans of Swing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc8218235b6f438dbddd294d9022880e.png" length="83558" type="image/png"/>
+      <pubDate>Thu, 23 Sep 2021 00:07:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>SZA - The Weekend (1 play)</title>
+      <link>https://www.last.fm/music/SZA/_/The+Weekend</link>
+      <guid isPermaLink="false">ddgromit-1632370625--272989c8-5535-492d-a25c-9f58803e027f---The Weekend</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9dcae165f522e0d818f7e75a3b5b6e16.jpg" length="33326" type="image/jpeg"/>
+      <pubDate>Thu, 23 Sep 2021 00:17:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
