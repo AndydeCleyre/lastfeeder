@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Sep 2021 05:16:50 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Peg (34 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Peg</link>
-      <guid isPermaLink="false">Frippertron-1632473435--e01c3376-15fa-40d7-b747-5f219bdefdd7---Peg</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Fri, 24 Sep 2021 04:50:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Home At Last (18 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Home+At+Last</link>
-      <guid isPermaLink="false">Frippertron-1632473679--e01c3376-15fa-40d7-b747-5f219bdefdd7---Home At Last</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Fri, 24 Sep 2021 04:54:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - I Got The News (10 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/I+Got+The+News</link>
-      <guid isPermaLink="false">Frippertron-1632474016--e01c3376-15fa-40d7-b747-5f219bdefdd7---I Got The News</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Fri, 24 Sep 2021 05:00:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Sep 2021 05:37:14 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Josie (10 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Josie</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1632719437--722b2118-a77b-4161-9060-63a1b469e5b2---Feeding the Fire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf202251fb7131f6dbc08be64d0a43c5.png" length="137052" type="image/png"/>
       <pubDate>Mon, 27 Sep 2021 01:10:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - The Brazilian (4 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/The+Brazilian</link>
+      <guid isPermaLink="false">Frippertron-1632719791--722b2118-a77b-4161-9060-63a1b469e5b2---The Brazilian</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf202251fb7131f6dbc08be64d0a43c5.png" length="137052" type="image/png"/>
+      <pubDate>Mon, 27 Sep 2021 01:16:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Knife - A Tooth for an Eye (26 plays)</title>
+      <link>https://www.last.fm/music/The+Knife/_/A+Tooth+for+an+Eye</link>
+      <guid isPermaLink="false">Frippertron-1632720098--bf710b71-48e5-4e15-9bd6-96debb2e4e98---A Tooth for an Eye</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17e442acb6944d90bb4a169b8557f57e.png" length="51739" type="image/png"/>
+      <pubDate>Mon, 27 Sep 2021 01:21:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Knife - Full of Fire (42 plays)</title>
+      <link>https://www.last.fm/music/The+Knife/_/Full+of+Fire</link>
+      <guid isPermaLink="false">Frippertron-1632720462--bf710b71-48e5-4e15-9bd6-96debb2e4e98---Full of Fire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17e442acb6944d90bb4a169b8557f57e.png" length="51739" type="image/png"/>
+      <pubDate>Mon, 27 Sep 2021 01:27:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
