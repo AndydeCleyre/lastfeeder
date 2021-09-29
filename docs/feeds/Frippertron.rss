@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 07:52:27 +0000</lastBuildDate>
-    <item>
-      <title>Peter Gabriel - San Jacinto (12 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/San+Jacinto</link>
-      <guid isPermaLink="false">Frippertron-1632813970--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---San Jacinto</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/587a22e503394459c464e4bd17524e77.png" length="127992" type="image/png"/>
-      <pubDate>Tue, 28 Sep 2021 03:26:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - I Have the Touch (12 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/I+Have+the+Touch</link>
-      <guid isPermaLink="false">Frippertron-1632814366--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---I Have the Touch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/587a22e503394459c464e4bd17524e77.png" length="127992" type="image/png"/>
-      <pubDate>Tue, 28 Sep 2021 03:32:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Sep 2021 08:21:47 +0000</lastBuildDate>
     <item>
       <title>Peter Gabriel - The Family and the Fishing Net (11 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/The+Family+and+the+Fishing+Net</link>
@@ -135,7 +121,7 @@
       <pubDate>Tue, 28 Sep 2021 05:36:19 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - In the Cage (70 plays)</title>
+      <title>Genesis - In the Cage (71 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/In+the+Cage</link>
       <guid isPermaLink="false">Frippertron-1632822026--722b2118-a77b-4161-9060-63a1b469e5b2---In the Cage</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ebda5f641d447b18945e74750ba54cc.png" length="31461" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1632901636--151db741-2e12-47dd-97d0-8d27f91bbce2---Bereft</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c237adcee89c44e3b37e1ecc9c46a657.jpg" length="46776" type="image/jpeg"/>
       <pubDate>Wed, 29 Sep 2021 03:47:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Eleventh Earl of Mar (22 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Eleventh+Earl+of+Mar</link>
+      <guid isPermaLink="false">Frippertron-1632902482--722b2118-a77b-4161-9060-63a1b469e5b2---Eleventh Earl of Mar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d994fac72607b85fd1bd1029ac39b25c.jpg" length="22181" type="image/jpeg"/>
+      <pubDate>Wed, 29 Sep 2021 04:01:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - In the Cage (71 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/In+the+Cage</link>
+      <guid isPermaLink="false">Frippertron-1632903099--722b2118-a77b-4161-9060-63a1b469e5b2---In the Cage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d994fac72607b85fd1bd1029ac39b25c.jpg" length="22181" type="image/jpeg"/>
+      <pubDate>Wed, 29 Sep 2021 04:11:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
