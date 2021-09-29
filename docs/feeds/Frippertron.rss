@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 03:53:44 +0000</lastBuildDate>
-    <item>
-      <title>Old - Outlive (3 plays)</title>
-      <link>https://www.last.fm/music/Old/_/Outlive</link>
-      <guid isPermaLink="false">Frippertron-1632803565--Old---Outlive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0fb022c5b8884402c44d8396e3891cf6.jpg" length="41056" type="image/jpeg"/>
-      <pubDate>Tue, 28 Sep 2021 00:32:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Sep 2021 04:24:30 +0000</lastBuildDate>
     <item>
       <title>Old - Disconnect Self (1 play)</title>
       <link>https://www.last.fm/music/Old/_/Disconnect+Self</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1632887018--c14b4180-dc87-481e-b17a-64e4150f90f6---Face of Melinda</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76e4c7a3754d47df8f0ab8a42bd097bb.png" length="213228" type="image/png"/>
       <pubDate>Tue, 28 Sep 2021 23:43:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Opeth - Serenity Painted Death (2 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/Serenity+Painted+Death</link>
+      <guid isPermaLink="false">Frippertron-1632887498--c14b4180-dc87-481e-b17a-64e4150f90f6---Serenity Painted Death</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76e4c7a3754d47df8f0ab8a42bd097bb.png" length="213228" type="image/png"/>
+      <pubDate>Tue, 28 Sep 2021 23:51:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
