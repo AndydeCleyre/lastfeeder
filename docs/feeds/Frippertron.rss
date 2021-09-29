@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 04:24:30 +0000</lastBuildDate>
-    <item>
-      <title>Old - Disconnect Self (1 play)</title>
-      <link>https://www.last.fm/music/Old/_/Disconnect+Self</link>
-      <guid isPermaLink="false">Frippertron-1632803797--Old---Disconnect Self</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0fb022c5b8884402c44d8396e3891cf6.jpg" length="41056" type="image/jpeg"/>
-      <pubDate>Tue, 28 Sep 2021 00:36:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Old - Citient Null (1 play)</title>
-      <link>https://www.last.fm/music/Old/_/Citient+Null</link>
-      <guid isPermaLink="false">Frippertron-1632804079--Old---Citient Null</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0fb022c5b8884402c44d8396e3891cf6.jpg" length="41056" type="image/jpeg"/>
-      <pubDate>Tue, 28 Sep 2021 00:41:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Sep 2021 04:50:17 +0000</lastBuildDate>
     <item>
       <title>Old - Lo Flux Tube (1 play)</title>
       <link>https://www.last.fm/music/Old/_/Lo+Flux+Tube</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1632887498--c14b4180-dc87-481e-b17a-64e4150f90f6---Serenity Painted Death</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76e4c7a3754d47df8f0ab8a42bd097bb.png" length="213228" type="image/png"/>
       <pubDate>Tue, 28 Sep 2021 23:51:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Opeth - White Cluster (2 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/White+Cluster</link>
+      <guid isPermaLink="false">Frippertron-1632888054--c14b4180-dc87-481e-b17a-64e4150f90f6---White Cluster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76e4c7a3754d47df8f0ab8a42bd097bb.png" length="213228" type="image/png"/>
+      <pubDate>Wed, 29 Sep 2021 00:00:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>José Mário Branco - Ser Solidário (31 plays)</title>
+      <link>https://www.last.fm/music/Jos%C3%A9+M%C3%A1rio+Branco/_/Ser+Solid%C3%A1rio</link>
+      <guid isPermaLink="false">Frippertron-1632890199--José Mário Branco---Ser Solidário</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30341e24380878d2764eaed16d1efa05.png" length="89901" type="image/png"/>
+      <pubDate>Wed, 29 Sep 2021 00:36:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
