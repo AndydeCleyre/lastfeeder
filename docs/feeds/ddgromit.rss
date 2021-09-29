@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 16:29:14 +0000</lastBuildDate>
-    <item>
-      <title>Max Richter - November (2 plays)</title>
-      <link>https://www.last.fm/music/Max+Richter/_/November</link>
-      <guid isPermaLink="false">ddgromit-1632777458--509f20b2-5df3-4aec-9bbc-002131fb3f99---November</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f01ac78dde87a07bd0781590f09bfb00.jpg" length="17621" type="image/jpeg"/>
-      <pubDate>Mon, 27 Sep 2021 17:17:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jonny Greenwood - House of Woodcock (3 plays)</title>
-      <link>https://www.last.fm/music/Jonny+Greenwood/_/House+of+Woodcock</link>
-      <guid isPermaLink="false">ddgromit-1632777825--e9fcfbbf-1743-4f73-8744-ada8da7394ea---House of Woodcock</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17cbe485f699b693406b2da99d0c4223.jpg" length="18531" type="image/jpeg"/>
-      <pubDate>Mon, 27 Sep 2021 17:23:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Sep 2021 17:01:00 +0000</lastBuildDate>
     <item>
       <title>Jóhann Jóhannsson - Cambridge, 1963 (1 play)</title>
       <link>https://www.last.fm/music/J%C3%B3hann+J%C3%B3hannsson/_/Cambridge,+1963</link>
@@ -44,7 +30,7 @@
       <pubDate>Mon, 27 Sep 2021 17:33:08 -0400</pubDate>
     </item>
     <item>
-      <title>Nils Frahm - Says (2 plays)</title>
+      <title>Nils Frahm - Says (3 plays)</title>
       <link>https://www.last.fm/music/Nils+Frahm/_/Says</link>
       <guid isPermaLink="false">ddgromit-1632778653--d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01---Says</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb24a79ba3044ca7ccc23e4047f254d6.png" length="57762" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1632932212--17c75aa5-5e1a-4ad3-b9b3-6c4adb8f7817---Ashes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae49b00ffe958fdfef0959da154f3755.jpg" length="30699" type="image/jpeg"/>
       <pubDate>Wed, 29 Sep 2021 12:16:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nils Frahm - Says (3 plays)</title>
+      <link>https://www.last.fm/music/Nils+Frahm/_/Says</link>
+      <guid isPermaLink="false">ddgromit-1632932635--d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01---Says</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb24a79ba3044ca7ccc23e4047f254d6.png" length="57762" type="image/png"/>
+      <pubDate>Wed, 29 Sep 2021 12:23:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kyle Dixon &amp; Michael Stein - Stranger Things (1 play)</title>
+      <link>https://www.last.fm/music/Kyle+Dixon+&amp;+Michael+Stein/_/Stranger+Things</link>
+      <guid isPermaLink="false">ddgromit-1632933141--d860b980-a05e-4023-86a7-b289b1be8516---Stranger Things</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d96efa8c4124b672771df392f105742.png" length="212363" type="image/png"/>
+      <pubDate>Wed, 29 Sep 2021 12:32:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
