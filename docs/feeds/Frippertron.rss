@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 09:52:23 +0000</lastBuildDate>
-    <item>
-      <title>Marvin Gaye - Sparrow (6 plays)</title>
-      <link>https://www.last.fm/music/Marvin+Gaye/_/Sparrow</link>
-      <guid isPermaLink="false">Frippertron-1632819174--afdb7919-059d-43c1-b668-ba1d265e7e42---Sparrow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79fe0a37779a859877116478108f78ea.jpg" length="34451" type="image/jpeg"/>
-      <pubDate>Tue, 28 Sep 2021 04:52:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - One for the Vine (48 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/One+for+the+Vine</link>
-      <guid isPermaLink="false">Frippertron-1632819559--722b2118-a77b-4161-9060-63a1b469e5b2---One for the Vine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
-      <pubDate>Tue, 28 Sep 2021 04:59:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Ripples (96 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
-      <guid isPermaLink="false">Frippertron-1632820216--722b2118-a77b-4161-9060-63a1b469e5b2---Ripples</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
-      <pubDate>Tue, 28 Sep 2021 05:10:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Sep 2021 10:21:01 +0000</lastBuildDate>
     <item>
       <title>Genesis - Dodo/Lurker (10 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Dodo%2FLurker</link>
@@ -58,7 +37,7 @@
       <pubDate>Tue, 28 Sep 2021 05:40:26 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - Afterglow (52 plays)</title>
+      <title>Genesis - Afterglow (53 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Afterglow</link>
       <guid isPermaLink="false">Frippertron-1632822739--722b2118-a77b-4161-9060-63a1b469e5b2---Afterglow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ebda5f641d447b18945e74750ba54cc.png" length="31461" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1632908796--Genesis---The Cinema Show/In That Quiet Earth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d994fac72607b85fd1bd1029ac39b25c.jpg" length="22181" type="image/jpeg"/>
       <pubDate>Wed, 29 Sep 2021 05:46:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Afterglow (53 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Afterglow</link>
+      <guid isPermaLink="false">Frippertron-1632909485--722b2118-a77b-4161-9060-63a1b469e5b2---Afterglow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d994fac72607b85fd1bd1029ac39b25c.jpg" length="22181" type="image/jpeg"/>
+      <pubDate>Wed, 29 Sep 2021 05:58:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Dance on a Volcano (92 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Dance+on+a+Volcano</link>
+      <guid isPermaLink="false">Frippertron-1632910023--722b2118-a77b-4161-9060-63a1b469e5b2---Dance on a Volcano</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d994fac72607b85fd1bd1029ac39b25c.jpg" length="22181" type="image/jpeg"/>
+      <pubDate>Wed, 29 Sep 2021 06:07:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Los Endos (43 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Los+Endos</link>
+      <guid isPermaLink="false">Frippertron-1632910391--722b2118-a77b-4161-9060-63a1b469e5b2---Los Endos</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d994fac72607b85fd1bd1029ac39b25c.jpg" length="22181" type="image/jpeg"/>
+      <pubDate>Wed, 29 Sep 2021 06:13:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
