@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 08:54:30 +0000</lastBuildDate>
-    <item>
-      <title>Kayo Dot - The Manifold Curiosity (35 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/The+Manifold+Curiosity</link>
-      <guid isPermaLink="false">Frippertron-1632816392--3979eee5-c72a-4b0a-9191-a0243881250a---The Manifold Curiosity</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82e2f759f1332f9429a8ae2654ba194c.png" length="122529" type="image/png"/>
-      <pubDate>Tue, 28 Sep 2021 04:06:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Sep 2021 09:17:56 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Loving the Alien (76 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
@@ -58,7 +51,7 @@
       <pubDate>Tue, 28 Sep 2021 04:52:54 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - One for the Vine (47 plays)</title>
+      <title>Genesis - One for the Vine (48 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/One+for+the+Vine</link>
       <guid isPermaLink="false">Frippertron-1632819559--722b2118-a77b-4161-9060-63a1b469e5b2---One for the Vine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1632905315--722b2118-a77b-4161-9060-63a1b469e5b2---Deep in the Motherlode</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d994fac72607b85fd1bd1029ac39b25c.jpg" length="22181" type="image/jpeg"/>
       <pubDate>Wed, 29 Sep 2021 04:48:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - One for the Vine (48 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/One+for+the+Vine</link>
+      <guid isPermaLink="false">Frippertron-1632905737--722b2118-a77b-4161-9060-63a1b469e5b2---One for the Vine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d994fac72607b85fd1bd1029ac39b25c.jpg" length="22181" type="image/jpeg"/>
+      <pubDate>Wed, 29 Sep 2021 04:55:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
