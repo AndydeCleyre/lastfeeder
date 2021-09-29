@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 18:57:12 +0000</lastBuildDate>
-    <item>
-      <title>Oddisee - After Thoughts (11 plays)</title>
-      <link>https://www.last.fm/music/Oddisee/_/After+Thoughts</link>
-      <guid isPermaLink="false">ddgromit-1632867888--aaae09b3-70d9-4a65-bb3f-57e85dfe9b83---After Thoughts</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eaf41514be0b4c34b0281e8e2b4c7cc1.jpg" length="14965" type="image/jpeg"/>
-      <pubDate>Tue, 28 Sep 2021 18:24:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Isohype - Air (5 plays)</title>
-      <link>https://www.last.fm/music/Isohype/_/Air</link>
-      <guid isPermaLink="false">ddgromit-1632868213--Isohype---Air</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 28 Sep 2021 18:30:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Sep 2021 19:17:23 +0000</lastBuildDate>
     <item>
       <title>Peanut Butter Wolf - dopestyle (5 plays)</title>
       <link>https://www.last.fm/music/Peanut+Butter+Wolf/_/dopestyle</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1632941193--Paradox Interactive---Deep Space Travels (From Stellaris Original Game Soundtrack)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/976d68bc584a75df00e4207668a761b1.jpg" length="19964" type="image/jpeg"/>
       <pubDate>Wed, 29 Sep 2021 14:46:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Josh Leake - Family (1 play)</title>
+      <link>https://www.last.fm/music/Josh+Leake/_/Family</link>
+      <guid isPermaLink="false">ddgromit-1632941643--Josh Leake---Family</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a220ab2aedf5fb0e833b27d40d2b167.jpg" length="9123" type="image/jpeg"/>
+      <pubDate>Wed, 29 Sep 2021 14:54:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Borrtex - Breathe (2 plays)</title>
+      <link>https://www.last.fm/music/Borrtex/_/Breathe</link>
+      <guid isPermaLink="false">ddgromit-1632941899--Borrtex---Breathe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 29 Sep 2021 14:58:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
