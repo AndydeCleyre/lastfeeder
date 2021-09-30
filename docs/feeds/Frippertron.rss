@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Sep 2021 08:54:52 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Modern Times Rock 'N' Roll (25 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Modern+Times+Rock+%27N%27+Roll</link>
-      <guid isPermaLink="false">Frippertron-1632971689--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Modern Times Rock 'N' Roll</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
-      <pubDate>Wed, 29 Sep 2021 23:14:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Son And Daughter (54 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Son+And+Daughter</link>
-      <guid isPermaLink="false">Frippertron-1632971801--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Son And Daughter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
-      <pubDate>Wed, 29 Sep 2021 23:16:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Sep 2021 09:18:03 +0000</lastBuildDate>
     <item>
       <title>Queen - Jesus (12 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Jesus</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1632991444--d0eb9b16-9fb0-4368-9024-2042a60f2ee2---Class</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f09585018fc90cd48134773302f7f95.jpg" length="24885" type="image/jpeg"/>
       <pubDate>Thu, 30 Sep 2021 04:44:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Luomo - Synkro (7 plays)</title>
+      <link>https://www.last.fm/music/Luomo/_/Synkro</link>
+      <guid isPermaLink="false">Frippertron-1632992198--d0eb9b16-9fb0-4368-9024-2042a60f2ee2---Synkro</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f09585018fc90cd48134773302f7f95.jpg" length="24885" type="image/jpeg"/>
+      <pubDate>Thu, 30 Sep 2021 04:56:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Luomo - The Right Wing (6 plays)</title>
+      <link>https://www.last.fm/music/Luomo/_/The+Right+Wing</link>
+      <guid isPermaLink="false">Frippertron-1632993041--d0eb9b16-9fb0-4368-9024-2042a60f2ee2---The Right Wing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f09585018fc90cd48134773302f7f95.jpg" length="24885" type="image/jpeg"/>
+      <pubDate>Thu, 30 Sep 2021 05:10:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
