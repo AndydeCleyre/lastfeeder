@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 10:42:00 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Afterglow (53 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Afterglow</link>
-      <guid isPermaLink="false">Frippertron-1632822739--722b2118-a77b-4161-9060-63a1b469e5b2---Afterglow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ebda5f641d447b18945e74750ba54cc.png" length="31461" type="image/png"/>
-      <pubDate>Tue, 28 Sep 2021 05:52:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - In the Rapids (83 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/In+the+Rapids</link>
-      <guid isPermaLink="false">Frippertron-1632823050--722b2118-a77b-4161-9060-63a1b469e5b2---In the Rapids</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
-      <pubDate>Tue, 28 Sep 2021 05:57:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Sep 2021 02:54:04 +0000</lastBuildDate>
     <item>
       <title>Genesis - It (88 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/It</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1632911828--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Frame by Frame</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 29 Sep 2021 06:37:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Keep Yourself Alive (33 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Keep+Yourself+Alive</link>
+      <guid isPermaLink="false">Frippertron-1632969890--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Keep Yourself Alive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Wed, 29 Sep 2021 22:44:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Doing All Right (15 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Doing+All+Right</link>
+      <guid isPermaLink="false">Frippertron-1632970115--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Doing All Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Wed, 29 Sep 2021 22:48:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
