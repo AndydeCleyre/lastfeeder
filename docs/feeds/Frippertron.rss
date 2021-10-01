@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Oct 2021 17:35:44 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - If You Can See Me (15 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/If+You+Can+See+Me</link>
-      <guid isPermaLink="false">Frippertron-1633080905--5441c29d-3602-4898-b1a1-b77fa23b8e50---If You Can See Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06771953f5d241f3dc24eecd016f381a.png" length="62208" type="image/png"/>
-      <pubDate>Fri, 01 Oct 2021 05:35:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - You Feel So Lonely You Could Die (13 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/You+Feel+So+Lonely+You+Could+Die</link>
-      <guid isPermaLink="false">Frippertron-1633081091--5441c29d-3602-4898-b1a1-b77fa23b8e50---You Feel So Lonely You Could Die</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06771953f5d241f3dc24eecd016f381a.png" length="62208" type="image/png"/>
-      <pubDate>Fri, 01 Oct 2021 05:38:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Oct 2021 17:52:43 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Heat (15 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Heat</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1633109016--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Lark's Tongues in Aspic (Part II)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 01 Oct 2021 13:23:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Discipline (21 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Discipline</link>
+      <guid isPermaLink="false">Frippertron-1633109491--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Discipline</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 01 Oct 2021 13:31:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Heartbeat (16 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Heartbeat</link>
+      <guid isPermaLink="false">Frippertron-1633109797--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Heartbeat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 01 Oct 2021 13:36:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
