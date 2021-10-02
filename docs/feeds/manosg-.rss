@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Oct 2021 10:41:31 +0000</lastBuildDate>
-    <item>
-      <title>Whitesnake - Here I Go Again (4 plays)</title>
-      <link>https://www.last.fm/music/Whitesnake/_/Here+I+Go+Again</link>
-      <guid isPermaLink="false">manosg--1633067800--5dedf5cf-a598-4408-9556-3bf3f149f3ba---Here I Go Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3289981f5e444c9a9ede1be286519589.png" length="248296" type="image/png"/>
-      <pubDate>Fri, 01 Oct 2021 01:56:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Oct 2021 10:53:15 +0000</lastBuildDate>
     <item>
       <title>Rainbow - Can't Let You Go (11 plays)</title>
       <link>https://www.last.fm/music/Rainbow/_/Can%27t+Let+You+Go</link>
@@ -349,6 +342,13 @@
       <guid isPermaLink="false">manosg--1633171180--1b897b69-37e5-411a-a847-6146af99c001---Another Desire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e2388f17b00ca1c516808e347dfab9d.png" length="176212" type="image/png"/>
       <pubDate>Sat, 02 Oct 2021 06:39:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Skid Row - Little Wing (1 play)</title>
+      <link>https://www.last.fm/music/Skid+Row/_/Little+Wing</link>
+      <guid isPermaLink="false">manosg--1633171285--Skid Row---Little Wing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b0268a64da75edf517c595d5be8cca9.png" length="242575" type="image/png"/>
+      <pubDate>Sat, 02 Oct 2021 06:41:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
