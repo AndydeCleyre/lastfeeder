@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Oct 2021 06:22:10 +0000</lastBuildDate>
-    <item>
-      <title>Toto - Rosanna (7 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/Rosanna</link>
-      <guid isPermaLink="false">manosg--1633074448--aab5c954-cabe-432e-899e-1c4f99757327---Rosanna</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80e5970656e54f52b3e29b69de89751e.png" length="221479" type="image/png"/>
-      <pubDate>Fri, 01 Oct 2021 03:47:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Oct 2021 06:46:59 +0000</lastBuildDate>
     <item>
       <title>Cyndi Lauper - Time After Time (Official HD Video) (2 plays)</title>
       <link>https://www.last.fm/music/Cyndi+Lauper/_/Time+After+Time+(Official+HD+Video)</link>
@@ -347,6 +340,12 @@
       <link>https://www.last.fm/music/Going+Under/_/Marillion</link>
       <guid isPermaLink="false">manosg--1633241661--Going Under---Marillion</guid>
       <pubDate>Sun, 03 Oct 2021 02:14:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Incommunicado - Marillion (1 play)</title>
+      <link>https://www.last.fm/music/Incommunicado/_/Marillion</link>
+      <guid isPermaLink="false">manosg--1633242418--Incommunicado---Marillion</guid>
+      <pubDate>Sun, 03 Oct 2021 02:26:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
