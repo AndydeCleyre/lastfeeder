@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Oct 2021 03:41:46 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - When I Live My Dream (2 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/When+I+Live+My+Dream</link>
-      <guid isPermaLink="false">Frippertron-1633097404--5441c29d-3602-4898-b1a1-b77fa23b8e50---When I Live My Dream</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87c04e331399cf84e4fa098fa9c7c564.jpg" length="16243" type="image/jpeg"/>
-      <pubDate>Fri, 01 Oct 2021 10:10:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Oct 2021 03:53:58 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Little Bombardier (1 play)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Little+Bombardier</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1633318293--722b2118-a77b-4161-9060-63a1b469e5b2---The Lady Lies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 03 Oct 2021 23:31:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ripples (98 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
+      <guid isPermaLink="false">Frippertron-1633318679--722b2118-a77b-4161-9060-63a1b469e5b2---Ripples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 03 Oct 2021 23:37:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
