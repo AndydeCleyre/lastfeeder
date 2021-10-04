@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Oct 2021 09:40:45 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Introduction (1 play)</title>
-      <link>https://www.last.fm/music/Genesis/_/Introduction</link>
-      <guid isPermaLink="false">Frippertron-1633317599--722b2118-a77b-4161-9060-63a1b469e5b2---Introduction</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sun, 03 Oct 2021 23:19:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Oct 2021 09:52:29 +0000</lastBuildDate>
     <item>
       <title>Genesis - Say It's Alright Joe (3 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Say+It%27s+Alright+Joe</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1633340264--e01c3376-15fa-40d7-b747-5f219bdefdd7---Do It Again</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
       <pubDate>Mon, 04 Oct 2021 05:37:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Reelin' In The Years (40 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Reelin%27+In+The+Years</link>
+      <guid isPermaLink="false">Frippertron-1633340614--e01c3376-15fa-40d7-b747-5f219bdefdd7---Reelin' In The Years</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
+      <pubDate>Mon, 04 Oct 2021 05:43:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
