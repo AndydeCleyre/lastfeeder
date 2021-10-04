@@ -7,27 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Oct 2021 15:43:56 +0000</lastBuildDate>
-    <item>
-      <title>Marillion - Kayleigh (7 plays)</title>
-      <link>https://www.last.fm/music/Marillion/_/Kayleigh</link>
-      <guid isPermaLink="false">manosg--1633248914--1932f5b6-0b7b-4050-b1df-833ca89e5f44---Kayleigh</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d396630547d103be42998648ec35e3f.jpg" length="26882" type="image/jpeg"/>
-      <pubDate>Sun, 03 Oct 2021 04:15:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Marillion - Lavender (2017 Remaster) (1 play)</title>
-      <link>https://www.last.fm/music/Marillion/_/Lavender+(2017+Remaster)</link>
-      <guid isPermaLink="false">manosg--1633249086--Marillion---Lavender (2017 Remaster)</guid>
-      <pubDate>Sun, 03 Oct 2021 04:18:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Marillion - Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel / Misplaced Rendezvous / Windswept Thumb (4 plays)</title>
-      <link>https://www.last.fm/music/Marillion/_/Bitter+Suite:+Brief+Encounter+%2F+Lost+Weekend+%2F+Blue+Angel+%2F+Misplaced+Rendezvous+%2F+Windswept+Thumb</link>
-      <guid isPermaLink="false">manosg--1633249769--1932f5b6-0b7b-4050-b1df-833ca89e5f44---Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel / Misplaced Rendezvous / Windswept Thumb</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d396630547d103be42998648ec35e3f.jpg" length="26882" type="image/jpeg"/>
-      <pubDate>Sun, 03 Oct 2021 04:29:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Oct 2021 17:03:01 +0000</lastBuildDate>
     <item>
       <title>Marillion - Heart of Lothian (4 plays)</title>
       <link>https://www.last.fm/music/Marillion/_/Heart+of+Lothian</link>
@@ -331,6 +311,7 @@
       <title>Anathema - Cries on the Wind (2 plays)</title>
       <link>https://www.last.fm/music/Anathema/_/Cries+on+the+Wind</link>
       <guid isPermaLink="false">manosg--1633361295--ab367909-3ef2-4ab3-b733-35b41836e93f---Cries on the Wind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afb84d32ca4e480cab87b0fa26f559d7.jpg" length="11637" type="image/jpeg"/>
       <pubDate>Mon, 04 Oct 2021 11:28:15 -0400</pubDate>
     </item>
     <item>
@@ -346,6 +327,27 @@
       <guid isPermaLink="false">manosg--1633361803--ab367909-3ef2-4ab3-b733-35b41836e93f---Far Away (acoustic)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/573fe919d347387aef3ce20a22afb038.jpg" length="30243" type="image/jpeg"/>
       <pubDate>Mon, 04 Oct 2021 11:36:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lake of Tears - So Fell Autumn Rain (6 plays)</title>
+      <link>https://www.last.fm/music/Lake+of+Tears/_/So+Fell+Autumn+Rain</link>
+      <guid isPermaLink="false">manosg--1633365939--62cfcc64-a7d2-4ec2-ab4b-2a6b62e53940---So Fell Autumn Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7749c1ea58cd478da7a50a68a116b6aa.png" length="184154" type="image/png"/>
+      <pubDate>Mon, 04 Oct 2021 12:45:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lake of Tears - Hold on Tight (6 plays)</title>
+      <link>https://www.last.fm/music/Lake+of+Tears/_/Hold+on+Tight</link>
+      <guid isPermaLink="false">manosg--1633366327--62cfcc64-a7d2-4ec2-ab4b-2a6b62e53940---Hold on Tight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7749c1ea58cd478da7a50a68a116b6aa.png" length="184154" type="image/png"/>
+      <pubDate>Mon, 04 Oct 2021 12:52:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lake of Tears - Forever Autumn (6 plays)</title>
+      <link>https://www.last.fm/music/Lake+of+Tears/_/Forever+Autumn</link>
+      <guid isPermaLink="false">manosg--1633366577--62cfcc64-a7d2-4ec2-ab4b-2a6b62e53940---Forever Autumn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7749c1ea58cd478da7a50a68a116b6aa.png" length="184154" type="image/png"/>
+      <pubDate>Mon, 04 Oct 2021 12:56:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
