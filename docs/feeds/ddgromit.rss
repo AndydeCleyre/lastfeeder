@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Oct 2021 18:22:17 +0000</lastBuildDate>
-    <item>
-      <title>Nils Frahm - Re (1 play)</title>
-      <link>https://www.last.fm/music/Nils+Frahm/_/Re</link>
-      <guid isPermaLink="false">ddgromit-1633392235--d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01---Re</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14729fe808404f8a8131e98e027db9a5.png" length="87572" type="image/png"/>
-      <pubDate>Mon, 04 Oct 2021 20:03:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Trent Reznor and Atticus Ross - Epiphany (4 plays)</title>
-      <link>https://www.last.fm/music/Trent+Reznor+and+Atticus+Ross/_/Epiphany</link>
-      <guid isPermaLink="false">ddgromit-1633392466--bc880664-6751-4998-984d-ebdbff15d229---Epiphany</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27cc962cfc8ca4c1610d1fc44465a44c.jpg" length="16884" type="image/jpeg"/>
-      <pubDate>Mon, 04 Oct 2021 20:07:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fergie - Glamorous (1 play)</title>
-      <link>https://www.last.fm/music/Fergie/_/Glamorous</link>
-      <guid isPermaLink="false">ddgromit-1633397600--1c46e82f-4764-4d82-a33b-5d5aee5e2881---Glamorous</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/389bb17b6959a94d88f232f5df2e3c3f.png" length="159059" type="image/png"/>
-      <pubDate>Mon, 04 Oct 2021 21:33:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Oct 2021 18:58:22 +0000</lastBuildDate>
     <item>
       <title>Black Eyed Peas - Where Is the Love (1 play)</title>
       <link>https://www.last.fm/music/Black+Eyed+Peas/_/Where+Is+the+Love</link>
@@ -352,11 +331,32 @@
       <pubDate>Tue, 05 Oct 2021 14:08:04 -0400</pubDate>
     </item>
     <item>
-      <title>John D. Boswell - City of Ghosts (1 play)</title>
+      <title>John D. Boswell - City of Ghosts (2 plays)</title>
       <link>https://www.last.fm/music/John+D.+Boswell/_/City+of+Ghosts</link>
       <guid isPermaLink="false">ddgromit-1633457387--John D. Boswell---City of Ghosts</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d352af286399dd1eb9597ed98cfa237.jpg" length="9308" type="image/jpeg"/>
       <pubDate>Tue, 05 Oct 2021 14:09:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>John D. Boswell - Oceans of Time (2 plays)</title>
+      <link>https://www.last.fm/music/John+D.+Boswell/_/Oceans+of+Time</link>
+      <guid isPermaLink="false">ddgromit-1633457480--John D. Boswell---Oceans of Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d352af286399dd1eb9597ed98cfa237.jpg" length="9308" type="image/jpeg"/>
+      <pubDate>Tue, 05 Oct 2021 14:11:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>John D. Boswell - City of Ghosts (2 plays)</title>
+      <link>https://www.last.fm/music/John+D.+Boswell/_/City+of+Ghosts</link>
+      <guid isPermaLink="false">ddgromit-1633459637--John D. Boswell---City of Ghosts</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d352af286399dd1eb9597ed98cfa237.jpg" length="9308" type="image/jpeg"/>
+      <pubDate>Tue, 05 Oct 2021 14:47:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>AK - Ozon (2 plays)</title>
+      <link>https://www.last.fm/music/AK/_/Ozon</link>
+      <guid isPermaLink="false">ddgromit-1633459728--AK---Ozon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c5638490074939598205724aafd2c261.jpg" length="10960" type="image/jpeg"/>
+      <pubDate>Tue, 05 Oct 2021 14:48:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
