@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Oct 2021 07:52:43 +0000</lastBuildDate>
-    <item>
-      <title>Armand Hammer - Scaffolds (3 plays)</title>
-      <link>https://www.last.fm/music/Armand+Hammer/_/Scaffolds</link>
-      <guid isPermaLink="false">Arcade1996-1633050651--167a6f86-2c26-43fe-82f0-e4c8a39ea490---Scaffolds</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/886de8a4bb8afd7abfc4d497324b6309.jpg" length="24443" type="image/jpeg"/>
-      <pubDate>Thu, 30 Sep 2021 21:10:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Armand Hammer - Falling out the Sky (3 plays)</title>
-      <link>https://www.last.fm/music/Armand+Hammer/_/Falling+out+the+Sky</link>
-      <guid isPermaLink="false">Arcade1996-1633050872--167a6f86-2c26-43fe-82f0-e4c8a39ea490---Falling out the Sky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/886de8a4bb8afd7abfc4d497324b6309.jpg" length="24443" type="image/jpeg"/>
-      <pubDate>Thu, 30 Sep 2021 21:14:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Oct 2021 09:20:23 +0000</lastBuildDate>
     <item>
       <title>My Bloody Valentine - Soft as Snow (But Warm Inside) (8 plays)</title>
       <link>https://www.last.fm/music/My+Bloody+Valentine/_/Soft+as+Snow+(But+Warm+Inside)</link>
@@ -261,7 +247,7 @@
       <pubDate>Mon, 04 Oct 2021 06:13:01 -0400</pubDate>
     </item>
     <item>
-      <title>My Bloody Valentine - wonder 2 (1 play)</title>
+      <title>My Bloody Valentine - wonder 2</title>
       <link>https://www.last.fm/music/My+Bloody+Valentine/_/wonder+2</link>
       <guid isPermaLink="false">Arcade1996-1633342734--8ca01f46-53ac-4af2-8516-55a909c0905e---wonder 2</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35fce4402522447d9244db13cbbb292f.png" length="147881" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1633362649--Belly---Dream on Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddcfac0d032df09e753ed47f733800c6.jpg" length="22136" type="image/jpeg"/>
       <pubDate>Mon, 04 Oct 2021 11:50:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Belly - Are You Experienced? (1 play)</title>
+      <link>https://www.last.fm/music/Belly/_/Are+You+Experienced%3F</link>
+      <guid isPermaLink="false">Arcade1996-1633425177--Belly---Are You Experienced?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddcfac0d032df09e753ed47f733800c6.jpg" length="22136" type="image/jpeg"/>
+      <pubDate>Tue, 05 Oct 2021 05:12:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Belly - Think About Your Troubles (1 play)</title>
+      <link>https://www.last.fm/music/Belly/_/Think+About+Your+Troubles</link>
+      <guid isPermaLink="false">Arcade1996-1633425402--Belly---Think About Your Troubles</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddcfac0d032df09e753ed47f733800c6.jpg" length="22136" type="image/jpeg"/>
+      <pubDate>Tue, 05 Oct 2021 05:16:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
