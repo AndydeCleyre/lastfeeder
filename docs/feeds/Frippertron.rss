@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Oct 2021 10:54:02 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Los Endos (45 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Los+Endos</link>
-      <guid isPermaLink="false">Frippertron-1633321974--722b2118-a77b-4161-9060-63a1b469e5b2---Los Endos</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 04 Oct 2021 00:32:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - I Know What I Like (In Your Wardrobe) (51 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/I+Know+What+I+Like+(In+Your+Wardrobe)</link>
-      <guid isPermaLink="false">Frippertron-1633322441--722b2118-a77b-4161-9060-63a1b469e5b2---I Know What I Like (In Your Wardrobe)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 04 Oct 2021 00:40:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Oct 2021 02:39:46 +0000</lastBuildDate>
     <item>
       <title>Elton John - Ticking (13 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Ticking</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1633344147--José Mário Branco---Ser Solidário</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30341e24380878d2764eaed16d1efa05.png" length="89901" type="image/png"/>
       <pubDate>Mon, 04 Oct 2021 06:42:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Mes Trois Fils (2 plays)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Mes+Trois+Fils</link>
+      <guid isPermaLink="false">Frippertron-1633400663--22fe7b6f-af38-458e-87bd-8971e7a2912e---Mes Trois Fils</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d8bba89da8472fbfc72db5075a1447.jpg" length="43368" type="image/jpeg"/>
+      <pubDate>Mon, 04 Oct 2021 22:24:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Parody (1 play)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Parody</link>
+      <guid isPermaLink="false">Frippertron-1633401141--22fe7b6f-af38-458e-87bd-8971e7a2912e---Parody</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d8bba89da8472fbfc72db5075a1447.jpg" length="43368" type="image/jpeg"/>
+      <pubDate>Mon, 04 Oct 2021 22:32:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
