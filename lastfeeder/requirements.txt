@@ -49,7 +49,7 @@ structlog==21.1.0
     # via -r requirements.in
 tzlocal==3.0
     # via delorean
-wrapt==1.12.1
+wrapt==1.13.1
     # via -r requirements.in
 
 # The following packages are considered to be unsafe in a requirements file:
