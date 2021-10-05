@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Oct 2021 02:39:46 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Ticking (13 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Ticking</link>
-      <guid isPermaLink="false">Frippertron-1633323050--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Ticking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f678371202844ce88511c961086f3c14.png" length="215403" type="image/png"/>
-      <pubDate>Mon, 04 Oct 2021 00:50:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Walker Brothers - Nite Flights (83 plays)</title>
-      <link>https://www.last.fm/music/The+Walker+Brothers/_/Nite+Flights</link>
-      <guid isPermaLink="false">Frippertron-1633323474--720df570-c435-4be5-a755-357d9fd98bc8---Nite Flights</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3682788971fa96bb1878454d9ffb55e7.jpg" length="16777" type="image/jpeg"/>
-      <pubDate>Mon, 04 Oct 2021 00:57:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Oct 2021 02:52:48 +0000</lastBuildDate>
     <item>
       <title>The Walker Brothers - The Electrician (58 plays)</title>
       <link>https://www.last.fm/music/The+Walker+Brothers/_/The+Electrician</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1633401141--22fe7b6f-af38-458e-87bd-8971e7a2912e---Parody</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d8bba89da8472fbfc72db5075a1447.jpg" length="43368" type="image/jpeg"/>
       <pubDate>Mon, 04 Oct 2021 22:32:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Indo-Serenade (1 play)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Indo-Serenade</link>
+      <guid isPermaLink="false">Frippertron-1633401559--22fe7b6f-af38-458e-87bd-8971e7a2912e---Indo-Serenade</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d8bba89da8472fbfc72db5075a1447.jpg" length="43368" type="image/jpeg"/>
+      <pubDate>Mon, 04 Oct 2021 22:39:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Mode For Dulcimer (1 play)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Mode+For+Dulcimer</link>
+      <guid isPermaLink="false">Frippertron-1633401897--22fe7b6f-af38-458e-87bd-8971e7a2912e---Mode For Dulcimer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d8bba89da8472fbfc72db5075a1447.jpg" length="43368" type="image/jpeg"/>
+      <pubDate>Mon, 04 Oct 2021 22:44:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
