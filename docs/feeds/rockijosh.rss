@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Oct 2021 11:41:36 +0000</lastBuildDate>
-    <item>
-      <title>Periphery - Make Total Destroy (8 plays)</title>
-      <link>https://www.last.fm/music/Periphery/_/Make+Total+Destroy</link>
-      <guid isPermaLink="false">rockijosh-1633284003--a0cef17a-4574-44f4-9f97-fd068615dac6---Make Total Destroy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef56cdd58a79477d8b5ead58edc85639.png" length="61858" type="image/png"/>
-      <pubDate>Sun, 03 Oct 2021 14:00:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Laura Stevenson - Don't Think About Me (19 plays)</title>
-      <link>https://www.last.fm/music/Laura+Stevenson/_/Don%27t+Think+About+Me</link>
-      <guid isPermaLink="false">rockijosh-1633284202--70b166d1-b511-49f1-ad15-8b94603515d5---Don't Think About Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33a1403a329a253f9b7cce830873c5e.jpg" length="31685" type="image/jpeg"/>
-      <pubDate>Sun, 03 Oct 2021 14:03:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Oct 2021 23:18:48 +0000</lastBuildDate>
     <item>
       <title>Laura Stevenson - Moving Cars (17 plays)</title>
       <link>https://www.last.fm/music/Laura+Stevenson/_/Moving+Cars</link>
@@ -345,7 +331,14 @@
       <pubDate>Tue, 05 Oct 2021 19:11:15 -0400</pubDate>
     </item>
     <item>
-      <title>Luna - Madonna</title>
+      <title>Christine and the Queens - La vita nuova (1 play)</title>
+      <link>https://www.last.fm/music/Christine+and+the+Queens/_/La+vita+nuova</link>
+      <guid isPermaLink="false">rockijosh-1633476313--9c90ffbf-b137-4dee-bfcc-b8010787840d---La vita nuova</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d979d9718f6058f9eb60d562b91389be.jpg" length="10536" type="image/jpeg"/>
+      <pubDate>Tue, 05 Oct 2021 19:25:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Luna - Madonna (1 play)</title>
       <link>https://www.last.fm/music/Luna/_/Madonna</link>
       <guid isPermaLink="false">rockijosh-1633526385--Luna---Madonna</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5e1e3243d3344e6f231fe42381c2c35.jpg" length="21691" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1633605761--RADWIMPS---Sparkle - movie ver.</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07cb9db6a308029d489c3af2c9fc5847.jpg" length="17151" type="image/jpeg"/>
       <pubDate>Thu, 07 Oct 2021 07:22:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>RADWIMPS - Date 2 (1 play)</title>
+      <link>https://www.last.fm/music/RADWIMPS/_/Date+2</link>
+      <guid isPermaLink="false">rockijosh-1633647861--6f500293-7396-4903-b4fd-118127d06f9e---Date 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07cb9db6a308029d489c3af2c9fc5847.jpg" length="17151" type="image/jpeg"/>
+      <pubDate>Thu, 07 Oct 2021 19:04:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
