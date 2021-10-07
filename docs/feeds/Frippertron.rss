@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Oct 2021 03:41:46 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Please Don't Ask (18 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Please+Don%27t+Ask</link>
-      <guid isPermaLink="false">Frippertron-1633506344--722b2118-a77b-4161-9060-63a1b469e5b2---Please Don't Ask</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
-      <pubDate>Wed, 06 Oct 2021 03:45:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Oct 2021 03:53:40 +0000</lastBuildDate>
     <item>
       <title>The Germs - Round and Round (7 plays)</title>
       <link>https://www.last.fm/music/The+Germs/_/Round+and+Round</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1633577574--3979eee5-c72a-4b0a-9191-a0243881250a---A Pitcher of Summer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82e2f759f1332f9429a8ae2654ba194c.png" length="122529" type="image/png"/>
       <pubDate>Wed, 06 Oct 2021 23:32:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - The Manifold Curiosity (40 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/The+Manifold+Curiosity</link>
+      <guid isPermaLink="false">Frippertron-1633577926--3979eee5-c72a-4b0a-9191-a0243881250a---The Manifold Curiosity</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82e2f759f1332f9429a8ae2654ba194c.png" length="122529" type="image/png"/>
+      <pubDate>Wed, 06 Oct 2021 23:38:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
