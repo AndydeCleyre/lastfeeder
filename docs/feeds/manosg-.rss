@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Oct 2021 14:52:32 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - That's All (10 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/That%27s+All</link>
-      <guid isPermaLink="false">manosg--1633443979--722b2118-a77b-4161-9060-63a1b469e5b2---That's All</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e155dd7e6dd5471fc7958b96b6e2c218.png" length="98826" type="image/png"/>
-      <pubDate>Tue, 05 Oct 2021 10:26:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Home by the Sea / Second Home by the Sea (5 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Home+by+the+Sea+%2F+Second+Home+by+the+Sea</link>
-      <guid isPermaLink="false">manosg--1633444242--722b2118-a77b-4161-9060-63a1b469e5b2---Home by the Sea / Second Home by the Sea</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4510c67bec8d42c6c5594acc350593f3.jpg" length="13867" type="image/jpeg"/>
-      <pubDate>Tue, 05 Oct 2021 10:30:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Oct 2021 15:20:11 +0000</lastBuildDate>
     <item>
       <title>Genesis - Illegal Alien (4 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Illegal+Alien</link>
@@ -343,11 +329,25 @@
       <pubDate>Fri, 08 Oct 2021 10:49:33 -0400</pubDate>
     </item>
     <item>
-      <title>Gus G. - Fierce (1 play)</title>
+      <title>Gus G. - Fierce (2 plays)</title>
       <link>https://www.last.fm/music/Gus+G./_/Fierce</link>
       <guid isPermaLink="false">manosg--1633704578--722a5515-d564-4215-b4e3-08abad8869f0---Fierce</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e609e4824752cc3e364338bc31ca88a3.jpg" length="30040" type="image/jpeg"/>
       <pubDate>Fri, 08 Oct 2021 10:49:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gus G. - Fierce (2 plays)</title>
+      <link>https://www.last.fm/music/Gus+G./_/Fierce</link>
+      <guid isPermaLink="false">manosg--1633704827--722a5515-d564-4215-b4e3-08abad8869f0---Fierce</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e609e4824752cc3e364338bc31ca88a3.jpg" length="30040" type="image/jpeg"/>
+      <pubDate>Fri, 08 Oct 2021 10:53:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gus G. - Demon Stomp (1 play)</title>
+      <link>https://www.last.fm/music/Gus+G./_/Demon+Stomp</link>
+      <guid isPermaLink="false">manosg--1633704832--Gus G.---Demon Stomp</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e609e4824752cc3e364338bc31ca88a3.jpg" length="30040" type="image/jpeg"/>
+      <pubDate>Fri, 08 Oct 2021 10:53:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
