@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Oct 2021 14:39:12 +0000</lastBuildDate>
-    <item>
-      <title>Alcest - Sapphire (8 plays)</title>
-      <link>https://www.last.fm/music/Alcest/_/Sapphire</link>
-      <guid isPermaLink="false">TalonsOfFire-1633554980--dd77b8da-cdc7-46b8-8a7f-10894ca0490e---Sapphire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e23a97b0ab6ca22e1d589c17499e226.jpg" length="11800" type="image/jpeg"/>
-      <pubDate>Wed, 06 Oct 2021 17:16:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>Alcest - L'Île des morts (7 plays)</title>
-      <link>https://www.last.fm/music/Alcest/_/L%27%C3%8Ele+des+morts</link>
-      <guid isPermaLink="false">TalonsOfFire-1633555280--dd77b8da-cdc7-46b8-8a7f-10894ca0490e---L'Île des morts</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e23a97b0ab6ca22e1d589c17499e226.jpg" length="11800" type="image/jpeg"/>
-      <pubDate>Wed, 06 Oct 2021 17:21:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Oct 2021 14:53:03 +0000</lastBuildDate>
     <item>
       <title>Alcest - Le Miroir (7 plays)</title>
       <link>https://www.last.fm/music/Alcest/_/Le+Miroir</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1633703538--cee3f961-4197-483b-a3ad-73242a97eb4a---Kids Will Be Skeletons</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b46ab8d526594ec0aac5c0f8ba61e302.png" length="12955" type="image/png"/>
       <pubDate>Fri, 08 Oct 2021 10:32:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Air - Playground Love (1 play)</title>
+      <link>https://www.last.fm/music/Air/_/Playground+Love</link>
+      <guid isPermaLink="false">TalonsOfFire-1633703888--Air---Playground Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd7a756361bab854b725a0de7b351cb4.jpg" length="33689" type="image/jpeg"/>
+      <pubDate>Fri, 08 Oct 2021 10:38:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Air - Alone in Kyoto (1 play)</title>
+      <link>https://www.last.fm/music/Air/_/Alone+in+Kyoto</link>
+      <guid isPermaLink="false">TalonsOfFire-1633704104--Air---Alone in Kyoto</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d739181806d4178805cddc616ed8a33.png" length="202933" type="image/png"/>
+      <pubDate>Fri, 08 Oct 2021 10:41:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
