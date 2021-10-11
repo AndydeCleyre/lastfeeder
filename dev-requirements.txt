@@ -4,13 +4,13 @@ certifi==2021.10.8
     # via requests
 charset-normalizer==2.0.6
     # via requests
-click==8.0.2
+click==8.0.3
     # via black
 docutils==0.17.1
     # via flit
-flit==3.3.0
+flit==3.4.0
     # via -r dev-requirements.in
-flit-core==3.3.0
+flit-core==3.4.0
     # via flit
 idna==3.2
     # via requests
@@ -26,12 +26,13 @@ regex==2021.10.8
     # via black
 requests==2.26.0
     # via flit
-toml==0.10.2
+tomli==1.2.1
     # via
+    #   black
     #   flit
     #   flit-core
-tomli==1.2.1
-    # via black
+tomli-w==0.3.0
+    # via flit
 typing-extensions==3.10.0.2
     # via black
 urllib3==1.26.7
