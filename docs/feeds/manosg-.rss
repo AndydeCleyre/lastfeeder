@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Oct 2021 08:44:05 +0000</lastBuildDate>
-    <item>
-      <title>Rod Stewart - Forever Young (1 play)</title>
-      <link>https://www.last.fm/music/Rod+Stewart/_/Forever+Young</link>
-      <guid isPermaLink="false">manosg--1633884021--a35237a0-4f47-40a6-b6f3-1e786db23402---Forever Young</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bba4b936e52756b2c3f8805497354433.jpg" length="23297" type="image/jpeg"/>
-      <pubDate>Sun, 10 Oct 2021 12:40:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Todd Rundgren - Can We Still Be Friends (2 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Can+We+Still+Be+Friends</link>
-      <guid isPermaLink="false">manosg--1633884266--Todd Rundgren---Can We Still Be Friends</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f21d65f7b204b478d023c9b06cad098.png" length="200041" type="image/png"/>
-      <pubDate>Sun, 10 Oct 2021 12:44:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Oct 2021 09:18:09 +0000</lastBuildDate>
     <item>
       <title>Nicolette Larson - Rhumba Girl (1 play)</title>
       <link>https://www.last.fm/music/Nicolette+Larson/_/Rhumba+Girl</link>
@@ -348,11 +334,24 @@
       <pubDate>Tue, 12 Oct 2021 04:00:19 -0400</pubDate>
     </item>
     <item>
+      <title>Alcatrazz - Body Beautiful (1 play)</title>
+      <link>https://www.last.fm/music/Alcatrazz/_/Body+Beautiful</link>
+      <guid isPermaLink="false">manosg--1634026927--ef32e381-8413-40a0-b7ad-1ca7bf514ee8---Body Beautiful</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/203a990c8391115b7969fb9fd8d11934.jpg" length="20811" type="image/jpeg"/>
+      <pubDate>Tue, 12 Oct 2021 04:22:07 -0400</pubDate>
+    </item>
+    <item>
       <title>Alcatrazz - Island In the Sun (4 plays)</title>
       <link>https://www.last.fm/music/Alcatrazz/_/Island+In+the+Sun</link>
       <guid isPermaLink="false">manosg--1634027809--ef32e381-8413-40a0-b7ad-1ca7bf514ee8---Island In the Sun</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eada487dd37643ecab18529f4e79b063.jpg" length="23269" type="image/jpeg"/>
       <pubDate>Tue, 12 Oct 2021 04:36:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alcatrazz - For Tony (Official Audio Track) (1 play)</title>
+      <link>https://www.last.fm/music/Alcatrazz/_/For+Tony+(Official+Audio+Track)</link>
+      <guid isPermaLink="false">manosg--1634029859--Alcatrazz---For Tony (Official Audio Track)</guid>
+      <pubDate>Tue, 12 Oct 2021 05:10:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
