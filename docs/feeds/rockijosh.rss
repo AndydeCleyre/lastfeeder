@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Oct 2021 15:24:41 +0000</lastBuildDate>
-    <item>
-      <title>Tove Lo - Bad As the Boys (featuring ALMA) (43 plays)</title>
-      <link>https://www.last.fm/music/Tove+Lo/_/Bad+As+the+Boys+(featuring+ALMA)</link>
-      <guid isPermaLink="false">rockijosh-1634086211--Tove Lo---Bad As the Boys (featuring ALMA)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93f26b8451acf808d260b487e2f565b8.jpg" length="19954" type="image/jpeg"/>
-      <pubDate>Tue, 12 Oct 2021 20:50:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Mika - Grace Kelly (1 play)</title>
-      <link>https://www.last.fm/music/Mika/_/Grace+Kelly</link>
-      <guid isPermaLink="false">rockijosh-1634086284--Mika---Grace Kelly</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f883b0899d74a9ea5c705b264881f8d.png" length="241068" type="image/png"/>
-      <pubDate>Tue, 12 Oct 2021 20:51:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tove Lo - Sweettalk My Heart (17 plays)</title>
-      <link>https://www.last.fm/music/Tove+Lo/_/Sweettalk+My+Heart</link>
-      <guid isPermaLink="false">rockijosh-1634086397--56756959-1e78-429c-b897-e1d056cb0225---Sweettalk My Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93f26b8451acf808d260b487e2f565b8.jpg" length="19954" type="image/jpeg"/>
-      <pubDate>Tue, 12 Oct 2021 20:53:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tove Lo - Stay Over (19 plays)</title>
-      <link>https://www.last.fm/music/Tove+Lo/_/Stay+Over</link>
-      <guid isPermaLink="false">rockijosh-1634086577--56756959-1e78-429c-b897-e1d056cb0225---Stay Over</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93f26b8451acf808d260b487e2f565b8.jpg" length="19954" type="image/jpeg"/>
-      <pubDate>Tue, 12 Oct 2021 20:56:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 17:34:39 +0000</lastBuildDate>
     <item>
       <title>Tove Lo - Are U gonna tell her? (featuring MC Zaac) (20 plays)</title>
       <link>https://www.last.fm/music/Tove+Lo/_/Are+U+gonna+tell+her%3F+(featuring+MC+Zaac)</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">rockijosh-1634136953--23a03e33-a603-404e-bcbf-2c00159d7067---Pay the Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97e6083f8d0975d5380dba08bd60d720.jpg" length="34622" type="image/jpeg"/>
       <pubDate>Wed, 13 Oct 2021 10:55:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Manchester Orchestra - Inaudible (5 plays)</title>
+      <link>https://www.last.fm/music/Manchester+Orchestra/_/Inaudible</link>
+      <guid isPermaLink="false">rockijosh-1634145224--dd91eb4b-6d08-4c14-9eb2-197a02a35f6c---Inaudible</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07d86209dfe67036e8eae35109866661.jpg" length="5917" type="image/jpeg"/>
+      <pubDate>Wed, 13 Oct 2021 13:13:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Manchester Orchestra - Angel Of Death (4 plays)</title>
+      <link>https://www.last.fm/music/Manchester+Orchestra/_/Angel+Of+Death</link>
+      <guid isPermaLink="false">rockijosh-1634145485--dd91eb4b-6d08-4c14-9eb2-197a02a35f6c---Angel Of Death</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07d86209dfe67036e8eae35109866661.jpg" length="5917" type="image/jpeg"/>
+      <pubDate>Wed, 13 Oct 2021 13:18:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Manchester Orchestra - Keel Timing (4 plays)</title>
+      <link>https://www.last.fm/music/Manchester+Orchestra/_/Keel+Timing</link>
+      <guid isPermaLink="false">rockijosh-1634145833--dd91eb4b-6d08-4c14-9eb2-197a02a35f6c---Keel Timing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07d86209dfe67036e8eae35109866661.jpg" length="5917" type="image/jpeg"/>
+      <pubDate>Wed, 13 Oct 2021 13:23:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Manchester Orchestra - Bed Head (4 plays)</title>
+      <link>https://www.last.fm/music/Manchester+Orchestra/_/Bed+Head</link>
+      <guid isPermaLink="false">rockijosh-1634146091--dd91eb4b-6d08-4c14-9eb2-197a02a35f6c---Bed Head</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07d86209dfe67036e8eae35109866661.jpg" length="5917" type="image/jpeg"/>
+      <pubDate>Wed, 13 Oct 2021 13:28:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
