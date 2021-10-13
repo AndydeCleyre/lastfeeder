@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Oct 2021 04:51:02 +0000</lastBuildDate>
-    <item>
-      <title>Popol Vuh - Ah! (1 play)</title>
-      <link>https://www.last.fm/music/Popol+Vuh/_/Ah!</link>
-      <guid isPermaLink="false">Frippertron-1634014285--2f4bf325-2bbb-4d5f-8681-b0fef130bff0---Ah!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/646de2297f18495eb7e20c5da4675daa.jpg" length="19715" type="image/jpeg"/>
-      <pubDate>Tue, 12 Oct 2021 00:51:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Popol Vuh - Kyrie (1 play)</title>
-      <link>https://www.last.fm/music/Popol+Vuh/_/Kyrie</link>
-      <guid isPermaLink="false">Frippertron-1634014571--2f4bf325-2bbb-4d5f-8681-b0fef130bff0---Kyrie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/646de2297f18495eb7e20c5da4675daa.jpg" length="19715" type="image/jpeg"/>
-      <pubDate>Tue, 12 Oct 2021 00:56:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 05:17:06 +0000</lastBuildDate>
     <item>
       <title>Popol Vuh - Hosianna-Mantra (1 play)</title>
       <link>https://www.last.fm/music/Popol+Vuh/_/Hosianna-Mantra</link>
@@ -65,7 +51,7 @@
       <pubDate>Tue, 12 Oct 2021 01:29:15 -0400</pubDate>
     </item>
     <item>
-      <title>Demilich - The Sixteenth Six-Tooth Son of Fourteen Four Regional Dimensions (1 play)</title>
+      <title>Demilich - The Sixteenth Six-Tooth Son of Fourteen Four Regional Dimensions</title>
       <link>https://www.last.fm/music/Demilich/_/The+Sixteenth+Six-Tooth+Son+of+Fourteen+Four+Regional+Dimensions</link>
       <guid isPermaLink="false">Frippertron-1634016782--Demilich---The Sixteenth Six-Tooth Son of Fourteen Four Regional Dimensions</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41b8ea7e11d31887f03dae7b9b6386eb.jpg" length="25123" type="image/jpeg"/>
@@ -149,7 +135,7 @@
       <pubDate>Tue, 12 Oct 2021 03:42:53 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - Supper's Ready (72 plays)</title>
+      <title>Genesis - Supper's Ready (73 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Supper%27s+Ready</link>
       <guid isPermaLink="false">Frippertron-1634025126--722b2118-a77b-4161-9060-63a1b469e5b2---Supper's Ready</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d27e218766b54431c409b2ce5d5f4952.jpg" length="12078" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1634100297--722b2118-a77b-4161-9060-63a1b469e5b2---More Fool Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae2f821e1b1d46099a4a63d939ae78f5.jpg" length="27747" type="image/jpeg"/>
       <pubDate>Wed, 13 Oct 2021 00:44:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - The Battle of Epping Forest (24 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/The+Battle+of+Epping+Forest</link>
+      <guid isPermaLink="false">Frippertron-1634100506--722b2118-a77b-4161-9060-63a1b469e5b2---The Battle of Epping Forest</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae2f821e1b1d46099a4a63d939ae78f5.jpg" length="27747" type="image/jpeg"/>
+      <pubDate>Wed, 13 Oct 2021 00:48:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Supper's Ready (73 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Supper%27s+Ready</link>
+      <guid isPermaLink="false">Frippertron-1634101452--722b2118-a77b-4161-9060-63a1b469e5b2---Supper's Ready</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae2f821e1b1d46099a4a63d939ae78f5.jpg" length="27747" type="image/jpeg"/>
+      <pubDate>Wed, 13 Oct 2021 01:04:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
