@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Oct 2021 14:41:43 +0000</lastBuildDate>
-    <item>
-      <title>Frank Turner - Bob (13 plays)</title>
-      <link>https://www.last.fm/music/Frank+Turner/_/Bob</link>
-      <guid isPermaLink="false">SlitYerGuts-1633962329--aca5718f-4f49-4439-b8f6-209db3f11757---Bob</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1d6167652d543b674e9a79cc0bd7657.jpg" length="31844" type="image/jpeg"/>
-      <pubDate>Mon, 11 Oct 2021 10:25:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Brandi Carlile - Sinners, Saints and Fools (5 plays)</title>
-      <link>https://www.last.fm/music/Brandi+Carlile/_/Sinners,+Saints+and+Fools</link>
-      <guid isPermaLink="false">SlitYerGuts-1633962519--baf05baf-69fb-47dd-93c2-033536b8c385---Sinners, Saints and Fools</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93d348149e32fe9aed48276582cc6560.jpg" length="17070" type="image/jpeg"/>
-      <pubDate>Mon, 11 Oct 2021 10:28:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 14:52:19 +0000</lastBuildDate>
     <item>
       <title>Spiritbox - Halcyon (26 plays)</title>
       <link>https://www.last.fm/music/Spiritbox/_/Halcyon</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">SlitYerGuts-1634135735--Kowloon Walled City---Piecework</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d83933935b7b2302581f542ef841d2f4.jpg" length="15719" type="image/jpeg"/>
       <pubDate>Wed, 13 Oct 2021 10:35:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kowloon Walled City - Utopian (1 play)</title>
+      <link>https://www.last.fm/music/Kowloon+Walled+City/_/Utopian</link>
+      <guid isPermaLink="false">SlitYerGuts-1634136017--Kowloon Walled City---Utopian</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d83933935b7b2302581f542ef841d2f4.jpg" length="15719" type="image/jpeg"/>
+      <pubDate>Wed, 13 Oct 2021 10:40:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kowloon Walled City - Oxygen Tent (1 play)</title>
+      <link>https://www.last.fm/music/Kowloon+Walled+City/_/Oxygen+Tent</link>
+      <guid isPermaLink="false">SlitYerGuts-1634136235--Kowloon Walled City---Oxygen Tent</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d83933935b7b2302581f542ef841d2f4.jpg" length="15719" type="image/jpeg"/>
+      <pubDate>Wed, 13 Oct 2021 10:43:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
