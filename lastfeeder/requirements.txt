@@ -20,7 +20,7 @@ httpx==0.19.0
     # via -r requirements.in
 humanize==3.12.0
     # via delorean
-idna==3.2
+idna==3.3
     # via
     #   anyio
     #   rfc3986
@@ -45,11 +45,11 @@ sniffio==1.2.0
     #   anyio
     #   httpcore
     #   httpx
-structlog==21.1.0
+structlog==21.2.0
     # via -r requirements.in
 tzlocal==3.0
     # via delorean
-wrapt==1.13.1
+wrapt==1.13.2
     # via -r requirements.in
 
 # The following packages are considered to be unsafe in a requirements file:
