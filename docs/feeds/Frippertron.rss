@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Oct 2021 10:42:03 +0000</lastBuildDate>
-    <item>
-      <title>Television - Venus (35 plays)</title>
-      <link>https://www.last.fm/music/Television/_/Venus</link>
-      <guid isPermaLink="false">Frippertron-1634180868--490bde43-5edb-4a93-b3b3-7a0465fd8909---Venus</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
-      <pubDate>Wed, 13 Oct 2021 23:07:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Oct 2021 10:53:47 +0000</lastBuildDate>
     <item>
       <title>Television - Friction (55 plays)</title>
       <link>https://www.last.fm/music/Television/_/Friction</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1634207832--747e5054-f50b-498c-bff3-85f7313aeb80---To The War (Reflection)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/13a85a9561f79e1d78748e3dec633521.jpg" length="15438" type="image/jpeg"/>
       <pubDate>Thu, 14 Oct 2021 06:37:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Starless (206 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Starless</link>
+      <guid isPermaLink="false">Frippertron-1634207978--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Starless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 14 Oct 2021 06:39:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
