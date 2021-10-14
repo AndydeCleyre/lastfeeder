@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Oct 2021 04:50:14 +0000</lastBuildDate>
-    <item>
-      <title>Portishead - The Rip (24 plays)</title>
-      <link>https://www.last.fm/music/Portishead/_/The+Rip</link>
-      <guid isPermaLink="false">Frippertron-1634111377--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---The Rip</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/279a1305beda45e3814e8ad2e5d7c428.png" length="51591" type="image/png"/>
-      <pubDate>Wed, 13 Oct 2021 03:49:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Oct 2021 05:17:09 +0000</lastBuildDate>
     <item>
       <title>Portishead - Plastic (20 plays)</title>
       <link>https://www.last.fm/music/Portishead/_/Plastic</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1634186705--bfe00ef8-f6f2-4810-999e-65e46b5970ab---The Earth At Its Knees</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cff96cb8f76944d9b9f65202d3abb603.png" length="141414" type="image/png"/>
       <pubDate>Thu, 14 Oct 2021 00:45:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ulcerate - Soullessness Embraced (1 play)</title>
+      <link>https://www.last.fm/music/Ulcerate/_/Soullessness+Embraced</link>
+      <guid isPermaLink="false">Frippertron-1634187052--bfe00ef8-f6f2-4810-999e-65e46b5970ab---Soullessness Embraced</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cff96cb8f76944d9b9f65202d3abb603.png" length="141414" type="image/png"/>
+      <pubDate>Thu, 14 Oct 2021 00:50:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
