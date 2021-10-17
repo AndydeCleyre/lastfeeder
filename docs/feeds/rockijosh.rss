@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Oct 2021 20:52:34 +0000</lastBuildDate>
-    <item>
-      <title>Laura Stevenson - Don't Think About Me (21 plays)</title>
-      <link>https://www.last.fm/music/Laura+Stevenson/_/Don%27t+Think+About+Me</link>
-      <guid isPermaLink="false">rockijosh-1634442877--70b166d1-b511-49f1-ad15-8b94603515d5---Don't Think About Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33a1403a329a253f9b7cce830873c5e.jpg" length="31685" type="image/jpeg"/>
-      <pubDate>Sat, 16 Oct 2021 23:54:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 Oct 2021 21:16:11 +0000</lastBuildDate>
     <item>
       <title>Laura Stevenson - Moving Cars (19 plays)</title>
       <link>https://www.last.fm/music/Laura+Stevenson/_/Moving+Cars</link>
@@ -65,7 +58,7 @@
       <pubDate>Sun, 17 Oct 2021 00:24:05 -0400</pubDate>
     </item>
     <item>
-      <title>Laura Stevenson - Children's National Transfer (15 plays)</title>
+      <title>Laura Stevenson - Children's National Transfer</title>
       <link>https://www.last.fm/music/Laura+Stevenson/_/Children%27s+National+Transfer</link>
       <guid isPermaLink="false">rockijosh-1634444796--70b166d1-b511-49f1-ad15-8b94603515d5---Children's National Transfer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33a1403a329a253f9b7cce830873c5e.jpg" length="31685" type="image/jpeg"/>
@@ -247,7 +240,7 @@
       <pubDate>Sun, 17 Oct 2021 12:25:47 -0400</pubDate>
     </item>
     <item>
-      <title>Carly Rae Jepsen - I Really Like You (25 plays)</title>
+      <title>Carly Rae Jepsen - I Really Like You</title>
       <link>https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You</link>
       <guid isPermaLink="false">rockijosh-1634488145--09887aa7-226e-4ecc-9a0c-02d2ae5777e1---I Really Like You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5638aa7e45b7422e14ee265387f4e14c.png" length="99629" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1634503752--d1393ecb-431b-4fde-a6ea-d769f2f040cb---This Town</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18f60d4ddd1b795a222845f1f2e00d72.png" length="185731" type="image/png"/>
       <pubDate>Sun, 17 Oct 2021 16:49:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kacey Musgraves - Biscuits (61 plays)</title>
+      <link>https://www.last.fm/music/Kacey+Musgraves/_/Biscuits</link>
+      <guid isPermaLink="false">rockijosh-1634503927--d1393ecb-431b-4fde-a6ea-d769f2f040cb---Biscuits</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18f60d4ddd1b795a222845f1f2e00d72.png" length="185731" type="image/png"/>
+      <pubDate>Sun, 17 Oct 2021 16:52:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
