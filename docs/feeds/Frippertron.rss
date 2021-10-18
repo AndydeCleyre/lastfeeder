@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Oct 2021 09:19:13 +0000</lastBuildDate>
-    <item>
-      <title>UK - By The Light Of Day (20 plays)</title>
-      <link>https://www.last.fm/music/UK/_/By+The+Light+Of+Day</link>
-      <guid isPermaLink="false">Frippertron-1634200772--f7c0267c-5dad-4e43-ac06-844c54a77e1c---By The Light Of Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d99f75d125e348b6c8b82243daea967b.png" length="132521" type="image/png"/>
-      <pubDate>Thu, 14 Oct 2021 04:39:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>UK - Presto Vivace and Reprise (19 plays)</title>
-      <link>https://www.last.fm/music/UK/_/Presto+Vivace+and+Reprise</link>
-      <guid isPermaLink="false">Frippertron-1634201044--f7c0267c-5dad-4e43-ac06-844c54a77e1c---Presto Vivace and Reprise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d99f75d125e348b6c8b82243daea967b.png" length="132521" type="image/png"/>
-      <pubDate>Thu, 14 Oct 2021 04:44:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Oct 2021 09:42:09 +0000</lastBuildDate>
     <item>
       <title>UK - Alaska (23 plays)</title>
       <link>https://www.last.fm/music/UK/_/Alaska</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1634547900--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---I Grieve</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce344fc4277e420fc2edf6448e8f15c5.jpg" length="9231" type="image/jpeg"/>
       <pubDate>Mon, 18 Oct 2021 05:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - The Barry Williams Show (7 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/The+Barry+Williams+Show</link>
+      <guid isPermaLink="false">Frippertron-1634549442--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---The Barry Williams Show</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce344fc4277e420fc2edf6448e8f15c5.jpg" length="9231" type="image/jpeg"/>
+      <pubDate>Mon, 18 Oct 2021 05:30:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - My Head Sounds Like That (6 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/My+Head+Sounds+Like+That</link>
+      <guid isPermaLink="false">Frippertron-1634549880--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---My Head Sounds Like That</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce344fc4277e420fc2edf6448e8f15c5.jpg" length="9231" type="image/jpeg"/>
+      <pubDate>Mon, 18 Oct 2021 05:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
