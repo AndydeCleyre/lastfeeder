@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Oct 2021 10:22:02 +0000</lastBuildDate>
-    <item>
-      <title>Gino Vannelli - Ugly Man (8 plays)</title>
-      <link>https://www.last.fm/music/Gino+Vannelli/_/Ugly+Man</link>
-      <guid isPermaLink="false">Frippertron-1634205290--747e5054-f50b-498c-bff3-85f7313aeb80---Ugly Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/13a85a9561f79e1d78748e3dec633521.jpg" length="15438" type="image/jpeg"/>
-      <pubDate>Thu, 14 Oct 2021 05:54:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gino Vannelli - A New Fix For '76 (7 plays)</title>
-      <link>https://www.last.fm/music/Gino+Vannelli/_/A+New+Fix+For+%2776</link>
-      <guid isPermaLink="false">Frippertron-1634206672--747e5054-f50b-498c-bff3-85f7313aeb80---A New Fix For '76</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/13a85a9561f79e1d78748e3dec633521.jpg" length="15438" type="image/jpeg"/>
-      <pubDate>Thu, 14 Oct 2021 06:17:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Oct 2021 10:43:33 +0000</lastBuildDate>
     <item>
       <title>Gino Vannelli - Prelude To The War (11 plays)</title>
       <link>https://www.last.fm/music/Gino+Vannelli/_/Prelude+To+The+War</link>
@@ -121,7 +107,7 @@
       <pubDate>Sun, 17 Oct 2021 23:51:01 -0400</pubDate>
     </item>
     <item>
-      <title>diSEMBOWELMENT - The Spirits of the Tall Hills</title>
+      <title>diSEMBOWELMENT - The Spirits of the Tall Hills (1 play)</title>
       <link>https://www.last.fm/music/diSEMBOWELMENT/_/The+Spirits+of+the+Tall+Hills</link>
       <guid isPermaLink="false">Frippertron-1634529962--2f49ca8b-578a-42cd-bca7-6d259e1da912---The Spirits of the Tall Hills</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4284de3670297e8f1221d9dd5586d9ae.jpg" length="9662" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1634552115--Emerson, Lake &amp; Palmer---Knife-Edge</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d962b1a5e9440e9c020fe51a975cd60.png" length="176584" type="image/png"/>
       <pubDate>Mon, 18 Oct 2021 06:15:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Emerson, Lake &amp; Palmer - Living Sin (8 plays)</title>
+      <link>https://www.last.fm/music/Emerson,+Lake+&amp;+Palmer/_/Living+Sin</link>
+      <guid isPermaLink="false">Frippertron-1634552425--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Living Sin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6abcc417ec264005877fc0bb9f358923.png" length="207913" type="image/png"/>
+      <pubDate>Mon, 18 Oct 2021 06:20:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Emerson, Lake &amp; Palmer - Tarkus (21 plays)</title>
+      <link>https://www.last.fm/music/Emerson,+Lake+&amp;+Palmer/_/Tarkus</link>
+      <guid isPermaLink="false">Frippertron-1634552602--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Tarkus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c4a7d083d94215a67cf06aa7e4b142.png" length="215731" type="image/png"/>
+      <pubDate>Mon, 18 Oct 2021 06:23:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
