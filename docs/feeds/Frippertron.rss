@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Oct 2021 03:44:42 +0000</lastBuildDate>
-    <item>
-      <title>Television - Prove It (32 plays)</title>
-      <link>https://www.last.fm/music/Television/_/Prove+It</link>
-      <guid isPermaLink="false">Frippertron-1634182679--490bde43-5edb-4a93-b3b3-7a0465fd8909---Prove It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
-      <pubDate>Wed, 13 Oct 2021 23:37:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Television - Torn Curtain (43 plays)</title>
-      <link>https://www.last.fm/music/Television/_/Torn+Curtain</link>
-      <guid isPermaLink="false">Frippertron-1634182986--490bde43-5edb-4a93-b3b3-7a0465fd8909---Torn Curtain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
-      <pubDate>Wed, 13 Oct 2021 23:43:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Oct 2021 03:53:54 +0000</lastBuildDate>
     <item>
       <title>Ulcerate - Drown Within (1 play)</title>
       <link>https://www.last.fm/music/Ulcerate/_/Drown+Within</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1634528131--2f49ca8b-578a-42cd-bca7-6d259e1da912---Your Prophetic Throne of Ivory</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4284de3670297e8f1221d9dd5586d9ae.jpg" length="9662" type="image/jpeg"/>
       <pubDate>Sun, 17 Oct 2021 23:35:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>diSEMBOWELMENT - Excoriate (1 play)</title>
+      <link>https://www.last.fm/music/diSEMBOWELMENT/_/Excoriate</link>
+      <guid isPermaLink="false">Frippertron-1634528593--2f49ca8b-578a-42cd-bca7-6d259e1da912---Excoriate</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4284de3670297e8f1221d9dd5586d9ae.jpg" length="9662" type="image/jpeg"/>
+      <pubDate>Sun, 17 Oct 2021 23:43:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>diSEMBOWELMENT - Nightside of Eden (1 play)</title>
+      <link>https://www.last.fm/music/diSEMBOWELMENT/_/Nightside+of+Eden</link>
+      <guid isPermaLink="false">Frippertron-1634528880--2f49ca8b-578a-42cd-bca7-6d259e1da912---Nightside of Eden</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4284de3670297e8f1221d9dd5586d9ae.jpg" length="9662" type="image/jpeg"/>
+      <pubDate>Sun, 17 Oct 2021 23:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
