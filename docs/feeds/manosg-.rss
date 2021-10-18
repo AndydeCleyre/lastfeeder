@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Oct 2021 15:24:54 +0000</lastBuildDate>
-    <item>
-      <title>Alcatrazz - Maybe tomorrow (1 play)</title>
-      <link>https://www.last.fm/music/Alcatrazz/_/Maybe+tomorrow</link>
-      <guid isPermaLink="false">manosg--1634294113--ef32e381-8413-40a0-b7ad-1ca7bf514ee8---Maybe tomorrow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb097fb3f14e2385f89815bc28dcd9d1.jpg" length="28175" type="image/jpeg"/>
-      <pubDate>Fri, 15 Oct 2021 06:35:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Alcatrazz - House of Lies (1 play)</title>
-      <link>https://www.last.fm/music/Alcatrazz/_/House+of+Lies</link>
-      <guid isPermaLink="false">manosg--1634295306--ef32e381-8413-40a0-b7ad-1ca7bf514ee8---House of Lies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb097fb3f14e2385f89815bc28dcd9d1.jpg" length="28175" type="image/jpeg"/>
-      <pubDate>Fri, 15 Oct 2021 06:55:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Oct 2021 15:44:00 +0000</lastBuildDate>
     <item>
       <title>Alcatrazz - Alice's Eyes (1 play)</title>
       <link>https://www.last.fm/music/Alcatrazz/_/Alice%27s+Eyes</link>
@@ -351,6 +337,20 @@
       <guid isPermaLink="false">manosg--1634570071--059afdf5-77e8-4e51-90f5-453b623232ec---Xanadu</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89563a50fde790d433b550ff08157ca4.jpg" length="26220" type="image/jpeg"/>
       <pubDate>Mon, 18 Oct 2021 11:14:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rush - Subdivisions (2 plays)</title>
+      <link>https://www.last.fm/music/Rush/_/Subdivisions</link>
+      <guid isPermaLink="false">manosg--1634570895--059afdf5-77e8-4e51-90f5-453b623232ec---Subdivisions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f533c7935081f9f79da90f966e69438.png" length="143873" type="image/png"/>
+      <pubDate>Mon, 18 Oct 2021 11:28:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rush - Time Stand Still (1 play)</title>
+      <link>https://www.last.fm/music/Rush/_/Time+Stand+Still</link>
+      <guid isPermaLink="false">manosg--1634571228--059afdf5-77e8-4e51-90f5-453b623232ec---Time Stand Still</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/621c1b30966d50f1302dc80e6c79de6a.jpg" length="7164" type="image/jpeg"/>
+      <pubDate>Mon, 18 Oct 2021 11:33:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
