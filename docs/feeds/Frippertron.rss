@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Oct 2021 05:37:21 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Firth of Fifth (48 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Firth+of+Fifth</link>
-      <guid isPermaLink="false">Frippertron-1634536062--722b2118-a77b-4161-9060-63a1b469e5b2---Firth of Fifth</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71d4aaa37def2ac4f18d53249019b4d9.jpg" length="30161" type="image/jpeg"/>
-      <pubDate>Mon, 18 Oct 2021 01:47:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 05:52:35 +0000</lastBuildDate>
     <item>
       <title>Genesis - Henry and Cynthia Story (1 play)</title>
       <link>https://www.last.fm/music/Genesis/_/Henry+and+Cynthia+Story</link>
@@ -352,11 +345,18 @@
       <pubDate>Tue, 19 Oct 2021 01:19:37 -0400</pubDate>
     </item>
     <item>
-      <title>Soft Machine - Out-Bloody-Rageous (14 plays)</title>
+      <title>Soft Machine - Out-Bloody-Rageous (15 plays)</title>
       <link>https://www.last.fm/music/Soft+Machine/_/Out-Bloody-Rageous</link>
       <guid isPermaLink="false">Frippertron-1634621428--5193ce6b-a315-4c50-ae49-54e69ffbc988---Out-Bloody-Rageous</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c41dbeedf6c244b8c40c5d21520d15b8.png" length="194241" type="image/png"/>
       <pubDate>Tue, 19 Oct 2021 01:30:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soft Machine - Out-Bloody-Rageous (15 plays)</title>
+      <link>https://www.last.fm/music/Soft+Machine/_/Out-Bloody-Rageous</link>
+      <guid isPermaLink="false">Frippertron-1634622145--5193ce6b-a315-4c50-ae49-54e69ffbc988---Out-Bloody-Rageous</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c41dbeedf6c244b8c40c5d21520d15b8.png" length="194241" type="image/png"/>
+      <pubDate>Tue, 19 Oct 2021 01:42:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
