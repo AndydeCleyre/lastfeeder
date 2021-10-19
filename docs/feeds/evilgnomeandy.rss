@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Oct 2021 18:22:01 +0000</lastBuildDate>
-    <item>
-      <title>Moriarty - Jimmy (1 play)</title>
-      <link>https://www.last.fm/music/Moriarty/_/Jimmy</link>
-      <guid isPermaLink="false">evilgnomeandy-1634406791--7f998ad7-4cb1-4f5d-a366-98b23ecf2ace---Jimmy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4b694cd04d5e63fe9d7a8fa0a057e5b.jpg" length="34439" type="image/jpeg"/>
-      <pubDate>Sat, 16 Oct 2021 13:53:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prince Fatty - Shimmy Shimmy Ya (1 play)</title>
-      <link>https://www.last.fm/music/Prince+Fatty/_/Shimmy+Shimmy+Ya</link>
-      <guid isPermaLink="false">evilgnomeandy-1634407057--e5c1825b-8d27-47de-9c6b-a2d6cde9be0a---Shimmy Shimmy Ya</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc34cf0fb098494fbaa72aeff48ed09c.jpg" length="27738" type="image/jpeg"/>
-      <pubDate>Sat, 16 Oct 2021 13:57:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sporto Kantès - Whistle (1 play)</title>
-      <link>https://www.last.fm/music/Sporto+Kant%C3%A8s/_/Whistle</link>
-      <guid isPermaLink="false">evilgnomeandy-1634407234--22afa07b-1bb0-4ea5-8736-c3a54054d3fe---Whistle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22737fac89dc4d88af6930c6260c8301.jpg" length="30840" type="image/jpeg"/>
-      <pubDate>Sat, 16 Oct 2021 14:00:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 18:45:49 +0000</lastBuildDate>
     <item>
       <title>Oompa Loompa Cast - Oompa Loompa - From "Willy Wonka &amp; The Chocolate Factory" Soundtrack (5 plays)</title>
       <link>https://www.last.fm/music/Oompa+Loompa+Cast/_/Oompa+Loompa+-+From+%22Willy+Wonka+&amp;+The+Chocolate+Factory%22+Soundtrack</link>
@@ -352,11 +331,32 @@
       <pubDate>Tue, 19 Oct 2021 14:14:21 -0400</pubDate>
     </item>
     <item>
-      <title>Ramsey Lewis - Dear Prudence (17 plays)</title>
+      <title>Ramsey Lewis - Dear Prudence (18 plays)</title>
       <link>https://www.last.fm/music/Ramsey+Lewis/_/Dear+Prudence</link>
       <guid isPermaLink="false">evilgnomeandy-1634667421--fe19b809-e86c-4736-882a-53b72e23171b---Dear Prudence</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe02ba2861abbfbf742796635bd6030f.jpg" length="32108" type="image/jpeg"/>
       <pubDate>Tue, 19 Oct 2021 14:17:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Smashing Pumpkins - Bullet With Butterfly Wings - remastered 2012 (9 plays)</title>
+      <link>https://www.last.fm/music/The+Smashing+Pumpkins/_/Bullet+With+Butterfly+Wings+-+remastered+2012</link>
+      <guid isPermaLink="false">evilgnomeandy-1634667717--ba0d6274-db14-4ef5-b28d-657ebde1a396---Bullet With Butterfly Wings - remastered 2012</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a453e940a8945b4c5b2766f76ece94a.jpg" length="29852" type="image/jpeg"/>
+      <pubDate>Tue, 19 Oct 2021 14:21:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ed Polcer - Song of the Wanderer (2 plays)</title>
+      <link>https://www.last.fm/music/Ed+Polcer/_/Song+of+the+Wanderer</link>
+      <guid isPermaLink="false">evilgnomeandy-1634667975--Ed Polcer---Song of the Wanderer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 19 Oct 2021 14:26:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Circles around the sun - Saturday's Children (feat. Neal Casal) (30 plays)</title>
+      <link>https://www.last.fm/music/Circles+around+the+sun/_/Saturday%27s+Children+(feat.+Neal+Casal)</link>
+      <guid isPermaLink="false">evilgnomeandy-1634668292--Circles around the sun---Saturday's Children (feat. Neal Casal)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44f2ab62b945bbd1db0edbbae2c2ec4c.jpg" length="30324" type="image/jpeg"/>
+      <pubDate>Tue, 19 Oct 2021 14:31:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
