@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 05:52:31 +0000</lastBuildDate>
-    <item>
-      <title>Can - Mushroom (7 plays)</title>
-      <link>https://www.last.fm/music/Can/_/Mushroom</link>
-      <guid isPermaLink="false">Frippertron-1634623037--49c2b08e-bee7-4a79-92ff-b8dbeb3230d2---Mushroom</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73ce5459c6dcb7dd4a15d310fb0796c1.jpg" length="30302" type="image/jpeg"/>
-      <pubDate>Tue, 19 Oct 2021 01:57:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Can - Oh Yeah (4 plays)</title>
-      <link>https://www.last.fm/music/Can/_/Oh+Yeah</link>
-      <guid isPermaLink="false">Frippertron-1634623307--49c2b08e-bee7-4a79-92ff-b8dbeb3230d2---Oh Yeah</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73ce5459c6dcb7dd4a15d310fb0796c1.jpg" length="30302" type="image/jpeg"/>
-      <pubDate>Tue, 19 Oct 2021 02:01:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 06:22:34 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - The World Awake (52 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/The+World+Awake</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1634708812--722b2118-a77b-4161-9060-63a1b469e5b2---Horizons</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54c163b17ae89192c792e62c124a3f16.jpg" length="19842" type="image/jpeg"/>
       <pubDate>Wed, 20 Oct 2021 01:46:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - The Battle of Epping Forest (25 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/The+Battle+of+Epping+Forest</link>
+      <guid isPermaLink="false">Frippertron-1634708984--722b2118-a77b-4161-9060-63a1b469e5b2---The Battle of Epping Forest</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54c163b17ae89192c792e62c124a3f16.jpg" length="19842" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 01:49:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Supper's Ready (75 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Supper%27s+Ready</link>
+      <guid isPermaLink="false">Frippertron-1634709775--722b2118-a77b-4161-9060-63a1b469e5b2---Supper's Ready</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54c163b17ae89192c792e62c124a3f16.jpg" length="19842" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 02:02:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
