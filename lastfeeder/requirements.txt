@@ -51,9 +51,9 @@ sniffio==1.2.0
     #   httpx
 structlog==21.2.0
     # via -r requirements.in
-tzdata==2021.2.post0
+tzdata==2021.4
     # via pytz-deprecation-shim
-tzlocal==4.0
+tzlocal==4.0.1
     # via delorean
 wrapt==1.13.2
     # via -r requirements.in
