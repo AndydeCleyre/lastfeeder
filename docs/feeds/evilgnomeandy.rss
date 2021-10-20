@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 16:32:03 +0000</lastBuildDate>
-    <item>
-      <title>Us3 - You Can't Hold Me Down (1 play)</title>
-      <link>https://www.last.fm/music/Us3/_/You+Can%27t+Hold+Me+Down</link>
-      <guid isPermaLink="false">evilgnomeandy-1634418230--b370defd-86cc-42f3-85b4-7c2a8305c04a---You Can't Hold Me Down</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acd5a096ac724ccb0cc2339395f18435.jpg" length="20665" type="image/jpeg"/>
-      <pubDate>Sat, 16 Oct 2021 17:03:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Caspar Babypants - Fiddlehead Fern (23 plays)</title>
-      <link>https://www.last.fm/music/Caspar+Babypants/_/Fiddlehead+Fern</link>
-      <guid isPermaLink="false">evilgnomeandy-1634418512--Caspar Babypants---Fiddlehead Fern</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c5bca2eb7a581614537e63cd0155cb2.jpg" length="26130" type="image/jpeg"/>
-      <pubDate>Sat, 16 Oct 2021 17:08:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 17:05:45 +0000</lastBuildDate>
     <item>
       <title>Caspar Babypants - Cotton Eyed Joe (66 plays)</title>
       <link>https://www.last.fm/music/Caspar+Babypants/_/Cotton+Eyed+Joe</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1634746991--Allen Toussaint---Last Train - Remastered Version</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/647eb83687a24e93ba8838378a0f78e4.jpg" length="32467" type="image/jpeg"/>
       <pubDate>Wed, 20 Oct 2021 12:23:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stevie Ray Vaughan - The House Is Rockin' (5 plays)</title>
+      <link>https://www.last.fm/music/Stevie+Ray+Vaughan/_/The+House+Is+Rockin%27</link>
+      <guid isPermaLink="false">evilgnomeandy-1634747172--f5426431-f490-4678-ad44-a75c71097bb4---The House Is Rockin'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f34901df4e373d700dbd4486cffdedd.jpg" length="24657" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 12:26:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ernie K-Doe - A Certain Girl (3 plays)</title>
+      <link>https://www.last.fm/music/Ernie+K-Doe/_/A+Certain+Girl</link>
+      <guid isPermaLink="false">evilgnomeandy-1634747697--7f06afd2-a30f-47b6-a25d-6638ab91c817---A Certain Girl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 20 Oct 2021 12:34:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
