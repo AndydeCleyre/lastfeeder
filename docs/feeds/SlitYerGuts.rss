@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/SlitYerGuts.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 21:16:41 +0000</lastBuildDate>
-    <item>
-      <title>Fulci - Nightmare (1 play)</title>
-      <link>https://www.last.fm/music/Fulci/_/Nightmare</link>
-      <guid isPermaLink="false">SlitYerGuts-1634578334--aa299c3e-ba6d-46fc-99df-313ce341bc20---Nightmare</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af12e5c30133dc42d7287828b9daa023.jpg" length="23945" type="image/jpeg"/>
-      <pubDate>Mon, 18 Oct 2021 13:32:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 21:39:24 +0000</lastBuildDate>
     <item>
       <title>Fulci - EVIL (1 play)</title>
       <link>https://www.last.fm/music/Fulci/_/EVIL</link>
@@ -205,7 +198,7 @@
       <pubDate>Tue, 19 Oct 2021 13:30:16 -0400</pubDate>
     </item>
     <item>
-      <title>Spiritbox - Secret Garden (45 plays)</title>
+      <title>Spiritbox - Secret Garden (46 plays)</title>
       <link>https://www.last.fm/music/Spiritbox/_/Secret+Garden</link>
       <guid isPermaLink="false">SlitYerGuts-1634666038--9c935736-7530-41e4-b776-1dbcf534c061---Secret Garden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
@@ -352,11 +345,18 @@
       <pubDate>Wed, 20 Oct 2021 15:16:36 -0400</pubDate>
     </item>
     <item>
-      <title>Spiritbox - Belcarra (8 plays)</title>
+      <title>Spiritbox - Belcarra (9 plays)</title>
       <link>https://www.last.fm/music/Spiritbox/_/Belcarra</link>
       <guid isPermaLink="false">SlitYerGuts-1634757699--9c935736-7530-41e4-b776-1dbcf534c061---Belcarra</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26052718698e3d7873e4635b2f4e9fff.jpg" length="2868" type="image/jpeg"/>
       <pubDate>Wed, 20 Oct 2021 15:21:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Spiritbox - Secret Garden (46 plays)</title>
+      <link>https://www.last.fm/music/Spiritbox/_/Secret+Garden</link>
+      <guid isPermaLink="false">SlitYerGuts-1634764187--9c935736-7530-41e4-b776-1dbcf534c061---Secret Garden</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 17:09:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
