@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 05:37:35 +0000</lastBuildDate>
-    <item>
-      <title>Soft Machine - Out-Bloody-Rageous (15 plays)</title>
-      <link>https://www.last.fm/music/Soft+Machine/_/Out-Bloody-Rageous</link>
-      <guid isPermaLink="false">Frippertron-1634622145--5193ce6b-a315-4c50-ae49-54e69ffbc988---Out-Bloody-Rageous</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c41dbeedf6c244b8c40c5d21520d15b8.png" length="194241" type="image/png"/>
-      <pubDate>Tue, 19 Oct 2021 01:42:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Can - Paperhouse (5 plays)</title>
-      <link>https://www.last.fm/music/Can/_/Paperhouse</link>
-      <guid isPermaLink="false">Frippertron-1634622588--49c2b08e-bee7-4a79-92ff-b8dbeb3230d2---Paperhouse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73ce5459c6dcb7dd4a15d310fb0796c1.jpg" length="30302" type="image/jpeg"/>
-      <pubDate>Tue, 19 Oct 2021 01:49:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 05:52:31 +0000</lastBuildDate>
     <item>
       <title>Can - Mushroom (7 plays)</title>
       <link>https://www.last.fm/music/Can/_/Mushroom</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1634707355--722b2118-a77b-4161-9060-63a1b469e5b2---Firth of Fifth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54c163b17ae89192c792e62c124a3f16.jpg" length="19842" type="image/jpeg"/>
       <pubDate>Wed, 20 Oct 2021 01:22:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - The Musical Box (63 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/The+Musical+Box</link>
+      <guid isPermaLink="false">Frippertron-1634708051--722b2118-a77b-4161-9060-63a1b469e5b2---The Musical Box</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54c163b17ae89192c792e62c124a3f16.jpg" length="19842" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 01:34:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Horizons (29 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Horizons</link>
+      <guid isPermaLink="false">Frippertron-1634708812--722b2118-a77b-4161-9060-63a1b469e5b2---Horizons</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54c163b17ae89192c792e62c124a3f16.jpg" length="19842" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 01:46:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
