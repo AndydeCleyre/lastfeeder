@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 07:38:06 +0000</lastBuildDate>
-    <item>
-      <title>Rush - Fly by Night (11 plays)</title>
-      <link>https://www.last.fm/music/Rush/_/Fly+by+Night</link>
-      <guid isPermaLink="false">manosg--1634553677--059afdf5-77e8-4e51-90f5-453b623232ec---Fly by Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/253443bf07c761a91dcd1d7afb51b836.jpg" length="18961" type="image/jpeg"/>
-      <pubDate>Mon, 18 Oct 2021 06:41:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 07:52:23 +0000</lastBuildDate>
     <item>
       <title>Rush - In the Mood (1 play)</title>
       <link>https://www.last.fm/music/Rush/_/In+the+Mood</link>
@@ -306,7 +299,7 @@
       <pubDate>Tue, 19 Oct 2021 12:35:29 -0400</pubDate>
     </item>
     <item>
-      <title>Zephyria - Through the Icy Mist (1 play)</title>
+      <title>Zephyria - Through the Icy Mist</title>
       <link>https://www.last.fm/music/Zephyria/_/Through+the+Icy+Mist</link>
       <guid isPermaLink="false">manosg--1634661832--Zephyria---Through the Icy Mist</guid>
       <pubDate>Tue, 19 Oct 2021 12:43:52 -0400</pubDate>
@@ -345,6 +338,13 @@
       <guid isPermaLink="false">manosg--1634715030--Dragonbreath---Zillak</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c381b04f75846e44564da7b3bc08041.jpg" length="28635" type="image/jpeg"/>
       <pubDate>Wed, 20 Oct 2021 03:30:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dragonbreath - Thermopylae (2 plays)</title>
+      <link>https://www.last.fm/music/Dragonbreath/_/Thermopylae</link>
+      <guid isPermaLink="false">manosg--1634715346--Dragonbreath---Thermopylae</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c381b04f75846e44564da7b3bc08041.jpg" length="28635" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 03:35:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
