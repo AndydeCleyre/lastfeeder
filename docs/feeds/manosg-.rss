@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 07:18:14 +0000</lastBuildDate>
-    <item>
-      <title>Rush - Closer to the Heart (13 plays)</title>
-      <link>https://www.last.fm/music/Rush/_/Closer+to+the+Heart</link>
-      <guid isPermaLink="false">manosg--1634549372--059afdf5-77e8-4e51-90f5-453b623232ec---Closer to the Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89563a50fde790d433b550ff08157ca4.jpg" length="26220" type="image/jpeg"/>
-      <pubDate>Mon, 18 Oct 2021 05:29:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Rush - 2112 (1 play)</title>
-      <link>https://www.last.fm/music/Rush/_/2112</link>
-      <guid isPermaLink="false">manosg--1634549579--059afdf5-77e8-4e51-90f5-453b623232ec---2112</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76e08050b7dd4966ad59a9da3172c826.jpg" length="24394" type="image/jpeg"/>
-      <pubDate>Mon, 18 Oct 2021 05:32:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Rush - Working Man (1 play)</title>
-      <link>https://www.last.fm/music/Rush/_/Working+Man</link>
-      <guid isPermaLink="false">manosg--1634553427--059afdf5-77e8-4e51-90f5-453b623232ec---Working Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ed4369336bc4e3692ff57ac55054263.jpg" length="30389" type="image/jpeg"/>
-      <pubDate>Mon, 18 Oct 2021 06:37:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 07:38:06 +0000</lastBuildDate>
     <item>
       <title>Rush - Fly by Night (11 plays)</title>
       <link>https://www.last.fm/music/Rush/_/Fly+by+Night</link>
@@ -345,6 +324,27 @@
       <guid isPermaLink="false">manosg--1634714015--Dragonbreath---Eyes Never Lie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c381b04f75846e44564da7b3bc08041.jpg" length="28635" type="image/jpeg"/>
       <pubDate>Wed, 20 Oct 2021 03:13:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dragonbreath - Deadly Strike (1 play)</title>
+      <link>https://www.last.fm/music/Dragonbreath/_/Deadly+Strike</link>
+      <guid isPermaLink="false">manosg--1634714213--Dragonbreath---Deadly Strike</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c381b04f75846e44564da7b3bc08041.jpg" length="28635" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 03:16:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dragonbreath - Warrior Within (1 play)</title>
+      <link>https://www.last.fm/music/Dragonbreath/_/Warrior+Within</link>
+      <guid isPermaLink="false">manosg--1634714637--Dragonbreath---Warrior Within</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c381b04f75846e44564da7b3bc08041.jpg" length="28635" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 03:23:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dragonbreath - Zillak (1 play)</title>
+      <link>https://www.last.fm/music/Dragonbreath/_/Zillak</link>
+      <guid isPermaLink="false">manosg--1634715030--Dragonbreath---Zillak</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c381b04f75846e44564da7b3bc08041.jpg" length="28635" type="image/jpeg"/>
+      <pubDate>Wed, 20 Oct 2021 03:30:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
