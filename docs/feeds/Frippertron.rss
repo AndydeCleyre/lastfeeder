@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Oct 2021 17:42:13 +0000</lastBuildDate>
-    <item>
-      <title>Les Rallizes Dénudés - Flames of Ice (4 plays)</title>
-      <link>https://www.last.fm/music/Les+Rallizes+D%C3%A9nud%C3%A9s/_/Flames+of+Ice</link>
-      <guid isPermaLink="false">Frippertron-1634872746--1ba797b6-b445-4c04-b6b3-458ba9730ad9---Flames of Ice</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/027d36dc4e5982cca071e79169d18140.png" length="102437" type="image/png"/>
-      <pubDate>Thu, 21 Oct 2021 23:19:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Les Rallizes Dénudés - Memory Is Distant (1 play)</title>
-      <link>https://www.last.fm/music/Les+Rallizes+D%C3%A9nud%C3%A9s/_/Memory+Is+Distant</link>
-      <guid isPermaLink="false">Frippertron-1634873719--1ba797b6-b445-4c04-b6b3-458ba9730ad9---Memory Is Distant</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/027d36dc4e5982cca071e79169d18140.png" length="102437" type="image/png"/>
-      <pubDate>Thu, 21 Oct 2021 23:35:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Oct 2021 17:54:04 +0000</lastBuildDate>
     <item>
       <title>Stargazer - ...of the Sun (1 play)</title>
       <link>https://www.last.fm/music/Stargazer/_/...of+the+Sun</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1635010410--722b2118-a77b-4161-9060-63a1b469e5b2---Entangled</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
       <pubDate>Sat, 23 Oct 2021 13:33:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Squonk (50 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Squonk</link>
+      <guid isPermaLink="false">Frippertron-1635010795--722b2118-a77b-4161-9060-63a1b469e5b2---Squonk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 13:39:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Mad Man Moon (29 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Mad+Man+Moon</link>
+      <guid isPermaLink="false">Frippertron-1635011183--722b2118-a77b-4161-9060-63a1b469e5b2---Mad Man Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 13:46:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
