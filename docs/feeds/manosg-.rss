@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Oct 2021 08:21:59 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Dig a Pony (4 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Dig+a+Pony</link>
-      <guid isPermaLink="false">manosg--1634911656--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Dig a Pony</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e62f7f64e3994df782527c3cd90e7b00.jpg" length="23639" type="image/jpeg"/>
-      <pubDate>Fri, 22 Oct 2021 10:07:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Oct 2021 10:41:38 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Dig a Pony (4 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Dig+a+Pony</link>
@@ -353,6 +346,13 @@
       <guid isPermaLink="false">manosg--1634976436--Rainbow---Catch the Rainbow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/09628988f5ed4ec588978aab1ca70394.png" length="195780" type="image/png"/>
       <pubDate>Sat, 23 Oct 2021 04:07:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Snake Charmer (15 plays)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Snake+Charmer</link>
+      <guid isPermaLink="false">manosg--1634976833--Rainbow---Snake Charmer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/09628988f5ed4ec588978aab1ca70394.png" length="195780" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 04:13:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
