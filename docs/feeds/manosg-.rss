@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Oct 2021 17:00:19 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Two of Us (3 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Two+of+Us</link>
-      <guid isPermaLink="false">manosg--1634912442--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Two of Us</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e62f7f64e3994df782527c3cd90e7b00.jpg" length="23639" type="image/jpeg"/>
-      <pubDate>Fri, 22 Oct 2021 10:20:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Oct 2021 17:25:17 +0000</lastBuildDate>
     <item>
       <title>The Beatles - I've Got A Feeling (Naked Version / Remastered 2013) (2 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/I%27ve+Got+A+Feeling+(Naked+Version+%2F+Remastered+2013)</link>
@@ -353,6 +346,13 @@
       <guid isPermaLink="false">manosg--1635007889--Nightstryke---Children of the Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 23 Oct 2021 12:51:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>AC/DC - Flick of the Switch (10 plays)</title>
+      <link>https://www.last.fm/music/AC%2FDC/_/Flick+of+the+Switch</link>
+      <guid isPermaLink="false">manosg--1635008302--66c662b6-6e2f-4930-8610-912e24c63ed1---Flick of the Switch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26acb4eec0a9e44fcaf0491d97b270b6.png" length="48020" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 12:58:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
