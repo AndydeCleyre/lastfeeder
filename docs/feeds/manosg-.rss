@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Oct 2021 11:15:20 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Get Back (13 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Get+Back</link>
-      <guid isPermaLink="false">manosg--1634913991--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Get Back</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f3915d846c54e28cebb5c5813d6a3ec.jpg" length="21836" type="image/jpeg"/>
-      <pubDate>Fri, 22 Oct 2021 10:46:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - Get Back (13 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Get+Back</link>
-      <guid isPermaLink="false">manosg--1634914115--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Get Back</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f3915d846c54e28cebb5c5813d6a3ec.jpg" length="21836" type="image/jpeg"/>
-      <pubDate>Fri, 22 Oct 2021 10:48:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 Oct 2021 14:38:24 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Glass Onion (5 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Glass+Onion</link>
@@ -350,6 +336,19 @@
       <guid isPermaLink="false">manosg--1635073720--9a85f65d-28ed-44cd-a53d-e3d9418bb697---quiet wish</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56fda72846f39508f18f1ec902b5dfa1.png" length="138008" type="image/png"/>
       <pubDate>Sun, 24 Oct 2021 07:08:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Anoice - into the light (1 play)</title>
+      <link>https://www.last.fm/music/Anoice/_/into+the+light</link>
+      <guid isPermaLink="false">manosg--1635085974--9a85f65d-28ed-44cd-a53d-e3d9418bb697---into the light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5161e93d178d73b2de01c49f23e444d2.jpg" length="13413" type="image/jpeg"/>
+      <pubDate>Sun, 24 Oct 2021 10:32:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Anoice - heartbeat (1 play)</title>
+      <link>https://www.last.fm/music/Anoice/_/heartbeat</link>
+      <guid isPermaLink="false">manosg--1635086124--9a85f65d-28ed-44cd-a53d-e3d9418bb697---heartbeat</guid>
+      <pubDate>Sun, 24 Oct 2021 10:35:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
