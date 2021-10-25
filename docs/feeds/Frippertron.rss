@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Oct 2021 03:54:26 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Appetite (74 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Appetite</link>
-      <guid isPermaLink="false">Frippertron-1634881911--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Appetite</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8970aa3b488e88cf7be0d7117be7c78c.jpg" length="24641" type="image/jpeg"/>
-      <pubDate>Fri, 22 Oct 2021 01:51:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Paul McCartney - Coming Up (9 plays)</title>
-      <link>https://www.last.fm/music/Paul+McCartney/_/Coming+Up</link>
-      <guid isPermaLink="false">Frippertron-1634882173--ba550d0e-adac-4864-b88b-407cab5e76af---Coming Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbc32d92bf384d5495d871c024c6ed3d.png" length="199147" type="image/png"/>
-      <pubDate>Fri, 22 Oct 2021 01:56:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Oct 2021 04:25:08 +0000</lastBuildDate>
     <item>
       <title>Magma - The Last Seven Minutes (1970-1977, Phase I) (65 plays)</title>
       <link>https://www.last.fm/music/Magma/_/The+Last+Seven+Minutes+(1970-1977,+Phase+I)</link>
@@ -58,7 +44,7 @@
       <pubDate>Fri, 22 Oct 2021 03:24:45 -0400</pubDate>
     </item>
     <item>
-      <title>Phil Ochs - Cross My Heart (68 plays)</title>
+      <title>Phil Ochs - Cross My Heart</title>
       <link>https://www.last.fm/music/Phil+Ochs/_/Cross+My+Heart</link>
       <guid isPermaLink="false">Frippertron-1634887676--80cd255d-995c-47f1-a5bc-cc34669a37a0---Cross My Heart</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4597adf20e580d9e9e7aff58136a0c03.jpg" length="19565" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1635133592--722b2118-a77b-4161-9060-63a1b469e5b2---Dancing With the Moonlit Knight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d20439b8467234f5e083884792cc5c6.png" length="109382" type="image/png"/>
       <pubDate>Sun, 24 Oct 2021 23:46:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - I Know What I Like (In Your Wardrobe) (56 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/I+Know+What+I+Like+(In+Your+Wardrobe)</link>
+      <guid isPermaLink="false">Frippertron-1635134077--722b2118-a77b-4161-9060-63a1b469e5b2---I Know What I Like (In Your Wardrobe)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d20439b8467234f5e083884792cc5c6.png" length="109382" type="image/png"/>
+      <pubDate>Sun, 24 Oct 2021 23:54:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Firth of Fifth (50 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Firth+of+Fifth</link>
+      <guid isPermaLink="false">Frippertron-1635134328--722b2118-a77b-4161-9060-63a1b469e5b2---Firth of Fifth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d20439b8467234f5e083884792cc5c6.png" length="109382" type="image/png"/>
+      <pubDate>Sun, 24 Oct 2021 23:58:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
