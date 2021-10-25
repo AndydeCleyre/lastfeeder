@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Oct 2021 16:59:56 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - I Want to Hold Your Hand (5 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/I+Want+to+Hold+Your+Hand</link>
-      <guid isPermaLink="false">manosg--1634914737--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---I Want to Hold Your Hand</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f3915d846c54e28cebb5c5813d6a3ec.jpg" length="21836" type="image/jpeg"/>
-      <pubDate>Fri, 22 Oct 2021 10:58:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Oct 2021 06:23:36 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Drive My Car / The Word / What You're Doing (4 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Drive+My+Car+%2F+The+Word+%2F+What+You%27re+Doing</link>
@@ -347,6 +340,13 @@
       <guid isPermaLink="false">manosg--1635094133--9a85f65d-28ed-44cd-a53d-e3d9418bb697---yume</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5161e93d178d73b2de01c49f23e444d2.jpg" length="13413" type="image/jpeg"/>
       <pubDate>Sun, 24 Oct 2021 12:48:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>AC/DC - Stiff Upper Lip (18 plays)</title>
+      <link>https://www.last.fm/music/AC%2FDC/_/Stiff+Upper+Lip</link>
+      <guid isPermaLink="false">manosg--1635142227--66c662b6-6e2f-4930-8610-912e24c63ed1---Stiff Upper Lip</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cba38950aa26456b848af3f809f5107e.png" length="193057" type="image/png"/>
+      <pubDate>Mon, 25 Oct 2021 02:10:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
