@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Oct 2021 06:23:36 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Drive My Car / The Word / What You're Doing (4 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Drive+My+Car+%2F+The+Word+%2F+What+You%27re+Doing</link>
-      <guid isPermaLink="false">manosg--1634922773--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Drive My Car / The Word / What You're Doing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f3915d846c54e28cebb5c5813d6a3ec.jpg" length="21836" type="image/jpeg"/>
-      <pubDate>Fri, 22 Oct 2021 13:12:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - Love Me Do (Single Version / Remastered 2009) (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Love+Me+Do+(Single+Version+%2F+Remastered+2009)</link>
-      <guid isPermaLink="false">manosg--1634922778--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Love Me Do (Single Version / Remastered 2009)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1857fdec4004ff3cf787a2ad4edcec81.jpg" length="8418" type="image/jpeg"/>
-      <pubDate>Fri, 22 Oct 2021 13:12:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Oct 2021 07:18:49 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Love Me Do (1 play)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Love+Me+Do</link>
@@ -212,14 +198,14 @@
       <pubDate>Sun, 24 Oct 2021 03:12:28 -0400</pubDate>
     </item>
     <item>
-      <title>Dream Theater - The Alien (2 plays)</title>
+      <title>Dream Theater - The Alien (3 plays)</title>
       <link>https://www.last.fm/music/Dream+Theater/_/The+Alien</link>
       <guid isPermaLink="false">manosg--1635060180--28503ab7-8bf2-4666-a7bd-2644bfc7cb1d---The Alien</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac8dc8e52581c907f8622cc4b732f232.jpg" length="13268" type="image/jpeg"/>
       <pubDate>Sun, 24 Oct 2021 03:23:00 -0400</pubDate>
     </item>
     <item>
-      <title>Dream Theater - Answering the Call (1 play)</title>
+      <title>Dream Theater - Answering the Call (2 plays)</title>
       <link>https://www.last.fm/music/Dream+Theater/_/Answering+the+Call</link>
       <guid isPermaLink="false">manosg--1635060753--28503ab7-8bf2-4666-a7bd-2644bfc7cb1d---Answering the Call</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1955d3b7dedc562a0474957df30b0ed.jpg" length="27764" type="image/jpeg"/>
@@ -347,6 +333,20 @@
       <guid isPermaLink="false">manosg--1635142227--66c662b6-6e2f-4930-8610-912e24c63ed1---Stiff Upper Lip</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cba38950aa26456b848af3f809f5107e.png" length="193057" type="image/png"/>
       <pubDate>Mon, 25 Oct 2021 02:10:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dream Theater - The Alien (3 plays)</title>
+      <link>https://www.last.fm/music/Dream+Theater/_/The+Alien</link>
+      <guid isPermaLink="false">manosg--1635145277--28503ab7-8bf2-4666-a7bd-2644bfc7cb1d---The Alien</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac8dc8e52581c907f8622cc4b732f232.jpg" length="13268" type="image/jpeg"/>
+      <pubDate>Mon, 25 Oct 2021 03:01:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dream Theater - Answering the Call (2 plays)</title>
+      <link>https://www.last.fm/music/Dream+Theater/_/Answering+the+Call</link>
+      <guid isPermaLink="false">manosg--1635145850--28503ab7-8bf2-4666-a7bd-2644bfc7cb1d---Answering the Call</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1955d3b7dedc562a0474957df30b0ed.jpg" length="27764" type="image/jpeg"/>
+      <pubDate>Mon, 25 Oct 2021 03:10:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
