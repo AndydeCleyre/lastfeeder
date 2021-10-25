@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Oct 2021 07:38:12 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Mad Man Moon (29 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Mad+Man+Moon</link>
-      <guid isPermaLink="false">Frippertron-1635011183--722b2118-a77b-4161-9060-63a1b469e5b2---Mad Man Moon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
-      <pubDate>Sat, 23 Oct 2021 13:46:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Robbery, Assault and Battery (33 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Robbery,+Assault+and+Battery</link>
-      <guid isPermaLink="false">Frippertron-1635011909--722b2118-a77b-4161-9060-63a1b469e5b2---Robbery, Assault and Battery</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
-      <pubDate>Sat, 23 Oct 2021 13:58:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Ripples (102 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
-      <guid isPermaLink="false">Frippertron-1635012188--722b2118-a77b-4161-9060-63a1b469e5b2---Ripples</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
-      <pubDate>Sat, 23 Oct 2021 14:03:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Oct 2021 07:52:43 +0000</lastBuildDate>
     <item>
       <title>Genesis - A Trick of the Tail (37 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/A+Trick+of+the+Tail</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1635147254--8373c711-1043-42bd-bf7d-b17ab26de5c7---Time/Confusion</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f6a882ffa4a6b9245599c01314679bf.jpg" length="18739" type="image/jpeg"/>
       <pubDate>Mon, 25 Oct 2021 03:34:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown - I Put A Spell On You (17 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown/_/I+Put+A+Spell+On+You</link>
+      <guid isPermaLink="false">Frippertron-1635147570--8373c711-1043-42bd-bf7d-b17ab26de5c7---I Put A Spell On You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f6a882ffa4a6b9245599c01314679bf.jpg" length="18739" type="image/jpeg"/>
+      <pubDate>Mon, 25 Oct 2021 03:39:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown - Spontaneous Apple Creation (10 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown/_/Spontaneous+Apple+Creation</link>
+      <guid isPermaLink="false">Frippertron-1635147795--8373c711-1043-42bd-bf7d-b17ab26de5c7---Spontaneous Apple Creation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f6a882ffa4a6b9245599c01314679bf.jpg" length="18739" type="image/jpeg"/>
+      <pubDate>Mon, 25 Oct 2021 03:43:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown - Rest Cure (11 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown/_/Rest+Cure</link>
+      <guid isPermaLink="false">Frippertron-1635147974--8373c711-1043-42bd-bf7d-b17ab26de5c7---Rest Cure</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f6a882ffa4a6b9245599c01314679bf.jpg" length="18739" type="image/jpeg"/>
+      <pubDate>Mon, 25 Oct 2021 03:46:14 -0400</pubDate>
     </item>
   </channel>
 </rss>

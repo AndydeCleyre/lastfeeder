@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Oct 2021 07:38:35 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Thank You Girl (2 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Thank+You+Girl</link>
-      <guid isPermaLink="false">manosg--1634923043--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Thank You Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1857fdec4004ff3cf787a2ad4edcec81.jpg" length="8418" type="image/jpeg"/>
-      <pubDate>Fri, 22 Oct 2021 13:17:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Oct 2021 07:52:28 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Thank You Girl (2 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Thank+You+Girl</link>
@@ -212,7 +205,7 @@
       <pubDate>Sun, 24 Oct 2021 05:58:45 -0400</pubDate>
     </item>
     <item>
-      <title>Dream Theater - Awaken the Master (1 play)</title>
+      <title>Dream Theater - Awaken the Master (2 plays)</title>
       <link>https://www.last.fm/music/Dream+Theater/_/Awaken+the+Master</link>
       <guid isPermaLink="false">manosg--1635069910--28503ab7-8bf2-4666-a7bd-2644bfc7cb1d---Awaken the Master</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1955d3b7dedc562a0474957df30b0ed.jpg" length="27764" type="image/jpeg"/>
@@ -347,6 +340,13 @@
       <guid isPermaLink="false">manosg--1635147300--28503ab7-8bf2-4666-a7bd-2644bfc7cb1d---Transcending Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1955d3b7dedc562a0474957df30b0ed.jpg" length="27764" type="image/jpeg"/>
       <pubDate>Mon, 25 Oct 2021 03:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dream Theater - Awaken the Master (2 plays)</title>
+      <link>https://www.last.fm/music/Dream+Theater/_/Awaken+the+Master</link>
+      <guid isPermaLink="false">manosg--1635147720--28503ab7-8bf2-4666-a7bd-2644bfc7cb1d---Awaken the Master</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1955d3b7dedc562a0474957df30b0ed.jpg" length="27764" type="image/jpeg"/>
+      <pubDate>Mon, 25 Oct 2021 03:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
