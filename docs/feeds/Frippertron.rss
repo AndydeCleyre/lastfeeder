@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Oct 2021 08:43:35 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Enchanted (70 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Enchanted</link>
-      <guid isPermaLink="false">Frippertron-1635129659--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Enchanted</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d981fa7fb4ac418aacc7f7563069316f.png" length="202186" type="image/png"/>
-      <pubDate>Sun, 24 Oct 2021 22:40:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Wild Horses (105 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Wild+Horses</link>
-      <guid isPermaLink="false">Frippertron-1635129880--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Wild Horses</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
-      <pubDate>Sun, 24 Oct 2021 22:44:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Can - I Want More (37 plays)</title>
-      <link>https://www.last.fm/music/Can/_/I+Want+More</link>
-      <guid isPermaLink="false">Frippertron-1635130097--49c2b08e-bee7-4a79-92ff-b8dbeb3230d2---I Want More</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0508b5d3d5b49cf0171ab469cd244469.jpg" length="20844" type="image/jpeg"/>
-      <pubDate>Sun, 24 Oct 2021 22:48:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Oct 2021 08:55:34 +0000</lastBuildDate>
     <item>
       <title>Genesis - Mama (14 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Mama</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1635150801--Elton John---Rocket Man (I Think It's Going to Be a Long, Long Time)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 25 Oct 2021 04:33:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Daniel (6 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Daniel</link>
+      <guid isPermaLink="false">Frippertron-1635151329--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Daniel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 25 Oct 2021 04:42:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Restless (19 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Restless</link>
+      <guid isPermaLink="false">Frippertron-1635151578--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Restless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 25 Oct 2021 04:46:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Bennie and the Jets (56 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
+      <guid isPermaLink="false">Frippertron-1635151870--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bennie and the Jets</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 25 Oct 2021 04:51:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
