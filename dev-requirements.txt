@@ -26,7 +26,7 @@ regex==2021.10.23
     # via black
 requests==2.26.0
     # via flit
-tomli==1.2.1
+tomli==1.2.2
     # via
     #   black
     #   flit
