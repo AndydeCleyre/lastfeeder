@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Oct 2021 20:19:51 +0000</lastBuildDate>
-    <item>
-      <title>Hippotraktor - Manifest the Mountain (1 play)</title>
-      <link>https://www.last.fm/music/Hippotraktor/_/Manifest+the+Mountain</link>
-      <guid isPermaLink="false">lintmunro-1634068351--d8c80314-a4f6-4de1-b793-940a500f73e3---Manifest the Mountain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81d42bb69cca024ce3bc8da3aa9e97b3.jpg" length="35938" type="image/jpeg"/>
-      <pubDate>Tue, 12 Oct 2021 15:52:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Oct 2021 20:40:58 +0000</lastBuildDate>
     <item>
       <title>Mortiferum - Eternal Procession (2 plays)</title>
       <link>https://www.last.fm/music/Mortiferum/_/Eternal+Procession</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1635279107--Kardashev---A Frame. A Light</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27f1eefadd0777b224b037a76af7ca05.jpg" length="22331" type="image/jpeg"/>
       <pubDate>Tue, 26 Oct 2021 16:11:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kardashev - Snow-sleep (1 play)</title>
+      <link>https://www.last.fm/music/Kardashev/_/Snow-sleep</link>
+      <guid isPermaLink="false">lintmunro-1635279582--Kardashev---Snow-sleep</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27f1eefadd0777b224b037a76af7ca05.jpg" length="22331" type="image/jpeg"/>
+      <pubDate>Tue, 26 Oct 2021 16:19:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
