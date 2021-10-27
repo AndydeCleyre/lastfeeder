@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Oct 2021 05:37:46 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - When the Levee Breaks (6 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/When+the+Levee+Breaks</link>
-      <guid isPermaLink="false">Frippertron-1635241702--678d88b2-87b0-403b-b63d-5da7465aecc3---When the Levee Breaks</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
-      <pubDate>Tue, 26 Oct 2021 05:48:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - The Musical Box (65 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Musical+Box</link>
-      <guid isPermaLink="false">Frippertron-1635242166--8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e---The Musical Box</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
-      <pubDate>Tue, 26 Oct 2021 05:56:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - The Lamb Lies Down on Broadway (54 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Lamb+Lies+Down+on+Broadway</link>
-      <guid isPermaLink="false">Frippertron-1635242893--8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e---The Lamb Lies Down on Broadway</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
-      <pubDate>Tue, 26 Oct 2021 06:08:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Oct 2021 05:52:35 +0000</lastBuildDate>
     <item>
       <title>Genesis - Fly on a Windshield (53 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Fly+on+a+Windshield</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1635312728--83d91898-7763-47d7-b03b-b92132375c47---On the Run</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad72064705cf4368b135f2a58848cca6.png" length="39589" type="image/png"/>
       <pubDate>Wed, 27 Oct 2021 01:32:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Time (21 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Time</link>
+      <guid isPermaLink="false">Frippertron-1635312955--83d91898-7763-47d7-b03b-b92132375c47---Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad72064705cf4368b135f2a58848cca6.png" length="39589" type="image/png"/>
+      <pubDate>Wed, 27 Oct 2021 01:35:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - The Great Gig in the Sky (19 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/The+Great+Gig+in+the+Sky</link>
+      <guid isPermaLink="false">Frippertron-1635313369--83d91898-7763-47d7-b03b-b92132375c47---The Great Gig in the Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad72064705cf4368b135f2a58848cca6.png" length="39589" type="image/png"/>
+      <pubDate>Wed, 27 Oct 2021 01:42:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Money (18 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Money</link>
+      <guid isPermaLink="false">Frippertron-1635313654--83d91898-7763-47d7-b03b-b92132375c47---Money</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad72064705cf4368b135f2a58848cca6.png" length="39589" type="image/png"/>
+      <pubDate>Wed, 27 Oct 2021 01:47:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
