@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Oct 2021 03:54:19 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Bennie and the Jets (57 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
-      <guid isPermaLink="false">Frippertron-1635406018--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bennie and the Jets</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d4e915760f54d96cd76c9919ff22e65.png" length="203951" type="image/png"/>
-      <pubDate>Thu, 28 Oct 2021 03:26:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Oct 2021 04:25:24 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - She Sells (54 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/She+Sells</link>
@@ -275,7 +268,7 @@
       <pubDate>Thu, 28 Oct 2021 06:30:11 -0400</pubDate>
     </item>
     <item>
-      <title>The Enid - Salome (182 plays)</title>
+      <title>The Enid - Salome (183 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Salome</link>
       <guid isPermaLink="false">Frippertron-1635417505--66f8692c-966d-4dfb-a2ed-babf51241922---Salome</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1635479221--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Somebody to Love</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
       <pubDate>Thu, 28 Oct 2021 23:47:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Salome (183 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Salome</link>
+      <guid isPermaLink="false">Frippertron-1635479772--66f8692c-966d-4dfb-a2ed-babf51241922---Salome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
+      <pubDate>Thu, 28 Oct 2021 23:56:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
