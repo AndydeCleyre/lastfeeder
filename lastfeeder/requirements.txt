@@ -53,9 +53,9 @@ structlog==21.2.0
     # via -r requirements.in
 tzdata==2021.5
     # via pytz-deprecation-shim
-tzlocal==4.0.2
+tzlocal==4.1
     # via delorean
-wrapt==1.13.2
+wrapt==1.13.3
     # via -r requirements.in
 
 # The following packages are considered to be unsafe in a requirements file:
