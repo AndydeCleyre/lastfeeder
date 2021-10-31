@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Oct 2021 15:44:07 +0000</lastBuildDate>
-    <item>
-      <title>Republica - Drop Dead Gorgeous (1 play)</title>
-      <link>https://www.last.fm/music/Republica/_/Drop+Dead+Gorgeous</link>
-      <guid isPermaLink="false">rockijosh-1635640122--78b8347b-a1e2-4e36-a917-92d632a62c18---Drop Dead Gorgeous</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb81984dbb262d26a6956bcd0a866a28.jpg" length="24803" type="image/jpeg"/>
-      <pubDate>Sat, 30 Oct 2021 20:28:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Oct 2021 15:56:09 +0000</lastBuildDate>
     <item>
       <title>Catherine - Whisper (2 plays)</title>
       <link>https://www.last.fm/music/Catherine/_/Whisper</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1635694841--Limp Bizkit---Pill Popper</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43a28eb98b731b2a0325cd97633066a2.jpg" length="33810" type="image/jpeg"/>
       <pubDate>Sun, 31 Oct 2021 11:40:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Limp Bizkit - Snacky Poo</title>
+      <link>https://www.last.fm/music/Limp+Bizkit/_/Snacky+Poo</link>
+      <guid isPermaLink="false">rockijosh-1635694985--Limp Bizkit---Snacky Poo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43a28eb98b731b2a0325cd97633066a2.jpg" length="33810" type="image/jpeg"/>
+      <pubDate>Sun, 31 Oct 2021 11:43:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
