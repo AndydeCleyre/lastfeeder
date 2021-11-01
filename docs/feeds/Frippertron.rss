@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Nov 2021 08:23:21 +0000</lastBuildDate>
-    <item>
-      <title>Peter Gabriel - And Through the Wire (17 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/And+Through+the+Wire</link>
-      <guid isPermaLink="false">Frippertron-1635499803--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---And Through the Wire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c2515f47b46d147c028f1f1decf4cb2.png" length="145670" type="image/png"/>
-      <pubDate>Fri, 29 Oct 2021 05:30:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - Shock the Monkey (48 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/Shock+the+Monkey</link>
-      <guid isPermaLink="false">Frippertron-1635500103--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Shock the Monkey</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/587a22e503394459c464e4bd17524e77.png" length="127992" type="image/png"/>
-      <pubDate>Fri, 29 Oct 2021 05:35:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - Lay Your Hands On Me (10 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/Lay+Your+Hands+On+Me</link>
-      <guid isPermaLink="false">Frippertron-1635500431--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Lay Your Hands On Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/587a22e503394459c464e4bd17524e77.png" length="127992" type="image/png"/>
-      <pubDate>Fri, 29 Oct 2021 05:40:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Todd Rundgren - Is It My Name? (110 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Is+It+My+Name%3F</link>
-      <guid isPermaLink="false">Frippertron-1635500775--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Is It My Name?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58a0b35dae94252478938e42d6afbc94.jpg" length="44490" type="image/jpeg"/>
-      <pubDate>Fri, 29 Oct 2021 05:46:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 08:44:13 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Just One Victory (133 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Just+One+Victory</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1635754494--Todd Rundgren---Healing (part I)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22428b99ae6eaf64823abbdef76f0255.jpg" length="4910" type="image/jpeg"/>
       <pubDate>Mon, 01 Nov 2021 04:14:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - Healing (part II) (29 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/Healing+(part+II)</link>
+      <guid isPermaLink="false">Frippertron-1635754937--Todd Rundgren---Healing (part II)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22428b99ae6eaf64823abbdef76f0255.jpg" length="4910" type="image/jpeg"/>
+      <pubDate>Mon, 01 Nov 2021 04:22:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - Healing (Part III) (36 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/Healing+(Part+III)</link>
+      <guid isPermaLink="false">Frippertron-1635755412--Todd Rundgren---Healing (Part III)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22428b99ae6eaf64823abbdef76f0255.jpg" length="4910" type="image/jpeg"/>
+      <pubDate>Mon, 01 Nov 2021 04:30:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - Time Heals (73 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/Time+Heals</link>
+      <guid isPermaLink="false">Frippertron-1635755693--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Time Heals</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22428b99ae6eaf64823abbdef76f0255.jpg" length="4910" type="image/jpeg"/>
+      <pubDate>Mon, 01 Nov 2021 04:34:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Brighton Rock (57 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Brighton+Rock</link>
+      <guid isPermaLink="false">Frippertron-1635755903--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Brighton Rock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e677a1c6e7284a5799823fb8137c88ca.png" length="173493" type="image/png"/>
+      <pubDate>Mon, 01 Nov 2021 04:38:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
