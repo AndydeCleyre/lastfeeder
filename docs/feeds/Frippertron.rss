@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Nov 2021 07:18:35 +0000</lastBuildDate>
-    <item>
-      <title>Léo Ferré - La Solitude (28 plays)</title>
-      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/La+Solitude</link>
-      <guid isPermaLink="false">Frippertron-1635750679--15b1cbac-060a-4136-9e07-4622c52c0f60---La Solitude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
-      <pubDate>Mon, 01 Nov 2021 03:11:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Léo Ferré - Les albatros (9 plays)</title>
-      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/Les+albatros</link>
-      <guid isPermaLink="false">Frippertron-1635751074--15b1cbac-060a-4136-9e07-4622c52c0f60---Les albatros</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
-      <pubDate>Mon, 01 Nov 2021 03:17:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 07:38:01 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Sweet Thing (179 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Sweet+Thing</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1635837269--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Karn Evil 9</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9e92a352b64848b1fb6a3735cdf9f7.png" length="217931" type="image/png"/>
       <pubDate>Tue, 02 Nov 2021 03:14:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cynic - Veil of Maya (2 plays)</title>
+      <link>https://www.last.fm/music/Cynic/_/Veil+of+Maya</link>
+      <guid isPermaLink="false">Frippertron-1635837944--d7381ee3-d8ac-4622-ae9a-7e659143eacb---Veil of Maya</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1eb9296cb37489fb29dbcea677a5d7f.jpg" length="35702" type="image/jpeg"/>
+      <pubDate>Tue, 02 Nov 2021 03:25:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Vision Adjustment to Another Wavelength (10 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Vision+Adjustment+to+Another+Wavelength</link>
+      <guid isPermaLink="false">Frippertron-1635838332--3979eee5-c72a-4b0a-9191-a0243881250a---Vision Adjustment to Another Wavelength</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/faafd120b6b44b80b46ea5cb36b761e2.png" length="98704" type="image/png"/>
+      <pubDate>Tue, 02 Nov 2021 03:32:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
