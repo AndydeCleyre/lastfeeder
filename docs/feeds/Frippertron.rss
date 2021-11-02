@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Nov 2021 06:22:57 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Moonage Daydream (186 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Moonage+Daydream</link>
-      <guid isPermaLink="false">Frippertron-1635747244--5441c29d-3602-4898-b1a1-b77fa23b8e50---Moonage Daydream</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c2b90cdffb49817f96f13746eafbe79.jpg" length="24706" type="image/jpeg"/>
-      <pubDate>Mon, 01 Nov 2021 02:14:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 07:18:35 +0000</lastBuildDate>
     <item>
       <title>Léo Ferré - La Solitude (28 plays)</title>
       <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/La+Solitude</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1635833207--Richard Hell and the Voidoids---Another World</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7890589b31b14b8384f35a19175f0c41.jpg" length="17046" type="image/jpeg"/>
       <pubDate>Tue, 02 Nov 2021 02:06:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Emerson, Lake &amp; Palmer - Karn Evil 9 (8 plays)</title>
+      <link>https://www.last.fm/music/Emerson,+Lake+&amp;+Palmer/_/Karn+Evil+9</link>
+      <guid isPermaLink="false">Frippertron-1635837269--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Karn Evil 9</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9e92a352b64848b1fb6a3735cdf9f7.png" length="217931" type="image/png"/>
+      <pubDate>Tue, 02 Nov 2021 03:14:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
