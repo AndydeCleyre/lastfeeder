@@ -26,7 +26,7 @@ idna==3.3
     # via
     #   anyio
     #   rfc3986
-lxml==4.6.3
+lxml==4.6.4
     # via feedgen
 plumbum==1.7.0
     # via -r requirements.in
