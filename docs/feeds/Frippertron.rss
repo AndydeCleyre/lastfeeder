@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Nov 2021 08:43:46 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - The Last Ride (83 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/The+Last+Ride</link>
-      <guid isPermaLink="false">Frippertron-1635847748--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---The Last Ride</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6623040f9b7d4140c1e553007e082281.jpg" length="21065" type="image/jpeg"/>
-      <pubDate>Tue, 02 Nov 2021 06:09:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Nov 2021 08:55:39 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Everybody's Going To Heaven/King Kong Reggae (38 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Everybody%27s+Going+To+Heaven%2FKing+Kong+Reggae</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1635928747--83d91898-7763-47d7-b03b-b92132375c47---Pigs (Three Different Ones)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Wed, 03 Nov 2021 04:39:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Sheep (45 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Sheep</link>
+      <guid isPermaLink="false">Frippertron-1635929435--83d91898-7763-47d7-b03b-b92132375c47---Sheep</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Wed, 03 Nov 2021 04:50:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
