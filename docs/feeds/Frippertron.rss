@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Nov 2021 08:23:11 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - Fair Warning (37 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Fair+Warning</link>
-      <guid isPermaLink="false">Frippertron-1635847113--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Fair Warning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e5e6a6a055c42669656b8066519f667.png" length="182155" type="image/png"/>
-      <pubDate>Tue, 02 Nov 2021 05:58:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Todd Rundgren - A Dream Goes On Forever (114 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/A+Dream+Goes+On+Forever</link>
-      <guid isPermaLink="false">Frippertron-1635847603--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---A Dream Goes On Forever</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6623040f9b7d4140c1e553007e082281.jpg" length="21065" type="image/jpeg"/>
-      <pubDate>Tue, 02 Nov 2021 06:06:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Nov 2021 08:43:46 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - The Last Ride (83 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/The+Last+Ride</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1635927637--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part One)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Wed, 03 Nov 2021 04:20:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Dogs (30 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Dogs</link>
+      <guid isPermaLink="false">Frippertron-1635927721--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Wed, 03 Nov 2021 04:22:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Pigs (Three Different Ones) (23 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+(Three+Different+Ones)</link>
+      <guid isPermaLink="false">Frippertron-1635928747--83d91898-7763-47d7-b03b-b92132375c47---Pigs (Three Different Ones)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Wed, 03 Nov 2021 04:39:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
