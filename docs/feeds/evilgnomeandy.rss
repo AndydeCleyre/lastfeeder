@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Nov 2021 23:19:25 +0000</lastBuildDate>
-    <item>
-      <title>Jerry Reed - House Of The Rising Sun (3 plays)</title>
-      <link>https://www.last.fm/music/Jerry+Reed/_/House+Of+The+Rising+Sun</link>
-      <guid isPermaLink="false">evilgnomeandy-1635443792--44419ff2-0251-49ba-933b-b09733ff9adb---House Of The Rising Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c2a5615c19444ab42beb33f3863c64.jpg" length="19104" type="image/jpeg"/>
-      <pubDate>Thu, 28 Oct 2021 13:56:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 23:19:29 +0000</lastBuildDate>
     <item>
       <title>The Two Man Gentlemen Band - Croquet Playing Girl (2 plays)</title>
       <link>https://www.last.fm/music/The+Two+Man+Gentlemen+Band/_/Croquet+Playing+Girl</link>
@@ -324,7 +317,7 @@
       <pubDate>Tue, 02 Nov 2021 18:52:28 -0400</pubDate>
     </item>
     <item>
-      <title>The Slackers - Windowland (1 play)</title>
+      <title>The Slackers - Windowland</title>
       <link>https://www.last.fm/music/The+Slackers/_/Windowland</link>
       <guid isPermaLink="false">evilgnomeandy-1635893727--The Slackers---Windowland</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0071ea74c38f189ff143fe4c217ee98.jpg" length="25672" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1635894615--Taggy Matcher---Push Push</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 02 Nov 2021 19:10:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Taggy Matcher - Two Dimes (1 play)</title>
+      <link>https://www.last.fm/music/Taggy+Matcher/_/Two+Dimes</link>
+      <guid isPermaLink="false">evilgnomeandy-1635906141--Taggy Matcher---Two Dimes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 02 Nov 2021 22:22:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
