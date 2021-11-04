@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Nov 2021 18:22:33 +0000</lastBuildDate>
-    <item>
-      <title>Dream Theater - Sleeping Giant (1 play)</title>
-      <link>https://www.last.fm/music/Dream+Theater/_/Sleeping+Giant</link>
-      <guid isPermaLink="false">TalonsOfFire-1635955965--28503ab7-8bf2-4666-a7bd-2644bfc7cb1d---Sleeping Giant</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1955d3b7dedc562a0474957df30b0ed.jpg" length="27764" type="image/jpeg"/>
-      <pubDate>Wed, 03 Nov 2021 12:12:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 18:46:44 +0000</lastBuildDate>
     <item>
       <title>Dream Theater - Transcending Time (1 play)</title>
       <link>https://www.last.fm/music/Dream+Theater/_/Transcending+Time</link>
@@ -352,11 +345,18 @@
       <pubDate>Thu, 04 Nov 2021 14:15:27 -0400</pubDate>
     </item>
     <item>
-      <title>Ulver - RIP BROUHAHA</title>
+      <title>Ulver - RIP BROUHAHA (1 play)</title>
       <link>https://www.last.fm/music/Ulver/_/RIP+BROUHAHA</link>
       <guid isPermaLink="false">TalonsOfFire-1636049822--Ulver---RIP BROUHAHA</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c70cfedc1bdaaeeb2d6ff01a3415c93.png" length="17327" type="image/png"/>
       <pubDate>Thu, 04 Nov 2021 14:17:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - The Knight Errant (3 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/The+Knight+Errant</link>
+      <guid isPermaLink="false">TalonsOfFire-1636050775--Kayo Dot---The Knight Errant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a70244a24a18a1ab87debf114ffec441.jpg" length="23882" type="image/jpeg"/>
+      <pubDate>Thu, 04 Nov 2021 14:32:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
