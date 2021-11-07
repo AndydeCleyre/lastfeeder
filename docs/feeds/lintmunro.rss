@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Nov 2021 19:37:43 +0000</lastBuildDate>
-    <item>
-      <title>Ramones - Pet Sematary (1 play)</title>
-      <link>https://www.last.fm/music/Ramones/_/Pet+Sematary</link>
-      <guid isPermaLink="false">lintmunro-1635641805--d6ed7887-a401-47a8-893c-34b967444d26---Pet Sematary</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/265087383bdab501c2493eadeeda0bee.jpg" length="17625" type="image/jpeg"/>
-      <pubDate>Sat, 30 Oct 2021 20:56:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Nov 2021 19:52:32 +0000</lastBuildDate>
     <item>
       <title>Ghost - Dance Macabre (1 play)</title>
       <link>https://www.last.fm/music/Ghost/_/Dance+Macabre</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1636313593--ef90f210-f136-4386-ab37-8c00d04eeace---Planet Shit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e2d6a61fb90f365eaea442b56415790.jpg" length="30098" type="image/jpeg"/>
       <pubDate>Sun, 07 Nov 2021 14:33:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Every Time I Die - Post-Boredom (1 play)</title>
+      <link>https://www.last.fm/music/Every+Time+I+Die/_/Post-Boredom</link>
+      <guid isPermaLink="false">lintmunro-1636313830--ef90f210-f136-4386-ab37-8c00d04eeace---Post-Boredom</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e2d6a61fb90f365eaea442b56415790.jpg" length="30098" type="image/jpeg"/>
+      <pubDate>Sun, 07 Nov 2021 14:37:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
