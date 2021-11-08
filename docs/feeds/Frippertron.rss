@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Nov 2021 04:25:32 +0000</lastBuildDate>
-    <item>
-      <title>Naked City - The Blade (1 play)</title>
-      <link>https://www.last.fm/music/Naked+City/_/The+Blade</link>
-      <guid isPermaLink="false">Frippertron-1636092074--fc4dea85-3998-4130-a56e-907689160480---The Blade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b5f35c83c6f4bd88305e643f7ba070f.jpg" length="19375" type="image/jpeg"/>
-      <pubDate>Fri, 05 Nov 2021 02:01:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Can - Deadlock (3 plays)</title>
-      <link>https://www.last.fm/music/Can/_/Deadlock</link>
-      <guid isPermaLink="false">Frippertron-1636092169--49c2b08e-bee7-4a79-92ff-b8dbeb3230d2---Deadlock</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3246d587cfc845028df3bffa63ea991a.jpg" length="24266" type="image/jpeg"/>
-      <pubDate>Fri, 05 Nov 2021 02:02:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Can - Tango Whiskyman (2 plays)</title>
-      <link>https://www.last.fm/music/Can/_/Tango+Whiskyman</link>
-      <guid isPermaLink="false">Frippertron-1636092378--49c2b08e-bee7-4a79-92ff-b8dbeb3230d2---Tango Whiskyman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3246d587cfc845028df3bffa63ea991a.jpg" length="24266" type="image/jpeg"/>
-      <pubDate>Fri, 05 Nov 2021 02:06:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Nov 2021 04:51:09 +0000</lastBuildDate>
     <item>
       <title>Can - Deadlock (3 plays)</title>
       <link>https://www.last.fm/music/Can/_/Deadlock</link>
@@ -219,7 +198,7 @@
       <pubDate>Fri, 05 Nov 2021 05:40:04 -0400</pubDate>
     </item>
     <item>
-      <title>Snakefinger - The Model (30 plays)</title>
+      <title>Snakefinger - The Model (31 plays)</title>
       <link>https://www.last.fm/music/Snakefinger/_/The+Model</link>
       <guid isPermaLink="false">Frippertron-1636106024--0d5229d9-98f2-4ab6-94a1-4e90779cfa71---The Model</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75c968e376b755dc2b09b51eca7d1311.jpg" length="21710" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1636345059--37913756-d32b-4fc0-8dd0-cdecc6e605bf---Molekuláris gépezetek</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac990f95d7a77fc5fa9a7de9b0ce320a.jpg" length="7538" type="image/jpeg"/>
       <pubDate>Sun, 07 Nov 2021 23:17:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thy Catafalque - Köd utánam (1 play)</title>
+      <link>https://www.last.fm/music/Thy+Catafalque/_/K%C3%B6d+ut%C3%A1nam</link>
+      <guid isPermaLink="false">Frippertron-1636346211--37913756-d32b-4fc0-8dd0-cdecc6e605bf---Köd utánam</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac990f95d7a77fc5fa9a7de9b0ce320a.jpg" length="7538" type="image/jpeg"/>
+      <pubDate>Sun, 07 Nov 2021 23:36:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thy Catafalque - Űrhajók Makón (1 play)</title>
+      <link>https://www.last.fm/music/Thy+Catafalque/_/%C5%B0rhaj%C3%B3k+Mak%C3%B3n</link>
+      <guid isPermaLink="false">Frippertron-1636346543--37913756-d32b-4fc0-8dd0-cdecc6e605bf---Űrhajók Makón</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac990f95d7a77fc5fa9a7de9b0ce320a.jpg" length="7538" type="image/jpeg"/>
+      <pubDate>Sun, 07 Nov 2021 23:42:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Snakefinger - The Model (31 plays)</title>
+      <link>https://www.last.fm/music/Snakefinger/_/The+Model</link>
+      <guid isPermaLink="false">Frippertron-1636346839--0d5229d9-98f2-4ab6-94a1-4e90779cfa71---The Model</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75c968e376b755dc2b09b51eca7d1311.jpg" length="21710" type="image/jpeg"/>
+      <pubDate>Sun, 07 Nov 2021 23:47:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
