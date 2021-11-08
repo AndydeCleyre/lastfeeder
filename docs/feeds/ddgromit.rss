@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Nov 2021 21:16:44 +0000</lastBuildDate>
-    <item>
-      <title>Audiomachine - Through the Darkness (3 plays)</title>
-      <link>https://www.last.fm/music/Audiomachine/_/Through+the+Darkness</link>
-      <guid isPermaLink="false">ddgromit-1636159915--1e3e8759-f149-4e1b-933a-e4c46876c5fd---Through the Darkness</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1e522abcc0596cf461c8efd4b1d5a2f.jpg" length="24775" type="image/jpeg"/>
-      <pubDate>Fri, 05 Nov 2021 20:51:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Nov 2021 21:52:47 +0000</lastBuildDate>
     <item>
       <title>Deep Divers - Glowstick (4 plays)</title>
       <link>https://www.last.fm/music/Deep+Divers/_/Glowstick</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1636405153--Camila Cabello---oh na na</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b025e45f7e550a416a2f820a88d9128.jpg" length="25737" type="image/jpeg"/>
       <pubDate>Mon, 08 Nov 2021 15:59:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jason Derulo - Acapulco (1 play)</title>
+      <link>https://www.last.fm/music/Jason+Derulo/_/Acapulco</link>
+      <guid isPermaLink="false">ddgromit-1636405356--Jason Derulo---Acapulco</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11e2803a1e09a99657240e418935069f.jpg" length="18275" type="image/jpeg"/>
+      <pubDate>Mon, 08 Nov 2021 16:02:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
