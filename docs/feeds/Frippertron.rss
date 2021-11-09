@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 05:52:28 +0000</lastBuildDate>
-    <item>
-      <title>David Sylvian - Weathered Wall (91 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/Weathered+Wall</link>
-      <guid isPermaLink="false">Frippertron-1636360534--719db6b1-0d91-458c-8d18-875ec44105bf---Weathered Wall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbb90f07d4b75d0a1a9a444f00642f2f.jpg" length="19845" type="image/jpeg"/>
-      <pubDate>Mon, 08 Nov 2021 03:35:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Sylvian - Backwaters (78 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/Backwaters</link>
-      <guid isPermaLink="false">Frippertron-1636360874--719db6b1-0d91-458c-8d18-875ec44105bf---Backwaters</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbb90f07d4b75d0a1a9a444f00642f2f.jpg" length="19845" type="image/jpeg"/>
-      <pubDate>Mon, 08 Nov 2021 03:41:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Nov 2021 06:23:03 +0000</lastBuildDate>
     <item>
       <title>David Sylvian - Brilliant Trees (87 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Brilliant+Trees</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1636436724--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Tue, 09 Nov 2021 00:45:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Pigs (Three Different Ones) (24 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+(Three+Different+Ones)</link>
+      <guid isPermaLink="false">Frippertron-1636437749--83d91898-7763-47d7-b03b-b92132375c47---Pigs (Three Different Ones)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Tue, 09 Nov 2021 01:02:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Sheep (46 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Sheep</link>
+      <guid isPermaLink="false">Frippertron-1636438437--83d91898-7763-47d7-b03b-b92132375c47---Sheep</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Tue, 09 Nov 2021 01:13:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
