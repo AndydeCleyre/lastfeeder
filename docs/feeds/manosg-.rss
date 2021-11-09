@@ -7,19 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 17:11:18 +0000</lastBuildDate>
-    <item>
-      <title>Alan Catton - The Wayfarer (2 plays)</title>
-      <link>https://www.last.fm/music/Alan+Catton/_/The+Wayfarer</link>
-      <guid isPermaLink="false">manosg--1636363416--Alan Catton---The Wayfarer</guid>
-      <pubDate>Mon, 08 Nov 2021 04:23:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Alan Catton - Shanty (2 plays)</title>
-      <link>https://www.last.fm/music/Alan+Catton/_/Shanty</link>
-      <guid isPermaLink="false">manosg--1636363614--Alan Catton---Shanty</guid>
-      <pubDate>Mon, 08 Nov 2021 04:26:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Nov 2021 18:23:10 +0000</lastBuildDate>
     <item>
       <title>Alan Catton - Ravenspurn (2 plays)</title>
       <link>https://www.last.fm/music/Alan+Catton/_/Ravenspurn</link>
@@ -312,10 +300,23 @@
       <pubDate>Tue, 09 Nov 2021 11:57:43 -0500</pubDate>
     </item>
     <item>
-      <title>Halocraft - Don't Break the Loop (1 play)</title>
+      <title>Halocraft - Don't Break the Loop (2 plays)</title>
       <link>https://www.last.fm/music/Halocraft/_/Don%27t+Break+the+Loop</link>
       <guid isPermaLink="false">manosg--1636477239--Halocraft---Don't Break the Loop</guid>
       <pubDate>Tue, 09 Nov 2021 12:00:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Halocraft - Don't Break the Loop (2 plays)</title>
+      <link>https://www.last.fm/music/Halocraft/_/Don%27t+Break+the+Loop</link>
+      <guid isPermaLink="false">manosg--1636480514--Halocraft---Don't Break the Loop</guid>
+      <pubDate>Tue, 09 Nov 2021 12:55:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Led Zeppelin II (1 play)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Led+Zeppelin+II</link>
+      <guid isPermaLink="false">manosg--1636480885--678d88b2-87b0-403b-b63d-5da7465aecc3---Led Zeppelin II</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 09 Nov 2021 13:01:25 -0500</pubDate>
     </item>
   </channel>
 </rss>
