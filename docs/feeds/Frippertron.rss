@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 09:41:56 +0000</lastBuildDate>
-    <item>
-      <title>Robbie Basho - Green River Suite (1 play)</title>
-      <link>https://www.last.fm/music/Robbie+Basho/_/Green+River+Suite</link>
-      <guid isPermaLink="false">Frippertron-1636429634--0a326e5b-9332-4490-a37c-aa3692201401---Green River Suite</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15e73c924dc041b4c1e86143a0079140.jpg" length="11251" type="image/jpeg"/>
-      <pubDate>Mon, 08 Nov 2021 22:47:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Robbie Basho - Rodeo (1 play)</title>
-      <link>https://www.last.fm/music/Robbie+Basho/_/Rodeo</link>
-      <guid isPermaLink="false">Frippertron-1636430096--0a326e5b-9332-4490-a37c-aa3692201401---Rodeo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15e73c924dc041b4c1e86143a0079140.jpg" length="11251" type="image/jpeg"/>
-      <pubDate>Mon, 08 Nov 2021 22:54:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Robbie Basho - Rocky Mountain Raga (1 play)</title>
-      <link>https://www.last.fm/music/Robbie+Basho/_/Rocky+Mountain+Raga</link>
-      <guid isPermaLink="false">Frippertron-1636430248--0a326e5b-9332-4490-a37c-aa3692201401---Rocky Mountain Raga</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15e73c924dc041b4c1e86143a0079140.jpg" length="11251" type="image/jpeg"/>
-      <pubDate>Mon, 08 Nov 2021 22:57:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Nov 2021 09:53:41 +0000</lastBuildDate>
     <item>
       <title>Robbie Basho - Variations on Easter (1 play)</title>
       <link>https://www.last.fm/music/Robbie+Basho/_/Variations+on+Easter</link>
@@ -114,7 +93,7 @@
       <pubDate>Mon, 08 Nov 2021 23:50:07 -0500</pubDate>
     </item>
     <item>
-      <title>Brian Eno - Here Come the Warm Jets</title>
+      <title>Brian Eno - Here Come the Warm Jets (52 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/Here+Come+the+Warm+Jets</link>
       <guid isPermaLink="false">Frippertron-1636433720--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Here Come the Warm Jets</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f1142db4cb64edd81a26f889af319c0.png" length="220609" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1636450493--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Elephant Talk</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 09 Nov 2021 04:34:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Frame by Frame (75 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Frame+by+Frame</link>
+      <guid isPermaLink="false">Frippertron-1636450778--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Frame by Frame</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 09 Nov 2021 04:39:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Custard Pie (20 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Custard+Pie</link>
+      <guid isPermaLink="false">Frippertron-1636451117--678d88b2-87b0-403b-b63d-5da7465aecc3---Custard Pie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
+      <pubDate>Tue, 09 Nov 2021 04:45:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - In My Time of Dying (35 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/In+My+Time+of+Dying</link>
+      <guid isPermaLink="false">Frippertron-1636451373--678d88b2-87b0-403b-b63d-5da7465aecc3---In My Time of Dying</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
+      <pubDate>Tue, 09 Nov 2021 04:49:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
