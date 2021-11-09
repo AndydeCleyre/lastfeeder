@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 10:42:59 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Baby's on Fire (85 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Baby%27s+on+Fire</link>
-      <guid isPermaLink="false">Frippertron-1636431748--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Baby's on Fire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f1142db4cb64edd81a26f889af319c0.png" length="220609" type="image/png"/>
-      <pubDate>Mon, 08 Nov 2021 23:22:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Nov 2021 10:54:25 +0000</lastBuildDate>
     <item>
       <title>Brian Eno - Cindy Tells Me (29 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/Cindy+Tells+Me</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1636454361--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Initiation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e5e6a6a055c42669656b8066519f667.png" length="182155" type="image/png"/>
       <pubDate>Tue, 09 Nov 2021 05:39:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - Fair Warning (38 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/Fair+Warning</link>
+      <guid isPermaLink="false">Frippertron-1636454787--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Fair Warning</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e5e6a6a055c42669656b8066519f667.png" length="182155" type="image/png"/>
+      <pubDate>Tue, 09 Nov 2021 05:46:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
