@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 10:54:25 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Cindy Tells Me (29 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Cindy+Tells+Me</link>
-      <guid isPermaLink="false">Frippertron-1636432090--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Cindy Tells Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f1142db4cb64edd81a26f889af319c0.png" length="220609" type="image/png"/>
-      <pubDate>Mon, 08 Nov 2021 23:28:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Brian Eno - Driving Me Backwards (30 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Driving+Me+Backwards</link>
-      <guid isPermaLink="false">Frippertron-1636432306--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Driving Me Backwards</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f1142db4cb64edd81a26f889af319c0.png" length="220609" type="image/png"/>
-      <pubDate>Mon, 08 Nov 2021 23:31:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Nov 2021 11:16:10 +0000</lastBuildDate>
     <item>
       <title>Brian Eno - On Some Faraway Beach (28 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/On+Some+Faraway+Beach</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1636454787--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Fair Warning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e5e6a6a055c42669656b8066519f667.png" length="182155" type="image/png"/>
       <pubDate>Tue, 09 Nov 2021 05:46:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - Useless Begging (51 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/Useless+Begging</link>
+      <guid isPermaLink="false">Frippertron-1636455272--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Useless Begging</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6623040f9b7d4140c1e553007e082281.jpg" length="21065" type="image/jpeg"/>
+      <pubDate>Tue, 09 Nov 2021 05:54:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - Izzat Love? (41 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/Izzat+Love%3F</link>
+      <guid isPermaLink="false">Frippertron-1636455487--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Izzat Love?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6623040f9b7d4140c1e553007e082281.jpg" length="21065" type="image/jpeg"/>
+      <pubDate>Tue, 09 Nov 2021 05:58:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
