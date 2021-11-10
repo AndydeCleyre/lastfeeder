@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 18:23:31 +0000</lastBuildDate>
-    <item>
-      <title>Deftones - Pompeji (3 plays)</title>
-      <link>https://www.last.fm/music/Deftones/_/Pompeji</link>
-      <guid isPermaLink="false">rockijosh-1636470681--7527f6c2-d762-4b88-b5e2-9244f1e34c46---Pompeji</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/352a7065fe6c236b20b0c9e585597a8a.jpg" length="29268" type="image/jpeg"/>
-      <pubDate>Tue, 09 Nov 2021 10:11:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Deftones - This Link Is Dead (4 plays)</title>
-      <link>https://www.last.fm/music/Deftones/_/This+Link+Is+Dead</link>
-      <guid isPermaLink="false">rockijosh-1636471007--7527f6c2-d762-4b88-b5e2-9244f1e34c46---This Link Is Dead</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/352a7065fe6c236b20b0c9e585597a8a.jpg" length="29268" type="image/jpeg"/>
-      <pubDate>Tue, 09 Nov 2021 10:16:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Nov 2021 09:20:49 +0000</lastBuildDate>
     <item>
       <title>Deftones - Radiant City (4 plays)</title>
       <link>https://www.last.fm/music/Deftones/_/Radiant+City</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1636481494--7527f6c2-d762-4b88-b5e2-9244f1e34c46---Street Carp</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3c065ad97b65ff68ed43fa8c2f07886.jpg" length="2517" type="image/jpeg"/>
       <pubDate>Tue, 09 Nov 2021 13:11:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bo Burnham - Content (5 plays)</title>
+      <link>https://www.last.fm/music/Bo+Burnham/_/Content</link>
+      <guid isPermaLink="false">rockijosh-1636535459--889db25c-d1df-457a-b0d1-c405f34a01f3---Content</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10ce8b3f446033d4bb52f59cb9567d5e.jpg" length="16667" type="image/jpeg"/>
+      <pubDate>Wed, 10 Nov 2021 04:10:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bo Burnham - Comedy (5 plays)</title>
+      <link>https://www.last.fm/music/Bo+Burnham/_/Comedy</link>
+      <guid isPermaLink="false">rockijosh-1636535554--889db25c-d1df-457a-b0d1-c405f34a01f3---Comedy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10ce8b3f446033d4bb52f59cb9567d5e.jpg" length="16667" type="image/jpeg"/>
+      <pubDate>Wed, 10 Nov 2021 04:12:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
