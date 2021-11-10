@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Nov 2021 09:42:07 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - Useless Begging (51 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Useless+Begging</link>
-      <guid isPermaLink="false">Frippertron-1636455272--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Useless Begging</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6623040f9b7d4140c1e553007e082281.jpg" length="21065" type="image/jpeg"/>
-      <pubDate>Tue, 09 Nov 2021 05:54:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Nov 2021 09:53:53 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Izzat Love? (41 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Izzat+Love%3F</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1636537059--678d88b2-87b0-403b-b63d-5da7465aecc3---Trampled Under Foot</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fceb2abf67048f9b63ea7bba5b440c3.jpg" length="23269" type="image/jpeg"/>
       <pubDate>Wed, 10 Nov 2021 04:37:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Sick Again (46 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Sick+Again</link>
+      <guid isPermaLink="false">Frippertron-1636537555--678d88b2-87b0-403b-b63d-5da7465aecc3---Sick Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fceb2abf67048f9b63ea7bba5b440c3.jpg" length="23269" type="image/jpeg"/>
+      <pubDate>Wed, 10 Nov 2021 04:45:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
