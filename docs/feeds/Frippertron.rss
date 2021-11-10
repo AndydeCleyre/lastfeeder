@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Nov 2021 07:18:46 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Easy Money (142 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Easy+Money</link>
-      <guid isPermaLink="false">Frippertron-1636449579--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Easy Money</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 09 Nov 2021 04:19:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Larks' Tongues In Aspic (Part II) (211 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+In+Aspic+(Part+II)</link>
-      <guid isPermaLink="false">Frippertron-1636450080--King Crimson---Larks' Tongues In Aspic (Part II)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 09 Nov 2021 04:28:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Nov 2021 08:23:03 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Elephant Talk (53 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Elephant+Talk</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1636528285--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---No Self Control</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c2515f47b46d147c028f1f1decf4cb2.png" length="145670" type="image/png"/>
       <pubDate>Wed, 10 Nov 2021 02:11:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - I Saw The Light (201 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/I+Saw+The+Light</link>
+      <guid isPermaLink="false">Frippertron-1636532126--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---I Saw The Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e0cb27c868af52a6902552aac2a089a.jpg" length="35724" type="image/jpeg"/>
+      <pubDate>Wed, 10 Nov 2021 03:15:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - Cold Morning Light (66 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/Cold+Morning+Light</link>
+      <guid isPermaLink="false">Frippertron-1636532329--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Cold Morning Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e0cb27c868af52a6902552aac2a089a.jpg" length="35724" type="image/jpeg"/>
+      <pubDate>Wed, 10 Nov 2021 03:18:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
