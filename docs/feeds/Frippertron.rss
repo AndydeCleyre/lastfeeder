@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 11:37:22 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - The Trial (3 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/The+Trial</link>
-      <guid isPermaLink="false">Frippertron-1636606464--83d91898-7763-47d7-b03b-b92132375c47---The Trial</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6af6a9a0d246464f976bef5193823322.png" length="76147" type="image/png"/>
-      <pubDate>Wed, 10 Nov 2021 23:54:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Outside the Wall (3 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Outside+the+Wall</link>
-      <guid isPermaLink="false">Frippertron-1636606785--83d91898-7763-47d7-b03b-b92132375c47---Outside the Wall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6af6a9a0d246464f976bef5193823322.png" length="76147" type="image/png"/>
-      <pubDate>Wed, 10 Nov 2021 23:59:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Celtic Frost - Progeny (1 play)</title>
-      <link>https://www.last.fm/music/Celtic+Frost/_/Progeny</link>
-      <guid isPermaLink="false">Frippertron-1636606892--d91b3683-4622-4d72-8a03-80f1ff59e639---Progeny</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f9e9c126ded4cc2cc9c4952aa9dfb50.png" length="80636" type="image/png"/>
-      <pubDate>Thu, 11 Nov 2021 00:01:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 11:52:27 +0000</lastBuildDate>
     <item>
       <title>Celtic Frost - Ground (1 play)</title>
       <link>https://www.last.fm/music/Celtic+Frost/_/Ground</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1636630514--97c86b2c-2765-46a2-aef8-76a7e24c430f---Ballet for a Rainy Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c994e7098f34bdfcb58d04aaba808c8.jpg" length="15887" type="image/jpeg"/>
       <pubDate>Thu, 11 Nov 2021 06:35:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>XTC - 1000 Umbrellas (77 plays)</title>
+      <link>https://www.last.fm/music/XTC/_/1000+Umbrellas</link>
+      <guid isPermaLink="false">Frippertron-1636630703--97c86b2c-2765-46a2-aef8-76a7e24c430f---1000 Umbrellas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c994e7098f34bdfcb58d04aaba808c8.jpg" length="15887" type="image/jpeg"/>
+      <pubDate>Thu, 11 Nov 2021 06:38:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>XTC - Season Cycle (74 plays)</title>
+      <link>https://www.last.fm/music/XTC/_/Season+Cycle</link>
+      <guid isPermaLink="false">Frippertron-1636630913--97c86b2c-2765-46a2-aef8-76a7e24c430f---Season Cycle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c994e7098f34bdfcb58d04aaba808c8.jpg" length="15887" type="image/jpeg"/>
+      <pubDate>Thu, 11 Nov 2021 06:41:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>XTC - The Man Who Sailed Around His Soul (40 plays)</title>
+      <link>https://www.last.fm/music/XTC/_/The+Man+Who+Sailed+Around+His+Soul</link>
+      <guid isPermaLink="false">Frippertron-1636631120--97c86b2c-2765-46a2-aef8-76a7e24c430f---The Man Who Sailed Around His Soul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c994e7098f34bdfcb58d04aaba808c8.jpg" length="15887" type="image/jpeg"/>
+      <pubDate>Thu, 11 Nov 2021 06:45:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
