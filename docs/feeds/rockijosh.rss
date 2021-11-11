@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 15:20:29 +0000</lastBuildDate>
-    <item>
-      <title>David Wise - Klomp's Romp (18 plays)</title>
-      <link>https://www.last.fm/music/David+Wise/_/Klomp%27s+Romp</link>
-      <guid isPermaLink="false">rockijosh-1636546600--3bd1d6d9-d22c-4e9c-a487-128098c768ed---Klomp's Romp</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d2fb30c61a7a26c3e1ff79097550920.jpg" length="25489" type="image/jpeg"/>
-      <pubDate>Wed, 10 Nov 2021 07:16:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 15:56:47 +0000</lastBuildDate>
     <item>
       <title>David Wise - Lockjaw's Saga (16 plays)</title>
       <link>https://www.last.fm/music/David+Wise/_/Lockjaw%27s+Saga</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1636642831--faabb55d-3c9e-4c23-8779-732ac2ee2c0d---I'm Gonna Getcha Good!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c411e37591c46ccb1fc35bccb9901cc.png" length="72832" type="image/png"/>
       <pubDate>Thu, 11 Nov 2021 10:00:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chris Brown - Go Crazy (1 play)</title>
+      <link>https://www.last.fm/music/Chris+Brown/_/Go+Crazy</link>
+      <guid isPermaLink="false">rockijosh-1636643101--Chris Brown---Go Crazy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68bfdded52189e6675a266c82e6c9b16.jpg" length="23092" type="image/jpeg"/>
+      <pubDate>Thu, 11 Nov 2021 10:05:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
