@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 19:15:38 +0000</lastBuildDate>
-    <item>
-      <title>Sigur Rós - Gong (9 plays)</title>
-      <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/Gong</link>
-      <guid isPermaLink="false">TalonsOfFire-1636494079--f6f2326f-6b25-4170-b89d-e235b25508e8---Gong</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/514ee2ab45cb48b796416288a8633c10.png" length="214852" type="image/png"/>
-      <pubDate>Tue, 09 Nov 2021 16:41:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sigur Rós - Andvari (9 plays)</title>
-      <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/Andvari</link>
-      <guid isPermaLink="false">TalonsOfFire-1636494479--f6f2326f-6b25-4170-b89d-e235b25508e8---Andvari</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/514ee2ab45cb48b796416288a8633c10.png" length="214852" type="image/png"/>
-      <pubDate>Tue, 09 Nov 2021 16:47:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 19:27:11 +0000</lastBuildDate>
     <item>
       <title>Sigur Rós - Svo Hljótt (8 plays)</title>
       <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/Svo+Hlj%C3%B3tt</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1636657726--d5cc67b8-1cc4-453b-96e8-44487acdebea---Girl of the Year</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/37dfce5a72272f70a84f858747859c9e.jpg" length="37751" type="image/jpeg"/>
       <pubDate>Thu, 11 Nov 2021 14:08:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Beach House - Last Ride (2 plays)</title>
+      <link>https://www.last.fm/music/Beach+House/_/Last+Ride</link>
+      <guid isPermaLink="false">TalonsOfFire-1636657958--d5cc67b8-1cc4-453b-96e8-44487acdebea---Last Ride</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/37dfce5a72272f70a84f858747859c9e.jpg" length="37751" type="image/jpeg"/>
+      <pubDate>Thu, 11 Nov 2021 14:12:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Beach House - Once Twice Melody (1 play)</title>
+      <link>https://www.last.fm/music/Beach+House/_/Once+Twice+Melody</link>
+      <guid isPermaLink="false">TalonsOfFire-1636658401--Beach House---Once Twice Melody</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/022d1a3924a84c731520bda4e2f6e3d8.png" length="76323" type="image/png"/>
+      <pubDate>Thu, 11 Nov 2021 14:20:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
