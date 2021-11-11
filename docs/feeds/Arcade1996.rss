@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 13:52:44 +0000</lastBuildDate>
-    <item>
-      <title>TISM - Whatareya? (3 plays)</title>
-      <link>https://www.last.fm/music/TISM/_/Whatareya%3F</link>
-      <guid isPermaLink="false">Arcade1996-1636503693--7c0e7dd0-d65a-44df-9486-7127de873bf0---Whatareya?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e934dce736a4584839303d5f59b0ff0.jpg" length="14330" type="image/jpeg"/>
-      <pubDate>Tue, 09 Nov 2021 19:21:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 14:53:27 +0000</lastBuildDate>
     <item>
       <title>U2 - Numb (1 play)</title>
       <link>https://www.last.fm/music/U2/_/Numb</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1636637673--98c749f4-2488-48f8-9ce8-7ea4b97fe8ea---Unsent Letter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/620efb27353ef05d4d0fd65f422648f8.jpg" length="24825" type="image/jpeg"/>
       <pubDate>Thu, 11 Nov 2021 08:34:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Cranberries - Zombie (1 play)</title>
+      <link>https://www.last.fm/music/The+Cranberries/_/Zombie</link>
+      <guid isPermaLink="false">Arcade1996-1636637985--c98d40fd-f6cf-4b26-883e-eaa515ee2851---Zombie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bcd2a864a096dda6d05e305685898950.jpg" length="19610" type="image/jpeg"/>
+      <pubDate>Thu, 11 Nov 2021 08:39:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
