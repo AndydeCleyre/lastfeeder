@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 10:22:09 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Bring the Boys Back Home (3 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Bring+the+Boys+Back+Home</link>
-      <guid isPermaLink="false">Frippertron-1636605086--83d91898-7763-47d7-b03b-b92132375c47---Bring the Boys Back Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6af6a9a0d246464f976bef5193823322.png" length="76147" type="image/png"/>
-      <pubDate>Wed, 10 Nov 2021 23:31:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 10:43:06 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Comfortably Numb (4 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Comfortably+Numb</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1636625347--Sparks---Something For The Girl With Everything</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9692d34cdec4798ba20ef9167882e9a.png" length="215011" type="image/png"/>
       <pubDate>Thu, 11 Nov 2021 05:09:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Shine on You Crazy Diamond (2 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Shine+on+You+Crazy+Diamond</link>
+      <guid isPermaLink="false">Frippertron-1636626708--83d91898-7763-47d7-b03b-b92132375c47---Shine on You Crazy Diamond</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Thu, 11 Nov 2021 05:31:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
