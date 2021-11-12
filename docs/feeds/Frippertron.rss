@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Nov 2021 15:20:30 +0000</lastBuildDate>
-    <item>
-      <title>Radiohead - Life in a Glass House (1 play)</title>
-      <link>https://www.last.fm/music/Radiohead/_/Life+in+a+Glass+House</link>
-      <guid isPermaLink="false">Frippertron-1636698309--a74b1b7f-71a5-4011-9441-d0b5e4122711---Life in a Glass House</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d59fb77b86ba4dd5d7f99c34564a56ce.jpg" length="11831" type="image/jpeg"/>
-      <pubDate>Fri, 12 Nov 2021 01:25:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Nov 2021 15:45:18 +0000</lastBuildDate>
     <item>
       <title>Radiohead - Idioteque (78 plays)</title>
       <link>https://www.last.fm/music/Radiohead/_/Idioteque</link>
@@ -86,7 +79,7 @@
       <pubDate>Fri, 12 Nov 2021 03:29:06 -0500</pubDate>
     </item>
     <item>
-      <title>Pan.Thy.Monium - The Battle of Geeheeb (1 play)</title>
+      <title>Pan.Thy.Monium - The Battle of Geeheeb (2 plays)</title>
       <link>https://www.last.fm/music/Pan.Thy.Monium/_/The+Battle+of+Geeheeb</link>
       <guid isPermaLink="false">Frippertron-1636706076--5f9d5ea9-e2ca-4f13-be2a-86ffea84a714---The Battle of Geeheeb</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1cb305600cda5afc722e08af9610628.jpg" length="19134" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1636728535--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d28fca82c55a4d8fcd06a6d174a9441f.jpg" length="25321" type="image/jpeg"/>
       <pubDate>Fri, 12 Nov 2021 09:48:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pan.Thy.Monium - The Battle of Geeheeb (2 plays)</title>
+      <link>https://www.last.fm/music/Pan.Thy.Monium/_/The+Battle+of+Geeheeb</link>
+      <guid isPermaLink="false">Frippertron-1636730270--5f9d5ea9-e2ca-4f13-be2a-86ffea84a714---The Battle of Geeheeb</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1cb305600cda5afc722e08af9610628.jpg" length="19134" type="image/jpeg"/>
+      <pubDate>Fri, 12 Nov 2021 10:17:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
