@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Nov 2021 19:16:25 +0000</lastBuildDate>
-    <item>
-      <title>Jimmy Eat World - Just Tonight (7 plays)</title>
-      <link>https://www.last.fm/music/Jimmy+Eat+World/_/Just+Tonight</link>
-      <guid isPermaLink="false">rockijosh-1636637574--bbc5b66b-d037-4f26-aecf-0b129e7f876a---Just Tonight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ecce981af4e7d4c62d84c6e4c2647ea.jpg" length="21685" type="image/jpeg"/>
-      <pubDate>Thu, 11 Nov 2021 08:32:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jimmy Eat World - Work (17 plays)</title>
-      <link>https://www.last.fm/music/Jimmy+Eat+World/_/Work</link>
-      <guid isPermaLink="false">rockijosh-1636637781--bbc5b66b-d037-4f26-aecf-0b129e7f876a---Work</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ecce981af4e7d4c62d84c6e4c2647ea.jpg" length="21685" type="image/jpeg"/>
-      <pubDate>Thu, 11 Nov 2021 08:36:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Nov 2021 21:16:25 +0000</lastBuildDate>
     <item>
       <title>Jimmy Eat World - Kill (23 plays)</title>
       <link>https://www.last.fm/music/Jimmy+Eat+World/_/Kill</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1636742574--148ddea2-6839-4354-8e2c-5dfadf136b7f---You Never Give Me Your Money / The End</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d4c008c55be108eb3f06d17b619e1ea.jpg" length="29617" type="image/jpeg"/>
       <pubDate>Fri, 12 Nov 2021 13:42:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Junkie XL - Pensacola, Florida (Godzilla Theme) (1 play)</title>
+      <link>https://www.last.fm/music/Junkie+XL/_/Pensacola,+Florida+(Godzilla+Theme)</link>
+      <guid isPermaLink="false">rockijosh-1636751097--eb3f70ce-f226-428f-8d7f-046c8dbfd98f---Pensacola, Florida (Godzilla Theme)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f57ec5737ab4e14d1121649ba5a80da3.jpg" length="18088" type="image/jpeg"/>
+      <pubDate>Fri, 12 Nov 2021 16:04:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Junkie XL - Skull Island (Kong Theme) (1 play)</title>
+      <link>https://www.last.fm/music/Junkie+XL/_/Skull+Island+(Kong+Theme)</link>
+      <guid isPermaLink="false">rockijosh-1636751236--eb3f70ce-f226-428f-8d7f-046c8dbfd98f---Skull Island (Kong Theme)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f57ec5737ab4e14d1121649ba5a80da3.jpg" length="18088" type="image/jpeg"/>
+      <pubDate>Fri, 12 Nov 2021 16:07:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
