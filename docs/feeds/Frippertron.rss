@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Nov 2021 14:53:14 +0000</lastBuildDate>
-    <item>
-      <title>Zach Hill - Second Life (1 play)</title>
-      <link>https://www.last.fm/music/Zach+Hill/_/Second+Life</link>
-      <guid isPermaLink="false">Frippertron-1636698077--df6a1106-6caf-465b-bcfd-0b80d2b53516---Second Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e1273eed7e342d6a7e3c040e1dad493.png" length="185729" type="image/png"/>
-      <pubDate>Fri, 12 Nov 2021 01:21:17 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Nov 2021 15:20:30 +0000</lastBuildDate>
     <item>
       <title>Radiohead - Life in a Glass House (1 play)</title>
       <link>https://www.last.fm/music/Radiohead/_/Life+in+a+Glass+House</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1636727934--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part Two)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Fri, 12 Nov 2021 09:38:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Echoes (51 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
+      <guid isPermaLink="false">Frippertron-1636728535--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d28fca82c55a4d8fcd06a6d174a9441f.jpg" length="25321" type="image/jpeg"/>
+      <pubDate>Fri, 12 Nov 2021 09:48:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
