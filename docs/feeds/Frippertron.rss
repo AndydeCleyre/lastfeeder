@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Nov 2021 07:18:40 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Echoes (50 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
-      <guid isPermaLink="false">Frippertron-1636628031--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
-      <pubDate>Thu, 11 Nov 2021 05:53:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Nov 2021 08:23:00 +0000</lastBuildDate>
     <item>
       <title>XTC - Summer's Cauldron (39 plays)</title>
       <link>https://www.last.fm/music/XTC/_/Summer%27s+Cauldron</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1636700619--83d91898-7763-47d7-b03b-b92132375c47---Have a Cigar</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/394cfbc6b2a74766a4364778c641ca51.png" length="62978" type="image/png"/>
       <pubDate>Fri, 12 Nov 2021 02:03:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Let There Be More Light (10 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Let+There+Be+More+Light</link>
+      <guid isPermaLink="false">Frippertron-1636704964--83d91898-7763-47d7-b03b-b92132375c47---Let There Be More Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8847e32fc93f3666145d50923694e0d9.jpg" length="36041" type="image/jpeg"/>
+      <pubDate>Fri, 12 Nov 2021 03:16:04 -0500</pubDate>
     </item>
   </channel>
 </rss>
