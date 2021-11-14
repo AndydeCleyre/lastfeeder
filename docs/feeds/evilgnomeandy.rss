@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Nov 2021 23:19:42 +0000</lastBuildDate>
-    <item>
-      <title>Danny Elfman - Storytime (3 plays)</title>
-      <link>https://www.last.fm/music/Danny+Elfman/_/Storytime</link>
-      <guid isPermaLink="false">evilgnomeandy-1636755969--5b24fbab-c58f-4c37-a59d-ab232e2d98c4---Storytime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db4e881d1a5dd2cc640a6c33910b8a38.jpg" length="38475" type="image/jpeg"/>
-      <pubDate>Fri, 12 Nov 2021 17:26:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Nov 2021 23:40:16 +0000</lastBuildDate>
     <item>
       <title>Danny Elfman - Castle on the Hill (1 play)</title>
       <link>https://www.last.fm/music/Danny+Elfman/_/Castle+on+the+Hill</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1636931381--Caspar Babypants---Sleepy Snail and Speedy Spider</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ec63399d8174a89e63131067a2c5a584.jpg" length="23756" type="image/jpeg"/>
       <pubDate>Sun, 14 Nov 2021 18:09:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Caspar Babypants - Sleepy Eyed (56 plays)</title>
+      <link>https://www.last.fm/music/Caspar+Babypants/_/Sleepy+Eyed</link>
+      <guid isPermaLink="false">evilgnomeandy-1636931550--Caspar Babypants---Sleepy Eyed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c5bca2eb7a581614537e63cd0155cb2.jpg" length="26130" type="image/jpeg"/>
+      <pubDate>Sun, 14 Nov 2021 18:12:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
