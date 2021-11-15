@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Nov 2021 04:25:42 +0000</lastBuildDate>
-    <item>
-      <title>Talk Talk - It's My Life (1 play)</title>
-      <link>https://www.last.fm/music/Talk+Talk/_/It%27s+My+Life</link>
-      <guid isPermaLink="false">Frippertron-1636709704--a74f43e4-50c4-4b19-a2ce-c05ce9bccb03---It's My Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/942ac2c4be883d0f42e4f41a3bb877c9.jpg" length="22839" type="image/jpeg"/>
-      <pubDate>Fri, 12 Nov 2021 04:35:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Talk Talk - Tomorrow Started (1 play)</title>
-      <link>https://www.last.fm/music/Talk+Talk/_/Tomorrow+Started</link>
-      <guid isPermaLink="false">Frippertron-1636709940--a74f43e4-50c4-4b19-a2ce-c05ce9bccb03---Tomorrow Started</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/942ac2c4be883d0f42e4f41a3bb877c9.jpg" length="22839" type="image/jpeg"/>
-      <pubDate>Fri, 12 Nov 2021 04:39:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Nov 2021 04:51:23 +0000</lastBuildDate>
     <item>
       <title>Talk Talk - The Last Time (1 play)</title>
       <link>https://www.last.fm/music/Talk+Talk/_/The+Last+Time</link>
@@ -212,7 +198,7 @@
       <pubDate>Fri, 12 Nov 2021 09:38:54 -0500</pubDate>
     </item>
     <item>
-      <title>Pink Floyd - Echoes (51 plays)</title>
+      <title>Pink Floyd - Echoes (52 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
       <guid isPermaLink="false">Frippertron-1636728535--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d28fca82c55a4d8fcd06a6d174a9441f.jpg" length="25321" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1636950065--83d91898-7763-47d7-b03b-b92132375c47---Let There Be More Light</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8847e32fc93f3666145d50923694e0d9.jpg" length="36041" type="image/jpeg"/>
       <pubDate>Sun, 14 Nov 2021 23:21:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Remember a Day (3 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Remember+a+Day</link>
+      <guid isPermaLink="false">Frippertron-1636950403--83d91898-7763-47d7-b03b-b92132375c47---Remember a Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8847e32fc93f3666145d50923694e0d9.jpg" length="36041" type="image/jpeg"/>
+      <pubDate>Sun, 14 Nov 2021 23:26:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Echoes (52 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
+      <guid isPermaLink="false">Frippertron-1636950696--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b48833e7840c763a28d405520a3c480f.png" length="18300" type="image/png"/>
+      <pubDate>Sun, 14 Nov 2021 23:31:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
