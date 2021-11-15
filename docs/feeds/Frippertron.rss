@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Nov 2021 09:22:21 +0000</lastBuildDate>
-    <item>
-      <title>Celtic Frost - Ain Elohim (2 plays)</title>
-      <link>https://www.last.fm/music/Celtic+Frost/_/Ain+Elohim</link>
-      <guid isPermaLink="false">Frippertron-1636735239--d91b3683-4622-4d72-8a03-80f1ff59e639---Ain Elohim</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f9e9c126ded4cc2cc9c4952aa9dfb50.png" length="80636" type="image/png"/>
-      <pubDate>Fri, 12 Nov 2021 11:40:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Nov 2021 09:42:09 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Arnold Layne (3 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Arnold+Layne</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1636967712--4a48f534-9b66-495c-a934-b775beda1ca7---Freedom Bondage</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/239fcce9e7c88fc877f2891875fc074c.jpg" length="36715" type="image/jpeg"/>
       <pubDate>Mon, 15 Nov 2021 04:15:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Zeni Geva - Ground Zero (1 play)</title>
+      <link>https://www.last.fm/music/Zeni+Geva/_/Ground+Zero</link>
+      <guid isPermaLink="false">Frippertron-1636967972--4a48f534-9b66-495c-a934-b775beda1ca7---Ground Zero</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/239fcce9e7c88fc877f2891875fc074c.jpg" length="36715" type="image/jpeg"/>
+      <pubDate>Mon, 15 Nov 2021 04:19:32 -0500</pubDate>
     </item>
   </channel>
 </rss>
