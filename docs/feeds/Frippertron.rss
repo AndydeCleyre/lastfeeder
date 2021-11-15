@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Nov 2021 10:43:10 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Remember a Day (3 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Remember+a+Day</link>
-      <guid isPermaLink="false">Frippertron-1636950403--83d91898-7763-47d7-b03b-b92132375c47---Remember a Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8847e32fc93f3666145d50923694e0d9.jpg" length="36041" type="image/jpeg"/>
-      <pubDate>Sun, 14 Nov 2021 23:26:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Echoes (52 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
-      <guid isPermaLink="false">Frippertron-1636950696--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b48833e7840c763a28d405520a3c480f.png" length="18300" type="image/png"/>
-      <pubDate>Sun, 14 Nov 2021 23:31:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Nov 2021 10:54:46 +0000</lastBuildDate>
     <item>
       <title>Atvm - Sanguinary Floating Orb (1 play)</title>
       <link>https://www.last.fm/music/Atvm/_/Sanguinary+Floating+Orb</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1636972705--9a58fda3-f4ed-4080-a3a5-f457aac9fcdd---Twenty Four Hours</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa556a5dacdf1fbbfff3181098fcf01f.png" length="50888" type="image/png"/>
       <pubDate>Mon, 15 Nov 2021 05:38:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Joy Division - The Eternal (39 plays)</title>
+      <link>https://www.last.fm/music/Joy+Division/_/The+Eternal</link>
+      <guid isPermaLink="false">Frippertron-1636972974--9a58fda3-f4ed-4080-a3a5-f457aac9fcdd---The Eternal</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa556a5dacdf1fbbfff3181098fcf01f.png" length="50888" type="image/png"/>
+      <pubDate>Mon, 15 Nov 2021 05:42:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Joy Division - Decades (23 plays)</title>
+      <link>https://www.last.fm/music/Joy+Division/_/Decades</link>
+      <guid isPermaLink="false">Frippertron-1636973339--9a58fda3-f4ed-4080-a3a5-f457aac9fcdd---Decades</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa556a5dacdf1fbbfff3181098fcf01f.png" length="50888" type="image/png"/>
+      <pubDate>Mon, 15 Nov 2021 05:48:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
