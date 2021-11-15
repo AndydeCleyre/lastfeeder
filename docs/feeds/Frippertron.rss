@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Nov 2021 05:52:44 +0000</lastBuildDate>
-    <item>
-      <title>Talk Talk - It's You (1 play)</title>
-      <link>https://www.last.fm/music/Talk+Talk/_/It%27s+You</link>
-      <guid isPermaLink="false">Frippertron-1636711081--a74f43e4-50c4-4b19-a2ce-c05ce9bccb03---It's You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/942ac2c4be883d0f42e4f41a3bb877c9.jpg" length="22839" type="image/jpeg"/>
-      <pubDate>Fri, 12 Nov 2021 04:58:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>Billy Joel - Laura (46 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/Laura</link>
-      <guid isPermaLink="false">Frippertron-1636711392--64b94289-9474-4d43-8c93-918ccc1920d1---Laura</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f04e1b359f6a427f9cf582b5f3546dac.png" length="91942" type="image/png"/>
-      <pubDate>Fri, 12 Nov 2021 05:03:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Nov 2021 06:23:42 +0000</lastBuildDate>
     <item>
       <title>Billy Joel - Scandinavian Skies (40 plays)</title>
       <link>https://www.last.fm/music/Billy+Joel/_/Scandinavian+Skies</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1636955235--66f8692c-966d-4dfb-a2ed-babf51241922---A Bar of Shadow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa5be6109c174cd19024712962285fd2.jpg" length="29501" type="image/jpeg"/>
       <pubDate>Mon, 15 Nov 2021 00:47:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - La Rage (31 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/La+Rage</link>
+      <guid isPermaLink="false">Frippertron-1636955679--66f8692c-966d-4dfb-a2ed-babf51241922---La Rage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa5be6109c174cd19024712962285fd2.jpg" length="29501" type="image/jpeg"/>
+      <pubDate>Mon, 15 Nov 2021 00:54:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Longhome (32 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Longhome</link>
+      <guid isPermaLink="false">Frippertron-1636956202--66f8692c-966d-4dfb-a2ed-babf51241922---Longhome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa5be6109c174cd19024712962285fd2.jpg" length="29501" type="image/jpeg"/>
+      <pubDate>Mon, 15 Nov 2021 01:03:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
