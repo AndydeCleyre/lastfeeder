@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Nov 2021 11:16:23 +0000</lastBuildDate>
-    <item>
-      <title>Bill Fay - Garden Song (1 play)</title>
-      <link>https://www.last.fm/music/Bill+Fay/_/Garden+Song</link>
-      <guid isPermaLink="false">Frippertron-1637037111--c139d092-9457-40ec-8130-e11d4cbcfb56---Garden Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66141f87891e4c8d99eec9ebc63c669f.jpg" length="14888" type="image/jpeg"/>
-      <pubDate>Mon, 15 Nov 2021 23:31:51 -0500</pubDate>
-    </item>
-    <item>
-      <title>Bill Fay - The Sun Is Bored (1 play)</title>
-      <link>https://www.last.fm/music/Bill+Fay/_/The+Sun+Is+Bored</link>
-      <guid isPermaLink="false">Frippertron-1637037304--c139d092-9457-40ec-8130-e11d4cbcfb56---The Sun Is Bored</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66141f87891e4c8d99eec9ebc63c669f.jpg" length="14888" type="image/jpeg"/>
-      <pubDate>Mon, 15 Nov 2021 23:35:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Nov 2021 11:38:12 +0000</lastBuildDate>
     <item>
       <title>Bill Fay - We Want You To Stay (1 play)</title>
       <link>https://www.last.fm/music/Bill+Fay/_/We+Want+You+To+Stay</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1637060417--83d91898-7763-47d7-b03b-b92132375c47---Pigs (Three Different Ones)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Tue, 16 Nov 2021 06:00:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Sheep (49 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Sheep</link>
+      <guid isPermaLink="false">Frippertron-1637061506--83d91898-7763-47d7-b03b-b92132375c47---Sheep</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Tue, 16 Nov 2021 06:18:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Pigs on the Wing (Part Two) (19 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+on+the+Wing+(Part+Two)</link>
+      <guid isPermaLink="false">Frippertron-1637062120--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part Two)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Tue, 16 Nov 2021 06:28:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
