@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Nov 2021 10:42:31 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - The Scarecrow (1 play)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/The+Scarecrow</link>
-      <guid isPermaLink="false">Frippertron-1637036804--Pink Floyd---The Scarecrow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/495b50731f724667968bbe9ba8a921e7.png" length="180533" type="image/png"/>
-      <pubDate>Mon, 15 Nov 2021 23:26:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Nov 2021 10:55:20 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Apples and Oranges (1 play)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Apples+and+Oranges</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1637059126--83d91898-7763-47d7-b03b-b92132375c47---Have a Cigar</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/394cfbc6b2a74766a4364778c641ca51.png" length="62978" type="image/png"/>
       <pubDate>Tue, 16 Nov 2021 05:38:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Dogs (34 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Dogs</link>
+      <guid isPermaLink="false">Frippertron-1637059392--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Tue, 16 Nov 2021 05:43:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
