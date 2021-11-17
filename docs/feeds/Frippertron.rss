@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Nov 2021 09:54:05 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Sheep (50 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Sheep</link>
-      <guid isPermaLink="false">Frippertron-1637061506--83d91898-7763-47d7-b03b-b92132375c47---Sheep</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
-      <pubDate>Tue, 16 Nov 2021 06:18:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Nov 2021 10:21:43 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Pigs on the Wing (Part Two) (19 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+on+the+Wing+(Part+Two)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1637142515--ea60471e-ef13-4391-a86f-aa7d3e71309f---With Crippled Wings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9bbf12e63295dd8febbf8e759e8a6257.jpg" length="33771" type="image/jpeg"/>
       <pubDate>Wed, 17 Nov 2021 04:48:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lift to Experience - Waiting to Hit (1 play)</title>
+      <link>https://www.last.fm/music/Lift+to+Experience/_/Waiting+to+Hit</link>
+      <guid isPermaLink="false">Frippertron-1637143155--ea60471e-ef13-4391-a86f-aa7d3e71309f---Waiting to Hit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9bbf12e63295dd8febbf8e759e8a6257.jpg" length="33771" type="image/jpeg"/>
+      <pubDate>Wed, 17 Nov 2021 04:59:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
