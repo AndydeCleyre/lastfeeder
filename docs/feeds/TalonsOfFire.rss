@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Nov 2021 19:17:03 +0000</lastBuildDate>
-    <item>
-      <title>Beach House - Space Song (4 plays)</title>
-      <link>https://www.last.fm/music/Beach+House/_/Space+Song</link>
-      <guid isPermaLink="false">TalonsOfFire-1636567443--d5cc67b8-1cc4-453b-96e8-44487acdebea---Space Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/92ee7e4f3afdbe6a9a8c13a4a790baf1.png" length="147949" type="image/png"/>
-      <pubDate>Wed, 10 Nov 2021 13:04:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Toby Driver - N.G.H.4.M. (2 plays)</title>
-      <link>https://www.last.fm/music/Toby+Driver/_/N.G.H.4.M.</link>
-      <guid isPermaLink="false">TalonsOfFire-1636569028--Toby Driver---N.G.H.4.M.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54b049e40064364f4ddff69e3b1252f9.jpg" length="10521" type="image/jpeg"/>
-      <pubDate>Wed, 10 Nov 2021 13:30:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kayo Dot - Lost Souls On Lonesome's Way (10 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/Lost+Souls+On+Lonesome%27s+Way</link>
-      <guid isPermaLink="false">TalonsOfFire-1636569355--3979eee5-c72a-4b0a-9191-a0243881250a---Lost Souls On Lonesome's Way</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea0f1d0bd032bcd6bf4e7d64cb063397.jpg" length="12820" type="image/jpeg"/>
-      <pubDate>Wed, 10 Nov 2021 13:35:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Nov 2021 19:38:24 +0000</lastBuildDate>
     <item>
       <title>Kayo Dot - Turbine, Hook, and Haul (10 plays)</title>
       <link>https://www.last.fm/music/Kayo+Dot/_/Turbine,+Hook,+and+Haul</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">TalonsOfFire-1637262362--Gazpacho---The Walk Part II</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5514406f3a93e1d896cc68316c33dc0.jpg" length="11349" type="image/jpeg"/>
       <pubDate>Thu, 18 Nov 2021 14:06:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gazpacho - Tick Tock Part I (4 plays)</title>
+      <link>https://www.last.fm/music/Gazpacho/_/Tick+Tock+Part+I</link>
+      <guid isPermaLink="false">TalonsOfFire-1637262701--Gazpacho---Tick Tock Part I</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5514406f3a93e1d896cc68316c33dc0.jpg" length="11349" type="image/jpeg"/>
+      <pubDate>Thu, 18 Nov 2021 14:11:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gazpacho - Tick Tock Part II (3 plays)</title>
+      <link>https://www.last.fm/music/Gazpacho/_/Tick+Tock+Part+II</link>
+      <guid isPermaLink="false">TalonsOfFire-1637263138--Gazpacho---Tick Tock Part II</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5514406f3a93e1d896cc68316c33dc0.jpg" length="11349" type="image/jpeg"/>
+      <pubDate>Thu, 18 Nov 2021 14:18:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gazpacho - Tick Tock Part III (5 plays)</title>
+      <link>https://www.last.fm/music/Gazpacho/_/Tick+Tock+Part+III</link>
+      <guid isPermaLink="false">TalonsOfFire-1637263718--Gazpacho---Tick Tock Part III</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5514406f3a93e1d896cc68316c33dc0.jpg" length="11349" type="image/jpeg"/>
+      <pubDate>Thu, 18 Nov 2021 14:28:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
