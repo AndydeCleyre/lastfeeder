@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Nov 2021 10:42:47 +0000</lastBuildDate>
-    <item>
-      <title>Nocturnus - Undead Journey (1 play)</title>
-      <link>https://www.last.fm/music/Nocturnus/_/Undead+Journey</link>
-      <guid isPermaLink="false">Frippertron-1637211258--aad4ed41-4f1c-4388-a82d-dd7f03807d72---Undead Journey</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d6060750c96b0e9be9717652d617068.jpg" length="39442" type="image/jpeg"/>
-      <pubDate>Wed, 17 Nov 2021 23:54:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Nov 2021 10:54:27 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Arnold Layne (4 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Arnold+Layne</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1637231228--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Thu, 18 Nov 2021 05:27:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Pigs (Three Different Ones) (29 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+(Three+Different+Ones)</link>
+      <guid isPermaLink="false">Frippertron-1637232256--83d91898-7763-47d7-b03b-b92132375c47---Pigs (Three Different Ones)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Thu, 18 Nov 2021 05:44:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
