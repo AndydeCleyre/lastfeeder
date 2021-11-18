@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Nov 2021 18:25:31 +0000</lastBuildDate>
-    <item>
-      <title>Hammock - Overcast/Sorrow (3 plays)</title>
-      <link>https://www.last.fm/music/Hammock/_/Overcast%2FSorrow</link>
-      <guid isPermaLink="false">TalonsOfFire-1636562323--5b9d784c-33eb-4a78-a976-c97b672370fa---Overcast/Sorrow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7530b74f94c016eab4515c22d4f969c0.png" length="186430" type="image/png"/>
-      <pubDate>Wed, 10 Nov 2021 11:38:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sade - Paradise (3 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Paradise</link>
-      <guid isPermaLink="false">TalonsOfFire-1636562566--67930b3e-e00b-469f-8c74-fd69f20522ec---Paradise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07eeb2e2067914331c04ce47e13451ad.png" length="131923" type="image/png"/>
-      <pubDate>Wed, 10 Nov 2021 11:42:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jeremy Soule - Solstheim 10 (1 play)</title>
-      <link>https://www.last.fm/music/Jeremy+Soule/_/Solstheim+10</link>
-      <guid isPermaLink="false">TalonsOfFire-1636562923--Jeremy Soule---Solstheim 10</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/399ef9784c0d4311c3e958f7f6907369.jpg" length="25582" type="image/jpeg"/>
-      <pubDate>Wed, 10 Nov 2021 11:48:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Nov 2021 19:17:03 +0000</lastBuildDate>
     <item>
       <title>Beach House - Space Song (4 plays)</title>
       <link>https://www.last.fm/music/Beach+House/_/Space+Song</link>
@@ -187,6 +166,7 @@
       <title>Oceansize - Cloak (5 plays)</title>
       <link>https://www.last.fm/music/Oceansize/_/Cloak</link>
       <guid isPermaLink="false">TalonsOfFire-1636577914--c147b96e-3428-4604-9b6c-d931f980f684---Cloak</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ffb97ec9ae241f19f91367e7adbf7fe.jpg" length="26869" type="image/jpeg"/>
       <pubDate>Wed, 10 Nov 2021 15:58:34 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">TalonsOfFire-1636662634--d5cc67b8-1cc4-453b-96e8-44487acdebea---Days of Candy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/92ee7e4f3afdbe6a9a8c13a4a790baf1.png" length="147949" type="image/png"/>
       <pubDate>Thu, 11 Nov 2021 15:30:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gazpacho - Desert Flight (4 plays)</title>
+      <link>https://www.last.fm/music/Gazpacho/_/Desert+Flight</link>
+      <guid isPermaLink="false">TalonsOfFire-1637261420--Gazpacho---Desert Flight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5514406f3a93e1d896cc68316c33dc0.jpg" length="11349" type="image/jpeg"/>
+      <pubDate>Thu, 18 Nov 2021 13:50:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gazpacho - The Walk Part I (5 plays)</title>
+      <link>https://www.last.fm/music/Gazpacho/_/The+Walk+Part+I</link>
+      <guid isPermaLink="false">TalonsOfFire-1637261879--Gazpacho---The Walk Part I</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5514406f3a93e1d896cc68316c33dc0.jpg" length="11349" type="image/jpeg"/>
+      <pubDate>Thu, 18 Nov 2021 13:57:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gazpacho - The Walk Part II (4 plays)</title>
+      <link>https://www.last.fm/music/Gazpacho/_/The+Walk+Part+II</link>
+      <guid isPermaLink="false">TalonsOfFire-1637262362--Gazpacho---The Walk Part II</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5514406f3a93e1d896cc68316c33dc0.jpg" length="11349" type="image/jpeg"/>
+      <pubDate>Thu, 18 Nov 2021 14:06:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
