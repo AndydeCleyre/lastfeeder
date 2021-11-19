@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Nov 2021 19:39:23 +0000</lastBuildDate>
-    <item>
-      <title>First Fragment - Gloire éternelle (2 plays)</title>
-      <link>https://www.last.fm/music/First+Fragment/_/Gloire+%C3%A9ternelle</link>
-      <guid isPermaLink="false">WillieFisterbut-1637189570--906ece92-a4c2-4444-9e0d-48ee3ca1e601---Gloire éternelle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b77663dacfd947262b09e73d7cb6edad.jpg" length="28875" type="image/jpeg"/>
-      <pubDate>Wed, 17 Nov 2021 17:52:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Geese - Rain Dance (1 play)</title>
-      <link>https://www.last.fm/music/Geese/_/Rain+Dance</link>
-      <guid isPermaLink="false">WillieFisterbut-1637189999--e0c97a4d-c392-41a9-a374-57af3e3eeab3---Rain Dance</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0bd6bf9ed728683d24337b4b669e6e18.jpg" length="9928" type="image/jpeg"/>
-      <pubDate>Wed, 17 Nov 2021 17:59:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Geese - Low Era (1 play)</title>
-      <link>https://www.last.fm/music/Geese/_/Low+Era</link>
-      <guid isPermaLink="false">WillieFisterbut-1637190200--e0c97a4d-c392-41a9-a374-57af3e3eeab3---Low Era</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0bd6bf9ed728683d24337b4b669e6e18.jpg" length="9928" type="image/jpeg"/>
-      <pubDate>Wed, 17 Nov 2021 18:03:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Nov 2021 19:52:48 +0000</lastBuildDate>
     <item>
       <title>Ghost Bath - Convince Me to Bleed (1 play)</title>
       <link>https://www.last.fm/music/Ghost+Bath/_/Convince+Me+to+Bleed</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">WillieFisterbut-1637350296--Häxkapell---Tomhetens Lågor</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/636cb6343dd536fea5c67785bb842ca7.jpg" length="27434" type="image/jpeg"/>
       <pubDate>Fri, 19 Nov 2021 14:31:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Häxkapell - Eldskapt</title>
+      <link>https://www.last.fm/music/H%C3%A4xkapell/_/Eldskapt</link>
+      <guid isPermaLink="false">WillieFisterbut-1637350463--Häxkapell---Eldskapt</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/636cb6343dd536fea5c67785bb842ca7.jpg" length="27434" type="image/jpeg"/>
+      <pubDate>Fri, 19 Nov 2021 14:34:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Häxkapell - Askans Drottning</title>
+      <link>https://www.last.fm/music/H%C3%A4xkapell/_/Askans+Drottning</link>
+      <guid isPermaLink="false">WillieFisterbut-1637350875--Häxkapell---Askans Drottning</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/636cb6343dd536fea5c67785bb842ca7.jpg" length="27434" type="image/jpeg"/>
+      <pubDate>Fri, 19 Nov 2021 14:41:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Häxkapell - Ur Malströmmens Famn</title>
+      <link>https://www.last.fm/music/H%C3%A4xkapell/_/Ur+Malstr%C3%B6mmens+Famn</link>
+      <guid isPermaLink="false">WillieFisterbut-1637351162--Häxkapell---Ur Malströmmens Famn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/636cb6343dd536fea5c67785bb842ca7.jpg" length="27434" type="image/jpeg"/>
+      <pubDate>Fri, 19 Nov 2021 14:46:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
