@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Nov 2021 20:41:36 +0000</lastBuildDate>
-    <item>
-      <title>Circa Survive - Imposter Syndrome (1 play)</title>
-      <link>https://www.last.fm/music/Circa+Survive/_/Imposter+Syndrome</link>
-      <guid isPermaLink="false">lintmunro-1636232176--a2496a3c-8f42-4b98-b780-6f8d64f56441---Imposter Syndrome</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0aed023ef3b3e10a16767c2adedec584.jpg" length="29103" type="image/jpeg"/>
-      <pubDate>Sat, 06 Nov 2021 16:56:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Circa Survive - Drift (1 play)</title>
-      <link>https://www.last.fm/music/Circa+Survive/_/Drift</link>
-      <guid isPermaLink="false">lintmunro-1636232418--a2496a3c-8f42-4b98-b780-6f8d64f56441---Drift</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0aed023ef3b3e10a16767c2adedec584.jpg" length="29103" type="image/jpeg"/>
-      <pubDate>Sat, 06 Nov 2021 17:00:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Nov 2021 20:52:46 +0000</lastBuildDate>
     <item>
       <title>Circa Survive - Sleep Well (1 play)</title>
       <link>https://www.last.fm/music/Circa+Survive/_/Sleep+Well</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1637354020--aba64937-3334-4c65-90a1-4e6b9d4d7ada---Jazz Hands</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7368d276c5c472b869a7d3cc7170f72d.jpg" length="24262" type="image/jpeg"/>
       <pubDate>Fri, 19 Nov 2021 15:33:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Aesop Rock - Wolf Piss</title>
+      <link>https://www.last.fm/music/Aesop+Rock/_/Wolf+Piss</link>
+      <guid isPermaLink="false">lintmunro-1637354223--Aesop Rock---Wolf Piss</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7368d276c5c472b869a7d3cc7170f72d.jpg" length="24262" type="image/jpeg"/>
+      <pubDate>Fri, 19 Nov 2021 15:37:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Aesop Rock - Legerdemain</title>
+      <link>https://www.last.fm/music/Aesop+Rock/_/Legerdemain</link>
+      <guid isPermaLink="false">lintmunro-1637354731--Aesop Rock---Legerdemain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7368d276c5c472b869a7d3cc7170f72d.jpg" length="24262" type="image/jpeg"/>
+      <pubDate>Fri, 19 Nov 2021 15:45:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
