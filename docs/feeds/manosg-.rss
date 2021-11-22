@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Nov 2021 09:42:20 +0000</lastBuildDate>
-    <item>
-      <title>Rush - A Farewell to Kings (13 plays)</title>
-      <link>https://www.last.fm/music/Rush/_/A+Farewell+to+Kings</link>
-      <guid isPermaLink="false">manosg--1637080301--534ee493-bfac-4575-a44a-0ae41e2c3fe4---A Farewell to Kings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89563a50fde790d433b550ff08157ca4.jpg" length="26220" type="image/jpeg"/>
-      <pubDate>Tue, 16 Nov 2021 11:31:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rush - Xanadu (16 plays)</title>
-      <link>https://www.last.fm/music/Rush/_/Xanadu</link>
-      <guid isPermaLink="false">manosg--1637080653--534ee493-bfac-4575-a44a-0ae41e2c3fe4---Xanadu</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89563a50fde790d433b550ff08157ca4.jpg" length="26220" type="image/jpeg"/>
-      <pubDate>Tue, 16 Nov 2021 11:37:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 09:54:20 +0000</lastBuildDate>
     <item>
       <title>Rush - Closer to the Heart (14 plays)</title>
       <link>https://www.last.fm/music/Rush/_/Closer+to+the+Heart</link>
@@ -340,6 +326,20 @@
       <link>https://www.last.fm/music/Reinforcer/_/Coupe+De+Gr%C3%A2ce</link>
       <guid isPermaLink="false">manosg--1637573482--9a6a7949-e98e-4fdc-90af-a966c2496c3d---Coupe De Grâce</guid>
       <pubDate>Mon, 22 Nov 2021 04:31:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Reinforcer - Thou Shall Burn (1 play)</title>
+      <link>https://www.last.fm/music/Reinforcer/_/Thou+Shall+Burn</link>
+      <guid isPermaLink="false">manosg--1637574374--9a6a7949-e98e-4fdc-90af-a966c2496c3d---Thou Shall Burn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5415a1889e4594147197bb9197d02e7d.jpg" length="29685" type="image/jpeg"/>
+      <pubDate>Mon, 22 Nov 2021 04:46:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Reinforcer - Hand On Heart (1 play)</title>
+      <link>https://www.last.fm/music/Reinforcer/_/Hand+On+Heart</link>
+      <guid isPermaLink="false">manosg--1637574678--9a6a7949-e98e-4fdc-90af-a966c2496c3d---Hand On Heart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5415a1889e4594147197bb9197d02e7d.jpg" length="29685" type="image/jpeg"/>
+      <pubDate>Mon, 22 Nov 2021 04:51:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
