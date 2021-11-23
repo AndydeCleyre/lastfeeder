@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Nov 2021 10:42:48 +0000</lastBuildDate>
-    <item>
-      <title>Blackmore's Night - Self Portrait (12 plays)</title>
-      <link>https://www.last.fm/music/Blackmore%27s+Night/_/Self+Portrait</link>
-      <guid isPermaLink="false">manosg--1637337494--aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68---Self Portrait</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd16ac728e684cc8ccff2de9d1d1b023.jpg" length="30061" type="image/jpeg"/>
-      <pubDate>Fri, 19 Nov 2021 10:58:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rainbow - Catch the Rainbow (31 plays)</title>
-      <link>https://www.last.fm/music/Rainbow/_/Catch+the+Rainbow</link>
-      <guid isPermaLink="false">manosg--1637337796--Rainbow---Catch the Rainbow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/09628988f5ed4ec588978aab1ca70394.png" length="195780" type="image/png"/>
-      <pubDate>Fri, 19 Nov 2021 11:03:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 10:54:53 +0000</lastBuildDate>
     <item>
       <title>Rainbow - Rainbow Eyes (9 plays)</title>
       <link>https://www.last.fm/music/Rainbow/_/Rainbow+Eyes</link>
@@ -341,6 +327,20 @@
       <guid isPermaLink="false">manosg--1637663648--Portrait---Curtains (The Dumb Supper)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ae771f329d5b126d947a0152c149ceb.jpg" length="28644" type="image/jpeg"/>
       <pubDate>Tue, 23 Nov 2021 05:34:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Portrait - Phantom Fathomer (2 plays)</title>
+      <link>https://www.last.fm/music/Portrait/_/Phantom+Fathomer</link>
+      <guid isPermaLink="false">manosg--1637664078--Portrait---Phantom Fathomer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ae771f329d5b126d947a0152c149ceb.jpg" length="28644" type="image/jpeg"/>
+      <pubDate>Tue, 23 Nov 2021 05:41:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Portrait - He Who Stands (1 play)</title>
+      <link>https://www.last.fm/music/Portrait/_/He+Who+Stands</link>
+      <guid isPermaLink="false">manosg--1637664460--Portrait---He Who Stands</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ae771f329d5b126d947a0152c149ceb.jpg" length="28644" type="image/jpeg"/>
+      <pubDate>Tue, 23 Nov 2021 05:47:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
