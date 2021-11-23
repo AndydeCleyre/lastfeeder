@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Nov 2021 20:41:03 +0000</lastBuildDate>
-    <item>
-      <title>PUP - Waiting (1 play)</title>
-      <link>https://www.last.fm/music/PUP/_/Waiting</link>
-      <guid isPermaLink="false">lintmunro-1636586358--PUP---Waiting</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ac3b312813f150a8af9c06e664908f0.jpg" length="30684" type="image/jpeg"/>
-      <pubDate>Wed, 10 Nov 2021 18:19:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>PUP - Kill Something (1 play)</title>
-      <link>https://www.last.fm/music/PUP/_/Kill+Something</link>
-      <guid isPermaLink="false">lintmunro-1636586548--PUP---Kill Something</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ac3b312813f150a8af9c06e664908f0.jpg" length="30684" type="image/jpeg"/>
-      <pubDate>Wed, 10 Nov 2021 18:22:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 20:52:57 +0000</lastBuildDate>
     <item>
       <title>Bruno Mars - Silk Sonic Intro (1 play)</title>
       <link>https://www.last.fm/music/Bruno+Mars/_/Silk+Sonic+Intro</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1637699546--Dream Unending---Adorned In Lies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0da135575a811348efb07bcc305efbf.jpg" length="20805" type="image/jpeg"/>
       <pubDate>Tue, 23 Nov 2021 15:32:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dream Unending - In Cipher I Weep (1 play)</title>
+      <link>https://www.last.fm/music/Dream+Unending/_/In+Cipher+I+Weep</link>
+      <guid isPermaLink="false">lintmunro-1637699939--Dream Unending---In Cipher I Weep</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0da135575a811348efb07bcc305efbf.jpg" length="20805" type="image/jpeg"/>
+      <pubDate>Tue, 23 Nov 2021 15:38:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dream Unending - The Needful</title>
+      <link>https://www.last.fm/music/Dream+Unending/_/The+Needful</link>
+      <guid isPermaLink="false">lintmunro-1637700415--Dream Unending---The Needful</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0da135575a811348efb07bcc305efbf.jpg" length="20805" type="image/jpeg"/>
+      <pubDate>Tue, 23 Nov 2021 15:46:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
