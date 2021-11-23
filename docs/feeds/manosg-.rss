@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Nov 2021 08:23:29 +0000</lastBuildDate>
-    <item>
-      <title>Blackmore's Night - March The Heroes Home (13 plays)</title>
-      <link>https://www.last.fm/music/Blackmore%27s+Night/_/March+The+Heroes+Home</link>
-      <guid isPermaLink="false">manosg--1637336172--aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68---March The Heroes Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd16ac728e684cc8ccff2de9d1d1b023.jpg" length="30061" type="image/jpeg"/>
-      <pubDate>Fri, 19 Nov 2021 10:36:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 08:44:31 +0000</lastBuildDate>
     <item>
       <title>Blackmore's Night - Spanish Nights (I Remember It Well) (15 plays)</title>
       <link>https://www.last.fm/music/Blackmore%27s+Night/_/Spanish+Nights+(I+Remember+It+Well)</link>
@@ -64,7 +57,7 @@
       <pubDate>Fri, 19 Nov 2021 11:03:16 -0500</pubDate>
     </item>
     <item>
-      <title>Rainbow - Rainbow Eyes (9 plays)</title>
+      <title>Rainbow - Rainbow Eyes</title>
       <link>https://www.last.fm/music/Rainbow/_/Rainbow+Eyes</link>
       <guid isPermaLink="false">manosg--1637338267--Rainbow---Rainbow Eyes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/191c625b70ab55ddd850f86cf77b431a.jpg" length="19813" type="image/jpeg"/>
@@ -268,7 +261,7 @@
       <pubDate>Mon, 22 Nov 2021 06:11:26 -0500</pubDate>
     </item>
     <item>
-      <title>Solomon Kane - God Save Rock And Roll (2 plays)</title>
+      <title>Solomon Kane - God Save Rock And Roll</title>
       <link>https://www.last.fm/music/Solomon+Kane/_/God+Save+Rock+And+Roll</link>
       <guid isPermaLink="false">manosg--1637579881--Solomon Kane---God Save Rock And Roll</guid>
       <pubDate>Mon, 22 Nov 2021 06:18:01 -0500</pubDate>
@@ -340,6 +333,13 @@
       <guid isPermaLink="false">manosg--1637655453--0d8b0d50-e4cf-4da4-965d-f24c58ec3268---Something About You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c88c27c1882542ae880ac063af38d647.png" length="205394" type="image/png"/>
       <pubDate>Tue, 23 Nov 2021 03:17:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Boston - Let Me Take You Home Tonight (5 plays)</title>
+      <link>https://www.last.fm/music/Boston/_/Let+Me+Take+You+Home+Tonight</link>
+      <guid isPermaLink="false">manosg--1637655686--0d8b0d50-e4cf-4da4-965d-f24c58ec3268---Let Me Take You Home Tonight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c88c27c1882542ae880ac063af38d647.png" length="205394" type="image/png"/>
+      <pubDate>Tue, 23 Nov 2021 03:21:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
