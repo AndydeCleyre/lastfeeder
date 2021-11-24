@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Nov 2021 10:42:59 +0000</lastBuildDate>
-    <item>
-      <title>Boston - Rock &amp; Roll Band (3 plays)</title>
-      <link>https://www.last.fm/music/Boston/_/Rock+&amp;+Roll+Band</link>
-      <guid isPermaLink="false">manosg--1637652648--0d8b0d50-e4cf-4da4-965d-f24c58ec3268---Rock &amp; Roll Band</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c88c27c1882542ae880ac063af38d647.png" length="205394" type="image/png"/>
-      <pubDate>Tue, 23 Nov 2021 02:30:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 10:54:25 +0000</lastBuildDate>
     <item>
       <title>Boston - Smokin' (5 plays)</title>
       <link>https://www.last.fm/music/Boston/_/Smokin%27</link>
@@ -353,6 +346,13 @@
       <guid isPermaLink="false">manosg--1637750310--Dissection---Night's Blood</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aae45461b746bab9bf69ac08438bc4e2.jpg" length="36313" type="image/jpeg"/>
       <pubDate>Wed, 24 Nov 2021 05:38:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dissection - Unhallowed (1 play)</title>
+      <link>https://www.last.fm/music/Dissection/_/Unhallowed</link>
+      <guid isPermaLink="false">manosg--1637750712--Dissection---Unhallowed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aae45461b746bab9bf69ac08438bc4e2.jpg" length="36313" type="image/jpeg"/>
+      <pubDate>Wed, 24 Nov 2021 05:45:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
