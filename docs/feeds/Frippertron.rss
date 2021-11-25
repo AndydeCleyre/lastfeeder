@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Nov 2021 05:38:17 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - You've Been Around (38 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/You%27ve+Been+Around</link>
-      <guid isPermaLink="false">Frippertron-1637659259--5441c29d-3602-4898-b1a1-b77fa23b8e50---You've Been Around</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b3ff296ade87980c7bb9d6aede6fc16.png" length="194085" type="image/png"/>
-      <pubDate>Tue, 23 Nov 2021 04:20:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 05:52:16 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Jump They Say (28 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Jump+They+Say</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1637818408--Come September---Looking For Lili Marlene</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
       <pubDate>Thu, 25 Nov 2021 00:33:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - O Salome (211 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/O+Salome</link>
+      <guid isPermaLink="false">Frippertron-1637818856--66f8692c-966d-4dfb-a2ed-babf51241922---O Salome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017073b2445e401daebeae96368f1365.jpg" length="20967" type="image/jpeg"/>
+      <pubDate>Thu, 25 Nov 2021 00:40:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
