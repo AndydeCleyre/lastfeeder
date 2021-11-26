@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Nov 2021 20:20:40 +0000</lastBuildDate>
-    <item>
-      <title>The Birthday Massacre - Lovers End (52 plays)</title>
-      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Lovers+End</link>
-      <guid isPermaLink="false">WillieFisterbut-1637756892--83d8a06a-4145-444a-b4ae-49e1e986206f---Lovers End</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bedeb16d5794dc8cdd2c2fcaa388526.png" length="98325" type="image/png"/>
-      <pubDate>Wed, 24 Nov 2021 07:28:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Birthday Massacre - Happy Birthday (36 plays)</title>
-      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Happy+Birthday</link>
-      <guid isPermaLink="false">WillieFisterbut-1637757111--83d8a06a-4145-444a-b4ae-49e1e986206f---Happy Birthday</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bedeb16d5794dc8cdd2c2fcaa388526.png" length="98325" type="image/png"/>
-      <pubDate>Wed, 24 Nov 2021 07:31:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Nov 2021 20:40:56 +0000</lastBuildDate>
     <item>
       <title>The Birthday Massacre - Blue (50 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Blue</link>
@@ -345,18 +331,32 @@
       <pubDate>Fri, 26 Nov 2021 14:44:25 -0500</pubDate>
     </item>
     <item>
-      <title>Converge &amp; Chelsea Wolfe - Blood Moon (2 plays)</title>
+      <title>Converge &amp; Chelsea Wolfe - Blood Moon (3 plays)</title>
       <link>https://www.last.fm/music/Converge+&amp;+Chelsea+Wolfe/_/Blood+Moon</link>
       <guid isPermaLink="false">WillieFisterbut-1637957227--fa31e7d4-a03a-4110-98fc-f8826e95ec25---Blood Moon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d55a9a6f9e4d5c2ce893e3a34acffa52.png" length="258027" type="image/png"/>
       <pubDate>Fri, 26 Nov 2021 15:07:07 -0500</pubDate>
     </item>
     <item>
-      <title>Converge &amp; Chelsea Wolfe - Viscera of Men</title>
+      <title>Converge &amp; Chelsea Wolfe - Viscera of Men (1 play)</title>
       <link>https://www.last.fm/music/Converge+&amp;+Chelsea+Wolfe/_/Viscera+of+Men</link>
       <guid isPermaLink="false">WillieFisterbut-1637957272--fa31e7d4-a03a-4110-98fc-f8826e95ec25---Viscera of Men</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d55a9a6f9e4d5c2ce893e3a34acffa52.png" length="258027" type="image/png"/>
       <pubDate>Fri, 26 Nov 2021 15:07:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Converge &amp; Chelsea Wolfe - Coil</title>
+      <link>https://www.last.fm/music/Converge+&amp;+Chelsea+Wolfe/_/Coil</link>
+      <guid isPermaLink="false">WillieFisterbut-1637958496--fa31e7d4-a03a-4110-98fc-f8826e95ec25---Coil</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d55a9a6f9e4d5c2ce893e3a34acffa52.png" length="258027" type="image/png"/>
+      <pubDate>Fri, 26 Nov 2021 15:28:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Converge &amp; Chelsea Wolfe - Flower Moon</title>
+      <link>https://www.last.fm/music/Converge+&amp;+Chelsea+Wolfe/_/Flower+Moon</link>
+      <guid isPermaLink="false">WillieFisterbut-1637959066--fa31e7d4-a03a-4110-98fc-f8826e95ec25---Flower Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d55a9a6f9e4d5c2ce893e3a34acffa52.png" length="258027" type="image/png"/>
+      <pubDate>Fri, 26 Nov 2021 15:37:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
