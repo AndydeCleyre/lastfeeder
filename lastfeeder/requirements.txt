@@ -51,7 +51,7 @@ sniffio==1.2.0
     #   anyio
     #   httpcore
     #   httpx
-structlog==21.3.0
+structlog==21.4.0
     # via -r requirements.in
 tzdata==2021.5
     # via pytz-deprecation-shim
