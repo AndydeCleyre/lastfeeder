@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Nov 2021 17:37:23 +0000</lastBuildDate>
-    <item>
-      <title>Device - Vilify (17 plays)</title>
-      <link>https://www.last.fm/music/Device/_/Vilify</link>
-      <guid isPermaLink="false">WillieFisterbut-1637467249--4cb2d637-7172-4532-9589-e208aa60b986---Vilify</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f4ffa7b6e3b4406943e2898ddb58321.png" length="158081" type="image/png"/>
-      <pubDate>Sat, 20 Nov 2021 23:00:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Disturbed - Stupify (6 plays)</title>
-      <link>https://www.last.fm/music/Disturbed/_/Stupify</link>
-      <guid isPermaLink="false">WillieFisterbut-1637467959--Disturbed---Stupify</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61b929a6ca07482ba86ee85bd6fbe4a6.png" length="185756" type="image/png"/>
-      <pubDate>Sat, 20 Nov 2021 23:12:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Nov 2021 17:52:26 +0000</lastBuildDate>
     <item>
       <title>Draconian - Seasons Apart (22 plays)</title>
       <link>https://www.last.fm/music/Draconian/_/Seasons+Apart</link>
@@ -352,11 +338,25 @@
       <pubDate>Fri, 26 Nov 2021 12:27:00 -0500</pubDate>
     </item>
     <item>
-      <title>Voices - My Sick Mind (6 plays)</title>
+      <title>Voices - My Sick Mind (7 plays)</title>
       <link>https://www.last.fm/music/Voices/_/My+Sick+Mind</link>
       <guid isPermaLink="false">WillieFisterbut-1637947886--Voices---My Sick Mind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f6d0e6fe99135b1d5dc648e444c129e0.jpg" length="26309" type="image/jpeg"/>
       <pubDate>Fri, 26 Nov 2021 12:31:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Voices - Whispers (6 plays)</title>
+      <link>https://www.last.fm/music/Voices/_/Whispers</link>
+      <guid isPermaLink="false">WillieFisterbut-1637948032--Voices---Whispers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f6d0e6fe99135b1d5dc648e444c129e0.jpg" length="26309" type="image/jpeg"/>
+      <pubDate>Fri, 26 Nov 2021 12:33:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Voices - The Widower (6 plays)</title>
+      <link>https://www.last.fm/music/Voices/_/The+Widower</link>
+      <guid isPermaLink="false">WillieFisterbut-1637948309--Voices---The Widower</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f6d0e6fe99135b1d5dc648e444c129e0.jpg" length="26309" type="image/jpeg"/>
+      <pubDate>Fri, 26 Nov 2021 12:38:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
