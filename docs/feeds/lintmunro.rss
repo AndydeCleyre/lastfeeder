@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Nov 2021 16:31:36 +0000</lastBuildDate>
-    <item>
-      <title>Aesop Rock - Legerdemain (1 play)</title>
-      <link>https://www.last.fm/music/Aesop+Rock/_/Legerdemain</link>
-      <guid isPermaLink="false">lintmunro-1637354731--Aesop Rock---Legerdemain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7368d276c5c472b869a7d3cc7170f72d.jpg" length="24262" type="image/jpeg"/>
-      <pubDate>Fri, 19 Nov 2021 15:45:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Nov 2021 03:54:35 +0000</lastBuildDate>
     <item>
       <title>Aesop Rock - Difficult (1 play)</title>
       <link>https://www.last.fm/music/Aesop+Rock/_/Difficult</link>
@@ -306,6 +299,7 @@
       <title>Converge - Coil (1 play)</title>
       <link>https://www.last.fm/music/Converge/_/Coil</link>
       <guid isPermaLink="false">lintmunro-1637954955--Converge---Coil</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5ee4d03cf1557f542e7891b9e04d822b.png" length="258027" type="image/png"/>
       <pubDate>Fri, 26 Nov 2021 14:29:15 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1638029335--12ece37d-6cd1-436a-a995-11bba0b4c6f6---Une Couronne de Branches</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/482ac2b97e2e2875bfb7000bc4ce58b1.jpg" length="22111" type="image/jpeg"/>
       <pubDate>Sat, 27 Nov 2021 11:08:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cân Bardd - Devoured by the Oak, Pt. 1 (1 play)</title>
+      <link>https://www.last.fm/music/C%C3%A2n+Bardd/_/Devoured+by+the+Oak,+Pt.+1</link>
+      <guid isPermaLink="false">lintmunro-1638029966--Cân Bardd---Devoured by the Oak, Pt. 1</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/482ac2b97e2e2875bfb7000bc4ce58b1.jpg" length="22111" type="image/jpeg"/>
+      <pubDate>Sat, 27 Nov 2021 11:19:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
