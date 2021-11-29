@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Nov 2021 07:38:20 +0000</lastBuildDate>
-    <item>
-      <title>Be Bop Deluxe - Sister Seagull (1 play)</title>
-      <link>https://www.last.fm/music/Be+Bop+Deluxe/_/Sister+Seagull</link>
-      <guid isPermaLink="false">Frippertron-1637666457--96742ec2-b733-4ac6-b493-7e056a43b357---Sister Seagull</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/274b693d85cd4960b09a9c99d1b3bfbe.png" length="119290" type="image/png"/>
-      <pubDate>Tue, 23 Nov 2021 06:20:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Nov 2021 03:54:27 +0000</lastBuildDate>
     <item>
       <title>Be Bop Deluxe - Sound Track (1 play)</title>
       <link>https://www.last.fm/music/Be+Bop+Deluxe/_/Sound+Track</link>
@@ -121,7 +114,7 @@
       <pubDate>Wed, 24 Nov 2021 22:52:47 -0500</pubDate>
     </item>
     <item>
-      <title>Leonard Cohen - Avalanche (17 plays)</title>
+      <title>Leonard Cohen - Avalanche (18 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Avalanche</link>
       <guid isPermaLink="false">Frippertron-1637812622--65314b12-0e08-43fa-ba33-baaa7b874c15---Avalanche</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7302c340808cb4dbcc5f0bd026f84d4a.png" length="70907" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1637825030--c194b3fa-d1f4-450a-8ae8-c005c68a42d9---Cauldron</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60f408b9504d2e0ea8cda2a3698f3b68.jpg" length="35334" type="image/jpeg"/>
       <pubDate>Thu, 25 Nov 2021 02:23:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Avalanche (18 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Avalanche</link>
+      <guid isPermaLink="false">Frippertron-1638157593--65314b12-0e08-43fa-ba33-baaa7b874c15---Avalanche</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7302c340808cb4dbcc5f0bd026f84d4a.png" length="70907" type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 22:46:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
