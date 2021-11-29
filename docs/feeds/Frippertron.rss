@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Nov 2021 05:18:23 +0000</lastBuildDate>
-    <item>
-      <title>Be Bop Deluxe - Crystal Gazing (2 plays)</title>
-      <link>https://www.last.fm/music/Be+Bop+Deluxe/_/Crystal+Gazing</link>
-      <guid isPermaLink="false">Frippertron-1637812088--96742ec2-b733-4ac6-b493-7e056a43b357---Crystal Gazing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e01d838e48a7af3484dac1a3197e04c.jpg" length="15196" type="image/jpeg"/>
-      <pubDate>Wed, 24 Nov 2021 22:48:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>Be Bop Deluxe - Blazing Apostles (2 plays)</title>
-      <link>https://www.last.fm/music/Be+Bop+Deluxe/_/Blazing+Apostles</link>
-      <guid isPermaLink="false">Frippertron-1637812367--96742ec2-b733-4ac6-b493-7e056a43b357---Blazing Apostles</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e01d838e48a7af3484dac1a3197e04c.jpg" length="15196" type="image/jpeg"/>
-      <pubDate>Wed, 24 Nov 2021 22:52:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Leonard Cohen - Avalanche (18 plays)</title>
-      <link>https://www.last.fm/music/Leonard+Cohen/_/Avalanche</link>
-      <guid isPermaLink="false">Frippertron-1637812622--65314b12-0e08-43fa-ba33-baaa7b874c15---Avalanche</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7302c340808cb4dbcc5f0bd026f84d4a.png" length="70907" type="image/png"/>
-      <pubDate>Wed, 24 Nov 2021 22:57:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Leonard Cohen - Last Year's Man (9 plays)</title>
-      <link>https://www.last.fm/music/Leonard+Cohen/_/Last+Year%27s+Man</link>
-      <guid isPermaLink="false">Frippertron-1637812927--65314b12-0e08-43fa-ba33-baaa7b874c15---Last Year's Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7302c340808cb4dbcc5f0bd026f84d4a.png" length="70907" type="image/png"/>
-      <pubDate>Wed, 24 Nov 2021 23:02:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Nov 2021 05:38:25 +0000</lastBuildDate>
     <item>
       <title>Leonard Cohen - Dress Rehearsal Rag (11 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Dress+Rehearsal+Rag</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1638162187--5441c29d-3602-4898-b1a1-b77fa23b8e50---Miracle Goodnight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b3ff296ade87980c7bb9d6aede6fc16.png" length="194085" type="image/png"/>
       <pubDate>Mon, 29 Nov 2021 00:03:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Colour Field - Thinking of You (1 play)</title>
+      <link>https://www.last.fm/music/The+Colour+Field/_/Thinking+of+You</link>
+      <guid isPermaLink="false">Frippertron-1638163242--The Colour Field---Thinking of You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de2eb7e88cf4b969da0ab428c8f7245.jpg" length="32706" type="image/jpeg"/>
+      <pubDate>Mon, 29 Nov 2021 00:20:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Colour Field - Faint Hearts (1 play)</title>
+      <link>https://www.last.fm/music/The+Colour+Field/_/Faint+Hearts</link>
+      <guid isPermaLink="false">Frippertron-1638163453--The Colour Field---Faint Hearts</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de2eb7e88cf4b969da0ab428c8f7245.jpg" length="32706" type="image/jpeg"/>
+      <pubDate>Mon, 29 Nov 2021 00:24:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Colour Field - Castles in the Air (1 play)</title>
+      <link>https://www.last.fm/music/The+Colour+Field/_/Castles+in+the+Air</link>
+      <guid isPermaLink="false">Frippertron-1638163715--The Colour Field---Castles in the Air</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de2eb7e88cf4b969da0ab428c8f7245.jpg" length="32706" type="image/jpeg"/>
+      <pubDate>Mon, 29 Nov 2021 00:28:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Colour Field - Take (1 play)</title>
+      <link>https://www.last.fm/music/The+Colour+Field/_/Take</link>
+      <guid isPermaLink="false">Frippertron-1638163939--The Colour Field---Take</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de2eb7e88cf4b969da0ab428c8f7245.jpg" length="32706" type="image/jpeg"/>
+      <pubDate>Mon, 29 Nov 2021 00:32:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
