@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Nov 2021 04:43:54 +0000</lastBuildDate>
-    <item>
-      <title>Mahavishnu Orchestra - Vision Is A Naked Sword (6 plays)</title>
-      <link>https://www.last.fm/music/Mahavishnu+Orchestra/_/Vision+Is+A+Naked+Sword</link>
-      <guid isPermaLink="false">Frippertron-1638166011--a2be74f5-0735-46f7-a295-7e41aab30029---Vision Is A Naked Sword</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a7fb5a6e48242a1c2e0ba6beaf417bd.png" length="191789" type="image/png"/>
-      <pubDate>Mon, 29 Nov 2021 01:06:51 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - O Salome (212 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/O+Salome</link>
-      <guid isPermaLink="false">Frippertron-1638166492--66f8692c-966d-4dfb-a2ed-babf51241922---O Salome</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017073b2445e401daebeae96368f1365.jpg" length="20967" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 01:14:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Nov 2021 04:55:38 +0000</lastBuildDate>
     <item>
       <title>The Kinks - David Watts (4 plays)</title>
       <link>https://www.last.fm/music/The+Kinks/_/David+Watts</link>
@@ -191,7 +177,7 @@
       <pubDate>Mon, 29 Nov 2021 04:37:16 -0500</pubDate>
     </item>
     <item>
-      <title>Come September - Truth Drug (54 plays)</title>
+      <title>Come September - Truth Drug (55 plays)</title>
       <link>https://www.last.fm/music/Come+September/_/Truth+Drug</link>
       <guid isPermaLink="false">Frippertron-1638178893--Come September---Truth Drug</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1638247132--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Contronatura</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
       <pubDate>Mon, 29 Nov 2021 23:38:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Come September - Realisation (55 plays)</title>
+      <link>https://www.last.fm/music/Come+September/_/Realisation</link>
+      <guid isPermaLink="false">Frippertron-1638247689--Come September---Realisation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
+      <pubDate>Mon, 29 Nov 2021 23:48:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Come September - Truth Drug (55 plays)</title>
+      <link>https://www.last.fm/music/Come+September/_/Truth+Drug</link>
+      <guid isPermaLink="false">Frippertron-1638247901--Come September---Truth Drug</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
+      <pubDate>Mon, 29 Nov 2021 23:51:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
