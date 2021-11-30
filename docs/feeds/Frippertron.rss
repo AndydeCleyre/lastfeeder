@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Nov 2021 08:38:56 +0000</lastBuildDate>
-    <item>
-      <title>Talking Heads - Pull Up the Roots (46 plays)</title>
-      <link>https://www.last.fm/music/Talking+Heads/_/Pull+Up+the+Roots</link>
-      <guid isPermaLink="false">Frippertron-1638182092--a94a7155-c79d-4409-9fcf-220cb0e4dc3a---Pull Up the Roots</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/141fd517ba5d40838d21f82bb9b26149.png" length="180584" type="image/png"/>
-      <pubDate>Mon, 29 Nov 2021 05:34:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>Talking Heads - This Must Be the Place (Naive Melody) (33 plays)</title>
-      <link>https://www.last.fm/music/Talking+Heads/_/This+Must+Be+the+Place+(Naive+Melody)</link>
-      <guid isPermaLink="false">Frippertron-1638182403--a94a7155-c79d-4409-9fcf-220cb0e4dc3a---This Must Be the Place (Naive Melody)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/141fd517ba5d40838d21f82bb9b26149.png" length="180584" type="image/png"/>
-      <pubDate>Mon, 29 Nov 2021 05:40:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Nov 2021 08:52:47 +0000</lastBuildDate>
     <item>
       <title>black midi - Ascending Forth (32 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Ascending+Forth</link>
@@ -261,7 +247,7 @@
       <pubDate>Tue, 30 Nov 2021 01:20:16 -0500</pubDate>
     </item>
     <item>
-      <title>David Bowie - Suffragette City (103 plays)</title>
+      <title>David Bowie - Suffragette City</title>
       <link>https://www.last.fm/music/David+Bowie/_/Suffragette+City</link>
       <guid isPermaLink="false">Frippertron-1638253548--5441c29d-3602-4898-b1a1-b77fa23b8e50---Suffragette City</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72e23c71356267cfe01db589cf37083b.jpg" length="19834" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1638261289--66f8692c-966d-4dfb-a2ed-babf51241922---Raindown</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
       <pubDate>Tue, 30 Nov 2021 03:34:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - The Fool... The Falling Tower (28 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/The+Fool...+The+Falling+Tower</link>
+      <guid isPermaLink="false">Frippertron-1638261663--66f8692c-966d-4dfb-a2ed-babf51241922---The Fool... The Falling Tower</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5305dde9b0904b058a224a8e5bff278a.jpg" length="14030" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 03:41:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Death, the Reaper (30 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Death,+the+Reaper</link>
+      <guid isPermaLink="false">Frippertron-1638262041--66f8692c-966d-4dfb-a2ed-babf51241922---Death, the Reaper</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5305dde9b0904b058a224a8e5bff278a.jpg" length="14030" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 03:47:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
