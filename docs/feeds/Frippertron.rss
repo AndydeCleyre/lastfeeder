@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Nov 2021 09:16:20 +0000</lastBuildDate>
-    <item>
-      <title>Talking Heads - Cities (104 plays)</title>
-      <link>https://www.last.fm/music/Talking+Heads/_/Cities</link>
-      <guid isPermaLink="false">Frippertron-1638243159--a94a7155-c79d-4409-9fcf-220cb0e4dc3a---Cities</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3d95ddef6f60080e68028629a8eb154.png" length="88763" type="image/png"/>
-      <pubDate>Mon, 29 Nov 2021 22:32:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Talking Heads - Life During Wartime (128 plays)</title>
-      <link>https://www.last.fm/music/Talking+Heads/_/Life+During+Wartime</link>
-      <guid isPermaLink="false">Frippertron-1638243417--a94a7155-c79d-4409-9fcf-220cb0e4dc3a---Life During Wartime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3d95ddef6f60080e68028629a8eb154.png" length="88763" type="image/png"/>
-      <pubDate>Mon, 29 Nov 2021 22:36:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Nov 2021 09:37:37 +0000</lastBuildDate>
     <item>
       <title>Stereolab - Brakhage (7 plays)</title>
       <link>https://www.last.fm/music/Stereolab/_/Brakhage</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1638263153--66f8692c-966d-4dfb-a2ed-babf51241922---The Last Judgement</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5305dde9b0904b058a224a8e5bff278a.jpg" length="14030" type="image/jpeg"/>
       <pubDate>Tue, 30 Nov 2021 04:05:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - In the Region of the Summer Stars (109 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/In+the+Region+of+the+Summer+Stars</link>
+      <guid isPermaLink="false">Frippertron-1638263645--66f8692c-966d-4dfb-a2ed-babf51241922---In the Region of the Summer Stars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5305dde9b0904b058a224a8e5bff278a.jpg" length="14030" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 04:14:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Something Like Elvis - Foam (1 play)</title>
+      <link>https://www.last.fm/music/Something+Like+Elvis/_/Foam</link>
+      <guid isPermaLink="false">Frippertron-1638264730--Something Like Elvis---Foam</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab36021a5b47dee4cbf31ae3cfcae7ce.jpg" length="19687" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 04:32:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
