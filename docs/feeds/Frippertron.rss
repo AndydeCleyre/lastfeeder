@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Dec 2021 05:38:41 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Stay (195 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
-      <guid isPermaLink="false">Frippertron-1638255617--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4705e8849b906c02eddd1ef8a0b49bee.jpg" length="18745" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 02:00:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - TVC 15 (100 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/TVC+15</link>
-      <guid isPermaLink="false">Frippertron-1638256067--5441c29d-3602-4898-b1a1-b77fa23b8e50---TVC 15</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4705e8849b906c02eddd1ef8a0b49bee.jpg" length="18745" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 02:07:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Furniture - Shake Like Judy Says (1 play)</title>
-      <link>https://www.last.fm/music/Furniture/_/Shake+Like+Judy+Says</link>
-      <guid isPermaLink="false">Frippertron-1638260102--8d23830f-8c5f-4833-a0e5-1f718a160cce---Shake Like Judy Says</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56291dc0904f42deb43f29e8cf9f143a.jpg" length="30959" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 03:15:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Dec 2021 05:52:34 +0000</lastBuildDate>
     <item>
       <title>The Enid - Golden Earrings (96 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Golden+Earrings</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1638336554--66f8692c-966d-4dfb-a2ed-babf51241922---Something Wicked This Way Comes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c59244f6b6814f839d31ac58b247c474.jpg" length="17301" type="image/jpeg"/>
       <pubDate>Wed, 01 Dec 2021 00:29:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Manic Street Preachers - Faster (52 plays)</title>
+      <link>https://www.last.fm/music/Manic+Street+Preachers/_/Faster</link>
+      <guid isPermaLink="false">Frippertron-1638337136--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---Faster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/043da116d0804617c657c5bd6089ddad.png" length="104339" type="image/png"/>
+      <pubDate>Wed, 01 Dec 2021 00:38:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - John Hell (3 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/John+Hell</link>
+      <guid isPermaLink="false">Frippertron-1638337388--black midi---John Hell</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d3ec7c5444ca893224cbb6e76202847.jpg" length="39853" type="image/jpeg"/>
+      <pubDate>Wed, 01 Dec 2021 00:43:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Chondromalacia Patella (19 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Chondromalacia+Patella</link>
+      <guid isPermaLink="false">Frippertron-1638337671--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Chondromalacia Patella</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d3ec7c5444ca893224cbb6e76202847.jpg" length="39853" type="image/jpeg"/>
+      <pubDate>Wed, 01 Dec 2021 00:47:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
