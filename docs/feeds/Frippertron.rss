@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Dec 2021 06:28:50 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - The Lovers (84 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/The+Lovers</link>
-      <guid isPermaLink="false">Frippertron-1638262286--66f8692c-966d-4dfb-a2ed-babf51241922---The Lovers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5305dde9b0904b058a224a8e5bff278a.jpg" length="14030" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 03:51:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - The Devil (51 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/The+Devil</link>
-      <guid isPermaLink="false">Frippertron-1638262607--66f8692c-966d-4dfb-a2ed-babf51241922---The Devil</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5305dde9b0904b058a224a8e5bff278a.jpg" length="14030" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 03:56:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Dec 2021 06:49:06 +0000</lastBuildDate>
     <item>
       <title>The Enid - The Sun (40 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/The+Sun</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1638339931--954d6bf4-97bb-48c2-bf30-6ade90e4b5fe---Double Brin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d4961c2d33b4e64cef9581bd1ce7562.jpg" length="24324" type="image/jpeg"/>
       <pubDate>Wed, 01 Dec 2021 01:25:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chrislo - 2 cv d'o. (1 play)</title>
+      <link>https://www.last.fm/music/Chrislo/_/2+cv+d%27o.</link>
+      <guid isPermaLink="false">Frippertron-1638340287--954d6bf4-97bb-48c2-bf30-6ade90e4b5fe---2 cv d'o.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d4961c2d33b4e64cef9581bd1ce7562.jpg" length="24324" type="image/jpeg"/>
+      <pubDate>Wed, 01 Dec 2021 01:31:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chrislo - Gromelo (1 play)</title>
+      <link>https://www.last.fm/music/Chrislo/_/Gromelo</link>
+      <guid isPermaLink="false">Frippertron-1638340570--954d6bf4-97bb-48c2-bf30-6ade90e4b5fe---Gromelo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d4961c2d33b4e64cef9581bd1ce7562.jpg" length="24324" type="image/jpeg"/>
+      <pubDate>Wed, 01 Dec 2021 01:36:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
