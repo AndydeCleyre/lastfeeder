@@ -7,160 +7,41 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Nov 2021 23:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 15:25:49 +0000</lastBuildDate>
     <item>
-      <title>Starset - THE BREACH (1 play)</title>
-      <link>https://www.last.fm/music/Starset/_/THE+BREACH</link>
-      <guid isPermaLink="false">WillieFisterbut-1638218725--edf078bd-ab50-477a-9e3d-f4c0c1d3470b---THE BREACH</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd9545d0473210c2a99a2d0e27f082c0.png" length="127019" type="image/png"/>
-      <pubDate>Mon, 29 Nov 2021 15:45:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Starset - OTHERWORLDLY (1 play)</title>
-      <link>https://www.last.fm/music/Starset/_/OTHERWORLDLY</link>
-      <guid isPermaLink="false">WillieFisterbut-1638218986--edf078bd-ab50-477a-9e3d-f4c0c1d3470b---OTHERWORLDLY</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd9545d0473210c2a99a2d0e27f082c0.png" length="127019" type="image/png"/>
-      <pubDate>Mon, 29 Nov 2021 15:49:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Spirit Breaker - Stardust Memory (1 play)</title>
-      <link>https://www.last.fm/music/Spirit+Breaker/_/Stardust+Memory</link>
-      <guid isPermaLink="false">WillieFisterbut-1638219248--Spirit Breaker---Stardust Memory</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a514b8792c4680797f1192ed341b90aa.jpg" length="24252" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 15:54:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>Slow Crush - Drown (1 play)</title>
-      <link>https://www.last.fm/music/Slow+Crush/_/Drown</link>
-      <guid isPermaLink="false">WillieFisterbut-1638219848--7196f17e-a84b-4805-b623-7fc899f96334---Drown</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbf86e7dc0280837922843433b59ec22.jpg" length="23317" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 16:04:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>Slow Crush - Blue (1 play)</title>
-      <link>https://www.last.fm/music/Slow+Crush/_/Blue</link>
-      <guid isPermaLink="false">WillieFisterbut-1638220054--7196f17e-a84b-4805-b623-7fc899f96334---Blue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbf86e7dc0280837922843433b59ec22.jpg" length="23317" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 16:07:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Slow Crush - Swoon (1 play)</title>
-      <link>https://www.last.fm/music/Slow+Crush/_/Swoon</link>
-      <guid isPermaLink="false">WillieFisterbut-1638220300--7196f17e-a84b-4805-b623-7fc899f96334---Swoon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbf86e7dc0280837922843433b59ec22.jpg" length="23317" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 16:11:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sleep Token - Atlantic (1 play)</title>
-      <link>https://www.last.fm/music/Sleep+Token/_/Atlantic</link>
-      <guid isPermaLink="false">WillieFisterbut-1638220514--775ad383-ac2d-479a-af9d-b561442cb749---Atlantic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b91378422afe120679bb0dfc731ab03.jpg" length="13522" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 16:15:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sleep Token - Hypnosis (1 play)</title>
-      <link>https://www.last.fm/music/Sleep+Token/_/Hypnosis</link>
-      <guid isPermaLink="false">WillieFisterbut-1638220810--775ad383-ac2d-479a-af9d-b561442cb749---Hypnosis</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b91378422afe120679bb0dfc731ab03.jpg" length="13522" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 16:20:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Silent Planet - Translate The Night (1 play)</title>
-      <link>https://www.last.fm/music/Silent+Planet/_/Translate+The+Night</link>
-      <guid isPermaLink="false">WillieFisterbut-1638221350--c62afc98-8596-4532-a1dd-bc1a595c927e---Translate The Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/237a1d2c26d89b6ff360c2c248d8ebb6.jpg" length="14299" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 16:29:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Silent Planet - Trilogy (1 play)</title>
-      <link>https://www.last.fm/music/Silent+Planet/_/Trilogy</link>
-      <guid isPermaLink="false">WillieFisterbut-1638221521--c62afc98-8596-4532-a1dd-bc1a595c927e---Trilogy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/237a1d2c26d89b6ff360c2c248d8ebb6.jpg" length="14299" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 16:32:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>Silent Planet - Second Sun (1 play)</title>
-      <link>https://www.last.fm/music/Silent+Planet/_/Second+Sun</link>
-      <guid isPermaLink="false">WillieFisterbut-1638221724--c62afc98-8596-4532-a1dd-bc1a595c927e---Second Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/237a1d2c26d89b6ff360c2c248d8ebb6.jpg" length="14299" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 16:35:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mastodon - Pain with an Anchor (1 play)</title>
-      <link>https://www.last.fm/music/Mastodon/_/Pain+with+an+Anchor</link>
-      <guid isPermaLink="false">WillieFisterbut-1638285767--bc5e2ad6-0a4a-4d90-b911-e9a7e6861727---Pain with an Anchor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff796b6a79235686379576ae1c70a0a5.png" length="196034" type="image/png"/>
-      <pubDate>Tue, 30 Nov 2021 10:22:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mastodon - The Crux (1 play)</title>
-      <link>https://www.last.fm/music/Mastodon/_/The+Crux</link>
-      <guid isPermaLink="false">WillieFisterbut-1638286316--bc5e2ad6-0a4a-4d90-b911-e9a7e6861727---The Crux</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff796b6a79235686379576ae1c70a0a5.png" length="196034" type="image/png"/>
-      <pubDate>Tue, 30 Nov 2021 10:31:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mastodon - Sickle and Peace (1 play)</title>
-      <link>https://www.last.fm/music/Mastodon/_/Sickle+and+Peace</link>
-      <guid isPermaLink="false">WillieFisterbut-1638286437--bc5e2ad6-0a4a-4d90-b911-e9a7e6861727---Sickle and Peace</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff796b6a79235686379576ae1c70a0a5.png" length="196034" type="image/png"/>
-      <pubDate>Tue, 30 Nov 2021 10:33:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mastodon - More Than I Could Chew (1 play)</title>
-      <link>https://www.last.fm/music/Mastodon/_/More+Than+I+Could+Chew</link>
-      <guid isPermaLink="false">WillieFisterbut-1638287307--bc5e2ad6-0a4a-4d90-b911-e9a7e6861727---More Than I Could Chew</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff796b6a79235686379576ae1c70a0a5.png" length="196034" type="image/png"/>
-      <pubDate>Tue, 30 Nov 2021 10:48:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>Spiritbox - Sun Killer (34 plays)</title>
-      <link>https://www.last.fm/music/Spiritbox/_/Sun+Killer</link>
-      <guid isPermaLink="false">WillieFisterbut-1638287538--9c935736-7530-41e4-b776-1dbcf534c061---Sun Killer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 10:52:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>Spiritbox - Hurt You (31 plays)</title>
-      <link>https://www.last.fm/music/Spiritbox/_/Hurt+You</link>
-      <guid isPermaLink="false">WillieFisterbut-1638287765--9c935736-7530-41e4-b776-1dbcf534c061---Hurt You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 10:56:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Spiritbox - Yellowjacket (feat. Sam Carter) (9 plays)</title>
-      <link>https://www.last.fm/music/Spiritbox/_/Yellowjacket+(feat.+Sam+Carter)</link>
-      <guid isPermaLink="false">WillieFisterbut-1638287991--9c935736-7530-41e4-b776-1dbcf534c061---Yellowjacket (feat. Sam Carter)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 10:59:51 -0500</pubDate>
-    </item>
-    <item>
-      <title>Spiritbox - The Summit (28 plays)</title>
-      <link>https://www.last.fm/music/Spiritbox/_/The+Summit</link>
-      <guid isPermaLink="false">WillieFisterbut-1638288192--9c935736-7530-41e4-b776-1dbcf534c061---The Summit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 11:03:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Spiritbox - Secret Garden (29 plays)</title>
+      <title>Spiritbox - Secret Garden (30 plays)</title>
       <link>https://www.last.fm/music/Spiritbox/_/Secret+Garden</link>
-      <guid isPermaLink="false">WillieFisterbut-1638288430--9c935736-7530-41e4-b776-1dbcf534c061---Secret Garden</guid>
+      <guid isPermaLink="false">WillieFisterbut-1638288586--9c935736-7530-41e4-b776-1dbcf534c061---Secret Garden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
-      <pubDate>Tue, 30 Nov 2021 11:07:10 -0500</pubDate>
+      <pubDate>Tue, 30 Nov 2021 11:09:46 -0500</pubDate>
     </item>
     <item>
-      <title>Spiritbox - Silk in the Strings (24 plays)</title>
+      <title>Spiritbox - Silk in the Strings (25 plays)</title>
       <link>https://www.last.fm/music/Spiritbox/_/Silk+in+the+Strings</link>
       <guid isPermaLink="false">WillieFisterbut-1638288589--9c935736-7530-41e4-b776-1dbcf534c061---Silk in the Strings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
       <pubDate>Tue, 30 Nov 2021 11:09:49 -0500</pubDate>
     </item>
     <item>
-      <title>SpiritBox - Holy Roller (38 plays)</title>
+      <title>Spiritbox - Silk in the Strings (25 plays)</title>
+      <link>https://www.last.fm/music/Spiritbox/_/Silk+in+the+Strings</link>
+      <guid isPermaLink="false">WillieFisterbut-1638288702--9c935736-7530-41e4-b776-1dbcf534c061---Silk in the Strings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 11:11:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>SpiritBox - Holy Roller (39 plays)</title>
       <link>https://www.last.fm/music/SpiritBox/_/Holy+Roller</link>
       <guid isPermaLink="false">WillieFisterbut-1638288706--SpiritBox---Holy Roller</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
       <pubDate>Tue, 30 Nov 2021 11:11:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>SpiritBox - Holy Roller (39 plays)</title>
+      <link>https://www.last.fm/music/SpiritBox/_/Holy+Roller</link>
+      <guid isPermaLink="false">WillieFisterbut-1638288876--SpiritBox---Holy Roller</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6db30d62a534b03f730ebc27b5cde7d.jpg" length="25907" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 11:14:36 -0500</pubDate>
     </item>
     <item>
       <title>Spiritbox - Halcyon (14 plays)</title>
@@ -177,53 +58,109 @@
       <pubDate>Tue, 30 Nov 2021 11:17:20 -0500</pubDate>
     </item>
     <item>
-      <title>Angels &amp; Airwaves - Timebomb (2 plays)</title>
+      <title>Angels &amp; Airwaves - Timebomb (3 plays)</title>
       <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/Timebomb</link>
       <guid isPermaLink="false">WillieFisterbut-1638289357--05071a7e-e71c-4306-a509-591cd3686893---Timebomb</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9fd08a0fed8872ae2c048049e36d533.jpg" length="14760" type="image/jpeg"/>
       <pubDate>Tue, 30 Nov 2021 11:22:37 -0500</pubDate>
     </item>
     <item>
-      <title>Angels &amp; Airwaves - Euphoria (2 plays)</title>
+      <title>Angels &amp; Airwaves - Timebomb (3 plays)</title>
+      <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/Timebomb</link>
+      <guid isPermaLink="false">WillieFisterbut-1638289593--05071a7e-e71c-4306-a509-591cd3686893---Timebomb</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9fd08a0fed8872ae2c048049e36d533.jpg" length="14760" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 11:26:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Angels &amp; Airwaves - Euphoria (3 plays)</title>
       <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/Euphoria</link>
       <guid isPermaLink="false">WillieFisterbut-1638289594--05071a7e-e71c-4306-a509-591cd3686893---Euphoria</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9fd08a0fed8872ae2c048049e36d533.jpg" length="14760" type="image/jpeg"/>
       <pubDate>Tue, 30 Nov 2021 11:26:34 -0500</pubDate>
     </item>
     <item>
-      <title>Angels &amp; Airwaves - Spellbound (2 plays)</title>
+      <title>Angels &amp; Airwaves - Euphoria (3 plays)</title>
+      <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/Euphoria</link>
+      <guid isPermaLink="false">WillieFisterbut-1638289857--05071a7e-e71c-4306-a509-591cd3686893---Euphoria</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9fd08a0fed8872ae2c048049e36d533.jpg" length="14760" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 11:30:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Angels &amp; Airwaves - Spellbound (3 plays)</title>
       <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/Spellbound</link>
       <guid isPermaLink="false">WillieFisterbut-1638289861--05071a7e-e71c-4306-a509-591cd3686893---Spellbound</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9fd08a0fed8872ae2c048049e36d533.jpg" length="14760" type="image/jpeg"/>
       <pubDate>Tue, 30 Nov 2021 11:31:01 -0500</pubDate>
     </item>
     <item>
-      <title>Angels &amp; Airwaves - Losing My Mind (2 plays)</title>
+      <title>Angels &amp; Airwaves - Spellbound (3 plays)</title>
+      <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/Spellbound</link>
+      <guid isPermaLink="false">WillieFisterbut-1638290107--05071a7e-e71c-4306-a509-591cd3686893---Spellbound</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9fd08a0fed8872ae2c048049e36d533.jpg" length="14760" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 11:35:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Angels &amp; Airwaves - No More Guns (2 plays)</title>
+      <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/No+More+Guns</link>
+      <guid isPermaLink="false">WillieFisterbut-1638290163--05071a7e-e71c-4306-a509-591cd3686893---No More Guns</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9fd08a0fed8872ae2c048049e36d533.jpg" length="14760" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 11:36:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Angels &amp; Airwaves - Losing My Mind (3 plays)</title>
       <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/Losing+My+Mind</link>
       <guid isPermaLink="false">WillieFisterbut-1638292424--05071a7e-e71c-4306-a509-591cd3686893---Losing My Mind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9fd08a0fed8872ae2c048049e36d533.jpg" length="14760" type="image/jpeg"/>
       <pubDate>Tue, 30 Nov 2021 12:13:44 -0500</pubDate>
     </item>
     <item>
-      <title>Amy Shark - The Wolves (11 plays)</title>
+      <title>Angels &amp; Airwaves - Losing My Mind (3 plays)</title>
+      <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/Losing+My+Mind</link>
+      <guid isPermaLink="false">WillieFisterbut-1638292446--05071a7e-e71c-4306-a509-591cd3686893---Losing My Mind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9fd08a0fed8872ae2c048049e36d533.jpg" length="14760" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 12:14:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amy Shark - The Wolves (12 plays)</title>
       <link>https://www.last.fm/music/Amy+Shark/_/The+Wolves</link>
       <guid isPermaLink="false">WillieFisterbut-1638292977--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---The Wolves</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c6f0e37e86bea09660b50855dca34d9.png" length="81987" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 12:22:57 -0500</pubDate>
     </item>
     <item>
-      <title>Amy Shark - Everybody Rise (12 plays)</title>
+      <title>Amy Shark - The Wolves (12 plays)</title>
+      <link>https://www.last.fm/music/Amy+Shark/_/The+Wolves</link>
+      <guid isPermaLink="false">WillieFisterbut-1638293056--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---The Wolves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c6f0e37e86bea09660b50855dca34d9.png" length="81987" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 12:24:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amy Shark - Everybody Rise (13 plays)</title>
       <link>https://www.last.fm/music/Amy+Shark/_/Everybody+Rise</link>
       <guid isPermaLink="false">WillieFisterbut-1638293057--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---Everybody Rise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c6f0e37e86bea09660b50855dca34d9.png" length="81987" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 12:24:17 -0500</pubDate>
     </item>
     <item>
-      <title>Amy Shark - Worst Day of My Life (10 plays)</title>
+      <title>Amy Shark - Everybody Rise (13 plays)</title>
+      <link>https://www.last.fm/music/Amy+Shark/_/Everybody+Rise</link>
+      <guid isPermaLink="false">WillieFisterbut-1638293246--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---Everybody Rise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c6f0e37e86bea09660b50855dca34d9.png" length="81987" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 12:27:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amy Shark - Worst Day of My Life (11 plays)</title>
       <link>https://www.last.fm/music/Amy+Shark/_/Worst+Day+of+My+Life</link>
       <guid isPermaLink="false">WillieFisterbut-1638293248--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---Worst Day of My Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c6f0e37e86bea09660b50855dca34d9.png" length="81987" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 12:27:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amy Shark - Worst Day of My Life (11 plays)</title>
+      <link>https://www.last.fm/music/Amy+Shark/_/Worst+Day+of+My+Life</link>
+      <guid isPermaLink="false">WillieFisterbut-1638293408--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---Worst Day of My Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c6f0e37e86bea09660b50855dca34d9.png" length="81987" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 12:30:08 -0500</pubDate>
     </item>
     <item>
       <title>Need - Avia (7 plays)</title>
@@ -275,11 +212,18 @@
       <pubDate>Tue, 30 Nov 2021 17:19:00 -0500</pubDate>
     </item>
     <item>
-      <title>The Birthday Massacre - Pins and Needles (103 plays)</title>
+      <title>The Birthday Massacre - Pins and Needles (104 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Pins+and+Needles</link>
       <guid isPermaLink="false">WillieFisterbut-1638310966--83d8a06a-4145-444a-b4ae-49e1e986206f---Pins and Needles</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/558456711b1d4d29ac6c5c147015280b.png" length="198181" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 17:22:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Birthday Massacre - Pins and Needles (104 plays)</title>
+      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Pins+and+Needles</link>
+      <guid isPermaLink="false">WillieFisterbut-1638311221--83d8a06a-4145-444a-b4ae-49e1e986206f---Pins and Needles</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/558456711b1d4d29ac6c5c147015280b.png" length="198181" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 17:27:01 -0500</pubDate>
     </item>
     <item>
       <title>The Birthday Massacre - Down (47 plays)</title>
@@ -289,18 +233,32 @@
       <pubDate>Tue, 30 Nov 2021 17:27:03 -0500</pubDate>
     </item>
     <item>
-      <title>The Birthday Massacre - Lovers End (53 plays)</title>
+      <title>The Birthday Massacre - Lovers End (54 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Lovers+End</link>
       <guid isPermaLink="false">WillieFisterbut-1638311449--83d8a06a-4145-444a-b4ae-49e1e986206f---Lovers End</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bedeb16d5794dc8cdd2c2fcaa388526.png" length="98325" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 17:30:49 -0500</pubDate>
     </item>
     <item>
-      <title>The Birthday Massacre - Shallow Grave (60 plays)</title>
+      <title>The Birthday Massacre - Lovers End (54 plays)</title>
+      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Lovers+End</link>
+      <guid isPermaLink="false">WillieFisterbut-1638311703--83d8a06a-4145-444a-b4ae-49e1e986206f---Lovers End</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bedeb16d5794dc8cdd2c2fcaa388526.png" length="98325" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 17:35:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Birthday Massacre - Shallow Grave (61 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Shallow+Grave</link>
       <guid isPermaLink="false">WillieFisterbut-1638311706--83d8a06a-4145-444a-b4ae-49e1e986206f---Shallow Grave</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/558456711b1d4d29ac6c5c147015280b.png" length="198181" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 17:35:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Birthday Massacre - Shallow Grave (61 plays)</title>
+      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Shallow+Grave</link>
+      <guid isPermaLink="false">WillieFisterbut-1638311930--83d8a06a-4145-444a-b4ae-49e1e986206f---Shallow Grave</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/558456711b1d4d29ac6c5c147015280b.png" length="198181" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 17:38:50 -0500</pubDate>
     </item>
     <item>
       <title>The Birthday Massacre - Divide (77 plays)</title>
@@ -317,46 +275,88 @@
       <pubDate>Tue, 30 Nov 2021 17:42:58 -0500</pubDate>
     </item>
     <item>
-      <title>The Birthday Massacre - Need (38 plays)</title>
+      <title>The Birthday Massacre - Need (39 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Need</link>
       <guid isPermaLink="false">WillieFisterbut-1638312406--83d8a06a-4145-444a-b4ae-49e1e986206f---Need</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34e37896316a4770b0935cc01d6754e2.png" length="153963" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 17:46:46 -0500</pubDate>
     </item>
     <item>
-      <title>The Birthday Massacre - Red Stars (26 plays)</title>
+      <title>The Birthday Massacre - Need (39 plays)</title>
+      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Need</link>
+      <guid isPermaLink="false">WillieFisterbut-1638312617--83d8a06a-4145-444a-b4ae-49e1e986206f---Need</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34e37896316a4770b0935cc01d6754e2.png" length="153963" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 17:50:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Birthday Massacre - Red Stars (27 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Red+Stars</link>
       <guid isPermaLink="false">WillieFisterbut-1638312617--83d8a06a-4145-444a-b4ae-49e1e986206f---Red Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d7e6c6ba0c345c1adac6c90eb50893a.png" length="185184" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 17:50:17 -0500</pubDate>
     </item>
     <item>
-      <title>The Birthday Massacre - Play With Fire (41 plays)</title>
+      <title>The Birthday Massacre - Red Stars (27 plays)</title>
+      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Red+Stars</link>
+      <guid isPermaLink="false">WillieFisterbut-1638312838--83d8a06a-4145-444a-b4ae-49e1e986206f---Red Stars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d7e6c6ba0c345c1adac6c90eb50893a.png" length="185184" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 17:53:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Birthday Massacre - Play With Fire (42 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Play+With+Fire</link>
       <guid isPermaLink="false">WillieFisterbut-1638312839--83d8a06a-4145-444a-b4ae-49e1e986206f---Play With Fire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34e37896316a4770b0935cc01d6754e2.png" length="153963" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 17:53:59 -0500</pubDate>
     </item>
     <item>
-      <title>The Birthday Massacre - Enter (52 plays)</title>
+      <title>The Birthday Massacre - Play With Fire (42 plays)</title>
+      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Play+With+Fire</link>
+      <guid isPermaLink="false">WillieFisterbut-1638313066--83d8a06a-4145-444a-b4ae-49e1e986206f---Play With Fire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34e37896316a4770b0935cc01d6754e2.png" length="153963" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 17:57:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Birthday Massacre - Enter (53 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Enter</link>
       <guid isPermaLink="false">WillieFisterbut-1638313070--83d8a06a-4145-444a-b4ae-49e1e986206f---Enter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34fd23815fc53dfbf6c4480bfb78c9e8.jpg" length="22606" type="image/jpeg"/>
       <pubDate>Tue, 30 Nov 2021 17:57:50 -0500</pubDate>
     </item>
     <item>
-      <title>The Birthday Massacre - Looking Glass (23 plays)</title>
+      <title>The Birthday Massacre - Enter (53 plays)</title>
+      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Enter</link>
+      <guid isPermaLink="false">WillieFisterbut-1638313281--83d8a06a-4145-444a-b4ae-49e1e986206f---Enter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34fd23815fc53dfbf6c4480bfb78c9e8.jpg" length="22606" type="image/jpeg"/>
+      <pubDate>Tue, 30 Nov 2021 18:01:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Birthday Massacre - Looking Glass (24 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Looking+Glass</link>
       <guid isPermaLink="false">WillieFisterbut-1638313281--83d8a06a-4145-444a-b4ae-49e1e986206f---Looking Glass</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d7e6c6ba0c345c1adac6c90eb50893a.png" length="185184" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 18:01:21 -0500</pubDate>
     </item>
     <item>
-      <title>The Birthday Massacre - Rain (34 plays)</title>
+      <title>The Birthday Massacre - Looking Glass (24 plays)</title>
+      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Looking+Glass</link>
+      <guid isPermaLink="false">WillieFisterbut-1638313547--83d8a06a-4145-444a-b4ae-49e1e986206f---Looking Glass</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d7e6c6ba0c345c1adac6c90eb50893a.png" length="185184" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 18:05:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Birthday Massacre - Rain (36 plays)</title>
       <link>https://www.last.fm/music/The+Birthday+Massacre/_/Rain</link>
       <guid isPermaLink="false">WillieFisterbut-1638313550--83d8a06a-4145-444a-b4ae-49e1e986206f---Rain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5cd3833a3344f0acfd7078c3d20fbc3.png" length="170862" type="image/png"/>
       <pubDate>Tue, 30 Nov 2021 18:05:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Birthday Massacre - Rain (36 plays)</title>
+      <link>https://www.last.fm/music/The+Birthday+Massacre/_/Rain</link>
+      <guid isPermaLink="false">WillieFisterbut-1638313774--83d8a06a-4145-444a-b4ae-49e1e986206f---Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5cd3833a3344f0acfd7078c3d20fbc3.png" length="170862" type="image/png"/>
+      <pubDate>Tue, 30 Nov 2021 18:09:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
