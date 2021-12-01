@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Dec 2021 17:39:22 +0000</lastBuildDate>
-    <item>
-      <title>Mitski - The Only Heartbreaker (1 play)</title>
-      <link>https://www.last.fm/music/Mitski/_/The+Only+Heartbreaker</link>
-      <guid isPermaLink="false">lintmunro-1637361107--Mitski---The Only Heartbreaker</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3f5359881b11fa1820ba25bd7633c32.jpg" length="22780" type="image/jpeg"/>
-      <pubDate>Fri, 19 Nov 2021 17:31:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Aminé - NEO (1 play)</title>
-      <link>https://www.last.fm/music/Amin%C3%A9/_/NEO</link>
-      <guid isPermaLink="false">lintmunro-1637361460--12398bf3-1b99-47b7-930c-f3956773f35a---NEO</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c85f5d2b6823239d01356dd5c552f25.png" length="144768" type="image/png"/>
-      <pubDate>Fri, 19 Nov 2021 17:37:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jeff Parker - Suffolk (1 play)</title>
-      <link>https://www.last.fm/music/Jeff+Parker/_/Suffolk</link>
-      <guid isPermaLink="false">lintmunro-1637361765--Jeff Parker---Suffolk</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 19 Nov 2021 17:42:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Dec 2021 17:52:41 +0000</lastBuildDate>
     <item>
       <title>Dream Unending - Entrance (1 play)</title>
       <link>https://www.last.fm/music/Dream+Unending/_/Entrance</link>
@@ -338,7 +317,7 @@
       <pubDate>Tue, 30 Nov 2021 17:34:03 -0500</pubDate>
     </item>
     <item>
-      <title>Grima - Old Oak</title>
+      <title>Grima - Old Oak (1 play)</title>
       <link>https://www.last.fm/music/Grima/_/Old+Oak</link>
       <guid isPermaLink="false">lintmunro-1638311924--a1fe77b8-8ce0-49d5-b64c-ba42f116d4b8---Old Oak</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3a656c9f3637302829d2df37e359c8d.jpg" length="13359" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">lintmunro-1638380186--Leo Nocentelli---Thinking of the Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fa60e82784645a8ba25ca234a768f6b.png" length="82145" type="image/png"/>
       <pubDate>Wed, 01 Dec 2021 12:36:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leo Nocentelli - Riverfront</title>
+      <link>https://www.last.fm/music/Leo+Nocentelli/_/Riverfront</link>
+      <guid isPermaLink="false">lintmunro-1638380340--Leo Nocentelli---Riverfront</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fa60e82784645a8ba25ca234a768f6b.png" length="82145" type="image/png"/>
+      <pubDate>Wed, 01 Dec 2021 12:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leo Nocentelli - I Want to Cry</title>
+      <link>https://www.last.fm/music/Leo+Nocentelli/_/I+Want+to+Cry</link>
+      <guid isPermaLink="false">lintmunro-1638380561--Leo Nocentelli---I Want to Cry</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fa60e82784645a8ba25ca234a768f6b.png" length="82145" type="image/png"/>
+      <pubDate>Wed, 01 Dec 2021 12:42:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leo Nocentelli - Pretty Mittie</title>
+      <link>https://www.last.fm/music/Leo+Nocentelli/_/Pretty+Mittie</link>
+      <guid isPermaLink="false">lintmunro-1638380872--Leo Nocentelli---Pretty Mittie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fa60e82784645a8ba25ca234a768f6b.png" length="82145" type="image/png"/>
+      <pubDate>Wed, 01 Dec 2021 12:47:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
