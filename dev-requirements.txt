@@ -31,7 +31,7 @@ tomli==1.2.2
     #   black
     #   flit
     #   flit-core
-tomli-w==0.4.0
+tomli-w==1.0.0
     # via flit
 typing-extensions==4.0.1
     # via black
