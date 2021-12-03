@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Dec 2021 05:38:30 +0000</lastBuildDate>
-    <item>
-      <title>XTC - Chain of Command (1 play)</title>
-      <link>https://www.last.fm/music/XTC/_/Chain+of+Command</link>
-      <guid isPermaLink="false">Frippertron-1638428470--97c86b2c-2765-46a2-aef8-76a7e24c430f---Chain of Command</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd53c193ea660e5f4bc11ea5093d99c8.jpg" length="21484" type="image/jpeg"/>
-      <pubDate>Thu, 02 Dec 2021 02:01:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - No Self Control (30 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/No+Self+Control</link>
-      <guid isPermaLink="false">Frippertron-1638428594--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---No Self Control</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c2515f47b46d147c028f1f1decf4cb2.png" length="145670" type="image/png"/>
-      <pubDate>Thu, 02 Dec 2021 02:03:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Dec 2021 05:52:40 +0000</lastBuildDate>
     <item>
       <title>The Enid - Mayday Galliard (174 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1638509695--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Dear Marge</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1d64213cfe0aadaa44e3742014d02e4.jpg" length="17733" type="image/jpeg"/>
       <pubDate>Fri, 03 Dec 2021 00:34:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Cybele's Reverie (25 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Cybele%27s+Reverie</link>
+      <guid isPermaLink="false">Frippertron-1638510131--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Cybele's Reverie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6d45b90bbb0292d9da39e500da8103a.jpg" length="28509" type="image/jpeg"/>
+      <pubDate>Fri, 03 Dec 2021 00:42:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Little Shiners - Reverberations (Aqueous Mix) (3 plays)</title>
+      <link>https://www.last.fm/music/Little+Shiners/_/Reverberations+(Aqueous+Mix)</link>
+      <guid isPermaLink="false">Frippertron-1638510417--Little Shiners---Reverberations (Aqueous Mix)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e0249f8ce99027a5217b64cae78d6f2.jpg" length="22351" type="image/jpeg"/>
+      <pubDate>Fri, 03 Dec 2021 00:46:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
