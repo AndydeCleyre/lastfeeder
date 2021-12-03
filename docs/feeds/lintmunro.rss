@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Dec 2021 17:52:39 +0000</lastBuildDate>
-    <item>
-      <title>Fiddlehead - Million Times (2 plays)</title>
-      <link>https://www.last.fm/music/Fiddlehead/_/Million+Times</link>
-      <guid isPermaLink="false">lintmunro-1637793696--5bba23fa-23ad-4129-8a67-245d373be0ee---Million Times</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6fa0426bd3569f0ee970ecde4774d961.jpg" length="37679" type="image/jpeg"/>
-      <pubDate>Wed, 24 Nov 2021 17:41:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lucifer - Archangel Of Death (1 play)</title>
-      <link>https://www.last.fm/music/Lucifer/_/Archangel+Of+Death</link>
-      <guid isPermaLink="false">lintmunro-1637871651--dfa63d6f-db7b-43a3-8506-2e894dd81ff6---Archangel Of Death</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/786ca012ae32605117458c2e579de55e.png" length="57786" type="image/png"/>
-      <pubDate>Thu, 25 Nov 2021 15:20:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Dec 2021 18:23:35 +0000</lastBuildDate>
     <item>
       <title>Nate Mercereau - There You Are (1 play)</title>
       <link>https://www.last.fm/music/Nate+Mercereau/_/There+You+Are</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1638381680--Leo Nocentelli---You've Become a Habit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f2a5756b3d13eb0e231609e333f7fe27.jpg" length="21109" type="image/jpeg"/>
       <pubDate>Wed, 01 Dec 2021 13:01:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>DragonForce - My Spirit Will Go On</title>
+      <link>https://www.last.fm/music/DragonForce/_/My+Spirit+Will+Go+On</link>
+      <guid isPermaLink="false">lintmunro-1638554572--ef58d4c9-0d40-42ba-bfab-9186c1483edd---My Spirit Will Go On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a932b6d5a5d4ca58b7c70e1bcf0a311.png" length="183762" type="image/png"/>
+      <pubDate>Fri, 03 Dec 2021 13:02:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>DragonForce - Fury of the Storm</title>
+      <link>https://www.last.fm/music/DragonForce/_/Fury+of+the+Storm</link>
+      <guid isPermaLink="false">lintmunro-1638555106--ef58d4c9-0d40-42ba-bfab-9186c1483edd---Fury of the Storm</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a932b6d5a5d4ca58b7c70e1bcf0a311.png" length="183762" type="image/png"/>
+      <pubDate>Fri, 03 Dec 2021 13:11:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
