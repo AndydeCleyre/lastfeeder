@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Dec 2021 10:43:18 +0000</lastBuildDate>
-    <item>
-      <title>Supersuckers - Overdose (1 play)</title>
-      <link>https://www.last.fm/music/Supersuckers/_/Overdose</link>
-      <guid isPermaLink="false">manosg--1638342197--Supersuckers---Overdose</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 01 Dec 2021 02:03:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>Voltaje Cadáver - Marcha Fúnebre (1 play)</title>
-      <link>https://www.last.fm/music/Voltaje+Cad%C3%A1ver/_/Marcha+F%C3%BAnebre</link>
-      <guid isPermaLink="false">manosg--1638342599--1223f2a6-0af8-48fe-bd4b-81003cd3f5e7---Marcha Fúnebre</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 01 Dec 2021 02:09:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Dec 2021 10:55:23 +0000</lastBuildDate>
     <item>
       <title>Red Wizard - Chinatown (1 play)</title>
       <link>https://www.last.fm/music/Red+Wizard/_/Chinatown</link>
@@ -344,6 +330,19 @@
       <guid isPermaLink="false">manosg--1638527192--a8e935c6-3fcc-414c-900c-77e8170e7e7c---Forsaken</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f45c10cee5ffbcdac8e4fa1889a3252.png" length="179579" type="image/png"/>
       <pubDate>Fri, 03 Dec 2021 05:26:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Black Label Society - Gospel of Lies (3 plays)</title>
+      <link>https://www.last.fm/music/Black+Label+Society/_/Gospel+of+Lies</link>
+      <guid isPermaLink="false">manosg--1638528208--a8e935c6-3fcc-414c-900c-77e8170e7e7c---Gospel of Lies</guid>
+      <pubDate>Fri, 03 Dec 2021 05:43:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Black Label Society - Shelter Me (3 plays)</title>
+      <link>https://www.last.fm/music/Black+Label+Society/_/Shelter+Me</link>
+      <guid isPermaLink="false">manosg--1638528601--a8e935c6-3fcc-414c-900c-77e8170e7e7c---Shelter Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f45c10cee5ffbcdac8e4fa1889a3252.png" length="179579" type="image/png"/>
+      <pubDate>Fri, 03 Dec 2021 05:50:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
