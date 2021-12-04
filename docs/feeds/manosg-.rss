@@ -7,19 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Dec 2021 15:45:16 +0000</lastBuildDate>
-    <item>
-      <title>Gravety - Tower of Ghenjei (1 play)</title>
-      <link>https://www.last.fm/music/Gravety/_/Tower+of+Ghenjei</link>
-      <guid isPermaLink="false">manosg--1638513326--Gravety---Tower of Ghenjei</guid>
-      <pubDate>Fri, 03 Dec 2021 01:35:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Eternity's End - Bane Of The Blacksword (1 play)</title>
-      <link>https://www.last.fm/music/Eternity%27s+End/_/Bane+Of+The+Blacksword</link>
-      <guid isPermaLink="false">manosg--1638513712--Eternity's End---Bane Of The Blacksword</guid>
-      <pubDate>Fri, 03 Dec 2021 01:41:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Dec 2021 15:57:01 +0000</lastBuildDate>
     <item>
       <title>Eternity's End - Hounds of Tindalos (1 play)</title>
       <link>https://www.last.fm/music/Eternity%27s+End/_/Hounds+of+Tindalos</link>
@@ -346,6 +334,20 @@
       <guid isPermaLink="false">manosg--1638619626--Rory Gallagher---Going To My Hometown</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 04 Dec 2021 07:07:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rory Gallagher - Edged in Blue (1 play)</title>
+      <link>https://www.last.fm/music/Rory+Gallagher/_/Edged+in+Blue</link>
+      <guid isPermaLink="false">manosg--1638632762--Rory Gallagher---Edged in Blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18513520486d78d2e81c19f6d2b62eac.jpg" length="29175" type="image/jpeg"/>
+      <pubDate>Sat, 04 Dec 2021 10:46:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rory Gallagher - Jack-Knife Beat (1 play)</title>
+      <link>https://www.last.fm/music/Rory+Gallagher/_/Jack-Knife+Beat</link>
+      <guid isPermaLink="false">manosg--1638633125--Rory Gallagher---Jack-Knife Beat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cdd96911a1c04d45cd9591f200a35fea.jpg" length="21772" type="image/jpeg"/>
+      <pubDate>Sat, 04 Dec 2021 10:52:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
