@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Dec 2021 22:54:58 +0000</lastBuildDate>
-    <item>
-      <title>Tower - Metatron (1 play)</title>
-      <link>https://www.last.fm/music/Tower/_/Metatron</link>
-      <guid isPermaLink="false">lintmunro-1637883851--cc5287a2-bff8-4730-a0df-b3d48dce23d2---Metatron</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4544ab8b3bb39e7f4b15723659d7920.jpg" length="27440" type="image/jpeg"/>
-      <pubDate>Thu, 25 Nov 2021 18:44:11 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tower - Running Out Of Time (1 play)</title>
-      <link>https://www.last.fm/music/Tower/_/Running+Out+Of+Time</link>
-      <guid isPermaLink="false">lintmunro-1637884180--cc5287a2-bff8-4730-a0df-b3d48dce23d2---Running Out Of Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4544ab8b3bb39e7f4b15723659d7920.jpg" length="27440" type="image/jpeg"/>
-      <pubDate>Thu, 25 Nov 2021 18:49:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Dec 2021 23:20:08 +0000</lastBuildDate>
     <item>
       <title>Tower - Lay Down The Law (1 play)</title>
       <link>https://www.last.fm/music/Tower/_/Lay+Down+The+Law</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1638657912--Marius Danielsen---Tomb of the Fallen Kings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c052fbb8dd247fa7adc9f1511abfa455.jpg" length="32405" type="image/jpeg"/>
       <pubDate>Sat, 04 Dec 2021 17:45:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Helloween - Skyfall (1 play)</title>
+      <link>https://www.last.fm/music/Helloween/_/Skyfall</link>
+      <guid isPermaLink="false">lintmunro-1638658407--765774a0-2060-469b-8b7d-612eea48579b---Skyfall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2eda9e5883866fe28e6c3ba8f15b9f25.png" length="230468" type="image/png"/>
+      <pubDate>Sat, 04 Dec 2021 17:53:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Eternity's End - Hounds of Tindalos (1 play)</title>
+      <link>https://www.last.fm/music/Eternity%27s+End/_/Hounds+of+Tindalos</link>
+      <guid isPermaLink="false">lintmunro-1638659139--95f9fc89-0cdc-4e4f-84f4-135e1e122797---Hounds of Tindalos</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa3f56ed0db9f8d29ac1ff46695cff67.jpg" length="41829" type="image/jpeg"/>
+      <pubDate>Sat, 04 Dec 2021 18:05:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
