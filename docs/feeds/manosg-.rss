@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Dec 2021 07:37:55 +0000</lastBuildDate>
-    <item>
-      <title>Eternity's End - Shaded Heart (1 play)</title>
-      <link>https://www.last.fm/music/Eternity%27s+End/_/Shaded+Heart</link>
-      <guid isPermaLink="false">manosg--1638522546--95f9fc89-0cdc-4e4f-84f4-135e1e122797---Shaded Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa3f56ed0db9f8d29ac1ff46695cff67.jpg" length="41829" type="image/jpeg"/>
-      <pubDate>Fri, 03 Dec 2021 04:09:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Dec 2021 07:52:28 +0000</lastBuildDate>
     <item>
       <title>Eternity's End - Deathrider (1 play)</title>
       <link>https://www.last.fm/music/Eternity%27s+End/_/Deathrider</link>
@@ -350,6 +343,13 @@
       <guid isPermaLink="false">manosg--1638689521--Rory Gallagher---Used to Be</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd728a09fc04fcfe6009821b90ecce0f.jpg" length="16590" type="image/jpeg"/>
       <pubDate>Sun, 05 Dec 2021 02:32:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rory Gallagher - Country Mile (1 play)</title>
+      <link>https://www.last.fm/music/Rory+Gallagher/_/Country+Mile</link>
+      <guid isPermaLink="false">manosg--1638689805--Rory Gallagher---Country Mile</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18513520486d78d2e81c19f6d2b62eac.jpg" length="29175" type="image/jpeg"/>
+      <pubDate>Sun, 05 Dec 2021 02:36:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
