@@ -7,19 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Dec 2021 08:55:57 +0000</lastBuildDate>
-    <item>
-      <title>Zakk Wylde - Farewell Ballad original + custom (1 play)</title>
-      <link>https://www.last.fm/music/Zakk+Wylde/_/Farewell+Ballad+original+%252B+custom</link>
-      <guid isPermaLink="false">manosg--1638526334--Zakk Wylde---Farewell Ballad original + custom</guid>
-      <pubDate>Fri, 03 Dec 2021 05:12:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Zakk Wylde - Farewell Ballad (1 play)</title>
-      <link>https://www.last.fm/music/Zakk+Wylde/_/Farewell+Ballad</link>
-      <guid isPermaLink="false">manosg--1638526546--Zakk Wylde---Farewell Ballad</guid>
-      <pubDate>Fri, 03 Dec 2021 05:15:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Dec 2021 09:20:18 +0000</lastBuildDate>
     <item>
       <title>Black Label Society - Ruins (3 plays)</title>
       <link>https://www.last.fm/music/Black+Label+Society/_/Ruins</link>
@@ -208,7 +196,7 @@
       <pubDate>Sat, 04 Dec 2021 06:24:52 -0500</pubDate>
     </item>
     <item>
-      <title>Rory Gallagher - Walk On Hot Coals (5 plays)</title>
+      <title>Rory Gallagher - Walk On Hot Coals (6 plays)</title>
       <link>https://www.last.fm/music/Rory+Gallagher/_/Walk+On+Hot+Coals</link>
       <guid isPermaLink="false">manosg--1638617443--Rory Gallagher---Walk On Hot Coals</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3e0e7724ff8537fe3c16d1e16694650.jpg" length="18949" type="image/jpeg"/>
@@ -353,6 +341,20 @@
       <guid isPermaLink="false">manosg--1638694370--Rory Gallagher---Out of My Mind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd728a09fc04fcfe6009821b90ecce0f.jpg" length="16590" type="image/jpeg"/>
       <pubDate>Sun, 05 Dec 2021 03:52:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rory Gallagher - Crest of a Wave (4 plays)</title>
+      <link>https://www.last.fm/music/Rory+Gallagher/_/Crest+of+a+Wave</link>
+      <guid isPermaLink="false">manosg--1638694559--Rory Gallagher---Crest of a Wave</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd728a09fc04fcfe6009821b90ecce0f.jpg" length="16590" type="image/jpeg"/>
+      <pubDate>Sun, 05 Dec 2021 03:55:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rory Gallagher - Walk On Hot Coals (6 plays)</title>
+      <link>https://www.last.fm/music/Rory+Gallagher/_/Walk+On+Hot+Coals</link>
+      <guid isPermaLink="false">manosg--1638694945--Rory Gallagher---Walk On Hot Coals</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3e0e7724ff8537fe3c16d1e16694650.jpg" length="18949" type="image/jpeg"/>
+      <pubDate>Sun, 05 Dec 2021 04:02:25 -0500</pubDate>
     </item>
   </channel>
 </rss>
