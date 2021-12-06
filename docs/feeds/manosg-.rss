@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Dec 2021 10:43:44 +0000</lastBuildDate>
-    <item>
-      <title>Billy Cobham - Red Baron (1 play)</title>
-      <link>https://www.last.fm/music/Billy+Cobham/_/Red+Baron</link>
-      <guid isPermaLink="false">manosg--1638612447--255497f8-26fb-4044-b97e-d4787d5974f6---Red Baron</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94bfbdbf5341d0ff4044499eba962e40.jpg" length="20980" type="image/jpeg"/>
-      <pubDate>Sat, 04 Dec 2021 05:07:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 10:55:51 +0000</lastBuildDate>
     <item>
       <title>Rory Gallagher - Calling Card (4 plays)</title>
       <link>https://www.last.fm/music/Rory+Gallagher/_/Calling+Card</link>
@@ -353,6 +346,13 @@
       <guid isPermaLink="false">manosg--1638787269--f1548c5b-329e-4036-921c-02213a04b525---Poet's Justice</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/283e2009406a8d5dfd471b87a50cfcb8.png" length="228724" type="image/png"/>
       <pubDate>Mon, 06 Dec 2021 05:41:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Uriah Heep - Circle of Hands (8 plays)</title>
+      <link>https://www.last.fm/music/Uriah+Heep/_/Circle+of+Hands</link>
+      <guid isPermaLink="false">manosg--1638787524--f1548c5b-329e-4036-921c-02213a04b525---Circle of Hands</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/283e2009406a8d5dfd471b87a50cfcb8.png" length="228724" type="image/png"/>
+      <pubDate>Mon, 06 Dec 2021 05:45:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
