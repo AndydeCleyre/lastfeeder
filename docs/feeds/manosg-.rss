@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Dec 2021 08:25:25 +0000</lastBuildDate>
-    <item>
-      <title>Rory Gallagher - Daughter Of The Everglades (5 plays)</title>
-      <link>https://www.last.fm/music/Rory+Gallagher/_/Daughter+Of+The+Everglades</link>
-      <guid isPermaLink="false">manosg--1638695832--Rory Gallagher---Daughter Of The Everglades</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ee7b10136174113acf13125dfc01c25.jpg" length="38805" type="image/jpeg"/>
-      <pubDate>Sun, 05 Dec 2021 04:17:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rory Gallagher - Bankers Blues (5 plays)</title>
-      <link>https://www.last.fm/music/Rory+Gallagher/_/Bankers+Blues</link>
-      <guid isPermaLink="false">manosg--1638696249--Rory Gallagher---Bankers Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f71442c45d401baa75d0159a3c794d.jpg" length="12849" type="image/jpeg"/>
-      <pubDate>Sun, 05 Dec 2021 04:24:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rory Gallagher - Hands Off (2 plays)</title>
-      <link>https://www.last.fm/music/Rory+Gallagher/_/Hands+Off</link>
-      <guid isPermaLink="false">manosg--1638696535--Rory Gallagher---Hands Off</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ee7b10136174113acf13125dfc01c25.jpg" length="38805" type="image/jpeg"/>
-      <pubDate>Sun, 05 Dec 2021 04:28:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rory Gallagher - Race The Breeze (2 plays)</title>
-      <link>https://www.last.fm/music/Rory+Gallagher/_/Race+The+Breeze</link>
-      <guid isPermaLink="false">manosg--1638696810--Rory Gallagher---Race The Breeze</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ee7b10136174113acf13125dfc01c25.jpg" length="38805" type="image/jpeg"/>
-      <pubDate>Sun, 05 Dec 2021 04:33:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Dec 2021 08:47:00 +0000</lastBuildDate>
     <item>
       <title>Rory Gallagher - Seventh Son Of A Seventh Son (2 plays)</title>
       <link>https://www.last.fm/music/Rory+Gallagher/_/Seventh+Son+Of+A+Seventh+Son</link>
@@ -346,6 +318,34 @@
       <link>https://www.last.fm/music/Tower/_/On+The+Line</link>
       <guid isPermaLink="false">manosg--1638865350--cc5287a2-bff8-4730-a0df-b3d48dce23d2---On The Line</guid>
       <pubDate>Tue, 07 Dec 2021 03:22:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tower - In Dreams (1 play)</title>
+      <link>https://www.last.fm/music/Tower/_/In+Dreams</link>
+      <guid isPermaLink="false">manosg--1638865519--cc5287a2-bff8-4730-a0df-b3d48dce23d2---In Dreams</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4544ab8b3bb39e7f4b15723659d7920.jpg" length="27440" type="image/jpeg"/>
+      <pubDate>Tue, 07 Dec 2021 03:25:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tower - Powder Keg (1 play)</title>
+      <link>https://www.last.fm/music/Tower/_/Powder+Keg</link>
+      <guid isPermaLink="false">manosg--1638865941--cc5287a2-bff8-4730-a0df-b3d48dce23d2---Powder Keg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4544ab8b3bb39e7f4b15723659d7920.jpg" length="27440" type="image/jpeg"/>
+      <pubDate>Tue, 07 Dec 2021 03:32:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jorja Chalmers - Bring Me Down (1 play)</title>
+      <link>https://www.last.fm/music/Jorja+Chalmers/_/Bring+Me+Down</link>
+      <guid isPermaLink="false">manosg--1638866482--b25d505d-352d-49b1-a71d-9dc5bf30b9bc---Bring Me Down</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f79a5949c65444138ece452ee00268ee.jpg" length="12773" type="image/jpeg"/>
+      <pubDate>Tue, 07 Dec 2021 03:41:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jorja Chalmers - I'll Be Waiting (1 play)</title>
+      <link>https://www.last.fm/music/Jorja+Chalmers/_/I%27ll+Be+Waiting</link>
+      <guid isPermaLink="false">manosg--1638866662--b25d505d-352d-49b1-a71d-9dc5bf30b9bc---I'll Be Waiting</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f79a5949c65444138ece452ee00268ee.jpg" length="12773" type="image/jpeg"/>
+      <pubDate>Tue, 07 Dec 2021 03:44:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
