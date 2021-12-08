@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Dec 2021 10:55:18 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Summer (77 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Summer</link>
-      <guid isPermaLink="false">Frippertron-1638937429--66f8692c-966d-4dfb-a2ed-babf51241922---Summer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
-      <pubDate>Tue, 07 Dec 2021 23:23:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Dec 2021 11:16:53 +0000</lastBuildDate>
     <item>
       <title>The Enid - Sheets Of Blue (37 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Sheets+Of+Blue</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1638960425--3b972356-4410-4858-ab9c-6e3c3cf76609---A Louse Is Not a Home</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb88163072e011215888e32ec49c5fa0.jpg" length="10881" type="image/jpeg"/>
       <pubDate>Wed, 08 Dec 2021 05:47:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Hammill - Tapeworm (29 plays)</title>
+      <link>https://www.last.fm/music/Peter+Hammill/_/Tapeworm</link>
+      <guid isPermaLink="false">Frippertron-1638961195--3b972356-4410-4858-ab9c-6e3c3cf76609---Tapeworm</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/146dd5cfc6093c67c24f8b045dee68c6.jpg" length="12619" type="image/jpeg"/>
+      <pubDate>Wed, 08 Dec 2021 05:59:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
