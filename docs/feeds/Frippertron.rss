@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Dec 2021 05:18:48 +0000</lastBuildDate>
-    <item>
-      <title>Foxygen - Follow The Leader (96 plays)</title>
-      <link>https://www.last.fm/music/Foxygen/_/Follow+The+Leader</link>
-      <guid isPermaLink="false">Frippertron-1638520098--913e6848-6865-4717-ac5e-3bd9c22826be---Follow The Leader</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c79a9fe4e22388964a0f9e78d81b2ccc.jpg" length="26095" type="image/jpeg"/>
-      <pubDate>Fri, 03 Dec 2021 03:28:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Dec 2021 05:38:54 +0000</lastBuildDate>
     <item>
       <title>Queen - Tie Your Mother Down (64 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Tie+Your+Mother+Down</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1638939850--66f8692c-966d-4dfb-a2ed-babf51241922---Something Wicked This Way Comes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
       <pubDate>Wed, 08 Dec 2021 00:04:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stardust - Music Sounds Better With You (Bob Sinclar remix) (1 play)</title>
+      <link>https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You+(Bob+Sinclar+remix)</link>
+      <guid isPermaLink="false">Frippertron-1638941339--c1b8a551-4622-4aed-bcf5-ab99cd7057a6---Music Sounds Better With You (Bob Sinclar remix)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e200ecb1b518087c487a067dcdb2290.jpg" length="13564" type="image/jpeg"/>
+      <pubDate>Wed, 08 Dec 2021 00:28:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
