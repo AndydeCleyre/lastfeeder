@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Dec 2021 20:21:30 +0000</lastBuildDate>
-    <item>
-      <title>The Midnight - Vampires (1 play)</title>
-      <link>https://www.last.fm/music/The+Midnight/_/Vampires</link>
-      <guid isPermaLink="false">ddgromit-1638846217--46eb0fb7-9725-43af-97d7-6c717682a799---Vampires</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c804b2219fb1978fd44013c9bfa5e24.jpg" length="15787" type="image/jpeg"/>
-      <pubDate>Mon, 06 Dec 2021 22:03:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Midnight - Lost Boy (1 play)</title>
-      <link>https://www.last.fm/music/The+Midnight/_/Lost+Boy</link>
-      <guid isPermaLink="false">ddgromit-1638846534--46eb0fb7-9725-43af-97d7-6c717682a799---Lost Boy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/271fe787620fe27994ff66616d529e1f.jpg" length="29039" type="image/jpeg"/>
-      <pubDate>Mon, 06 Dec 2021 22:08:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Dec 2021 21:40:29 +0000</lastBuildDate>
     <item>
       <title>The Midnight - Shadows (1 play)</title>
       <link>https://www.last.fm/music/The+Midnight/_/Shadows</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1638993906--John D. Boswell---City of Ghosts</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d352af286399dd1eb9597ed98cfa237.jpg" length="9308" type="image/jpeg"/>
       <pubDate>Wed, 08 Dec 2021 15:05:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>John D. Boswell - Passage (2 plays)</title>
+      <link>https://www.last.fm/music/John+D.+Boswell/_/Passage</link>
+      <guid isPermaLink="false">ddgromit-1638993998--John D. Boswell---Passage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d352af286399dd1eb9597ed98cfa237.jpg" length="9308" type="image/jpeg"/>
+      <pubDate>Wed, 08 Dec 2021 15:06:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Midnight - Jason (1 play)</title>
+      <link>https://www.last.fm/music/The+Midnight/_/Jason</link>
+      <guid isPermaLink="false">ddgromit-1638999084--46eb0fb7-9725-43af-97d7-6c717682a799---Jason</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f4a947ad91af4cca347fd5822488a22.jpg" length="16080" type="image/jpeg"/>
+      <pubDate>Wed, 08 Dec 2021 16:31:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
