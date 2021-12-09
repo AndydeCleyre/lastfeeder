@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Dec 2021 11:16:53 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Sheets Of Blue (37 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Sheets+Of+Blue</link>
-      <guid isPermaLink="false">Frippertron-1638938270--66f8692c-966d-4dfb-a2ed-babf51241922---Sheets Of Blue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
-      <pubDate>Tue, 07 Dec 2021 23:37:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Dec 2021 03:42:52 +0000</lastBuildDate>
     <item>
       <title>The Enid - Jessica (67 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Jessica</link>
@@ -247,7 +240,7 @@
       <pubDate>Wed, 08 Dec 2021 03:40:38 -0500</pubDate>
     </item>
     <item>
-      <title>Stereolab - Dear Marge (7 plays)</title>
+      <title>Stereolab - Dear Marge (8 plays)</title>
       <link>https://www.last.fm/music/Stereolab/_/Dear+Marge</link>
       <guid isPermaLink="false">Frippertron-1638953896--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Dear Marge</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1d64213cfe0aadaa44e3742014d02e4.jpg" length="17733" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1638961195--3b972356-4410-4858-ab9c-6e3c3cf76609---Tapeworm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/146dd5cfc6093c67c24f8b045dee68c6.jpg" length="12619" type="image/jpeg"/>
       <pubDate>Wed, 08 Dec 2021 05:59:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Dear Marge (8 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Dear+Marge</link>
+      <guid isPermaLink="false">Frippertron-1639021116--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Dear Marge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1d64213cfe0aadaa44e3742014d02e4.jpg" length="17733" type="image/jpeg"/>
+      <pubDate>Wed, 08 Dec 2021 22:38:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
