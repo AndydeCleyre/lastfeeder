@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Dec 2021 22:19:31 +0000</lastBuildDate>
-    <item>
-      <title>Katatonia - Day and Then the Shade (3 plays)</title>
-      <link>https://www.last.fm/music/Katatonia/_/Day+and+Then+the+Shade</link>
-      <guid isPermaLink="false">TalonsOfFire-1638997300--61ed9c9c-79eb-4e8f-8015-bd599ac0ab49---Day and Then the Shade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75a47c49154e8f26dc322582a6fcacd8.jpg" length="17303" type="image/jpeg"/>
-      <pubDate>Wed, 08 Dec 2021 16:01:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 22:41:57 +0000</lastBuildDate>
     <item>
       <title>Katatonia - The Longest Year (1 play)</title>
       <link>https://www.last.fm/music/Katatonia/_/The+Longest+Year</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1639174182--dcbb8de7-6574-4c14-a7c0-d2f6a1670fc9---The Rose</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66f0c50752f1eb9dbdc7257252a1537f.jpg" length="29540" type="image/jpeg"/>
       <pubDate>Fri, 10 Dec 2021 17:09:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Novembre - Umana (3 plays)</title>
+      <link>https://www.last.fm/music/Novembre/_/Umana</link>
+      <guid isPermaLink="false">TalonsOfFire-1639174512--dcbb8de7-6574-4c14-a7c0-d2f6a1670fc9---Umana</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66f0c50752f1eb9dbdc7257252a1537f.jpg" length="29540" type="image/jpeg"/>
+      <pubDate>Fri, 10 Dec 2021 17:15:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
