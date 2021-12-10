@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Dec 2021 11:22:01 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Red (93 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Red</link>
-      <guid isPermaLink="false">Frippertron-1639023598--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Red</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 08 Dec 2021 23:19:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 03:54:40 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Fallen Angel (68 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Fallen+Angel</link>
@@ -51,7 +44,7 @@
       <pubDate>Thu, 09 Dec 2021 00:00:21 -0500</pubDate>
     </item>
     <item>
-      <title>King Crimson - Frame by Frame (77 plays)</title>
+      <title>King Crimson - Frame by Frame</title>
       <link>https://www.last.fm/music/King+Crimson/_/Frame+by+Frame</link>
       <guid isPermaLink="false">Frippertron-1639026308--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Frame by Frame</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1639047378--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Sleepless</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 09 Dec 2021 05:56:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Wonder Girl (9 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/Wonder+Girl</link>
+      <guid isPermaLink="false">Frippertron-1639108378--Sparks---Wonder Girl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6bd189b94404f709c2d3bcca03d6f22.png" length="211438" type="image/png"/>
+      <pubDate>Thu, 09 Dec 2021 22:52:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
