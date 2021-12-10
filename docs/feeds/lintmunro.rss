@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Dec 2021 21:40:19 +0000</lastBuildDate>
-    <item>
-      <title>KAYTRANADA - Intimidated (feat. H.E.R.) (1 play)</title>
-      <link>https://www.last.fm/music/KAYTRANADA/_/Intimidated+(feat.+H.E.R.)</link>
-      <guid isPermaLink="false">lintmunro-1637955323--KAYTRANADA---Intimidated (feat. H.E.R.)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d317f679ea58e362320c1ecbbaebdb60.jpg" length="28708" type="image/jpeg"/>
-      <pubDate>Fri, 26 Nov 2021 14:35:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 21:52:48 +0000</lastBuildDate>
     <item>
       <title>Tanya Tagaq - Colonizer (1 play)</title>
       <link>https://www.last.fm/music/Tanya+Tagaq/_/Colonizer</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1639171816--Akintoye---Respectfully</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 10 Dec 2021 16:30:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Som - Moment</title>
+      <link>https://www.last.fm/music/Som/_/Moment</link>
+      <guid isPermaLink="false">lintmunro-1639171966--Som---Moment</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bddb4df982add94d3f0a336d50307d54.png" length="122908" type="image/png"/>
+      <pubDate>Fri, 10 Dec 2021 16:32:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
