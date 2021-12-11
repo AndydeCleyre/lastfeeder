@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Dec 2021 02:07:54 +0000</lastBuildDate>
-    <item>
-      <title>Katatonia - Forsaker (2 plays)</title>
-      <link>https://www.last.fm/music/Katatonia/_/Forsaker</link>
-      <guid isPermaLink="false">TalonsOfFire-1638999330--61ed9c9c-79eb-4e8f-8015-bd599ac0ab49---Forsaker</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75a47c49154e8f26dc322582a6fcacd8.jpg" length="17303" type="image/jpeg"/>
-      <pubDate>Wed, 08 Dec 2021 16:35:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Dec 2021 02:46:32 +0000</lastBuildDate>
     <item>
       <title>Katatonia - Lethean (2 plays)</title>
       <link>https://www.last.fm/music/Katatonia/_/Lethean</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1639188069--dcbb8de7-6574-4c14-a7c0-d2f6a1670fc9---Bremen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66f0c50752f1eb9dbdc7257252a1537f.jpg" length="29540" type="image/jpeg"/>
       <pubDate>Fri, 10 Dec 2021 21:01:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Novembre - Fin (3 plays)</title>
+      <link>https://www.last.fm/music/Novembre/_/Fin</link>
+      <guid isPermaLink="false">TalonsOfFire-1639188446--dcbb8de7-6574-4c14-a7c0-d2f6a1670fc9---Fin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66f0c50752f1eb9dbdc7257252a1537f.jpg" length="29540" type="image/jpeg"/>
+      <pubDate>Fri, 10 Dec 2021 21:07:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
