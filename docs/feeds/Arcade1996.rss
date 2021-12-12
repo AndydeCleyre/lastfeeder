@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Dec 2021 03:42:21 +0000</lastBuildDate>
-    <item>
-      <title>Bryan Adams - Can't Stop This Thing We Started (5 plays)</title>
-      <link>https://www.last.fm/music/Bryan+Adams/_/Can%27t+Stop+This+Thing+We+Started</link>
-      <guid isPermaLink="false">Arcade1996-1639189721--4dbf5678-7a31-406a-abbe-232f8ac2cd63---Can't Stop This Thing We Started</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a61aef5455ad2d5fca79cc04ca9fb13.png" length="54876" type="image/png"/>
-      <pubDate>Fri, 10 Dec 2021 21:28:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Killing Joke - Love Like Blood (9 plays)</title>
-      <link>https://www.last.fm/music/Killing+Joke/_/Love+Like+Blood</link>
-      <guid isPermaLink="false">Arcade1996-1639190130--f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a---Love Like Blood</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e833bd04f874bc494035420e49559d9.png" length="182143" type="image/png"/>
-      <pubDate>Fri, 10 Dec 2021 21:35:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Dec 2021 03:54:21 +0000</lastBuildDate>
     <item>
       <title>New Order - Temptation (51 plays)</title>
       <link>https://www.last.fm/music/New+Order/_/Temptation</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1639280032--0fdd65ac-1b05-4043-b77f-24ec47f3657e---Betty's Worry or the Slab</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/879454c8569759185f4fce2d12adf7b7.jpg" length="32527" type="image/jpeg"/>
       <pubDate>Sat, 11 Dec 2021 22:33:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hunters &amp; Collectors - Talking to a Stranger (1 play)</title>
+      <link>https://www.last.fm/music/Hunters+&amp;+Collectors/_/Talking+to+a+Stranger</link>
+      <guid isPermaLink="false">Arcade1996-1639280272--0fdd65ac-1b05-4043-b77f-24ec47f3657e---Talking to a Stranger</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0f933377a83c21566af73bc9899683d.jpg" length="23752" type="image/jpeg"/>
+      <pubDate>Sat, 11 Dec 2021 22:37:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Severed Heads - Dead Eyes Opened (1 play)</title>
+      <link>https://www.last.fm/music/Severed+Heads/_/Dead+Eyes+Opened</link>
+      <guid isPermaLink="false">Arcade1996-1639280723--4976edcf-58c3-49b6-b6f1-2d8277e60d26---Dead Eyes Opened</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c459568b45707aeace53e477d51d8d7.jpg" length="25702" type="image/jpeg"/>
+      <pubDate>Sat, 11 Dec 2021 22:45:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
