@@ -7,16 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Dec 2021 08:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 08:44:00 +0000</lastBuildDate>
     <item>
-      <title>Ozzy Osbourne - Spiders (1 play)</title>
-      <link>https://www.last.fm/music/Ozzy+Osbourne/_/Spiders</link>
-      <guid isPermaLink="false">manosg--1639127750--8aa5b65a-5b3c-4029-92bf-47a544356934---Spiders</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1007bdc7a7dc45bdbfb549ecd7cdb650.jpg" length="20966" type="image/jpeg"/>
-      <pubDate>Fri, 10 Dec 2021 04:15:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ozzy Osbourne - One Up the 'B' Side</title>
+      <title>Ozzy Osbourne - One Up the 'B' Side (1 play)</title>
       <link>https://www.last.fm/music/Ozzy+Osbourne/_/One+Up+the+%27B%27+Side</link>
       <guid isPermaLink="false">manosg--1639128123--Ozzy Osbourne---One Up the 'B' Side</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -158,7 +151,7 @@
       <pubDate>Fri, 10 Dec 2021 12:33:06 -0500</pubDate>
     </item>
     <item>
-      <title>The Night Flight Orchestra - How Long (feat. David Andersson, David Andersson) (2 plays)</title>
+      <title>The Night Flight Orchestra - How Long (feat. David Andersson, David Andersson) (3 plays)</title>
       <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/How+Long+(feat.+David+Andersson,+David+Andersson)</link>
       <guid isPermaLink="false">manosg--1639157843--The Night Flight Orchestra---How Long (feat. David Andersson, David Andersson)</guid>
       <pubDate>Fri, 10 Dec 2021 12:37:23 -0500</pubDate>
@@ -239,7 +232,7 @@
       <pubDate>Sat, 11 Dec 2021 05:45:15 -0500</pubDate>
     </item>
     <item>
-      <title>The Night Flight Orchestra - How Long (feat. David Andersson, David Andersson) (2 plays)</title>
+      <title>The Night Flight Orchestra - How Long (feat. David Andersson, David Andersson) (3 plays)</title>
       <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/How+Long+(feat.+David+Andersson,+David+Andersson)</link>
       <guid isPermaLink="false">manosg--1639219833--The Night Flight Orchestra---How Long (feat. David Andersson, David Andersson)</guid>
       <pubDate>Sat, 11 Dec 2021 05:50:33 -0500</pubDate>
@@ -331,6 +324,12 @@
       <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/Midnight+Marvelous+(feat.+David+Andersson,+David+Andersson)</link>
       <guid isPermaLink="false">manosg--1639297015--The Night Flight Orchestra---Midnight Marvelous (feat. David Andersson, David Andersson)</guid>
       <pubDate>Sun, 12 Dec 2021 03:16:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Night Flight Orchestra - How Long (feat. David Andersson, David Andersson) (3 plays)</title>
+      <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/How+Long+(feat.+David+Andersson,+David+Andersson)</link>
+      <guid isPermaLink="false">manosg--1639297271--The Night Flight Orchestra---How Long (feat. David Andersson, David Andersson)</guid>
+      <pubDate>Sun, 12 Dec 2021 03:21:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
