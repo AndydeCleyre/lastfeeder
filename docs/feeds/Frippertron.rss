@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Dec 2021 09:43:04 +0000</lastBuildDate>
-    <item>
-      <title>Stereolab - Blue Milk (18 plays)</title>
-      <link>https://www.last.fm/music/Stereolab/_/Blue+Milk</link>
-      <guid isPermaLink="false">Frippertron-1639132953--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Blue Milk</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5be4db107cf7f8e9def9338b87030ec7.jpg" length="9204" type="image/jpeg"/>
-      <pubDate>Fri, 10 Dec 2021 05:42:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Stereolab - Caleidoscopic Gaze (15 plays)</title>
-      <link>https://www.last.fm/music/Stereolab/_/Caleidoscopic+Gaze</link>
-      <guid isPermaLink="false">Frippertron-1639133643--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Caleidoscopic Gaze</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5be4db107cf7f8e9def9338b87030ec7.jpg" length="9204" type="image/jpeg"/>
-      <pubDate>Fri, 10 Dec 2021 05:54:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Dec 2021 09:54:46 +0000</lastBuildDate>
     <item>
       <title>Gentle Giant - Introduction (2 plays)</title>
       <link>https://www.last.fm/music/Gentle+Giant/_/Introduction</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1639388230--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Pictures of a City</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 13 Dec 2021 04:37:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Neurotica (16 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Neurotica</link>
+      <guid isPermaLink="false">Frippertron-1639388782--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Neurotica</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 13 Dec 2021 04:46:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Suitable Grounds for the Blues (5 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Suitable+Grounds+for+the+Blues</link>
+      <guid isPermaLink="false">Frippertron-1639389055--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Suitable Grounds for the Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 13 Dec 2021 04:50:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
