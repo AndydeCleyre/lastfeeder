@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Dec 2021 14:39:34 +0000</lastBuildDate>
-    <item>
-      <title>Novembre - Bremen (4 plays)</title>
-      <link>https://www.last.fm/music/Novembre/_/Bremen</link>
-      <guid isPermaLink="false">TalonsOfFire-1639188069--dcbb8de7-6574-4c14-a7c0-d2f6a1670fc9---Bremen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66f0c50752f1eb9dbdc7257252a1537f.jpg" length="29540" type="image/jpeg"/>
-      <pubDate>Fri, 10 Dec 2021 21:01:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Dec 2021 14:52:24 +0000</lastBuildDate>
     <item>
       <title>Novembre - Agathae (4 plays)</title>
       <link>https://www.last.fm/music/Novembre/_/Agathae</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1639492093--23d8426c-18c7-46e6-a51d-7395bd43c641---No Man's Land</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2093bf8ae92845f39d85f451d1ea7c61.jpg" length="35290" type="image/jpeg"/>
       <pubDate>Tue, 14 Dec 2021 09:28:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kid Bloom - Electric U (2 plays)</title>
+      <link>https://www.last.fm/music/Kid+Bloom/_/Electric+U</link>
+      <guid isPermaLink="false">TalonsOfFire-1639492677--9e975e9b-7538-4acd-ba91-8e5fd5df6b6e---Electric U</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc9b0599594d1d83042c8460bd4aa131.jpg" length="13507" type="image/jpeg"/>
+      <pubDate>Tue, 14 Dec 2021 09:37:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
