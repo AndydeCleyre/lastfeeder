@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Dec 2021 10:22:17 +0000</lastBuildDate>
-    <item>
-      <title>Gentle Giant - Just the Same (79 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/Just+the+Same</link>
-      <guid isPermaLink="false">Frippertron-1639455518--f795c501-1c41-4be2-bc2a-875eba75aa31---Just the Same</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8c28d169f913c91814bcdbbd4405914.png" length="246860" type="image/png"/>
-      <pubDate>Mon, 13 Dec 2021 23:18:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gentle Giant - Free Hand (20 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/Free+Hand</link>
-      <guid isPermaLink="false">Frippertron-1639455848--f795c501-1c41-4be2-bc2a-875eba75aa31---Free Hand</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8c28d169f913c91814bcdbbd4405914.png" length="246860" type="image/png"/>
-      <pubDate>Mon, 13 Dec 2021 23:24:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gentle Giant - Mobile (14 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/Mobile</link>
-      <guid isPermaLink="false">Frippertron-1639456225--f795c501-1c41-4be2-bc2a-875eba75aa31---Mobile</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8c28d169f913c91814bcdbbd4405914.png" length="246860" type="image/png"/>
-      <pubDate>Mon, 13 Dec 2021 23:30:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - O Salome (214 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/O+Salome</link>
-      <guid isPermaLink="false">Frippertron-1639456526--66f8692c-966d-4dfb-a2ed-babf51241922---O Salome</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017073b2445e401daebeae96368f1365.jpg" length="20967" type="image/jpeg"/>
-      <pubDate>Mon, 13 Dec 2021 23:35:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Dec 2021 10:43:37 +0000</lastBuildDate>
     <item>
       <title>The Enid - Dance Music (4 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Dance+Music</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1639475821--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Red</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 14 Dec 2021 04:57:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Electric Light Orchestra - Tightrope (56 plays)</title>
+      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Tightrope</link>
+      <guid isPermaLink="false">Frippertron-1639477371--0c502791-4ee9-4c5f-9696-0602b721ff3b---Tightrope</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
+      <pubDate>Tue, 14 Dec 2021 05:22:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Electric Light Orchestra - Telephone Line (50 plays)</title>
+      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Telephone+Line</link>
+      <guid isPermaLink="false">Frippertron-1639477677--0c502791-4ee9-4c5f-9696-0602b721ff3b---Telephone Line</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
+      <pubDate>Tue, 14 Dec 2021 05:27:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Electric Light Orchestra - Rockaria! (42 plays)</title>
+      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Rockaria!</link>
+      <guid isPermaLink="false">Frippertron-1639477959--0c502791-4ee9-4c5f-9696-0602b721ff3b---Rockaria!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
+      <pubDate>Tue, 14 Dec 2021 05:32:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Electric Light Orchestra - Shangri-La (42 plays)</title>
+      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Shangri-La</link>
+      <guid isPermaLink="false">Frippertron-1639478171--0c502791-4ee9-4c5f-9696-0602b721ff3b---Shangri-La</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
+      <pubDate>Tue, 14 Dec 2021 05:36:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
