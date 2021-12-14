@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Dec 2021 04:52:59 +0000</lastBuildDate>
-    <item>
-      <title>Kevitch - Sunrise (4 plays)</title>
-      <link>https://www.last.fm/music/Kevitch/_/Sunrise</link>
-      <guid isPermaLink="false">ddgromit-1639160773--Kevitch---Sunrise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d111ff860f8ee2386264e289a1ccbea.jpg" length="14887" type="image/jpeg"/>
-      <pubDate>Fri, 10 Dec 2021 13:26:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>¿Téo? - Buzzed (1 play)</title>
-      <link>https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Buzzed</link>
-      <guid isPermaLink="false">ddgromit-1639160981--51f6028a-4da3-4c7d-a283-ddf743453796---Buzzed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96bed45971407206c7205150574f0ca3.jpg" length="10797" type="image/jpeg"/>
-      <pubDate>Fri, 10 Dec 2021 13:29:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Dec 2021 18:47:22 +0000</lastBuildDate>
     <item>
       <title>Kevitch - idc (1 play)</title>
       <link>https://www.last.fm/music/Kevitch/_/idc</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1639456910--John D. Boswell---The Mind of Nature</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a5b33a88b0c4decf7a4eb7a793c89f8b.jpg" length="17058" type="image/jpeg"/>
       <pubDate>Mon, 13 Dec 2021 23:41:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Eguana - The Heart of a Molecule (5 plays)</title>
+      <link>https://www.last.fm/music/Eguana/_/The+Heart+of+a+Molecule</link>
+      <guid isPermaLink="false">ddgromit-1639457203--1400f9b3-96a9-4017-9590-961180ee3934---The Heart of a Molecule</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4e22bacb678079abf125a799a027d1a.jpg" length="27715" type="image/jpeg"/>
+      <pubDate>Mon, 13 Dec 2021 23:46:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Andy Leech - Aerolith (4 plays)</title>
+      <link>https://www.last.fm/music/Andy+Leech/_/Aerolith</link>
+      <guid isPermaLink="false">ddgromit-1639506363--3eef4767-cba4-499d-bf70-ebf292ab31d5---Aerolith</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50d8e252ec8248994c34c9383cbd19f4.jpg" length="17081" type="image/jpeg"/>
+      <pubDate>Tue, 14 Dec 2021 13:26:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
