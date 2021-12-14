@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Dec 2021 15:26:01 +0000</lastBuildDate>
-    <item>
-      <title>Table - Gagbox (1 play)</title>
-      <link>https://www.last.fm/music/Table/_/Gagbox</link>
-      <guid isPermaLink="false">lintmunro-1638212084--1d48bb90-53d3-4294-8687-1b25ea46757a---Gagbox</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bb1fbc4049d1b3491e6a3801148384e.jpg" length="22883" type="image/jpeg"/>
-      <pubDate>Mon, 29 Nov 2021 13:54:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jeff Rosenstock - DEPT OF FINANCE (1 play)</title>
-      <link>https://www.last.fm/music/Jeff+Rosenstock/_/DEPT+OF+FINANCE</link>
-      <guid isPermaLink="false">lintmunro-1638212401--14892f45-a103-44f2-bb18-ee4a20d7876e---DEPT OF FINANCE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d77e1fc5a579c902cf4cac440f14fed3.gif" length="252578" type="image/gif"/>
-      <pubDate>Mon, 29 Nov 2021 14:00:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Dec 2021 15:45:21 +0000</lastBuildDate>
     <item>
       <title>Grima - Cedar and Owls (1 play)</title>
       <link>https://www.last.fm/music/Grima/_/Cedar+and+Owls</link>
@@ -352,11 +338,25 @@
       <pubDate>Fri, 10 Dec 2021 20:37:11 -0500</pubDate>
     </item>
     <item>
-      <title>Véhémence - Epopée - Par le Sang Versé</title>
+      <title>Véhémence - Epopée - Par le Sang Versé (1 play)</title>
       <link>https://www.last.fm/music/V%C3%A9h%C3%A9mence/_/Epop%C3%A9e+-+Par+le+Sang+Vers%C3%A9</link>
       <guid isPermaLink="false">lintmunro-1639493887--b1c88e24-4b7d-485b-ba1c-286e4c73649b---Epopée - Par le Sang Versé</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/766e773695547b40d8add9100d8299a5.jpg" length="39216" type="image/jpeg"/>
       <pubDate>Tue, 14 Dec 2021 09:58:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Véhémence - La Sorcière du Bois Lunerive</title>
+      <link>https://www.last.fm/music/V%C3%A9h%C3%A9mence/_/La+Sorci%C3%A8re+du+Bois+Lunerive</link>
+      <guid isPermaLink="false">lintmunro-1639494435--b1c88e24-4b7d-485b-ba1c-286e4c73649b---La Sorcière du Bois Lunerive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/766e773695547b40d8add9100d8299a5.jpg" length="39216" type="image/jpeg"/>
+      <pubDate>Tue, 14 Dec 2021 10:07:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Véhémence - L'étrange clairière, Pt. 1</title>
+      <link>https://www.last.fm/music/V%C3%A9h%C3%A9mence/_/L%27%C3%A9trange+clairi%C3%A8re,+Pt.+1</link>
+      <guid isPermaLink="false">lintmunro-1639495988--b1c88e24-4b7d-485b-ba1c-286e4c73649b---L'étrange clairière, Pt. 1</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/766e773695547b40d8add9100d8299a5.jpg" length="39216" type="image/jpeg"/>
+      <pubDate>Tue, 14 Dec 2021 10:33:08 -0500</pubDate>
     </item>
   </channel>
 </rss>
