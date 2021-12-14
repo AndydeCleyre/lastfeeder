@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Dec 2021 22:19:42 +0000</lastBuildDate>
-    <item>
-      <title>Andy Leech - Aerolith (4 plays)</title>
-      <link>https://www.last.fm/music/Andy+Leech/_/Aerolith</link>
-      <guid isPermaLink="false">ddgromit-1639506363--3eef4767-cba4-499d-bf70-ebf292ab31d5---Aerolith</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50d8e252ec8248994c34c9383cbd19f4.jpg" length="17081" type="image/jpeg"/>
-      <pubDate>Tue, 14 Dec 2021 13:26:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Hans Zimmer - Mombasa (14 plays)</title>
-      <link>https://www.last.fm/music/Hans+Zimmer/_/Mombasa</link>
-      <guid isPermaLink="false">ddgromit-1639506597--e6de1f3b-6484-491c-88dd-6d619f142abc---Mombasa</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe27be04693b9a1c81596bb0af0c26e1.jpg" length="27414" type="image/jpeg"/>
-      <pubDate>Tue, 14 Dec 2021 13:29:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>BAYNK - go with u (2 plays)</title>
-      <link>https://www.last.fm/music/BAYNK/_/go+with+u</link>
-      <guid isPermaLink="false">ddgromit-1639508286--27c8c7f6-0609-433e-bbf7-398da6ba2d12---go with u</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f3617e2f415081b1261022f0b8daa01.jpg" length="4746" type="image/jpeg"/>
-      <pubDate>Tue, 14 Dec 2021 13:58:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Dec 2021 23:20:11 +0000</lastBuildDate>
     <item>
       <title>Rone - Ginkgo Biloba (1 play)</title>
       <link>https://www.last.fm/music/Rone/_/Ginkgo+Biloba</link>
@@ -79,7 +58,7 @@
       <pubDate>Tue, 14 Dec 2021 14:23:12 -0500</pubDate>
     </item>
     <item>
-      <title>Jadu Heart - Burning Hour (1 play)</title>
+      <title>Jadu Heart - Burning Hour (2 plays)</title>
       <link>https://www.last.fm/music/Jadu+Heart/_/Burning+Hour</link>
       <guid isPermaLink="false">ddgromit-1639509952--d92a459b-da7b-4ce1-8368-6bbc3deaf3af---Burning Hour</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ee6ba2635378c156e7efe8f0ff6e305.jpg" length="32748" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1639519433--0d10d859-50a4-4cb1-9412-31fb02795f9c---Dream Reverb</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07880ed4167b8b7bdd95dfeeed36f7e2.jpg" length="15896" type="image/jpeg"/>
       <pubDate>Tue, 14 Dec 2021 17:03:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Clem Beatz - Hymne (1 play)</title>
+      <link>https://www.last.fm/music/Clem+Beatz/_/Hymne</link>
+      <guid isPermaLink="false">ddgromit-1639519777--Clem Beatz---Hymne</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 14 Dec 2021 17:09:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Parra for Cuva - Sumidero (2 plays)</title>
+      <link>https://www.last.fm/music/Parra+for+Cuva/_/Sumidero</link>
+      <guid isPermaLink="false">ddgromit-1639523234--0d10d859-50a4-4cb1-9412-31fb02795f9c---Sumidero</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1463d5f7cd61061073f3a9a561cc9d1d.jpg" length="13193" type="image/jpeg"/>
+      <pubDate>Tue, 14 Dec 2021 18:07:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jadu Heart - Burning Hour (2 plays)</title>
+      <link>https://www.last.fm/music/Jadu+Heart/_/Burning+Hour</link>
+      <guid isPermaLink="false">ddgromit-1639523531--d92a459b-da7b-4ce1-8368-6bbc3deaf3af---Burning Hour</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ee6ba2635378c156e7efe8f0ff6e305.jpg" length="32748" type="image/jpeg"/>
+      <pubDate>Tue, 14 Dec 2021 18:12:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
