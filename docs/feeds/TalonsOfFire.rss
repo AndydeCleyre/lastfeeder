@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Dec 2021 16:36:22 +0000</lastBuildDate>
-    <item>
-      <title>Chroma Key - Undertow (2 plays)</title>
-      <link>https://www.last.fm/music/Chroma+Key/_/Undertow</link>
-      <guid isPermaLink="false">TalonsOfFire-1639425583--4492c65a-533e-4189-b865-b5af36003b30---Undertow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/edb850307b3d4da4cd6b6dc5732c6618.jpg" length="21998" type="image/jpeg"/>
-      <pubDate>Mon, 13 Dec 2021 14:59:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Dec 2021 17:10:31 +0000</lastBuildDate>
     <item>
       <title>Buckethead - Whitewash (1 play)</title>
       <link>https://www.last.fm/music/Buckethead/_/Whitewash</link>
@@ -352,11 +345,18 @@
       <pubDate>Wed, 15 Dec 2021 11:20:11 -0500</pubDate>
     </item>
     <item>
-      <title>John Haughm - Eindruck</title>
+      <title>John Haughm - Eindruck (1 play)</title>
       <link>https://www.last.fm/music/John+Haughm/_/Eindruck</link>
       <guid isPermaLink="false">TalonsOfFire-1639585486--John Haughm---Eindruck</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a97601d1594bdd353e4505ac9709f108.jpg" length="26370" type="image/jpeg"/>
       <pubDate>Wed, 15 Dec 2021 11:24:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Riverside - Us (7 plays)</title>
+      <link>https://www.last.fm/music/Riverside/_/Us</link>
+      <guid isPermaLink="false">TalonsOfFire-1639586480--Riverside---Us</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7fda3990d0b64d47b9344950f4839142.jpg" length="22485" type="image/jpeg"/>
+      <pubDate>Wed, 15 Dec 2021 11:41:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
