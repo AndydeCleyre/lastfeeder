@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Dec 2021 10:40:45 +0000</lastBuildDate>
-    <item>
-      <title>Queen - We Will Rock You (fast) (28 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/We+Will+Rock+You+(fast)</link>
-      <guid isPermaLink="false">Frippertron-1639628829--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---We Will Rock You (fast)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db7235a925a30ef5805c72050a29e76f.png" length="161535" type="image/png"/>
-      <pubDate>Wed, 15 Dec 2021 23:27:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Dec 2021 10:52:40 +0000</lastBuildDate>
     <item>
       <title>Queen - Let Me Entertain You (44 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Let+Me+Entertain+You</link>
@@ -30,7 +23,7 @@
       <pubDate>Wed, 15 Dec 2021 23:33:46 -0500</pubDate>
     </item>
     <item>
-      <title>Queen - Killer Queen</title>
+      <title>Queen - Killer Queen (86 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Killer+Queen</link>
       <guid isPermaLink="false">Frippertron-1639629439--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Killer Queen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db7235a925a30ef5805c72050a29e76f.png" length="161535" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1639650069--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74dfbe53999fdd4606ba679d061d3a40.png" length="229091" type="image/png"/>
       <pubDate>Thu, 16 Dec 2021 05:21:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Be Bop Deluxe - Fair Exchange (8 plays)</title>
+      <link>https://www.last.fm/music/Be+Bop+Deluxe/_/Fair+Exchange</link>
+      <guid isPermaLink="false">Frippertron-1639651478--96742ec2-b733-4ac6-b493-7e056a43b357---Fair Exchange</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e01d838e48a7af3484dac1a3197e04c.jpg" length="15196" type="image/jpeg"/>
+      <pubDate>Thu, 16 Dec 2021 05:44:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
