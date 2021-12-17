@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Dec 2021 07:18:48 +0000</lastBuildDate>
-    <item>
-      <title>LCD Soundsystem - One Touch (20 plays)</title>
-      <link>https://www.last.fm/music/LCD+Soundsystem/_/One+Touch</link>
-      <guid isPermaLink="false">Frippertron-1639637753--2aaf7396-6ab8-40f3-9776-a41c42c8e26b---One Touch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/820b80a823f8487089e4f9564750e16e.png" length="113458" type="image/png"/>
-      <pubDate>Thu, 16 Dec 2021 01:55:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Dec 2021 08:23:48 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Frame by Frame (80 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Frame+by+Frame</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1639724784--21d177ba-3d51-461e-9b3f-ad9a80b419dc---O My Soul</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5ad6c7774a84a4bcaf7656021ce6a3e.png" length="104122" type="image/png"/>
       <pubDate>Fri, 17 Dec 2021 02:06:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - John L (28 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/John+L</link>
+      <guid isPermaLink="false">Frippertron-1639729060--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---John L</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Fri, 17 Dec 2021 03:17:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
