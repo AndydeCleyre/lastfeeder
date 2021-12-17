@@ -7,19 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Dec 2021 18:23:33 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Live at Wembley Stadium (60fps) (1 play)</title>
-      <link>https://www.last.fm/music/Genesis/_/Live+at+Wembley+Stadium+(60fps)</link>
-      <guid isPermaLink="false">manosg--1639503965--Genesis---Live at Wembley Stadium (60fps)</guid>
-      <pubDate>Tue, 14 Dec 2021 12:46:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ράδιο Αρβύλα - Ολόκληρο Επεισόδιο (11 plays)</title>
-      <link>https://www.last.fm/music/%CE%A1%CE%AC%CE%B4%CE%B9%CE%BF+%CE%91%CF%81%CE%B2%CF%8D%CE%BB%CE%B1/_/%CE%9F%CE%BB%CF%8C%CE%BA%CE%BB%CE%B7%CF%81%CE%BF+%CE%95%CF%80%CE%B5%CE%B9%CF%83%CF%8C%CE%B4%CE%B9%CE%BF</link>
-      <guid isPermaLink="false">manosg--1639552502--Ράδιο Αρβύλα---Ολόκληρο Επεισόδιο</guid>
-      <pubDate>Wed, 15 Dec 2021 02:15:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Dec 2021 18:46:21 +0000</lastBuildDate>
     <item>
       <title>newsittv - Ράδιο Αρβύλα για αποχώρηση Στάθη Παναγιωτόπουλου (1 play)</title>
       <link>https://www.last.fm/music/newsittv/_/%CE%A1%CE%AC%CE%B4%CE%B9%CE%BF+%CE%91%CF%81%CE%B2%CF%8D%CE%BB%CE%B1+%CE%B3%CE%B9%CE%B1+%CE%B1%CF%80%CE%BF%CF%87%CF%8E%CF%81%CE%B7%CF%83%CE%B7+%CE%A3%CF%84%CE%AC%CE%B8%CE%B7+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%89%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%85</link>
@@ -304,7 +292,7 @@
       <pubDate>Fri, 17 Dec 2021 11:39:38 -0500</pubDate>
     </item>
     <item>
-      <title>Genesis - I Know What I Like (In Your Wardrobe) (6 plays)</title>
+      <title>Genesis - I Know What I Like (In Your Wardrobe) (7 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/I+Know+What+I+Like+(In+Your+Wardrobe)</link>
       <guid isPermaLink="false">manosg--1639759662--722b2118-a77b-4161-9060-63a1b469e5b2---I Know What I Like (In Your Wardrobe)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d20439b8467234f5e083884792cc5c6.png" length="109382" type="image/png"/>
@@ -342,6 +330,19 @@
       <link>https://www.last.fm/music/Genesis/_/The+Cinema+Show+(Remastered+2008)</link>
       <guid isPermaLink="false">manosg--1639764159--Genesis---The Cinema Show (Remastered 2008)</guid>
       <pubDate>Fri, 17 Dec 2021 13:02:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Aisle Of Plenty (Remastered 2008) (3 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Aisle+Of+Plenty+(Remastered+2008)</link>
+      <guid isPermaLink="false">manosg--1639765862--Genesis---Aisle Of Plenty (Remastered 2008)</guid>
+      <pubDate>Fri, 17 Dec 2021 13:31:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - I Know What I Like (In Your Wardrobe) (7 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/I+Know+What+I+Like+(In+Your+Wardrobe)</link>
+      <guid isPermaLink="false">manosg--1639766042--722b2118-a77b-4161-9060-63a1b469e5b2---I Know What I Like (In Your Wardrobe)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d20439b8467234f5e083884792cc5c6.png" length="109382" type="image/png"/>
+      <pubDate>Fri, 17 Dec 2021 13:34:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
