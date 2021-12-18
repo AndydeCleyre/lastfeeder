@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Dec 2021 18:23:20 +0000</lastBuildDate>
-    <item>
-      <title>Jonathan Hultén - The Fleeting World (1 play)</title>
-      <link>https://www.last.fm/music/Jonathan+Hult%C3%A9n/_/The+Fleeting+World</link>
-      <guid isPermaLink="false">manosg--1639565183--ade4ecb7-cdf4-4b90-96c0-0e3cc7156c3d---The Fleeting World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/77a5783858e3f34ae04ae98258a1826f.jpg" length="20634" type="image/jpeg"/>
-      <pubDate>Wed, 15 Dec 2021 05:46:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Dec 2021 18:46:46 +0000</lastBuildDate>
     <item>
       <title>Jonathan Hultén - The Roses (1 play)</title>
       <link>https://www.last.fm/music/Jonathan+Hult%C3%A9n/_/The+Roses</link>
@@ -338,10 +331,16 @@
       <pubDate>Sat, 18 Dec 2021 13:05:22 -0500</pubDate>
     </item>
     <item>
-      <title>Phil Collins - Take Me Down (2016 Remaster Official Audio) (1 play)</title>
+      <title>Phil Collins - Take Me Down (2016 Remaster Official Audio) (2 plays)</title>
       <link>https://www.last.fm/music/Phil+Collins/_/Take+Me+Down+(2016+Remaster+Official+Audio)</link>
       <guid isPermaLink="false">manosg--1639851432--Phil Collins---Take Me Down (2016 Remaster Official Audio)</guid>
       <pubDate>Sat, 18 Dec 2021 13:17:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Phil Collins - Take Me Down (2016 Remaster Official Audio) (2 plays)</title>
+      <link>https://www.last.fm/music/Phil+Collins/_/Take+Me+Down+(2016+Remaster+Official+Audio)</link>
+      <guid isPermaLink="false">manosg--1639851914--Phil Collins---Take Me Down (2016 Remaster Official Audio)</guid>
+      <pubDate>Sat, 18 Dec 2021 13:25:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
