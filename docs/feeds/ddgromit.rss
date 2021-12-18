@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Dec 2021 02:14:21 +0000</lastBuildDate>
-    <item>
-      <title>Isohype - One Way Street (7 plays)</title>
-      <link>https://www.last.fm/music/Isohype/_/One+Way+Street</link>
-      <guid isPermaLink="false">ddgromit-1639693238--Isohype---One Way Street</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 16 Dec 2021 17:20:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Isohype - Double Tap Endorfin (5 plays)</title>
-      <link>https://www.last.fm/music/Isohype/_/Double+Tap+Endorfin</link>
-      <guid isPermaLink="false">ddgromit-1639693433--Isohype---Double Tap Endorfin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 16 Dec 2021 17:23:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>Oddisee - After Thoughts (13 plays)</title>
-      <link>https://www.last.fm/music/Oddisee/_/After+Thoughts</link>
-      <guid isPermaLink="false">ddgromit-1639693640--aaae09b3-70d9-4a65-bb3f-57e85dfe9b83---After Thoughts</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eaf41514be0b4c34b0281e8e2b4c7cc1.jpg" length="14965" type="image/jpeg"/>
-      <pubDate>Thu, 16 Dec 2021 17:27:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Dec 2021 02:51:33 +0000</lastBuildDate>
     <item>
       <title>Aesop Rock - Ruby '81 - Instrumental (5 plays)</title>
       <link>https://www.last.fm/music/Aesop+Rock/_/Ruby+%2781+-+Instrumental</link>
@@ -194,6 +173,7 @@
       <title>Thomas Newman - 50% of Light Speed (2 plays)</title>
       <link>https://www.last.fm/music/Thomas+Newman/_/50%25+of+Light+Speed</link>
       <guid isPermaLink="false">ddgromit-1639787604--348f3a5f-5112-4d72-b33b-11c60b4f9af2---50% of Light Speed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e010e9333ac1e3ce5ad87425833cc9a.jpg" length="17743" type="image/jpeg"/>
       <pubDate>Fri, 17 Dec 2021 19:33:24 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1639793214--Thomas James White---Fractal</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2cff09e72f73befb3cc6b5466e6eba4.jpg" length="12141" type="image/jpeg"/>
       <pubDate>Fri, 17 Dec 2021 21:06:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Charlotte Cardin - Daddy (1 play)</title>
+      <link>https://www.last.fm/music/Charlotte+Cardin/_/Daddy</link>
+      <guid isPermaLink="false">ddgromit-1639793827--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Daddy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ca533f37f878d1aeb8cf4a13c2b8335.jpg" length="5608" type="image/jpeg"/>
+      <pubDate>Fri, 17 Dec 2021 21:17:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Charlotte Cardin - Meaningless (1 play)</title>
+      <link>https://www.last.fm/music/Charlotte+Cardin/_/Meaningless</link>
+      <guid isPermaLink="false">ddgromit-1639794005--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Meaningless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ca533f37f878d1aeb8cf4a13c2b8335.jpg" length="5608" type="image/jpeg"/>
+      <pubDate>Fri, 17 Dec 2021 21:20:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Charlotte Cardin - Phoenix (1 play)</title>
+      <link>https://www.last.fm/music/Charlotte+Cardin/_/Phoenix</link>
+      <guid isPermaLink="false">ddgromit-1639794223--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Phoenix</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ca533f37f878d1aeb8cf4a13c2b8335.jpg" length="5608" type="image/jpeg"/>
+      <pubDate>Fri, 17 Dec 2021 21:23:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
