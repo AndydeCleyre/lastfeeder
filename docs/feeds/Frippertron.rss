@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Dec 2021 10:22:57 +0000</lastBuildDate>
-    <item>
-      <title>Electric Light Orchestra - Above the Clouds (30 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Above+the+Clouds</link>
-      <guid isPermaLink="false">Frippertron-1639975821--0c502791-4ee9-4c5f-9696-0602b721ff3b---Above the Clouds</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
-      <pubDate>Sun, 19 Dec 2021 23:50:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - Do Ya (30 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Do+Ya</link>
-      <guid isPermaLink="false">Frippertron-1639975960--0c502791-4ee9-4c5f-9696-0602b721ff3b---Do Ya</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
-      <pubDate>Sun, 19 Dec 2021 23:52:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Dec 2021 10:44:10 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Shangri-La (43 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Shangri-La</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1639994470--f37c537b-3557-4031-bfd6-ab63ced32854---Clockwork Creep</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bdedd85d4fe46d3a8cd5ef508a9c58a.jpg" length="21331" type="image/jpeg"/>
       <pubDate>Mon, 20 Dec 2021 05:01:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Fand (33 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Fand</link>
+      <guid isPermaLink="false">Frippertron-1639995674--66f8692c-966d-4dfb-a2ed-babf51241922---Fand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
+      <pubDate>Mon, 20 Dec 2021 05:21:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - O Salome (217 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/O+Salome</link>
+      <guid isPermaLink="false">Frippertron-1639996658--66f8692c-966d-4dfb-a2ed-babf51241922---O Salome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017073b2445e401daebeae96368f1365.jpg" length="20967" type="image/jpeg"/>
+      <pubDate>Mon, 20 Dec 2021 05:37:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
