@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Dec 2021 07:19:43 +0000</lastBuildDate>
-    <item>
-      <title>Faraquet - Carefully Planned (3 plays)</title>
-      <link>https://www.last.fm/music/Faraquet/_/Carefully+Planned</link>
-      <guid isPermaLink="false">Frippertron-1639734634--e866e006-4c80-4753-b53f-1bc5d88ccddd---Carefully Planned</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0d8538e60c04e919d8158543148c8d4.jpg" length="30892" type="image/jpeg"/>
-      <pubDate>Fri, 17 Dec 2021 04:50:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Dec 2021 08:25:39 +0000</lastBuildDate>
     <item>
       <title>Faraquet - The Fourth Introduction (3 plays)</title>
       <link>https://www.last.fm/music/Faraquet/_/The+Fourth+Introduction</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1639983975--e6e1e76f-afee-4990-aad0-056199d94918---Gustavo Show</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbd33cd3d44df23546f923bf1825495d.jpg" length="17545" type="image/jpeg"/>
       <pubDate>Mon, 20 Dec 2021 02:06:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Babasónicos - Combustible (1 play)</title>
+      <link>https://www.last.fm/music/Babas%C3%B3nicos/_/Combustible</link>
+      <guid isPermaLink="false">Frippertron-1639988501--e6e1e76f-afee-4990-aad0-056199d94918---Combustible</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbd33cd3d44df23546f923bf1825495d.jpg" length="17545" type="image/jpeg"/>
+      <pubDate>Mon, 20 Dec 2021 03:21:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
