@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Dec 2021 09:43:30 +0000</lastBuildDate>
-    <item>
-      <title>Electric Light Orchestra - Rockaria! (43 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Rockaria!</link>
-      <guid isPermaLink="false">Frippertron-1639974890--0c502791-4ee9-4c5f-9696-0602b721ff3b---Rockaria!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
-      <pubDate>Sun, 19 Dec 2021 23:34:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - Mission (A World Record) (28 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Mission+(A+World+Record)</link>
-      <guid isPermaLink="false">Frippertron-1639975084--0c502791-4ee9-4c5f-9696-0602b721ff3b---Mission (A World Record)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
-      <pubDate>Sun, 19 Dec 2021 23:38:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Dec 2021 09:55:14 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - So Fine (30 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/So+Fine</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1639992973--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Mezzanine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
       <pubDate>Mon, 20 Dec 2021 04:36:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Massive Attack - Group Four (23 plays)</title>
+      <link>https://www.last.fm/music/Massive+Attack/_/Group+Four</link>
+      <guid isPermaLink="false">Frippertron-1639993332--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Group Four</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
+      <pubDate>Mon, 20 Dec 2021 04:42:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Massive Attack - (Exchange) (23 plays)</title>
+      <link>https://www.last.fm/music/Massive+Attack/_/(Exchange)</link>
+      <guid isPermaLink="false">Frippertron-1639993827--Massive Attack---(Exchange)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
+      <pubDate>Mon, 20 Dec 2021 04:50:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
