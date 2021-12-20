@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Dec 2021 05:39:41 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - International Feel (103 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/International+Feel</link>
-      <guid isPermaLink="false">Frippertron-1639730805--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---International Feel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58a0b35dae94252478938e42d6afbc94.jpg" length="44490" type="image/jpeg"/>
-      <pubDate>Fri, 17 Dec 2021 03:46:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Todd Rundgren - Never Never Land (105 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Never+Never+Land</link>
-      <guid isPermaLink="false">Frippertron-1639730976--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Never Never Land</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58a0b35dae94252478938e42d6afbc94.jpg" length="44490" type="image/jpeg"/>
-      <pubDate>Fri, 17 Dec 2021 03:49:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Dec 2021 05:52:18 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Tic Tic Tic It Wears Off (93 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Tic+Tic+Tic+It+Wears+Off</link>
@@ -296,7 +282,7 @@
       <pubDate>Sun, 19 Dec 2021 23:42:31 -0500</pubDate>
     </item>
     <item>
-      <title>Electric Light Orchestra - Livin' Thing</title>
+      <title>Electric Light Orchestra - Livin' Thing (39 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Livin%27+Thing</link>
       <guid isPermaLink="false">Frippertron-1639975608--0c502791-4ee9-4c5f-9696-0602b721ff3b---Livin' Thing</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1639978598--487a96f2-eefd-485e-892b-2cf240835bf4---Zuum</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db4ffdb9e9f56e880a09ab4e3a96630d.jpg" length="13045" type="image/jpeg"/>
       <pubDate>Mon, 20 Dec 2021 00:36:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Vanishing Twin - The Organism (1 play)</title>
+      <link>https://www.last.fm/music/Vanishing+Twin/_/The+Organism</link>
+      <guid isPermaLink="false">Frippertron-1639978937--487a96f2-eefd-485e-892b-2cf240835bf4---The Organism</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db4ffdb9e9f56e880a09ab4e3a96630d.jpg" length="13045" type="image/jpeg"/>
+      <pubDate>Mon, 20 Dec 2021 00:42:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Vanishing Twin - In Cucina (1 play)</title>
+      <link>https://www.last.fm/music/Vanishing+Twin/_/In+Cucina</link>
+      <guid isPermaLink="false">Frippertron-1639979215--487a96f2-eefd-485e-892b-2cf240835bf4---In Cucina</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db4ffdb9e9f56e880a09ab4e3a96630d.jpg" length="13045" type="image/jpeg"/>
+      <pubDate>Mon, 20 Dec 2021 00:46:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
