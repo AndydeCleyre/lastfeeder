@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Dec 2021 21:16:59 +0000</lastBuildDate>
-    <item>
-      <title>Wavves - Caviar (1 play)</title>
-      <link>https://www.last.fm/music/Wavves/_/Caviar</link>
-      <guid isPermaLink="false">walrus898-1640206812--763cf642-45ad-42ed-a1c3-e977eaa3b260---Caviar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4bfbf35e7024a5eb4492286bcc0ccff1.jpg" length="13206" type="image/jpeg"/>
-      <pubDate>Wed, 22 Dec 2021 16:00:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 21:40:28 +0000</lastBuildDate>
     <item>
       <title>Darkside - The Limit (1 play)</title>
       <link>https://www.last.fm/music/Darkside/_/The+Limit</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">walrus898-1640293031--Beach House---Pink Funeral</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/022d1a3924a84c731520bda4e2f6e3d8.png" length="76323" type="image/png"/>
       <pubDate>Thu, 23 Dec 2021 15:57:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Beach House - Through Me</title>
+      <link>https://www.last.fm/music/Beach+House/_/Through+Me</link>
+      <guid isPermaLink="false">walrus898-1640293472--Beach House---Through Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/022d1a3924a84c731520bda4e2f6e3d8.png" length="76323" type="image/png"/>
+      <pubDate>Thu, 23 Dec 2021 16:04:32 -0500</pubDate>
     </item>
   </channel>
 </rss>
