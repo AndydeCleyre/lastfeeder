@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Dec 2021 03:21:04 +0000</lastBuildDate>
-    <item>
-      <title>Ryuichi Sakamoto - Bamboo Houses - Remix (2 plays)</title>
-      <link>https://www.last.fm/music/Ryuichi+Sakamoto/_/Bamboo+Houses+-+Remix</link>
-      <guid isPermaLink="false">TalonsOfFire-1639590789--Ryuichi Sakamoto---Bamboo Houses - Remix</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/474e3170275b4157ad30df40c7c35bf3.png" length="238003" type="image/png"/>
-      <pubDate>Wed, 15 Dec 2021 12:53:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Aphex Twin - Nanou2 (3 plays)</title>
-      <link>https://www.last.fm/music/Aphex+Twin/_/Nanou2</link>
-      <guid isPermaLink="false">TalonsOfFire-1639591085--f22942a1-6f70-4f48-866e-238cb2308fbd---Nanou2</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c66b692b26c4fb3be2da6dda2fc9bb7.png" length="167853" type="image/png"/>
-      <pubDate>Wed, 15 Dec 2021 12:58:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Jezabels - Dark Storm (1 play)</title>
-      <link>https://www.last.fm/music/The+Jezabels/_/Dark+Storm</link>
-      <guid isPermaLink="false">TalonsOfFire-1639591305--904769a8-4494-476c-b4b2-2c146610ec39---Dark Storm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee5b587e33764561a96504c8b31df30d.jpg" length="20238" type="image/jpeg"/>
-      <pubDate>Wed, 15 Dec 2021 13:01:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 16:38:16 +0000</lastBuildDate>
     <item>
       <title>Yumi Zouma - In Camera (1 play)</title>
       <link>https://www.last.fm/music/Yumi+Zouma/_/In+Camera</link>
@@ -184,11 +163,18 @@
       <pubDate>Mon, 20 Dec 2021 11:43:57 -0500</pubDate>
     </item>
     <item>
-      <title>Riverside - Beyond the Eyelids (8 plays)</title>
+      <title>Riverside - Beyond the Eyelids (9 plays)</title>
       <link>https://www.last.fm/music/Riverside/_/Beyond+the+Eyelids</link>
       <guid isPermaLink="false">TalonsOfFire-1640018819--Riverside---Beyond the Eyelids</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f385e75998c3ca95265e99e3e207fd57.jpg" length="18262" type="image/jpeg"/>
       <pubDate>Mon, 20 Dec 2021 11:46:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Riverside - Beyond the Eyelids (9 plays)</title>
+      <link>https://www.last.fm/music/Riverside/_/Beyond+the+Eyelids</link>
+      <guid isPermaLink="false">TalonsOfFire-1640019295--Riverside---Beyond the Eyelids</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f385e75998c3ca95265e99e3e207fd57.jpg" length="18262" type="image/jpeg"/>
+      <pubDate>Mon, 20 Dec 2021 11:54:55 -0500</pubDate>
     </item>
     <item>
       <title>Father John Misty - True Affection (2 plays)</title>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1640227762--e3bda984-f349-4924-b4b8-f72478bbb3f3---Ziptie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f6bd756983cd040611b9d1e28458bad.png" length="103617" type="image/png"/>
       <pubDate>Wed, 22 Dec 2021 21:49:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mono - 16.12 (1 play)</title>
+      <link>https://www.last.fm/music/Mono/_/16.12</link>
+      <guid isPermaLink="false">TalonsOfFire-1640275791--Mono---16.12</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3751d64f406f4a408408f1248b78fb62.jpg" length="27253" type="image/jpeg"/>
+      <pubDate>Thu, 23 Dec 2021 11:09:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tortoise - Ry Cooder (4 plays)</title>
+      <link>https://www.last.fm/music/Tortoise/_/Ry+Cooder</link>
+      <guid isPermaLink="false">TalonsOfFire-1640276922--e0953daa-860f-4dc8-9f1a-b12587cdaf17---Ry Cooder</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b7d7ddc028606eaaa945c8c65a3d5ee.jpg" length="9526" type="image/jpeg"/>
+      <pubDate>Thu, 23 Dec 2021 11:28:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
