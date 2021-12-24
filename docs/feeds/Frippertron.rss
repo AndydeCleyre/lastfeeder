@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Dec 2021 10:55:58 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - A Scarcity of Miracles (2 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/A+Scarcity+of+Miracles</link>
-      <guid isPermaLink="false">Frippertron-1640320881--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---A Scarcity of Miracles</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 23 Dec 2021 23:41:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Dec 2021 11:17:02 +0000</lastBuildDate>
     <item>
       <title>Gentle Giant - Just the Same (81 plays)</title>
       <link>https://www.last.fm/music/Gentle+Giant/_/Just+the+Same</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1640342985--e01c3376-15fa-40d7-b747-5f219bdefdd7---Deacon Blues</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
       <pubDate>Fri, 24 Dec 2021 05:49:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Peg (36 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Peg</link>
+      <guid isPermaLink="false">Frippertron-1640343442--e01c3376-15fa-40d7-b747-5f219bdefdd7---Peg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Fri, 24 Dec 2021 05:57:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
