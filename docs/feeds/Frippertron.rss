@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Dec 2021 07:19:00 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - We All Fall In Love Sometimes (27 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/We+All+Fall+In+Love+Sometimes</link>
-      <guid isPermaLink="false">Frippertron-1640251356--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---We All Fall In Love Sometimes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
-      <pubDate>Thu, 23 Dec 2021 04:22:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Dec 2021 08:24:38 +0000</lastBuildDate>
     <item>
       <title>Elton John - Curtains (31 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Curtains</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1640329378--ac5af671-1df0-4312-8b7b-e61992ecc883---Behind the Mask</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e72471ef53a448bd89d3ab8d5b113a44.jpg" length="20786" type="image/jpeg"/>
       <pubDate>Fri, 24 Dec 2021 02:02:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - Tong Poo (49 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Tong+Poo</link>
+      <guid isPermaLink="false">Frippertron-1640329578--ac5af671-1df0-4312-8b7b-e61992ecc883---Tong Poo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e72471ef53a448bd89d3ab8d5b113a44.jpg" length="20786" type="image/jpeg"/>
+      <pubDate>Fri, 24 Dec 2021 02:06:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
