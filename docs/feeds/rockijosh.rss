@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Dec 2021 17:52:29 +0000</lastBuildDate>
-    <item>
-      <title>System of a Down - Forest (9 plays)</title>
-      <link>https://www.last.fm/music/System+of+a+Down/_/Forest</link>
-      <guid isPermaLink="false">rockijosh-1640361354--cc0b7089-c08d-4c10-b6b0-873582c17fd6---Forest</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c4ee6a22457448f82af23ef5134cfa6.png" length="227465" type="image/png"/>
-      <pubDate>Fri, 24 Dec 2021 10:55:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>System of a Down - ATWA (8 plays)</title>
-      <link>https://www.last.fm/music/System+of+a+Down/_/ATWA</link>
-      <guid isPermaLink="false">rockijosh-1640362201--cc0b7089-c08d-4c10-b6b0-873582c17fd6---ATWA</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c4ee6a22457448f82af23ef5134cfa6.png" length="227465" type="image/png"/>
-      <pubDate>Fri, 24 Dec 2021 11:10:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Dec 2021 18:23:15 +0000</lastBuildDate>
     <item>
       <title>System of a Down - Shimmy (57 plays)</title>
       <link>https://www.last.fm/music/System+of+a+Down/_/Shimmy</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1640454320--Brand New---Out of Mana</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b83ad2561639445da263470bbc7c06e5.jpg" length="15482" type="image/jpeg"/>
       <pubDate>Sat, 25 Dec 2021 12:45:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Brand New - In the Water (23 plays)</title>
+      <link>https://www.last.fm/music/Brand+New/_/In+the+Water</link>
+      <guid isPermaLink="false">rockijosh-1640454635--Brand New---In the Water</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b83ad2561639445da263470bbc7c06e5.jpg" length="15482" type="image/jpeg"/>
+      <pubDate>Sat, 25 Dec 2021 12:50:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Brand New - Desert (79 plays)</title>
+      <link>https://www.last.fm/music/Brand+New/_/Desert</link>
+      <guid isPermaLink="false">rockijosh-1640456043--Brand New---Desert</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b83ad2561639445da263470bbc7c06e5.jpg" length="15482" type="image/jpeg"/>
+      <pubDate>Sat, 25 Dec 2021 13:14:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
