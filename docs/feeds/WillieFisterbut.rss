@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Dec 2021 01:05:50 +0000</lastBuildDate>
-    <item>
-      <title>Cloves - Sicko (1 play)</title>
-      <link>https://www.last.fm/music/Cloves/_/Sicko</link>
-      <guid isPermaLink="false">WillieFisterbut-1640137993--245e4824-3036-4b5c-acf0-408729e9118b---Sicko</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6077e7d1e5be6648aa7b64774c105f5f.png" length="166495" type="image/png"/>
-      <pubDate>Tue, 21 Dec 2021 20:53:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cloves - Better (1 play)</title>
-      <link>https://www.last.fm/music/Cloves/_/Better</link>
-      <guid isPermaLink="false">WillieFisterbut-1640138259--245e4824-3036-4b5c-acf0-408729e9118b---Better</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6077e7d1e5be6648aa7b64774c105f5f.png" length="166495" type="image/png"/>
-      <pubDate>Tue, 21 Dec 2021 20:57:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Damn The Machine - The Mission (59 plays)</title>
-      <link>https://www.last.fm/music/Damn+The+Machine/_/The+Mission</link>
-      <guid isPermaLink="false">WillieFisterbut-1640156880--d5544ffc-0173-4b36-ac94-79e2954eefb2---The Mission</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9cdde980ca8b4498ba74d1e89ebe6691.jpg" length="19695" type="image/jpeg"/>
-      <pubDate>Wed, 22 Dec 2021 02:08:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Dec 2021 01:07:35 +0000</lastBuildDate>
     <item>
       <title>Damn The Machine - Fall Of Order (53 plays)</title>
       <link>https://www.last.fm/music/Damn+The+Machine/_/Fall+Of+Order</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">WillieFisterbut-1640364150--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Violent Delights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9a1347fe5731ec790aef9d59a7f1b30.jpg" length="10071" type="image/jpeg"/>
       <pubDate>Fri, 24 Dec 2021 11:42:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Epica - Unleashed (34 plays)</title>
+      <link>https://www.last.fm/music/Epica/_/Unleashed</link>
+      <guid isPermaLink="false">WillieFisterbut-1640539278--Epica---Unleashed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ec05ef234904e152c428d3c3c7a151c.jpg" length="41260" type="image/jpeg"/>
+      <pubDate>Sun, 26 Dec 2021 12:21:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Epica - The Essence Of Silence (Official Live) (3 plays)</title>
+      <link>https://www.last.fm/music/Epica/_/The+Essence+Of+Silence+(Official+Live)</link>
+      <guid isPermaLink="false">WillieFisterbut-1640539758--Epica---The Essence Of Silence (Official Live)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 26 Dec 2021 12:29:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Epica - Consign To Oblivion (Live at the Zenith) (1 play)</title>
+      <link>https://www.last.fm/music/Epica/_/Consign+To+Oblivion+(Live+at+the+Zenith)</link>
+      <guid isPermaLink="false">WillieFisterbut-1640541943--Epica---Consign To Oblivion (Live at the Zenith)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 26 Dec 2021 13:05:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
