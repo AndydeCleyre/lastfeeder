@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Dec 2021 10:50:53 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Outside (21 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Outside</link>
-      <guid isPermaLink="false">Frippertron-1640581264--5441c29d-3602-4898-b1a1-b77fa23b8e50---Outside</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007761d122d75d12c03305238399cab5.png" length="133268" type="image/png"/>
-      <pubDate>Mon, 27 Dec 2021 00:01:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Dec 2021 10:57:33 +0000</lastBuildDate>
     <item>
       <title>David Bowie - The Hearts Filthy Lesson (27 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/The+Hearts+Filthy+Lesson</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1640601886--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---We All Fall In Love Sometimes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
       <pubDate>Mon, 27 Dec 2021 05:44:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Curtains (32 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Curtains</link>
+      <guid isPermaLink="false">Frippertron-1640602123--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Curtains</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Mon, 27 Dec 2021 05:48:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
