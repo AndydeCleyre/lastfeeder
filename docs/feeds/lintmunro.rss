@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Dec 2021 15:45:04 +0000</lastBuildDate>
-    <item>
-      <title>Këkht Aräkh - In the Garden (2 plays)</title>
-      <link>https://www.last.fm/music/K%C3%ABkht+Ar%C3%A4kh/_/In+the+Garden</link>
-      <guid isPermaLink="false">lintmunro-1639713129--4da8fda4-5699-4b39-8f55-b09dcbfa6f55---In the Garden</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c238c3c6be40cab5597813e9f426636a.jpg" length="22552" type="image/jpeg"/>
-      <pubDate>Thu, 16 Dec 2021 22:52:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Këkht Aräkh - Amor (2 plays)</title>
-      <link>https://www.last.fm/music/K%C3%ABkht+Ar%C3%A4kh/_/Amor</link>
-      <guid isPermaLink="false">lintmunro-1639713396--4da8fda4-5699-4b39-8f55-b09dcbfa6f55---Amor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c238c3c6be40cab5597813e9f426636a.jpg" length="22552" type="image/jpeg"/>
-      <pubDate>Thu, 16 Dec 2021 22:56:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Dec 2021 22:53:39 +0000</lastBuildDate>
     <item>
       <title>Këkht Aräkh - Nocturne (2 plays)</title>
       <link>https://www.last.fm/music/K%C3%ABkht+Ar%C3%A4kh/_/Nocturne</link>
@@ -61,7 +47,7 @@
       <title>Seth - Métal noir (2 plays)</title>
       <link>https://www.last.fm/music/Seth/_/M%C3%A9tal+noir</link>
       <guid isPermaLink="false">lintmunro-1639714675--Seth---Métal noir</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce70754290b831b3c866d5a9f648e946.jpg" length="19530" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b357668ed40307044f49a17fc9c6ae33.jpg" length="19530" type="image/jpeg"/>
       <pubDate>Thu, 16 Dec 2021 23:17:55 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1640446442--70c19341-6d59-499f-b74d-fc9f99b5d0a9---Small Stone</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2122db6cece2084f9811442d1755225b.jpg" length="13134" type="image/jpeg"/>
       <pubDate>Sat, 25 Dec 2021 10:34:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Enne</title>
+      <link>https://www.last.fm/music/Kauan/_/Enne</link>
+      <guid isPermaLink="false">lintmunro-1640644673--182430af-bc1c-4028-b2c8-37d77e0df225---Enne</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
+      <pubDate>Mon, 27 Dec 2021 17:37:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Taistelu</title>
+      <link>https://www.last.fm/music/Kauan/_/Taistelu</link>
+      <guid isPermaLink="false">lintmunro-1640644932--182430af-bc1c-4028-b2c8-37d77e0df225---Taistelu</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
+      <pubDate>Mon, 27 Dec 2021 17:42:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
