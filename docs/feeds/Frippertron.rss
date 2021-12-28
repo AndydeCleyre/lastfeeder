@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 09:42:48 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - One More Arrow (24 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/One+More+Arrow</link>
-      <guid isPermaLink="false">Frippertron-1640601642--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---One More Arrow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89123c833554f658420098c012decb7e.png" length="11524" type="image/png"/>
-      <pubDate>Mon, 27 Dec 2021 05:40:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Dec 2021 09:54:40 +0000</lastBuildDate>
     <item>
       <title>Elton John - We All Fall In Love Sometimes (28 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/We+All+Fall+In+Love+Sometimes</link>
@@ -114,7 +107,7 @@
       <pubDate>Mon, 27 Dec 2021 23:39:15 -0500</pubDate>
     </item>
     <item>
-      <title>Elton John - Sweet Painted Lady</title>
+      <title>Elton John - Sweet Painted Lady (21 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Sweet+Painted+Lady</link>
       <guid isPermaLink="false">Frippertron-1640666716--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Sweet Painted Lady</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d4e915760f54d96cd76c9919ff22e65.png" length="203951" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1640684334--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Elephant Talk</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 28 Dec 2021 04:38:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Indiscipline (61 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Indiscipline</link>
+      <guid isPermaLink="false">Frippertron-1640684586--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Indiscipline</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 28 Dec 2021 04:43:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
