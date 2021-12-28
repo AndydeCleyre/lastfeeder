@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Dec 2021 11:22:16 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - A Small Plot of Land (17 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/A+Small+Plot+of+Land</link>
-      <guid isPermaLink="false">Frippertron-1640582846--5441c29d-3602-4898-b1a1-b77fa23b8e50---A Small Plot of Land</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007761d122d75d12c03305238399cab5.png" length="133268" type="image/png"/>
-      <pubDate>Mon, 27 Dec 2021 00:27:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Segue - Baby Grace (A Horrid Cassette) (11 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Segue+-+Baby+Grace+(A+Horrid+Cassette)</link>
-      <guid isPermaLink="false">Frippertron-1640583264--5441c29d-3602-4898-b1a1-b77fa23b8e50---Segue - Baby Grace (A Horrid Cassette)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007761d122d75d12c03305238399cab5.png" length="133268" type="image/png"/>
-      <pubDate>Mon, 27 Dec 2021 00:34:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Dec 2021 03:54:55 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Hallo Spaceboy (29 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Hallo+Spaceboy</link>
@@ -352,11 +338,25 @@
       <pubDate>Mon, 27 Dec 2021 05:48:43 -0500</pubDate>
     </item>
     <item>
-      <title>Elton John - Levon (39 plays)</title>
+      <title>Elton John - Levon (40 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Levon</link>
       <guid isPermaLink="false">Frippertron-1640602610--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Levon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bfc692670d848a9c8f151ba1390bba0.png" length="211285" type="image/png"/>
       <pubDate>Mon, 27 Dec 2021 05:56:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Tiny Dancer (18 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Tiny+Dancer</link>
+      <guid isPermaLink="false">Frippertron-1640663120--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Tiny Dancer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bfc692670d848a9c8f151ba1390bba0.png" length="211285" type="image/png"/>
+      <pubDate>Mon, 27 Dec 2021 22:45:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Levon (40 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Levon</link>
+      <guid isPermaLink="false">Frippertron-1640663498--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Levon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bfc692670d848a9c8f151ba1390bba0.png" length="211285" type="image/png"/>
+      <pubDate>Mon, 27 Dec 2021 22:51:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
