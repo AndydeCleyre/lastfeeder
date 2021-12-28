@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 09:54:40 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - We All Fall In Love Sometimes (28 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/We+All+Fall+In+Love+Sometimes</link>
-      <guid isPermaLink="false">Frippertron-1640601886--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---We All Fall In Love Sometimes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
-      <pubDate>Mon, 27 Dec 2021 05:44:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Curtains (32 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Curtains</link>
-      <guid isPermaLink="false">Frippertron-1640602123--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Curtains</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
-      <pubDate>Mon, 27 Dec 2021 05:48:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Dec 2021 10:22:07 +0000</lastBuildDate>
     <item>
       <title>Elton John - Levon (40 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Levon</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1640684586--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Indiscipline</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 28 Dec 2021 04:43:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Walking on Air (12 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Walking+on+Air</link>
+      <guid isPermaLink="false">Frippertron-1640685150--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Walking on Air</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 28 Dec 2021 04:52:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Larks' Tongues In Aspic (Part II) (221 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+In+Aspic+(Part+II)</link>
+      <guid isPermaLink="false">Frippertron-1640685454--King Crimson---Larks' Tongues In Aspic (Part II)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 28 Dec 2021 04:57:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
