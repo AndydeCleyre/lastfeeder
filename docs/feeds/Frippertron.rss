@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Dec 2021 03:43:29 +0000</lastBuildDate>
-    <item>
-      <title>Kate Bush - Moving (13 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/Moving</link>
-      <guid isPermaLink="false">Frippertron-1640671060--4b585938-f271-45e2-b19a-91c634b5e396---Moving</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/23e1f8cfc63dc7c2a564223bb3d8b28b.png" length="167941" type="image/png"/>
-      <pubDate>Tue, 28 Dec 2021 00:57:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kate Bush - The Saxophone Song (11 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/The+Saxophone+Song</link>
-      <guid isPermaLink="false">Frippertron-1640671244--4b585938-f271-45e2-b19a-91c634b5e396---The Saxophone Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/23e1f8cfc63dc7c2a564223bb3d8b28b.png" length="167941" type="image/png"/>
-      <pubDate>Tue, 28 Dec 2021 01:00:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 03:54:52 +0000</lastBuildDate>
     <item>
       <title>Kate Bush - Strange Phenomena (10 plays)</title>
       <link>https://www.last.fm/music/Kate+Bush/_/Strange+Phenomena</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1640749119--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---One Horse Town</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce498315a424108c71eea15d03238ff4.jpg" length="25961" type="image/jpeg"/>
       <pubDate>Tue, 28 Dec 2021 22:38:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Chameleon (55 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Chameleon</link>
+      <guid isPermaLink="false">Frippertron-1640749476--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Chameleon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce498315a424108c71eea15d03238ff4.jpg" length="25961" type="image/jpeg"/>
+      <pubDate>Tue, 28 Dec 2021 22:44:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Ego (20 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Ego</link>
+      <guid isPermaLink="false">Frippertron-1640749806--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Ego</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eab83910012b105769681c12183000c1.png" length="170239" type="image/png"/>
+      <pubDate>Tue, 28 Dec 2021 22:50:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
