@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 10:22:17 +0000</lastBuildDate>
-    <item>
-      <title>Shamblemaths - Måneskygge (1 play)</title>
-      <link>https://www.last.fm/music/Shamblemaths/_/M%C3%A5neskygge</link>
-      <guid isPermaLink="false">manosg--1640766502--6a4eaff6-545a-4a9d-bb2a-7084d6218b0f---Måneskygge</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d56eba421a7a1e8891fed8ada841fff2.png" length="160127" type="image/png"/>
-      <pubDate>Wed, 29 Dec 2021 03:28:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Shamblemaths - Knucklecog (1 play)</title>
-      <link>https://www.last.fm/music/Shamblemaths/_/Knucklecog</link>
-      <guid isPermaLink="false">manosg--1640766567--6a4eaff6-545a-4a9d-bb2a-7084d6218b0f---Knucklecog</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d56eba421a7a1e8891fed8ada841fff2.png" length="160127" type="image/png"/>
-      <pubDate>Wed, 29 Dec 2021 03:29:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Dec 2021 11:17:14 +0000</lastBuildDate>
     <item>
       <title>Aerosmith - Walk on Water (1 play)</title>
       <link>https://www.last.fm/music/Aerosmith/_/Walk+on+Water</link>
@@ -340,6 +326,20 @@
       <guid isPermaLink="false">manosg--1640859265--06fb1c8b-566e-4cb2-985b-b467c90781d4---Power To Love (Live At Fillmore East, 1970 / 50th Anniversary)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e8e7720c1057f49fd7bb463e57ccf0.jpg" length="25777" type="image/jpeg"/>
       <pubDate>Thu, 30 Dec 2021 05:14:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jimi Hendrix - Power To Love (1 play)</title>
+      <link>https://www.last.fm/music/Jimi+Hendrix/_/Power+To+Love</link>
+      <guid isPermaLink="false">manosg--1640862834--06fb1c8b-566e-4cb2-985b-b467c90781d4---Power To Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e8e7720c1057f49fd7bb463e57ccf0.jpg" length="25777" type="image/jpeg"/>
+      <pubDate>Thu, 30 Dec 2021 06:13:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jimi Hendrix - Message To Love (Live At Fillmore East, 1970 / 50th Anniversary) (1 play)</title>
+      <link>https://www.last.fm/music/Jimi+Hendrix/_/Message+To+Love+(Live+At+Fillmore+East,+1970+%2F+50th+Anniversary)</link>
+      <guid isPermaLink="false">manosg--1640862838--Jimi Hendrix---Message To Love (Live At Fillmore East, 1970 / 50th Anniversary)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e8e7720c1057f49fd7bb463e57ccf0.jpg" length="25777" type="image/jpeg"/>
+      <pubDate>Thu, 30 Dec 2021 06:13:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
