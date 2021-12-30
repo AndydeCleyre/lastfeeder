@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 10:22:42 +0000</lastBuildDate>
-    <item>
-      <title>Robert Fripp - Breathless (13 plays)</title>
-      <link>https://www.last.fm/music/Robert+Fripp/_/Breathless</link>
-      <guid isPermaLink="false">Frippertron-1640771750--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Breathless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e8867761e1b4b697d826b8156154ac6.jpg" length="23712" type="image/jpeg"/>
-      <pubDate>Wed, 29 Dec 2021 04:55:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Dec 2021 10:44:03 +0000</lastBuildDate>
     <item>
       <title>Robert Fripp - Here Comes the Flood (16 plays)</title>
       <link>https://www.last.fm/music/Robert+Fripp/_/Here+Comes+the+Flood</link>
@@ -184,7 +177,7 @@
       <pubDate>Thu, 30 Dec 2021 00:30:22 -0500</pubDate>
     </item>
     <item>
-      <title>Fishmans - WALKING IN THE RHYTHM (4 plays)</title>
+      <title>Fishmans - WALKING IN THE RHYTHM</title>
       <link>https://www.last.fm/music/Fishmans/_/WALKING+IN+THE+RHYTHM</link>
       <guid isPermaLink="false">Frippertron-1640842633--d0f25f16-7782-42e8-8047-c16a1cb2b450---WALKING IN THE RHYTHM</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f473049c0d8b4dc5cdf70ca773c32ee1.png" length="151414" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1640858665--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
       <pubDate>Thu, 30 Dec 2021 05:04:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Elephant Talk (59 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Elephant+Talk</link>
+      <guid isPermaLink="false">Frippertron-1640860857--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Elephant Talk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 30 Dec 2021 05:40:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
