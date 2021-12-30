@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 11:17:14 +0000</lastBuildDate>
-    <item>
-      <title>Aerosmith - Walk on Water (1 play)</title>
-      <link>https://www.last.fm/music/Aerosmith/_/Walk+on+Water</link>
-      <guid isPermaLink="false">manosg--1640767586--3d2b98e5-556f-4451-a3ff-c50ea18d57cb---Walk on Water</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e8c831b594d5bb7362e7d6e0eb723.png" length="133713" type="image/png"/>
-      <pubDate>Wed, 29 Dec 2021 03:46:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Life on Mars? (6 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Life+on+Mars%3F</link>
-      <guid isPermaLink="false">manosg--1640767948--5441c29d-3602-4898-b1a1-b77fa23b8e50---Life on Mars?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Wed, 29 Dec 2021 03:52:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jethro Tull - Mother Goose (Steven Wilson Stereo Remix) (3 plays)</title>
-      <link>https://www.last.fm/music/Jethro+Tull/_/Mother+Goose+(Steven+Wilson+Stereo+Remix)</link>
-      <guid isPermaLink="false">manosg--1640768200--ece57992-dc2e-4f67-a269-fa43626c1a3d---Mother Goose (Steven Wilson Stereo Remix)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e26adf36fdacb38368fd6df57e42c616.jpg" length="29094" type="image/jpeg"/>
-      <pubDate>Wed, 29 Dec 2021 03:56:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Dec 2021 11:37:48 +0000</lastBuildDate>
     <item>
       <title>Jethro Tull - Wind Up (1 play)</title>
       <link>https://www.last.fm/music/Jethro+Tull/_/Wind+Up</link>
@@ -340,6 +319,27 @@
       <guid isPermaLink="false">manosg--1640862838--Jimi Hendrix---Message To Love (Live At Fillmore East, 1970 / 50th Anniversary)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e8e7720c1057f49fd7bb463e57ccf0.jpg" length="25777" type="image/jpeg"/>
       <pubDate>Thu, 30 Dec 2021 06:13:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jimi Hendrix - Message To Love (1 play)</title>
+      <link>https://www.last.fm/music/Jimi+Hendrix/_/Message+To+Love</link>
+      <guid isPermaLink="false">manosg--1640863159--06fb1c8b-566e-4cb2-985b-b467c90781d4---Message To Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e8e7720c1057f49fd7bb463e57ccf0.jpg" length="25777" type="image/jpeg"/>
+      <pubDate>Thu, 30 Dec 2021 06:19:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jimi Hendrix - We Gotta Live Together (Live At Fillmore East, 1970 / 50th Anniversary) (1 play)</title>
+      <link>https://www.last.fm/music/Jimi+Hendrix/_/We+Gotta+Live+Together+(Live+At+Fillmore+East,+1970+%2F+50th+Anniversary)</link>
+      <guid isPermaLink="false">manosg--1640863163--06fb1c8b-566e-4cb2-985b-b467c90781d4---We Gotta Live Together (Live At Fillmore East, 1970 / 50th Anniversary)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e8e7720c1057f49fd7bb463e57ccf0.jpg" length="25777" type="image/jpeg"/>
+      <pubDate>Thu, 30 Dec 2021 06:19:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jimi Hendrix - We Gotta Live Together (1 play)</title>
+      <link>https://www.last.fm/music/Jimi+Hendrix/_/We+Gotta+Live+Together</link>
+      <guid isPermaLink="false">manosg--1640863510--06fb1c8b-566e-4cb2-985b-b467c90781d4---We Gotta Live Together</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e8e7720c1057f49fd7bb463e57ccf0.jpg" length="25777" type="image/jpeg"/>
+      <pubDate>Thu, 30 Dec 2021 06:25:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
