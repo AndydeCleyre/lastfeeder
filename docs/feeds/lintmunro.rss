@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 20:21:56 +0000</lastBuildDate>
-    <item>
-      <title>Aephanemer - Le radeau de la méduse (1 play)</title>
-      <link>https://www.last.fm/music/Aephanemer/_/Le+radeau+de+la+m%C3%A9duse</link>
-      <guid isPermaLink="false">lintmunro-1639783593--114a7dd2-00bb-4666-a650-367a2fb08b35---Le radeau de la méduse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed0c68170569e8721c9517d7970dd77c.jpg" length="29711" type="image/jpeg"/>
-      <pubDate>Fri, 17 Dec 2021 18:26:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Dec 2021 20:42:07 +0000</lastBuildDate>
     <item>
       <title>Aephanemer - Roots and Leaves (1 play)</title>
       <link>https://www.last.fm/music/Aephanemer/_/Roots+and+Leaves</link>
@@ -334,6 +327,7 @@
       <title>Vitriol - The Parting Of A Neck</title>
       <link>https://www.last.fm/music/Vitriol/_/The+Parting+Of+A+Neck</link>
       <guid isPermaLink="false">lintmunro-1640894166--027b95c9-625a-490b-81dc-2b756e1a5001---The Parting Of A Neck</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/038089965c2628ea3d9d42d5a4d97a70.jpg" length="17614" type="image/jpeg"/>
       <pubDate>Thu, 30 Dec 2021 14:56:06 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1640895456--Stengah---Above Inhumanity</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe8b2241898901bb654e49142aaead89.jpg" length="9160" type="image/jpeg"/>
       <pubDate>Thu, 30 Dec 2021 15:17:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Antiqva - Anadem Gyre</title>
+      <link>https://www.last.fm/music/Antiqva/_/Anadem+Gyre</link>
+      <guid isPermaLink="false">lintmunro-1640895660--Antiqva---Anadem Gyre</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed06dddcc6a535216cf3c050f9789be5.png" length="95676" type="image/png"/>
+      <pubDate>Thu, 30 Dec 2021 15:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
