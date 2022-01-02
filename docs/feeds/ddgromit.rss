@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Dec 2021 18:24:06 +0000</lastBuildDate>
-    <item>
-      <title>Rodrigo y Gabriela - Echoes (1 play)</title>
-      <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/Echoes</link>
-      <guid isPermaLink="false">ddgromit-1640917934--a8ed28e3-5c08-4448-b889-867483e251f5---Echoes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4594a8a1f97901e17f3ebf1787dbec1.jpg" length="15706" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 21:32:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rodrigo y Gabriela - Fram (2 plays)</title>
-      <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/Fram</link>
-      <guid isPermaLink="false">ddgromit-1640919072--a8ed28e3-5c08-4448-b889-867483e251f5---Fram</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/299cf140a0734752c760688cb98fdff2.png" length="89442" type="image/png"/>
-      <pubDate>Thu, 30 Dec 2021 21:51:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rodrigo y Gabriela - One (1 play)</title>
-      <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/One</link>
-      <guid isPermaLink="false">ddgromit-1640919343--a8ed28e3-5c08-4448-b889-867483e251f5---One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5ed56ad96ce44c8a95f8b68bb4726cca.jpg" length="20595" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 21:55:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rodrigo y Gabriela - Triveni (7 plays)</title>
-      <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/Triveni</link>
-      <guid isPermaLink="false">ddgromit-1640919647--a8ed28e3-5c08-4448-b889-867483e251f5---Triveni</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/652585015502468194ba38b624ccbf9c.jpg" length="11131" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 22:00:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rodrigo y Gabriela - Street Fighter Mas (1 play)</title>
-      <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/Street+Fighter+Mas</link>
-      <guid isPermaLink="false">ddgromit-1640919882--a8ed28e3-5c08-4448-b889-867483e251f5---Street Fighter Mas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8cc2cad36d70363553d759cf25acfffc.png" length="192465" type="image/png"/>
-      <pubDate>Thu, 30 Dec 2021 22:04:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rodrigo y Gabriela - Take Five (1 play)</title>
-      <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/Take+Five</link>
-      <guid isPermaLink="false">ddgromit-1640920229--a8ed28e3-5c08-4448-b889-867483e251f5---Take Five</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5ed56ad96ce44c8a95f8b68bb4726cca.jpg" length="20595" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 22:10:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rodrigo y Gabriela - Oblivion (1 play)</title>
-      <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/Oblivion</link>
-      <guid isPermaLink="false">ddgromit-1640920547--a8ed28e3-5c08-4448-b889-867483e251f5---Oblivion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86370b9c8b837b185044e8fa49742a61.jpg" length="12659" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 22:15:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rodrigo y Gabriela - 11:11 (7 plays)</title>
-      <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/11:11</link>
-      <guid isPermaLink="false">ddgromit-1640920860--a8ed28e3-5c08-4448-b889-867483e251f5---11:11</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/652585015502468194ba38b624ccbf9c.jpg" length="11131" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 22:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rodrigo y Gabriela - Orion (23 plays)</title>
-      <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/Orion</link>
-      <guid isPermaLink="false">ddgromit-1640921149--a8ed28e3-5c08-4448-b889-867483e251f5---Orion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e1db651ac484f00b870ff081ef46290.jpg" length="26087" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 22:25:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jan 2022 18:23:24 +0000</lastBuildDate>
     <item>
       <title>Rodrigo y Gabriela - Witness Tree (1 play)</title>
       <link>https://www.last.fm/music/Rodrigo+y+Gabriela/_/Witness+Tree</link>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">ddgromit-1640973677--Juls---Love Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c88ed570624988b9222cb01168f0218e.jpg" length="11589" type="image/jpeg"/>
       <pubDate>Fri, 31 Dec 2021 13:01:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roy Holtz - Falling Autumn Leaves (1 play)</title>
+      <link>https://www.last.fm/music/Roy+Holtz/_/Falling+Autumn+Leaves</link>
+      <guid isPermaLink="false">ddgromit-1641145898--Roy Holtz---Falling Autumn Leaves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 02 Jan 2022 12:51:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Aileen Morais - Before Sunrise (1 play)</title>
+      <link>https://www.last.fm/music/Aileen+Morais/_/Before+Sunrise</link>
+      <guid isPermaLink="false">ddgromit-1641146033--Aileen Morais---Before Sunrise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c612e95106758a4eb01f349a828b4b9.jpg" length="16720" type="image/jpeg"/>
+      <pubDate>Sun, 02 Jan 2022 12:53:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chihei Hatakeyama - Forgotten hill (1 play)</title>
+      <link>https://www.last.fm/music/Chihei+Hatakeyama/_/Forgotten+hill</link>
+      <guid isPermaLink="false">ddgromit-1641146214--a0778b30-0caa-46cb-a775-b1f2ccc669e8---Forgotten hill</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/717f65398064b67db86b0cf75667fa09.jpg" length="8375" type="image/jpeg"/>
+      <pubDate>Sun, 02 Jan 2022 12:56:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>John Foxx - A Delicate Romance (1 play)</title>
+      <link>https://www.last.fm/music/John+Foxx/_/A+Delicate+Romance</link>
+      <guid isPermaLink="false">ddgromit-1641146456--6e913bad-4812-4286-b6cc-18548422f194---A Delicate Romance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/caa91fecc1384d65cd00b2270dc312c1.jpg" length="13900" type="image/jpeg"/>
+      <pubDate>Sun, 02 Jan 2022 13:00:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cyrano Brussee - Aan de andere kant (2 plays)</title>
+      <link>https://www.last.fm/music/Cyrano+Brussee/_/Aan+de+andere+kant</link>
+      <guid isPermaLink="false">ddgromit-1641146890--Cyrano Brussee---Aan de andere kant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 02 Jan 2022 13:08:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Søren Jeremiassen - Sinilluarit (1 play)</title>
+      <link>https://www.last.fm/music/S%C3%B8ren+Jeremiassen/_/Sinilluarit</link>
+      <guid isPermaLink="false">ddgromit-1641147136--Søren Jeremiassen---Sinilluarit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 02 Jan 2022 13:12:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Blvkshp - Atmosphere (1 play)</title>
+      <link>https://www.last.fm/music/Blvkshp/_/Atmosphere</link>
+      <guid isPermaLink="false">ddgromit-1641147326--Blvkshp---Atmosphere</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/901a98e15be86ec83d23d87a505ce8c6.jpg" length="15140" type="image/jpeg"/>
+      <pubDate>Sun, 02 Jan 2022 13:15:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lidia Peralta - Buscando (1 play)</title>
+      <link>https://www.last.fm/music/Lidia+Peralta/_/Buscando</link>
+      <guid isPermaLink="false">ddgromit-1641147394--Lidia Peralta---Buscando</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 02 Jan 2022 13:16:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>For the lost - Peripateo (1 play)</title>
+      <link>https://www.last.fm/music/For+the+lost/_/Peripateo</link>
+      <guid isPermaLink="false">ddgromit-1641147540--For the lost---Peripateo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9317ddcd1da41d497c37e0f87a9c618.jpg" length="14302" type="image/jpeg"/>
+      <pubDate>Sun, 02 Jan 2022 13:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
