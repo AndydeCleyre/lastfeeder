@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jan 2022 09:55:16 +0000</lastBuildDate>
-    <item>
-      <title>Jobriath - Rock of Ages (32 plays)</title>
-      <link>https://www.last.fm/music/Jobriath/_/Rock+of+Ages</link>
-      <guid isPermaLink="false">Frippertron-1641185345--2803b905-fe99-4071-ac2e-f4bf94ce6fb8---Rock of Ages</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84984ef176f741f5a4eff942e3e091d2.png" length="161953" type="image/png"/>
-      <pubDate>Sun, 02 Jan 2022 23:49:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jan 2022 10:22:40 +0000</lastBuildDate>
     <item>
       <title>Jobriath - Liten Up (23 plays)</title>
       <link>https://www.last.fm/music/Jobriath/_/Liten+Up</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1641203601--719db6b1-0d91-458c-8d18-875ec44105bf---The Shining Of Things</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be8d1b4cf0824270bd1b86344bc62a21.png" length="180662" type="image/png"/>
       <pubDate>Mon, 03 Jan 2022 04:53:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Soft Cell - Slave To This (6 plays)</title>
+      <link>https://www.last.fm/music/Soft+Cell/_/Slave+To+This</link>
+      <guid isPermaLink="false">Frippertron-1641203876--7fb50287-029d-47cc-825a-235ca28024b2---Slave To This</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3634986d9b08d15968f43b17192fbaf7.png" length="71042" type="image/png"/>
+      <pubDate>Mon, 03 Jan 2022 04:57:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
