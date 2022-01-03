@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jan 2022 23:20:02 +0000</lastBuildDate>
-    <item>
-      <title>Succumb - Lilim (1 play)</title>
-      <link>https://www.last.fm/music/Succumb/_/Lilim</link>
-      <guid isPermaLink="false">lintmunro-1639936356--0301db08-0c56-462e-b348-367b3aa453d7---Lilim</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b144f4c997ece94fdd6660fe94744ec0.jpg" length="29236" type="image/jpeg"/>
-      <pubDate>Sun, 19 Dec 2021 12:52:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jan 2022 19:52:26 +0000</lastBuildDate>
     <item>
       <title>Succumb - Maenad (1 play)</title>
       <link>https://www.last.fm/music/Succumb/_/Maenad</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1641164860--829cdc80-7c5a-4524-981e-99f81abdbe5c---Beware The Deep</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9c9ef5f9aa954c74c2baa32b0339c94.jpg" length="28790" type="image/jpeg"/>
       <pubDate>Sun, 02 Jan 2022 18:07:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nahtram - Forest of Eternal Dawn (2 plays)</title>
+      <link>https://www.last.fm/music/Nahtram/_/Forest+of+Eternal+Dawn</link>
+      <guid isPermaLink="false">lintmunro-1641165127--Nahtram---Forest of Eternal Dawn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2312ffc4179b04d2c7e80673ac384e91.jpg" length="25439" type="image/jpeg"/>
+      <pubDate>Sun, 02 Jan 2022 18:12:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
