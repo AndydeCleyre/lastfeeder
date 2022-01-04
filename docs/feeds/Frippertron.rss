@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jan 2022 07:19:25 +0000</lastBuildDate>
-    <item>
-      <title>Lou Reed - Berlin (50 plays)</title>
-      <link>https://www.last.fm/music/Lou+Reed/_/Berlin</link>
-      <guid isPermaLink="false">Frippertron-1641199767--9d1ebcfe-4c15-4d18-95d3-d919898638a1---Berlin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95aae05a48e848be8ce3b4896ea9bfe4.png" length="181751" type="image/png"/>
-      <pubDate>Mon, 03 Jan 2022 03:49:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 08:25:28 +0000</lastBuildDate>
     <item>
       <title>Lou Reed - Lady Day (30 plays)</title>
       <link>https://www.last.fm/music/Lou+Reed/_/Lady+Day</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1641279897--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Search and Destroy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69ebd87597be80838b0063a65ed9bd06.jpg" length="11393" type="image/jpeg"/>
       <pubDate>Tue, 04 Jan 2022 02:04:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Dragon Attack (24 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Dragon+Attack</link>
+      <guid isPermaLink="false">Frippertron-1641284380--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Dragon Attack</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8230c6b8c53141c6afc03754427fb7b8.png" length="87839" type="image/png"/>
+      <pubDate>Tue, 04 Jan 2022 03:19:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
