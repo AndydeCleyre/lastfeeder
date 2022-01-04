@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jan 2022 11:38:08 +0000</lastBuildDate>
-    <item>
-      <title>Motörhead - Tales of Glory (2 plays)</title>
-      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Tales+of+Glory</link>
-      <guid isPermaLink="false">manosg--1641201041--57961a97-3796-4bf7-9f02-a985a8979ae9---Tales of Glory</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc6b9c72d1692f1565b229e61b89be7b.jpg" length="38924" type="image/jpeg"/>
-      <pubDate>Mon, 03 Jan 2022 04:10:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 17:54:15 +0000</lastBuildDate>
     <item>
       <title>Motörhead - Die You Bastard (2 plays)</title>
       <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Die+You+Bastard</link>
@@ -347,6 +340,13 @@
       <link>https://www.last.fm/music/Black+Sabbath/_/Tyr</link>
       <guid isPermaLink="false">manosg--1641295502--Black Sabbath---Tyr</guid>
       <pubDate>Tue, 04 Jan 2022 06:25:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Motörhead - Love Me Forever (2 plays)</title>
+      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Love+Me+Forever</link>
+      <guid isPermaLink="false">manosg--1641318691--57961a97-3796-4bf7-9f02-a985a8979ae9---Love Me Forever</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e167f807646498bb7c297ec2669aa5f.png" length="126541" type="image/png"/>
+      <pubDate>Tue, 04 Jan 2022 12:51:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
