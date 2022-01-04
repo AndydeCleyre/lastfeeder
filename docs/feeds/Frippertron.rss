@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jan 2022 05:19:42 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Inner Garden I (8 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Inner+Garden+I</link>
-      <guid isPermaLink="false">Frippertron-1641190755--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Inner Garden I</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 03 Jan 2022 01:19:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - People (10 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/People</link>
-      <guid isPermaLink="false">Frippertron-1641190863--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---People</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 03 Jan 2022 01:21:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 05:39:35 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Radio I (7 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Radio+I</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1641272476--Magma---Mekanik Zain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2437c5a2b424108c11ab7abb4c25e47.jpg" length="11335" type="image/jpeg"/>
       <pubDate>Tue, 04 Jan 2022 00:01:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Future Legend (36 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Future+Legend</link>
+      <guid isPermaLink="false">Frippertron-1641274510--5441c29d-3602-4898-b1a1-b77fa23b8e50---Future Legend</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
+      <pubDate>Tue, 04 Jan 2022 00:35:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Diamond Dogs (103 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Diamond+Dogs</link>
+      <guid isPermaLink="false">Frippertron-1641274570--5441c29d-3602-4898-b1a1-b77fa23b8e50---Diamond Dogs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
+      <pubDate>Tue, 04 Jan 2022 00:36:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
