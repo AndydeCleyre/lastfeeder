@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jan 2022 04:54:25 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - B'Boom (12 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/B%27Boom</link>
-      <guid isPermaLink="false">Frippertron-1641190262--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---B'Boom</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 03 Jan 2022 01:11:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - THRAK (14 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/THRAK</link>
-      <guid isPermaLink="false">Frippertron-1641190516--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---THRAK</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 03 Jan 2022 01:15:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 05:19:42 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Inner Garden I (8 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Inner+Garden+I</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1641271600--c1b8a551-4622-4aed-bcf5-ab99cd7057a6---Music Sounds Better With You (12'' Club mix)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e200ecb1b518087c487a067dcdb2290.jpg" length="13564" type="image/jpeg"/>
       <pubDate>Mon, 03 Jan 2022 23:46:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Song For Guy (9 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Song+For+Guy</link>
+      <guid isPermaLink="false">Frippertron-1641272056--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Song For Guy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eab83910012b105769681c12183000c1.png" length="170239" type="image/png"/>
+      <pubDate>Mon, 03 Jan 2022 23:54:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Mekanik Zain (3 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Mekanik+Zain</link>
+      <guid isPermaLink="false">Frippertron-1641272476--Magma---Mekanik Zain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2437c5a2b424108c11ab7abb4c25e47.jpg" length="11335" type="image/jpeg"/>
+      <pubDate>Tue, 04 Jan 2022 00:01:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
