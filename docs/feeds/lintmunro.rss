@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jan 2022 21:52:40 +0000</lastBuildDate>
-    <item>
-      <title>HATH - Kenosis (1 play)</title>
-      <link>https://www.last.fm/music/HATH/_/Kenosis</link>
-      <guid isPermaLink="false">lintmunro-1640892048--HATH---Kenosis</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c89108b0abd4f38d3eb58ca619fc8368.jpg" length="32028" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 14:20:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>Dreamwell - Sayaka (1 play)</title>
-      <link>https://www.last.fm/music/Dreamwell/_/Sayaka</link>
-      <guid isPermaLink="false">lintmunro-1640892435--d6c5baf2-9c71-4fa6-b96a-a93d8d509887---Sayaka</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0729499b926bef90e32b7fab365ccb1.jpg" length="25585" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 14:27:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 22:20:15 +0000</lastBuildDate>
     <item>
       <title>Jarhead Fertilizer - Product of My Environment (1 play)</title>
       <link>https://www.last.fm/music/Jarhead+Fertilizer/_/Product+of+My+Environment</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1641332267--ef4960aa-57db-40fe-bedc-edce36822a9c---Into the Spoke of Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cce08cec6d516b1cca8b2e035dc8b353.jpg" length="17535" type="image/jpeg"/>
       <pubDate>Tue, 04 Jan 2022 16:37:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>First Fragment - Gloire éternelle (2 plays)</title>
+      <link>https://www.last.fm/music/First+Fragment/_/Gloire+%C3%A9ternelle</link>
+      <guid isPermaLink="false">lintmunro-1641332930--906ece92-a4c2-4444-9e0d-48ee3ca1e601---Gloire éternelle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b77663dacfd947262b09e73d7cb6edad.jpg" length="28875" type="image/jpeg"/>
+      <pubDate>Tue, 04 Jan 2022 16:48:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>First Fragment - Solus (2 plays)</title>
+      <link>https://www.last.fm/music/First+Fragment/_/Solus</link>
+      <guid isPermaLink="false">lintmunro-1641333280--906ece92-a4c2-4444-9e0d-48ee3ca1e601---Solus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b77663dacfd947262b09e73d7cb6edad.jpg" length="28875" type="image/jpeg"/>
+      <pubDate>Tue, 04 Jan 2022 16:54:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
