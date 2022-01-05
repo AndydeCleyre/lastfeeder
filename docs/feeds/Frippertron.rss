@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jan 2022 05:39:46 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Providence (67 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Providence</link>
-      <guid isPermaLink="false">Frippertron-1641276983--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Providence</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 04 Jan 2022 01:16:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Starless (210 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Starless</link>
-      <guid isPermaLink="false">Frippertron-1641277475--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Starless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 04 Jan 2022 01:24:35 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Jan 2022 05:52:19 +0000</lastBuildDate>
     <item>
       <title>Windy &amp; Carl - You (1 play)</title>
       <link>https://www.last.fm/music/Windy+&amp;+Carl/_/You</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1641360885--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Open Up and Bleed</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e54cae2905948c1ba6e58cdeffa65b4.jpg" length="26455" type="image/jpeg"/>
       <pubDate>Wed, 05 Jan 2022 00:34:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - Limbo (4 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Limbo</link>
+      <guid isPermaLink="false">Frippertron-1641361516--ac5af671-1df0-4312-8b7b-e61992ecc883---Limbo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b65e04e9c5a04763c96aaef44ccc54a.jpg" length="15384" type="image/jpeg"/>
+      <pubDate>Wed, 05 Jan 2022 00:45:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - The Madmen (4 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/The+Madmen</link>
+      <guid isPermaLink="false">Frippertron-1641361731--ac5af671-1df0-4312-8b7b-e61992ecc883---The Madmen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b65e04e9c5a04763c96aaef44ccc54a.jpg" length="15384" type="image/jpeg"/>
+      <pubDate>Wed, 05 Jan 2022 00:48:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
