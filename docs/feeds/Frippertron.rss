@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jan 2022 10:56:56 +0000</lastBuildDate>
-    <item>
-      <title>Converge - You Fail Me (12 plays)</title>
-      <link>https://www.last.fm/music/Converge/_/You+Fail+Me</link>
-      <guid isPermaLink="false">Frippertron-1641444025--fa31e7d4-a03a-4110-98fc-f8826e95ec25---You Fail Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/970e55ad87a14564adcfd9c44784405f.png" length="45133" type="image/png"/>
-      <pubDate>Wed, 05 Jan 2022 23:40:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Converge - In Her Blood (21 plays)</title>
-      <link>https://www.last.fm/music/Converge/_/In+Her+Blood</link>
-      <guid isPermaLink="false">Frippertron-1641444499--fa31e7d4-a03a-4110-98fc-f8826e95ec25---In Her Blood</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/970e55ad87a14564adcfd9c44784405f.png" length="45133" type="image/png"/>
-      <pubDate>Wed, 05 Jan 2022 23:48:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 11:18:18 +0000</lastBuildDate>
     <item>
       <title>Mare - Anisette (3 plays)</title>
       <link>https://www.last.fm/music/Mare/_/Anisette</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1641466415--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---I Think I'm Going To Kill Myself</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9194f7f823e853aa688f5ed5f827413d.jpg" length="21059" type="image/jpeg"/>
       <pubDate>Thu, 06 Jan 2022 05:53:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Funeral for a Friend/Love Lies Bleeding (28 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Funeral+for+a+Friend%2FLove+Lies+Bleeding</link>
+      <guid isPermaLink="false">Frippertron-1641466612--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Funeral for a Friend/Love Lies Bleeding</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2f940b4139db4edaa518ea8f19d2ef6.png" length="133752" type="image/png"/>
+      <pubDate>Thu, 06 Jan 2022 05:56:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Larks' Tongues in Aspic (Part I) (58 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+in+Aspic+(Part+I)</link>
+      <guid isPermaLink="false">Frippertron-1641467307--King Crimson---Larks' Tongues in Aspic (Part I)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 06 Jan 2022 06:08:27 -0500</pubDate>
     </item>
   </channel>
 </rss>

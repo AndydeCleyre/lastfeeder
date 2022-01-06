@@ -7,33 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jan 2022 10:56:09 +0000</lastBuildDate>
-    <item>
-      <title>Seven Sisters - Truth's Burden (1 play)</title>
-      <link>https://www.last.fm/music/Seven+Sisters/_/Truth%27s+Burden</link>
-      <guid isPermaLink="false">manosg--1641294831--dcf4c636-b752-4de0-b461-cbfb940526c4---Truth's Burden</guid>
-      <pubDate>Tue, 04 Jan 2022 06:13:51 -0500</pubDate>
-    </item>
-    <item>
-      <title>Black Sabbath - Tyr (6 plays)</title>
-      <link>https://www.last.fm/music/Black+Sabbath/_/Tyr</link>
-      <guid isPermaLink="false">manosg--1641295502--Black Sabbath---Tyr</guid>
-      <pubDate>Tue, 04 Jan 2022 06:25:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Motörhead - Love Me Forever (2 plays)</title>
-      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Love+Me+Forever</link>
-      <guid isPermaLink="false">manosg--1641318691--57961a97-3796-4bf7-9f02-a985a8979ae9---Love Me Forever</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e167f807646498bb7c297ec2669aa5f.png" length="126541" type="image/png"/>
-      <pubDate>Tue, 04 Jan 2022 12:51:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>Motörhead - One More Fucking Time (3 plays)</title>
-      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/One+More+Fucking+Time</link>
-      <guid isPermaLink="false">manosg--1641319021--57961a97-3796-4bf7-9f02-a985a8979ae9---One More Fucking Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b979540cc368425ca2a88f21fd001642.png" length="199104" type="image/png"/>
-      <pubDate>Tue, 04 Jan 2022 12:57:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 11:18:54 +0000</lastBuildDate>
     <item>
       <title>Motörhead - I Don't Believe A Word (12 plays)</title>
       <link>https://www.last.fm/music/Mot%C3%B6rhead/_/I+Don%27t+Believe+A+Word</link>
@@ -344,6 +318,34 @@
       <guid isPermaLink="false">manosg--1641466171--722b2118-a77b-4161-9060-63a1b469e5b2---Down and Out</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd680dff4a9949d792d4098a8ab68bb1.png" length="167335" type="image/png"/>
       <pubDate>Thu, 06 Jan 2022 05:49:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Undertow (1 play)</title>
+      <link>https://www.last.fm/music/Genesis/_/Undertow</link>
+      <guid isPermaLink="false">manosg--1641466526--722b2118-a77b-4161-9060-63a1b469e5b2---Undertow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd680dff4a9949d792d4098a8ab68bb1.png" length="167335" type="image/png"/>
+      <pubDate>Thu, 06 Jan 2022 05:55:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ballad of Big (1 play)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ballad+of+Big</link>
+      <guid isPermaLink="false">manosg--1641466814--722b2118-a77b-4161-9060-63a1b469e5b2---Ballad of Big</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd680dff4a9949d792d4098a8ab68bb1.png" length="167335" type="image/png"/>
+      <pubDate>Thu, 06 Jan 2022 06:00:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Snowbound (1 play)</title>
+      <link>https://www.last.fm/music/Genesis/_/Snowbound</link>
+      <guid isPermaLink="false">manosg--1641467105--722b2118-a77b-4161-9060-63a1b469e5b2---Snowbound</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd680dff4a9949d792d4098a8ab68bb1.png" length="167335" type="image/png"/>
+      <pubDate>Thu, 06 Jan 2022 06:05:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Burning Rope (1 play)</title>
+      <link>https://www.last.fm/music/Genesis/_/Burning+Rope</link>
+      <guid isPermaLink="false">manosg--1641467374--722b2118-a77b-4161-9060-63a1b469e5b2---Burning Rope</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd680dff4a9949d792d4098a8ab68bb1.png" length="167335" type="image/png"/>
+      <pubDate>Thu, 06 Jan 2022 06:09:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
