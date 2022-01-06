@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jan 2022 21:17:14 +0000</lastBuildDate>
-    <item>
-      <title>blink-182 - Darkside (14 plays)</title>
-      <link>https://www.last.fm/music/blink-182/_/Darkside</link>
-      <guid isPermaLink="false">rockijosh-1641344164--0743b15a-3c32-48c8-ad58-cb325350befa---Darkside</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01ad255a9ad69c13856339b17ff676c9.png" length="148713" type="image/png"/>
-      <pubDate>Tue, 04 Jan 2022 19:56:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>MAMAMOO - Egotistic (2 plays)</title>
-      <link>https://www.last.fm/music/MAMAMOO/_/Egotistic</link>
-      <guid isPermaLink="false">rockijosh-1641344345--fb588f59-af1a-493a-9508-ed487caa2a11---Egotistic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbaaa284f288897108cead9086134c43.jpg" length="8354" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jan 2022 19:59:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Less Than Jake - All My Best Friends Are Metalheads (19 plays)</title>
-      <link>https://www.last.fm/music/Less+Than+Jake/_/All+My+Best+Friends+Are+Metalheads</link>
-      <guid isPermaLink="false">rockijosh-1641344542--e54e065f-0ce6-4779-9a9a-afd7b997471f---All My Best Friends Are Metalheads</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7da7a1a48cba43ac8e81bf1b1026080a.png" length="234852" type="image/png"/>
-      <pubDate>Tue, 04 Jan 2022 20:02:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 21:40:42 +0000</lastBuildDate>
     <item>
       <title>Billy Joel - You're Only Human (Second Wind) (16 plays)</title>
       <link>https://www.last.fm/music/Billy+Joel/_/You%27re+Only+Human+(Second+Wind)</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">rockijosh-1641503405--2520d6eb-fe07-4403-bb99-7f7bfd68b701---Pretty Great</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/812b515b245eb8e618c50354b8a6b270.jpg" length="29122" type="image/jpeg"/>
       <pubDate>Thu, 06 Jan 2022 16:10:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thrice - Only Us (34 plays)</title>
+      <link>https://www.last.fm/music/Thrice/_/Only+Us</link>
+      <guid isPermaLink="false">rockijosh-1641503619--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Only Us</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fed70ff83979a95b1b0c923266420bc.jpg" length="24022" type="image/jpeg"/>
+      <pubDate>Thu, 06 Jan 2022 16:13:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>KYLE - What It Is (feat. Chris Brown) (39 plays)</title>
+      <link>https://www.last.fm/music/KYLE/_/What+It+Is+(feat.+Chris+Brown)</link>
+      <guid isPermaLink="false">rockijosh-1641503843--95373e26-9262-4449-bcfe-7e753226ddf4---What It Is (feat. Chris Brown)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/873adadc1410c107a7e8e0ec942870c6.jpg" length="22142" type="image/jpeg"/>
+      <pubDate>Thu, 06 Jan 2022 16:17:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>MAMAMOO - Egotistic (3 plays)</title>
+      <link>https://www.last.fm/music/MAMAMOO/_/Egotistic</link>
+      <guid isPermaLink="false">rockijosh-1641504023--fb588f59-af1a-493a-9508-ed487caa2a11---Egotistic</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbaaa284f288897108cead9086134c43.jpg" length="8354" type="image/jpeg"/>
+      <pubDate>Thu, 06 Jan 2022 16:20:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
