@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jan 2022 05:00:52 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Stone Cold Crazy (58 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Stone+Cold+Crazy</link>
-      <guid isPermaLink="false">Frippertron-1641363866--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Stone Cold Crazy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e677a1c6e7284a5799823fb8137c88ca.png" length="173493" type="image/png"/>
-      <pubDate>Wed, 05 Jan 2022 01:24:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 05:31:39 +0000</lastBuildDate>
     <item>
       <title>The Beatles - You Never Give Me Your Money (14 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/You+Never+Give+Me+Your+Money</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1641445051--848f9526-f93f-4e86-b108-afccf83dbf6a---They Sent You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ace668c4fa4eaea33e844096183a7ebd.jpg" length="21932" type="image/jpeg"/>
       <pubDate>Wed, 05 Jan 2022 23:57:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Snakefinger - The Model (33 plays)</title>
+      <link>https://www.last.fm/music/Snakefinger/_/The+Model</link>
+      <guid isPermaLink="false">Frippertron-1641446841--0d5229d9-98f2-4ab6-94a1-4e90779cfa71---The Model</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75c968e376b755dc2b09b51eca7d1311.jpg" length="21710" type="image/jpeg"/>
+      <pubDate>Thu, 06 Jan 2022 00:27:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
