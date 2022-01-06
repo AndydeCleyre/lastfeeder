@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jan 2022 09:55:06 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Killer Queen (87 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Killer+Queen</link>
-      <guid isPermaLink="false">Frippertron-1641442021--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Killer Queen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
-      <pubDate>Wed, 05 Jan 2022 23:07:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 10:22:36 +0000</lastBuildDate>
     <item>
       <title>Queen - Good Old-Fashioned Lover Boy (28 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Good+Old-Fashioned+Lover+Boy</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1641462216--719db6b1-0d91-458c-8d18-875ec44105bf---Forbidden Colours</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbb90f07d4b75d0a1a9a444f00642f2f.jpg" length="19845" type="image/jpeg"/>
       <pubDate>Thu, 06 Jan 2022 04:43:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>XTC - This Is Pop? (53 plays)</title>
+      <link>https://www.last.fm/music/XTC/_/This+Is+Pop%3F</link>
+      <guid isPermaLink="false">Frippertron-1641463125--97c86b2c-2765-46a2-aef8-76a7e24c430f---This Is Pop?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a3d6bc4ecb6bc8b7ec6414d478ec7aa.jpg" length="40159" type="image/jpeg"/>
+      <pubDate>Thu, 06 Jan 2022 04:58:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
