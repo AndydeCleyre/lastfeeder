@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jan 2022 23:42:34 +0000</lastBuildDate>
-    <item>
-      <title>Robert Miles - In My Dreams (4 plays)</title>
-      <link>https://www.last.fm/music/Robert+Miles/_/In+My+Dreams</link>
-      <guid isPermaLink="false">ddgromit-1641336897--e83144dd-bb95-49fe-b1dd-00bab25cca9e---In My Dreams</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7cb5133b3ecac393b1e032f70a5cd88.jpg" length="12437" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jan 2022 17:54:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>Deep Divers - Shark Zone (8 plays)</title>
-      <link>https://www.last.fm/music/Deep+Divers/_/Shark+Zone</link>
-      <guid isPermaLink="false">ddgromit-1641337279--Deep Divers---Shark Zone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cc4f6686ff08e662f0138a27b75197.jpg" length="17829" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jan 2022 18:01:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jan 2022 23:54:08 +0000</lastBuildDate>
     <item>
       <title>Duumu - Pandora's Cluster (7 plays)</title>
       <link>https://www.last.fm/music/Duumu/_/Pandora%27s+Cluster</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1641598295--291767b4-b137-452f-8547-b578cd029fa4---Angels</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88d076c86510646b08ead815a5985177.jpg" length="20608" type="image/jpeg"/>
       <pubDate>Fri, 07 Jan 2022 18:31:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Phil Western - Longform (1 play)</title>
+      <link>https://www.last.fm/music/Phil+Western/_/Longform</link>
+      <guid isPermaLink="false">ddgromit-1641598595--291767b4-b137-452f-8547-b578cd029fa4---Longform</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/63f6fbd4995f45eec59ae18bd607c65b.jpg" length="24912" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jan 2022 18:36:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Phil Western - I Roll the Nickels (1 play)</title>
+      <link>https://www.last.fm/music/Phil+Western/_/I+Roll+the+Nickels</link>
+      <guid isPermaLink="false">ddgromit-1641599083--291767b4-b137-452f-8547-b578cd029fa4---I Roll the Nickels</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88d076c86510646b08ead815a5985177.jpg" length="20608" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jan 2022 18:44:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
