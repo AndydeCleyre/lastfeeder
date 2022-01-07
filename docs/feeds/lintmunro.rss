@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jan 2022 19:14:06 +0000</lastBuildDate>
-    <item>
-      <title>dltzk - goldfish (1 play)</title>
-      <link>https://www.last.fm/music/dltzk/_/goldfish</link>
-      <guid isPermaLink="false">lintmunro-1641324761--dltzk---goldfish</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f1bdf488e67b45e7959a3e974eb139d.jpg" length="45985" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jan 2022 14:32:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kanonenfieber - Die Feuertaufe (1 play)</title>
-      <link>https://www.last.fm/music/Kanonenfieber/_/Die+Feuertaufe</link>
-      <guid isPermaLink="false">lintmunro-1641325006--b0016af8-3953-47ce-b865-475a770d7b17---Die Feuertaufe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57248b210fe1afcedeadb8976964c919.jpg" length="38629" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jan 2022 14:36:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jan 2022 19:25:28 +0000</lastBuildDate>
     <item>
       <title>Dödsrit - The Third Door (1 play)</title>
       <link>https://www.last.fm/music/D%C3%B6dsrit/_/The+Third+Door</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1641580371--aba64937-3334-4c65-90a1-4e6b9d4d7ada---Jazz Hands</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7368d276c5c472b869a7d3cc7170f72d.jpg" length="24262" type="image/jpeg"/>
       <pubDate>Fri, 07 Jan 2022 13:32:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Aesop Rock - More Cycles (2 plays)</title>
+      <link>https://www.last.fm/music/Aesop+Rock/_/More+Cycles</link>
+      <guid isPermaLink="false">lintmunro-1641582172--Aesop Rock---More Cycles</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7368d276c5c472b869a7d3cc7170f72d.jpg" length="24262" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jan 2022 14:02:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Aesop Rock - All the Smartest People (2 plays)</title>
+      <link>https://www.last.fm/music/Aesop+Rock/_/All+the+Smartest+People</link>
+      <guid isPermaLink="false">lintmunro-1641582851--Aesop Rock---All the Smartest People</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7368d276c5c472b869a7d3cc7170f72d.jpg" length="24262" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jan 2022 14:14:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
