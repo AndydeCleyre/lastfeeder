@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jan 2022 17:12:36 +0000</lastBuildDate>
-    <item>
-      <title>Beck - Movie Theme (3 plays)</title>
-      <link>https://www.last.fm/music/Beck/_/Movie+Theme</link>
-      <guid isPermaLink="false">TalonsOfFire-1640911922--Beck---Movie Theme</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a0b7ebea016039f9831162578cc2ee4.jpg" length="14426" type="image/jpeg"/>
-      <pubDate>Thu, 30 Dec 2021 19:52:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Fleet Foxes - White Winter Hymnal (5 plays)</title>
-      <link>https://www.last.fm/music/Fleet+Foxes/_/White+Winter+Hymnal</link>
-      <guid isPermaLink="false">TalonsOfFire-1640983718--fa97dd36-1b82-43d7-a6e4-2adeafd59cef---White Winter Hymnal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e653fc9c0d474be1b6d007a6588b02c9.png" length="234342" type="image/png"/>
-      <pubDate>Fri, 31 Dec 2021 15:48:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jan 2022 19:13:38 +0000</lastBuildDate>
     <item>
       <title>Arcturus - The Journey (5 plays)</title>
       <link>https://www.last.fm/music/Arcturus/_/The+Journey</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1641575122--Nick Cave---La Neige Tombe</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4808f0695e98427e41318023e9404745.jpg" length="17177" type="image/jpeg"/>
       <pubDate>Fri, 07 Jan 2022 12:05:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nick Cave - Les Ours (1 play)</title>
+      <link>https://www.last.fm/music/Nick+Cave/_/Les+Ours</link>
+      <guid isPermaLink="false">TalonsOfFire-1641575235--Nick Cave---Les Ours</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4808f0695e98427e41318023e9404745.jpg" length="17177" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jan 2022 12:07:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nick Cave - Un Être Vous Obsède (1 play)</title>
+      <link>https://www.last.fm/music/Nick+Cave/_/Un+%C3%8Atre+Vous+Obs%C3%A8de</link>
+      <guid isPermaLink="false">TalonsOfFire-1641581442--Nick Cave---Un Être Vous Obsède</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4808f0695e98427e41318023e9404745.jpg" length="17177" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jan 2022 13:50:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
