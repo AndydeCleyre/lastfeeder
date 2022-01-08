@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jan 2022 19:25:28 +0000</lastBuildDate>
-    <item>
-      <title>Dödsrit - The Third Door (1 play)</title>
-      <link>https://www.last.fm/music/D%C3%B6dsrit/_/The+Third+Door</link>
-      <guid isPermaLink="false">lintmunro-1641325243--abe22f89-a3e2-46d8-8a06-dd728970c67f---The Third Door</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fbeed7860583ed48455308aee1598a61.jpg" length="30052" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jan 2022 14:40:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Jan 2022 04:55:10 +0000</lastBuildDate>
     <item>
       <title>Dödsrit - Shallow Graves (1 play)</title>
       <link>https://www.last.fm/music/D%C3%B6dsrit/_/Shallow+Graves</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1641582851--Aesop Rock---All the Smartest People</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7368d276c5c472b869a7d3cc7170f72d.jpg" length="24262" type="image/jpeg"/>
       <pubDate>Fri, 07 Jan 2022 14:14:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Aesop Rock - Abandoned Malls (2 plays)</title>
+      <link>https://www.last.fm/music/Aesop+Rock/_/Abandoned+Malls</link>
+      <guid isPermaLink="false">lintmunro-1641582937--Aesop Rock---Abandoned Malls</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7368d276c5c472b869a7d3cc7170f72d.jpg" length="24262" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jan 2022 14:15:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
