@@ -7,19 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Jan 2022 15:57:56 +0000</lastBuildDate>
-    <item>
-      <title>Motörhead - Grind You Down (1 play)</title>
-      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Grind+You+Down</link>
-      <guid isPermaLink="false">manosg--1641568045--Motörhead---Grind You Down</guid>
-      <pubDate>Fri, 07 Jan 2022 10:07:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Motörhead - Religion (1 play)</title>
-      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Religion</link>
-      <guid isPermaLink="false">manosg--1641568231--57961a97-3796-4bf7-9f02-a985a8979ae9---Religion</guid>
-      <pubDate>Fri, 07 Jan 2022 10:10:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Jan 2022 16:37:07 +0000</lastBuildDate>
     <item>
       <title>Motörhead - Bang to Rights (3 plays)</title>
       <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Bang+to+Rights</link>
@@ -331,6 +319,20 @@
       <link>https://www.last.fm/music/Steve+Vai/_/Little+Pretty</link>
       <guid isPermaLink="false">manosg--1641657191--Steve Vai---Little Pretty</guid>
       <pubDate>Sat, 08 Jan 2022 10:53:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Slayer - South of Heaven (6 plays)</title>
+      <link>https://www.last.fm/music/Slayer/_/South+of+Heaven</link>
+      <guid isPermaLink="false">manosg--1641657599--bdacc37b-8633-4bf8-9dd5-4662ee651aec---South of Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea16ee8d8dca0481359cfe828b083ef7.png" length="228729" type="image/png"/>
+      <pubDate>Sat, 08 Jan 2022 10:59:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Slayer - Silent Scream (6 plays)</title>
+      <link>https://www.last.fm/music/Slayer/_/Silent+Scream</link>
+      <guid isPermaLink="false">manosg--1641657899--bdacc37b-8633-4bf8-9dd5-4662ee651aec---Silent Scream</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea16ee8d8dca0481359cfe828b083ef7.png" length="228729" type="image/png"/>
+      <pubDate>Sat, 08 Jan 2022 11:04:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
