@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Jan 2022 01:08:07 +0000</lastBuildDate>
-    <item>
-      <title>SongBot - Happy Bot (1 play)</title>
-      <link>https://www.last.fm/music/SongBot/_/Happy+Bot</link>
-      <guid isPermaLink="false">ddgromit-1641408637--SongBot---Happy Bot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 05 Jan 2022 13:50:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Jan 2022 02:14:10 +0000</lastBuildDate>
     <item>
       <title>Demented Sound Mafia - Chasing Inspiration (8 plays)</title>
       <link>https://www.last.fm/music/Demented+Sound+Mafia/_/Chasing+Inspiration</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1641602744--291767b4-b137-452f-8547-b578cd029fa4---Four of Wands (a Cause for Celebration)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97842a27ce48fc785170404300f92129.jpg" length="21368" type="image/jpeg"/>
       <pubDate>Fri, 07 Jan 2022 19:45:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Phil Western - Five of Wands (Time to End the Discord and Clear the Air) (1 play)</title>
+      <link>https://www.last.fm/music/Phil+Western/_/Five+of+Wands+(Time+to+End+the+Discord+and+Clear+the+Air)</link>
+      <guid isPermaLink="false">ddgromit-1641603247--291767b4-b137-452f-8547-b578cd029fa4---Five of Wands (Time to End the Discord and Clear the Air)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97842a27ce48fc785170404300f92129.jpg" length="21368" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jan 2022 19:54:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
