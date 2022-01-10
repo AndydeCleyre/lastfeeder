@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Jan 2022 08:48:51 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - All the Madmen (34 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/All+the+Madmen</link>
-      <guid isPermaLink="false">Frippertron-1641551339--5441c29d-3602-4898-b1a1-b77fa23b8e50---All the Madmen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
-      <pubDate>Fri, 07 Jan 2022 05:28:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Big Brother (59 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Big+Brother</link>
-      <guid isPermaLink="false">Frippertron-1641551682--5441c29d-3602-4898-b1a1-b77fa23b8e50---Big Brother</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
-      <pubDate>Fri, 07 Jan 2022 05:34:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Jan 2022 09:22:05 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Loving the Alien (81 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1641804098--3285dc48-9505-469d-ad8a-bdf2d3dba632---Mother of the World</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a9b0ac0487b4a04cae76bb8333deb62.png" length="137830" type="image/png"/>
       <pubDate>Mon, 10 Jan 2022 03:41:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - The Wolf (18 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/The+Wolf</link>
+      <guid isPermaLink="false">Frippertron-1641804696--3285dc48-9505-469d-ad8a-bdf2d3dba632---The Wolf</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a9b0ac0487b4a04cae76bb8333deb62.png" length="137830" type="image/png"/>
+      <pubDate>Mon, 10 Jan 2022 03:51:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - The Seer (19 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/The+Seer</link>
+      <guid isPermaLink="false">Frippertron-1641804792--3285dc48-9505-469d-ad8a-bdf2d3dba632---The Seer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a9b0ac0487b4a04cae76bb8333deb62.png" length="137830" type="image/png"/>
+      <pubDate>Mon, 10 Jan 2022 03:53:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
