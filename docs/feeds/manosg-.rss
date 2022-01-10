@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Jan 2022 10:45:38 +0000</lastBuildDate>
-    <item>
-      <title>Slayer - Behind The Crooked Cross (6 plays)</title>
-      <link>https://www.last.fm/music/Slayer/_/Behind+The+Crooked+Cross</link>
-      <guid isPermaLink="false">manosg--1641659952--bdacc37b-8633-4bf8-9dd5-4662ee651aec---Behind The Crooked Cross</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea16ee8d8dca0481359cfe828b083ef7.png" length="228729" type="image/png"/>
-      <pubDate>Sat, 08 Jan 2022 11:39:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Jan 2022 10:56:55 +0000</lastBuildDate>
     <item>
       <title>Slayer - Mandatory Suicide (6 plays)</title>
       <link>https://www.last.fm/music/Slayer/_/Mandatory+Suicide</link>
@@ -348,6 +341,13 @@
       <guid isPermaLink="false">manosg--1641811154--8bfac288-ccc5-448d-9573-c33ea2aa5c30---Road Trippin'</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85f557ed7ff84efece7386a22713a75d.jpg" length="19568" type="image/jpeg"/>
       <pubDate>Mon, 10 Jan 2022 05:39:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Manowar - Gods of War (4 plays)</title>
+      <link>https://www.last.fm/music/Manowar/_/Gods+of+War</link>
+      <guid isPermaLink="false">manosg--1641811459--00eeed6b-5897-4359-8347-b8cd28375331---Gods of War</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2825e27f0b6d4160c182a13ab6b68f76.jpg" length="38097" type="image/jpeg"/>
+      <pubDate>Mon, 10 Jan 2022 05:44:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
