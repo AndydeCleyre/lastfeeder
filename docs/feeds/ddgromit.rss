@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Jan 2022 02:51:40 +0000</lastBuildDate>
-    <item>
-      <title>Matt Darey - Gamemaster (1 play)</title>
-      <link>https://www.last.fm/music/Matt+Darey/_/Gamemaster</link>
-      <guid isPermaLink="false">ddgromit-1641422193--d8096455-e98b-4aa5-815d-2d66135d6e8c---Gamemaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e4b9127b490465292aa330a619a527e.png" length="34014" type="image/png"/>
-      <pubDate>Wed, 05 Jan 2022 17:36:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cosmic Gate - Fire Wire (1 play)</title>
-      <link>https://www.last.fm/music/Cosmic+Gate/_/Fire+Wire</link>
-      <guid isPermaLink="false">ddgromit-1641422675--5f3b32e5-efb5-4096-9260-587c155e50b7---Fire Wire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e538bfd7fe630cb3fe840b74fa421bf5.jpg" length="25367" type="image/jpeg"/>
-      <pubDate>Wed, 05 Jan 2022 17:44:35 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Jan 2022 03:21:55 +0000</lastBuildDate>
     <item>
       <title>Andy B. Jones - In Motion - Arrowhead Remix (1 play)</title>
       <link>https://www.last.fm/music/Andy+B.+Jones/_/In+Motion+-+Arrowhead+Remix</link>
@@ -282,14 +268,14 @@
       <pubDate>Sat, 08 Jan 2022 22:03:20 -0500</pubDate>
     </item>
     <item>
-      <title>Jeymes Samuel - No Turning Around (1 play)</title>
+      <title>Jeymes Samuel - No Turning Around (2 plays)</title>
       <link>https://www.last.fm/music/Jeymes+Samuel/_/No+Turning+Around</link>
       <guid isPermaLink="false">ddgromit-1641697584--Jeymes Samuel---No Turning Around</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0fbc5401b742fdab24b2f6dae2bed44.jpg" length="17721" type="image/jpeg"/>
       <pubDate>Sat, 08 Jan 2022 22:06:24 -0500</pubDate>
     </item>
     <item>
-      <title>Pretty Yende - Three And Thirty Years (1 play)</title>
+      <title>Pretty Yende - Three And Thirty Years (2 plays)</title>
       <link>https://www.last.fm/music/Pretty+Yende/_/Three+And+Thirty+Years</link>
       <guid isPermaLink="false">ddgromit-1641697699--da17af6b-9b2d-4e46-ab66-6ed997d91e16---Three And Thirty Years</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0fbc5401b742fdab24b2f6dae2bed44.jpg" length="17721" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1641782821--Laura Mvula---We Go Harder</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0fbc5401b742fdab24b2f6dae2bed44.jpg" length="17721" type="image/jpeg"/>
       <pubDate>Sun, 09 Jan 2022 21:47:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jeymes Samuel - No Turning Around (2 plays)</title>
+      <link>https://www.last.fm/music/Jeymes+Samuel/_/No+Turning+Around</link>
+      <guid isPermaLink="false">ddgromit-1641783004--Jeymes Samuel---No Turning Around</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0fbc5401b742fdab24b2f6dae2bed44.jpg" length="17721" type="image/jpeg"/>
+      <pubDate>Sun, 09 Jan 2022 21:50:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pretty Yende - Three And Thirty Years (2 plays)</title>
+      <link>https://www.last.fm/music/Pretty+Yende/_/Three+And+Thirty+Years</link>
+      <guid isPermaLink="false">ddgromit-1641783119--da17af6b-9b2d-4e46-ab66-6ed997d91e16---Three And Thirty Years</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0fbc5401b742fdab24b2f6dae2bed44.jpg" length="17721" type="image/jpeg"/>
+      <pubDate>Sun, 09 Jan 2022 21:51:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
