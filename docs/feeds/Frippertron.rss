@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jan 2022 05:39:47 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Changes (117 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Changes</link>
-      <guid isPermaLink="false">Frippertron-1641795133--5441c29d-3602-4898-b1a1-b77fa23b8e50---Changes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Mon, 10 Jan 2022 01:12:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Oh! You Pretty Things (59 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Oh!+You+Pretty+Things</link>
-      <guid isPermaLink="false">Frippertron-1641795349--5441c29d-3602-4898-b1a1-b77fa23b8e50---Oh! You Pretty Things</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Mon, 10 Jan 2022 01:15:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jan 2022 05:52:25 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Eight Line Poem (49 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Eight+Line+Poem</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1641877813--3285dc48-9505-469d-ad8a-bdf2d3dba632---Just A Little Boy (for Chester Burnett)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfaeae64a4344c50ccfd7f4608c190e2.png" length="192782" type="image/png"/>
       <pubDate>Tue, 11 Jan 2022 00:10:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - A Little God In My Hands (51 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/A+Little+God+In+My+Hands</link>
+      <guid isPermaLink="false">Frippertron-1641879470--3285dc48-9505-469d-ad8a-bdf2d3dba632---A Little God In My Hands</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfaeae64a4344c50ccfd7f4608c190e2.png" length="192782" type="image/png"/>
+      <pubDate>Tue, 11 Jan 2022 00:37:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - Bring the Sun / Toussaint l'ouverture (9 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Bring+the+Sun+%2F+Toussaint+l%27ouverture</link>
+      <guid isPermaLink="false">Frippertron-1641879900--3285dc48-9505-469d-ad8a-bdf2d3dba632---Bring the Sun / Toussaint l'ouverture</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfaeae64a4344c50ccfd7f4608c190e2.png" length="192782" type="image/png"/>
+      <pubDate>Tue, 11 Jan 2022 00:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
