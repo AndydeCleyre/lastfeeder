@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jan 2022 08:25:20 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - I Can't Give Everything Away (35 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/I+Can%27t+Give+Everything+Away</link>
-      <guid isPermaLink="false">Frippertron-1641802783--5441c29d-3602-4898-b1a1-b77fa23b8e50---I Can't Give Everything Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
-      <pubDate>Mon, 10 Jan 2022 03:19:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Gadgets - Kyleaking (1 play)</title>
-      <link>https://www.last.fm/music/The+Gadgets/_/Kyleaking</link>
-      <guid isPermaLink="false">Frippertron-1641803007--652ae7ad-ef2d-4be0-88d5-4c3d0c331a24---Kyleaking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18d788f0f1f44a55a260fec525b8ed5a.jpg" length="19122" type="image/jpeg"/>
-      <pubDate>Mon, 10 Jan 2022 03:23:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jan 2022 08:47:24 +0000</lastBuildDate>
     <item>
       <title>The Gadgets - Making Cars (1 play)</title>
       <link>https://www.last.fm/music/The+Gadgets/_/Making+Cars</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1641889435--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sweet Thing (reprise)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
       <pubDate>Tue, 11 Jan 2022 03:23:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Deacon Blues (44 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Deacon+Blues</link>
+      <guid isPermaLink="false">Frippertron-1641889622--e01c3376-15fa-40d7-b747-5f219bdefdd7---Deacon Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jan 2022 03:27:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Soft Machine - Facelift (11 plays)</title>
+      <link>https://www.last.fm/music/Soft+Machine/_/Facelift</link>
+      <guid isPermaLink="false">Frippertron-1641890082--5193ce6b-a315-4c50-ae49-54e69ffbc988---Facelift</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c41dbeedf6c244b8c40c5d21520d15b8.png" length="194241" type="image/png"/>
+      <pubDate>Tue, 11 Jan 2022 03:34:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
