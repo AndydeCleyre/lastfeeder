@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jan 2022 09:44:00 +0000</lastBuildDate>
-    <item>
-      <title>Pylon - Beep (1 play)</title>
-      <link>https://www.last.fm/music/Pylon/_/Beep</link>
-      <guid isPermaLink="false">Frippertron-1641803654--4c33b4c5-c106-4e55-8521-6a022958ff5f---Beep</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f6e893efa3c44bb5a75c19df0ad4c3b8.png" length="200118" type="image/png"/>
-      <pubDate>Mon, 10 Jan 2022 03:34:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Swans - Lunacy (27 plays)</title>
-      <link>https://www.last.fm/music/Swans/_/Lunacy</link>
-      <guid isPermaLink="false">Frippertron-1641803728--3285dc48-9505-469d-ad8a-bdf2d3dba632---Lunacy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a9b0ac0487b4a04cae76bb8333deb62.png" length="137830" type="image/png"/>
-      <pubDate>Mon, 10 Jan 2022 03:35:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jan 2022 09:55:11 +0000</lastBuildDate>
     <item>
       <title>Swans - Mother of the World (41 plays)</title>
       <link>https://www.last.fm/music/Swans/_/Mother+of+the+World</link>
@@ -352,11 +338,25 @@
       <pubDate>Tue, 11 Jan 2022 04:11:46 -0500</pubDate>
     </item>
     <item>
-      <title>Soft Machine - Out-Bloody-Rageous (19 plays)</title>
+      <title>Soft Machine - Out-Bloody-Rageous (20 plays)</title>
       <link>https://www.last.fm/music/Soft+Machine/_/Out-Bloody-Rageous</link>
       <guid isPermaLink="false">Frippertron-1641893455--5193ce6b-a315-4c50-ae49-54e69ffbc988---Out-Bloody-Rageous</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c41dbeedf6c244b8c40c5d21520d15b8.png" length="194241" type="image/png"/>
       <pubDate>Tue, 11 Jan 2022 04:30:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Soft Machine - Out-Bloody-Rageous (20 plays)</title>
+      <link>https://www.last.fm/music/Soft+Machine/_/Out-Bloody-Rageous</link>
+      <guid isPermaLink="false">Frippertron-1641894172--5193ce6b-a315-4c50-ae49-54e69ffbc988---Out-Bloody-Rageous</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c41dbeedf6c244b8c40c5d21520d15b8.png" length="194241" type="image/png"/>
+      <pubDate>Tue, 11 Jan 2022 04:42:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - The Verb to Love (7 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/The+Verb+to+Love</link>
+      <guid isPermaLink="false">Frippertron-1641894653--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---The Verb to Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/09491862a954404b9818929a222da7de.png" length="127639" type="image/png"/>
+      <pubDate>Tue, 11 Jan 2022 04:50:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
