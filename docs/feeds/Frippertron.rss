@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jan 2022 05:19:48 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Sweet Thing (reprise) (105 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Sweet+Thing+(reprise)</link>
-      <guid isPermaLink="false">Frippertron-1641794962--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sweet Thing (reprise)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
-      <pubDate>Mon, 10 Jan 2022 01:09:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jan 2022 05:39:47 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Changes (117 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Changes</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1641877328--3285dc48-9505-469d-ad8a-bdf2d3dba632---Screen Shot</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfaeae64a4344c50ccfd7f4608c190e2.png" length="192782" type="image/png"/>
       <pubDate>Tue, 11 Jan 2022 00:02:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - Just A Little Boy (for Chester Burnett) (13 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Just+A+Little+Boy+(for+Chester+Burnett)</link>
+      <guid isPermaLink="false">Frippertron-1641877813--3285dc48-9505-469d-ad8a-bdf2d3dba632---Just A Little Boy (for Chester Burnett)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfaeae64a4344c50ccfd7f4608c190e2.png" length="192782" type="image/png"/>
+      <pubDate>Tue, 11 Jan 2022 00:10:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
