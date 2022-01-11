@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jan 2022 20:40:48 +0000</lastBuildDate>
-    <item>
-      <title>Koffee - The Harder They Fall (3 plays)</title>
-      <link>https://www.last.fm/music/Koffee/_/The+Harder+They+Fall</link>
-      <guid isPermaLink="false">ddgromit-1641780928--7d04679e-a855-4214-9543-febaf02de725---The Harder They Fall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0fbc5401b742fdab24b2f6dae2bed44.jpg" length="17721" type="image/jpeg"/>
-      <pubDate>Sun, 09 Jan 2022 21:15:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jan 2022 20:52:34 +0000</lastBuildDate>
     <item>
       <title>Kid Cudi - Guns Go Bang (4 plays)</title>
       <link>https://www.last.fm/music/Kid+Cudi/_/Guns+Go+Bang</link>
@@ -124,6 +117,7 @@
       <title>Disasterpeace - Vignette: Panacea (2 plays)</title>
       <link>https://www.last.fm/music/Disasterpeace/_/Vignette:+Panacea</link>
       <guid isPermaLink="false">ddgromit-1641854108--8a562589-9650-45f6-ab82-332625c0bf2d---Vignette: Panacea</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0bf05ae069633d73c4eb15e69f635a8.png" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Mon, 10 Jan 2022 17:35:08 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1641932775--37d067eb-495e-4888-ad97-4b5708ffd3a9---Church Girl</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48e10c51765209ea96926012946eb0ca.jpg" length="19439" type="image/jpeg"/>
       <pubDate>Tue, 11 Jan 2022 15:26:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Laura Mvula - Safe Passage (1 play)</title>
+      <link>https://www.last.fm/music/Laura+Mvula/_/Safe+Passage</link>
+      <guid isPermaLink="false">ddgromit-1641933002--37d067eb-495e-4888-ad97-4b5708ffd3a9---Safe Passage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48e10c51765209ea96926012946eb0ca.jpg" length="19439" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jan 2022 15:30:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
