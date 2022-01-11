@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jan 2022 10:57:03 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - 1984/Dodo (16 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/1984%2FDodo</link>
-      <guid isPermaLink="false">Frippertron-1641812188--5441c29d-3602-4898-b1a1-b77fa23b8e50---1984/Dodo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab6b39f3402c445dc468229c74dc236d.jpg" length="16073" type="image/jpeg"/>
-      <pubDate>Mon, 10 Jan 2022 05:56:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jan 2022 11:20:54 +0000</lastBuildDate>
     <item>
       <title>Prince - Christopher Tracy's Parade (32 plays)</title>
       <link>https://www.last.fm/music/Prince/_/Christopher+Tracy%27s+Parade</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1641898399--42c4b58d-2e28-41d4-bfe5-4edee68386cf---What We Do Is Secret</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84ed1e2f149f54bb04a02c95a487ce4a.png" length="74845" type="image/png"/>
       <pubDate>Tue, 11 Jan 2022 05:53:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Television - Marquee Moon (127 plays)</title>
+      <link>https://www.last.fm/music/Television/_/Marquee+Moon</link>
+      <guid isPermaLink="false">Frippertron-1641898459--490bde43-5edb-4a93-b3b3-7a0465fd8909---Marquee Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jan 2022 05:54:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
