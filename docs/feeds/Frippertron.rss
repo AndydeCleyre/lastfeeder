@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jan 2022 11:20:54 +0000</lastBuildDate>
-    <item>
-      <title>Prince - Christopher Tracy's Parade (32 plays)</title>
-      <link>https://www.last.fm/music/Prince/_/Christopher+Tracy%27s+Parade</link>
-      <guid isPermaLink="false">Frippertron-1641872749--070d193a-845c-479f-980e-bef15710653e---Christopher Tracy's Parade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebc8fc5ad74f9b8c783fb2d70fa23d2.jpg" length="18240" type="image/jpeg"/>
-      <pubDate>Mon, 10 Jan 2022 22:45:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Prince - New Position (30 plays)</title>
-      <link>https://www.last.fm/music/Prince/_/New+Position</link>
-      <guid isPermaLink="false">Frippertron-1641872881--070d193a-845c-479f-980e-bef15710653e---New Position</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebc8fc5ad74f9b8c783fb2d70fa23d2.jpg" length="18240" type="image/jpeg"/>
-      <pubDate>Mon, 10 Jan 2022 22:48:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 03:56:32 +0000</lastBuildDate>
     <item>
       <title>Prince - I Wonder U (30 plays)</title>
       <link>https://www.last.fm/music/Prince/_/I+Wonder+U</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1641898459--490bde43-5edb-4a93-b3b3-7a0465fd8909---Marquee Moon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
       <pubDate>Tue, 11 Jan 2022 05:54:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - Lunacy (28 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Lunacy</link>
+      <guid isPermaLink="false">Frippertron-1641959052--3285dc48-9505-469d-ad8a-bdf2d3dba632---Lunacy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a9b0ac0487b4a04cae76bb8333deb62.png" length="137830" type="image/png"/>
+      <pubDate>Tue, 11 Jan 2022 22:44:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - Cloud of Forgetting (8 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Cloud+of+Forgetting</link>
+      <guid isPermaLink="false">Frippertron-1641959386--3285dc48-9505-469d-ad8a-bdf2d3dba632---Cloud of Forgetting</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cced9669d6650c5ffc303ff5f6177a79.jpg" length="12525" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jan 2022 22:49:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
