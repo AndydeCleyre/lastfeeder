@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jan 2022 03:56:32 +0000</lastBuildDate>
-    <item>
-      <title>Prince - I Wonder U (30 plays)</title>
-      <link>https://www.last.fm/music/Prince/_/I+Wonder+U</link>
-      <guid isPermaLink="false">Frippertron-1641873023--070d193a-845c-479f-980e-bef15710653e---I Wonder U</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebc8fc5ad74f9b8c783fb2d70fa23d2.jpg" length="18240" type="image/jpeg"/>
-      <pubDate>Mon, 10 Jan 2022 22:50:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 04:30:44 +0000</lastBuildDate>
     <item>
       <title>Prince - Under the Cherry Moon (36 plays)</title>
       <link>https://www.last.fm/music/Prince/_/Under+the+Cherry+Moon</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1641959386--3285dc48-9505-469d-ad8a-bdf2d3dba632---Cloud of Forgetting</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cced9669d6650c5ffc303ff5f6177a79.jpg" length="12525" type="image/jpeg"/>
       <pubDate>Tue, 11 Jan 2022 22:49:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - Cloud of Unknowing (6 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Cloud+of+Unknowing</link>
+      <guid isPermaLink="false">Frippertron-1641960149--3285dc48-9505-469d-ad8a-bdf2d3dba632---Cloud of Unknowing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cced9669d6650c5ffc303ff5f6177a79.jpg" length="12525" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jan 2022 23:02:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
