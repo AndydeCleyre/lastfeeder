@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jan 2022 10:57:19 +0000</lastBuildDate>
-    <item>
-      <title>The Stooges - Raw Power (96 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/Raw+Power</link>
-      <guid isPermaLink="false">Frippertron-1641898117--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Raw Power</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69ebd87597be80838b0063a65ed9bd06.jpg" length="11393" type="image/jpeg"/>
-      <pubDate>Tue, 11 Jan 2022 05:48:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 11:18:53 +0000</lastBuildDate>
     <item>
       <title>The Germs - What We Do Is Secret (6 plays)</title>
       <link>https://www.last.fm/music/The+Germs/_/What+We+Do+Is+Secret</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1641984524--331ce348-1b08-40b9-8ed7-0763b92bd003---The Thrill of It All</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f147556280904cdfbd548c75da1bf6a1.png" length="237465" type="image/png"/>
       <pubDate>Wed, 12 Jan 2022 05:48:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - A Song for Europe (31 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/A+Song+for+Europe</link>
+      <guid isPermaLink="false">Frippertron-1641984910--331ce348-1b08-40b9-8ed7-0763b92bd003---A Song for Europe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/684261636ec5f2f2dc24e4f040f64cad.png" length="223903" type="image/png"/>
+      <pubDate>Wed, 12 Jan 2022 05:55:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
