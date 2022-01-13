@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jan 2022 11:52:40 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Seven Stones (2 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Seven+Stones</link>
-      <guid isPermaLink="false">manosg--1642001176--722b2118-a77b-4161-9060-63a1b469e5b2---Seven Stones</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
-      <pubDate>Wed, 12 Jan 2022 10:26:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Harold the Barrel (2 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Harold+the+Barrel</link>
-      <guid isPermaLink="false">manosg--1642001564--722b2118-a77b-4161-9060-63a1b469e5b2---Harold the Barrel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
-      <pubDate>Wed, 12 Jan 2022 10:32:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Harlequin (2 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Harlequin</link>
-      <guid isPermaLink="false">manosg--1642001747--722b2118-a77b-4161-9060-63a1b469e5b2---Harlequin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
-      <pubDate>Wed, 12 Jan 2022 10:35:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jan 2022 12:33:42 +0000</lastBuildDate>
     <item>
       <title>Genesis - The Fountain of Salmacis (2 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/The+Fountain+of+Salmacis</link>
@@ -127,6 +106,7 @@
       <title>Whitesnake - Don't Break My Heart Again (9 plays)</title>
       <link>https://www.last.fm/music/Whitesnake/_/Don%27t+Break+My+Heart+Again</link>
       <guid isPermaLink="false">manosg--1642010391--5dedf5cf-a598-4408-9556-3bf3f149f3ba---Don't Break My Heart Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f5d1460c28134d72a34ca316e2f4648.png" length="163977" type="image/png"/>
       <pubDate>Wed, 12 Jan 2022 12:59:51 -0500</pubDate>
     </item>
     <item>
@@ -337,6 +317,27 @@
       <guid isPermaLink="false">manosg--1642074557--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---A Wonderful Day In A One-Way World</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ac6650c3c876dd151cd2c51baac3071.jpg" length="23170" type="image/jpeg"/>
       <pubDate>Thu, 13 Jan 2022 06:49:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - White Shadow (1 play)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/White+Shadow</link>
+      <guid isPermaLink="false">manosg--1642074775--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---White Shadow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0853654277c48cfbe6c57d7bfe944f5.jpg" length="26716" type="image/jpeg"/>
+      <pubDate>Thu, 13 Jan 2022 06:52:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Indigo (1 play)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Indigo</link>
+      <guid isPermaLink="false">manosg--1642075096--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Indigo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/191c3c7d19234a7bb2556e5347e95098.jpg" length="23564" type="image/jpeg"/>
+      <pubDate>Thu, 13 Jan 2022 06:58:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Animal Magic (1 play)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Animal+Magic</link>
+      <guid isPermaLink="false">manosg--1642075311--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Animal Magic</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/191c3c7d19234a7bb2556e5347e95098.jpg" length="23564" type="image/jpeg"/>
+      <pubDate>Thu, 13 Jan 2022 07:01:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
