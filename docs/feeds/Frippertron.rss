@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jan 2022 06:25:21 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - No Reply at All (28 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/No+Reply+at+All</link>
-      <guid isPermaLink="false">Frippertron-1641970876--722b2118-a77b-4161-9060-63a1b469e5b2---No Reply at All</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/135f00330fff4739b9f9ea74ee9009d0.png" length="32968" type="image/png"/>
-      <pubDate>Wed, 12 Jan 2022 02:01:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Son And Daughter (56 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Son+And+Daughter</link>
-      <guid isPermaLink="false">Frippertron-1641971221--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Son And Daughter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fb6dafb0fe843b2c3fb2bacdaed3cc5.png" length="67039" type="image/png"/>
-      <pubDate>Wed, 12 Jan 2022 02:07:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Modern Times Rock 'N' Roll (27 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Modern+Times+Rock+%27N%27+Roll</link>
-      <guid isPermaLink="false">Frippertron-1641971653--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Modern Times Rock 'N' Roll</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fb6dafb0fe843b2c3fb2bacdaed3cc5.png" length="67039" type="image/png"/>
-      <pubDate>Wed, 12 Jan 2022 02:14:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jan 2022 06:50:17 +0000</lastBuildDate>
     <item>
       <title>Foxygen - Follow The Leader (97 plays)</title>
       <link>https://www.last.fm/music/Foxygen/_/Follow+The+Leader</link>
@@ -135,7 +114,7 @@
       <pubDate>Wed, 12 Jan 2022 04:29:30 -0500</pubDate>
     </item>
     <item>
-      <title>King Crimson - The Great Deceiver</title>
+      <title>King Crimson - The Great Deceiver (55 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/The+Great+Deceiver</link>
       <guid isPermaLink="false">Frippertron-1641980181--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Great Deceiver</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1642054751--3285dc48-9505-469d-ad8a-bdf2d3dba632---The Nub</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef112edee08d772114795ab684b7fb4d.jpg" length="6886" type="image/jpeg"/>
       <pubDate>Thu, 13 Jan 2022 01:19:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - It's Coming It's Real (18 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/It%27s+Coming+It%27s+Real</link>
+      <guid isPermaLink="false">Frippertron-1642055473--3285dc48-9505-469d-ad8a-bdf2d3dba632---It's Coming It's Real</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef112edee08d772114795ab684b7fb4d.jpg" length="6886" type="image/jpeg"/>
+      <pubDate>Thu, 13 Jan 2022 01:31:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - Some New Things (3 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Some+New+Things</link>
+      <guid isPermaLink="false">Frippertron-1642055937--3285dc48-9505-469d-ad8a-bdf2d3dba632---Some New Things</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef112edee08d772114795ab684b7fb4d.jpg" length="6886" type="image/jpeg"/>
+      <pubDate>Thu, 13 Jan 2022 01:38:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - What is This? (6 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/What+is+This%3F</link>
+      <guid isPermaLink="false">Frippertron-1642056371--3285dc48-9505-469d-ad8a-bdf2d3dba632---What is This?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef112edee08d772114795ab684b7fb4d.jpg" length="6886" type="image/jpeg"/>
+      <pubDate>Thu, 13 Jan 2022 01:46:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
