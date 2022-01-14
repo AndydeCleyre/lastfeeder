@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jan 2022 09:21:46 +0000</lastBuildDate>
-    <item>
-      <title>Glassjaw - Stars (21 plays)</title>
-      <link>https://www.last.fm/music/Glassjaw/_/Stars</link>
-      <guid isPermaLink="false">Frippertron-1642136601--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
-      <pubDate>Fri, 14 Jan 2022 00:03:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jan 2022 09:43:30 +0000</lastBuildDate>
     <item>
       <title>Glassjaw - All Good Junkies Go to Heaven (22 plays)</title>
       <link>https://www.last.fm/music/Glassjaw/_/All+Good+Junkies+Go+to+Heaven</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1642151831--3285dc48-9505-469d-ad8a-bdf2d3dba632---Lunacy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a9b0ac0487b4a04cae76bb8333deb62.png" length="137830" type="image/png"/>
       <pubDate>Fri, 14 Jan 2022 04:17:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans - Volcano (51 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Volcano</link>
+      <guid isPermaLink="false">Frippertron-1642152949--3285dc48-9505-469d-ad8a-bdf2d3dba632---Volcano</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9081bc90695f4d03b1eb54a844bff459.jpg" length="12572" type="image/jpeg"/>
+      <pubDate>Fri, 14 Jan 2022 04:35:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
