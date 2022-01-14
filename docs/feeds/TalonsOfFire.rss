@@ -7,7 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jan 2022 02:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jan 2022 14:52:40 +0000</lastBuildDate>
     <item>
       <title>Cocteau Twins - Lorelei (4 plays)</title>
       <link>https://www.last.fm/music/Cocteau+Twins/_/Lorelei</link>
@@ -296,18 +296,11 @@
       <pubDate>Fri, 07 Jan 2022 15:21:42 -0500</pubDate>
     </item>
     <item>
-      <title>Kauan - Akva (6 plays)</title>
+      <title>Kauan - Akva (5 plays)</title>
       <link>https://www.last.fm/music/Kauan/_/Akva</link>
       <guid isPermaLink="false">TalonsOfFire-1642112017--182430af-bc1c-4028-b2c8-37d77e0df225---Akva</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4823cdd7acba5475ae6b3b81cde57323.png" length="220173" type="image/png"/>
       <pubDate>Thu, 13 Jan 2022 17:13:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kauan - Akva (6 plays)</title>
-      <link>https://www.last.fm/music/Kauan/_/Akva</link>
-      <guid isPermaLink="false">TalonsOfFire-1642112430--182430af-bc1c-4028-b2c8-37d77e0df225---Akva</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4823cdd7acba5475ae6b3b81cde57323.png" length="220173" type="image/png"/>
-      <pubDate>Thu, 13 Jan 2022 17:20:30 -0500</pubDate>
     </item>
     <item>
       <title>Kauan - Kit (3 plays)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1642125344--182430af-bc1c-4028-b2c8-37d77e0df225---Lapsenmuisto</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b44dfde133bafa07c45b07b3b1458607.jpg" length="4863" type="image/jpeg"/>
       <pubDate>Thu, 13 Jan 2022 20:55:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kauan - kasvot (1 play)</title>
+      <link>https://www.last.fm/music/Kauan/_/kasvot</link>
+      <guid isPermaLink="false">TalonsOfFire-1642125676--182430af-bc1c-4028-b2c8-37d77e0df225---kasvot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b44dfde133bafa07c45b07b3b1458607.jpg" length="4863" type="image/jpeg"/>
+      <pubDate>Thu, 13 Jan 2022 21:01:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
