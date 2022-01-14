@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jan 2022 20:43:22 +0000</lastBuildDate>
-    <item>
-      <title>Sun Kil Moon - Carry Me Ohio (1 play)</title>
-      <link>https://www.last.fm/music/Sun+Kil+Moon/_/Carry+Me+Ohio</link>
-      <guid isPermaLink="false">TalonsOfFire-1641164606--ef2c6449-d02b-415b-ad8c-c14c08266552---Carry Me Ohio</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df8acca3c690424eb002aa1391f3aa4c.png" length="213615" type="image/png"/>
-      <pubDate>Sun, 02 Jan 2022 18:03:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sufjan Stevens - Romulus (7 plays)</title>
-      <link>https://www.last.fm/music/Sufjan+Stevens/_/Romulus</link>
-      <guid isPermaLink="false">TalonsOfFire-1641164986--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Romulus</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f38efc18b60fdbc896e4f4efa7d46510.jpg" length="26079" type="image/jpeg"/>
-      <pubDate>Sun, 02 Jan 2022 18:09:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jan 2022 20:54:48 +0000</lastBuildDate>
     <item>
       <title>Bark Psychosis - Burning the City (8 plays)</title>
       <link>https://www.last.fm/music/Bark+Psychosis/_/Burning+the+City</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1642192574--182430af-bc1c-4028-b2c8-37d77e0df225---Enne</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
       <pubDate>Fri, 14 Jan 2022 15:36:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Taistelu (1 play)</title>
+      <link>https://www.last.fm/music/Kauan/_/Taistelu</link>
+      <guid isPermaLink="false">TalonsOfFire-1642192837--182430af-bc1c-4028-b2c8-37d77e0df225---Taistelu</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
+      <pubDate>Fri, 14 Jan 2022 15:40:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Maanpako (1 play)</title>
+      <link>https://www.last.fm/music/Kauan/_/Maanpako</link>
+      <guid isPermaLink="false">TalonsOfFire-1642193148--182430af-bc1c-4028-b2c8-37d77e0df225---Maanpako</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
+      <pubDate>Fri, 14 Jan 2022 15:45:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
