@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jan 2022 01:08:20 +0000</lastBuildDate>
-    <item>
-      <title>Lemon Pi - Sun King (2 plays)</title>
-      <link>https://www.last.fm/music/Lemon+Pi/_/Sun+King</link>
-      <guid isPermaLink="false">ddgromit-1642031470--Lemon Pi---Sun King</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 12 Jan 2022 18:51:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Innocent Panda - Kyoto (1 play)</title>
-      <link>https://www.last.fm/music/Innocent+Panda/_/Kyoto</link>
-      <guid isPermaLink="false">ddgromit-1642031606--Innocent Panda---Kyoto</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4823a40043dbea78f81f4d1a9ea2d744.jpg" length="8869" type="image/jpeg"/>
-      <pubDate>Wed, 12 Jan 2022 18:53:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jan 2022 17:10:32 +0000</lastBuildDate>
     <item>
       <title>Nicolello - Floating In Space (2 plays)</title>
       <link>https://www.last.fm/music/Nicolello/_/Floating+In+Space</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1642208203--d451395a-f768-432e-bb70-d38c32baf4cb---Hope - LOCK-IN</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36bfe4be7ec5012df0f72cfa9fef74e8.jpg" length="24619" type="image/jpeg"/>
       <pubDate>Fri, 14 Jan 2022 19:56:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHVRCHES - California (4 plays)</title>
+      <link>https://www.last.fm/music/CHVRCHES/_/California</link>
+      <guid isPermaLink="false">ddgromit-1642208746--6a93afbb-257f-4166-b389-9f2a1e5c5df8---California</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9a1347fe5731ec790aef9d59a7f1b30.jpg" length="10071" type="image/jpeg"/>
+      <pubDate>Fri, 14 Jan 2022 20:05:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Opal Rose - Nothin' to Do (1 play)</title>
+      <link>https://www.last.fm/music/Opal+Rose/_/Nothin%27+to+Do</link>
+      <guid isPermaLink="false">ddgromit-1642265256--Opal Rose---Nothin' to Do</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 15 Jan 2022 11:47:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
