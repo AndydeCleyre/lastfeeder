@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jan 2022 05:00:23 +0000</lastBuildDate>
-    <item>
-      <title>Juicy J - Killa (22 plays)</title>
-      <link>https://www.last.fm/music/Juicy+J/_/Killa</link>
-      <guid isPermaLink="false">Arcade1996-1641947400--c45d161f-83ce-4464-ba41-44202e6916d9---Killa</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c327bedf09415b3c1186e7b1f4c5e59.jpg" length="12000" type="image/jpeg"/>
-      <pubDate>Tue, 11 Jan 2022 19:30:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jan 2022 07:18:51 +0000</lastBuildDate>
     <item>
       <title>Charli XCX - Gone (45 plays)</title>
       <link>https://www.last.fm/music/Charli+XCX/_/Gone</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1642221584--1e4e9db7-5068-4a9c-bdd0-5777e47172c8---Ride the Dragon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36030bce8e7c29602e34f6aecfcb75b7.jpg" length="20739" type="image/jpeg"/>
       <pubDate>Fri, 14 Jan 2022 23:39:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>FKA twigs - Honda (feat. Pa Salieu) (1 play)</title>
+      <link>https://www.last.fm/music/FKA+twigs/_/Honda+(feat.+Pa+Salieu)</link>
+      <guid isPermaLink="false">Arcade1996-1642221772--FKA twigs---Honda (feat. Pa Salieu)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36030bce8e7c29602e34f6aecfcb75b7.jpg" length="20739" type="image/jpeg"/>
+      <pubDate>Fri, 14 Jan 2022 23:42:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
