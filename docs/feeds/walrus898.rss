@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jan 2022 18:49:06 +0000</lastBuildDate>
-    <item>
-      <title>Cat Power - These Days (1 play)</title>
-      <link>https://www.last.fm/music/Cat+Power/_/These+Days</link>
-      <guid isPermaLink="false">walrus898-1642176604--05755bf1-380c-487f-983f-d1a02401fa28---These Days</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a58151e006ee2c463bf8b7aaba325acd.jpg" length="31188" type="image/jpeg"/>
-      <pubDate>Fri, 14 Jan 2022 11:10:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>NewDad - Say It (2 plays)</title>
-      <link>https://www.last.fm/music/NewDad/_/Say+It</link>
-      <guid isPermaLink="false">walrus898-1642176828--NewDad---Say It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73f9f62d245f2e0eb3c515510a40c1f7.jpg" length="20939" type="image/jpeg"/>
-      <pubDate>Fri, 14 Jan 2022 11:13:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jan 2022 20:21:06 +0000</lastBuildDate>
     <item>
       <title>Flight Facilities - Heavy - CC:DISCO Dub (1 play)</title>
       <link>https://www.last.fm/music/Flight+Facilities/_/Heavy+-+CC:DISCO+Dub</link>
@@ -352,11 +338,25 @@
       <pubDate>Sat, 15 Jan 2022 13:19:01 -0500</pubDate>
     </item>
     <item>
-      <title>NewDad - Blue (3 plays)</title>
+      <title>NewDad - Blue (4 plays)</title>
       <link>https://www.last.fm/music/NewDad/_/Blue</link>
       <guid isPermaLink="false">walrus898-1642270928--038bd27c-ebec-44e5-9880-1f5eb933db11---Blue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/640a1d76c9182e9071d13e8fed8c6bef.jpg" length="26391" type="image/jpeg"/>
       <pubDate>Sat, 15 Jan 2022 13:22:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>NewDad - Hide</title>
+      <link>https://www.last.fm/music/NewDad/_/Hide</link>
+      <guid isPermaLink="false">walrus898-1642271126--038bd27c-ebec-44e5-9880-1f5eb933db11---Hide</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/640a1d76c9182e9071d13e8fed8c6bef.jpg" length="26391" type="image/jpeg"/>
+      <pubDate>Sat, 15 Jan 2022 13:25:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>NewDad - Drown (1 play)</title>
+      <link>https://www.last.fm/music/NewDad/_/Drown</link>
+      <guid isPermaLink="false">walrus898-1642277819--038bd27c-ebec-44e5-9880-1f5eb933db11---Drown</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/640a1d76c9182e9071d13e8fed8c6bef.jpg" length="26391" type="image/jpeg"/>
+      <pubDate>Sat, 15 Jan 2022 15:16:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
