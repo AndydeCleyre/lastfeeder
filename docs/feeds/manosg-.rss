@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Jan 2022 12:34:20 +0000</lastBuildDate>
-    <item>
-      <title>Ragnarök - Tatanga Mani (2 plays)</title>
-      <link>https://www.last.fm/music/Ragnar%C3%B6k/_/Tatanga+Mani</link>
-      <guid isPermaLink="false">manosg--1642415422--623713ea-f6c6-48e2-989c-211631c690c1---Tatanga Mani</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c418b3180e540619224b7670f209d46.jpg" length="24097" type="image/jpeg"/>
-      <pubDate>Mon, 17 Jan 2022 05:30:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ragnarök - Fjottot (2 plays)</title>
-      <link>https://www.last.fm/music/Ragnar%C3%B6k/_/Fjottot</link>
-      <guid isPermaLink="false">manosg--1642415760--623713ea-f6c6-48e2-989c-211631c690c1---Fjottot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c418b3180e540619224b7670f209d46.jpg" length="24097" type="image/jpeg"/>
-      <pubDate>Mon, 17 Jan 2022 05:36:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Jan 2022 13:12:50 +0000</lastBuildDate>
     <item>
       <title>Ragnarök - Fjottot (2 plays)</title>
       <link>https://www.last.fm/music/Ragnar%C3%B6k/_/Fjottot</link>
@@ -107,7 +93,7 @@
       <pubDate>Mon, 17 Jan 2022 06:03:35 -0500</pubDate>
     </item>
     <item>
-      <title>Hatfield and the North - Aigrette (2 plays)</title>
+      <title>Hatfield and the North - Aigrette</title>
       <link>https://www.last.fm/music/Hatfield+and+the+North/_/Aigrette</link>
       <guid isPermaLink="false">manosg--1642417416--18283e97-41ed-40fb-8458-574ae420e405---Aigrette</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d16ce86e875013d1f5ea0455edd2b969.jpg" length="15289" type="image/jpeg"/>
@@ -352,11 +338,25 @@
       <pubDate>Mon, 17 Jan 2022 06:58:26 -0500</pubDate>
     </item>
     <item>
-      <title>Gentle Giant - The Power And The Glory (1 play)</title>
+      <title>Gentle Giant - The Power And The Glory (2 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/The+Power+And+The+Glory</link>
+      <guid isPermaLink="false">manosg--1642421309--f795c501-1c41-4be2-bc2a-875eba75aa31---The Power And The Glory</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ccdc342dacabadaa0efd3c6851fc96b.jpg" length="26523" type="image/jpeg"/>
+      <pubDate>Mon, 17 Jan 2022 07:08:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - The Power And The Glory (2 plays)</title>
       <link>https://www.last.fm/music/Gentle+Giant/_/The+Power+And+The+Glory</link>
       <guid isPermaLink="false">manosg--1642421310--f795c501-1c41-4be2-bc2a-875eba75aa31---The Power And The Glory</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ccdc342dacabadaa0efd3c6851fc96b.jpg" length="26523" type="image/jpeg"/>
       <pubDate>Mon, 17 Jan 2022 07:08:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>November - En annan värld (1 play)</title>
+      <link>https://www.last.fm/music/November/_/En+annan+v%C3%A4rld</link>
+      <guid isPermaLink="false">manosg--1642423967--November---En annan värld</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8bf5ceb7f6c447eab59760dbd961fdf2.jpg" length="24489" type="image/jpeg"/>
+      <pubDate>Mon, 17 Jan 2022 07:52:47 -0500</pubDate>
     </item>
   </channel>
 </rss>
