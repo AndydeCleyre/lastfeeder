@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jan 2022 17:43:40 +0000</lastBuildDate>
-    <item>
-      <title>Anderson .Paak - Put Me Thru (1 play)</title>
-      <link>https://www.last.fm/music/Anderson+.Paak/_/Put+Me+Thru</link>
-      <guid isPermaLink="false">ddgromit-1642294499--d02dd67e-f655-4600-bc47-f789f59e7367---Put Me Thru</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2305f7d52ac2d59918e11b48487584f6.jpg" length="30053" type="image/jpeg"/>
-      <pubDate>Sat, 15 Jan 2022 19:54:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jan 2022 19:16:28 +0000</lastBuildDate>
     <item>
       <title>Killer Mike - Kryptonite (1 play)</title>
       <link>https://www.last.fm/music/Killer+Mike/_/Kryptonite</link>
@@ -156,7 +149,7 @@
       <pubDate>Sat, 15 Jan 2022 21:10:54 -0500</pubDate>
     </item>
     <item>
-      <title>LÉON - Hope is a Heartache (1 play)</title>
+      <title>LÉON - Hope is a Heartache (2 plays)</title>
       <link>https://www.last.fm/music/L%C3%89ON/_/Hope+is+a+Heartache</link>
       <guid isPermaLink="false">ddgromit-1642299272--LÉON---Hope is a Heartache</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cd7a1df047ce97012cbc50dc551d6ca.jpg" length="9117" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1642526172--5b840b38-ddca-4f32-8839-53a528448501---the author</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/710c97c314b805636427e4248e565173.jpg" length="14195" type="image/jpeg"/>
       <pubDate>Tue, 18 Jan 2022 12:16:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>LÉON - Hope is a Heartache (2 plays)</title>
+      <link>https://www.last.fm/music/L%C3%89ON/_/Hope+is+a+Heartache</link>
+      <guid isPermaLink="false">ddgromit-1642526390--LÉON---Hope is a Heartache</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cd7a1df047ce97012cbc50dc551d6ca.jpg" length="9117" type="image/jpeg"/>
+      <pubDate>Tue, 18 Jan 2022 12:19:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
