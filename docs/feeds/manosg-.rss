@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jan 2022 17:13:07 +0000</lastBuildDate>
-    <item>
-      <title>Whitesnake - Long Way From Home (5 plays)</title>
-      <link>https://www.last.fm/music/Whitesnake/_/Long+Way+From+Home</link>
-      <guid isPermaLink="false">manosg--1642443022--5dedf5cf-a598-4408-9556-3bf3f149f3ba---Long Way From Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6cd605685decde1ee74e91a8d69f55cc.jpg" length="30857" type="image/jpeg"/>
-      <pubDate>Mon, 17 Jan 2022 13:10:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Whitesnake - The Deeper The Love (6 plays)</title>
-      <link>https://www.last.fm/music/Whitesnake/_/The+Deeper+The+Love</link>
-      <guid isPermaLink="false">manosg--1642443246--5dedf5cf-a598-4408-9556-3bf3f149f3ba---The Deeper The Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/59fefb0dd0f64e02a9830ce58e0b8c7c.jpg" length="34783" type="image/jpeg"/>
-      <pubDate>Mon, 17 Jan 2022 13:14:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jan 2022 17:43:08 +0000</lastBuildDate>
     <item>
       <title>Genesis - Hold on My Heart (3 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Hold+on+My+Heart</link>
@@ -211,7 +197,7 @@
       <pubDate>Tue, 18 Jan 2022 06:00:53 -0500</pubDate>
     </item>
     <item>
-      <title>Death - The Philosopher (3 plays)</title>
+      <title>Death - The Philosopher (4 plays)</title>
       <link>https://www.last.fm/music/Death/_/The+Philosopher</link>
       <guid isPermaLink="false">manosg--1642504424--Death---The Philosopher</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/835e77c872c8474abfe310c4ab3b7f50.jpg" length="35485" type="image/jpeg"/>
@@ -225,7 +211,7 @@
       <pubDate>Tue, 18 Jan 2022 06:18:48 -0500</pubDate>
     </item>
     <item>
-      <title>Death - The Philosopher (3 plays)</title>
+      <title>Death - The Philosopher (4 plays)</title>
       <link>https://www.last.fm/music/Death/_/The+Philosopher</link>
       <guid isPermaLink="false">manosg--1642504957--Death---The Philosopher</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/835e77c872c8474abfe310c4ab3b7f50.jpg" length="35485" type="image/jpeg"/>
@@ -351,6 +337,20 @@
       <link>https://www.last.fm/music/Death/_/%22Destiny%E2%80%9D</link>
       <guid isPermaLink="false">manosg--1642524695--Death---"Destiny”</guid>
       <pubDate>Tue, 18 Jan 2022 11:51:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Death - Out of Touch (2 plays)</title>
+      <link>https://www.last.fm/music/Death/_/Out+of+Touch</link>
+      <guid isPermaLink="false">manosg--1642527212--Death---Out of Touch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/835e77c872c8474abfe310c4ab3b7f50.jpg" length="35485" type="image/jpeg"/>
+      <pubDate>Tue, 18 Jan 2022 12:33:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Death - The Philosopher (4 plays)</title>
+      <link>https://www.last.fm/music/Death/_/The+Philosopher</link>
+      <guid isPermaLink="false">manosg--1642527475--Death---The Philosopher</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/835e77c872c8474abfe310c4ab3b7f50.jpg" length="35485" type="image/jpeg"/>
+      <pubDate>Tue, 18 Jan 2022 12:37:55 -0500</pubDate>
     </item>
   </channel>
 </rss>

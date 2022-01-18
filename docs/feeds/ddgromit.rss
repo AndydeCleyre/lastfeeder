@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jan 2022 17:13:39 +0000</lastBuildDate>
-    <item>
-      <title>Magdalena Bay - Chaeri (2 plays)</title>
-      <link>https://www.last.fm/music/Magdalena+Bay/_/Chaeri</link>
-      <guid isPermaLink="false">ddgromit-1642291307--68c261d5-48c8-4ea9-9466-9fc908dc79bb---Chaeri</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1b18f7dd5f2b262a96288bfa2330ad2.jpg" length="23399" type="image/jpeg"/>
-      <pubDate>Sat, 15 Jan 2022 19:01:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Hype Music - Respect (2 plays)</title>
-      <link>https://www.last.fm/music/Hype+Music/_/Respect</link>
-      <guid isPermaLink="false">ddgromit-1642294275--Hype Music---Respect</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sat, 15 Jan 2022 19:51:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jan 2022 17:43:40 +0000</lastBuildDate>
     <item>
       <title>Anderson .Paak - Put Me Thru (1 play)</title>
       <link>https://www.last.fm/music/Anderson+.Paak/_/Put+Me+Thru</link>
@@ -156,14 +142,14 @@
       <pubDate>Sat, 15 Jan 2022 21:03:05 -0500</pubDate>
     </item>
     <item>
-      <title>Watts - Feels (feat. Khalid) (1 play)</title>
+      <title>Watts - Feels (feat. Khalid) (2 plays)</title>
       <link>https://www.last.fm/music/Watts/_/Feels+(feat.+Khalid)</link>
       <guid isPermaLink="false">ddgromit-1642298833--c239083a-529a-4b59-9f58-edda95a545ba---Feels (feat. Khalid)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b89d6976364957114cd448b6517d9037.jpg" length="6639" type="image/jpeg"/>
       <pubDate>Sat, 15 Jan 2022 21:07:13 -0500</pubDate>
     </item>
     <item>
-      <title>Luz - the author (1 play)</title>
+      <title>Luz - the author (2 plays)</title>
       <link>https://www.last.fm/music/Luz/_/the+author</link>
       <guid isPermaLink="false">ddgromit-1642299054--5b840b38-ddca-4f32-8839-53a528448501---the author</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/710c97c314b805636427e4248e565173.jpg" length="14195" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1642525664--20244d07-534f-4eff-b4d4-930878889970---exile (feat. Bon Iver)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7283dedc810f971388eba0b710d90020.png" length="128524" type="image/png"/>
       <pubDate>Tue, 18 Jan 2022 12:07:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Watts - Feels (feat. Khalid) (2 plays)</title>
+      <link>https://www.last.fm/music/Watts/_/Feels+(feat.+Khalid)</link>
+      <guid isPermaLink="false">ddgromit-1642525950--c239083a-529a-4b59-9f58-edda95a545ba---Feels (feat. Khalid)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b89d6976364957114cd448b6517d9037.jpg" length="6639" type="image/jpeg"/>
+      <pubDate>Tue, 18 Jan 2022 12:12:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Luz - the author (2 plays)</title>
+      <link>https://www.last.fm/music/Luz/_/the+author</link>
+      <guid isPermaLink="false">ddgromit-1642526172--5b840b38-ddca-4f32-8839-53a528448501---the author</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/710c97c314b805636427e4248e565173.jpg" length="14195" type="image/jpeg"/>
+      <pubDate>Tue, 18 Jan 2022 12:16:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
