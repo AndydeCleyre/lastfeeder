@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jan 2022 09:55:54 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Son And Daughter (57 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Son+And+Daughter</link>
-      <guid isPermaLink="false">Frippertron-1642478773--5eecaf18-02ec-47af-a4f2-7831db373419---Son And Daughter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fb6dafb0fe843b2c3fb2bacdaed3cc5.png" length="67039" type="image/png"/>
-      <pubDate>Mon, 17 Jan 2022 23:06:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Stone Cold Crazy (60 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Stone+Cold+Crazy</link>
-      <guid isPermaLink="false">Frippertron-1642479390--5eecaf18-02ec-47af-a4f2-7831db373419---Stone Cold Crazy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fb6dafb0fe843b2c3fb2bacdaed3cc5.png" length="67039" type="image/png"/>
-      <pubDate>Mon, 17 Jan 2022 23:16:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jan 2022 10:24:05 +0000</lastBuildDate>
     <item>
       <title>Queen - Let Me Entertain You (46 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Let+Me+Entertain+You</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1642499328--070d193a-845c-479f-980e-bef15710653e---Play in the Sunshine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/780d0d13766941f09cdba459fc42f793.png" length="217741" type="image/png"/>
       <pubDate>Tue, 18 Jan 2022 04:48:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Prince - Housequake (2 plays)</title>
+      <link>https://www.last.fm/music/Prince/_/Housequake</link>
+      <guid isPermaLink="false">Frippertron-1642499634--070d193a-845c-479f-980e-bef15710653e---Housequake</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/780d0d13766941f09cdba459fc42f793.png" length="217741" type="image/png"/>
+      <pubDate>Tue, 18 Jan 2022 04:53:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Prince - The Ballad of Dorothy Parker (2 plays)</title>
+      <link>https://www.last.fm/music/Prince/_/The+Ballad+of+Dorothy+Parker</link>
+      <guid isPermaLink="false">Frippertron-1642499917--070d193a-845c-479f-980e-bef15710653e---The Ballad of Dorothy Parker</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/780d0d13766941f09cdba459fc42f793.png" length="217741" type="image/png"/>
+      <pubDate>Tue, 18 Jan 2022 04:58:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
