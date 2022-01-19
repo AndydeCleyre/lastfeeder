@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jan 2022 08:41:42 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Alabama Song (49 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Alabama+Song</link>
-      <guid isPermaLink="false">Frippertron-1642503452--5441c29d-3602-4898-b1a1-b77fa23b8e50---Alabama Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab6b39f3402c445dc468229c74dc236d.jpg" length="16073" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jan 2022 05:57:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - 1984/Dodo (20 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/1984%2FDodo</link>
-      <guid isPermaLink="false">Frippertron-1642563686--5441c29d-3602-4898-b1a1-b77fa23b8e50---1984/Dodo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab6b39f3402c445dc468229c74dc236d.jpg" length="16073" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jan 2022 22:41:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Jan 2022 08:53:16 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Cat People (Putting Out Fire) (17 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Cat+People+(Putting+Out+Fire)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1642581340--5441c29d-3602-4898-b1a1-b77fa23b8e50---Boys Keep Swinging</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb49da6906018a94de75b61a217867b3.png" length="103871" type="image/png"/>
       <pubDate>Wed, 19 Jan 2022 03:35:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - A Pitcher of Summer (94 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/A+Pitcher+of+Summer</link>
+      <guid isPermaLink="false">Frippertron-1642581607--3979eee5-c72a-4b0a-9191-a0243881250a---A Pitcher of Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/575a3ccb75aa983e0c21a111b277bc41.jpg" length="26147" type="image/jpeg"/>
+      <pubDate>Wed, 19 Jan 2022 03:40:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - The Manifold Curiosity (42 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/The+Manifold+Curiosity</link>
+      <guid isPermaLink="false">Frippertron-1642581959--3979eee5-c72a-4b0a-9191-a0243881250a---The Manifold Curiosity</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/575a3ccb75aa983e0c21a111b277bc41.jpg" length="26147" type="image/jpeg"/>
+      <pubDate>Wed, 19 Jan 2022 03:45:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
