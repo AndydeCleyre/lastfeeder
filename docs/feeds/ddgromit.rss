@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jan 2022 16:59:57 +0000</lastBuildDate>
-    <item>
-      <title>Shallou - Older (3 plays)</title>
-      <link>https://www.last.fm/music/Shallou/_/Older</link>
-      <guid isPermaLink="false">ddgromit-1642523740--b87bd286-3b5f-448e-9364-11d68823c1db---Older</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2861b37810a2fcb49d8d30899d84c6df.jpg" length="20755" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jan 2022 11:35:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kygo - Only Us (1 play)</title>
-      <link>https://www.last.fm/music/Kygo/_/Only+Us</link>
-      <guid isPermaLink="false">ddgromit-1642524159--ba0e7638-0cd6-4ff4-8987-c3e224d22c23---Only Us</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0dfca411df4db4b143ac0d375682e86b.jpg" length="8798" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jan 2022 11:42:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Jan 2022 17:26:40 +0000</lastBuildDate>
     <item>
       <title>LÉON - In a Stranger's Arms (1 play)</title>
       <link>https://www.last.fm/music/L%C3%89ON/_/In+a+Stranger%27s+Arms</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1642611092--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Paradise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cac58aebf4aefbc953a38f3df6bdbac.png" length="152299" type="image/png"/>
       <pubDate>Wed, 19 Jan 2022 11:51:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Coldplay - Sparks (6 plays)</title>
+      <link>https://www.last.fm/music/Coldplay/_/Sparks</link>
+      <guid isPermaLink="false">ddgromit-1642611371--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Sparks</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d53263d4536f08e30dd4dd9e5df2685.jpg" length="8949" type="image/jpeg"/>
+      <pubDate>Wed, 19 Jan 2022 11:56:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Coldplay - Clocks (8 plays)</title>
+      <link>https://www.last.fm/music/Coldplay/_/Clocks</link>
+      <guid isPermaLink="false">ddgromit-1642611599--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Clocks</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d3d6d2b41544f42b8f750b6abdbd180.png" length="50250" type="image/png"/>
+      <pubDate>Wed, 19 Jan 2022 11:59:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
