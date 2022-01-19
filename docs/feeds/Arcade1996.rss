@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jan 2022 13:24:34 +0000</lastBuildDate>
-    <item>
-      <title>Manic Street Preachers - Yourself (14 plays)</title>
-      <link>https://www.last.fm/music/Manic+Street+Preachers/_/Yourself</link>
-      <guid isPermaLink="false">Arcade1996-1642378019--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---Yourself</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ed996f21c0bcd1d570cd62779bebcb6.jpg" length="20778" type="image/jpeg"/>
-      <pubDate>Sun, 16 Jan 2022 19:06:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Manic Street Preachers - Life Becoming a Landslide (6 plays)</title>
-      <link>https://www.last.fm/music/Manic+Street+Preachers/_/Life+Becoming+a+Landslide</link>
-      <guid isPermaLink="false">Arcade1996-1642378269--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---Life Becoming a Landslide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ed996f21c0bcd1d570cd62779bebcb6.jpg" length="20778" type="image/jpeg"/>
-      <pubDate>Sun, 16 Jan 2022 19:11:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Jan 2022 13:37:57 +0000</lastBuildDate>
     <item>
       <title>Manic Street Preachers - Drug Drug Druggy (8 plays)</title>
       <link>https://www.last.fm/music/Manic+Street+Preachers/_/Drug+Drug+Druggy</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1642597853--Laurie Anderson---Big Science - Arca Remix</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cde725a9f1aa8462031f1c1abb339e11.jpg" length="42642" type="image/jpeg"/>
       <pubDate>Wed, 19 Jan 2022 08:10:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Spiritualized - Sweet Talk (1 play)</title>
+      <link>https://www.last.fm/music/Spiritualized/_/Sweet+Talk</link>
+      <guid isPermaLink="false">Arcade1996-1642598542--65041e06-83d2-4987-ae52-c17a915fc82a---Sweet Talk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/012ee5f98d064c8190028848f9a475c1.png" length="17511" type="image/png"/>
+      <pubDate>Wed, 19 Jan 2022 08:22:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Spiritualized - Feel So Sad (Glides And Chimes) (1 play)</title>
+      <link>https://www.last.fm/music/Spiritualized/_/Feel+So+Sad+(Glides+And+Chimes)</link>
+      <guid isPermaLink="false">Arcade1996-1642598788--65041e06-83d2-4987-ae52-c17a915fc82a---Feel So Sad (Glides And Chimes)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48356bf2196b09c72e1b111220eb26d1.jpg" length="12230" type="image/jpeg"/>
+      <pubDate>Wed, 19 Jan 2022 08:26:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
