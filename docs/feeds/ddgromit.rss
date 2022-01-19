@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jan 2022 01:02:21 +0000</lastBuildDate>
-    <item>
-      <title>Phoebe Bridgers - Graceland Too (1 play)</title>
-      <link>https://www.last.fm/music/Phoebe+Bridgers/_/Graceland+Too</link>
-      <guid isPermaLink="false">ddgromit-1642301568--96855c21-b832-4366-ba12-0d2330c36a86---Graceland Too</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg" length="12224" type="image/jpeg"/>
-      <pubDate>Sat, 15 Jan 2022 21:52:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>William Tyler - Fail Safe (1 play)</title>
-      <link>https://www.last.fm/music/William+Tyler/_/Fail+Safe</link>
-      <guid isPermaLink="false">ddgromit-1642301804--37e374de-ed4a-4bab-97ac-b6520971b0ed---Fail Safe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f38ff306151a0fa1715930aa5f062d57.jpg" length="16217" type="image/jpeg"/>
-      <pubDate>Sat, 15 Jan 2022 21:56:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Phoebe Bridgers - Motion Sickness (3 plays)</title>
-      <link>https://www.last.fm/music/Phoebe+Bridgers/_/Motion+Sickness</link>
-      <guid isPermaLink="false">ddgromit-1642302002--96855c21-b832-4366-ba12-0d2330c36a86---Motion Sickness</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/531bdb172f66ee3500e344936f1f22bd.jpg" length="19926" type="image/jpeg"/>
-      <pubDate>Sat, 15 Jan 2022 22:00:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Magdalena Bay - Chaeri (2 plays)</title>
-      <link>https://www.last.fm/music/Magdalena+Bay/_/Chaeri</link>
-      <guid isPermaLink="false">ddgromit-1642308416--68c261d5-48c8-4ea9-9466-9fc908dc79bb---Chaeri</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1b18f7dd5f2b262a96288bfa2330ad2.jpg" length="23399" type="image/jpeg"/>
-      <pubDate>Sat, 15 Jan 2022 23:46:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Jan 2022 16:33:48 +0000</lastBuildDate>
     <item>
       <title>Dino d'Santiago - Nova Lisboa (1 play)</title>
       <link>https://www.last.fm/music/Dino+d%27Santiago/_/Nova+Lisboa</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">ddgromit-1642553893--Nicolello---Floating In Space</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 18 Jan 2022 19:58:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Valante - Andlegur (2 plays)</title>
+      <link>https://www.last.fm/music/Valante/_/Andlegur</link>
+      <guid isPermaLink="false">ddgromit-1642554021--Valante---Andlegur</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 18 Jan 2022 20:00:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Coldplay - My Universe (3 plays)</title>
+      <link>https://www.last.fm/music/Coldplay/_/My+Universe</link>
+      <guid isPermaLink="false">ddgromit-1642609207--cc197bad-dc9c-440d-a5b5-d52ba2e14234---My Universe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fce31d4841bc76861f5ff024281c61d6.png" length="115295" type="image/png"/>
+      <pubDate>Wed, 19 Jan 2022 11:20:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Coldplay - Yellow (7 plays)</title>
+      <link>https://www.last.fm/music/Coldplay/_/Yellow</link>
+      <guid isPermaLink="false">ddgromit-1642609432--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Yellow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d53263d4536f08e30dd4dd9e5df2685.jpg" length="8949" type="image/jpeg"/>
+      <pubDate>Wed, 19 Jan 2022 11:23:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Coldplay - The Scientist (2 plays)</title>
+      <link>https://www.last.fm/music/Coldplay/_/The+Scientist</link>
+      <guid isPermaLink="false">ddgromit-1642609700--cc197bad-dc9c-440d-a5b5-d52ba2e14234---The Scientist</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d3d6d2b41544f42b8f750b6abdbd180.png" length="50250" type="image/png"/>
+      <pubDate>Wed, 19 Jan 2022 11:28:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
