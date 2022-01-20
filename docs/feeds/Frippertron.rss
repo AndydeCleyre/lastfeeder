@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Jan 2022 09:52:39 +0000</lastBuildDate>
-    <item>
-      <title>Soft Machine - All White (5 plays)</title>
-      <link>https://www.last.fm/music/Soft+Machine/_/All+White</link>
-      <guid isPermaLink="false">Frippertron-1642651095--5193ce6b-a315-4c50-ae49-54e69ffbc988---All White</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3c9fd54182476ec762fb8f566e8ea4.png" length="162342" type="image/png"/>
-      <pubDate>Wed, 19 Jan 2022 22:58:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>Soft Machine - Between (4 plays)</title>
-      <link>https://www.last.fm/music/Soft+Machine/_/Between</link>
-      <guid isPermaLink="false">Frippertron-1642651389--5193ce6b-a315-4c50-ae49-54e69ffbc988---Between</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3c9fd54182476ec762fb8f566e8ea4.png" length="162342" type="image/png"/>
-      <pubDate>Wed, 19 Jan 2022 23:03:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Soft Machine - Riff (4 plays)</title>
-      <link>https://www.last.fm/music/Soft+Machine/_/Riff</link>
-      <guid isPermaLink="false">Frippertron-1642651536--5193ce6b-a315-4c50-ae49-54e69ffbc988---Riff</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3c9fd54182476ec762fb8f566e8ea4.png" length="162342" type="image/png"/>
-      <pubDate>Wed, 19 Jan 2022 23:05:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Jan 2022 10:20:31 +0000</lastBuildDate>
     <item>
       <title>Soft Machine - 37˝ (1 play)</title>
       <link>https://www.last.fm/music/Soft+Machine/_/37%CB%9D</link>
@@ -254,7 +233,7 @@
       <pubDate>Thu, 20 Jan 2022 03:30:12 -0500</pubDate>
     </item>
     <item>
-      <title>David Bowie - Five Years</title>
+      <title>David Bowie - Five Years (133 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Five+Years</link>
       <guid isPermaLink="false">Frippertron-1642667710--5441c29d-3602-4898-b1a1-b77fa23b8e50---Five Years</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2842d5f3c928b3e85b0d7ccd67307ec.jpg" length="21936" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1642672025--Destroyer---Looters' Follies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4686cf46424e4a89cac7477c393670b3.png" length="145826" type="image/png"/>
       <pubDate>Thu, 20 Jan 2022 04:47:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gino Vannelli - Prelude To The War (14 plays)</title>
+      <link>https://www.last.fm/music/Gino+Vannelli/_/Prelude+To+The+War</link>
+      <guid isPermaLink="false">Frippertron-1642672520--747e5054-f50b-498c-bff3-85f7313aeb80---Prelude To The War</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/13a85a9561f79e1d78748e3dec633521.jpg" length="15438" type="image/jpeg"/>
+      <pubDate>Thu, 20 Jan 2022 04:55:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gino Vannelli - The Battle Cry (14 plays)</title>
+      <link>https://www.last.fm/music/Gino+Vannelli/_/The+Battle+Cry</link>
+      <guid isPermaLink="false">Frippertron-1642672791--747e5054-f50b-498c-bff3-85f7313aeb80---The Battle Cry</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/13a85a9561f79e1d78748e3dec633521.jpg" length="15438" type="image/jpeg"/>
+      <pubDate>Thu, 20 Jan 2022 04:59:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gino Vannelli - To The War (14 plays)</title>
+      <link>https://www.last.fm/music/Gino+Vannelli/_/To+The+War</link>
+      <guid isPermaLink="false">Frippertron-1642672906--747e5054-f50b-498c-bff3-85f7313aeb80---To The War</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/13a85a9561f79e1d78748e3dec633521.jpg" length="15438" type="image/jpeg"/>
+      <pubDate>Thu, 20 Jan 2022 05:01:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
