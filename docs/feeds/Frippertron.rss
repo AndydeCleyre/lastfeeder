@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jan 2022 09:40:40 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Drive-In Saturday (43 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Drive-In+Saturday</link>
-      <guid isPermaLink="false">Frippertron-1642739492--5441c29d-3602-4898-b1a1-b77fa23b8e50---Drive-In Saturday</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
-      <pubDate>Thu, 20 Jan 2022 23:31:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Panic in Detroit (35 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Panic+in+Detroit</link>
-      <guid isPermaLink="false">Frippertron-1642739786--5441c29d-3602-4898-b1a1-b77fa23b8e50---Panic in Detroit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
-      <pubDate>Thu, 20 Jan 2022 23:36:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Jan 2022 09:53:23 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Cracked Actor (106 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Cracked+Actor</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1642757739--b7ffd2af-418f-4be2-bdd1-22f8b48613da---Even Deeper</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fae79834cbbb11474cdf5f36c74eb3f.jpg" length="13861" type="image/jpeg"/>
       <pubDate>Fri, 21 Jan 2022 04:35:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nine Inch Nails - Please (15 plays)</title>
+      <link>https://www.last.fm/music/Nine+Inch+Nails/_/Please</link>
+      <guid isPermaLink="false">Frippertron-1642758171--b7ffd2af-418f-4be2-bdd1-22f8b48613da---Please</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fae79834cbbb11474cdf5f36c74eb3f.jpg" length="13861" type="image/jpeg"/>
+      <pubDate>Fri, 21 Jan 2022 04:42:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nine Inch Nails - Starfuckers, Inc. (29 plays)</title>
+      <link>https://www.last.fm/music/Nine+Inch+Nails/_/Starfuckers,+Inc.</link>
+      <guid isPermaLink="false">Frippertron-1642758383--b7ffd2af-418f-4be2-bdd1-22f8b48613da---Starfuckers, Inc.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fae79834cbbb11474cdf5f36c74eb3f.jpg" length="13861" type="image/jpeg"/>
+      <pubDate>Fri, 21 Jan 2022 04:46:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
