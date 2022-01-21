@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jan 2022 15:42:47 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - The Feast and the Famine (2 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/The+Feast+and+the+Famine</link>
-      <guid isPermaLink="false">Arcade1996-1642643895--67f66c07-6e61-4026-ade5-7e782fad3a5d---The Feast and the Famine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7ee50fc9d0f404ec08d2cd50a8a414a.png" length="197110" type="image/png"/>
-      <pubDate>Wed, 19 Jan 2022 20:58:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>Foo Fighters - Love Dies Young (1 play)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Love+Dies+Young</link>
-      <guid isPermaLink="false">Arcade1996-1642644127--67f66c07-6e61-4026-ade5-7e782fad3a5d---Love Dies Young</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/063ae4ee933f2f8395c01a913acdfb4c.jpg" length="33184" type="image/jpeg"/>
-      <pubDate>Wed, 19 Jan 2022 21:02:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Jan 2022 15:54:46 +0000</lastBuildDate>
     <item>
       <title>Foo Fighters - No Way Back (2 plays)</title>
       <link>https://www.last.fm/music/Foo+Fighters/_/No+Way+Back</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1642777770--97fa7dd1-4706-4fad-b6ff-e099a37837fc---Hello From the Gutter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdfa8e0daf938300ae6c1492288b6318.png" length="176875" type="image/png"/>
       <pubDate>Fri, 21 Jan 2022 10:09:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Londonbeat - I've Been Thinking About You (23 plays)</title>
+      <link>https://www.last.fm/music/Londonbeat/_/I%27ve+Been+Thinking+About+You</link>
+      <guid isPermaLink="false">Arcade1996-1642779530--930c86d4-1ed0-4ec0-bcf1-fea7fb7e091a---I've Been Thinking About You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d83ae2e5fc744ae8eae1c95da9420d2.jpg" length="18661" type="image/jpeg"/>
+      <pubDate>Fri, 21 Jan 2022 10:38:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pinegrove - Alaska (11 plays)</title>
+      <link>https://www.last.fm/music/Pinegrove/_/Alaska</link>
+      <guid isPermaLink="false">Arcade1996-1642779767--871fe26f-544d-4275-a5dd-af5442d15b92---Alaska</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c924574a6e6a74436c2aa76622641c4.jpg" length="18487" type="image/jpeg"/>
+      <pubDate>Fri, 21 Jan 2022 10:42:47 -0500</pubDate>
     </item>
   </channel>
 </rss>
