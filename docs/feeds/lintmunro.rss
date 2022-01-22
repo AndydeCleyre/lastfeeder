@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Jan 2022 19:52:31 +0000</lastBuildDate>
-    <item>
-      <title>MAH KEE OH - Feelin' Good (3 plays)</title>
-      <link>https://www.last.fm/music/MAH+KEE+OH/_/Feelin%27+Good</link>
-      <guid isPermaLink="false">lintmunro-1641493764--1040423f-1f26-40b3-ad31-16f106239240---Feelin' Good</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f0f2977f5a30a03975d1497cda97596.jpg" length="35475" type="image/jpeg"/>
-      <pubDate>Thu, 06 Jan 2022 13:29:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Jan 2022 20:52:42 +0000</lastBuildDate>
     <item>
       <title>Amigo The Devil - Small Stone (4 plays)</title>
       <link>https://www.last.fm/music/Amigo+The+Devil/_/Small+Stone</link>
@@ -194,6 +187,7 @@
       <title>Wristmeetrazor - Last Tango in Paris (1 play)</title>
       <link>https://www.last.fm/music/Wristmeetrazor/_/Last+Tango+in+Paris</link>
       <guid isPermaLink="false">lintmunro-1641856423--f3d0dcd2-4a58-4b39-85d1-a54c3648d4b7---Last Tango in Paris</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3dfd0ca49d7c09e7feec42ce2e95d06d.jpg" length="16450" type="image/jpeg"/>
       <pubDate>Mon, 10 Jan 2022 18:13:43 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1642880301--61653550-fd9b-4401-8248-44f2d064d384---This Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/373bd40a91f22ae8394160990a12634d.png" length="102152" type="image/png"/>
       <pubDate>Sat, 22 Jan 2022 14:38:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Partner - Time Is a Car (1 play)</title>
+      <link>https://www.last.fm/music/Partner/_/Time+Is+a+Car</link>
+      <guid isPermaLink="false">lintmunro-1642880578--Partner---Time Is a Car</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e0069dac79f9d2ff2e682fec2c77932.png" length="73809" type="image/png"/>
+      <pubDate>Sat, 22 Jan 2022 14:42:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
