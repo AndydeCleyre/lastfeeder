@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jan 2022 06:47:40 +0000</lastBuildDate>
-    <item>
-      <title>Selena Gomez - Good for You (6 plays)</title>
-      <link>https://www.last.fm/music/Selena+Gomez/_/Good+for+You</link>
-      <guid isPermaLink="false">ddgromit-1642789885--e4bc69e2-a064-4f93-ada1-f7f209cc1cc3---Good for You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/185ca02a9a7d992cf62d9c54dc4e679f.png" length="177888" type="image/png"/>
-      <pubDate>Fri, 21 Jan 2022 13:31:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Miley Cyrus - Party in the U.S.A. (3 plays)</title>
-      <link>https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.</link>
-      <guid isPermaLink="false">ddgromit-1642790088--7e9bd05a-117f-4cce-87bc-e011527a8b18---Party in the U.S.A.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58b3dbfd0050fa6e3700043599e8840d.png" length="168462" type="image/png"/>
-      <pubDate>Fri, 21 Jan 2022 13:34:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ed Sheeran - Shape of You (3 plays)</title>
-      <link>https://www.last.fm/music/Ed+Sheeran/_/Shape+of+You</link>
-      <guid isPermaLink="false">ddgromit-1642815834--b8a7c51f-362c-4dcb-a259-bc6e0095f0a6---Shape of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7714b69d7b10a22114a8da2012fb82ea.jpg" length="25626" type="image/jpeg"/>
-      <pubDate>Fri, 21 Jan 2022 20:43:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>Taylor Swift - Clean (2 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Clean</link>
-      <guid isPermaLink="false">ddgromit-1642815970--20244d07-534f-4eff-b4d4-930878889970---Clean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be167b97e160462dc6f789de273085de.png" length="136062" type="image/png"/>
-      <pubDate>Fri, 21 Jan 2022 20:46:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Selena Gomez - Good for You (6 plays)</title>
-      <link>https://www.last.fm/music/Selena+Gomez/_/Good+for+You</link>
-      <guid isPermaLink="false">ddgromit-1642816034--e4bc69e2-a064-4f93-ada1-f7f209cc1cc3---Good for You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/185ca02a9a7d992cf62d9c54dc4e679f.png" length="177888" type="image/png"/>
-      <pubDate>Fri, 21 Jan 2022 20:47:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Selena Gomez - Good for You (6 plays)</title>
-      <link>https://www.last.fm/music/Selena+Gomez/_/Good+for+You</link>
-      <guid isPermaLink="false">ddgromit-1642816043--e4bc69e2-a064-4f93-ada1-f7f209cc1cc3---Good for You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/185ca02a9a7d992cf62d9c54dc4e679f.png" length="177888" type="image/png"/>
-      <pubDate>Fri, 21 Jan 2022 20:47:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Selena Gomez - Good for You (6 plays)</title>
-      <link>https://www.last.fm/music/Selena+Gomez/_/Good+for+You</link>
-      <guid isPermaLink="false">ddgromit-1642816489--e4bc69e2-a064-4f93-ada1-f7f209cc1cc3---Good for You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/185ca02a9a7d992cf62d9c54dc4e679f.png" length="177888" type="image/png"/>
-      <pubDate>Fri, 21 Jan 2022 20:54:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Taylor Swift - Clean (2 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Clean</link>
-      <guid isPermaLink="false">ddgromit-1642816781--20244d07-534f-4eff-b4d4-930878889970---Clean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be167b97e160462dc6f789de273085de.png" length="136062" type="image/png"/>
-      <pubDate>Fri, 21 Jan 2022 20:59:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kelly Clarkson - Breakaway (2 plays)</title>
-      <link>https://www.last.fm/music/Kelly+Clarkson/_/Breakaway</link>
-      <guid isPermaLink="false">ddgromit-1642817018--d339efbb-77b9-4147-ba9e-59f2f24550b2---Breakaway</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6077ad2b4f23de7428b47ebcc7da88f.png" length="194200" type="image/png"/>
-      <pubDate>Fri, 21 Jan 2022 21:03:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jan 2022 07:19:40 +0000</lastBuildDate>
     <item>
       <title>Ariana Grande - Love Me Harder (7 plays)</title>
       <link>https://www.last.fm/music/Ariana+Grande/_/Love+Me+Harder</link>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">ddgromit-1643092967--ba352c1a-8838-4da1-ab7c-22ea098a9a20---Will and Emma</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed9f0e084f6abf147cefe3e3f377325c.jpg" length="21731" type="image/jpeg"/>
       <pubDate>Tue, 25 Jan 2022 01:42:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Antonio Pinto - Rebirth (1 play)</title>
+      <link>https://www.last.fm/music/Antonio+Pinto/_/Rebirth</link>
+      <guid isPermaLink="false">ddgromit-1643093126--ba352c1a-8838-4da1-ab7c-22ea098a9a20---Rebirth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed9f0e084f6abf147cefe3e3f377325c.jpg" length="21731" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 01:45:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Antonio Pinto - Father and Daughter (1 play)</title>
+      <link>https://www.last.fm/music/Antonio+Pinto/_/Father+and+Daughter</link>
+      <guid isPermaLink="false">ddgromit-1643093340--ba352c1a-8838-4da1-ab7c-22ea098a9a20---Father and Daughter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed9f0e084f6abf147cefe3e3f377325c.jpg" length="21731" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 01:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Marvin Gaye - Trouble Man (2 plays)</title>
+      <link>https://www.last.fm/music/Marvin+Gaye/_/Trouble+Man</link>
+      <guid isPermaLink="false">ddgromit-1643093569--afdb7919-059d-43c1-b668-ba1d265e7e42---Trouble Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e8cd39ce3c8813d3ad695f39fe8b709.jpg" length="18897" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 01:52:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Herb Alpert and the Tijuana Brass - Wade In The Water (7 plays)</title>
+      <link>https://www.last.fm/music/Herb+Alpert+and+the+Tijuana+Brass/_/Wade+In+The+Water</link>
+      <guid isPermaLink="false">ddgromit-1643093796--Herb Alpert and the Tijuana Brass---Wade In The Water</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f8a0c877c18d7cb218c6cfbf84ba9b7.jpg" length="21157" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 01:56:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Vampire Weekend - Horchata (20 plays)</title>
+      <link>https://www.last.fm/music/Vampire+Weekend/_/Horchata</link>
+      <guid isPermaLink="false">ddgromit-1643093938--af37c51c-0790-4a29-b995-456f98a6b8c9---Horchata</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f60b0691b7294dbd8c300b36276576e7.png" length="139223" type="image/png"/>
+      <pubDate>Tue, 25 Jan 2022 01:58:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Andrew Bird - Pulaski at Night (1 play)</title>
+      <link>https://www.last.fm/music/Andrew+Bird/_/Pulaski+at+Night</link>
+      <guid isPermaLink="false">ddgromit-1643094144--081b133e-ce74-42ba-92c1-c18234acb532---Pulaski at Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8e8395201293359c7a5feecd88fe20d.jpg" length="9961" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 02:02:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pete Rock - On &amp; On (9 plays)</title>
+      <link>https://www.last.fm/music/Pete+Rock/_/On+&amp;+On</link>
+      <guid isPermaLink="false">ddgromit-1643094541--39a973f2-0785-4ef6-90d9-551378864f89---On &amp; On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8037643d59078129104a7f43c47a0e6.jpg" length="13652" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 02:09:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ava Max - Sweet but Psycho (11 plays)</title>
+      <link>https://www.last.fm/music/Ava+Max/_/Sweet+but+Psycho</link>
+      <guid isPermaLink="false">ddgromit-1643094723--add5f522-25df-41c4-815e-0ca9f60b83e4---Sweet but Psycho</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3f879ed062c70fcc567a9793fccd610f.jpg" length="29305" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 02:12:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bobby Womack - California Dreamin' (13 plays)</title>
+      <link>https://www.last.fm/music/Bobby+Womack/_/California+Dreamin%27</link>
+      <guid isPermaLink="false">ddgromit-1643094975--48e78462-2f0b-4a1a-9fa4-0585e2991e80---California Dreamin'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d03d2f83a6f2250003a35d404d76e3b.jpg" length="25663" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 02:16:15 -0500</pubDate>
     </item>
   </channel>
 </rss>

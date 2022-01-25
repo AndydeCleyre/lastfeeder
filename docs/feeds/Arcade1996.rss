@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jan 2022 06:47:10 +0000</lastBuildDate>
-    <item>
-      <title>SoFaygo - Off the Map (1 play)</title>
-      <link>https://www.last.fm/music/SoFaygo/_/Off+the+Map</link>
-      <guid isPermaLink="false">Arcade1996-1642911348--SoFaygo---Off the Map</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f0ab98b347fb38b69886c72f96b1732.jpg" length="18222" type="image/jpeg"/>
-      <pubDate>Sat, 22 Jan 2022 23:15:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jan 2022 07:19:10 +0000</lastBuildDate>
     <item>
       <title>Overkill - Hello From the Gutter (17 plays)</title>
       <link>https://www.last.fm/music/Overkill/_/Hello+From+the+Gutter</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1643092965--Lil Wayne---Open Letter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97d8a6695d6b93396b0ccbd63a81d564.png" length="136980" type="image/png"/>
       <pubDate>Tue, 25 Jan 2022 01:42:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Exodus - The Toxic Waltz (1 play)</title>
+      <link>https://www.last.fm/music/Exodus/_/The+Toxic+Waltz</link>
+      <guid isPermaLink="false">Arcade1996-1643093124--Exodus---The Toxic Waltz</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/884cde232e03a990389646a1ccd8c4f7.png" length="199458" type="image/png"/>
+      <pubDate>Tue, 25 Jan 2022 01:45:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
