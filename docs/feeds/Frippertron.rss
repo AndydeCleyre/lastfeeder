@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jan 2022 07:17:44 +0000</lastBuildDate>
-    <item>
-      <title>The Stooges - Gimme Some Skin (56 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/Gimme+Some+Skin</link>
-      <guid isPermaLink="false">Frippertron-1642762356--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Gimme Some Skin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c470addd18bd47d0ac98cf242d1c0e39.jpg" length="27495" type="image/jpeg"/>
-      <pubDate>Fri, 21 Jan 2022 05:52:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Iggy Pop - Fall In Love With Me (75 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/Fall+In+Love+With+Me</link>
-      <guid isPermaLink="false">Frippertron-1642762537--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Fall In Love With Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b68045da645548c783381464ba5cc8ce.png" length="112283" type="image/png"/>
-      <pubDate>Fri, 21 Jan 2022 05:55:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jan 2022 08:22:53 +0000</lastBuildDate>
     <item>
       <title>Queen - One Vision (21 plays)</title>
       <link>https://www.last.fm/music/Queen/_/One+Vision</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1643094422--5441c29d-3602-4898-b1a1-b77fa23b8e50---Scary Monsters (and Super Creeps)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
       <pubDate>Tue, 25 Jan 2022 02:07:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Fashion (156 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Fashion</link>
+      <guid isPermaLink="false">Frippertron-1643098182--5441c29d-3602-4898-b1a1-b77fa23b8e50---Fashion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 03:09:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Teenage Wildlife (175 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Teenage+Wildlife</link>
+      <guid isPermaLink="false">Frippertron-1643098473--5441c29d-3602-4898-b1a1-b77fa23b8e50---Teenage Wildlife</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 03:14:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
