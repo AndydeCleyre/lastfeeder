@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Jan 2022 09:39:52 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Five Years (135 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Five+Years</link>
-      <guid isPermaLink="false">Frippertron-1643170266--5441c29d-3602-4898-b1a1-b77fa23b8e50---Five Years</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Tue, 25 Jan 2022 23:11:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Starman (88 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Starman</link>
-      <guid isPermaLink="false">Frippertron-1643170534--5441c29d-3602-4898-b1a1-b77fa23b8e50---Starman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Tue, 25 Jan 2022 23:15:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 09:52:32 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Changes (119 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Changes</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1643189495--d0eb9b16-9fb0-4368-9024-2042a60f2ee2---Tessio</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f09585018fc90cd48134773302f7f95.jpg" length="24885" type="image/jpeg"/>
       <pubDate>Wed, 26 Jan 2022 04:31:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Moonjock (55 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Moonjock</link>
+      <guid isPermaLink="false">Frippertron-1643190029--0c751690-c784-4a4f-b1e4-c1de27d47581---Moonjock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de477d524b724574abebd3e2fab76ff9.png" length="218997" type="image/png"/>
+      <pubDate>Wed, 26 Jan 2022 04:40:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Deakin - Footy (45 plays)</title>
+      <link>https://www.last.fm/music/Deakin/_/Footy</link>
+      <guid isPermaLink="false">Frippertron-1643190301--7d0ae15c-d82a-46af-8bee-a14a4f8d2f95---Footy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81019b78032702024d4b0a4f82a38205.jpg" length="7812" type="image/jpeg"/>
+      <pubDate>Wed, 26 Jan 2022 04:45:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
