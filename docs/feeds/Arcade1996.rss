@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Jan 2022 03:40:09 +0000</lastBuildDate>
-    <item>
-      <title>Manic Street Preachers - Elvis Impersonator: Blackpool Pier (47 plays)</title>
-      <link>https://www.last.fm/music/Manic+Street+Preachers/_/Elvis+Impersonator:+Blackpool+Pier</link>
-      <guid isPermaLink="false">Arcade1996-1642932846--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---Elvis Impersonator: Blackpool Pier</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/823ac734d866d318411fe6dd78630523.png" length="40300" type="image/png"/>
-      <pubDate>Sun, 23 Jan 2022 05:14:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Manic Street Preachers - A Design for Life (22 plays)</title>
-      <link>https://www.last.fm/music/Manic+Street+Preachers/_/A+Design+for+Life</link>
-      <guid isPermaLink="false">Arcade1996-1642933053--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---A Design for Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/823ac734d866d318411fe6dd78630523.png" length="40300" type="image/png"/>
-      <pubDate>Sun, 23 Jan 2022 05:17:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 03:52:27 +0000</lastBuildDate>
     <item>
       <title>Manic Street Preachers - Kevin Carter (28 plays)</title>
       <link>https://www.last.fm/music/Manic+Street+Preachers/_/Kevin+Carter</link>
@@ -296,7 +282,7 @@
       <pubDate>Tue, 25 Jan 2022 09:52:56 -0500</pubDate>
     </item>
     <item>
-      <title>Denzel Curry - Walkin (3 plays)</title>
+      <title>Denzel Curry - Walkin (4 plays)</title>
       <link>https://www.last.fm/music/Denzel+Curry/_/Walkin</link>
       <guid isPermaLink="false">Arcade1996-1643122689--Denzel Curry---Walkin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d401563efac65965b9df2322661d6ef.jpg" length="23832" type="image/jpeg"/>
@@ -317,7 +303,7 @@
       <pubDate>Tue, 25 Jan 2022 22:07:12 -0500</pubDate>
     </item>
     <item>
-      <title>Kings of Convenience - I'd Rather Dance With You (1 play)</title>
+      <title>Kings of Convenience - I'd Rather Dance With You (2 plays)</title>
       <link>https://www.last.fm/music/Kings+of+Convenience/_/I%27d+Rather+Dance+With+You</link>
       <guid isPermaLink="false">Arcade1996-1643166649--cf0f4547-ffbd-4011-98ad-0bec9ba022db---I'd Rather Dance With You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c1106b77805424ca869a01ff48b4f41.png" length="189466" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1643167827--c77fe9cd-3fe5-45fb-a008-10cb9ab45575---Mary Queen of Scots</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0058680d03fe4cd1a0f6cf4b59732389.jpg" length="31809" type="image/jpeg"/>
       <pubDate>Tue, 25 Jan 2022 22:30:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Denzel Curry - Walkin (4 plays)</title>
+      <link>https://www.last.fm/music/Denzel+Curry/_/Walkin</link>
+      <guid isPermaLink="false">Arcade1996-1643168130--Denzel Curry---Walkin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d401563efac65965b9df2322661d6ef.jpg" length="23832" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jan 2022 22:35:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kings of Convenience - I'd Rather Dance With You (2 plays)</title>
+      <link>https://www.last.fm/music/Kings+of+Convenience/_/I%27d+Rather+Dance+With+You</link>
+      <guid isPermaLink="false">Arcade1996-1643168411--cf0f4547-ffbd-4011-98ad-0bec9ba022db---I'd Rather Dance With You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c1106b77805424ca869a01ff48b4f41.png" length="189466" type="image/png"/>
+      <pubDate>Tue, 25 Jan 2022 22:40:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
