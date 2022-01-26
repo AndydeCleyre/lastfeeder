@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Jan 2022 08:41:40 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - White Light/White Heat (39 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/White+Light%2FWhite+Heat</link>
-      <guid isPermaLink="false">Frippertron-1643106722--5441c29d-3602-4898-b1a1-b77fa23b8e50---White Light/White Heat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Tue, 25 Jan 2022 05:32:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Glassjaw - All Good Junkies Go to Heaven (25 plays)</title>
-      <link>https://www.last.fm/music/Glassjaw/_/All+Good+Junkies+Go+to+Heaven</link>
-      <guid isPermaLink="false">Frippertron-1643107007--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---All Good Junkies Go to Heaven</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
-      <pubDate>Tue, 25 Jan 2022 05:36:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 08:53:34 +0000</lastBuildDate>
     <item>
       <title>Glassjaw - Stars (24 plays)</title>
       <link>https://www.last.fm/music/Glassjaw/_/Stars</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1643186085--5441c29d-3602-4898-b1a1-b77fa23b8e50---Rock 'n' Roll With Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72e23c71356267cfe01db589cf37083b.jpg" length="19834" type="image/jpeg"/>
       <pubDate>Wed, 26 Jan 2022 03:34:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Love Me Do/The Jean Genie (3 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Love+Me+Do%2FThe+Jean+Genie</link>
+      <guid isPermaLink="false">Frippertron-1643186395--David Bowie---Love Me Do/The Jean Genie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72e23c71356267cfe01db589cf37083b.jpg" length="19834" type="image/jpeg"/>
+      <pubDate>Wed, 26 Jan 2022 03:39:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Young Americans (50 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Young+Americans</link>
+      <guid isPermaLink="false">Frippertron-1643186787--5441c29d-3602-4898-b1a1-b77fa23b8e50---Young Americans</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72e23c71356267cfe01db589cf37083b.jpg" length="19834" type="image/jpeg"/>
+      <pubDate>Wed, 26 Jan 2022 03:46:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
