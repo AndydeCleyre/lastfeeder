@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jan 2022 15:44:39 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Another Brick in the Wall, Part Two (1 play)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Another+Brick+in+the+Wall,+Part+Two</link>
-      <guid isPermaLink="false">manosg--1643269667--Pink Floyd---Another Brick in the Wall, Part Two</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29f0b6c8236040068427c45caedb0c32.jpg" length="32209" type="image/jpeg"/>
-      <pubDate>Thu, 27 Jan 2022 02:47:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Mother (2 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Mother</link>
-      <guid isPermaLink="false">manosg--1643269867--83d91898-7763-47d7-b03b-b92132375c47---Mother</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6af6a9a0d246464f976bef5193823322.png" length="76147" type="image/png"/>
-      <pubDate>Thu, 27 Jan 2022 02:51:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jan 2022 17:29:08 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Goodbye Blue Sky (2 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Goodbye+Blue+Sky</link>
@@ -356,6 +342,20 @@
       <guid isPermaLink="false">manosg--1643296992--66c662b6-6e2f-4930-8610-912e24c63ed1---Rock 'N' Roll Singer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
       <pubDate>Thu, 27 Jan 2022 10:23:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>AC/DC - The Jack (6 plays)</title>
+      <link>https://www.last.fm/music/AC%2FDC/_/The+Jack</link>
+      <guid isPermaLink="false">manosg--1643297302--66c662b6-6e2f-4930-8610-912e24c63ed1---The Jack</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
+      <pubDate>Thu, 27 Jan 2022 10:28:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>AC/DC - Live Wire (7 plays)</title>
+      <link>https://www.last.fm/music/AC%2FDC/_/Live+Wire</link>
+      <guid isPermaLink="false">manosg--1643304161--66c662b6-6e2f-4930-8610-912e24c63ed1---Live Wire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
+      <pubDate>Thu, 27 Jan 2022 12:22:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
