@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jan 2022 17:44:12 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Young Lust (2 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Young+Lust</link>
-      <guid isPermaLink="false">manosg--1643270498--83d91898-7763-47d7-b03b-b92132375c47---Young Lust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6af6a9a0d246464f976bef5193823322.png" length="76147" type="image/png"/>
-      <pubDate>Thu, 27 Jan 2022 03:01:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jan 2022 17:52:33 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - One of My Turns (2 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/One+of+My+Turns</link>
@@ -351,11 +344,18 @@
       <pubDate>Thu, 27 Jan 2022 12:30:09 -0500</pubDate>
     </item>
     <item>
-      <title>AC/DC - Can I Sit Next to You Girl (5 plays)</title>
+      <title>AC/DC - Can I Sit Next to You Girl (6 plays)</title>
       <link>https://www.last.fm/music/AC%2FDC/_/Can+I+Sit+Next+to+You+Girl</link>
       <guid isPermaLink="false">manosg--1643305218--66c662b6-6e2f-4930-8610-912e24c63ed1---Can I Sit Next to You Girl</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
       <pubDate>Thu, 27 Jan 2022 12:40:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>AC/DC - Little Lover (5 plays)</title>
+      <link>https://www.last.fm/music/AC%2FDC/_/Little+Lover</link>
+      <guid isPermaLink="false">manosg--1643305471--66c662b6-6e2f-4930-8610-912e24c63ed1---Little Lover</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
+      <pubDate>Thu, 27 Jan 2022 12:44:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
