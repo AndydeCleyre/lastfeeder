@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jan 2022 05:37:22 +0000</lastBuildDate>
-    <item>
-      <title>LCD Soundsystem - Movement (55 plays)</title>
-      <link>https://www.last.fm/music/LCD+Soundsystem/_/Movement</link>
-      <guid isPermaLink="false">Frippertron-1643180828--2aaf7396-6ab8-40f3-9776-a41c42c8e26b---Movement</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/824df6bad69f6f1bd74deb9c093d92d0.jpg" length="23124" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jan 2022 02:07:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Rebel Rebel (101 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Rebel+Rebel</link>
-      <guid isPermaLink="false">Frippertron-1643184621--5441c29d-3602-4898-b1a1-b77fa23b8e50---Rebel Rebel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72e23c71356267cfe01db589cf37083b.jpg" length="19834" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jan 2022 03:10:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jan 2022 05:52:45 +0000</lastBuildDate>
     <item>
       <title>David Bowie - John, I'm Only Dancing (Again) (45 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/John,+I%27m+Only+Dancing+(Again)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1643261572--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Easy Money</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 27 Jan 2022 00:32:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Song Remains the Same (95 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1643262049--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
+      <pubDate>Thu, 27 Jan 2022 00:40:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Rain Song (73 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Rain+Song</link>
+      <guid isPermaLink="false">Frippertron-1643262379--678d88b2-87b0-403b-b63d-5da7465aecc3---The Rain Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
+      <pubDate>Thu, 27 Jan 2022 00:46:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
