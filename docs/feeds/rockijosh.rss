@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jan 2022 17:23:57 +0000</lastBuildDate>
-    <item>
-      <title>ATEEZ - Illusion (1 play)</title>
-      <link>https://www.last.fm/music/ATEEZ/_/Illusion</link>
-      <guid isPermaLink="false">rockijosh-1643322123--cf0dbc16-4e24-4957-b5b4-955c8978f690---Illusion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f210785f5a7c0fff73e5ccc368d16225.jpg" length="15523" type="image/jpeg"/>
-      <pubDate>Thu, 27 Jan 2022 17:22:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Periphery - It's Only Smiles (1 play)</title>
-      <link>https://www.last.fm/music/Periphery/_/It%27s+Only+Smiles</link>
-      <guid isPermaLink="false">rockijosh-1643322335--a0cef17a-4574-44f4-9f97-fd068615dac6---It's Only Smiles</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18546c9a43054ee6dec41671b8435f25.jpg" length="21619" type="image/jpeg"/>
-      <pubDate>Thu, 27 Jan 2022 17:25:35 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Jan 2022 17:40:55 +0000</lastBuildDate>
     <item>
       <title>SUNMI - Noir 누아르 (3 plays)</title>
       <link>https://www.last.fm/music/SUNMI/_/Noir+%EB%88%84%EC%95%84%EB%A5%B4</link>
@@ -30,7 +16,7 @@
       <pubDate>Thu, 27 Jan 2022 17:31:18 -0500</pubDate>
     </item>
     <item>
-      <title>Ramones - Pet Sematary (12 plays)</title>
+      <title>Ramones - Pet Sematary</title>
       <link>https://www.last.fm/music/Ramones/_/Pet+Sematary</link>
       <guid isPermaLink="false">rockijosh-1643322886--d6ed7887-a401-47a8-893c-34b967444d26---Pet Sematary</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/642401f282fc840ad4781052fb6eb6e4.jpg" length="19905" type="image/jpeg"/>
@@ -180,7 +166,6 @@
       <title>Jesus &amp; The Brides of Dracula - Turning Teeth (42 plays)</title>
       <link>https://www.last.fm/music/Jesus+&amp;+The+Brides+of+Dracula/_/Turning+Teeth</link>
       <guid isPermaLink="false">rockijosh-1643383638--Jesus &amp; The Brides of Dracula---Turning Teeth</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29f437b1f1de94c3d90dbf66cfadd8e9.jpg" length="16443" type="image/jpeg"/>
       <pubDate>Fri, 28 Jan 2022 10:27:18 -0500</pubDate>
     </item>
     <item>
@@ -327,6 +312,7 @@
       <title>Charlotte Cardin - Passive Aggressive (139 plays)</title>
       <link>https://www.last.fm/music/Charlotte+Cardin/_/Passive+Aggressive</link>
       <guid isPermaLink="false">rockijosh-1643389300--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Passive Aggressive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dc3cf3a8c378fe8889a520be53e02b76.jpg" length="13795" type="image/jpeg"/>
       <pubDate>Fri, 28 Jan 2022 12:01:40 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +342,20 @@
       <guid isPermaLink="false">rockijosh-1643390204--adc0f033-95c2-4e0b-87bc-c23ed3f26ce6---Atlas Falls</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38e0144ebf8d9cc269881c2ba6372ce6.png" length="99018" type="image/png"/>
       <pubDate>Fri, 28 Jan 2022 12:16:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lights - Morphine (3 plays)</title>
+      <link>https://www.last.fm/music/Lights/_/Morphine</link>
+      <guid isPermaLink="false">rockijosh-1643390396--Lights---Morphine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7a898fe5befcccdea9d8675b616776f.jpg" length="28429" type="image/jpeg"/>
+      <pubDate>Fri, 28 Jan 2022 12:19:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Gaslight Anthem - "45" (121 plays)</title>
+      <link>https://www.last.fm/music/The+Gaslight+Anthem/_/%2245%22</link>
+      <guid isPermaLink="false">rockijosh-1643390648--f208f09e-b5b3-4b06-87cd-f7230fae17e3---"45"</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fe5a6205e8e4cb78b605058347f6d38.png" length="120326" type="image/png"/>
+      <pubDate>Fri, 28 Jan 2022 12:24:08 -0500</pubDate>
     </item>
   </channel>
 </rss>
