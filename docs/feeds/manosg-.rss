@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Jan 2022 09:17:59 +0000</lastBuildDate>
-    <item>
-      <title>Nightwish - Nightquest (2 plays)</title>
-      <link>https://www.last.fm/music/Nightwish/_/Nightquest</link>
-      <guid isPermaLink="false">manosg--1643282473--00a9f935-ba93-4fc8-a33a-993abe9c936b---Nightquest</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/39806b9e110e4d82901de5cf633d9137.png" length="213535" type="image/png"/>
-      <pubDate>Thu, 27 Jan 2022 06:21:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Jan 2022 09:52:19 +0000</lastBuildDate>
     <item>
       <title>Nightwish - Swanheart (Live at Pakkahuone) (1 play)</title>
       <link>https://www.last.fm/music/Nightwish/_/Swanheart+(Live+at+Pakkahuone)</link>
@@ -344,6 +337,13 @@
       <link>https://www.last.fm/music/Ashes+of+Ares/_/Gone</link>
       <guid isPermaLink="false">manosg--1643446943--089632a2-a1d9-4a99-8abd-7cfa2406f941---Gone</guid>
       <pubDate>Sat, 29 Jan 2022 04:02:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ashes of Ares - Throne of Iniquity (1 play)</title>
+      <link>https://www.last.fm/music/Ashes+of+Ares/_/Throne+of+Iniquity</link>
+      <guid isPermaLink="false">manosg--1643448118--089632a2-a1d9-4a99-8abd-7cfa2406f941---Throne of Iniquity</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2671e490fa3f055dc639645430b1dc27.jpg" length="17397" type="image/jpeg"/>
+      <pubDate>Sat, 29 Jan 2022 04:21:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
