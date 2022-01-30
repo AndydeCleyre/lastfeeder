@@ -1,4 +1,4 @@
-black==21.12b0
+black==22.1.0
     # via -r dev-requirements.in
 certifi==2021.10.8
     # via requests
@@ -24,7 +24,7 @@ platformdirs==2.4.1
     # via black
 requests==2.27.1
     # via flit
-tomli==1.2.3
+tomli==2.0.0
     # via
     #   black
     #   flit
