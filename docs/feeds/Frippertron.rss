@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Jan 2022 08:22:45 +0000</lastBuildDate>
-    <item>
-      <title>Glassjaw - Stars (27 plays)</title>
-      <link>https://www.last.fm/music/Glassjaw/_/Stars</link>
-      <guid isPermaLink="false">Frippertron-1643363882--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
-      <pubDate>Fri, 28 Jan 2022 04:58:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Glassjaw - You Think You're (John Fucking Lennon) (36 plays)</title>
-      <link>https://www.last.fm/music/Glassjaw/_/You+Think+You%27re+(John+Fucking+Lennon)</link>
-      <guid isPermaLink="false">Frippertron-1643364114--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---You Think You're (John Fucking Lennon)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
-      <pubDate>Fri, 28 Jan 2022 05:01:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kayo Dot - Aura on an Asylum Wall (48 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/Aura+on+an+Asylum+Wall</link>
-      <guid isPermaLink="false">Frippertron-1643365489--3979eee5-c72a-4b0a-9191-a0243881250a---Aura on an Asylum Wall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
-      <pubDate>Fri, 28 Jan 2022 05:24:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 08:43:00 +0000</lastBuildDate>
     <item>
       <title>Kayo Dot - ___ On Limpid Form (18 plays)</title>
       <link>https://www.last.fm/music/Kayo+Dot/_/___+On+Limpid+Form</link>
@@ -121,7 +100,7 @@
       <pubDate>Sun, 30 Jan 2022 23:24:29 -0500</pubDate>
     </item>
     <item>
-      <title>Animal Collective - Dragon Slayer (1 play)</title>
+      <title>Animal Collective - Dragon Slayer (2 plays)</title>
       <link>https://www.last.fm/music/Animal+Collective/_/Dragon+Slayer</link>
       <guid isPermaLink="false">Frippertron-1643603414--0c751690-c784-4a4f-b1e4-c1de27d47581---Dragon Slayer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1643617172--5441c29d-3602-4898-b1a1-b77fa23b8e50---She Shook Me Cold</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
       <pubDate>Mon, 31 Jan 2022 03:19:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - The Man Who Sold the World (52 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/The+Man+Who+Sold+the+World</link>
+      <guid isPermaLink="false">Frippertron-1643617431--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Man Who Sold the World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
+      <pubDate>Mon, 31 Jan 2022 03:23:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - The Supermen (38 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/The+Supermen</link>
+      <guid isPermaLink="false">Frippertron-1643617676--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Supermen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
+      <pubDate>Mon, 31 Jan 2022 03:27:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Dragon Slayer (2 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Dragon+Slayer</link>
+      <guid isPermaLink="false">Frippertron-1643617904--0c751690-c784-4a4f-b1e4-c1de27d47581---Dragon Slayer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
+      <pubDate>Mon, 31 Jan 2022 03:31:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
