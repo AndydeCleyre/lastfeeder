@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Feb 2022 08:22:28 +0000</lastBuildDate>
-    <item>
-      <title>T. Rex - Rock On (57 plays)</title>
-      <link>https://www.last.fm/music/T.+Rex/_/Rock+On</link>
-      <guid isPermaLink="false">Frippertron-1643622538--c842d29f-a297-48cd-bb71-4f77fd672b16---Rock On</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7024b267db45463ec6284fe9e94ee9b2.png" length="135703" type="image/png"/>
-      <pubDate>Mon, 31 Jan 2022 04:48:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>T. Rex - Baby Boomerang (71 plays)</title>
-      <link>https://www.last.fm/music/T.+Rex/_/Baby+Boomerang</link>
-      <guid isPermaLink="false">Frippertron-1643622712--c842d29f-a297-48cd-bb71-4f77fd672b16---Baby Boomerang</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7024b267db45463ec6284fe9e94ee9b2.png" length="135703" type="image/png"/>
-      <pubDate>Mon, 31 Jan 2022 04:51:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>T. Rex - Baby Strange (85 plays)</title>
-      <link>https://www.last.fm/music/T.+Rex/_/Baby+Strange</link>
-      <guid isPermaLink="false">Frippertron-1643622853--c842d29f-a297-48cd-bb71-4f77fd672b16---Baby Strange</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7024b267db45463ec6284fe9e94ee9b2.png" length="135703" type="image/png"/>
-      <pubDate>Mon, 31 Jan 2022 04:54:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Feb 2022 08:43:20 +0000</lastBuildDate>
     <item>
       <title>T. Rex - Hot Love (44 plays)</title>
       <link>https://www.last.fm/music/T.+Rex/_/Hot+Love</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1643703602--0c751690-c784-4a4f-b1e4-c1de27d47581---Car Keys</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
       <pubDate>Tue, 01 Feb 2022 03:20:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Prester John (3 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Prester+John</link>
+      <guid isPermaLink="false">Frippertron-1643703881--0c751690-c784-4a4f-b1e4-c1de27d47581---Prester John</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
+      <pubDate>Tue, 01 Feb 2022 03:24:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Strung With Everything (3 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Strung+With+Everything</link>
+      <guid isPermaLink="false">Frippertron-1643704274--0c751690-c784-4a4f-b1e4-c1de27d47581---Strung With Everything</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
+      <pubDate>Tue, 01 Feb 2022 03:31:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Walker (3 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Walker</link>
+      <guid isPermaLink="false">Frippertron-1643704691--0c751690-c784-4a4f-b1e4-c1de27d47581---Walker</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
+      <pubDate>Tue, 01 Feb 2022 03:38:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
