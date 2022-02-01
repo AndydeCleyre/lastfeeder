@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Feb 2022 08:43:20 +0000</lastBuildDate>
-    <item>
-      <title>T. Rex - Hot Love (44 plays)</title>
-      <link>https://www.last.fm/music/T.+Rex/_/Hot+Love</link>
-      <guid isPermaLink="false">Frippertron-1643623072--c842d29f-a297-48cd-bb71-4f77fd672b16---Hot Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ce19ce5cddf467ab64ea4d82a184dde.png" length="85799" type="image/png"/>
-      <pubDate>Mon, 31 Jan 2022 04:57:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>T. Rex - Jeepster (65 plays)</title>
-      <link>https://www.last.fm/music/T.+Rex/_/Jeepster</link>
-      <guid isPermaLink="false">Frippertron-1643624374--c842d29f-a297-48cd-bb71-4f77fd672b16---Jeepster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ce19ce5cddf467ab64ea4d82a184dde.png" length="85799" type="image/png"/>
-      <pubDate>Mon, 31 Jan 2022 05:19:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Feb 2022 08:54:44 +0000</lastBuildDate>
     <item>
       <title>David Bowie - It's No Game (Part 1) (58 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/It%27s+No+Game+(Part+1)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1643704691--0c751690-c784-4a4f-b1e4-c1de27d47581---Walker</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
       <pubDate>Tue, 01 Feb 2022 03:38:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Cherokee (3 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Cherokee</link>
+      <guid isPermaLink="false">Frippertron-1643704919--0c751690-c784-4a4f-b1e4-c1de27d47581---Cherokee</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
+      <pubDate>Tue, 01 Feb 2022 03:41:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Passer-by (3 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Passer-by</link>
+      <guid isPermaLink="false">Frippertron-1643705391--Animal Collective---Passer-by</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
+      <pubDate>Tue, 01 Feb 2022 03:49:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
