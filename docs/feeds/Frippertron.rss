@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Feb 2022 07:19:26 +0000</lastBuildDate>
-    <item>
-      <title>Supercar - Storywriter (79 plays)</title>
-      <link>https://www.last.fm/music/Supercar/_/Storywriter</link>
-      <guid isPermaLink="false">Frippertron-1643706856--dc5cd3ad-fa36-42e0-acd4-2c9d87f82ea6---Storywriter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ee2ef8052b7931d6346fc1ba14a0f13.jpg" length="25741" type="image/jpeg"/>
-      <pubDate>Tue, 01 Feb 2022 04:14:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Feb 2022 07:37:22 +0000</lastBuildDate>
     <item>
       <title>Supercar - Yumegiwa Last Boy (55 plays)</title>
       <link>https://www.last.fm/music/Supercar/_/Yumegiwa+Last+Boy</link>
@@ -72,7 +65,7 @@
       <pubDate>Tue, 01 Feb 2022 04:49:36 -0500</pubDate>
     </item>
     <item>
-      <title>David Bowie - Aladdin Sane (1913-1938-197?) (57 plays)</title>
+      <title>David Bowie - Aladdin Sane (1913-1938-197?) (58 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Aladdin+Sane+(1913-1938-197%3F)</link>
       <guid isPermaLink="false">Frippertron-1643709253--5441c29d-3602-4898-b1a1-b77fa23b8e50---Aladdin Sane (1913-1938-197?)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1643786023--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---It's Late</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2220b5d920e64379b920b1a2e29b4950.png" length="211756" type="image/png"/>
       <pubDate>Wed, 02 Feb 2022 02:13:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Aladdin Sane (1913-1938-197?) (58 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Aladdin+Sane+(1913-1938-197%3F)</link>
+      <guid isPermaLink="false">Frippertron-1643786426--5441c29d-3602-4898-b1a1-b77fa23b8e50---Aladdin Sane (1913-1938-197?)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
+      <pubDate>Wed, 02 Feb 2022 02:20:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
