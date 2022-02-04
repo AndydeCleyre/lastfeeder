@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Feb 2022 11:15:10 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Flick of the Wrist (59 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Flick+of+the+Wrist</link>
-      <guid isPermaLink="false">Frippertron-1643866389--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Flick of the Wrist</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e677a1c6e7284a5799823fb8137c88ca.png" length="173493" type="image/png"/>
-      <pubDate>Thu, 03 Feb 2022 00:33:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Stone Cold Crazy (61 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Stone+Cold+Crazy</link>
-      <guid isPermaLink="false">Frippertron-1643866606--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Stone Cold Crazy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e677a1c6e7284a5799823fb8137c88ca.png" length="173493" type="image/png"/>
-      <pubDate>Thu, 03 Feb 2022 00:36:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Feb 2022 14:26:52 +0000</lastBuildDate>
     <item>
       <title>Queen - In The Lap Of The Gods...Revisited (42 plays)</title>
       <link>https://www.last.fm/music/Queen/_/In+The+Lap+Of+The+Gods...Revisited</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1643885636--5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45---Peel St.</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10665330bf1e97af57e52b98fe27386e.jpg" length="19457" type="image/jpeg"/>
       <pubDate>Thu, 03 Feb 2022 05:53:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Dragon Slayer (4 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Dragon+Slayer</link>
+      <guid isPermaLink="false">Frippertron-1643984382--0c751690-c784-4a4f-b1e4-c1de27d47581---Dragon Slayer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
+      <pubDate>Fri, 04 Feb 2022 09:19:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Car Keys (4 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Car+Keys</link>
+      <guid isPermaLink="false">Frippertron-1643984620--0c751690-c784-4a4f-b1e4-c1de27d47581---Car Keys</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
+      <pubDate>Fri, 04 Feb 2022 09:23:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
