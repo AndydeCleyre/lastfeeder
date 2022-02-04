@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Feb 2022 21:14:46 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Diamond Dogs (106 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Diamond+Dogs</link>
-      <guid isPermaLink="false">Frippertron-1643878879--5441c29d-3602-4898-b1a1-b77fa23b8e50---Diamond Dogs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8d8b5dc2148ed9c857a000979043357.jpg" length="16850" type="image/jpeg"/>
-      <pubDate>Thu, 03 Feb 2022 04:01:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Feb 2022 21:52:33 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Big Brother (60 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Big+Brother</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1643997642--31da7b06-bc30-4a1f-9f4a-c2ac1a84167f---Mandy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/954307563786c889b2fb9d997949db55.jpg" length="12360" type="image/jpeg"/>
       <pubDate>Fri, 04 Feb 2022 13:00:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - What Would I Want? Sky (60 plays)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/What+Would+I+Want%3F+Sky</link>
+      <guid isPermaLink="false">Frippertron-1644010823--0c751690-c784-4a4f-b1e4-c1de27d47581---What Would I Want? Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/edd35d95e3660d67d6e32e3338216088.jpg" length="23924" type="image/jpeg"/>
+      <pubDate>Fri, 04 Feb 2022 16:40:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
