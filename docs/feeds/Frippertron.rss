@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Feb 2022 21:52:33 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Big Brother (60 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Big+Brother</link>
-      <guid isPermaLink="false">Frippertron-1643879299--5441c29d-3602-4898-b1a1-b77fa23b8e50---Big Brother</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8d8b5dc2148ed9c857a000979043357.jpg" length="16850" type="image/jpeg"/>
-      <pubDate>Thu, 03 Feb 2022 04:08:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Feb 2022 22:15:25 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Time (75 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Time</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1644010823--0c751690-c784-4a4f-b1e4-c1de27d47581---What Would I Want? Sky</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/edd35d95e3660d67d6e32e3338216088.jpg" length="23924" type="image/jpeg"/>
       <pubDate>Fri, 04 Feb 2022 16:40:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - The Man Who Sold the World (53 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/The+Man+Who+Sold+the+World</link>
+      <guid isPermaLink="false">Frippertron-1644011962--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Man Who Sold the World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 04 Feb 2022 16:59:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
