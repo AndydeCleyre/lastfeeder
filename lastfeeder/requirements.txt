@@ -2,7 +2,7 @@ anyio==3.5.0
     # via httpcore
 babel==2.9.1
     # via delorean
-backports.zoneinfo==0.2.1
+backports-zoneinfo==0.2.1
     # via
     #   pytz-deprecation-shim
     #   tzlocal
@@ -10,7 +10,7 @@ certifi==2021.10.8
     # via
     #   httpcore
     #   httpx
-charset-normalizer==2.0.10
+charset-normalizer==2.0.11
     # via httpx
 delorean==1.0.0
     # via -r requirements.in
@@ -18,11 +18,11 @@ feedgen==0.9.0
     # via -r requirements.in
 h11==0.12.0
     # via httpcore
-httpcore==0.14.5
+httpcore==0.14.7
     # via httpx
 httpx==0.22.0
     # via -r requirements.in
-humanize==3.13.1
+humanize==3.14.0
     # via delorean
 idna==3.3
     # via
