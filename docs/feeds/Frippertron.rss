@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Feb 2022 23:16:39 +0000</lastBuildDate>
-    <item>
-      <title>Animal Collective - FloriDada (48 plays)</title>
-      <link>https://www.last.fm/music/Animal+Collective/_/FloriDada</link>
-      <guid isPermaLink="false">Frippertron-1643882261--0c751690-c784-4a4f-b1e4-c1de27d47581---FloriDada</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/025897b1a3ca8f3f4289cecf6d5d9853.gif" length="105027" type="image/gif"/>
-      <pubDate>Thu, 03 Feb 2022 04:57:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Feb 2022 01:42:37 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - The Rover (22 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/The+Rover</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1644016091--87c5dedd-371d-4a53-9f7f-80522fb7f3cb---Blissing Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ca740fb5f83ed4878db1fac38f58db9.png" length="181417" type="image/png"/>
       <pubDate>Fri, 04 Feb 2022 18:08:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Intro (6 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Intro</link>
+      <guid isPermaLink="false">Frippertron-1644025196--5441c29d-3602-4898-b1a1-b77fa23b8e50---Intro</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00cdfb707b909beff7b38cb2199cb321.jpg" length="22907" type="image/jpeg"/>
+      <pubDate>Fri, 04 Feb 2022 20:39:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
