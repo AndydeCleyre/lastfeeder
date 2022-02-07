@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Feb 2022 23:39:18 +0000</lastBuildDate>
-    <item>
-      <title>Charlie Puth - Light Switch (1 play)</title>
-      <link>https://www.last.fm/music/Charlie+Puth/_/Light+Switch</link>
-      <guid isPermaLink="false">ddgromit-1644022760--Charlie Puth---Light Switch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1560d1e5735cd14249c13cc0c560018.jpg" length="6584" type="image/jpeg"/>
-      <pubDate>Fri, 04 Feb 2022 19:59:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lauren Spencer-Smith - Fingers Crossed (1 play)</title>
-      <link>https://www.last.fm/music/Lauren+Spencer-Smith/_/Fingers+Crossed</link>
-      <guid isPermaLink="false">ddgromit-1644022946--0a727c70-cb97-4e3d-a973-219a0575349c---Fingers Crossed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44952259013300ebbd675f8cc29090bc.jpg" length="5011" type="image/jpeg"/>
-      <pubDate>Fri, 04 Feb 2022 20:02:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Feb 2022 23:52:28 +0000</lastBuildDate>
     <item>
       <title>Adele - Oh My God (1 play)</title>
       <link>https://www.last.fm/music/Adele/_/Oh+My+God</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1644276865--e6de1f3b-6484-491c-88dd-6d619f142abc---Mountains</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d4154016a120f80aaa30b90bd72aeb1c.jpg" length="29425" type="image/jpeg"/>
       <pubDate>Mon, 07 Feb 2022 18:34:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hans Zimmer - Imperfect Lock (1 play)</title>
+      <link>https://www.last.fm/music/Hans+Zimmer/_/Imperfect+Lock</link>
+      <guid isPermaLink="false">ddgromit-1644277085--e6de1f3b-6484-491c-88dd-6d619f142abc---Imperfect Lock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d4154016a120f80aaa30b90bd72aeb1c.jpg" length="29425" type="image/jpeg"/>
+      <pubDate>Mon, 07 Feb 2022 18:38:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hans Zimmer - Dust (2 plays)</title>
+      <link>https://www.last.fm/music/Hans+Zimmer/_/Dust</link>
+      <guid isPermaLink="false">ddgromit-1644277501--e6de1f3b-6484-491c-88dd-6d619f142abc---Dust</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d4154016a120f80aaa30b90bd72aeb1c.jpg" length="29425" type="image/jpeg"/>
+      <pubDate>Mon, 07 Feb 2022 18:45:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
