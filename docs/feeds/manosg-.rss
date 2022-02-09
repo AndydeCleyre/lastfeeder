@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Feb 2022 08:42:55 +0000</lastBuildDate>
-    <item>
-      <title>Saxon - Krakatoa (1 play)</title>
-      <link>https://www.last.fm/music/Saxon/_/Krakatoa</link>
-      <guid isPermaLink="false">manosg--1644223787--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Krakatoa</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05867d4219554bd9d04273ed57a17847.jpg" length="27092" type="image/jpeg"/>
-      <pubDate>Mon, 07 Feb 2022 03:49:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Feb 2022 14:58:06 +0000</lastBuildDate>
     <item>
       <title>Saxon - The Medley (1 play)</title>
       <link>https://www.last.fm/music/Saxon/_/The+Medley</link>
@@ -198,7 +191,7 @@
       <pubDate>Tue, 08 Feb 2022 10:37:38 -0500</pubDate>
     </item>
     <item>
-      <title>Saxon - Motorcycle Man (5 plays)</title>
+      <title>Saxon - Motorcycle Man</title>
       <link>https://www.last.fm/music/Saxon/_/Motorcycle+Man</link>
       <guid isPermaLink="false">manosg--1644334886--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Motorcycle Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6dd811dded6ebb84a2b827f1e4c5cd7e.jpg" length="24583" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1644395118--5966fd60-57f5-48a6-b11d-31ee693f35e8---In Ancient Days - Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/773c8b0492af4ea09d49a3bc742158d2.png" length="238941" type="image/png"/>
       <pubDate>Wed, 09 Feb 2022 03:25:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Can - Tango Whiskyman (1 play)</title>
+      <link>https://www.last.fm/music/Can/_/Tango+Whiskyman</link>
+      <guid isPermaLink="false">manosg--1644417802--49c2b08e-bee7-4a79-92ff-b8dbeb3230d2---Tango Whiskyman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ec5904350dbc0342d7e7873f05f37e9d.jpg" length="24240" type="image/jpeg"/>
+      <pubDate>Wed, 09 Feb 2022 09:43:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
