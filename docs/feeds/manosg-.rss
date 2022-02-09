@@ -7,16 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Feb 2022 07:17:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Feb 2022 07:37:31 +0000</lastBuildDate>
     <item>
-      <title>Saxon - Everybody Up (1 play)</title>
-      <link>https://www.last.fm/music/Saxon/_/Everybody+Up</link>
-      <guid isPermaLink="false">manosg--1644222588--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Everybody Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05867d4219554bd9d04273ed57a17847.jpg" length="27092" type="image/jpeg"/>
-      <pubDate>Mon, 07 Feb 2022 03:29:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>Saxon - Raise Some Hell (1 play)</title>
+      <title>Saxon - Raise Some Hell</title>
       <link>https://www.last.fm/music/Saxon/_/Raise+Some+Hell</link>
       <guid isPermaLink="false">manosg--1644222813--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Raise Some Hell</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05867d4219554bd9d04273ed57a17847.jpg" length="27092" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1644390771--67a178e3-43db-4bab-bf08-672549057098---Svackorpoängen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72759334c5823c075c06ae30980dcb38.png" length="198496" type="image/png"/>
       <pubDate>Wed, 09 Feb 2022 02:12:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rick Wakeman - Jane Seymour (1 play)</title>
+      <link>https://www.last.fm/music/Rick+Wakeman/_/Jane+Seymour</link>
+      <guid isPermaLink="false">manosg--1644390965--2ad06109-0a52-4b7b-8b7a-ca7c10baf597---Jane Seymour</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/027b859945aa4b39b6d2ad41e19ac38c.png" length="103142" type="image/png"/>
+      <pubDate>Wed, 09 Feb 2022 02:16:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
