@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Feb 2022 10:40:21 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Loving the Alien (85 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
-      <guid isPermaLink="false">Frippertron-1644469376--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
-      <pubDate>Thu, 10 Feb 2022 00:02:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Bring Me The Disco King (53 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Bring+Me+The+Disco+King</link>
-      <guid isPermaLink="false">Frippertron-1644471067--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bring Me The Disco King</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45d9302a3796493dc908e8028dd0098e.png" length="180524" type="image/png"/>
-      <pubDate>Thu, 10 Feb 2022 00:31:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Feb 2022 10:52:38 +0000</lastBuildDate>
     <item>
       <title>Swans Way - Soul Train (4 plays)</title>
       <link>https://www.last.fm/music/Swans+Way/_/Soul+Train</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1644489224--5441c29d-3602-4898-b1a1-b77fa23b8e50---We Are the Dead</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
       <pubDate>Thu, 10 Feb 2022 05:33:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - The Hearts Filthy Lesson (28 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/The+Hearts+Filthy+Lesson</link>
+      <guid isPermaLink="false">Frippertron-1644489543--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Hearts Filthy Lesson</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007761d122d75d12c03305238399cab5.png" length="133268" type="image/png"/>
+      <pubDate>Thu, 10 Feb 2022 05:39:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Strangers When We Meet (67 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Strangers+When+We+Meet</link>
+      <guid isPermaLink="false">Frippertron-1644489870--5441c29d-3602-4898-b1a1-b77fa23b8e50---Strangers When We Meet</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007761d122d75d12c03305238399cab5.png" length="133268" type="image/png"/>
+      <pubDate>Thu, 10 Feb 2022 05:44:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
