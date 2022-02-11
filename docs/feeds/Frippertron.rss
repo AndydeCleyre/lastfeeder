@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Feb 2022 04:46:48 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Nancy (Let Your Hair Down For Me) (30 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Nancy+(Let+Your+Hair+Down+For+Me)</link>
-      <guid isPermaLink="false">Frippertron-1644474022--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Nancy (Let Your Hair Down For Me)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d981fa7fb4ac418aacc7f7563069316f.png" length="202186" type="image/png"/>
-      <pubDate>Thu, 10 Feb 2022 01:20:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - The Venus Of The Soup Kitchen (52 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/The+Venus+Of+The+Soup+Kitchen</link>
-      <guid isPermaLink="false">Frippertron-1644474265--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The Venus Of The Soup Kitchen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d981fa7fb4ac418aacc7f7563069316f.png" length="202186" type="image/png"/>
-      <pubDate>Thu, 10 Feb 2022 01:24:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthony Phillips - Collections (31 plays)</title>
-      <link>https://www.last.fm/music/Anthony+Phillips/_/Collections</link>
-      <guid isPermaLink="false">Frippertron-1644474576--e62f6374-7e6f-4492-bb4a-3a1c62366e61---Collections</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16377ea368345f5478975d55ab6ec870.jpg" length="32853" type="image/jpeg"/>
-      <pubDate>Thu, 10 Feb 2022 01:29:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Feb 2022 05:17:06 +0000</lastBuildDate>
     <item>
       <title>Anthony Phillips - Regrets (57 plays)</title>
       <link>https://www.last.fm/music/Anthony+Phillips/_/Regrets</link>
@@ -296,7 +275,7 @@
       <pubDate>Thu, 10 Feb 2022 05:44:30 -0500</pubDate>
     </item>
     <item>
-      <title>David Bowie - Stay (207 plays)</title>
+      <title>David Bowie - Stay (208 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
       <guid isPermaLink="false">Frippertron-1644490182--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1644554357--270a1379-5beb-4085-947a-45522e6d8c55---Yesterday's Ideals</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df64b3d7b89343828df8b9a6cea71ce3.jpg" length="21160" type="image/jpeg"/>
       <pubDate>Thu, 10 Feb 2022 23:39:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Feist - Inside and Out (36 plays)</title>
+      <link>https://www.last.fm/music/Feist/_/Inside+and+Out</link>
+      <guid isPermaLink="false">Frippertron-1644554782--a670e05a-cea8-4b37-bce9-d82daf1a0fa4---Inside and Out</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c4a76cf67ab45c7985cfd91f69a3d8b.png" length="133359" type="image/png"/>
+      <pubDate>Thu, 10 Feb 2022 23:46:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Station to Station (80 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Station+to+Station</link>
+      <guid isPermaLink="false">Frippertron-1644555046--5441c29d-3602-4898-b1a1-b77fa23b8e50---Station to Station</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
+      <pubDate>Thu, 10 Feb 2022 23:50:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Stay (208 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
+      <guid isPermaLink="false">Frippertron-1644555656--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
+      <pubDate>Fri, 11 Feb 2022 00:00:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
