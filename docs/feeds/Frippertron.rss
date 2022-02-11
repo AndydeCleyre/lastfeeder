@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Feb 2022 08:41:55 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - We Are the Dead (60 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/We+Are+the+Dead</link>
-      <guid isPermaLink="false">Frippertron-1644489224--5441c29d-3602-4898-b1a1-b77fa23b8e50---We Are the Dead</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72306f2acb5ebac9b40e2a4eb15c9fcf.png" length="210922" type="image/png"/>
-      <pubDate>Thu, 10 Feb 2022 05:33:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - The Hearts Filthy Lesson (28 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Hearts+Filthy+Lesson</link>
-      <guid isPermaLink="false">Frippertron-1644489543--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Hearts Filthy Lesson</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007761d122d75d12c03305238399cab5.png" length="133268" type="image/png"/>
-      <pubDate>Thu, 10 Feb 2022 05:39:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Strangers When We Meet (67 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Strangers+When+We+Meet</link>
-      <guid isPermaLink="false">Frippertron-1644489870--5441c29d-3602-4898-b1a1-b77fa23b8e50---Strangers When We Meet</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007761d122d75d12c03305238399cab5.png" length="133268" type="image/png"/>
-      <pubDate>Thu, 10 Feb 2022 05:44:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Feb 2022 08:54:16 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Stay (208 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1644568477--ceaf841a-60e9-4391-9e26-88b853cd4658---Over and Over</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/060d89ea3a3a4797c747cd93a59ed231.png" length="104115" type="image/png"/>
       <pubDate>Fri, 11 Feb 2022 03:34:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Boys Keep Swinging (140 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Boys+Keep+Swinging</link>
+      <guid isPermaLink="false">Frippertron-1644569049--5441c29d-3602-4898-b1a1-b77fa23b8e50---Boys Keep Swinging</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb49da6906018a94de75b61a217867b3.png" length="103871" type="image/png"/>
+      <pubDate>Fri, 11 Feb 2022 03:44:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Repetition (51 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Repetition</link>
+      <guid isPermaLink="false">Frippertron-1644569247--5441c29d-3602-4898-b1a1-b77fa23b8e50---Repetition</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb49da6906018a94de75b61a217867b3.png" length="103871" type="image/png"/>
+      <pubDate>Fri, 11 Feb 2022 03:47:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bauhaus - In the Night (2 plays)</title>
+      <link>https://www.last.fm/music/Bauhaus/_/In+the+Night</link>
+      <guid isPermaLink="false">Frippertron-1644569449--Bauhaus---In the Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1c531fd8a6d463391f05deb30743b5e.jpg" length="21929" type="image/jpeg"/>
+      <pubDate>Fri, 11 Feb 2022 03:50:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
