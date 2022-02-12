@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Feb 2022 15:40:22 +0000</lastBuildDate>
-    <item>
-      <title>Saxon - Fire in the Sky (4 plays)</title>
-      <link>https://www.last.fm/music/Saxon/_/Fire+in+the+Sky</link>
-      <guid isPermaLink="false">manosg--1644343789--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Fire in the Sky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75783c7382dd4e5191e606ac23b57b98.jpg" length="28111" type="image/jpeg"/>
-      <pubDate>Tue, 08 Feb 2022 13:09:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Saxon - Denim and Leather (2 plays)</title>
-      <link>https://www.last.fm/music/Saxon/_/Denim+and+Leather</link>
-      <guid isPermaLink="false">manosg--1644344857--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Denim and Leather</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75783c7382dd4e5191e606ac23b57b98.jpg" length="28111" type="image/jpeg"/>
-      <pubDate>Tue, 08 Feb 2022 13:27:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Feb 2022 15:52:29 +0000</lastBuildDate>
     <item>
       <title>Audience - Jackdaw (1 play)</title>
       <link>https://www.last.fm/music/Audience/_/Jackdaw</link>
@@ -149,7 +135,7 @@
       <pubDate>Fri, 11 Feb 2022 03:18:07 -0500</pubDate>
     </item>
     <item>
-      <title>Amorphis - war (2 plays)</title>
+      <title>Amorphis - war (3 plays)</title>
       <link>https://www.last.fm/music/Amorphis/_/war</link>
       <guid isPermaLink="false">manosg--1644568718--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---war</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
@@ -163,14 +149,14 @@
       <pubDate>Fri, 11 Feb 2022 03:38:53 -0500</pubDate>
     </item>
     <item>
-      <title>Amorphis - war (2 plays)</title>
+      <title>Amorphis - war (3 plays)</title>
       <link>https://www.last.fm/music/Amorphis/_/war</link>
       <guid isPermaLink="false">manosg--1644569179--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---war</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
       <pubDate>Fri, 11 Feb 2022 03:46:19 -0500</pubDate>
     </item>
     <item>
-      <title>Amorphis - Halo (1 play)</title>
+      <title>Amorphis - Halo (2 plays)</title>
       <link>https://www.last.fm/music/Amorphis/_/Halo</link>
       <guid isPermaLink="false">manosg--1644569504--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Halo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1644655962--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Seven Roads Come Together</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
       <pubDate>Sat, 12 Feb 2022 03:52:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amorphis - war (3 plays)</title>
+      <link>https://www.last.fm/music/Amorphis/_/war</link>
+      <guid isPermaLink="false">manosg--1644680366--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---war</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
+      <pubDate>Sat, 12 Feb 2022 10:39:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amorphis - Halo (2 plays)</title>
+      <link>https://www.last.fm/music/Amorphis/_/Halo</link>
+      <guid isPermaLink="false">manosg--1644680691--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Halo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
+      <pubDate>Sat, 12 Feb 2022 10:44:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
