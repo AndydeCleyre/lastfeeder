@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Feb 2022 08:21:25 +0000</lastBuildDate>
-    <item>
-      <title>Saxon - Play It Loud (3 plays)</title>
-      <link>https://www.last.fm/music/Saxon/_/Play+It+Loud</link>
-      <guid isPermaLink="false">manosg--1644342605--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Play It Loud</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75783c7382dd4e5191e606ac23b57b98.jpg" length="28111" type="image/jpeg"/>
-      <pubDate>Tue, 08 Feb 2022 12:50:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Feb 2022 08:41:37 +0000</lastBuildDate>
     <item>
       <title>Saxon - And the Bands Played On (6 plays)</title>
       <link>https://www.last.fm/music/Saxon/_/And+the+Bands+Played+On</link>
@@ -149,7 +142,7 @@
       <pubDate>Fri, 11 Feb 2022 02:48:42 -0500</pubDate>
     </item>
     <item>
-      <title>Amorphis - A New Land (1 play)</title>
+      <title>Amorphis - A New Land (2 plays)</title>
       <link>https://www.last.fm/music/Amorphis/_/A+New+Land</link>
       <guid isPermaLink="false">manosg--1644566876--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---A New Land</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
@@ -320,6 +313,7 @@
       <title>Coronatus - Scream Of The Butterfly (1 play)</title>
       <link>https://www.last.fm/music/Coronatus/_/Scream+Of+The+Butterfly</link>
       <guid isPermaLink="false">manosg--1644652618--92ff6a4e-7070-4ddc-a62f-da9833aa236a---Scream Of The Butterfly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69f4064c115a4b159c6157d7755a1847.jpg" length="31936" type="image/jpeg"/>
       <pubDate>Sat, 12 Feb 2022 02:56:58 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1644653604--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Windmane</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
       <pubDate>Sat, 12 Feb 2022 03:13:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amorphis - A New Land (2 plays)</title>
+      <link>https://www.last.fm/music/Amorphis/_/A+New+Land</link>
+      <guid isPermaLink="false">manosg--1644653894--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---A New Land</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
+      <pubDate>Sat, 12 Feb 2022 03:18:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
