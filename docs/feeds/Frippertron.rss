@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Feb 2022 19:14:12 +0000</lastBuildDate>
-    <item>
-      <title>Pylon - K (2 plays)</title>
-      <link>https://www.last.fm/music/Pylon/_/K</link>
-      <guid isPermaLink="false">Frippertron-1644561354--4c33b4c5-c106-4e55-8521-6a022958ff5f---K</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ab7f8bcb598f835a03104a4b11c81f8.jpg" length="24330" type="image/jpeg"/>
-      <pubDate>Fri, 11 Feb 2022 01:35:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Feb 2022 19:26:09 +0000</lastBuildDate>
     <item>
       <title>Pylon - Yo-Yo (2 plays)</title>
       <link>https://www.last.fm/music/Pylon/_/Yo-Yo</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1644692852--Something Like Elvis---Cardiac</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab36021a5b47dee4cbf31ae3cfcae7ce.jpg" length="19687" type="image/jpeg"/>
       <pubDate>Sat, 12 Feb 2022 14:07:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Something Like Elvis - Electric Eye (2 plays)</title>
+      <link>https://www.last.fm/music/Something+Like+Elvis/_/Electric+Eye</link>
+      <guid isPermaLink="false">Frippertron-1644693091--Something Like Elvis---Electric Eye</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab36021a5b47dee4cbf31ae3cfcae7ce.jpg" length="19687" type="image/jpeg"/>
+      <pubDate>Sat, 12 Feb 2022 14:11:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
