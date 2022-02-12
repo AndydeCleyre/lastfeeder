@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Feb 2022 21:52:36 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Somebody Up There Likes Me (41 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
-      <guid isPermaLink="false">Frippertron-1644571735--5441c29d-3602-4898-b1a1-b77fa23b8e50---Somebody Up There Likes Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Fri, 11 Feb 2022 04:28:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Walker Brothers - Shut Out (68 plays)</title>
-      <link>https://www.last.fm/music/The+Walker+Brothers/_/Shut+Out</link>
-      <guid isPermaLink="false">Frippertron-1644572151--720df570-c435-4be5-a755-357d9fd98bc8---Shut Out</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3682788971fa96bb1878454d9ffb55e7.jpg" length="16777" type="image/jpeg"/>
-      <pubDate>Fri, 11 Feb 2022 04:35:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Feb 2022 22:17:22 +0000</lastBuildDate>
     <item>
       <title>The Walker Brothers - Fat Mama Kick (48 plays)</title>
       <link>https://www.last.fm/music/The+Walker+Brothers/_/Fat+Mama+Kick</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1644702393--black midi---27 Q</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee43f45dc9ee7b7ff9cdaf98daa69cd.jpg" length="27097" type="image/jpeg"/>
       <pubDate>Sat, 12 Feb 2022 16:46:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Slow (27 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Slow</link>
+      <guid isPermaLink="false">Frippertron-1644702740--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Slow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee43f45dc9ee7b7ff9cdaf98daa69cd.jpg" length="27097" type="image/jpeg"/>
+      <pubDate>Sat, 12 Feb 2022 16:52:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans Way - Soul Train (6 plays)</title>
+      <link>https://www.last.fm/music/Swans+Way/_/Soul+Train</link>
+      <guid isPermaLink="false">Frippertron-1644704002--Swans Way---Soul Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47a9ee59b8d24813b2a0bd40a95cd31d.jpg" length="23852" type="image/jpeg"/>
+      <pubDate>Sat, 12 Feb 2022 17:13:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
