@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Feb 2022 15:52:29 +0000</lastBuildDate>
-    <item>
-      <title>Audience - Jackdaw (1 play)</title>
-      <link>https://www.last.fm/music/Audience/_/Jackdaw</link>
-      <guid isPermaLink="false">manosg--1644389956--5f1596a7-f679-4f17-aee5-236b0b163594---Jackdaw</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb198834b3fb4ef9903b729c84351231.jpg" length="33192" type="image/jpeg"/>
-      <pubDate>Wed, 09 Feb 2022 01:59:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Feb 2022 16:26:37 +0000</lastBuildDate>
     <item>
       <title>Audience - It Brings A Tear (1 play)</title>
       <link>https://www.last.fm/music/Audience/_/It+Brings+A+Tear</link>
@@ -163,7 +156,7 @@
       <pubDate>Fri, 11 Feb 2022 03:51:44 -0500</pubDate>
     </item>
     <item>
-      <title>Amorphis - The Wolf (1 play)</title>
+      <title>Amorphis - The Wolf (2 plays)</title>
       <link>https://www.last.fm/music/Amorphis/_/The+Wolf</link>
       <guid isPermaLink="false">manosg--1644570732--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---The Wolf</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1644680691--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Halo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
       <pubDate>Sat, 12 Feb 2022 10:44:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amorphis - The Wolf (2 plays)</title>
+      <link>https://www.last.fm/music/Amorphis/_/The+Wolf</link>
+      <guid isPermaLink="false">manosg--1644681000--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---The Wolf</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/add6e4d7b9e07fd45ab8bc88041b949c.jpg" length="32990" type="image/jpeg"/>
+      <pubDate>Sat, 12 Feb 2022 10:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
