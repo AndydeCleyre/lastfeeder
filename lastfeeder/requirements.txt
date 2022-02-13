@@ -10,7 +10,7 @@ certifi==2021.10.8
     # via
     #   httpcore
     #   httpx
-charset-normalizer==2.0.11
+charset-normalizer==2.0.12
     # via httpx
 delorean==1.0.0
     # via -r requirements.in
