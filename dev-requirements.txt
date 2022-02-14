@@ -30,7 +30,7 @@ tomli==2.0.1
     #   flit
 tomli-w==1.0.0
     # via flit
-typing-extensions==4.1.0
+typing-extensions==4.1.1
     # via black
 urllib3==1.26.8
     # via requests
