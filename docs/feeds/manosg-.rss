@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Feb 2022 09:52:57 +0000</lastBuildDate>
-    <item>
-      <title>The Moody Blues - Melancholy Man (1 play)</title>
-      <link>https://www.last.fm/music/The+Moody+Blues/_/Melancholy+Man</link>
-      <guid isPermaLink="false">manosg--1644394436--774666d2-2064-4d6c-856c-f8cda0aaf9f0---Melancholy Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb207a9fdeb84cbacc60b585b02f59b2.png" length="240273" type="image/png"/>
-      <pubDate>Wed, 09 Feb 2022 03:13:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Feb 2022 10:22:09 +0000</lastBuildDate>
     <item>
       <title>Colosseum - Three Score and Ten, Amen (1 play)</title>
       <link>https://www.last.fm/music/Colosseum/_/Three+Score+and+Ten,+Amen</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1644832120--8eb2b29d-ac81-4845-b802-e4746891313b---Feelin'</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b68979522bde78cb5d69a9ed98d25272.jpg" length="38538" type="image/jpeg"/>
       <pubDate>Mon, 14 Feb 2022 04:48:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Witchwood - Crimson Moon (9 plays)</title>
+      <link>https://www.last.fm/music/Witchwood/_/Crimson+Moon</link>
+      <guid isPermaLink="false">manosg--1644832372--8eb2b29d-ac81-4845-b802-e4746891313b---Crimson Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b68979522bde78cb5d69a9ed98d25272.jpg" length="38538" type="image/jpeg"/>
+      <pubDate>Mon, 14 Feb 2022 04:52:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
