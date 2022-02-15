@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Feb 2022 10:20:39 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - D.J. (56 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/D.J.</link>
-      <guid isPermaLink="false">Frippertron-1644899887--5441c29d-3602-4898-b1a1-b77fa23b8e50---D.J.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c868c1eb32e40e60004840c6bf089a2.jpg" length="15457" type="image/jpeg"/>
-      <pubDate>Mon, 14 Feb 2022 23:38:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Look Back in Anger (63 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Look+Back+in+Anger</link>
-      <guid isPermaLink="false">Frippertron-1644900130--5441c29d-3602-4898-b1a1-b77fa23b8e50---Look Back in Anger</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c868c1eb32e40e60004840c6bf089a2.jpg" length="15457" type="image/jpeg"/>
-      <pubDate>Mon, 14 Feb 2022 23:42:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Feb 2022 10:40:49 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Boys Keep Swinging (141 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Boys+Keep+Swinging</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1644920301--5441c29d-3602-4898-b1a1-b77fa23b8e50---Cracked Actor</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
       <pubDate>Tue, 15 Feb 2022 05:18:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Time (78 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Time</link>
+      <guid isPermaLink="false">Frippertron-1644920483--5441c29d-3602-4898-b1a1-b77fa23b8e50---Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
+      <pubDate>Tue, 15 Feb 2022 05:21:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Larks' Tongues in Aspic (Part I) (59 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+in+Aspic+(Part+I)</link>
+      <guid isPermaLink="false">Frippertron-1644921161--King Crimson---Larks' Tongues in Aspic (Part I)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 15 Feb 2022 05:32:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
