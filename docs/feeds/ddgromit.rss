@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Feb 2022 01:15:32 +0000</lastBuildDate>
-    <item>
-      <title>Taylor Swift - the 1 (1 play)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/the+1</link>
-      <guid isPermaLink="false">ddgromit-1644463914--20244d07-534f-4eff-b4d4-930878889970---the 1</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7283dedc810f971388eba0b710d90020.png" length="128524" type="image/png"/>
-      <pubDate>Wed, 09 Feb 2022 22:31:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Feb 2022 19:27:10 +0000</lastBuildDate>
     <item>
       <title>Taylor Swift - Cruel Summer (1 play)</title>
       <link>https://www.last.fm/music/Taylor+Swift/_/Cruel+Summer</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1644885496--c6f09ec1-7173-42e2-8f29-30cbcbff8878---Golden Hour</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca595fe4415d5bef07c905e1b87e9dc6.jpg" length="9452" type="image/jpeg"/>
       <pubDate>Mon, 14 Feb 2022 19:38:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mishegas - Episodes (3 plays)</title>
+      <link>https://www.last.fm/music/Mishegas/_/Episodes</link>
+      <guid isPermaLink="false">ddgromit-1644885678--40c3f11f-5f44-4bfc-af4c-ea0f0c981930---Episodes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af4964fe0dd2e085ae9aac53878a3d2f.jpg" length="33708" type="image/jpeg"/>
+      <pubDate>Mon, 14 Feb 2022 19:41:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
