@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Feb 2022 19:38:44 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Black Country Rock (26 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Black+Country+Rock</link>
-      <guid isPermaLink="false">Frippertron-1644938223--5441c29d-3602-4898-b1a1-b77fa23b8e50---Black Country Rock</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
-      <pubDate>Tue, 15 Feb 2022 10:17:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Feb 2022 03:52:26 +0000</lastBuildDate>
     <item>
       <title>David Bowie - After All (20 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/After+All</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1644953473--eda7da10-0b65-41df-ac36-9c83b7017f7a---Loss</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33cb0c056e2d7a7fb2d58d2dcd7c7ed5.jpg" length="18098" type="image/jpeg"/>
       <pubDate>Tue, 15 Feb 2022 14:31:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Sunday (67 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Sunday</link>
+      <guid isPermaLink="false">Frippertron-1644983252--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sunday</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 15 Feb 2022 22:47:32 -0500</pubDate>
     </item>
   </channel>
 </rss>
