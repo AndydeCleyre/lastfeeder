@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Feb 2022 07:17:19 +0000</lastBuildDate>
-    <item>
-      <title>Joe Satriani - Big Distortion (1 play)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/Big+Distortion</link>
-      <guid isPermaLink="false">manosg--1644913354--29762c82-bb92-4acd-b1fb-09cc4da250d2---Big Distortion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff508386e35cbdb1c44661ed3953a834.jpg" length="13650" type="image/jpeg"/>
-      <pubDate>Tue, 15 Feb 2022 03:22:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Feb 2022 07:37:24 +0000</lastBuildDate>
     <item>
       <title>Joe Satriani - All for Love (1 play)</title>
       <link>https://www.last.fm/music/Joe+Satriani/_/All+for+Love</link>
@@ -352,11 +345,18 @@
       <pubDate>Wed, 16 Feb 2022 02:02:16 -0500</pubDate>
     </item>
     <item>
-      <title>Iced Earth - Depths of Hell (9 plays)</title>
+      <title>Iced Earth - Depths of Hell</title>
       <link>https://www.last.fm/music/Iced+Earth/_/Depths+of+Hell</link>
       <guid isPermaLink="false">manosg--1644995163--8a0e10a9-80c7-40e0-bf5b-89f1d57f9537---Depths of Hell</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6554da5a7c7455d9e9a11df52965b6a.jpg" length="39115" type="image/jpeg"/>
       <pubDate>Wed, 16 Feb 2022 02:06:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iced Earth - Vengeance Is Mine (12 plays)</title>
+      <link>https://www.last.fm/music/Iced+Earth/_/Vengeance+Is+Mine</link>
+      <guid isPermaLink="false">manosg--1644995343--8a0e10a9-80c7-40e0-bf5b-89f1d57f9537---Vengeance Is Mine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6554da5a7c7455d9e9a11df52965b6a.jpg" length="39115" type="image/jpeg"/>
+      <pubDate>Wed, 16 Feb 2022 02:09:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
