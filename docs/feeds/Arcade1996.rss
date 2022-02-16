@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Feb 2022 02:13:12 +0000</lastBuildDate>
-    <item>
-      <title>Everything Everything - Bad Friday (10 plays)</title>
-      <link>https://www.last.fm/music/Everything+Everything/_/Bad+Friday</link>
-      <guid isPermaLink="false">Arcade1996-1644802796--Everything Everything---Bad Friday</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b0600b313e6d2c2424666af583f195e.jpg" length="19762" type="image/jpeg"/>
-      <pubDate>Sun, 13 Feb 2022 20:39:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Feb 2022 02:56:24 +0000</lastBuildDate>
     <item>
       <title>Fivio Foreign - City of Gods (6 plays)</title>
       <link>https://www.last.fm/music/Fivio+Foreign/_/City+of+Gods</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1644974243--d1785218-d8f4-4a83-a33d-8cf737eef918---Spin Blocks</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/489553a300d47e084a371d457a24cb25.jpg" length="18872" type="image/jpeg"/>
       <pubDate>Tue, 15 Feb 2022 20:17:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Mother (1 play)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Mother</link>
+      <guid isPermaLink="false">Arcade1996-1644974402--5441c29d-3602-4898-b1a1-b77fa23b8e50---Mother</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/deb88e95fcff50955086ec971f2ecd28.jpg" length="5250" type="image/jpeg"/>
+      <pubDate>Tue, 15 Feb 2022 20:20:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
