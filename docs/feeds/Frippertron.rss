@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Feb 2022 08:41:42 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Dancer (47 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Dancer</link>
-      <guid isPermaLink="false">Frippertron-1645070356--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Dancer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d35283c68804137b1dc3ca79293071b.png" length="72339" type="image/png"/>
-      <pubDate>Wed, 16 Feb 2022 22:59:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Feb 2022 08:53:45 +0000</lastBuildDate>
     <item>
       <title>Queen - Back Chat (30 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Back+Chat</link>
@@ -219,7 +212,7 @@
       <pubDate>Thu, 17 Feb 2022 01:22:30 -0500</pubDate>
     </item>
     <item>
-      <title>Sleigh Bells - Infinity Guitars</title>
+      <title>Sleigh Bells - Infinity Guitars (1 play)</title>
       <link>https://www.last.fm/music/Sleigh+Bells/_/Infinity+Guitars</link>
       <guid isPermaLink="false">Frippertron-1645079108--95f7536d-b2f7-4087-8668-a663ec201f5a---Infinity Guitars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce20760300aa191a41b71d5e33e9d014.png" length="190128" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1645086981--277e21a9-2d64-452d-96c4-2d23a7af5891---Squeeze Me Macaroni</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d108d568342142da32e1a1873f6f7f2f.jpg" length="28286" type="image/jpeg"/>
       <pubDate>Thu, 17 Feb 2022 03:36:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tantra - Hills of Katmandu (1 play)</title>
+      <link>https://www.last.fm/music/Tantra/_/Hills+of+Katmandu</link>
+      <guid isPermaLink="false">Frippertron-1645087358--Tantra---Hills of Katmandu</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/500556ecd922486a8e42dc227bf6afab.jpg" length="29175" type="image/jpeg"/>
+      <pubDate>Thu, 17 Feb 2022 03:42:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
