@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Feb 2022 11:52:34 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Ziggy Stardust (110 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Ziggy+Stardust</link>
-      <guid isPermaLink="false">Frippertron-1645165941--5441c29d-3602-4898-b1a1-b77fa23b8e50---Ziggy Stardust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 18 Feb 2022 01:32:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Feb 2022 12:31:05 +0000</lastBuildDate>
     <item>
       <title>Swans Way - Soul Train (13 plays)</title>
       <link>https://www.last.fm/music/Swans+Way/_/Soul+Train</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1645184837--eec43ebc-815a-4105-b1cb-205b8f57b4fa---Song For Whoever</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8d127a44b0b400cc02fcf968a31ec0f.jpg" length="14419" type="image/jpeg"/>
       <pubDate>Fri, 18 Feb 2022 06:47:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Beautiful South - Love Is (9 plays)</title>
+      <link>https://www.last.fm/music/The+Beautiful+South/_/Love+Is</link>
+      <guid isPermaLink="false">Frippertron-1645185206--eec43ebc-815a-4105-b1cb-205b8f57b4fa---Love Is</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8d127a44b0b400cc02fcf968a31ec0f.jpg" length="14419" type="image/jpeg"/>
+      <pubDate>Fri, 18 Feb 2022 06:53:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
