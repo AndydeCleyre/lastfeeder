@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Feb 2022 06:46:24 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Tumble and Twirl (2 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Tumble+and+Twirl</link>
-      <guid isPermaLink="false">Frippertron-1645112819--5441c29d-3602-4898-b1a1-b77fa23b8e50---Tumble and Twirl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
-      <pubDate>Thu, 17 Feb 2022 10:46:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - I Keep Forgettin' (1 play)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/I+Keep+Forgettin%27</link>
-      <guid isPermaLink="false">Frippertron-1645113114--5441c29d-3602-4898-b1a1-b77fa23b8e50---I Keep Forgettin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
-      <pubDate>Thu, 17 Feb 2022 10:51:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Dancing with the Big Boys (3 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Dancing+with+the+Big+Boys</link>
-      <guid isPermaLink="false">Frippertron-1645113268--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dancing with the Big Boys</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
-      <pubDate>Thu, 17 Feb 2022 10:54:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Feb 2022 07:19:48 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Rosalyn (2 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Rosalyn</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1645166516--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Close to the Edge</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee7d192fb14b6ccb57676f75b889fc.png" length="181338" type="image/png"/>
       <pubDate>Fri, 18 Feb 2022 01:41:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Staying Power (61 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Staying+Power</link>
+      <guid isPermaLink="false">Frippertron-1645167790--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Staying Power</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d35283c68804137b1dc3ca79293071b.png" length="72339" type="image/png"/>
+      <pubDate>Fri, 18 Feb 2022 02:03:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Dancer (48 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Dancer</link>
+      <guid isPermaLink="false">Frippertron-1645168044--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Dancer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d35283c68804137b1dc3ca79293071b.png" length="72339" type="image/png"/>
+      <pubDate>Fri, 18 Feb 2022 02:07:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Back Chat (31 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Back+Chat</link>
+      <guid isPermaLink="false">Frippertron-1645168275--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Back Chat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d35283c68804137b1dc3ca79293071b.png" length="72339" type="image/png"/>
+      <pubDate>Fri, 18 Feb 2022 02:11:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
