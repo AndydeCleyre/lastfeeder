@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Feb 2022 03:19:54 +0000</lastBuildDate>
-    <item>
-      <title>Ben Pearce - What I Might Do - Kilter Remix (1 play)</title>
-      <link>https://www.last.fm/music/Ben+Pearce/_/What+I+Might+Do+-+Kilter+Remix</link>
-      <guid isPermaLink="false">ddgromit-1645128368--5da9fa64-75bb-4e1f-bb13-2f0eae6b40d6---What I Might Do - Kilter Remix</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 17 Feb 2022 15:06:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>Phantogram - As Far As I Can See (1 play)</title>
-      <link>https://www.last.fm/music/Phantogram/_/As+Far+As+I+Can+See</link>
-      <guid isPermaLink="false">ddgromit-1645128678--dfe78af2-779e-4137-826a-3073a16e3278---As Far As I Can See</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/752618f76e5c3e5bc09a5e7acf5f4ac2.jpg" length="22516" type="image/jpeg"/>
-      <pubDate>Thu, 17 Feb 2022 15:11:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Feb 2022 20:38:55 +0000</lastBuildDate>
     <item>
       <title>Kartell - Pantera (1 play)</title>
       <link>https://www.last.fm/music/Kartell/_/Pantera</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1645240457--46eb0fb7-9725-43af-97d7-6c717682a799---Sunset</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c804b2219fb1978fd44013c9bfa5e24.jpg" length="15787" type="image/jpeg"/>
       <pubDate>Fri, 18 Feb 2022 22:14:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Volkor X - Hypersleep (5 plays)</title>
+      <link>https://www.last.fm/music/Volkor+X/_/Hypersleep</link>
+      <guid isPermaLink="false">ddgromit-1645302323--Volkor X---Hypersleep</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/137f5a899b8458df08df6e0878bce3fd.jpg" length="26516" type="image/jpeg"/>
+      <pubDate>Sat, 19 Feb 2022 15:25:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>hello meteor - Kuroshio (1 play)</title>
+      <link>https://www.last.fm/music/hello+meteor/_/Kuroshio</link>
+      <guid isPermaLink="false">ddgromit-1645302706--f835c755-d70b-42d8-a979-01f67c3c47e8---Kuroshio</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78e5462c0fc3c04efac94a74b263ea5f.jpg" length="22577" type="image/jpeg"/>
+      <pubDate>Sat, 19 Feb 2022 15:31:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
