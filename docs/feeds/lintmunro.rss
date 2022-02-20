@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Feb 2022 17:52:25 +0000</lastBuildDate>
-    <item>
-      <title>Phil Ochs - Is There Anybody Here (1 play)</title>
-      <link>https://www.last.fm/music/Phil+Ochs/_/Is+There+Anybody+Here</link>
-      <guid isPermaLink="false">lintmunro-1644255913--80cd255d-995c-47f1-a5bc-cc34669a37a0---Is There Anybody Here</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c0cbdd96895025bc8221578c0a0ee41.jpg" length="18206" type="image/jpeg"/>
-      <pubDate>Mon, 07 Feb 2022 12:45:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>Phil Ochs - The Highwayman (2 plays)</title>
-      <link>https://www.last.fm/music/Phil+Ochs/_/The+Highwayman</link>
-      <guid isPermaLink="false">lintmunro-1644256118--80cd255d-995c-47f1-a5bc-cc34669a37a0---The Highwayman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c0cbdd96895025bc8221578c0a0ee41.jpg" length="18206" type="image/jpeg"/>
-      <pubDate>Mon, 07 Feb 2022 12:48:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Feb 2022 18:22:01 +0000</lastBuildDate>
     <item>
       <title>Phil Ochs - Santo Domingo (1 play)</title>
       <link>https://www.last.fm/music/Phil+Ochs/_/Santo+Domingo</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1645378989--Dissidente---Amputee</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/538540b145ac2caf35f2f1f6f5097fbe.jpg" length="33067" type="image/jpeg"/>
       <pubDate>Sun, 20 Feb 2022 12:43:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dissidente - A Nation of Wolves (1 play)</title>
+      <link>https://www.last.fm/music/Dissidente/_/A+Nation+of+Wolves</link>
+      <guid isPermaLink="false">lintmunro-1645379160--Dissidente---A Nation of Wolves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/538540b145ac2caf35f2f1f6f5097fbe.jpg" length="33067" type="image/jpeg"/>
+      <pubDate>Sun, 20 Feb 2022 12:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dissidente - Steeples (1 play)</title>
+      <link>https://www.last.fm/music/Dissidente/_/Steeples</link>
+      <guid isPermaLink="false">lintmunro-1645379607--Dissidente---Steeples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/538540b145ac2caf35f2f1f6f5097fbe.jpg" length="33067" type="image/jpeg"/>
+      <pubDate>Sun, 20 Feb 2022 12:53:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
