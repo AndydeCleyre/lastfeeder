@@ -20,7 +20,7 @@ mypy-extensions==0.4.3
     # via black
 pathspec==0.9.0
     # via black
-platformdirs==2.5.0
+platformdirs==2.5.1
     # via black
 requests==2.27.1
     # via flit
