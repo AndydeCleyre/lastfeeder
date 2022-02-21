@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Feb 2022 05:17:53 +0000</lastBuildDate>
-    <item>
-      <title>Beach House - Once Twice Melody (1 play)</title>
-      <link>https://www.last.fm/music/Beach+House/_/Once+Twice+Melody</link>
-      <guid isPermaLink="false">Frippertron-1645273763--d5cc67b8-1cc4-453b-96e8-44487acdebea---Once Twice Melody</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/022d1a3924a84c731520bda4e2f6e3d8.png" length="76323" type="image/png"/>
-      <pubDate>Sat, 19 Feb 2022 07:29:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Beach House - Superstar (1 play)</title>
-      <link>https://www.last.fm/music/Beach+House/_/Superstar</link>
-      <guid isPermaLink="false">Frippertron-1645274047--d5cc67b8-1cc4-453b-96e8-44487acdebea---Superstar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/022d1a3924a84c731520bda4e2f6e3d8.png" length="76323" type="image/png"/>
-      <pubDate>Sat, 19 Feb 2022 07:34:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Feb 2022 05:37:18 +0000</lastBuildDate>
     <item>
       <title>Beach House - Pink Funeral (1 play)</title>
       <link>https://www.last.fm/music/Beach+House/_/Pink+Funeral</link>
@@ -219,7 +205,7 @@
       <pubDate>Sat, 19 Feb 2022 09:43:56 -0500</pubDate>
     </item>
     <item>
-      <title>black midi - Ascending Forth (43 plays)</title>
+      <title>black midi - Ascending Forth (44 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Ascending+Forth</link>
       <guid isPermaLink="false">Frippertron-1645282114--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ascending Forth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1645419745--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Sugar/Tzu</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee43f45dc9ee7b7ff9cdaf98daa69cd.jpg" length="27097" type="image/jpeg"/>
       <pubDate>Mon, 21 Feb 2022 00:02:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Welcome to Hell (8 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Welcome+to+Hell</link>
+      <guid isPermaLink="false">Frippertron-1645421006--black midi---Welcome to Hell</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee43f45dc9ee7b7ff9cdaf98daa69cd.jpg" length="27097" type="image/jpeg"/>
+      <pubDate>Mon, 21 Feb 2022 00:23:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Ascending Forth (44 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Ascending+Forth</link>
+      <guid isPermaLink="false">Frippertron-1645421297--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ascending Forth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Mon, 21 Feb 2022 00:28:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
