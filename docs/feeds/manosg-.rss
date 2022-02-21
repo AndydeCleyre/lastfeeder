@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Feb 2022 09:19:30 +0000</lastBuildDate>
-    <item>
-      <title>Del McCoury - High on a Mountain (1 play)</title>
-      <link>https://www.last.fm/music/Del+McCoury/_/High+on+a+Mountain</link>
-      <guid isPermaLink="false">manosg--1645169446--e61892d0-4ad2-474a-a5fa-479dc28075ed---High on a Mountain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 18 Feb 2022 02:30:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Joe Satriani - Shapeshifting (1 play)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/Shapeshifting</link>
-      <guid isPermaLink="false">manosg--1645169642--29762c82-bb92-4acd-b1fb-09cc4da250d2---Shapeshifting</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff508386e35cbdb1c44661ed3953a834.jpg" length="13650" type="image/jpeg"/>
-      <pubDate>Fri, 18 Feb 2022 02:34:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Feb 2022 09:40:02 +0000</lastBuildDate>
     <item>
       <title>Joe Satriani - Big Distortion (3 plays)</title>
       <link>https://www.last.fm/music/Joe+Satriani/_/Big+Distortion</link>
@@ -114,7 +100,7 @@
       <pubDate>Fri, 18 Feb 2022 06:29:11 -0500</pubDate>
     </item>
     <item>
-      <title>Iced Earth - 1776 - Remixed &amp; Remastered (8 plays)</title>
+      <title>Iced Earth - 1776 - Remixed &amp; Remastered (9 plays)</title>
       <link>https://www.last.fm/music/Iced+Earth/_/1776+-+Remixed+&amp;+Remastered</link>
       <guid isPermaLink="false">manosg--1645184236--Iced Earth---1776 - Remixed &amp; Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49844a7d94d81bb61cd075042d458f51.jpg" length="33364" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1645434738--5dd705e6-f1a8-46da-90db-de68ee4a3d64---The Earth Is My Witness</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4da3dd721a64ac295847f6e8936f2be.png" length="180111" type="image/png"/>
       <pubDate>Mon, 21 Feb 2022 04:12:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Gathering - New Moon Different Day (5 plays)</title>
+      <link>https://www.last.fm/music/The+Gathering/_/New+Moon+Different+Day</link>
+      <guid isPermaLink="false">manosg--1645435069--5dd705e6-f1a8-46da-90db-de68ee4a3d64---New Moon Different Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4da3dd721a64ac295847f6e8936f2be.png" length="180111" type="image/png"/>
+      <pubDate>Mon, 21 Feb 2022 04:17:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iced Earth - 1776 - Remixed &amp; Remastered (9 plays)</title>
+      <link>https://www.last.fm/music/Iced+Earth/_/1776+-+Remixed+&amp;+Remastered</link>
+      <guid isPermaLink="false">manosg--1645435958--Iced Earth---1776 - Remixed &amp; Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49844a7d94d81bb61cd075042d458f51.jpg" length="33364" type="image/jpeg"/>
+      <pubDate>Mon, 21 Feb 2022 04:32:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
