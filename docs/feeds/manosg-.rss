@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Feb 2022 12:33:03 +0000</lastBuildDate>
-    <item>
-      <title>Joe Satriani - Cryin' (2 plays)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/Cryin%27</link>
-      <guid isPermaLink="false">manosg--1645341585--29762c82-bb92-4acd-b1fb-09cc4da250d2---Cryin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/886149f98c6d2f8c35045b65d96314ac.jpg" length="22888" type="image/jpeg"/>
-      <pubDate>Sun, 20 Feb 2022 02:19:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nirvana - About a Girl (7 plays)</title>
-      <link>https://www.last.fm/music/Nirvana/_/About+a+Girl</link>
-      <guid isPermaLink="false">manosg--1645350126--Nirvana---About a Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6cb91d2c3e554b028133947dfae73b43.png" length="107747" type="image/png"/>
-      <pubDate>Sun, 20 Feb 2022 04:42:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Feb 2022 13:04:00 +0000</lastBuildDate>
     <item>
       <title>Nirvana - Blew (2 plays)</title>
       <link>https://www.last.fm/music/Nirvana/_/Blew</link>
@@ -191,7 +177,7 @@
       <pubDate>Mon, 21 Feb 2022 04:35:59 -0500</pubDate>
     </item>
     <item>
-      <title>The Gathering - Third Chance (8 plays)</title>
+      <title>The Gathering - Third Chance</title>
       <link>https://www.last.fm/music/The+Gathering/_/Third+Chance</link>
       <guid isPermaLink="false">manosg--1645455381--5dd705e6-f1a8-46da-90db-de68ee4a3d64---Third Chance</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4da3dd721a64ac295847f6e8936f2be.png" length="180111" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1645531260--29762c82-bb92-4acd-b1fb-09cc4da250d2---Strange</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe0c8fba5575890077d3b36f326582e.jpg" length="16109" type="image/jpeg"/>
       <pubDate>Tue, 22 Feb 2022 07:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Joe Satriani - I Believe (1 play)</title>
+      <link>https://www.last.fm/music/Joe+Satriani/_/I+Believe</link>
+      <guid isPermaLink="false">manosg--1645531563--29762c82-bb92-4acd-b1fb-09cc4da250d2---I Believe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe0c8fba5575890077d3b36f326582e.jpg" length="16109" type="image/jpeg"/>
+      <pubDate>Tue, 22 Feb 2022 07:06:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Joe Satriani - One Big Rush (1 play)</title>
+      <link>https://www.last.fm/music/Joe+Satriani/_/One+Big+Rush</link>
+      <guid isPermaLink="false">manosg--1645534765--29762c82-bb92-4acd-b1fb-09cc4da250d2---One Big Rush</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe0c8fba5575890077d3b36f326582e.jpg" length="16109" type="image/jpeg"/>
+      <pubDate>Tue, 22 Feb 2022 07:59:25 -0500</pubDate>
     </item>
   </channel>
 </rss>
