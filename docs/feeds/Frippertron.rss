@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Feb 2022 08:41:57 +0000</lastBuildDate>
-    <item>
-      <title>Léo Ferré - Les albatros (13 plays)</title>
-      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/Les+albatros</link>
-      <guid isPermaLink="false">Frippertron-1645527654--15b1cbac-060a-4136-9e07-4622c52c0f60---Les albatros</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
-      <pubDate>Tue, 22 Feb 2022 06:00:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Wild Is the Wind (70 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Wild+Is+the+Wind</link>
-      <guid isPermaLink="false">Frippertron-1645587856--5441c29d-3602-4898-b1a1-b77fa23b8e50---Wild Is the Wind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
-      <pubDate>Tue, 22 Feb 2022 22:44:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Feb 2022 08:53:30 +0000</lastBuildDate>
     <item>
       <title>Justin Timberlake - FutureSex/LoveSound (6 plays)</title>
       <link>https://www.last.fm/music/Justin+Timberlake/_/FutureSex%2FLoveSound</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1645605378--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---953</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee43f45dc9ee7b7ff9cdaf98daa69cd.jpg" length="27097" type="image/jpeg"/>
       <pubDate>Wed, 23 Feb 2022 03:36:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Dethroned (39 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Dethroned</link>
+      <guid isPermaLink="false">Frippertron-1645605683--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Dethroned</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee43f45dc9ee7b7ff9cdaf98daa69cd.jpg" length="27097" type="image/jpeg"/>
+      <pubDate>Wed, 23 Feb 2022 03:41:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Sugar/Tzu (10 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Sugar%2FTzu</link>
+      <guid isPermaLink="false">Frippertron-1645606035--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Sugar/Tzu</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee43f45dc9ee7b7ff9cdaf98daa69cd.jpg" length="27097" type="image/jpeg"/>
+      <pubDate>Wed, 23 Feb 2022 03:47:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
