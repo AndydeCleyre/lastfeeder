@@ -8,9 +8,9 @@ click==8.0.4
     # via black
 docutils==0.18.1
     # via flit
-flit==3.6.0
+flit==3.7.0
     # via -r dev-requirements.in
-flit-core==3.6.0
+flit-core==3.7.0
     # via flit
 idna==3.3
     # via requests
