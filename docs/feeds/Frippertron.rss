@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Feb 2022 11:16:56 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Soul Love (82 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Soul+Love</link>
-      <guid isPermaLink="false">Frippertron-1645505427--5441c29d-3602-4898-b1a1-b77fa23b8e50---Soul Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Mon, 21 Feb 2022 23:50:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pet Shop Boys - My October Symphony (55 plays)</title>
-      <link>https://www.last.fm/music/Pet+Shop+Boys/_/My+October+Symphony</link>
-      <guid isPermaLink="false">Frippertron-1645505597--be540c02-7898-4b79-9acc-c8122c7d9e83---My October Symphony</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99988f9b3fdd7a0dd973f2ad6f10baff.png" length="37936" type="image/png"/>
-      <pubDate>Mon, 21 Feb 2022 23:53:17 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Feb 2022 03:52:34 +0000</lastBuildDate>
     <item>
       <title>Pet Shop Boys - So Hard (21 plays)</title>
       <link>https://www.last.fm/music/Pet+Shop+Boys/_/So+Hard</link>
@@ -40,7 +26,6 @@
       <title>Gino Vannelli - Prelude To The War (19 plays)</title>
       <link>https://www.last.fm/music/Gino+Vannelli/_/Prelude+To+The+War</link>
       <guid isPermaLink="false">Frippertron-1645507369--747e5054-f50b-498c-bff3-85f7313aeb80---Prelude To The War</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/13a85a9561f79e1d78748e3dec633521.jpg" length="15438" type="image/jpeg"/>
       <pubDate>Tue, 22 Feb 2022 00:22:49 -0500</pubDate>
     </item>
     <item>
@@ -170,7 +155,7 @@
       <pubDate>Tue, 22 Feb 2022 03:09:21 -0500</pubDate>
     </item>
     <item>
-      <title>David Bowie - Wild Is the Wind (69 plays)</title>
+      <title>David Bowie - Wild Is the Wind (70 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Wild+Is+the+Wind</link>
       <guid isPermaLink="false">Frippertron-1645517739--5441c29d-3602-4898-b1a1-b77fa23b8e50---Wild Is the Wind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1645527654--15b1cbac-060a-4136-9e07-4622c52c0f60---Les albatros</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
       <pubDate>Tue, 22 Feb 2022 06:00:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Wild Is the Wind (70 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Wild+Is+the+Wind</link>
+      <guid isPermaLink="false">Frippertron-1645587856--5441c29d-3602-4898-b1a1-b77fa23b8e50---Wild Is the Wind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
+      <pubDate>Tue, 22 Feb 2022 22:44:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Justin Timberlake - FutureSex/LoveSound (6 plays)</title>
+      <link>https://www.last.fm/music/Justin+Timberlake/_/FutureSex%2FLoveSound</link>
+      <guid isPermaLink="false">Frippertron-1645588222--596ffa74-3d08-44ef-b113-765d43d12738---FutureSex/LoveSound</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a4c913910cd9c3a7a4bd931a3c16591.png" length="108428" type="image/png"/>
+      <pubDate>Tue, 22 Feb 2022 22:50:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
