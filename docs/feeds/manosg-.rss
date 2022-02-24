@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Feb 2022 08:41:59 +0000</lastBuildDate>
-    <item>
-      <title>Joe Satriani - Look My Way (1 play)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/Look+My+Way</link>
-      <guid isPermaLink="false">manosg--1645518639--29762c82-bb92-4acd-b1fb-09cc4da250d2---Look My Way</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f8de90fd3e1be5f3a854757a47e34c8.jpg" length="14514" type="image/jpeg"/>
-      <pubDate>Tue, 22 Feb 2022 03:30:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Joe Satriani - Home (1 play)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/Home</link>
-      <guid isPermaLink="false">manosg--1645518883--29762c82-bb92-4acd-b1fb-09cc4da250d2---Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f8de90fd3e1be5f3a854757a47e34c8.jpg" length="14514" type="image/jpeg"/>
-      <pubDate>Tue, 22 Feb 2022 03:34:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Feb 2022 08:53:58 +0000</lastBuildDate>
     <item>
       <title>Joe Satriani - Moroccan Sunset (1 play)</title>
       <link>https://www.last.fm/music/Joe+Satriani/_/Moroccan+Sunset</link>
@@ -72,7 +58,7 @@
       <pubDate>Tue, 22 Feb 2022 06:43:50 -0500</pubDate>
     </item>
     <item>
-      <title>Joe Satriani - The Mystical Potato Head Groove Thing (1 play)</title>
+      <title>Joe Satriani - The Mystical Potato Head Groove Thing (2 plays)</title>
       <link>https://www.last.fm/music/Joe+Satriani/_/The+Mystical+Potato+Head+Groove+Thing</link>
       <guid isPermaLink="false">manosg--1645530568--29762c82-bb92-4acd-b1fb-09cc4da250d2---The Mystical Potato Head Groove Thing</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe0c8fba5575890077d3b36f326582e.jpg" length="16109" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1645691738--29762c82-bb92-4acd-b1fb-09cc4da250d2---Flying in a Blue Dream</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe0c8fba5575890077d3b36f326582e.jpg" length="16109" type="image/jpeg"/>
       <pubDate>Thu, 24 Feb 2022 03:35:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Joe Satriani - The Mystical Potato Head Groove Thing (2 plays)</title>
+      <link>https://www.last.fm/music/Joe+Satriani/_/The+Mystical+Potato+Head+Groove+Thing</link>
+      <guid isPermaLink="false">manosg--1645692085--29762c82-bb92-4acd-b1fb-09cc4da250d2---The Mystical Potato Head Groove Thing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe0c8fba5575890077d3b36f326582e.jpg" length="16109" type="image/jpeg"/>
+      <pubDate>Thu, 24 Feb 2022 03:41:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Gathering - Strange Machines (12 plays)</title>
+      <link>https://www.last.fm/music/The+Gathering/_/Strange+Machines</link>
+      <guid isPermaLink="false">manosg--1645692367--5dd705e6-f1a8-46da-90db-de68ee4a3d64---Strange Machines</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6a1ab9a0dbe43ecbf768d8ce8ce5122.jpg" length="27504" type="image/jpeg"/>
+      <pubDate>Thu, 24 Feb 2022 03:46:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
