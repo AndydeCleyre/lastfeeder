@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Feb 2022 18:56:44 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - Closure (5 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Closure</link>
-      <guid isPermaLink="false">lintmunro-1644439882--c14b4180-dc87-481e-b17a-64e4150f90f6---Closure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Wed, 09 Feb 2022 15:51:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Feb 2022 19:17:24 +0000</lastBuildDate>
     <item>
       <title>Opeth - Hope Leaves (6 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Hope+Leaves</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1645572647--Dissidente---Amputee</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/538540b145ac2caf35f2f1f6f5097fbe.jpg" length="33067" type="image/jpeg"/>
       <pubDate>Tue, 22 Feb 2022 18:30:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Khruangbin - Mariella (1 play)</title>
+      <link>https://www.last.fm/music/Khruangbin/_/Mariella</link>
+      <guid isPermaLink="false">lintmunro-1645728846--Khruangbin---Mariella</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1abd41b69b5f00d7030c97ef5d2803fb.jpg" length="23091" type="image/jpeg"/>
+      <pubDate>Thu, 24 Feb 2022 13:54:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
