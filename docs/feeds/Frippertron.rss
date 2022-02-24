@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Feb 2022 23:20:08 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Five Years (143 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Five+Years</link>
-      <guid isPermaLink="false">Frippertron-1645606795--5441c29d-3602-4898-b1a1-b77fa23b8e50---Five Years</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Wed, 23 Feb 2022 03:59:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - White Light/White Heat (40 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/White+Light%2FWhite+Heat</link>
-      <guid isPermaLink="false">Frippertron-1645607061--5441c29d-3602-4898-b1a1-b77fa23b8e50---White Light/White Heat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Wed, 23 Feb 2022 04:04:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Feb 2022 23:39:54 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Moonage Daydream (204 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Moonage+Daydream</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1645744608--94caba44-ecbb-4b63-b044-612458329baf---My Torso Is A Shotgun</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3b7578fdbc0681fbb3eb4df9b2096b4.jpg" length="20643" type="image/jpeg"/>
       <pubDate>Thu, 24 Feb 2022 18:16:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sly &amp; The Family Drone - Tsukiji (1 play)</title>
+      <link>https://www.last.fm/music/Sly+&amp;+The+Family+Drone/_/Tsukiji</link>
+      <guid isPermaLink="false">Frippertron-1645744741--94caba44-ecbb-4b63-b044-612458329baf---Tsukiji</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3b7578fdbc0681fbb3eb4df9b2096b4.jpg" length="20643" type="image/jpeg"/>
+      <pubDate>Thu, 24 Feb 2022 18:19:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Аквариум - Музыка серебряных спиц (2 plays)</title>
+      <link>https://www.last.fm/music/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC/_/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0+%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D1%85+%D1%81%D0%BF%D0%B8%D1%86</link>
+      <guid isPermaLink="false">Frippertron-1645745638--8d741103-d319-4cc8-9f4f-9926b5bf112a---Музыка серебряных спиц</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9aef18d025374f069b2f815a432a1ee1.png" length="142627" type="image/png"/>
+      <pubDate>Thu, 24 Feb 2022 18:33:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
