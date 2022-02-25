@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Feb 2022 18:45:12 +0000</lastBuildDate>
-    <item>
-      <title>Caroline - IWR (2 plays)</title>
-      <link>https://www.last.fm/music/Caroline/_/IWR</link>
-      <guid isPermaLink="false">Frippertron-1645798451--Caroline---IWR</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101d26194a33557f8c529fe6d26457e9.jpg" length="20526" type="image/jpeg"/>
-      <pubDate>Fri, 25 Feb 2022 09:14:11 -0500</pubDate>
-    </item>
-    <item>
-      <title>Caroline - messen #7 (2 plays)</title>
-      <link>https://www.last.fm/music/Caroline/_/messen+%237</link>
-      <guid isPermaLink="false">Frippertron-1645798843--Caroline---messen #7</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101d26194a33557f8c529fe6d26457e9.jpg" length="20526" type="image/jpeg"/>
-      <pubDate>Fri, 25 Feb 2022 09:20:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Caroline - Engine (eavesdropping) (2 plays)</title>
-      <link>https://www.last.fm/music/Caroline/_/Engine+(eavesdropping)</link>
-      <guid isPermaLink="false">Frippertron-1645798940--Caroline---Engine (eavesdropping)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101d26194a33557f8c529fe6d26457e9.jpg" length="20526" type="image/jpeg"/>
-      <pubDate>Fri, 25 Feb 2022 09:22:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Feb 2022 18:57:11 +0000</lastBuildDate>
     <item>
       <title>Caroline - hurtle (2 plays)</title>
       <link>https://www.last.fm/music/Caroline/_/hurtle</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1645814330--Jacques Brel---Le Tango Funèbre</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/37048a99a81241b8c1f590bcd8063435.png" length="154771" type="image/png"/>
       <pubDate>Fri, 25 Feb 2022 13:38:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jacques Brel - Ne me quitte pas (16 plays)</title>
+      <link>https://www.last.fm/music/Jacques+Brel/_/Ne+me+quitte+pas</link>
+      <guid isPermaLink="false">Frippertron-1645814535--91eda19b-1437-42cd-b7af-69df24b7f275---Ne me quitte pas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/371f2983bb1027faeca87534f1471283.jpg" length="17845" type="image/jpeg"/>
+      <pubDate>Fri, 25 Feb 2022 13:42:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jacques Brel - Au Suivant (9 plays)</title>
+      <link>https://www.last.fm/music/Jacques+Brel/_/Au+Suivant</link>
+      <guid isPermaLink="false">Frippertron-1645814803--91eda19b-1437-42cd-b7af-69df24b7f275---Au Suivant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e5229e0a5ef472ec77ba31877e5c344.png" length="154044" type="image/png"/>
+      <pubDate>Fri, 25 Feb 2022 13:46:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jacques Brel - Ces Gens-Là (13 plays)</title>
+      <link>https://www.last.fm/music/Jacques+Brel/_/Ces+Gens-L%C3%A0</link>
+      <guid isPermaLink="false">Frippertron-1645814989--91eda19b-1437-42cd-b7af-69df24b7f275---Ces Gens-Là</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/37048a99a81241b8c1f590bcd8063435.png" length="154771" type="image/png"/>
+      <pubDate>Fri, 25 Feb 2022 13:49:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
