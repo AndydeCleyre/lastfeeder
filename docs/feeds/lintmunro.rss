@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Feb 2022 21:52:35 +0000</lastBuildDate>
-    <item>
-      <title>Ahleuchatistas - The Machines Became Cognizant (2 plays)</title>
-      <link>https://www.last.fm/music/Ahleuchatistas/_/The+Machines+Became+Cognizant</link>
-      <guid isPermaLink="false">lintmunro-1645059301--5ebbd412-a261-4c93-8072-055a7bbeb4be---The Machines Became Cognizant</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d3f70e2f4b4eccb24d446ec6c8bfcd1.jpg" length="39946" type="image/jpeg"/>
-      <pubDate>Wed, 16 Feb 2022 19:55:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>Dissidente - 45 (1 play)</title>
-      <link>https://www.last.fm/music/Dissidente/_/45</link>
-      <guid isPermaLink="false">lintmunro-1645378487--Dissidente---45</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/538540b145ac2caf35f2f1f6f5097fbe.jpg" length="33067" type="image/jpeg"/>
-      <pubDate>Sun, 20 Feb 2022 12:34:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Dissidente - Labor Day (1 play)</title>
-      <link>https://www.last.fm/music/Dissidente/_/Labor+Day</link>
-      <guid isPermaLink="false">lintmunro-1645378666--Dissidente---Labor Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/538540b145ac2caf35f2f1f6f5097fbe.jpg" length="33067" type="image/jpeg"/>
-      <pubDate>Sun, 20 Feb 2022 12:37:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Feb 2022 22:19:44 +0000</lastBuildDate>
     <item>
       <title>Dissidente - Colossus (1 play)</title>
       <link>https://www.last.fm/music/Dissidente/_/Colossus</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">lintmunro-1645824994--Bâ'a---Urbi et Orbi Clamant</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 25 Feb 2022 16:36:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Allegaeon - Bastards of the Earth (2 plays)</title>
+      <link>https://www.last.fm/music/Allegaeon/_/Bastards+of+the+Earth</link>
+      <guid isPermaLink="false">lintmunro-1645826514--1d71cfe3-f105-4dd5-bdfe-61f6fde2cac7---Bastards of the Earth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f4e9a5aaaf140c7d77ddb2d3ba81a30.jpg" length="31469" type="image/jpeg"/>
+      <pubDate>Fri, 25 Feb 2022 17:01:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Allegaeon - In Mourning (1 play)</title>
+      <link>https://www.last.fm/music/Allegaeon/_/In+Mourning</link>
+      <guid isPermaLink="false">lintmunro-1645826784--1d71cfe3-f105-4dd5-bdfe-61f6fde2cac7---In Mourning</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f4e9a5aaaf140c7d77ddb2d3ba81a30.jpg" length="31469" type="image/jpeg"/>
+      <pubDate>Fri, 25 Feb 2022 17:06:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Allegaeon - Bastards of the Earth (2 plays)</title>
+      <link>https://www.last.fm/music/Allegaeon/_/Bastards+of+the+Earth</link>
+      <guid isPermaLink="false">lintmunro-1645826913--1d71cfe3-f105-4dd5-bdfe-61f6fde2cac7---Bastards of the Earth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f4e9a5aaaf140c7d77ddb2d3ba81a30.jpg" length="31469" type="image/jpeg"/>
+      <pubDate>Fri, 25 Feb 2022 17:08:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
