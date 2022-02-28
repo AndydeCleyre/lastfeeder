@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Feb 2022 10:53:50 +0000</lastBuildDate>
-    <item>
-      <title>Joy Division - Digital (14 plays)</title>
-      <link>https://www.last.fm/music/Joy+Division/_/Digital</link>
-      <guid isPermaLink="false">Frippertron-1646026531--9a58fda3-f4ed-4080-a3a5-f457aac9fcdd---Digital</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11399365f6a34af9ca32d84ec763f338.png" length="17809" type="image/png"/>
-      <pubDate>Mon, 28 Feb 2022 00:35:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>Joy Division - Transmission (35 plays)</title>
-      <link>https://www.last.fm/music/Joy+Division/_/Transmission</link>
-      <guid isPermaLink="false">Frippertron-1646026704--9a58fda3-f4ed-4080-a3a5-f457aac9fcdd---Transmission</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11399365f6a34af9ca32d84ec763f338.png" length="17809" type="image/png"/>
-      <pubDate>Mon, 28 Feb 2022 00:38:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Feb 2022 11:16:48 +0000</lastBuildDate>
     <item>
       <title>Joy Division - Dead Souls (27 plays)</title>
       <link>https://www.last.fm/music/Joy+Division/_/Dead+Souls</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1646045385--David Bowie---John, I’m Only Dancing</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9e5499729a14166c16809c0b4010649.png" length="140688" type="image/png"/>
       <pubDate>Mon, 28 Feb 2022 05:49:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - The Jean Genie (100 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/The+Jean+Genie</link>
+      <guid isPermaLink="false">Frippertron-1646045589--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Jean Genie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9e5499729a14166c16809c0b4010649.png" length="140688" type="image/png"/>
+      <pubDate>Mon, 28 Feb 2022 05:53:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Rock 'n' Roll Suicide (102 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Rock+%27n%27+Roll+Suicide</link>
+      <guid isPermaLink="false">Frippertron-1646045857--5441c29d-3602-4898-b1a1-b77fa23b8e50---Rock 'n' Roll Suicide</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9e5499729a14166c16809c0b4010649.png" length="140688" type="image/png"/>
+      <pubDate>Mon, 28 Feb 2022 05:57:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
