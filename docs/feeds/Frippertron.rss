@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Mar 2022 08:48:40 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Doctor Wu (39 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Doctor+Wu</link>
-      <guid isPermaLink="false">Frippertron-1646193345--e01c3376-15fa-40d7-b747-5f219bdefdd7---Doctor Wu</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f60bc2ff234885c830fe07a94f5457.jpg" length="13950" type="image/jpeg"/>
-      <pubDate>Tue, 01 Mar 2022 22:55:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Mar 2022 09:00:49 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Deacon Blues (52 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Deacon+Blues</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1646210398--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Arrow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae41db286dd54d5d888b748d24422d7b.jpg" length="11408" type="image/jpeg"/>
       <pubDate>Wed, 02 Mar 2022 03:39:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Lemmings (26 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Lemmings</link>
+      <guid isPermaLink="false">Frippertron-1646211011--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
+      <pubDate>Wed, 02 Mar 2022 03:50:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
