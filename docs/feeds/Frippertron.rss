@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Mar 2022 09:00:49 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Deacon Blues (52 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Deacon+Blues</link>
-      <guid isPermaLink="false">Frippertron-1646193589--e01c3376-15fa-40d7-b747-5f219bdefdd7---Deacon Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Tue, 01 Mar 2022 22:59:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Mar 2022 09:23:51 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Haitian Divorce (6 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Haitian+Divorce</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1646211011--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
       <pubDate>Wed, 02 Mar 2022 03:50:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Man Erg (5 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Man+Erg</link>
+      <guid isPermaLink="false">Frippertron-1646211708--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Man Erg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
+      <pubDate>Wed, 02 Mar 2022 04:01:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
