@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Mar 2022 08:29:13 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Bad Sneakers (9 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Bad+Sneakers</link>
-      <guid isPermaLink="false">Frippertron-1646192961--e01c3376-15fa-40d7-b747-5f219bdefdd7---Bad Sneakers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f60bc2ff234885c830fe07a94f5457.jpg" length="13950" type="image/jpeg"/>
-      <pubDate>Tue, 01 Mar 2022 22:49:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Rose Darling (5 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Rose+Darling</link>
-      <guid isPermaLink="false">Frippertron-1646193162--e01c3376-15fa-40d7-b747-5f219bdefdd7---Rose Darling</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f60bc2ff234885c830fe07a94f5457.jpg" length="13950" type="image/jpeg"/>
-      <pubDate>Tue, 01 Mar 2022 22:52:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Mar 2022 08:48:40 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Doctor Wu (39 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Doctor+Wu</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1646209568--Swans Way---Soul Train</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47a9ee59b8d24813b2a0bd40a95cd31d.jpg" length="23852" type="image/jpeg"/>
       <pubDate>Wed, 02 Mar 2022 03:26:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Scorched Earth (32 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Scorched+Earth</link>
+      <guid isPermaLink="false">Frippertron-1646209816--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Scorched Earth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae41db286dd54d5d888b748d24422d7b.jpg" length="11408" type="image/jpeg"/>
+      <pubDate>Wed, 02 Mar 2022 03:30:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Arrow (59 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Arrow</link>
+      <guid isPermaLink="false">Frippertron-1646210398--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Arrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae41db286dd54d5d888b748d24422d7b.jpg" length="11408" type="image/jpeg"/>
+      <pubDate>Wed, 02 Mar 2022 03:39:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
