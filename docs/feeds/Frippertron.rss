@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Mar 2022 09:44:42 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Teenage Wildlife (179 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Teenage+Wildlife</link>
-      <guid isPermaLink="false">Frippertron-1646217982--5441c29d-3602-4898-b1a1-b77fa23b8e50---Teenage Wildlife</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
-      <pubDate>Wed, 02 Mar 2022 05:46:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Mar 2022 09:56:30 +0000</lastBuildDate>
     <item>
       <title>Beach House - Days of Candy (39 plays)</title>
       <link>https://www.last.fm/music/Beach+House/_/Days+of+Candy</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1646300081--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 03 Mar 2022 04:34:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Killer (29 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Killer</link>
+      <guid isPermaLink="false">Frippertron-1646300918--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Killer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 03 Mar 2022 04:48:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
