@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Mar 2022 18:45:04 +0000</lastBuildDate>
-    <item>
-      <title>Vidro - Stockholm ekar (1 play)</title>
-      <link>https://www.last.fm/music/Vidro/_/Stockholm+ekar</link>
-      <guid isPermaLink="false">lintmunro-1645824698--Vidro---Stockholm ekar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 25 Feb 2022 16:31:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Bâ'a - Urbi et Orbi Clamant (1 play)</title>
-      <link>https://www.last.fm/music/B%C3%A2%27a/_/Urbi+et+Orbi+Clamant</link>
-      <guid isPermaLink="false">lintmunro-1645824994--Bâ'a---Urbi et Orbi Clamant</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 25 Feb 2022 16:36:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Mar 2022 18:56:57 +0000</lastBuildDate>
     <item>
       <title>Allegaeon - Bastards of the Earth (2 plays)</title>
       <link>https://www.last.fm/music/Allegaeon/_/Bastards+of+the+Earth</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1646419118--c8c2f008-2621-4fa9-b14a-ecc6ae7b5e64---Hawks Don't Share</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffe1c226d482e2a9f4b76c1f955f1816.jpg" length="31960" type="image/jpeg"/>
       <pubDate>Fri, 04 Mar 2022 13:38:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Carson McHone - Still Life (1 play)</title>
+      <link>https://www.last.fm/music/Carson+McHone/_/Still+Life</link>
+      <guid isPermaLink="false">lintmunro-1646419325--c8c2f008-2621-4fa9-b14a-ecc6ae7b5e64---Still Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffe1c226d482e2a9f4b76c1f955f1816.jpg" length="31960" type="image/jpeg"/>
+      <pubDate>Fri, 04 Mar 2022 13:42:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Carson McHone - Fingernail Moon (1 play)</title>
+      <link>https://www.last.fm/music/Carson+McHone/_/Fingernail+Moon</link>
+      <guid isPermaLink="false">lintmunro-1646419637--c8c2f008-2621-4fa9-b14a-ecc6ae7b5e64---Fingernail Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffe1c226d482e2a9f4b76c1f955f1816.jpg" length="31960" type="image/jpeg"/>
+      <pubDate>Fri, 04 Mar 2022 13:47:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
