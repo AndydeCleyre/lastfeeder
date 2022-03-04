@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Mar 2022 19:38:03 +0000</lastBuildDate>
-    <item>
-      <title>Rolo Tomassi - Cloaked (2 plays)</title>
-      <link>https://www.last.fm/music/Rolo+Tomassi/_/Cloaked</link>
-      <guid isPermaLink="false">lintmunro-1646088790--afaac371-0244-441c-b68d-794c98df6264---Cloaked</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6edb1ba068bc8f58d2c6505197dc89c3.jpg" length="35778" type="image/jpeg"/>
-      <pubDate>Mon, 28 Feb 2022 17:53:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rolo Tomassi - Mutual Ruin (2 plays)</title>
-      <link>https://www.last.fm/music/Rolo+Tomassi/_/Mutual+Ruin</link>
-      <guid isPermaLink="false">lintmunro-1646089178--afaac371-0244-441c-b68d-794c98df6264---Mutual Ruin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6edb1ba068bc8f58d2c6505197dc89c3.jpg" length="35778" type="image/jpeg"/>
-      <pubDate>Mon, 28 Feb 2022 17:59:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rolo Tomassi - Labyrinthine (2 plays)</title>
-      <link>https://www.last.fm/music/Rolo+Tomassi/_/Labyrinthine</link>
-      <guid isPermaLink="false">lintmunro-1646089203--afaac371-0244-441c-b68d-794c98df6264---Labyrinthine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6edb1ba068bc8f58d2c6505197dc89c3.jpg" length="35778" type="image/jpeg"/>
-      <pubDate>Mon, 28 Feb 2022 18:00:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rolo Tomassi - Labyrinthine (2 plays)</title>
-      <link>https://www.last.fm/music/Rolo+Tomassi/_/Labyrinthine</link>
-      <guid isPermaLink="false">lintmunro-1646255478--afaac371-0244-441c-b68d-794c98df6264---Labyrinthine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6edb1ba068bc8f58d2c6505197dc89c3.jpg" length="35778" type="image/jpeg"/>
-      <pubDate>Wed, 02 Mar 2022 16:11:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Mar 2022 19:52:33 +0000</lastBuildDate>
     <item>
       <title>Rolo Tomassi - Closer (1 play)</title>
       <link>https://www.last.fm/music/Rolo+Tomassi/_/Closer</link>
@@ -100,7 +72,7 @@
       <pubDate>Fri, 04 Mar 2022 12:03:17 -0500</pubDate>
     </item>
     <item>
-      <title>Nilüfer Yanya - Trouble (1 play)</title>
+      <title>Nilüfer Yanya - Trouble</title>
       <link>https://www.last.fm/music/Nil%C3%BCfer+Yanya/_/Trouble</link>
       <guid isPermaLink="false">lintmunro-1646413679--Nilüfer Yanya---Trouble</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47eda98f52553c82c4dde3d833a3cde4.png" length="207146" type="image/png"/>
@@ -114,7 +86,7 @@
       <pubDate>Fri, 04 Mar 2022 12:13:03 -0500</pubDate>
     </item>
     <item>
-      <title>Nilüfer Yanya - Company (1 play)</title>
+      <title>Nilüfer Yanya - Company</title>
       <link>https://www.last.fm/music/Nil%C3%BCfer+Yanya/_/Company</link>
       <guid isPermaLink="false">lintmunro-1646414234--Nilüfer Yanya---Company</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47eda98f52553c82c4dde3d833a3cde4.png" length="207146" type="image/png"/>
@@ -352,11 +324,39 @@
       <pubDate>Fri, 04 Mar 2022 14:26:50 -0500</pubDate>
     </item>
     <item>
-      <title>Tears for Fears - End of Night (1 play)</title>
+      <title>Tears for Fears - End of Night</title>
       <link>https://www.last.fm/music/Tears+for+Fears/_/End+of+Night</link>
       <guid isPermaLink="false">lintmunro-1646422288--7c7f9c94-dee8-4903-892b-6cf44652e2de---End of Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89ce6617a6d9d1a25361b116fd493b83.jpg" length="20055" type="image/jpeg"/>
       <pubDate>Fri, 04 Mar 2022 14:31:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tears for Fears - Stay (1 play)</title>
+      <link>https://www.last.fm/music/Tears+for+Fears/_/Stay</link>
+      <guid isPermaLink="false">lintmunro-1646422491--7c7f9c94-dee8-4903-892b-6cf44652e2de---Stay</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89ce6617a6d9d1a25361b116fd493b83.jpg" length="20055" type="image/jpeg"/>
+      <pubDate>Fri, 04 Mar 2022 14:34:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swami John Reis - Ride the Wild Night (1 play)</title>
+      <link>https://www.last.fm/music/Swami+John+Reis/_/Ride+the+Wild+Night</link>
+      <guid isPermaLink="false">lintmunro-1646422955--626e7b64-3035-4f58-92a6-49790f600e30---Ride the Wild Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dbc05dd7079ad235153fae1f34889d5.png" length="105687" type="image/png"/>
+      <pubDate>Fri, 04 Mar 2022 14:42:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swami John Reis - I Ain't Your Pawn (1 play)</title>
+      <link>https://www.last.fm/music/Swami+John+Reis/_/I+Ain%27t+Your+Pawn</link>
+      <guid isPermaLink="false">lintmunro-1646423112--Swami John Reis---I Ain't Your Pawn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dbc05dd7079ad235153fae1f34889d5.png" length="105687" type="image/png"/>
+      <pubDate>Fri, 04 Mar 2022 14:45:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swami John Reis - Do You Still Wanna Make out? (1 play)</title>
+      <link>https://www.last.fm/music/Swami+John+Reis/_/Do+You+Still+Wanna+Make+out%3F</link>
+      <guid isPermaLink="false">lintmunro-1646423253--Swami John Reis---Do You Still Wanna Make out?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dbc05dd7079ad235153fae1f34889d5.png" length="105687" type="image/png"/>
+      <pubDate>Fri, 04 Mar 2022 14:47:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
