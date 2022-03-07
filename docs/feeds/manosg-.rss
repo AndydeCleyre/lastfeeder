@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Mar 2022 17:52:29 +0000</lastBuildDate>
-    <item>
-      <title>Nirvana - The Man Who Sold the World (5 plays)</title>
-      <link>https://www.last.fm/music/Nirvana/_/The+Man+Who+Sold+the+World</link>
-      <guid isPermaLink="false">manosg--1646377421--Nirvana---The Man Who Sold the World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4304de63b44d6ca8f9d3df2576ac8f.png" length="152296" type="image/png"/>
-      <pubDate>Fri, 04 Mar 2022 02:03:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Mar 2022 18:23:48 +0000</lastBuildDate>
     <item>
       <title>Nirvana - Pennyroyal Tea (5 plays)</title>
       <link>https://www.last.fm/music/Nirvana/_/Pennyroyal+Tea</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1646675238--Iron Maiden---The Clairvoyant - 2015 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/befa8b59f0651e70ef9a856a35f96004.jpg" length="23695" type="image/jpeg"/>
       <pubDate>Mon, 07 Mar 2022 12:47:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Only the Good Die Young - 2015 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Only+the+Good+Die+Young+-+2015+Remaster</link>
+      <guid isPermaLink="false">manosg--1646675518--Iron Maiden---Only the Good Die Young - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/befa8b59f0651e70ef9a856a35f96004.jpg" length="23695" type="image/jpeg"/>
+      <pubDate>Mon, 07 Mar 2022 12:51:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
