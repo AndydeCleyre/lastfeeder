@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Mar 2022 16:59:16 +0000</lastBuildDate>
-    <item>
-      <title>Nirvana - About a Girl (8 plays)</title>
-      <link>https://www.last.fm/music/Nirvana/_/About+a+Girl</link>
-      <guid isPermaLink="false">manosg--1646376671--Nirvana---About a Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4304de63b44d6ca8f9d3df2576ac8f.png" length="152296" type="image/png"/>
-      <pubDate>Fri, 04 Mar 2022 01:51:11 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Mar 2022 17:41:23 +0000</lastBuildDate>
     <item>
       <title>Nirvana - Come as You Are (7 plays)</title>
       <link>https://www.last.fm/music/Nirvana/_/Come+as+You+Are</link>
@@ -44,7 +37,7 @@
       <pubDate>Fri, 04 Mar 2022 02:08:03 -0500</pubDate>
     </item>
     <item>
-      <title>Nirvana - Dumb</title>
+      <title>Nirvana - Dumb (6 plays)</title>
       <link>https://www.last.fm/music/Nirvana/_/Dumb</link>
       <guid isPermaLink="false">manosg--1646377903--Nirvana---Dumb</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4304de63b44d6ca8f9d3df2576ac8f.png" length="152296" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1646670471--Iron Maiden---The Evil That Men Do - 2015 remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/befa8b59f0651e70ef9a856a35f96004.jpg" length="23695" type="image/jpeg"/>
       <pubDate>Mon, 07 Mar 2022 11:27:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Seventh Son of a Seventh Son - 2015 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Seventh+Son+of+a+Seventh+Son+-+2015+Remaster</link>
+      <guid isPermaLink="false">manosg--1646670753--Iron Maiden---Seventh Son of a Seventh Son - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/befa8b59f0651e70ef9a856a35f96004.jpg" length="23695" type="image/jpeg"/>
+      <pubDate>Mon, 07 Mar 2022 11:32:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
