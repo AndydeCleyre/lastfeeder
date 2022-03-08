@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Mar 2022 16:30:30 +0000</lastBuildDate>
-    <item>
-      <title>Nirvana - Something in the Way (3 plays)</title>
-      <link>https://www.last.fm/music/Nirvana/_/Something+in+the+Way</link>
-      <guid isPermaLink="false">manosg--1646408444--Nirvana---Something in the Way</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4304de63b44d6ca8f9d3df2576ac8f.png" length="152296" type="image/png"/>
-      <pubDate>Fri, 04 Mar 2022 10:40:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Darkthrone - I Muffle Your Inner Choir (2 plays)</title>
-      <link>https://www.last.fm/music/Darkthrone/_/I+Muffle+Your+Inner+Choir</link>
-      <guid isPermaLink="false">manosg--1646409081--af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0---I Muffle Your Inner Choir</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d086e0ac31c0cc05ebdf0515dbea7421.png" length="249345" type="image/png"/>
-      <pubDate>Fri, 04 Mar 2022 10:51:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Mar 2022 16:58:01 +0000</lastBuildDate>
     <item>
       <title>Darkthrone - The Hardship of the Scots (1 play)</title>
       <link>https://www.last.fm/music/Darkthrone/_/The+Hardship+of+the+Scots</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1646756251--Paradise Lost---Forever Failure - Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0aa34d3612f84fea8ecdbb2891db0857.jpg" length="29422" type="image/jpeg"/>
       <pubDate>Tue, 08 Mar 2022 11:17:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Paradise Lost - Once Solemn - Remastered (1 play)</title>
+      <link>https://www.last.fm/music/Paradise+Lost/_/Once+Solemn+-+Remastered</link>
+      <guid isPermaLink="false">manosg--1646756510--Paradise Lost---Once Solemn - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0aa34d3612f84fea8ecdbb2891db0857.jpg" length="29422" type="image/jpeg"/>
+      <pubDate>Tue, 08 Mar 2022 11:21:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Paradise Lost - Shadowkings - Remastered (1 play)</title>
+      <link>https://www.last.fm/music/Paradise+Lost/_/Shadowkings+-+Remastered</link>
+      <guid isPermaLink="false">manosg--1646757189--Paradise Lost---Shadowkings - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0aa34d3612f84fea8ecdbb2891db0857.jpg" length="29422" type="image/jpeg"/>
+      <pubDate>Tue, 08 Mar 2022 11:33:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
