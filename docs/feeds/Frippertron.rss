@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Mar 2022 08:42:36 +0000</lastBuildDate>
-    <item>
-      <title>Van der Graaf Generator - Ship of Fools (14 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Ship+of+Fools</link>
-      <guid isPermaLink="false">Frippertron-1646736393--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Ship of Fools</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
-      <pubDate>Tue, 08 Mar 2022 05:46:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Van der Graaf Generator - Still Life (17 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Still+Life</link>
-      <guid isPermaLink="false">Frippertron-1646736798--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
-      <pubDate>Tue, 08 Mar 2022 05:53:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Mar 2022 08:54:40 +0000</lastBuildDate>
     <item>
       <title>black midi - Years Ago (8 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Years+Ago</link>
@@ -268,7 +254,7 @@
       <pubDate>Wed, 09 Mar 2022 01:33:23 -0500</pubDate>
     </item>
     <item>
-      <title>David Sylvian - The Heart Knows Better (79 plays)</title>
+      <title>David Sylvian - The Heart Knows Better</title>
       <link>https://www.last.fm/music/David+Sylvian/_/The+Heart+Knows+Better</link>
       <guid isPermaLink="false">Frippertron-1646807933--719db6b1-0d91-458c-8d18-875ec44105bf---The Heart Knows Better</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9a9b3dbafbb4f328a75cee3dc15b6c6.png" length="143686" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1646815020--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Improv 3</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1136599c000685a5aafe9dafe57515f3.png" length="63513" type="image/png"/>
       <pubDate>Wed, 09 Mar 2022 03:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Ducter (4 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Ducter</link>
+      <guid isPermaLink="false">Frippertron-1646815195--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ducter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1136599c000685a5aafe9dafe57515f3.png" length="63513" type="image/png"/>
+      <pubDate>Wed, 09 Mar 2022 03:39:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Improv 4 (1 play)</title>
+      <link>https://www.last.fm/music/black+midi/_/Improv+4</link>
+      <guid isPermaLink="false">Frippertron-1646815555--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Improv 4</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1136599c000685a5aafe9dafe57515f3.png" length="63513" type="image/png"/>
+      <pubDate>Wed, 09 Mar 2022 03:45:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
