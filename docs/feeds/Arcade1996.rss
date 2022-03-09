@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Mar 2022 07:18:29 +0000</lastBuildDate>
-    <item>
-      <title>R.E.M. - What’s The Frequency, Kenneth? - Remastered (7 plays)</title>
-      <link>https://www.last.fm/music/R.E.M./_/What%E2%80%99s+The+Frequency,+Kenneth%3F+-+Remastered</link>
-      <guid isPermaLink="false">Arcade1996-1646659962--R.E.M.---What’s The Frequency, Kenneth? - Remastered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73b77ad69a7975d91a004aae0cd53de6.jpg" length="13853" type="image/jpeg"/>
-      <pubDate>Mon, 07 Mar 2022 08:32:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>R.E.M. - Crush With Eyeliner - Remastered (1 play)</title>
-      <link>https://www.last.fm/music/R.E.M./_/Crush+With+Eyeliner+-+Remastered</link>
-      <guid isPermaLink="false">Arcade1996-1646660200--R.E.M.---Crush With Eyeliner - Remastered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73b77ad69a7975d91a004aae0cd53de6.jpg" length="13853" type="image/jpeg"/>
-      <pubDate>Mon, 07 Mar 2022 08:36:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Mar 2022 07:52:22 +0000</lastBuildDate>
     <item>
       <title>R.E.M. - King Of Comedy - Remastered (1 play)</title>
       <link>https://www.last.fm/music/R.E.M./_/King+Of+Comedy+-+Remastered</link>
@@ -261,14 +247,14 @@
       <pubDate>Tue, 08 Mar 2022 08:21:49 -0500</pubDate>
     </item>
     <item>
-      <title>Dizzee Rascal - Bop N Keep It Dippin (1 play)</title>
+      <title>Dizzee Rascal - Bop N Keep It Dippin (2 plays)</title>
       <link>https://www.last.fm/music/Dizzee+Rascal/_/Bop+N+Keep+It+Dippin</link>
       <guid isPermaLink="false">Arcade1996-1646745913--1a99cc88-aea3-4fe3-96b9-20791667f65f---Bop N Keep It Dippin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b893e5a1d17fb60f14412a822ec50bd.jpg" length="20585" type="image/jpeg"/>
       <pubDate>Tue, 08 Mar 2022 08:25:13 -0500</pubDate>
     </item>
     <item>
-      <title>Dizzee Rascal - L.L.L.L. (Love Life Live Large) (1 play)</title>
+      <title>Dizzee Rascal - L.L.L.L. (Love Life Live Large) (2 plays)</title>
       <link>https://www.last.fm/music/Dizzee+Rascal/_/L.L.L.L.+(Love+Life+Live+Large)</link>
       <guid isPermaLink="false">Arcade1996-1646746179--1a99cc88-aea3-4fe3-96b9-20791667f65f---L.L.L.L. (Love Life Live Large)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7030aa13ffd4e9b2d6447f68d1d31141.jpg" length="13582" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1646752693--50a5520c-454a-4d5d-ab74-d442b58e7304---Body Fat</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27685fbb4f1848eebc824031bc772b27.jpg" length="32162" type="image/jpeg"/>
       <pubDate>Tue, 08 Mar 2022 10:18:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dizzee Rascal - L.L.L.L. (Love Life Live Large) (2 plays)</title>
+      <link>https://www.last.fm/music/Dizzee+Rascal/_/L.L.L.L.+(Love+Life+Live+Large)</link>
+      <guid isPermaLink="false">Arcade1996-1646811810--1a99cc88-aea3-4fe3-96b9-20791667f65f---L.L.L.L. (Love Life Live Large)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7030aa13ffd4e9b2d6447f68d1d31141.jpg" length="13582" type="image/jpeg"/>
+      <pubDate>Wed, 09 Mar 2022 02:43:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dizzee Rascal - Bop N Keep It Dippin (2 plays)</title>
+      <link>https://www.last.fm/music/Dizzee+Rascal/_/Bop+N+Keep+It+Dippin</link>
+      <guid isPermaLink="false">Arcade1996-1646812004--1a99cc88-aea3-4fe3-96b9-20791667f65f---Bop N Keep It Dippin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b893e5a1d17fb60f14412a822ec50bd.jpg" length="20585" type="image/jpeg"/>
+      <pubDate>Wed, 09 Mar 2022 02:46:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
