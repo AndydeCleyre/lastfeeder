@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Mar 2022 08:54:36 +0000</lastBuildDate>
-    <item>
-      <title>John Cale - (I Keep A) Close Watch (55 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/(I+Keep+A)+Close+Watch</link>
-      <guid isPermaLink="false">Frippertron-1646819260--72c090b6-a68e-4cb9-b330-85278681a714---(I Keep A) Close Watch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f34d9e67d2545c3c9b2f78da40c05ff9.png" length="39874" type="image/png"/>
-      <pubDate>Wed, 09 Mar 2022 04:47:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Freddie Mercury - Let's Turn It On (24 plays)</title>
-      <link>https://www.last.fm/music/Freddie+Mercury/_/Let%27s+Turn+It+On</link>
-      <guid isPermaLink="false">Frippertron-1646819427--022589ac-7177-460d-a178-9976cf70e29f---Let's Turn It On</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89185693dd062051de6b1b41e527678a.png" length="175015" type="image/png"/>
-      <pubDate>Wed, 09 Mar 2022 04:50:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Mar 2022 09:20:09 +0000</lastBuildDate>
     <item>
       <title>Freddie Mercury - Love Kills (37 plays)</title>
       <link>https://www.last.fm/music/Freddie+Mercury/_/Love+Kills</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1646901955--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Killer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b078c13fab849c0c9d24bae6d42e0ee.jpg" length="19551" type="image/jpeg"/>
       <pubDate>Thu, 10 Mar 2022 03:45:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Lemmings (30 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Lemmings</link>
+      <guid isPermaLink="false">Frippertron-1646902460--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
+      <pubDate>Thu, 10 Mar 2022 03:54:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Man-Erg (48 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Man-Erg</link>
+      <guid isPermaLink="false">Frippertron-1646903160--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Man-Erg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
+      <pubDate>Thu, 10 Mar 2022 04:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
