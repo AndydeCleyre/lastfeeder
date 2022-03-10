@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Mar 2022 09:52:34 +0000</lastBuildDate>
-    <item>
-      <title>Tiamat - Gaia (4 plays)</title>
-      <link>https://www.last.fm/music/Tiamat/_/Gaia</link>
-      <guid isPermaLink="false">manosg--1646763612--8930ec4e-51c7-4905-ac40-684459878085---Gaia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/895830ae11fe48758c459ab81255e03f.jpg" length="29522" type="image/jpeg"/>
-      <pubDate>Tue, 08 Mar 2022 13:20:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tiamat - Visionaire (4 plays)</title>
-      <link>https://www.last.fm/music/Tiamat/_/Visionaire</link>
-      <guid isPermaLink="false">manosg--1646763999--8930ec4e-51c7-4905-ac40-684459878085---Visionaire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/895830ae11fe48758c459ab81255e03f.jpg" length="29522" type="image/jpeg"/>
-      <pubDate>Tue, 08 Mar 2022 13:26:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tiamat - Kaleidoscope (3 plays)</title>
-      <link>https://www.last.fm/music/Tiamat/_/Kaleidoscope</link>
-      <guid isPermaLink="false">manosg--1646764259--8930ec4e-51c7-4905-ac40-684459878085---Kaleidoscope</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/895830ae11fe48758c459ab81255e03f.jpg" length="29522" type="image/jpeg"/>
-      <pubDate>Tue, 08 Mar 2022 13:30:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Mar 2022 10:21:49 +0000</lastBuildDate>
     <item>
       <title>Tiamat - Do You Dream of Me? (4 plays)</title>
       <link>https://www.last.fm/music/Tiamat/_/Do+You+Dream+of+Me%3F</link>
@@ -163,7 +142,7 @@
       <pubDate>Wed, 09 Mar 2022 12:13:58 -0500</pubDate>
     </item>
     <item>
-      <title>Sade - Like a Tattoo (12 plays)</title>
+      <title>Sade - Like a Tattoo (14 plays)</title>
       <link>https://www.last.fm/music/Sade/_/Like+a+Tattoo</link>
       <guid isPermaLink="false">manosg--1646846266--67930b3e-e00b-469f-8c74-fd69f20522ec---Like a Tattoo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c844725c98c7a9deadb4d0130a156df1.png" length="70294" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1646904988--67930b3e-e00b-469f-8c74-fd69f20522ec---I Never Thought I'd See The Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07eeb2e2067914331c04ce47e13451ad.png" length="131923" type="image/png"/>
       <pubDate>Thu, 10 Mar 2022 04:36:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sade - Siempre Hay Esperanza (12 plays)</title>
+      <link>https://www.last.fm/music/Sade/_/Siempre+Hay+Esperanza</link>
+      <guid isPermaLink="false">manosg--1646905777--67930b3e-e00b-469f-8c74-fd69f20522ec---Siempre Hay Esperanza</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07eeb2e2067914331c04ce47e13451ad.png" length="131923" type="image/png"/>
+      <pubDate>Thu, 10 Mar 2022 04:49:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sade - Like a Tattoo (14 plays)</title>
+      <link>https://www.last.fm/music/Sade/_/Like+a+Tattoo</link>
+      <guid isPermaLink="false">manosg--1646906111--67930b3e-e00b-469f-8c74-fd69f20522ec---Like a Tattoo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c844725c98c7a9deadb4d0130a156df1.png" length="70294" type="image/png"/>
+      <pubDate>Thu, 10 Mar 2022 04:55:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sade - By Your Side (10 plays)</title>
+      <link>https://www.last.fm/music/Sade/_/By+Your+Side</link>
+      <guid isPermaLink="false">manosg--1646907426--67930b3e-e00b-469f-8c74-fd69f20522ec---By Your Side</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d0ea9afc7144f45cf73da96bc8ea1fd.jpg" length="14932" type="image/jpeg"/>
+      <pubDate>Thu, 10 Mar 2022 05:17:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
