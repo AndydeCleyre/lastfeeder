@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Mar 2022 17:39:52 +0000</lastBuildDate>
-    <item>
-      <title>Sade - You're Not the Man (16 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/You%27re+Not+the+Man</link>
-      <guid isPermaLink="false">manosg--1646896596--67930b3e-e00b-469f-8c74-fd69f20522ec---You're Not the Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d49bf5d8b40fd32c0af3601e6d84a138.png" length="169582" type="image/png"/>
-      <pubDate>Thu, 10 Mar 2022 02:16:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sade - Jezebel (21 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Jezebel</link>
-      <guid isPermaLink="false">manosg--1646898560--67930b3e-e00b-469f-8c74-fd69f20522ec---Jezebel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d49bf5d8b40fd32c0af3601e6d84a138.png" length="169582" type="image/png"/>
-      <pubDate>Thu, 10 Mar 2022 02:49:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Mar 2022 17:52:33 +0000</lastBuildDate>
     <item>
       <title>Sade - Mr Wrong (17 plays)</title>
       <link>https://www.last.fm/music/Sade/_/Mr+Wrong</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1646933673--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Genesis Hall</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/011fc79386e35650d7cd97ccd835417b.jpg" length="31838" type="image/jpeg"/>
       <pubDate>Thu, 10 Mar 2022 12:34:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Si Tu Dois Partir (3 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Si+Tu+Dois+Partir</link>
+      <guid isPermaLink="false">manosg--1646933889--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Si Tu Dois Partir</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/011fc79386e35650d7cd97ccd835417b.jpg" length="31838" type="image/jpeg"/>
+      <pubDate>Thu, 10 Mar 2022 12:38:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Autopsy (3 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Autopsy</link>
+      <guid isPermaLink="false">manosg--1646934028--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Autopsy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/011fc79386e35650d7cd97ccd835417b.jpg" length="31838" type="image/jpeg"/>
+      <pubDate>Thu, 10 Mar 2022 12:40:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
