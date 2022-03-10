@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Mar 2022 23:19:53 +0000</lastBuildDate>
-    <item>
-      <title>Tears for Fears - Master Plan (1 play)</title>
-      <link>https://www.last.fm/music/Tears+for+Fears/_/Master+Plan</link>
-      <guid isPermaLink="false">lintmunro-1646422010--7c7f9c94-dee8-4903-892b-6cf44652e2de---Master Plan</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89ce6617a6d9d1a25361b116fd493b83.jpg" length="20055" type="image/jpeg"/>
-      <pubDate>Fri, 04 Mar 2022 14:26:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Mar 2022 23:39:56 +0000</lastBuildDate>
     <item>
       <title>Tears for Fears - End of Night (1 play)</title>
       <link>https://www.last.fm/music/Tears+for+Fears/_/End+of+Night</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1646953101--96a4e481-b025-4726-a3f8-c9859f9e5281---Woolgatherer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0eba3e8ceac13f47dbaff4b5b49ba43b.jpg" length="18817" type="image/jpeg"/>
       <pubDate>Thu, 10 Mar 2022 17:58:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wilderun - Passenger (2 plays)</title>
+      <link>https://www.last.fm/music/Wilderun/_/Passenger</link>
+      <guid isPermaLink="false">lintmunro-1646953950--96a4e481-b025-4726-a3f8-c9859f9e5281---Passenger</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0eba3e8ceac13f47dbaff4b5b49ba43b.jpg" length="18817" type="image/jpeg"/>
+      <pubDate>Thu, 10 Mar 2022 18:12:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
