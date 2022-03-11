@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Mar 2022 10:42:06 +0000</lastBuildDate>
-    <item>
-      <title>Soul II Soul - Keep on Movin' (1 play)</title>
-      <link>https://www.last.fm/music/Soul+II+Soul/_/Keep+on+Movin%27</link>
-      <guid isPermaLink="false">manosg--1646913558--9350241a-d698-4489-92bf-41794f383ff3---Keep on Movin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea21bb416d354e04ba4bd49209e02982.jpg" length="18476" type="image/jpeg"/>
-      <pubDate>Thu, 10 Mar 2022 06:59:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Mar 2022 10:53:49 +0000</lastBuildDate>
     <item>
       <title>Barry White - Mellow Mood - Pt. I (1 play)</title>
       <link>https://www.last.fm/music/Barry+White/_/Mellow+Mood+-+Pt.+I</link>
@@ -212,7 +205,7 @@
       <pubDate>Fri, 11 Mar 2022 02:09:04 -0500</pubDate>
     </item>
     <item>
-      <title>Ghost - Call Me Little Sunshine (1 play)</title>
+      <title>Ghost - Call Me Little Sunshine (2 plays)</title>
       <link>https://www.last.fm/music/Ghost/_/Call+Me+Little+Sunshine</link>
       <guid isPermaLink="false">manosg--1646982935--Ghost---Call Me Little Sunshine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fe6c97e1a7d254c7db04cb0fbcfb90.jpg" length="41675" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1646994651--Ghost---Spillways</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fe6c97e1a7d254c7db04cb0fbcfb90.jpg" length="41675" type="image/jpeg"/>
       <pubDate>Fri, 11 Mar 2022 05:30:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ghost - Call Me Little Sunshine (2 plays)</title>
+      <link>https://www.last.fm/music/Ghost/_/Call+Me+Little+Sunshine</link>
+      <guid isPermaLink="false">manosg--1646995846--Ghost---Call Me Little Sunshine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fe6c97e1a7d254c7db04cb0fbcfb90.jpg" length="41675" type="image/jpeg"/>
+      <pubDate>Fri, 11 Mar 2022 05:50:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
