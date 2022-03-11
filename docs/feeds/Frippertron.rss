@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Mar 2022 09:19:32 +0000</lastBuildDate>
-    <item>
-      <title>Scott Walker - Rosemary (39 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/Rosemary</link>
-      <guid isPermaLink="false">Frippertron-1646974048--99524243-dc2e-4bf3-82c0-72395391d21f---Rosemary</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
-      <pubDate>Thu, 10 Mar 2022 23:47:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Scott Walker - Big Louise (36 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/Big+Louise</link>
-      <guid isPermaLink="false">Frippertron-1646974252--99524243-dc2e-4bf3-82c0-72395391d21f---Big Louise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
-      <pubDate>Thu, 10 Mar 2022 23:50:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>Scott Walker - We Came Through (33 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/We+Came+Through</link>
-      <guid isPermaLink="false">Frippertron-1646974444--99524243-dc2e-4bf3-82c0-72395391d21f---We Came Through</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
-      <pubDate>Thu, 10 Mar 2022 23:54:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Scott Walker - Butterfly (35 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/Butterfly</link>
-      <guid isPermaLink="false">Frippertron-1646974564--99524243-dc2e-4bf3-82c0-72395391d21f---Butterfly</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
-      <pubDate>Thu, 10 Mar 2022 23:56:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Mar 2022 09:40:21 +0000</lastBuildDate>
     <item>
       <title>Scott Walker - Two Ragged Soldiers (36 plays)</title>
       <link>https://www.last.fm/music/Scott+Walker/_/Two+Ragged+Soldiers</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1646989619--c842d29f-a297-48cd-bb71-4f77fd672b16---Baby Strange</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7024b267db45463ec6284fe9e94ee9b2.png" length="135703" type="image/png"/>
       <pubDate>Fri, 11 Mar 2022 04:06:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sparks - My Other Voice (31 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/My+Other+Voice</link>
+      <guid isPermaLink="false">Frippertron-1646990351--Sparks---My Other Voice</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/104bad5476cb1eb98428ef67194fb206.jpg" length="16901" type="image/jpeg"/>
+      <pubDate>Fri, 11 Mar 2022 04:19:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sparks - The Number One Song In Heaven (65 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/The+Number+One+Song+In+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1646990648--Sparks---The Number One Song In Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/104bad5476cb1eb98428ef67194fb206.jpg" length="16901" type="image/jpeg"/>
+      <pubDate>Fri, 11 Mar 2022 04:24:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>XTC - The Ballad of Peter Pumpkinhead (11 plays)</title>
+      <link>https://www.last.fm/music/XTC/_/The+Ballad+of+Peter+Pumpkinhead</link>
+      <guid isPermaLink="false">Frippertron-1646991122--97c86b2c-2765-46a2-aef8-76a7e24c430f---The Ballad of Peter Pumpkinhead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c960609c9f04b0d8470548531bfb978.png" length="148470" type="image/png"/>
+      <pubDate>Fri, 11 Mar 2022 04:32:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>XTC - My Bird Performs (8 plays)</title>
+      <link>https://www.last.fm/music/XTC/_/My+Bird+Performs</link>
+      <guid isPermaLink="false">Frippertron-1646991426--97c86b2c-2765-46a2-aef8-76a7e24c430f---My Bird Performs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c960609c9f04b0d8470548531bfb978.png" length="148470" type="image/png"/>
+      <pubDate>Fri, 11 Mar 2022 04:37:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
