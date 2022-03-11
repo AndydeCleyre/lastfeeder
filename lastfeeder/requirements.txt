@@ -57,5 +57,5 @@ tzdata==2021.5
     # via pytz-deprecation-shim
 tzlocal==4.1
     # via delorean
-wrapt==1.13.3
+wrapt==1.14.0
     # via -r requirements.in
