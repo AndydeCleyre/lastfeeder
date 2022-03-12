@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Mar 2022 16:26:55 +0000</lastBuildDate>
-    <item>
-      <title>Ghost - Kaisarion (2 plays)</title>
-      <link>https://www.last.fm/music/Ghost/_/Kaisarion</link>
-      <guid isPermaLink="false">manosg--1646982346--Ghost---Kaisarion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fe6c97e1a7d254c7db04cb0fbcfb90.jpg" length="41675" type="image/jpeg"/>
-      <pubDate>Fri, 11 Mar 2022 02:05:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Mar 2022 17:17:52 +0000</lastBuildDate>
     <item>
       <title>Ghost - Spillways (3 plays)</title>
       <link>https://www.last.fm/music/Ghost/_/Spillways</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1647101126--29762c82-bb92-4acd-b1fb-09cc4da250d2---Ceremony</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/837330e063b036d23d5608e0ec791c9a.jpg" length="15506" type="image/jpeg"/>
       <pubDate>Sat, 12 Mar 2022 11:05:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Joe Satriani - With Jupiter in Mind (1 play)</title>
+      <link>https://www.last.fm/music/Joe+Satriani/_/With+Jupiter+in+Mind</link>
+      <guid isPermaLink="false">manosg--1647101441--29762c82-bb92-4acd-b1fb-09cc4da250d2---With Jupiter in Mind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/837330e063b036d23d5608e0ec791c9a.jpg" length="15506" type="image/jpeg"/>
+      <pubDate>Sat, 12 Mar 2022 11:10:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
