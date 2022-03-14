@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Mar 2022 05:51:11 +0000</lastBuildDate>
-    <item>
-      <title>XTC - Omnibus (9 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/Omnibus</link>
-      <guid isPermaLink="false">Frippertron-1646994320--97c86b2c-2765-46a2-aef8-76a7e24c430f---Omnibus</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c960609c9f04b0d8470548531bfb978.png" length="148470" type="image/png"/>
-      <pubDate>Fri, 11 Mar 2022 05:25:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>XTC - That Wave (7 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/That+Wave</link>
-      <guid isPermaLink="false">Frippertron-1646994530--97c86b2c-2765-46a2-aef8-76a7e24c430f---That Wave</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c960609c9f04b0d8470548531bfb978.png" length="148470" type="image/png"/>
-      <pubDate>Fri, 11 Mar 2022 05:28:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Mar 2022 06:25:11 +0000</lastBuildDate>
     <item>
       <title>XTC - Wrapped In Grey (32 plays)</title>
       <link>https://www.last.fm/music/XTC/_/Wrapped+In+Grey</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1647236742--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---Venus in Furs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99088f450ca5eecffdd08995d53bcf8b.jpg" length="17373" type="image/jpeg"/>
       <pubDate>Mon, 14 Mar 2022 01:45:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Velvet Underground - Heroin (30 plays)</title>
+      <link>https://www.last.fm/music/The+Velvet+Underground/_/Heroin</link>
+      <guid isPermaLink="false">Frippertron-1647237052--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---Heroin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99088f450ca5eecffdd08995d53bcf8b.jpg" length="17373" type="image/jpeg"/>
+      <pubDate>Mon, 14 Mar 2022 01:50:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Marvin Gaye - Sparrow (10 plays)</title>
+      <link>https://www.last.fm/music/Marvin+Gaye/_/Sparrow</link>
+      <guid isPermaLink="false">Frippertron-1647237519--afdb7919-059d-43c1-b668-ba1d265e7e42---Sparrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79fe0a37779a859877116478108f78ea.jpg" length="34451" type="image/jpeg"/>
+      <pubDate>Mon, 14 Mar 2022 01:58:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
