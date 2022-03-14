@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Mar 2022 08:43:04 +0000</lastBuildDate>
-    <item>
-      <title>Joe Satriani - Faceless (6 plays)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/Faceless</link>
-      <guid isPermaLink="false">manosg--1647070612--Joe Satriani---Faceless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8afcf2dfeb08f73b3cedfd6c66fa9049.jpg" length="8637" type="image/jpeg"/>
-      <pubDate>Sat, 12 Mar 2022 02:36:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Mar 2022 08:55:24 +0000</lastBuildDate>
     <item>
       <title>Joe Satriani - Up in the Sky (2 plays)</title>
       <link>https://www.last.fm/music/Joe+Satriani/_/Up+in+the+Sky</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1647246448--f053ae01-dae6-4aae-9883-e8c279fdbef4---Human Beings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e6e15ec56bb4ad2ca0363d660d7206c.png" length="125738" type="image/png"/>
       <pubDate>Mon, 14 Mar 2022 04:27:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Seal - State of Grace (1 play)</title>
+      <link>https://www.last.fm/music/Seal/_/State+of+Grace</link>
+      <guid isPermaLink="false">manosg--1647246723--f053ae01-dae6-4aae-9883-e8c279fdbef4---State of Grace</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e6e15ec56bb4ad2ca0363d660d7206c.png" length="125738" type="image/png"/>
+      <pubDate>Mon, 14 Mar 2022 04:32:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
