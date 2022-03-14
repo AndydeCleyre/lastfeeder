@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Mar 2022 15:45:07 +0000</lastBuildDate>
-    <item>
-      <title>Sade - Babyfather (1 play)</title>
-      <link>https://www.last.fm/music/Sade/_/Babyfather</link>
-      <guid isPermaLink="false">manosg--1647243107--67930b3e-e00b-469f-8c74-fd69f20522ec---Babyfather</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7847cbc0813be9c076cd8e3e193d09ed.png" length="132656" type="image/png"/>
-      <pubDate>Mon, 14 Mar 2022 03:31:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sade - Long Hard Road (1 play)</title>
-      <link>https://www.last.fm/music/Sade/_/Long+Hard+Road</link>
-      <guid isPermaLink="false">manosg--1647243386--67930b3e-e00b-469f-8c74-fd69f20522ec---Long Hard Road</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7847cbc0813be9c076cd8e3e193d09ed.png" length="132656" type="image/png"/>
-      <pubDate>Mon, 14 Mar 2022 03:36:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sade - Be That Easy (2 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Be+That+Easy</link>
-      <guid isPermaLink="false">manosg--1647243567--67930b3e-e00b-469f-8c74-fd69f20522ec---Be That Easy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7847cbc0813be9c076cd8e3e193d09ed.png" length="132656" type="image/png"/>
-      <pubDate>Mon, 14 Mar 2022 03:39:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sade - Bring Me Home (1 play)</title>
-      <link>https://www.last.fm/music/Sade/_/Bring+Me+Home</link>
-      <guid isPermaLink="false">manosg--1647243786--67930b3e-e00b-469f-8c74-fd69f20522ec---Bring Me Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7847cbc0813be9c076cd8e3e193d09ed.png" length="132656" type="image/png"/>
-      <pubDate>Mon, 14 Mar 2022 03:43:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Mar 2022 18:27:08 +0000</lastBuildDate>
     <item>
       <title>Sade - In Another Time (2 plays)</title>
       <link>https://www.last.fm/music/Sade/_/In+Another+Time</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">manosg--1647272250--b904d624-9e05-4398-8f4f-88fbcf022f79---Let The Music Play - Funkstar's Club Deluxe Edit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b3cd933f84f152d9a5f24409ecb9eb4.jpg" length="21441" type="image/jpeg"/>
       <pubDate>Mon, 14 Mar 2022 11:37:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Please Don't Ask (9 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Please+Don%27t+Ask</link>
+      <guid isPermaLink="false">manosg--1647281183--722b2118-a77b-4161-9060-63a1b469e5b2---Please Don't Ask</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
+      <pubDate>Mon, 14 Mar 2022 14:06:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Duke's Travels (9 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Duke%27s+Travels</link>
+      <guid isPermaLink="false">manosg--1647281703--722b2118-a77b-4161-9060-63a1b469e5b2---Duke's Travels</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
+      <pubDate>Mon, 14 Mar 2022 14:15:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Duke's End (5 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Duke%27s+End</link>
+      <guid isPermaLink="false">manosg--1647281856--722b2118-a77b-4161-9060-63a1b469e5b2---Duke's End</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
+      <pubDate>Mon, 14 Mar 2022 14:17:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Invisible Touch (18 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Invisible+Touch</link>
+      <guid isPermaLink="false">manosg--1647282094--722b2118-a77b-4161-9060-63a1b469e5b2---Invisible Touch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf202251fb7131f6dbc08be64d0a43c5.png" length="137052" type="image/png"/>
+      <pubDate>Mon, 14 Mar 2022 14:21:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
