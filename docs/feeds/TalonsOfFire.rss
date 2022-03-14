@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Mar 2022 02:28:50 +0000</lastBuildDate>
-    <item>
-      <title>Mazzy Star - Unreflected (1 play)</title>
-      <link>https://www.last.fm/music/Mazzy+Star/_/Unreflected</link>
-      <guid isPermaLink="false">TalonsOfFire-1646423183--c48d4327-8122-4286-af66-05e1ee6ac4d8---Unreflected</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60615ead3d8383e70e84a526817de4bf.jpg" length="28405" type="image/jpeg"/>
-      <pubDate>Fri, 04 Mar 2022 14:46:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Mar 2022 03:26:21 +0000</lastBuildDate>
     <item>
       <title>Mazzy Star - Wasted (2 plays)</title>
       <link>https://www.last.fm/music/Mazzy+Star/_/Wasted</link>
@@ -131,6 +124,7 @@
       <title>Mark Knopfler - Sailing to Philadelphia (2 plays)</title>
       <link>https://www.last.fm/music/Mark+Knopfler/_/Sailing+to+Philadelphia</link>
       <guid isPermaLink="false">TalonsOfFire-1646754702--e49f69da-17d5-4c5c-bac0-dadcb0e588f5---Sailing to Philadelphia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce2602adb13103307105ae63c4157576.jpg" length="17738" type="image/jpeg"/>
       <pubDate>Tue, 08 Mar 2022 10:51:42 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1647222947--87c5dedd-371d-4a53-9f7f-80522fb7f3cb---Army of Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cf1258c8a5037b745b4ba4fc6097a81.jpg" length="25832" type="image/jpeg"/>
       <pubDate>Sun, 13 Mar 2022 21:55:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lunatic Soul - Summerland (2 plays)</title>
+      <link>https://www.last.fm/music/Lunatic+Soul/_/Summerland</link>
+      <guid isPermaLink="false">TalonsOfFire-1647223205--dd5fcd94-3119-461e-9abc-04c0a8455a12---Summerland</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5a98e12111e41c2a89d70c32db4d800.jpg" length="3498" type="image/jpeg"/>
+      <pubDate>Sun, 13 Mar 2022 22:00:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
