@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Mar 2022 21:52:53 +0000</lastBuildDate>
-    <item>
-      <title>Lullanas - Bloom (2 plays)</title>
-      <link>https://www.last.fm/music/Lullanas/_/Bloom</link>
-      <guid isPermaLink="false">ddgromit-1647224669--Lullanas---Bloom</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sun, 13 Mar 2022 22:24:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Mar 2022 22:20:57 +0000</lastBuildDate>
     <item>
       <title>Henry Green - Electric Feel (5 plays)</title>
       <link>https://www.last.fm/music/Henry+Green/_/Electric+Feel</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1647380641--Hélène Vogelsinger---Contemplation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1da81c7353de35dd047f291c1a2e2b0.jpg" length="23506" type="image/jpeg"/>
       <pubDate>Tue, 15 Mar 2022 17:44:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Peter Gregson - Sequence (Four) (2 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gregson/_/Sequence+(Four)</link>
+      <guid isPermaLink="false">ddgromit-1647380993--9f46a6ed-36ab-413a-bc3b-b3cdb1ce002c---Sequence (Four)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72c61ef7d40bec8984cc3fe7d4221c06.jpg" length="24585" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2022 17:49:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
