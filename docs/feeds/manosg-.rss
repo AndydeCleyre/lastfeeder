@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Mar 2022 18:44:06 +0000</lastBuildDate>
-    <item>
-      <title>Sade - Skin (1 play)</title>
-      <link>https://www.last.fm/music/Sade/_/Skin</link>
-      <guid isPermaLink="false">manosg--1647244338--67930b3e-e00b-469f-8c74-fd69f20522ec---Skin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7847cbc0813be9c076cd8e3e193d09ed.png" length="132656" type="image/png"/>
-      <pubDate>Mon, 14 Mar 2022 03:52:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sade - The Safest Place (1 play)</title>
-      <link>https://www.last.fm/music/Sade/_/The+Safest+Place</link>
-      <guid isPermaLink="false">manosg--1647244591--67930b3e-e00b-469f-8c74-fd69f20522ec---The Safest Place</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7847cbc0813be9c076cd8e3e193d09ed.png" length="132656" type="image/png"/>
-      <pubDate>Mon, 14 Mar 2022 03:56:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Mar 2022 07:19:18 +0000</lastBuildDate>
     <item>
       <title>Sade - Nothing Can Come Between Us - Remastered (1 play)</title>
       <link>https://www.last.fm/music/Sade/_/Nothing+Can+Come+Between+Us+-+Remastered</link>
@@ -324,6 +310,13 @@
       <pubDate>Mon, 14 Mar 2022 11:37:30 -0400</pubDate>
     </item>
     <item>
+      <title>Barry White - Heavenly, That's What You Are To Me (1 play)</title>
+      <link>https://www.last.fm/music/Barry+White/_/Heavenly,+That%27s+What+You+Are+To+Me</link>
+      <guid isPermaLink="false">manosg--1647272436--b904d624-9e05-4398-8f4f-88fbcf022f79---Heavenly, That's What You Are To Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82177c1d992269e042f9b92e0d409cf4.jpg" length="23807" type="image/jpeg"/>
+      <pubDate>Mon, 14 Mar 2022 11:40:36 -0400</pubDate>
+    </item>
+    <item>
       <title>Genesis - Please Don't Ask (9 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Please+Don%27t+Ask</link>
       <guid isPermaLink="false">manosg--1647281183--722b2118-a77b-4161-9060-63a1b469e5b2---Please Don't Ask</guid>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1647283098--722b2118-a77b-4161-9060-63a1b469e5b2---Tonight, Tonight, Tonight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf202251fb7131f6dbc08be64d0a43c5.png" length="137052" type="image/png"/>
       <pubDate>Mon, 14 Mar 2022 14:38:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - In Too Deep - Remastered 2007 (1 play)</title>
+      <link>https://www.last.fm/music/Genesis/_/In+Too+Deep+-+Remastered+2007</link>
+      <guid isPermaLink="false">manosg--1647328315--Genesis---In Too Deep - Remastered 2007</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf202251fb7131f6dbc08be64d0a43c5.png" length="137052" type="image/png"/>
+      <pubDate>Tue, 15 Mar 2022 03:11:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
