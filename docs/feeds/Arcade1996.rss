@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Mar 2022 13:12:53 +0000</lastBuildDate>
-    <item>
-      <title>Vein.FM - Inside Design (1 play)</title>
-      <link>https://www.last.fm/music/Vein.FM/_/Inside+Design</link>
-      <guid isPermaLink="false">Arcade1996-1647052860--Vein.FM---Inside Design</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/266ce072d24ccd3f795188efb869c2bc.jpg" length="26788" type="image/jpeg"/>
-      <pubDate>Fri, 11 Mar 2022 21:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Orgy - Blue Monday (4 plays)</title>
-      <link>https://www.last.fm/music/Orgy/_/Blue+Monday</link>
-      <guid isPermaLink="false">Arcade1996-1647053128--5bb2a9c8-3505-4c45-9717-19f0f8f35425---Blue Monday</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7dc1c92b394db36e06c28c69801731cb.jpg" length="6134" type="image/jpeg"/>
-      <pubDate>Fri, 11 Mar 2022 21:45:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sonic Youth - Incinerate (23 plays)</title>
-      <link>https://www.last.fm/music/Sonic+Youth/_/Incinerate</link>
-      <guid isPermaLink="false">Arcade1996-1647053424--5cbef01b-cc35-4f52-af7b-d0df0c4f61b9---Incinerate</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab99506a1ad33b6728ae0b8b598ad29f.jpg" length="25695" type="image/jpeg"/>
-      <pubDate>Fri, 11 Mar 2022 21:50:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sonic Youth - Teen Age Riot (album version) (23 plays)</title>
-      <link>https://www.last.fm/music/Sonic+Youth/_/Teen+Age+Riot+(album+version)</link>
-      <guid isPermaLink="false">Arcade1996-1647053843--5cbef01b-cc35-4f52-af7b-d0df0c4f61b9---Teen Age Riot (album version)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60fc2d2544828fbd55f0956be4a1cacd.jpg" length="12018" type="image/jpeg"/>
-      <pubDate>Fri, 11 Mar 2022 21:57:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Mar 2022 14:43:59 +0000</lastBuildDate>
     <item>
       <title>R.E.M. - Finest Worksong (20 plays)</title>
       <link>https://www.last.fm/music/R.E.M./_/Finest+Worksong</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Arcade1996-1647349083--Machine Gun Kelly---ay! (feat. Lil Wayne)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dc59b3dd46724717e38b28a56a3d558.jpg" length="22040" type="image/jpeg"/>
       <pubDate>Tue, 15 Mar 2022 08:58:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Machine Gun Kelly - Emo Girl (feat. WILLOW) (1 play)</title>
+      <link>https://www.last.fm/music/Machine+Gun+Kelly/_/Emo+Girl+(feat.+WILLOW)</link>
+      <guid isPermaLink="false">Arcade1996-1647349208--Machine Gun Kelly---Emo Girl (feat. WILLOW)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/381bf2c5443fcb4147a68c62b434a272.jpg" length="27964" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2022 09:00:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jeff Parker - Flour Of Fur (2 plays)</title>
+      <link>https://www.last.fm/music/Jeff+Parker/_/Flour+Of+Fur</link>
+      <guid isPermaLink="false">Arcade1996-1647354544--4894f8eb-be75-4bd5-a3a3-7c20894439f9---Flour Of Fur</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/577a31c4a926a862e0526e377653920e.jpg" length="26653" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2022 10:29:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cocteau Twins - Oomingmak (18 plays)</title>
+      <link>https://www.last.fm/music/Cocteau+Twins/_/Oomingmak</link>
+      <guid isPermaLink="false">Arcade1996-1647354794--000fc734-b7e1-4a01-92d1-f544261b43f5---Oomingmak</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ccea1413b56cac21fc3accc4630de86b.jpg" length="15646" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2022 10:33:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>The KLF - Philadelphia to Baltimore (5 plays)</title>
+      <link>https://www.last.fm/music/The+KLF/_/Philadelphia+to+Baltimore</link>
+      <guid isPermaLink="false">Arcade1996-1647354956--The KLF---Philadelphia to Baltimore</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/765786f7901fed23acc2a074552800ce.png" length="56340" type="image/png"/>
+      <pubDate>Tue, 15 Mar 2022 10:35:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
