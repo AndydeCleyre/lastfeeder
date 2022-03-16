@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Mar 2022 10:53:13 +0000</lastBuildDate>
-    <item>
-      <title>Seal - Free (1 play)</title>
-      <link>https://www.last.fm/music/Seal/_/Free</link>
-      <guid isPermaLink="false">manosg--1647252313--f053ae01-dae6-4aae-9883-e8c279fdbef4---Free</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4292abb1f8142628352c69ca92c27f4.jpg" length="18800" type="image/jpeg"/>
-      <pubDate>Mon, 14 Mar 2022 06:05:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Mar 2022 11:52:29 +0000</lastBuildDate>
     <item>
       <title>Everything But the Girl - Single (1 play)</title>
       <link>https://www.last.fm/music/Everything+But+the+Girl/_/Single</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1647427928--Ghost---Hunter’s Moon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fe6c97e1a7d254c7db04cb0fbcfb90.jpg" length="41675" type="image/jpeg"/>
       <pubDate>Wed, 16 Mar 2022 06:52:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ghost - Watcher In The Sky (3 plays)</title>
+      <link>https://www.last.fm/music/Ghost/_/Watcher+In+The+Sky</link>
+      <guid isPermaLink="false">manosg--1647431488--Ghost---Watcher In The Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fe6c97e1a7d254c7db04cb0fbcfb90.jpg" length="41675" type="image/jpeg"/>
+      <pubDate>Wed, 16 Mar 2022 07:51:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
