@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Mar 2022 13:37:40 +0000</lastBuildDate>
-    <item>
-      <title>The Smashing Pumpkins - Eye (20 plays)</title>
-      <link>https://www.last.fm/music/The+Smashing+Pumpkins/_/Eye</link>
-      <guid isPermaLink="false">Arcade1996-1647165957--ba0d6274-db14-4ef5-b28d-657ebde1a396---Eye</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c89787b69a444de6cdb2da8b59ad6472.png" length="99715" type="image/png"/>
-      <pubDate>Sun, 13 Mar 2022 06:05:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Mar 2022 14:56:43 +0000</lastBuildDate>
     <item>
       <title>The Weeknd - Out of Time (32 plays)</title>
       <link>https://www.last.fm/music/The+Weeknd/_/Out+of+Time</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1647436554--5cbef01b-cc35-4f52-af7b-d0df0c4f61b9---In &amp; Out</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd60fa4c46461c6ba01f7a438ee4dc8f.jpg" length="32328" type="image/jpeg"/>
       <pubDate>Wed, 16 Mar 2022 09:15:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Squid - Savage (4 plays)</title>
+      <link>https://www.last.fm/music/Squid/_/Savage</link>
+      <guid isPermaLink="false">Arcade1996-1647441434--5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45---Savage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/205f9dc1ddec27d3b756f604af96a782.jpg" length="20927" type="image/jpeg"/>
+      <pubDate>Wed, 16 Mar 2022 10:37:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
