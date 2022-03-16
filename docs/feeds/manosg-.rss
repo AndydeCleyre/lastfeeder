@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Mar 2022 10:43:32 +0000</lastBuildDate>
-    <item>
-      <title>Seal - No Easy Way (1 play)</title>
-      <link>https://www.last.fm/music/Seal/_/No+Easy+Way</link>
-      <guid isPermaLink="false">manosg--1647251824--f053ae01-dae6-4aae-9883-e8c279fdbef4---No Easy Way</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e6e15ec56bb4ad2ca0363d660d7206c.png" length="125738" type="image/png"/>
-      <pubDate>Mon, 14 Mar 2022 05:57:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Seal - human beings - reprise (1 play)</title>
-      <link>https://www.last.fm/music/Seal/_/human+beings+-+reprise</link>
-      <guid isPermaLink="false">manosg--1647252113--f053ae01-dae6-4aae-9883-e8c279fdbef4---human beings - reprise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e6e15ec56bb4ad2ca0363d660d7206c.png" length="125738" type="image/png"/>
-      <pubDate>Mon, 14 Mar 2022 06:01:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Mar 2022 10:53:13 +0000</lastBuildDate>
     <item>
       <title>Seal - Free (1 play)</title>
       <link>https://www.last.fm/music/Seal/_/Free</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1647427379--Ghost---Spillways</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fe6c97e1a7d254c7db04cb0fbcfb90.jpg" length="41675" type="image/jpeg"/>
       <pubDate>Wed, 16 Mar 2022 06:42:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ghost - Call Me Little Sunshine (3 plays)</title>
+      <link>https://www.last.fm/music/Ghost/_/Call+Me+Little+Sunshine</link>
+      <guid isPermaLink="false">manosg--1647427730--Ghost---Call Me Little Sunshine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fe6c97e1a7d254c7db04cb0fbcfb90.jpg" length="41675" type="image/jpeg"/>
+      <pubDate>Wed, 16 Mar 2022 06:48:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ghost - Hunter’s Moon (3 plays)</title>
+      <link>https://www.last.fm/music/Ghost/_/Hunter%E2%80%99s+Moon</link>
+      <guid isPermaLink="false">manosg--1647427928--Ghost---Hunter’s Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fe6c97e1a7d254c7db04cb0fbcfb90.jpg" length="41675" type="image/jpeg"/>
+      <pubDate>Wed, 16 Mar 2022 06:52:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
