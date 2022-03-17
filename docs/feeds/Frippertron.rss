@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Mar 2022 06:24:05 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Behold The Night (11 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Behold+The+Night</link>
-      <guid isPermaLink="false">Frippertron-1647420388--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Behold The Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ee3ee51391309c17a7cc4fa10f9d6b.jpg" length="27020" type="image/jpeg"/>
-      <pubDate>Wed, 16 Mar 2022 04:46:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Chico Buarque - Deus Lhe Pague (27 plays)</title>
-      <link>https://www.last.fm/music/Chico+Buarque/_/Deus+Lhe+Pague</link>
-      <guid isPermaLink="false">Frippertron-1647420532--3a5d1cc7-627e-48ea-aba3-fdd20d782c33---Deus Lhe Pague</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f10620ba0daf2913a9368b4e9a78e398.jpg" length="9816" type="image/jpeg"/>
-      <pubDate>Wed, 16 Mar 2022 04:48:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Mar 2022 07:18:43 +0000</lastBuildDate>
     <item>
       <title>Milton Nascimento - Milagre dos Peixes (24 plays)</title>
       <link>https://www.last.fm/music/Milton+Nascimento/_/Milagre+dos+Peixes</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1647496901--a94a7155-c79d-4409-9fcf-220cb0e4dc3a---Take Me to the River</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 17 Mar 2022 02:01:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Announcement (2 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Announcement</link>
+      <guid isPermaLink="false">Frippertron-1647501233--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Announcement</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 17 Mar 2022 03:13:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Walk On (4 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Walk+On</link>
+      <guid isPermaLink="false">Frippertron-1647501351--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Walk On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 17 Mar 2022 03:15:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
