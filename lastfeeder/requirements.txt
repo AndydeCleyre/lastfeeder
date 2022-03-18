@@ -53,7 +53,7 @@ sniffio==1.2.0
     #   httpx
 structlog==21.5.0
     # via -r requirements.in
-tzdata==2021.5
+tzdata==2022.1
     # via pytz-deprecation-shim
 tzlocal==4.1
     # via delorean
