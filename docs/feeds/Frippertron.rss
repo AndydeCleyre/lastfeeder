@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Mar 2022 09:23:47 +0000</lastBuildDate>
-    <item>
-      <title>ミドリ - スキ (50 plays)</title>
-      <link>https://www.last.fm/music/%E3%83%9F%E3%83%89%E3%83%AA/_/%E3%82%B9%E3%82%AD</link>
-      <guid isPermaLink="false">Frippertron-1647837436--e2a46258-612f-48d6-88bd-3251de017c40---スキ</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d767ff4597044be87e4b07bb750af4d.png" length="72636" type="image/png"/>
-      <pubDate>Mon, 21 Mar 2022 00:37:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>ミドリ - ゆきこさん (68 plays)</title>
-      <link>https://www.last.fm/music/%E3%83%9F%E3%83%89%E3%83%AA/_/%E3%82%86%E3%81%8D%E3%81%93%E3%81%95%E3%82%93</link>
-      <guid isPermaLink="false">Frippertron-1647837480--e2a46258-612f-48d6-88bd-3251de017c40---ゆきこさん</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d767ff4597044be87e4b07bb750af4d.png" length="72636" type="image/png"/>
-      <pubDate>Mon, 21 Mar 2022 00:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ミドリ - かなしい日々。 (66 plays)</title>
-      <link>https://www.last.fm/music/%E3%83%9F%E3%83%89%E3%83%AA/_/%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E6%97%A5%E3%80%85%E3%80%82</link>
-      <guid isPermaLink="false">Frippertron-1647837670--e2a46258-612f-48d6-88bd-3251de017c40---かなしい日々。</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d767ff4597044be87e4b07bb750af4d.png" length="72636" type="image/png"/>
-      <pubDate>Mon, 21 Mar 2022 00:41:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Mar 2022 09:40:57 +0000</lastBuildDate>
     <item>
       <title>ミドリ - お猿 (85 plays)</title>
       <link>https://www.last.fm/music/%E3%83%9F%E3%83%89%E3%83%AA/_/%E3%81%8A%E7%8C%BF</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1647854400--e01c3376-15fa-40d7-b747-5f219bdefdd7---Do It Again</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
       <pubDate>Mon, 21 Mar 2022 05:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Reelin' In The Years (47 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Reelin%27+In+The+Years</link>
+      <guid isPermaLink="false">Frippertron-1647854744--e01c3376-15fa-40d7-b747-5f219bdefdd7---Reelin' In The Years</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
+      <pubDate>Mon, 21 Mar 2022 05:25:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Deacon Blues (58 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Deacon+Blues</link>
+      <guid isPermaLink="false">Frippertron-1647855016--e01c3376-15fa-40d7-b747-5f219bdefdd7---Deacon Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Mon, 21 Mar 2022 05:30:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - F.M. (No Static At All) (38 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/F.M.+(No+Static+At+All)</link>
+      <guid isPermaLink="false">Frippertron-1647855467--e01c3376-15fa-40d7-b747-5f219bdefdd7---F.M. (No Static At All)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Mon, 21 Mar 2022 05:37:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
