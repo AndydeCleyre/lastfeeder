@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Mar 2022 18:45:56 +0000</lastBuildDate>
-    <item>
-      <title>Flunk - I Love Music (1 play)</title>
-      <link>https://www.last.fm/music/Flunk/_/I+Love+Music</link>
-      <guid isPermaLink="false">ddgromit-1647568681--101e0102-841f-4858-972b-edf716ee67c9---I Love Music</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eaaffc8801f0410d9a882bcc0c056e00.png" length="167574" type="image/png"/>
-      <pubDate>Thu, 17 Mar 2022 21:58:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Blue States - Season Song (2 plays)</title>
-      <link>https://www.last.fm/music/Blue+States/_/Season+Song</link>
-      <guid isPermaLink="false">ddgromit-1647569018--cfd70533-c11a-4e0e-995d-f4ffe6f3119f---Season Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d096802ab0b747f29598dbebf388f8db.png" length="172743" type="image/png"/>
-      <pubDate>Thu, 17 Mar 2022 22:03:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Mar 2022 18:57:16 +0000</lastBuildDate>
     <item>
       <title>Smoke City - With You (1 play)</title>
       <link>https://www.last.fm/music/Smoke+City/_/With+You</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1647974585--f22942a1-6f70-4f48-866e-238cb2308fbd---Avril 14th</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c66b692b26c4fb3be2da6dda2fc9bb7.png" length="167853" type="image/png"/>
       <pubDate>Tue, 22 Mar 2022 14:43:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Aphex Twin - Xtal (4 plays)</title>
+      <link>https://www.last.fm/music/Aphex+Twin/_/Xtal</link>
+      <guid isPermaLink="false">ddgromit-1647974714--f22942a1-6f70-4f48-866e-238cb2308fbd---Xtal</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f199a67803148cfb2cf2238b8fda0fb.jpg" length="12794" type="image/jpeg"/>
+      <pubDate>Tue, 22 Mar 2022 14:45:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Aphex Twin - #3 (1 play)</title>
+      <link>https://www.last.fm/music/Aphex+Twin/_/%233</link>
+      <guid isPermaLink="false">ddgromit-1647975004--f22942a1-6f70-4f48-866e-238cb2308fbd---#3</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27cbbe4e88884b81911699b88c2d5eca.png" length="164592" type="image/png"/>
+      <pubDate>Tue, 22 Mar 2022 14:50:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
