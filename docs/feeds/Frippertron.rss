@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Mar 2022 06:24:22 +0000</lastBuildDate>
-    <item>
-      <title>black midi - Slow (33 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Slow</link>
-      <guid isPermaLink="false">Frippertron-1647852888--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Slow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bb061a8cc4dc88cbc2d7fabe76f3789.jpg" length="31499" type="image/jpeg"/>
-      <pubDate>Mon, 21 Mar 2022 04:54:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Do It Again (13 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Do+It+Again</link>
-      <guid isPermaLink="false">Frippertron-1647854400--e01c3376-15fa-40d7-b747-5f219bdefdd7---Do It Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
-      <pubDate>Mon, 21 Mar 2022 05:20:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Mar 2022 07:37:52 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Reelin' In The Years (47 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Reelin%27+In+The+Years</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1647930056--5eecaf18-02ec-47af-a4f2-7831db373419---Sheer Heart Attack</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2220b5d920e64379b920b1a2e29b4950.png" length="211756" type="image/png"/>
       <pubDate>Tue, 22 Mar 2022 02:20:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Country, New Road - Sunglasses (6 plays)</title>
+      <link>https://www.last.fm/music/Black+Country,+New+Road/_/Sunglasses</link>
+      <guid isPermaLink="false">Frippertron-1647933919--e9403d9c-329b-4108-a26f-564159d441d9---Sunglasses</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/972219222c95598bb474d3631d289ad3.jpg" length="17090" type="image/jpeg"/>
+      <pubDate>Tue, 22 Mar 2022 03:25:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Hogwash and Balderdash (49 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Hogwash+and+Balderdash</link>
+      <guid isPermaLink="false">Frippertron-1647934526--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Hogwash and Balderdash</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Tue, 22 Mar 2022 03:35:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
