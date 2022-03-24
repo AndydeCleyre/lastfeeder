@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Mar 2022 15:21:26 +0000</lastBuildDate>
-    <item>
-      <title>Hatchie - Lights On (1 play)</title>
-      <link>https://www.last.fm/music/Hatchie/_/Lights+On</link>
-      <guid isPermaLink="false">Arcade1996-1647998748--b51f07c9-a42c-4ea7-b5ed-ce4b7f47101a---Lights On</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3f99c31d83db083108a23743772bf5d8.jpg" length="24810" type="image/jpeg"/>
-      <pubDate>Tue, 22 Mar 2022 21:25:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Mar 2022 01:26:50 +0000</lastBuildDate>
     <item>
       <title>Hatchie - This Enchanted (5 plays)</title>
       <link>https://www.last.fm/music/Hatchie/_/This+Enchanted</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1648047162--The KLF---Atlantic City to Philadelphia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/765786f7901fed23acc2a074552800ce.png" length="56340" type="image/png"/>
       <pubDate>Wed, 23 Mar 2022 10:52:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Drake - Marvins Room (4 plays)</title>
+      <link>https://www.last.fm/music/Drake/_/Marvins+Room</link>
+      <guid isPermaLink="false">Arcade1996-1648047321--Drake---Marvins Room</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4ae1a8a4af7d6179fd2799c5e0a6a37.jpg" length="22528" type="image/jpeg"/>
+      <pubDate>Wed, 23 Mar 2022 10:55:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
