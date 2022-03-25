@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Mar 2022 21:39:50 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Feel Flows (45 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Feel+Flows</link>
-      <guid isPermaLink="false">Frippertron-1648108188--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Feel Flows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ee3ee51391309c17a7cc4fa10f9d6b.jpg" length="27020" type="image/jpeg"/>
-      <pubDate>Thu, 24 Mar 2022 03:49:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Mar 2022 21:52:39 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Surf's Up (142 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Surf%27s+Up</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1648243038--382f06d0-580b-4eef-b606-a5b8c2ff5117---1900</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2468887318f9369ad55b8b1585fba3b7.png" length="98396" type="image/png"/>
       <pubDate>Fri, 25 Mar 2022 17:17:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>José Mário Branco - A Noite (38 plays)</title>
+      <link>https://www.last.fm/music/Jos%C3%A9+M%C3%A1rio+Branco/_/A+Noite</link>
+      <guid isPermaLink="false">Frippertron-1648243802--382f06d0-580b-4eef-b606-a5b8c2ff5117---A Noite</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43d8e7f52fde452abaaf136ab5e148ee.jpg" length="19911" type="image/jpeg"/>
+      <pubDate>Fri, 25 Mar 2022 17:30:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
