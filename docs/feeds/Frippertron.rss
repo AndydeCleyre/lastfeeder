@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Mar 2022 14:52:48 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Announcement (3 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Announcement</link>
-      <guid isPermaLink="false">Frippertron-1648246091--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Announcement</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 25 Mar 2022 18:08:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Mar 2022 20:21:02 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Walk-on (1 play)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Walk-on</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1648391755--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Soulful Old Man Sunshine (2019 Mix)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ee3ee51391309c17a7cc4fa10f9d6b.jpg" length="27020" type="image/jpeg"/>
       <pubDate>Sun, 27 Mar 2022 10:35:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Randy Newman - Rednecks (4 plays)</title>
+      <link>https://www.last.fm/music/Randy+Newman/_/Rednecks</link>
+      <guid isPermaLink="false">Frippertron-1648410852--da7bb7d8-557d-4635-9ca1-e6e985525bd5---Rednecks</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/876ca0211df75bae83582b3a31b5a29c.png" length="75863" type="image/png"/>
+      <pubDate>Sun, 27 Mar 2022 15:54:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
