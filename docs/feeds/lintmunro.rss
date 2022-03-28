@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Mar 2022 21:40:06 +0000</lastBuildDate>
-    <item>
-      <title>Hot Water Music - Killing Time (1 play)</title>
-      <link>https://www.last.fm/music/Hot+Water+Music/_/Killing+Time</link>
-      <guid isPermaLink="false">lintmunro-1648046796--c83907ee-8b5a-4547-8f68-96572243ea7f---Killing Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2382a2673f7d033a6a904e0f88a59db.jpg" length="23868" type="image/jpeg"/>
-      <pubDate>Wed, 23 Mar 2022 10:46:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Mar 2022 21:52:38 +0000</lastBuildDate>
     <item>
       <title>Hot Water Music - Newtown Scraper (1 play)</title>
       <link>https://www.last.fm/music/Hot+Water+Music/_/Newtown+Scraper</link>
@@ -226,7 +219,7 @@
       <pubDate>Fri, 25 Mar 2022 13:32:22 -0400</pubDate>
     </item>
     <item>
-      <title>Holy Fawn - Death Is A Relief (1 play)</title>
+      <title>Holy Fawn - Death Is A Relief (2 plays)</title>
       <link>https://www.last.fm/music/Holy+Fawn/_/Death+Is+A+Relief</link>
       <guid isPermaLink="false">lintmunro-1648229629--42489dbe-d79d-45a4-aee7-4666aba8180a---Death Is A Relief</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f8be50df7961e6a298a90389b590bdb.png" length="96722" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1648503320--f66d378e-d9f0-4c5d-a4b9-0ee1b9fb2e09---Growing Up Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0005f5016a6bcc0013c69f918c61f5bc.jpg" length="29920" type="image/jpeg"/>
       <pubDate>Mon, 28 Mar 2022 17:35:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Holy Fawn - Death Is A Relief (2 plays)</title>
+      <link>https://www.last.fm/music/Holy+Fawn/_/Death+Is+A+Relief</link>
+      <guid isPermaLink="false">lintmunro-1648503555--42489dbe-d79d-45a4-aee7-4666aba8180a---Death Is A Relief</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f8be50df7961e6a298a90389b590bdb.png" length="96722" type="image/png"/>
+      <pubDate>Mon, 28 Mar 2022 17:39:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
