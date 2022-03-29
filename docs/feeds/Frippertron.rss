@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Mar 2022 03:56:24 +0000</lastBuildDate>
-    <item>
-      <title>Hooverphonic - Cinderella (1 play)</title>
-      <link>https://www.last.fm/music/Hooverphonic/_/Cinderella</link>
-      <guid isPermaLink="false">Frippertron-1648445841--62dc94cc-f611-4345-87cb-b914796a4a45---Cinderella</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8e6db9877f9438eab4e833e234cf789.png" length="108176" type="image/png"/>
-      <pubDate>Mon, 28 Mar 2022 01:37:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Mar 2022 04:28:19 +0000</lastBuildDate>
     <item>
       <title>Hooverphonic - Nr. 9 (1 play)</title>
       <link>https://www.last.fm/music/Hooverphonic/_/Nr.+9</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1648526011--15b1cbac-060a-4136-9e07-4622c52c0f60---La Solitude</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
       <pubDate>Mon, 28 Mar 2022 23:53:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Siberian Khatru (73 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Siberian+Khatru</link>
+      <guid isPermaLink="false">Frippertron-1648526379--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Siberian Khatru</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee7d192fb14b6ccb57676f75b889fc.png" length="181338" type="image/png"/>
+      <pubDate>Mon, 28 Mar 2022 23:59:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
