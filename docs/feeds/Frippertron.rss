@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Mar 2022 09:46:11 +0000</lastBuildDate>
-    <item>
-      <title>Léo Ferré - La Solitude (42 plays)</title>
-      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/La+Solitude</link>
-      <guid isPermaLink="false">Frippertron-1648526011--15b1cbac-060a-4136-9e07-4622c52c0f60---La Solitude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
-      <pubDate>Mon, 28 Mar 2022 23:53:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yes - Siberian Khatru (73 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Siberian+Khatru</link>
-      <guid isPermaLink="false">Frippertron-1648526379--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Siberian Khatru</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee7d192fb14b6ccb57676f75b889fc.png" length="181338" type="image/png"/>
-      <pubDate>Mon, 28 Mar 2022 23:59:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Mar 2022 09:57:50 +0000</lastBuildDate>
     <item>
       <title>Genesis - Blood on the Rooftops (38 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Blood+on+the+Rooftops</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1648546915--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Hogwash and Balderdash</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
       <pubDate>Tue, 29 Mar 2022 05:41:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Ascending Forth (54 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Ascending+Forth</link>
+      <guid isPermaLink="false">Frippertron-1648547070--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ascending Forth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Tue, 29 Mar 2022 05:44:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - Forbidden Colours (255 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/Forbidden+Colours</link>
+      <guid isPermaLink="false">Frippertron-1648547673--719db6b1-0d91-458c-8d18-875ec44105bf---Forbidden Colours</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6643fe918794698be831a436d10c810.png" length="67260" type="image/png"/>
+      <pubDate>Tue, 29 Mar 2022 05:54:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
