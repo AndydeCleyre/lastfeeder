@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Apr 2022 15:20:04 +0000</lastBuildDate>
-    <item>
-      <title>Audience - Jackdaw (2 plays)</title>
-      <link>https://www.last.fm/music/Audience/_/Jackdaw</link>
-      <guid isPermaLink="false">manosg--1648569244--9e7b854c-c8af-4883-a7e4-d36a779c4421---Jackdaw</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb198834b3fb4ef9903b729c84351231.jpg" length="33192" type="image/jpeg"/>
-      <pubDate>Tue, 29 Mar 2022 11:54:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>HammerFall - No Son of Odin (2 plays)</title>
-      <link>https://www.last.fm/music/HammerFall/_/No+Son+of+Odin</link>
-      <guid isPermaLink="false">manosg--1648632683--abf5f674-dbad-4219-b3ad-dbd6fb163c8e---No Son of Odin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32d8445accbe2c0258aabae01ce7d79f.jpg" length="26426" type="image/jpeg"/>
-      <pubDate>Wed, 30 Mar 2022 05:31:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Apr 2022 15:43:08 +0000</lastBuildDate>
     <item>
       <title>Amorphis - On the Dark Waters (4 plays)</title>
       <link>https://www.last.fm/music/Amorphis/_/On+the+Dark+Waters</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1648912394--17fbada3-6dac-42f3-8a6c-8c1c1484f730---Don't Follow Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc66a4005871aa26c78f5fbd84e40bda.jpg" length="22895" type="image/jpeg"/>
       <pubDate>Sat, 02 Apr 2022 11:13:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fates Warning - The Road Goes On Forever (9 plays)</title>
+      <link>https://www.last.fm/music/Fates+Warning/_/The+Road+Goes+On+Forever</link>
+      <guid isPermaLink="false">manosg--1648912676--17fbada3-6dac-42f3-8a6c-8c1c1484f730---The Road Goes On Forever</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc66a4005871aa26c78f5fbd84e40bda.jpg" length="22895" type="image/jpeg"/>
+      <pubDate>Sat, 02 Apr 2022 11:17:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Hellacopters - Hopeless Case of a Kid in Denial (1 play)</title>
+      <link>https://www.last.fm/music/The+Hellacopters/_/Hopeless+Case+of+a+Kid+in+Denial</link>
+      <guid isPermaLink="false">manosg--1648913142--6be97d02-b66e-46d5-931c-0a81087fecbc---Hopeless Case of a Kid in Denial</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dc05df65c491b46613cd44258b93aa8.jpg" length="19736" type="image/jpeg"/>
+      <pubDate>Sat, 02 Apr 2022 11:25:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
