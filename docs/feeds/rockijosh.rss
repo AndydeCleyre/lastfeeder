@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Apr 2022 14:38:08 +0000</lastBuildDate>
-    <item>
-      <title>Lisa Miskovsky - Lighthouse (21 plays)</title>
-      <link>https://www.last.fm/music/Lisa+Miskovsky/_/Lighthouse</link>
-      <guid isPermaLink="false">rockijosh-1648417784--2b1ec960-982a-450d-a27b-d7a77a1b40ac---Lighthouse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2334f6afdb9ab94d4417e28812006467.jpg" length="12004" type="image/jpeg"/>
-      <pubDate>Sun, 27 Mar 2022 17:49:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Apr 2022 14:52:25 +0000</lastBuildDate>
     <item>
       <title>Lisa Miskovsky - Riding (13 plays)</title>
       <link>https://www.last.fm/music/Lisa+Miskovsky/_/Riding</link>
@@ -303,7 +296,7 @@
       <pubDate>Tue, 29 Mar 2022 08:26:02 -0400</pubDate>
     </item>
     <item>
-      <title>PUP - Matilda (1 play)</title>
+      <title>PUP - Matilda (2 plays)</title>
       <link>https://www.last.fm/music/PUP/_/Matilda</link>
       <guid isPermaLink="false">rockijosh-1648556951--3165f5e0-44ff-446a-81d7-c09ec69661ae---Matilda</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/51c0149feeead3198a6564562d480778.jpg" length="31832" type="image/jpeg"/>
@@ -348,6 +341,7 @@
       <title>Lucas &amp; Steve - Another Life (feat. Alida) (1 play)</title>
       <link>https://www.last.fm/music/Lucas+&amp;+Steve/_/Another+Life+(feat.+Alida)</link>
       <guid isPermaLink="false">rockijosh-1648996148--Lucas &amp; Steve---Another Life (feat. Alida)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bcef5504210396b4a8ed868167ad9aa.jpg" length="10614" type="image/jpeg"/>
       <pubDate>Sun, 03 Apr 2022 10:29:08 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1648996359--e0140a67-e4d1-4f13-8a01-364355bee46e---Ghost</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a3d813e3e2ac451f52d45297c8c5017.jpg" length="26863" type="image/jpeg"/>
       <pubDate>Sun, 03 Apr 2022 10:32:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>PUP - Matilda (2 plays)</title>
+      <link>https://www.last.fm/music/PUP/_/Matilda</link>
+      <guid isPermaLink="false">rockijosh-1648996582--3165f5e0-44ff-446a-81d7-c09ec69661ae---Matilda</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/51c0149feeead3198a6564562d480778.jpg" length="31832" type="image/jpeg"/>
+      <pubDate>Sun, 03 Apr 2022 10:36:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
