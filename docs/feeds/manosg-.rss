@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Apr 2022 09:43:07 +0000</lastBuildDate>
-    <item>
-      <title>Red Hot Chili Peppers - Dani California (1 play)</title>
-      <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Dani+California</link>
-      <guid isPermaLink="false">manosg--1649069636--8bfac288-ccc5-448d-9573-c33ea2aa5c30---Dani California</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb7d1a6c6e5240c48159d08b17ea022b.png" length="180254" type="image/png"/>
-      <pubDate>Mon, 04 Apr 2022 06:53:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Apr 2022 09:53:56 +0000</lastBuildDate>
     <item>
       <title>Red Hot Chili Peppers - Snow (Hey Oh) (1 play)</title>
       <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Snow+(Hey+Oh)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1649237888--aab5c954-cabe-432e-899e-1c4f99757327---Isolation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb8dc9ef8e9424fae276b80bff1649a.jpg" length="10664" type="image/jpeg"/>
       <pubDate>Wed, 06 Apr 2022 05:38:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toto - Mr. Friendly (5 plays)</title>
+      <link>https://www.last.fm/music/Toto/_/Mr.+Friendly</link>
+      <guid isPermaLink="false">manosg--1649238134--aab5c954-cabe-432e-899e-1c4f99757327---Mr. Friendly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb8dc9ef8e9424fae276b80bff1649a.jpg" length="10664" type="image/jpeg"/>
+      <pubDate>Wed, 06 Apr 2022 05:42:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
