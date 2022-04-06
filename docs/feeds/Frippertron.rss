@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Apr 2022 05:18:44 +0000</lastBuildDate>
-    <item>
-      <title>Fifty Foot Hose - The Things That Concern You (5 plays)</title>
-      <link>https://www.last.fm/music/Fifty+Foot+Hose/_/The+Things+That+Concern+You</link>
-      <guid isPermaLink="false">Frippertron-1649146724--c194b3fa-d1f4-450a-8ae8-c005c68a42d9---The Things That Concern You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60f408b9504d2e0ea8cda2a3698f3b68.jpg" length="35334" type="image/jpeg"/>
-      <pubDate>Tue, 05 Apr 2022 04:18:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fifty Foot Hose - Red The Sign Post (6 plays)</title>
-      <link>https://www.last.fm/music/Fifty+Foot+Hose/_/Red+The+Sign+Post</link>
-      <guid isPermaLink="false">Frippertron-1649146940--c194b3fa-d1f4-450a-8ae8-c005c68a42d9---Red The Sign Post</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60f408b9504d2e0ea8cda2a3698f3b68.jpg" length="35334" type="image/jpeg"/>
-      <pubDate>Tue, 05 Apr 2022 04:22:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Dismemberment Plan - A Life of Possibilities (30 plays)</title>
-      <link>https://www.last.fm/music/The+Dismemberment+Plan/_/A+Life+of+Possibilities</link>
-      <guid isPermaLink="false">Frippertron-1649147120--1131e5da-dfdf-46c9-b6ff-b7ac552c2a3c---A Life of Possibilities</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c211c337a6b942e0a7302b4d89545f0e.png" length="114831" type="image/png"/>
-      <pubDate>Tue, 05 Apr 2022 04:25:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Apr 2022 05:38:40 +0000</lastBuildDate>
     <item>
       <title>The Dismemberment Plan - Memory Machine (12 plays)</title>
       <link>https://www.last.fm/music/The+Dismemberment+Plan/_/Memory+Machine</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1649222179--Envy---Invisible Thread</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af1f952421ce1f1276a0f84cf7baf212.png" length="112919" type="image/png"/>
       <pubDate>Wed, 06 Apr 2022 01:16:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Envy - The Spiral Manipulation (1 play)</title>
+      <link>https://www.last.fm/music/Envy/_/The+Spiral+Manipulation</link>
+      <guid isPermaLink="false">Frippertron-1649222343--Envy---The Spiral Manipulation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af1f952421ce1f1276a0f84cf7baf212.png" length="112919" type="image/png"/>
+      <pubDate>Wed, 06 Apr 2022 01:19:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Envy - A Cage It Falls Into (1 play)</title>
+      <link>https://www.last.fm/music/Envy/_/A+Cage+It+Falls+Into</link>
+      <guid isPermaLink="false">Frippertron-1649222614--Envy---A Cage It Falls Into</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af1f952421ce1f1276a0f84cf7baf212.png" length="112919" type="image/png"/>
+      <pubDate>Wed, 06 Apr 2022 01:23:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Envy - The Light of My Footprints (1 play)</title>
+      <link>https://www.last.fm/music/Envy/_/The+Light+of+My+Footprints</link>
+      <guid isPermaLink="false">Frippertron-1649222998--Envy---The Light of My Footprints</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af1f952421ce1f1276a0f84cf7baf212.png" length="112919" type="image/png"/>
+      <pubDate>Wed, 06 Apr 2022 01:29:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
