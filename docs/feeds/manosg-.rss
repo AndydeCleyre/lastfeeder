@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Apr 2022 05:38:58 +0000</lastBuildDate>
-    <item>
-      <title>Toto - All Us Boys (4 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/All+Us+Boys</link>
-      <guid isPermaLink="false">manosg--1649231215--aab5c954-cabe-432e-899e-1c4f99757327---All Us Boys</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c5387763b960467bc6b2a7c2a0af206e.jpg" length="17462" type="image/jpeg"/>
-      <pubDate>Wed, 06 Apr 2022 03:46:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Toto - Mama (4 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/Mama</link>
-      <guid isPermaLink="false">manosg--1649231599--aab5c954-cabe-432e-899e-1c4f99757327---Mama</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c5387763b960467bc6b2a7c2a0af206e.jpg" length="17462" type="image/jpeg"/>
-      <pubDate>Wed, 06 Apr 2022 03:53:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Apr 2022 05:52:32 +0000</lastBuildDate>
     <item>
       <title>Toto - White Sister (4 plays)</title>
       <link>https://www.last.fm/music/Toto/_/White+Sister</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1649353300--67930b3e-e00b-469f-8c74-fd69f20522ec---Nothing Can Come Between Us</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae3aa05773f037f23b21b97a9b26ae0a.png" length="141136" type="image/png"/>
       <pubDate>Thu, 07 Apr 2022 13:41:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Joe Satriani - Sahara (8 plays)</title>
+      <link>https://www.last.fm/music/Joe+Satriani/_/Sahara</link>
+      <guid isPermaLink="false">manosg--1649396266--29762c82-bb92-4acd-b1fb-09cc4da250d2---Sahara</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1f9ed6a69e24016f248a5bad0fe7890.jpg" length="8438" type="image/jpeg"/>
+      <pubDate>Fri, 08 Apr 2022 01:37:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Joe Satriani - The Elephants of Mars (1 play)</title>
+      <link>https://www.last.fm/music/Joe+Satriani/_/The+Elephants+of+Mars</link>
+      <guid isPermaLink="false">manosg--1649396544--29762c82-bb92-4acd-b1fb-09cc4da250d2---The Elephants of Mars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1f9ed6a69e24016f248a5bad0fe7890.jpg" length="8438" type="image/jpeg"/>
+      <pubDate>Fri, 08 Apr 2022 01:42:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
