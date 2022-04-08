@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Apr 2022 17:53:53 +0000</lastBuildDate>
-    <item>
-      <title>Toto - Lorraine (4 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/Lorraine</link>
-      <guid isPermaLink="false">manosg--1649230176--aab5c954-cabe-432e-899e-1c4f99757327---Lorraine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c5387763b960467bc6b2a7c2a0af206e.jpg" length="17462" type="image/jpeg"/>
-      <pubDate>Wed, 06 Apr 2022 03:29:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Apr 2022 05:38:58 +0000</lastBuildDate>
     <item>
       <title>Toto - All Us Boys (4 plays)</title>
       <link>https://www.last.fm/music/Toto/_/All+Us+Boys</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1649353079--67930b3e-e00b-469f-8c74-fd69f20522ec---Paradise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae3aa05773f037f23b21b97a9b26ae0a.png" length="141136" type="image/png"/>
       <pubDate>Thu, 07 Apr 2022 13:37:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sade - Nothing Can Come Between Us (15 plays)</title>
+      <link>https://www.last.fm/music/Sade/_/Nothing+Can+Come+Between+Us</link>
+      <guid isPermaLink="false">manosg--1649353300--67930b3e-e00b-469f-8c74-fd69f20522ec---Nothing Can Come Between Us</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae3aa05773f037f23b21b97a9b26ae0a.png" length="141136" type="image/png"/>
+      <pubDate>Thu, 07 Apr 2022 13:41:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
