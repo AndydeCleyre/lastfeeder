@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Apr 2022 18:24:02 +0000</lastBuildDate>
-    <item>
-      <title>CHVRCHES - How Not To Drown (feat. Robert Smith) (24 plays)</title>
-      <link>https://www.last.fm/music/CHVRCHES/_/How+Not+To+Drown+(feat.+Robert+Smith)</link>
-      <guid isPermaLink="false">WillieFisterbut-1649415597--6a93afbb-257f-4166-b389-9f2a1e5c5df8---How Not To Drown (feat. Robert Smith)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9a1347fe5731ec790aef9d59a7f1b30.jpg" length="10071" type="image/jpeg"/>
-      <pubDate>Fri, 08 Apr 2022 06:59:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 09 Apr 2022 19:52:45 +0000</lastBuildDate>
     <item>
       <title>CHVRCHES - Final Girl (35 plays)</title>
       <link>https://www.last.fm/music/CHVRCHES/_/Final+Girl</link>
@@ -40,12 +33,14 @@
       <title>Die Krupps - Fly Martyrs Fly (25 plays)</title>
       <link>https://www.last.fm/music/Die+Krupps/_/Fly+Martyrs+Fly</link>
       <guid isPermaLink="false">WillieFisterbut-1649420420--fc555365-17a2-4820-84e8-400887aa3d6f---Fly Martyrs Fly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d97ddcd5f4e00b06218582b435fb6b5e.png" length="172131" type="image/png"/>
       <pubDate>Fri, 08 Apr 2022 08:20:20 -0400</pubDate>
     </item>
     <item>
       <title>Die Krupps - Branded (15 plays)</title>
       <link>https://www.last.fm/music/Die+Krupps/_/Branded</link>
       <guid isPermaLink="false">WillieFisterbut-1649420576--fc555365-17a2-4820-84e8-400887aa3d6f---Branded</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d97ddcd5f4e00b06218582b435fb6b5e.png" length="172131" type="image/png"/>
       <pubDate>Fri, 08 Apr 2022 08:22:56 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">WillieFisterbut-1649455526--69ee3720-a7cb-4402-b48d-a02c366f2bcf---M</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 08 Apr 2022 18:05:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHVRCHES - Tether (3 plays)</title>
+      <link>https://www.last.fm/music/CHVRCHES/_/Tether</link>
+      <guid isPermaLink="false">WillieFisterbut-1649525431--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Tether</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4857b5e7f93d4e1e9bdde4166e7062e6.png" length="148600" type="image/png"/>
+      <pubDate>Sat, 09 Apr 2022 13:30:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
