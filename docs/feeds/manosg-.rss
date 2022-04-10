@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Apr 2022 10:21:46 +0000</lastBuildDate>
-    <item>
-      <title>Annie Lennox - Primitive (1 play)</title>
-      <link>https://www.last.fm/music/Annie+Lennox/_/Primitive</link>
-      <guid isPermaLink="false">manosg--1649484580--3e30aebd-0557-4cfd-8fb9-3945afa5d72b---Primitive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f27704c71722093d6300417c31dfa6d2.jpg" length="21629" type="image/jpeg"/>
-      <pubDate>Sat, 09 Apr 2022 02:09:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Annie Lennox - Stay by Me (1 play)</title>
-      <link>https://www.last.fm/music/Annie+Lennox/_/Stay+by+Me</link>
-      <guid isPermaLink="false">manosg--1649484840--3e30aebd-0557-4cfd-8fb9-3945afa5d72b---Stay by Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f27704c71722093d6300417c31dfa6d2.jpg" length="21629" type="image/jpeg"/>
-      <pubDate>Sat, 09 Apr 2022 02:14:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 Apr 2022 10:53:39 +0000</lastBuildDate>
     <item>
       <title>Annie Lennox - The Gift (1 play)</title>
       <link>https://www.last.fm/music/Annie+Lennox/_/The+Gift</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1649584793--67930b3e-e00b-469f-8c74-fd69f20522ec---Nothing Can Come Between Us</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae3aa05773f037f23b21b97a9b26ae0a.png" length="141136" type="image/png"/>
       <pubDate>Sun, 10 Apr 2022 05:59:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toto - Rosanna (8 plays)</title>
+      <link>https://www.last.fm/music/Toto/_/Rosanna</link>
+      <guid isPermaLink="false">manosg--1649586837--aab5c954-cabe-432e-899e-1c4f99757327---Rosanna</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png" length="74475" type="image/png"/>
+      <pubDate>Sun, 10 Apr 2022 06:33:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toto - Make Believe (6 plays)</title>
+      <link>https://www.last.fm/music/Toto/_/Make+Believe</link>
+      <guid isPermaLink="false">manosg--1649587569--aab5c954-cabe-432e-899e-1c4f99757327---Make Believe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png" length="74475" type="image/png"/>
+      <pubDate>Sun, 10 Apr 2022 06:46:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
