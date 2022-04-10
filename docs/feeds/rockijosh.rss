@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Apr 2022 17:40:30 +0000</lastBuildDate>
-    <item>
-      <title>PUP - Matilda (8 plays)</title>
-      <link>https://www.last.fm/music/PUP/_/Matilda</link>
-      <guid isPermaLink="false">rockijosh-1649510788--3165f5e0-44ff-446a-81d7-c09ec69661ae---Matilda</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/51c0149feeead3198a6564562d480778.jpg" length="31832" type="image/jpeg"/>
-      <pubDate>Sat, 09 Apr 2022 09:26:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dance Gavin Dance - Synergy (feat. Rob Damiani) (4 plays)</title>
-      <link>https://www.last.fm/music/Dance+Gavin+Dance/_/Synergy+(feat.+Rob+Damiani)</link>
-      <guid isPermaLink="false">rockijosh-1649511020--16456fed-c9f2-4adf-b6ea-97b648c474d2---Synergy (feat. Rob Damiani)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d4b0d44a0b0f3ea7e7f6461dfef70ed2.jpg" length="32870" type="image/jpeg"/>
-      <pubDate>Sat, 09 Apr 2022 09:30:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 Apr 2022 17:52:26 +0000</lastBuildDate>
     <item>
       <title>(G)I-DLE - TOMBOY (7 plays)</title>
       <link>https://www.last.fm/music/(G)I-DLE/_/TOMBOY</link>
@@ -79,7 +65,7 @@
       <pubDate>Sat, 09 Apr 2022 09:55:44 -0400</pubDate>
     </item>
     <item>
-      <title>Billy Joel - Only the Good Die Young (48 plays)</title>
+      <title>Billy Joel - Only the Good Die Young (49 plays)</title>
       <link>https://www.last.fm/music/Billy+Joel/_/Only+the+Good+Die+Young</link>
       <guid isPermaLink="false">rockijosh-1649512715--64b94289-9474-4d43-8c93-918ccc1920d1---Only the Good Die Young</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/124d18bbd0eb42f8941431733c5e8783.png" length="125029" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1649612253--dbc26631-5e61-4ba2-84ff-e1423a1c288a---Miss Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87133c92a2df90b5321d5fcfcfa9a14b.jpg" length="17445" type="image/jpeg"/>
       <pubDate>Sun, 10 Apr 2022 13:37:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coheed and Cambria - The Liars Club (11 plays)</title>
+      <link>https://www.last.fm/music/Coheed+and+Cambria/_/The+Liars+Club</link>
+      <guid isPermaLink="false">rockijosh-1649612419--ae1b47d5-5128-431c-9d30-e08fd90e0767---The Liars Club</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e8d02acf924893f85ce407c8e4586a4.jpg" length="28544" type="image/jpeg"/>
+      <pubDate>Sun, 10 Apr 2022 13:40:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Billy Joel - Only the Good Die Young (49 plays)</title>
+      <link>https://www.last.fm/music/Billy+Joel/_/Only+the+Good+Die+Young</link>
+      <guid isPermaLink="false">rockijosh-1649612654--64b94289-9474-4d43-8c93-918ccc1920d1---Only the Good Die Young</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/124d18bbd0eb42f8941431733c5e8783.png" length="125029" type="image/png"/>
+      <pubDate>Sun, 10 Apr 2022 13:44:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
