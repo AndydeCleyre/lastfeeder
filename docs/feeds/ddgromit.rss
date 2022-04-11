@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Apr 2022 02:46:18 +0000</lastBuildDate>
-    <item>
-      <title>Nils Frahm - Says (5 plays)</title>
-      <link>https://www.last.fm/music/Nils+Frahm/_/Says</link>
-      <guid isPermaLink="false">ddgromit-1648955527--d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01---Says</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dfe356cf08c94219b6bdfa9167701ab4.jpg" length="9340" type="image/jpeg"/>
-      <pubDate>Sat, 02 Apr 2022 23:12:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Apr 2022 18:27:48 +0000</lastBuildDate>
     <item>
       <title>N.E.R.D - Lightning Fire Magic Prayer (4 plays)</title>
       <link>https://www.last.fm/music/N.E.R.D/_/Lightning+Fire+Magic+Prayer</link>
@@ -243,7 +236,6 @@
       <title>Slow Meadow - Screensaver Prelude (1 play)</title>
       <link>https://www.last.fm/music/Slow+Meadow/_/Screensaver+Prelude</link>
       <guid isPermaLink="false">ddgromit-1649131527--266bc994-9310-41ea-84b1-d84e10c2967d---Screensaver Prelude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/abe11482c0379bbd8e5684ecfd873129.jpg" length="12767" type="image/jpeg"/>
       <pubDate>Tue, 05 Apr 2022 00:05:27 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">ddgromit-1649135338--Jakob Ahlbom---The Fig Tree</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9db899626b4f6c2736e07fc0dd495ae6.jpg" length="10723" type="image/jpeg"/>
       <pubDate>Tue, 05 Apr 2022 01:08:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cocomelon - She'll Be Coming Round the Mountain (1 play)</title>
+      <link>https://www.last.fm/music/Cocomelon/_/She%27ll+Be+Coming+Round+the+Mountain</link>
+      <guid isPermaLink="false">ddgromit-1649385712--Cocomelon---She'll Be Coming Round the Mountain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 07 Apr 2022 22:41:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
