@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Apr 2022 06:26:45 +0000</lastBuildDate>
-    <item>
-      <title>Paul McCartney - Coming Up (16 plays)</title>
-      <link>https://www.last.fm/music/Paul+McCartney/_/Coming+Up</link>
-      <guid isPermaLink="false">Frippertron-1649408335--ba550d0e-adac-4864-b88b-407cab5e76af---Coming Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbc32d92bf384d5495d871c024c6ed3d.png" length="199147" type="image/png"/>
-      <pubDate>Fri, 08 Apr 2022 04:58:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Apr 2022 07:21:11 +0000</lastBuildDate>
     <item>
       <title>King Crimson - 21st Century Schizoid Man (327 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/21st+Century+Schizoid+Man</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1649657228--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---Glory Box</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29f72d0333df4193981b5ff16dd37df6.png" length="81442" type="image/png"/>
       <pubDate>Mon, 11 Apr 2022 02:07:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Caroline - dark blue (4 plays)</title>
+      <link>https://www.last.fm/music/Caroline/_/dark+blue</link>
+      <guid isPermaLink="false">Frippertron-1649661141--Caroline---dark blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101d26194a33557f8c529fe6d26457e9.jpg" length="20526" type="image/jpeg"/>
+      <pubDate>Mon, 11 Apr 2022 03:12:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
