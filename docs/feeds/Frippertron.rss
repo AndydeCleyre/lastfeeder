@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Apr 2022 09:42:25 +0000</lastBuildDate>
-    <item>
-      <title>Caroline - Good morning (red) (5 plays)</title>
-      <link>https://www.last.fm/music/Caroline/_/Good+morning+(red)</link>
-      <guid isPermaLink="false">Frippertron-1649732361--Caroline---Good morning (red)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101d26194a33557f8c529fe6d26457e9.jpg" length="20526" type="image/jpeg"/>
-      <pubDate>Mon, 11 Apr 2022 22:59:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Apr 2022 09:53:53 +0000</lastBuildDate>
     <item>
       <title>Slowdive - Rutti (37 plays)</title>
       <link>https://www.last.fm/music/Slowdive/_/Rutti</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1649756304--c9e69e05-2c05-4700-a311-53fe4ffc649e---In My Living Room</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb0bf35014127b8530bd4f1c9971017.jpg" length="18662" type="image/jpeg"/>
       <pubDate>Tue, 12 Apr 2022 05:38:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Close to the Edge (182 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Close+to+the+Edge</link>
+      <guid isPermaLink="false">Frippertron-1649756446--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Close to the Edge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee7d192fb14b6ccb57676f75b889fc.png" length="181338" type="image/png"/>
+      <pubDate>Tue, 12 Apr 2022 05:40:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
