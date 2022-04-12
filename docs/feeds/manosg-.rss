@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Apr 2022 10:43:55 +0000</lastBuildDate>
-    <item>
-      <title>Britney Spears - ...Baby One More Time (1 play)</title>
-      <link>https://www.last.fm/music/Britney+Spears/_/...Baby+One+More+Time</link>
-      <guid isPermaLink="false">manosg--1649661770--45a663b5-b1cb-4a91-bff6-2bef7bbfdd76---...Baby One More Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb2e86f36157117051cc0de5dc1f5852.jpg" length="15988" type="image/jpeg"/>
-      <pubDate>Mon, 11 Apr 2022 03:22:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Apr 2022 10:56:56 +0000</lastBuildDate>
     <item>
       <title>En Vogue - Free Your Mind (1 play)</title>
       <link>https://www.last.fm/music/En+Vogue/_/Free+Your+Mind</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1649759100--Nirvana---Lithium</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e944b12f5bf9d4bdd1979bb946f97f4.jpg" length="21212" type="image/jpeg"/>
       <pubDate>Tue, 12 Apr 2022 06:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prince - The Most Beautiful Girl in the World (1 play)</title>
+      <link>https://www.last.fm/music/Prince/_/The+Most+Beautiful+Girl+in+the+World</link>
+      <guid isPermaLink="false">manosg--1649759357--070d193a-845c-479f-980e-bef15710653e---The Most Beautiful Girl in the World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cf55534c82ec497dc91ddbc212c2207e.png" length="164504" type="image/png"/>
+      <pubDate>Tue, 12 Apr 2022 06:29:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
