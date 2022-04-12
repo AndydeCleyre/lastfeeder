@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Apr 2022 05:38:49 +0000</lastBuildDate>
-    <item>
-      <title>Portishead - All Mine (51 plays)</title>
-      <link>https://www.last.fm/music/Portishead/_/All+Mine</link>
-      <guid isPermaLink="false">Frippertron-1649656968--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---All Mine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99559e668b484db9950a032fcb00139f.png" length="73916" type="image/png"/>
-      <pubDate>Mon, 11 Apr 2022 02:02:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Portishead - Glory Box (11 plays)</title>
-      <link>https://www.last.fm/music/Portishead/_/Glory+Box</link>
-      <guid isPermaLink="false">Frippertron-1649657228--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---Glory Box</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29f72d0333df4193981b5ff16dd37df6.png" length="81442" type="image/png"/>
-      <pubDate>Mon, 11 Apr 2022 02:07:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Apr 2022 05:52:38 +0000</lastBuildDate>
     <item>
       <title>Caroline - dark blue (5 plays)</title>
       <link>https://www.last.fm/music/Caroline/_/dark+blue</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1649741527--Destroyer---Looters' Follies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4686cf46424e4a89cac7477c393670b3.png" length="145826" type="image/png"/>
       <pubDate>Tue, 12 Apr 2022 01:32:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Fatima Mansions - Angel's Delight (3 plays)</title>
+      <link>https://www.last.fm/music/The+Fatima+Mansions/_/Angel%27s+Delight</link>
+      <guid isPermaLink="false">Frippertron-1649742026--d29658ea-c7d1-45a1-b272-9628a06c28e9---Angel's Delight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef728684cfd42c8016de2fbb6a928fa8.jpg" length="29915" type="image/jpeg"/>
+      <pubDate>Tue, 12 Apr 2022 01:40:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Fatima Mansions - Blues For Ceausescu (2 plays)</title>
+      <link>https://www.last.fm/music/The+Fatima+Mansions/_/Blues+For+Ceausescu</link>
+      <guid isPermaLink="false">Frippertron-1649742312--d29658ea-c7d1-45a1-b272-9628a06c28e9---Blues For Ceausescu</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef728684cfd42c8016de2fbb6a928fa8.jpg" length="29915" type="image/jpeg"/>
+      <pubDate>Tue, 12 Apr 2022 01:45:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
