@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Apr 2022 09:53:53 +0000</lastBuildDate>
-    <item>
-      <title>Slowdive - Rutti (37 plays)</title>
-      <link>https://www.last.fm/music/Slowdive/_/Rutti</link>
-      <guid isPermaLink="false">Frippertron-1649732732--a16371b9-7d36-497a-a9d4-42b0a0440c5e---Rutti</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17ebb43f28ab48318e2937bd8915f96c.png" length="14162" type="image/png"/>
-      <pubDate>Mon, 11 Apr 2022 23:05:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Apr 2022 10:27:10 +0000</lastBuildDate>
     <item>
       <title>Slowdive - Crazy for You (38 plays)</title>
       <link>https://www.last.fm/music/Slowdive/_/Crazy+for+You</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1649756446--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Close to the Edge</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee7d192fb14b6ccb57676f75b889fc.png" length="181338" type="image/png"/>
       <pubDate>Tue, 12 Apr 2022 05:40:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Red Noise - Don't Touch Me (I'm Electric) (11 plays)</title>
+      <link>https://www.last.fm/music/Red+Noise/_/Don%27t+Touch+Me+(I%27m+Electric)</link>
+      <guid isPermaLink="false">Frippertron-1649757599--Red Noise---Don't Touch Me (I'm Electric)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 12 Apr 2022 05:59:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
