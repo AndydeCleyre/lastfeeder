@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Apr 2022 17:04:03 +0000</lastBuildDate>
-    <item>
-      <title>Toto - We Made It (6 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/We+Made+It</link>
-      <guid isPermaLink="false">manosg--1649602516--aab5c954-cabe-432e-899e-1c4f99757327---We Made It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png" length="74475" type="image/png"/>
-      <pubDate>Sun, 10 Apr 2022 10:55:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Toto - Waiting for Your Love (6 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/Waiting+for+Your+Love</link>
-      <guid isPermaLink="false">manosg--1649602753--aab5c954-cabe-432e-899e-1c4f99757327---Waiting for Your Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png" length="74475" type="image/png"/>
-      <pubDate>Sun, 10 Apr 2022 10:59:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Apr 2022 09:27:50 +0000</lastBuildDate>
     <item>
       <title>En Vogue - My Lovin' (You're Never Gonna Get It) (1 play)</title>
       <link>https://www.last.fm/music/En+Vogue/_/My+Lovin%27+(You%27re+Never+Gonna+Get+It)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1649696125--1a1cd7f3-e5df-4eca-bae2-2757c9e656b5---Come Undone</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e9649d7124824dee8b1392304cde797d.png" length="78886" type="image/png"/>
       <pubDate>Mon, 11 Apr 2022 12:55:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nirvana - Come as You Are (8 plays)</title>
+      <link>https://www.last.fm/music/Nirvana/_/Come+as+You+Are</link>
+      <guid isPermaLink="false">manosg--1649696382--Nirvana---Come as You Are</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e944b12f5bf9d4bdd1979bb946f97f4.jpg" length="21212" type="image/jpeg"/>
+      <pubDate>Mon, 11 Apr 2022 12:59:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tom Petty and The Heartbreakers - Learning to Fly (1 play)</title>
+      <link>https://www.last.fm/music/Tom+Petty+and+The+Heartbreakers/_/Learning+to+Fly</link>
+      <guid isPermaLink="false">manosg--1649754933--f93dbc64-6f08-4033-bcc7-8a0bb4689849---Learning to Fly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29615dc2e2ab5a056aabe327e2e6782d.jpg" length="31482" type="image/jpeg"/>
+      <pubDate>Tue, 12 Apr 2022 05:15:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
