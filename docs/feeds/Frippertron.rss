@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Apr 2022 09:45:50 +0000</lastBuildDate>
-    <item>
-      <title>Dennis Wilson - Constant Companion (17 plays)</title>
-      <link>https://www.last.fm/music/Dennis+Wilson/_/Constant+Companion</link>
-      <guid isPermaLink="false">Frippertron-1649824959--4051f6bf-6a59-4d23-bd8b-2fddb1389dc0---Constant Companion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81573b65ca50f311b2c4c25edf98dbdc.jpg" length="24429" type="image/jpeg"/>
-      <pubDate>Wed, 13 Apr 2022 00:42:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Apr 2022 09:57:35 +0000</lastBuildDate>
     <item>
       <title>Dennis Wilson - Love Surrounds Me (19 plays)</title>
       <link>https://www.last.fm/music/Dennis+Wilson/_/Love+Surrounds+Me</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1649842896--Destroyer---Bay of Pigs (Detail)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06dfcf160de957fabd171164b82571ca.jpg" length="15137" type="image/jpeg"/>
       <pubDate>Wed, 13 Apr 2022 05:41:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Destroyer - Crimson Tide (39 plays)</title>
+      <link>https://www.last.fm/music/Destroyer/_/Crimson+Tide</link>
+      <guid isPermaLink="false">Frippertron-1649843575--Destroyer---Crimson Tide</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8943cd5bb4b4676b57e066571545e817.jpg" length="13672" type="image/jpeg"/>
+      <pubDate>Wed, 13 Apr 2022 05:52:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
