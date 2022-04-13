@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Apr 2022 09:25:05 +0000</lastBuildDate>
-    <item>
-      <title>Massive Attack - Teardrop (1 play)</title>
-      <link>https://www.last.fm/music/Massive+Attack/_/Teardrop</link>
-      <guid isPermaLink="false">manosg--1649674607--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Teardrop</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
-      <pubDate>Mon, 11 Apr 2022 06:56:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Metallica - Nothing Else Matters (8 plays)</title>
-      <link>https://www.last.fm/music/Metallica/_/Nothing+Else+Matters</link>
-      <guid isPermaLink="false">manosg--1649674937--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Nothing Else Matters</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2adc3b653c5465d560b2d8cb95d8a974.jpg" length="8232" type="image/jpeg"/>
-      <pubDate>Mon, 11 Apr 2022 07:02:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Apr 2022 09:46:08 +0000</lastBuildDate>
     <item>
       <title>Guns N' Roses - November Rain (6 plays)</title>
       <link>https://www.last.fm/music/Guns+N%27+Roses/_/November+Rain</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1649841569--3rd Secret---Lies Fade Away</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e87f8a2698daedf91cbd4c5d2e76c117.jpg" length="23469" type="image/jpeg"/>
       <pubDate>Wed, 13 Apr 2022 05:19:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>3rd Secret - Live Without You (1 play)</title>
+      <link>https://www.last.fm/music/3rd+Secret/_/Live+Without+You</link>
+      <guid isPermaLink="false">manosg--1649841795--3rd Secret---Live Without You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e87f8a2698daedf91cbd4c5d2e76c117.jpg" length="23469" type="image/jpeg"/>
+      <pubDate>Wed, 13 Apr 2022 05:23:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>3rd Secret - Right Stuff (1 play)</title>
+      <link>https://www.last.fm/music/3rd+Secret/_/Right+Stuff</link>
+      <guid isPermaLink="false">manosg--1649841965--3rd Secret---Right Stuff</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e87f8a2698daedf91cbd4c5d2e76c117.jpg" length="23469" type="image/jpeg"/>
+      <pubDate>Wed, 13 Apr 2022 05:26:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
