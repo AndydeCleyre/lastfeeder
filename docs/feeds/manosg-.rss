@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Apr 2022 17:34:47 +0000</lastBuildDate>
-    <item>
-      <title>Aerosmith - Amazing (1 play)</title>
-      <link>https://www.last.fm/music/Aerosmith/_/Amazing</link>
-      <guid isPermaLink="false">manosg--1649758743--3d2b98e5-556f-4451-a3ff-c50ea18d57cb---Amazing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ea12fabf8454ffeb59e4e651e115331.png" length="203741" type="image/png"/>
-      <pubDate>Tue, 12 Apr 2022 06:19:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Nirvana - Lithium (3 plays)</title>
-      <link>https://www.last.fm/music/Nirvana/_/Lithium</link>
-      <guid isPermaLink="false">manosg--1649759100--Nirvana---Lithium</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e944b12f5bf9d4bdd1979bb946f97f4.jpg" length="21212" type="image/jpeg"/>
-      <pubDate>Tue, 12 Apr 2022 06:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prince - The Most Beautiful Girl in the World (1 play)</title>
-      <link>https://www.last.fm/music/Prince/_/The+Most+Beautiful+Girl+in+the+World</link>
-      <guid isPermaLink="false">manosg--1649759357--070d193a-845c-479f-980e-bef15710653e---The Most Beautiful Girl in the World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cf55534c82ec497dc91ddbc212c2207e.png" length="164504" type="image/png"/>
-      <pubDate>Tue, 12 Apr 2022 06:29:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Apr 2022 17:52:53 +0000</lastBuildDate>
     <item>
       <title>Garbage - Stupid Girl - 2015 - Remaster (1 play)</title>
       <link>https://www.last.fm/music/Garbage/_/Stupid+Girl+-+2015+-+Remaster</link>
@@ -100,7 +79,7 @@
       <pubDate>Wed, 13 Apr 2022 02:03:40 -0400</pubDate>
     </item>
     <item>
-      <title>Madonna - Frozen</title>
+      <title>Madonna - Frozen (2 plays)</title>
       <link>https://www.last.fm/music/Madonna/_/Frozen</link>
       <guid isPermaLink="false">manosg--1649830114--79239441-bfd5-4981-a70c-55c3f15c1287---Frozen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a43b8ae5314bd2377ed0d96fef68186c.png" length="163142" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1649870514--65314b12-0e08-43fa-ba33-baaa7b874c15---The Future - Live in Dublin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
       <pubDate>Wed, 13 Apr 2022 13:21:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Bird on the Wire - Live in Dublin (1 play)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Bird+on+the+Wire+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1649870922--65314b12-0e08-43fa-ba33-baaa7b874c15---Bird on the Wire - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Wed, 13 Apr 2022 13:28:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Everybody Knows - Live in Dublin (1 play)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Everybody+Knows+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1649871398--65314b12-0e08-43fa-ba33-baaa7b874c15---Everybody Knows - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Wed, 13 Apr 2022 13:36:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Who by Fire - Live in Dublin (1 play)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Who+by+Fire+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1649871734--65314b12-0e08-43fa-ba33-baaa7b874c15---Who by Fire - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Wed, 13 Apr 2022 13:42:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
