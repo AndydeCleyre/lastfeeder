@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Apr 2022 05:39:41 +0000</lastBuildDate>
-    <item>
-      <title>Portishead - We Carry On (47 plays)</title>
-      <link>https://www.last.fm/music/Portishead/_/We+Carry+On</link>
-      <guid isPermaLink="false">Frippertron-1649834778--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---We Carry On</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/279a1305beda45e3814e8ad2e5d7c428.png" length="51591" type="image/png"/>
-      <pubDate>Wed, 13 Apr 2022 03:26:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Freddie Mercury - Love Kills (44 plays)</title>
-      <link>https://www.last.fm/music/Freddie+Mercury/_/Love+Kills</link>
-      <guid isPermaLink="false">Frippertron-1649835155--022589ac-7177-460d-a178-9976cf70e29f---Love Kills</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89185693dd062051de6b1b41e527678a.png" length="175015" type="image/png"/>
-      <pubDate>Wed, 13 Apr 2022 03:32:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Apr 2022 05:52:13 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Sail On, Sailor (98 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Sail+On,+Sailor</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1649914448--60aa2510-4ab1-4e50-9267-30a15700dc1c---Firth of Fifth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d20439b8467234f5e083884792cc5c6.png" length="109382" type="image/png"/>
       <pubDate>Thu, 14 Apr 2022 01:34:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Léo Ferré - La Solitude (44 plays)</title>
+      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/La+Solitude</link>
+      <guid isPermaLink="false">Frippertron-1649915065--15b1cbac-060a-4136-9e07-4622c52c0f60---La Solitude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
+      <pubDate>Thu, 14 Apr 2022 01:44:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Flaming Lips - The Abandoned Hospital Ship (17 plays)</title>
+      <link>https://www.last.fm/music/The+Flaming+Lips/_/The+Abandoned+Hospital+Ship</link>
+      <guid isPermaLink="false">Frippertron-1649915401--1f43d76f-8edf-44f6-aaf1-b65f05ad9402---The Abandoned Hospital Ship</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d5fe77ecd5b4863a61cf63cc16392d2.jpg" length="23410" type="image/jpeg"/>
+      <pubDate>Thu, 14 Apr 2022 01:50:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
