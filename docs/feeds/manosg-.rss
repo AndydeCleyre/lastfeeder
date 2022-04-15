@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Apr 2022 14:40:23 +0000</lastBuildDate>
-    <item>
-      <title>Live - I Alone (1 play)</title>
-      <link>https://www.last.fm/music/Live/_/I+Alone</link>
-      <guid isPermaLink="false">manosg--1649829588--Live---I Alone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1621e4f1b3da45a6a289ae97ce982e20.png" length="155843" type="image/png"/>
-      <pubDate>Wed, 13 Apr 2022 01:59:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Annie Lennox - Why (2 plays)</title>
-      <link>https://www.last.fm/music/Annie+Lennox/_/Why</link>
-      <guid isPermaLink="false">manosg--1649829820--3e30aebd-0557-4cfd-8fb9-3945afa5d72b---Why</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f27704c71722093d6300417c31dfa6d2.jpg" length="21629" type="image/jpeg"/>
-      <pubDate>Wed, 13 Apr 2022 02:03:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Apr 2022 14:52:43 +0000</lastBuildDate>
     <item>
       <title>Madonna - Frozen (2 plays)</title>
       <link>https://www.last.fm/music/Madonna/_/Frozen</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1649955442--65314b12-0e08-43fa-ba33-baaa7b874c15---Tower of Song - Live in Dublin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
       <pubDate>Thu, 14 Apr 2022 12:57:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Suzanne - Live in Dublin (1 play)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Suzanne+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1650033571--65314b12-0e08-43fa-ba33-baaa7b874c15---Suzanne - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Fri, 15 Apr 2022 10:39:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Chelsea Hotel #2 - Live in Dublin (1 play)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Chelsea+Hotel+%232+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1650033836--65314b12-0e08-43fa-ba33-baaa7b874c15---Chelsea Hotel #2 - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Fri, 15 Apr 2022 10:43:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
