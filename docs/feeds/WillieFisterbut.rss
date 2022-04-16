@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Apr 2022 19:18:25 +0000</lastBuildDate>
-    <item>
-      <title>Amy Shark - I Said Hi (10 plays)</title>
-      <link>https://www.last.fm/music/Amy+Shark/_/I+Said+Hi</link>
-      <guid isPermaLink="false">WillieFisterbut-1649893862--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---I Said Hi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8943cecaa7e2ebe1cc77b3b42827a2d5.jpg" length="10883" type="image/jpeg"/>
-      <pubDate>Wed, 13 Apr 2022 19:51:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Meshuggah - Phantoms (12 plays)</title>
-      <link>https://www.last.fm/music/Meshuggah/_/Phantoms</link>
-      <guid isPermaLink="false">WillieFisterbut-1649932396--cf8b3b8c-118e-4136-8d1d-c37091173413---Phantoms</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350f291398357b3468102492b2914422.jpg" length="23386" type="image/jpeg"/>
-      <pubDate>Thu, 14 Apr 2022 06:33:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 Apr 2022 15:43:24 +0000</lastBuildDate>
     <item>
       <title>Meshuggah - Spasm (23 plays)</title>
       <link>https://www.last.fm/music/Meshuggah/_/Spasm</link>
@@ -142,14 +128,14 @@
       <pubDate>Thu, 14 Apr 2022 16:13:23 -0400</pubDate>
     </item>
     <item>
-      <title>CHVRCHES - Keep You on My Side (4 plays)</title>
+      <title>CHVRCHES - Keep You on My Side (5 plays)</title>
       <link>https://www.last.fm/music/CHVRCHES/_/Keep+You+on+My+Side</link>
       <guid isPermaLink="false">WillieFisterbut-1649967470--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Keep You on My Side</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2922d854b939c7ef8ae584552a3ff106.jpg" length="26053" type="image/jpeg"/>
       <pubDate>Thu, 14 Apr 2022 16:17:50 -0400</pubDate>
     </item>
     <item>
-      <title>CHVRCHES - Make Them Gold (4 plays)</title>
+      <title>CHVRCHES - Make Them Gold (5 plays)</title>
       <link>https://www.last.fm/music/CHVRCHES/_/Make+Them+Gold</link>
       <guid isPermaLink="false">WillieFisterbut-1649968877--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Make Them Gold</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2922d854b939c7ef8ae584552a3ff106.jpg" length="26053" type="image/jpeg"/>
@@ -348,7 +334,7 @@
       <title>Meshuggah - Phantoms (12 plays)</title>
       <link>https://www.last.fm/music/Meshuggah/_/Phantoms</link>
       <guid isPermaLink="false">WillieFisterbut-1650048202--cf8b3b8c-118e-4136-8d1d-c37091173413---Phantoms</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350f291398357b3468102492b2914422.jpg" length="23386" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b332373dfd0bfb35f8b588c060ec883.png" length="163297" type="image/png"/>
       <pubDate>Fri, 15 Apr 2022 14:43:22 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">WillieFisterbut-1650049157--cf8b3b8c-118e-4136-8d1d-c37091173413---Spasm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d16b3b4e656861e072fdee69194529d.jpg" length="36247" type="image/jpeg"/>
       <pubDate>Fri, 15 Apr 2022 14:59:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHVRCHES - Keep You on My Side (5 plays)</title>
+      <link>https://www.last.fm/music/CHVRCHES/_/Keep+You+on+My+Side</link>
+      <guid isPermaLink="false">WillieFisterbut-1650121566--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Keep You on My Side</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2922d854b939c7ef8ae584552a3ff106.jpg" length="26053" type="image/jpeg"/>
+      <pubDate>Sat, 16 Apr 2022 11:06:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHVRCHES - Make Them Gold (5 plays)</title>
+      <link>https://www.last.fm/music/CHVRCHES/_/Make+Them+Gold</link>
+      <guid isPermaLink="false">WillieFisterbut-1650121798--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Make Them Gold</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2922d854b939c7ef8ae584552a3ff106.jpg" length="26053" type="image/jpeg"/>
+      <pubDate>Sat, 16 Apr 2022 11:09:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
