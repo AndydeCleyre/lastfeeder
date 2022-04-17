@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Apr 2022 07:38:25 +0000</lastBuildDate>
-    <item>
-      <title>Blur - Song 2 - 2012 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Blur/_/Song+2+-+2012+Remaster</link>
-      <guid isPermaLink="false">manosg--1649853898--Blur---Song 2 - 2012 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6171824b31fa5f7fba0ba48b30b98be.jpg" length="16344" type="image/jpeg"/>
-      <pubDate>Wed, 13 Apr 2022 08:44:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Leonard Cohen - Dance Me to the End of Love (7 plays)</title>
-      <link>https://www.last.fm/music/Leonard+Cohen/_/Dance+Me+to+the+End+of+Love</link>
-      <guid isPermaLink="false">manosg--1649866411--65314b12-0e08-43fa-ba33-baaa7b874c15---Dance Me to the End of Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a368617dc7dc4716a9badb523ff6e7d4.png" length="113308" type="image/png"/>
-      <pubDate>Wed, 13 Apr 2022 12:13:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 Apr 2022 07:52:31 +0000</lastBuildDate>
     <item>
       <title>Leonard Cohen - Coming Back to You (1 play)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Coming+Back+to+You</link>
@@ -352,11 +338,25 @@
       <pubDate>Fri, 15 Apr 2022 13:58:58 -0400</pubDate>
     </item>
     <item>
-      <title>Leonard Cohen - If It Be Your Will - Live in Dublin (1 play)</title>
+      <title>Leonard Cohen - If It Be Your Will - Live in Dublin (2 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/If+It+Be+Your+Will+-+Live+in+Dublin</link>
       <guid isPermaLink="false">manosg--1650177153--65314b12-0e08-43fa-ba33-baaa7b874c15---If It Be Your Will - Live in Dublin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
       <pubDate>Sun, 17 Apr 2022 02:32:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - If It Be Your Will - Live in Dublin (2 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/If+It+Be+Your+Will+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1650181071--65314b12-0e08-43fa-ba33-baaa7b874c15---If It Be Your Will - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Sun, 17 Apr 2022 03:37:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Closing Time - Live in Dublin (1 play)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Closing+Time+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1650181341--65314b12-0e08-43fa-ba33-baaa7b874c15---Closing Time - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Sun, 17 Apr 2022 03:42:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
