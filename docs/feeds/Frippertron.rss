@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Apr 2022 04:30:02 +0000</lastBuildDate>
-    <item>
-      <title>Bluetile Lounge - L.T.D. (9 plays)</title>
-      <link>https://www.last.fm/music/Bluetile+Lounge/_/L.T.D.</link>
-      <guid isPermaLink="false">Frippertron-1649923329--70470501-24f7-45f5-abcd-aa5c09e3441d---L.T.D.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b878f810d30543b7771ef5c8b8945d5b.jpg" length="9465" type="image/jpeg"/>
-      <pubDate>Thu, 14 Apr 2022 04:02:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sweet Trip - Tekka (46 plays)</title>
-      <link>https://www.last.fm/music/Sweet+Trip/_/Tekka</link>
-      <guid isPermaLink="false">Frippertron-1649923576--52fbc948-398c-45f6-833b-dd75164b896a---Tekka</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a959509c1380250afca7d0f8a5edc44.png" length="180686" type="image/png"/>
-      <pubDate>Thu, 14 Apr 2022 04:06:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 Apr 2022 04:51:57 +0000</lastBuildDate>
     <item>
       <title>Sweet Trip - Dsco (49 plays)</title>
       <link>https://www.last.fm/music/Sweet+Trip/_/Dsco</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1650169275--66f8692c-966d-4dfb-a2ed-babf51241922---Spring</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbba8b5c8ccb4703856a15e756fc44a0.jpg" length="13781" type="image/jpeg"/>
       <pubDate>Sun, 17 Apr 2022 00:21:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Summer (78 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Summer</link>
+      <guid isPermaLink="false">Frippertron-1650169696--66f8692c-966d-4dfb-a2ed-babf51241922---Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbba8b5c8ccb4703856a15e756fc44a0.jpg" length="13781" type="image/jpeg"/>
+      <pubDate>Sun, 17 Apr 2022 00:28:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Autumn "Veni Creator Spiritus" (37 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Autumn+%22Veni+Creator+Spiritus%22</link>
+      <guid isPermaLink="false">Frippertron-1650170515--66f8692c-966d-4dfb-a2ed-babf51241922---Autumn "Veni Creator Spiritus"</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbba8b5c8ccb4703856a15e756fc44a0.jpg" length="13781" type="image/jpeg"/>
+      <pubDate>Sun, 17 Apr 2022 00:41:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
