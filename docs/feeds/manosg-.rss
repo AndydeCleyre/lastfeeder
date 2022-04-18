@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Apr 2022 09:41:55 +0000</lastBuildDate>
-    <item>
-      <title>Leonard Cohen - Darkness - Live in Dublin (1 play)</title>
-      <link>https://www.last.fm/music/Leonard+Cohen/_/Darkness+-+Live+in+Dublin</link>
-      <guid isPermaLink="false">manosg--1649933268--65314b12-0e08-43fa-ba33-baaa7b874c15---Darkness - Live in Dublin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
-      <pubDate>Thu, 14 Apr 2022 06:47:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Apr 2022 09:53:43 +0000</lastBuildDate>
     <item>
       <title>Leonard Cohen - Amen - Live in Dublin (1 play)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Amen+-+Live+in+Dublin</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1650274440--Kingdom Come---Do You Like It</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da47826893954ec1a43131f618b50ab1.jpg" length="15127" type="image/jpeg"/>
       <pubDate>Mon, 18 Apr 2022 05:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kingdom Come - Who Do You Love (1 play)</title>
+      <link>https://www.last.fm/music/Kingdom+Come/_/Who+Do+You+Love</link>
+      <guid isPermaLink="false">manosg--1650274702--Kingdom Come---Who Do You Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da47826893954ec1a43131f618b50ab1.jpg" length="15127" type="image/jpeg"/>
+      <pubDate>Mon, 18 Apr 2022 05:38:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
