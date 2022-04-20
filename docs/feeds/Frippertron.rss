@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Apr 2022 09:56:07 +0000</lastBuildDate>
-    <item>
-      <title>The Jam - Girl on the Phone (6 plays)</title>
-      <link>https://www.last.fm/music/The+Jam/_/Girl+on+the+Phone</link>
-      <guid isPermaLink="false">Frippertron-1650425662--5493b1c7-53f8-4156-a4ee-1eec07bc977b---Girl on the Phone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd4527482549a7edc0b6b561a9308056.png" length="191616" type="image/png"/>
-      <pubDate>Tue, 19 Apr 2022 23:34:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Apr 2022 10:23:34 +0000</lastBuildDate>
     <item>
       <title>Joni Mitchell - The Jungle Line (6 plays)</title>
       <link>https://www.last.fm/music/Joni+Mitchell/_/The+Jungle+Line</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1650448009--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Siberian Khatru</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e46257737f7a64712734146fe3d15c8.png" length="120533" type="image/png"/>
       <pubDate>Wed, 20 Apr 2022 05:46:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Tempus Fugit (18 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Tempus+Fugit</link>
+      <guid isPermaLink="false">Frippertron-1650448557--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Tempus Fugit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d461aaea9d34c2a97ef2e398ebd5a78.png" length="179860" type="image/png"/>
+      <pubDate>Wed, 20 Apr 2022 05:55:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
