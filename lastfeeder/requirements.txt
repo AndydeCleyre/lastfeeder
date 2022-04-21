@@ -1,6 +1,6 @@
 anyio==3.5.0
     # via httpcore
-babel==2.9.1
+babel==2.10.1
     # via delorean
 backports-zoneinfo==0.2.1
     # via
