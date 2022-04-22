@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Apr 2022 09:42:45 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - The Song Remains the Same (98 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
-      <guid isPermaLink="false">Frippertron-1650597797--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
-      <pubDate>Thu, 21 Apr 2022 23:23:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Apr 2022 09:54:44 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - The Rain Song (75 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/The+Rain+Song</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1650620011--Godspeed You! Black Emperor---Peasantry or 'Light! Inside of Light!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6861170ff1246e31682e033b6e43f792.png" length="121341" type="image/png"/>
       <pubDate>Fri, 22 Apr 2022 05:33:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Close to the Edge (186 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Close+to+the+Edge</link>
+      <guid isPermaLink="false">Frippertron-1650620444--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Close to the Edge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e46257737f7a64712734146fe3d15c8.png" length="120533" type="image/png"/>
+      <pubDate>Fri, 22 Apr 2022 05:40:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
