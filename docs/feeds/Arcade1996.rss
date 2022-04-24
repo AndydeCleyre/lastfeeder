@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Apr 2022 15:44:01 +0000</lastBuildDate>
-    <item>
-      <title>Fontaines D.C. - Nabokov (1 play)</title>
-      <link>https://www.last.fm/music/Fontaines+D.C./_/Nabokov</link>
-      <guid isPermaLink="false">Arcade1996-1650729248--fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68---Nabokov</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1088d391eb750551dc6bd1e8238ffcd.jpg" length="16840" type="image/jpeg"/>
-      <pubDate>Sat, 23 Apr 2022 11:54:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yung Lean - bliss (5 plays)</title>
-      <link>https://www.last.fm/music/Yung+Lean/_/bliss</link>
-      <guid isPermaLink="false">Arcade1996-1650729665--757ed661-fbad-4e45-b1cd-a6b09f06f54a---bliss</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98eb02fc3c8d57bc88bad903227042e6.png" length="144147" type="image/png"/>
-      <pubDate>Sat, 23 Apr 2022 12:01:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Death Grips - Get Got (45 plays)</title>
-      <link>https://www.last.fm/music/Death+Grips/_/Get+Got</link>
-      <guid isPermaLink="false">Arcade1996-1650729884--f9133036-ab3d-4e97-bd11-7a2c98ad148a---Get Got</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30ef0d3d35720910529fe026a2d2fe7c.jpg" length="18157" type="image/jpeg"/>
-      <pubDate>Sat, 23 Apr 2022 12:04:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 Apr 2022 15:55:47 +0000</lastBuildDate>
     <item>
       <title>Death Grips - Streaky (2 plays)</title>
       <link>https://www.last.fm/music/Death+Grips/_/Streaky</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Arcade1996-1650814701--527c65d1-9fdb-4482-8796-dde2980bd63a---Across The Water</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0219ad4e79014d6ecde7c856fec5030c.png" length="142789" type="image/png"/>
       <pubDate>Sun, 24 Apr 2022 11:38:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nick Drake - Place to Be (6 plays)</title>
+      <link>https://www.last.fm/music/Nick+Drake/_/Place+to+Be</link>
+      <guid isPermaLink="false">Arcade1996-1650814910--99ea432a-e3d8-42cb-9d5e-db316a6a8458---Place to Be</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e3fd83e52fedeab8e4d59e0d2da1ac9.png" length="163255" type="image/png"/>
+      <pubDate>Sun, 24 Apr 2022 11:41:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dean Blunt - VIGIL (12 plays)</title>
+      <link>https://www.last.fm/music/Dean+Blunt/_/VIGIL</link>
+      <guid isPermaLink="false">Arcade1996-1650815072--e8bd5b47-e8b4-4671-a9f6-590a92e88898---VIGIL</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0772af09c748ec99e5bbc71790407d7d.jpg" length="5396" type="image/jpeg"/>
+      <pubDate>Sun, 24 Apr 2022 11:44:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Björk - Blissing Me (13 plays)</title>
+      <link>https://www.last.fm/music/Bj%C3%B6rk/_/Blissing+Me</link>
+      <guid isPermaLink="false">Arcade1996-1650815222--87c5dedd-371d-4a53-9f7f-80522fb7f3cb---Blissing Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ca740fb5f83ed4878db1fac38f58db9.png" length="181417" type="image/png"/>
+      <pubDate>Sun, 24 Apr 2022 11:47:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
