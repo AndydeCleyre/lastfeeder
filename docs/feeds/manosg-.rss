@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Apr 2022 17:37:14 +0000</lastBuildDate>
-    <item>
-      <title>R.E.M. - Drive (1 play)</title>
-      <link>https://www.last.fm/music/R.E.M./_/Drive</link>
-      <guid isPermaLink="false">manosg--1650818534--ea4dfa26-f633-4da6-a52a-f49ea4897b58---Drive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8184b6380c0a4ab2ca10e466295da854.jpg" length="19036" type="image/jpeg"/>
-      <pubDate>Sun, 24 Apr 2022 12:42:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gary Moore - Still Got the Blues (4 plays)</title>
-      <link>https://www.last.fm/music/Gary+Moore/_/Still+Got+the+Blues</link>
-      <guid isPermaLink="false">manosg--1650819743--a8806b5c-3ee0-4277-94d3-1a5427a7707c---Still Got the Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a00376b39654cd3cc4ddbffa7c140a0.png" length="157828" type="image/png"/>
-      <pubDate>Sun, 24 Apr 2022 13:02:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Apr 2022 17:52:28 +0000</lastBuildDate>
     <item>
       <title>David Bowie - This Is Not America - 2002 Remaster (1 play)</title>
       <link>https://www.last.fm/music/David+Bowie/_/This+Is+Not+America+-+2002+Remaster</link>
@@ -58,7 +44,7 @@
       <pubDate>Sun, 24 Apr 2022 13:33:20 -0400</pubDate>
     </item>
     <item>
-      <title>The Rolling Stones - Angie (1 play)</title>
+      <title>The Rolling Stones - Angie</title>
       <link>https://www.last.fm/music/The+Rolling+Stones/_/Angie</link>
       <guid isPermaLink="false">manosg--1650821844--b071f9fa-14b0-4217-8e97-eb41da73f598---Angie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e47679b1a0d181078e3021ec802b343c.jpg" length="13153" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1650907701--e01c3376-15fa-40d7-b747-5f219bdefdd7---Throw Back The Little Ones</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f60bc2ff234885c830fe07a94f5457.jpg" length="13950" type="image/jpeg"/>
       <pubDate>Mon, 25 Apr 2022 13:28:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Dance Me to the End of Love - Live in Dublin (1 play)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Dance+Me+to+the+End+of+Love+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1650907915--65314b12-0e08-43fa-ba33-baaa7b874c15---Dance Me to the End of Love - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Mon, 25 Apr 2022 13:31:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - The Future - Live in Dublin (2 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/The+Future+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1650908288--65314b12-0e08-43fa-ba33-baaa7b874c15---The Future - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Mon, 25 Apr 2022 13:38:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
