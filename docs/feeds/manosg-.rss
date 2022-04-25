@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Apr 2022 09:47:50 +0000</lastBuildDate>
-    <item>
-      <title>Jazz Sabbath - Rat Salad (3 plays)</title>
-      <link>https://www.last.fm/music/Jazz+Sabbath/_/Rat+Salad</link>
-      <guid isPermaLink="false">manosg--1650704383--8fd3463c-0cb9-4d87-9691-0d367b249e4e---Rat Salad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/715099cd529ba1ac5909e6c6747d7fa6.jpg" length="20447" type="image/jpeg"/>
-      <pubDate>Sat, 23 Apr 2022 04:59:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Apr 2022 09:59:39 +0000</lastBuildDate>
     <item>
       <title>Jazz Sabbath - Iron Man (3 plays)</title>
       <link>https://www.last.fm/music/Jazz+Sabbath/_/Iron+Man</link>
@@ -58,7 +51,7 @@
       <pubDate>Sat, 23 Apr 2022 13:39:46 -0400</pubDate>
     </item>
     <item>
-      <title>Jazz Sabbath - Snowblind</title>
+      <title>Jazz Sabbath - Snowblind (4 plays)</title>
       <link>https://www.last.fm/music/Jazz+Sabbath/_/Snowblind</link>
       <guid isPermaLink="false">manosg--1650817997--Jazz Sabbath---Snowblind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cd20e0b085398ac78c8a1618c67e145.jpg" length="9771" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1650879583--e01c3376-15fa-40d7-b747-5f219bdefdd7---Monkey In Your Soul</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/767ceb0094d4d9d18702b29ef79b9fbb.png" length="143377" type="image/png"/>
       <pubDate>Mon, 25 Apr 2022 05:39:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Black Friday (2 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Black+Friday</link>
+      <guid isPermaLink="false">manosg--1650879873--e01c3376-15fa-40d7-b747-5f219bdefdd7---Black Friday</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f60bc2ff234885c830fe07a94f5457.jpg" length="13950" type="image/jpeg"/>
+      <pubDate>Mon, 25 Apr 2022 05:44:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
