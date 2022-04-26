@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Apr 2022 08:47:43 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Roundabout (72 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Roundabout</link>
-      <guid isPermaLink="false">Frippertron-1650944510--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Roundabout</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
-      <pubDate>Mon, 25 Apr 2022 23:41:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Alan Parsons Project - I Wouldn't Want to be Like You (5 plays)</title>
-      <link>https://www.last.fm/music/The+Alan+Parsons+Project/_/I+Wouldn%27t+Want+to+be+Like+You</link>
-      <guid isPermaLink="false">Frippertron-1650945050--f98711e5-06f7-43ed-8239-da0f61a9c460---I Wouldn't Want to be Like You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12a5054d2cbe442dc4e804da2b01370a.png" length="208175" type="image/png"/>
-      <pubDate>Mon, 25 Apr 2022 23:50:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Apr 2022 09:26:35 +0000</lastBuildDate>
     <item>
       <title>black midi - Sugar/Tzu (30 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Sugar%2FTzu</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1650962577--331ce348-1b08-40b9-8ed7-0763b92bd003---The Thrill of It All</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f147556280904cdfbd548c75da1bf6a1.png" length="237465" type="image/png"/>
       <pubDate>Tue, 26 Apr 2022 04:42:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - A Song for Europe (35 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/A+Song+for+Europe</link>
+      <guid isPermaLink="false">Frippertron-1650962962--331ce348-1b08-40b9-8ed7-0763b92bd003---A Song for Europe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/684261636ec5f2f2dc24e4f040f64cad.png" length="223903" type="image/png"/>
+      <pubDate>Tue, 26 Apr 2022 04:49:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Bitter-Sweet (28 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Bitter-Sweet</link>
+      <guid isPermaLink="false">Frippertron-1650963311--331ce348-1b08-40b9-8ed7-0763b92bd003---Bitter-Sweet</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f147556280904cdfbd548c75da1bf6a1.png" length="237465" type="image/png"/>
+      <pubDate>Tue, 26 Apr 2022 04:55:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
