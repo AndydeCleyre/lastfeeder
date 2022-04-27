@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Apr 2022 07:42:41 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - A Song for Europe (35 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/A+Song+for+Europe</link>
-      <guid isPermaLink="false">Frippertron-1650962962--331ce348-1b08-40b9-8ed7-0763b92bd003---A Song for Europe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/684261636ec5f2f2dc24e4f040f64cad.png" length="223903" type="image/png"/>
-      <pubDate>Tue, 26 Apr 2022 04:49:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Bitter-Sweet (28 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Bitter-Sweet</link>
-      <guid isPermaLink="false">Frippertron-1650963311--331ce348-1b08-40b9-8ed7-0763b92bd003---Bitter-Sweet</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f147556280904cdfbd548c75da1bf6a1.png" length="237465" type="image/png"/>
-      <pubDate>Tue, 26 Apr 2022 04:55:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Apr 2022 07:54:41 +0000</lastBuildDate>
     <item>
       <title>Genesis - The Musical Box (70 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/The+Musical+Box</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1651044995--60aa2510-4ab1-4e50-9267-30a15700dc1c---Entangled</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
       <pubDate>Wed, 27 Apr 2022 03:36:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Squonk (53 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Squonk</link>
+      <guid isPermaLink="false">Frippertron-1651045383--60aa2510-4ab1-4e50-9267-30a15700dc1c---Squonk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Wed, 27 Apr 2022 03:43:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Mad Man Moon (31 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Mad+Man+Moon</link>
+      <guid isPermaLink="false">Frippertron-1651045773--60aa2510-4ab1-4e50-9267-30a15700dc1c---Mad Man Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Wed, 27 Apr 2022 03:49:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
