@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Apr 2022 05:27:31 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Ripples (106 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
-      <guid isPermaLink="false">Frippertron-1651046608--60aa2510-4ab1-4e50-9267-30a15700dc1c---Ripples</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
-      <pubDate>Wed, 27 Apr 2022 04:03:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - A Trick of the Tail (41 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/A+Trick+of+the+Tail</link>
-      <guid isPermaLink="false">Frippertron-1651047102--60aa2510-4ab1-4e50-9267-30a15700dc1c---A Trick of the Tail</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
-      <pubDate>Wed, 27 Apr 2022 04:11:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Los Endos (47 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Los+Endos</link>
-      <guid isPermaLink="false">Frippertron-1651047416--60aa2510-4ab1-4e50-9267-30a15700dc1c---Los Endos</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
-      <pubDate>Wed, 27 Apr 2022 04:16:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Whirlwind (27 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Whirlwind</link>
-      <guid isPermaLink="false">Frippertron-1651047786--331ce348-1b08-40b9-8ed7-0763b92bd003---Whirlwind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
-      <pubDate>Wed, 27 Apr 2022 04:23:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - The Thrill of It All (79 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/The+Thrill+of+It+All</link>
-      <guid isPermaLink="false">Frippertron-1651048004--331ce348-1b08-40b9-8ed7-0763b92bd003---The Thrill of It All</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f147556280904cdfbd548c75da1bf6a1.png" length="237465" type="image/png"/>
-      <pubDate>Wed, 27 Apr 2022 04:26:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Casanova (53 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Casanova</link>
-      <guid isPermaLink="false">Frippertron-1651048391--331ce348-1b08-40b9-8ed7-0763b92bd003---Casanova</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f147556280904cdfbd548c75da1bf6a1.png" length="237465" type="image/png"/>
-      <pubDate>Wed, 27 Apr 2022 04:33:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - In Every Dream Home a Heartache (41 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/In+Every+Dream+Home+a+Heartache</link>
-      <guid isPermaLink="false">Frippertron-1651048599--331ce348-1b08-40b9-8ed7-0763b92bd003---In Every Dream Home a Heartache</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a12b729bec84491857efc99384ec3c2.jpg" length="21196" type="image/jpeg"/>
-      <pubDate>Wed, 27 Apr 2022 04:36:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Both Ends Burning (42 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Both+Ends+Burning</link>
-      <guid isPermaLink="false">Frippertron-1651048929--331ce348-1b08-40b9-8ed7-0763b92bd003---Both Ends Burning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
-      <pubDate>Wed, 27 Apr 2022 04:42:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Street Life (45 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Street+Life</link>
-      <guid isPermaLink="false">Frippertron-1651049250--331ce348-1b08-40b9-8ed7-0763b92bd003---Street Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/684261636ec5f2f2dc24e4f040f64cad.png" length="223903" type="image/png"/>
-      <pubDate>Wed, 27 Apr 2022 04:47:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Apr 2022 05:56:46 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - She Sells (62 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/She+Sells</link>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">Frippertron-1651123331--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Wild Horses</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
       <pubDate>Thu, 28 Apr 2022 01:22:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Machine Gun Ibiza (102 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Machine+Gun+Ibiza</link>
+      <guid isPermaLink="false">Frippertron-1651123560--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Machine Gun Ibiza</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 28 Apr 2022 01:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - We Let The Stars Go (94 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/We+Let+The+Stars+Go</link>
+      <guid isPermaLink="false">Frippertron-1651123785--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---We Let The Stars Go</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 28 Apr 2022 01:29:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Carnival 2000 (88 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Carnival+2000</link>
+      <guid isPermaLink="false">Frippertron-1651124007--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Carnival 2000</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 28 Apr 2022 01:33:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Jordan: The Comeback (94 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Jordan:+The+Comeback</link>
+      <guid isPermaLink="false">Frippertron-1651124215--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Jordan: The Comeback</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 28 Apr 2022 01:36:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Jesse James Symphony (93 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Jesse+James+Symphony</link>
+      <guid isPermaLink="false">Frippertron-1651124470--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Jesse James Symphony</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 28 Apr 2022 01:41:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Jesse James Bolero (93 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Jesse+James+Bolero</link>
+      <guid isPermaLink="false">Frippertron-1651124606--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Jesse James Bolero</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 28 Apr 2022 01:43:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Moon Dog (92 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Moon+Dog</link>
+      <guid isPermaLink="false">Frippertron-1651124859--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Moon Dog</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 28 Apr 2022 01:47:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - All The World Loves Lovers (117 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/All+The+World+Loves+Lovers</link>
+      <guid isPermaLink="false">Frippertron-1651125108--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---All The World Loves Lovers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 28 Apr 2022 01:51:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - All Boys Believe Anything (107 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/All+Boys+Believe+Anything</link>
+      <guid isPermaLink="false">Frippertron-1651125341--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---All Boys Believe Anything</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 28 Apr 2022 01:55:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
