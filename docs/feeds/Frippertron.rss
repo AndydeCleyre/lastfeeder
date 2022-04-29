@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Apr 2022 08:54:36 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Soon (4 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Soon</link>
-      <guid isPermaLink="false">Frippertron-1651203462--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Soon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/480fa367c5e84b17a3c0d0a6f95fd7ff.jpg" length="22208" type="image/jpeg"/>
-      <pubDate>Thu, 28 Apr 2022 23:37:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yes - Awaken (53 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Awaken</link>
-      <guid isPermaLink="false">Frippertron-1651203987--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Awaken</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/480fa367c5e84b17a3c0d0a6f95fd7ff.jpg" length="22208" type="image/jpeg"/>
-      <pubDate>Thu, 28 Apr 2022 23:46:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Apr 2022 09:26:46 +0000</lastBuildDate>
     <item>
       <title>Brian Eno - Seven Deadly Finns (14 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/Seven+Deadly+Finns</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1651222086--f4eb8346-052d-4a5c-8393-cba3aeadb4d9---Star Of Sirius</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a07e9790b84342c3c237ff8d2f3d3927.jpg" length="22661" type="image/jpeg"/>
       <pubDate>Fri, 29 Apr 2022 04:48:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steve Hackett - The Lovers (12 plays)</title>
+      <link>https://www.last.fm/music/Steve+Hackett/_/The+Lovers</link>
+      <guid isPermaLink="false">Frippertron-1651222515--f4eb8346-052d-4a5c-8393-cba3aeadb4d9---The Lovers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a07e9790b84342c3c237ff8d2f3d3927.jpg" length="22661" type="image/jpeg"/>
+      <pubDate>Fri, 29 Apr 2022 04:55:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steve Hackett - Shadow of the Hierophant (8 plays)</title>
+      <link>https://www.last.fm/music/Steve+Hackett/_/Shadow+of+the+Hierophant</link>
+      <guid isPermaLink="false">Frippertron-1651222626--f4eb8346-052d-4a5c-8393-cba3aeadb4d9---Shadow of the Hierophant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a07e9790b84342c3c237ff8d2f3d3927.jpg" length="22661" type="image/jpeg"/>
+      <pubDate>Fri, 29 Apr 2022 04:57:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
