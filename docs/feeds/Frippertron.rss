@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Apr 2022 06:26:41 +0000</lastBuildDate>
-    <item>
-      <title>Léo Ferré - La Solitude (45 plays)</title>
-      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/La+Solitude</link>
-      <guid isPermaLink="false">Frippertron-1651136104--15b1cbac-060a-4136-9e07-4622c52c0f60---La Solitude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
-      <pubDate>Thu, 28 Apr 2022 04:55:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Style Council - Homebreakers (27 plays)</title>
-      <link>https://www.last.fm/music/The+Style+Council/_/Homebreakers</link>
-      <guid isPermaLink="false">Frippertron-1651137586--34e56f20-ddda-48c9-a4bb-6bb12df57de0---Homebreakers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b682f1ad6a61946c56adfe837b5784a1.jpg" length="28141" type="image/jpeg"/>
-      <pubDate>Thu, 28 Apr 2022 05:19:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Apr 2022 07:20:30 +0000</lastBuildDate>
     <item>
       <title>The Style Council - A Stones Throw Away (26 plays)</title>
       <link>https://www.last.fm/music/The+Style+Council/_/A+Stones+Throw+Away</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1651211840--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Syzygy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f38c8bd6cc030a5f9917e2890ec1305e.jpg" length="20478" type="image/jpeg"/>
       <pubDate>Fri, 29 Apr 2022 01:57:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Laurel Halo - Do U Ever Happen (7 plays)</title>
+      <link>https://www.last.fm/music/Laurel+Halo/_/Do+U+Ever+Happen</link>
+      <guid isPermaLink="false">Frippertron-1651216195--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Do U Ever Happen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f38c8bd6cc030a5f9917e2890ec1305e.jpg" length="20478" type="image/jpeg"/>
+      <pubDate>Fri, 29 Apr 2022 03:09:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Laurel Halo - Buh-bye (7 plays)</title>
+      <link>https://www.last.fm/music/Laurel+Halo/_/Buh-bye</link>
+      <guid isPermaLink="false">Frippertron-1651216511--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Buh-bye</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f38c8bd6cc030a5f9917e2890ec1305e.jpg" length="20478" type="image/jpeg"/>
+      <pubDate>Fri, 29 Apr 2022 03:15:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
