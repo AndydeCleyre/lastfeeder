@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Apr 2022 17:53:42 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Josie (3 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Josie</link>
-      <guid isPermaLink="false">manosg--1651142441--e01c3376-15fa-40d7-b747-5f219bdefdd7---Josie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Thu, 28 Apr 2022 06:40:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - FM (1 play)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/FM</link>
-      <guid isPermaLink="false">manosg--1651142711--e01c3376-15fa-40d7-b747-5f219bdefdd7---FM</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/faf0937f159945b4c579d14496adb9db.jpg" length="16988" type="image/jpeg"/>
-      <pubDate>Thu, 28 Apr 2022 06:45:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 Apr 2022 18:25:07 +0000</lastBuildDate>
     <item>
       <title>Leonard Cohen - Everybody Knows - Live in Dublin (2 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Everybody+Knows+-+Live+in+Dublin</link>
@@ -205,7 +191,7 @@
       <pubDate>Fri, 29 Apr 2022 11:41:31 -0400</pubDate>
     </item>
     <item>
-      <title>Tripes - patrida mou ine eki pou misisa (1 play)</title>
+      <title>Tripes - patrida mou ine eki pou misisa</title>
       <link>https://www.last.fm/music/Tripes/_/patrida+mou+ine+eki+pou+misisa</link>
       <guid isPermaLink="false">manosg--1651246952--Tripes---patrida mou ine eki pou misisa</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68029389bd6a591f72b7524f4235bebb.jpg" length="22421" type="image/jpeg"/>
@@ -247,7 +233,7 @@
       <pubDate>Fri, 29 Apr 2022 13:18:47 -0400</pubDate>
     </item>
     <item>
-      <title>Leonard Cohen - Take This Waltz - Live in Dublin</title>
+      <title>Leonard Cohen - Take This Waltz - Live in Dublin (3 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Take+This+Waltz+-+Live+in+Dublin</link>
       <guid isPermaLink="false">manosg--1651252974--65314b12-0e08-43fa-ba33-baaa7b874c15---Take This Waltz - Live in Dublin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
@@ -282,7 +268,7 @@
       <pubDate>Sat, 30 Apr 2022 06:58:12 -0400</pubDate>
     </item>
     <item>
-      <title>Tripes - Parti Ston 13o Orofo</title>
+      <title>Tripes - Parti Ston 13o Orofo (1 play)</title>
       <link>https://www.last.fm/music/Tripes/_/Parti+Ston+13o+Orofo</link>
       <guid isPermaLink="false">manosg--1651328350--Tripes---Parti Ston 13o Orofo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e5fc9684fcd31a395425a0887d70386.jpg" length="25149" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1651340899--65314b12-0e08-43fa-ba33-baaa7b874c15---Going Home - Live in Dublin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
       <pubDate>Sat, 30 Apr 2022 13:48:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - First We Take Manhattan - Live in Dublin (3 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/First+We+Take+Manhattan+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1651341149--65314b12-0e08-43fa-ba33-baaa7b874c15---First We Take Manhattan - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Sat, 30 Apr 2022 13:52:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Famous Blue Raincoat - Live in Dublin (3 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Famous+Blue+Raincoat+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1651341553--65314b12-0e08-43fa-ba33-baaa7b874c15---Famous Blue Raincoat - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Sat, 30 Apr 2022 13:59:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
