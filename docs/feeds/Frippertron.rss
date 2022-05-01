@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 May 2022 15:45:20 +0000</lastBuildDate>
-    <item>
-      <title>Laurel Halo - Buh-bye (7 plays)</title>
-      <link>https://www.last.fm/music/Laurel+Halo/_/Buh-bye</link>
-      <guid isPermaLink="false">Frippertron-1651216511--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Buh-bye</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f38c8bd6cc030a5f9917e2890ec1305e.jpg" length="20478" type="image/jpeg"/>
-      <pubDate>Fri, 29 Apr 2022 03:15:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 May 2022 15:56:53 +0000</lastBuildDate>
     <item>
       <title>Yes - Close to the Edge (190 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Close+to+the+Edge</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1651419609--9d88eaab-f90a-4fbe-b84f-20da5518cd26---Sonic 8</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42dfd792b2289311aa8c7b35201046c8.png" length="81588" type="image/png"/>
       <pubDate>Sun, 01 May 2022 11:40:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Cale - Helen Of Troy (46 plays)</title>
+      <link>https://www.last.fm/music/John+Cale/_/Helen+Of+Troy</link>
+      <guid isPermaLink="false">Frippertron-1651420155--72c090b6-a68e-4cb9-b330-85278681a714---Helen Of Troy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dfff43316c006fc81c8bc2873807f4e2.jpg" length="22794" type="image/jpeg"/>
+      <pubDate>Sun, 01 May 2022 11:49:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
