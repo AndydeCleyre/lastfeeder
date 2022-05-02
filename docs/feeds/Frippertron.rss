@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 May 2022 08:48:41 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - China My China (27 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/China+My+China</link>
-      <guid isPermaLink="false">Frippertron-1651462413--ff95eb47-41c4-4f7f-a104-cdc30f02e872---China My China</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6c9498cd329bd1a80f940c0fe0ba55c.jpg" length="28746" type="image/jpeg"/>
-      <pubDate>Sun, 01 May 2022 23:33:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Shilling The Rubes (1 play)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Shilling+The+Rubes</link>
-      <guid isPermaLink="false">Frippertron-1651462715--5441c29d-3602-4898-b1a1-b77fa23b8e50---Shilling The Rubes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sun, 01 May 2022 23:38:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Stay (217 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
-      <guid isPermaLink="false">Frippertron-1651463033--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
-      <pubDate>Sun, 01 May 2022 23:43:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 May 2022 09:23:50 +0000</lastBuildDate>
     <item>
       <title>black midi - Sweater (4 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Sweater</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1651481023--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Jelly</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f38c8bd6cc030a5f9917e2890ec1305e.jpg" length="20478" type="image/jpeg"/>
       <pubDate>Mon, 02 May 2022 04:43:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Enchanted (81 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Enchanted</link>
+      <guid isPermaLink="false">Frippertron-1651481263--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Enchanted</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d981fa7fb4ac418aacc7f7563069316f.png" length="202186" type="image/png"/>
+      <pubDate>Mon, 02 May 2022 04:47:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ripples (107 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
+      <guid isPermaLink="false">Frippertron-1651481555--60aa2510-4ab1-4e50-9267-30a15700dc1c---Ripples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Mon, 02 May 2022 04:52:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - A Trick of the Tail (42 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/A+Trick+of+the+Tail</link>
+      <guid isPermaLink="false">Frippertron-1651482040--60aa2510-4ab1-4e50-9267-30a15700dc1c---A Trick of the Tail</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Mon, 02 May 2022 05:00:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
