@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 May 2022 09:42:48 +0000</lastBuildDate>
-    <item>
-      <title>The Stooges - No Fun (30 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/No+Fun</link>
-      <guid isPermaLink="false">Frippertron-1651550645--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---No Fun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2997007d858d444092b77b0a1d2882f1.png" length="171040" type="image/png"/>
-      <pubDate>Tue, 03 May 2022 00:04:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 May 2022 10:27:17 +0000</lastBuildDate>
     <item>
       <title>The Stooges - Real Cool Time (31 plays)</title>
       <link>https://www.last.fm/music/The+Stooges/_/Real+Cool+Time</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1651570618--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Close to the Edge</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e46257737f7a64712734146fe3d15c8.png" length="120533" type="image/png"/>
       <pubDate>Tue, 03 May 2022 05:36:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Tempus Fugit (23 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Tempus+Fugit</link>
+      <guid isPermaLink="false">Frippertron-1651571723--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Tempus Fugit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d461aaea9d34c2a97ef2e398ebd5a78.png" length="179860" type="image/png"/>
+      <pubDate>Tue, 03 May 2022 05:55:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
