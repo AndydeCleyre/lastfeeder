@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 May 2022 09:22:28 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Release, Release (20 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Release,+Release</link>
-      <guid isPermaLink="false">Frippertron-1651638028--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Release, Release</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38797c520dae4c28cc47bbe3222bee6d.png" length="224827" type="image/png"/>
-      <pubDate>Wed, 04 May 2022 00:20:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Editions of You (51 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
-      <guid isPermaLink="false">Frippertron-1651638442--331ce348-1b08-40b9-8ed7-0763b92bd003---Editions of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a12b729bec84491857efc99384ec3c2.jpg" length="21196" type="image/jpeg"/>
-      <pubDate>Wed, 04 May 2022 00:27:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 May 2022 09:43:57 +0000</lastBuildDate>
     <item>
       <title>Slint - Good Morning, Captain (11 plays)</title>
       <link>https://www.last.fm/music/Slint/_/Good+Morning,+Captain</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1651654756--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---You Think You're (John Fucking Lennon)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
       <pubDate>Wed, 04 May 2022 04:59:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Emerson, Lake &amp; Palmer - Karn Evil 9 (9 plays)</title>
+      <link>https://www.last.fm/music/Emerson,+Lake+&amp;+Palmer/_/Karn+Evil+9</link>
+      <guid isPermaLink="false">Frippertron-1651656266--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Karn Evil 9</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9e92a352b64848b1fb6a3735cdf9f7.png" length="217931" type="image/png"/>
+      <pubDate>Wed, 04 May 2022 05:24:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Shilling The Rubes (6 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Shilling+The+Rubes</link>
+      <guid isPermaLink="false">Frippertron-1651657176--5441c29d-3602-4898-b1a1-b77fa23b8e50---Shilling The Rubes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 04 May 2022 05:39:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
