@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 May 2022 05:42:50 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Frame by Frame (88 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Frame+by+Frame</link>
-      <guid isPermaLink="false">Frippertron-1651564982--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Frame by Frame</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 03 May 2022 04:03:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Paul McCartney - Coming Up (17 plays)</title>
-      <link>https://www.last.fm/music/Paul+McCartney/_/Coming+Up</link>
-      <guid isPermaLink="false">Frippertron-1651565363--ba550d0e-adac-4864-b88b-407cab5e76af---Coming Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbc32d92bf384d5495d871c024c6ed3d.png" length="199147" type="image/png"/>
-      <pubDate>Tue, 03 May 2022 04:09:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 May 2022 05:54:38 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - I Saw The Light (208 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/I+Saw+The+Light</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1651642201--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Close to the Edge</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e46257737f7a64712734146fe3d15c8.png" length="120533" type="image/png"/>
       <pubDate>Wed, 04 May 2022 01:30:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wire - I Should Have Known Better (15 plays)</title>
+      <link>https://www.last.fm/music/Wire/_/I+Should+Have+Known+Better</link>
+      <guid isPermaLink="false">Frippertron-1651643297--7f2a8098-50e3-451c-8696-c5d9f64f4762---I Should Have Known Better</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e86a2fe9bee4506c55b6bcbb8a3c9f9.png" length="25174" type="image/png"/>
+      <pubDate>Wed, 04 May 2022 01:48:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wire - Two People in a Room (15 plays)</title>
+      <link>https://www.last.fm/music/Wire/_/Two+People+in+a+Room</link>
+      <guid isPermaLink="false">Frippertron-1651643529--7f2a8098-50e3-451c-8696-c5d9f64f4762---Two People in a Room</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e86a2fe9bee4506c55b6bcbb8a3c9f9.png" length="25174" type="image/png"/>
+      <pubDate>Wed, 04 May 2022 01:52:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
