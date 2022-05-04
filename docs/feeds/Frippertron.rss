@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 May 2022 07:40:12 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Siberian Khatru (80 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Siberian+Khatru</link>
-      <guid isPermaLink="false">Frippertron-1651570083--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Siberian Khatru</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e46257737f7a64712734146fe3d15c8.png" length="120533" type="image/png"/>
-      <pubDate>Tue, 03 May 2022 05:28:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yes - Close to the Edge (193 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Close+to+the+Edge</link>
-      <guid isPermaLink="false">Frippertron-1651570618--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Close to the Edge</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e46257737f7a64712734146fe3d15c8.png" length="120533" type="image/png"/>
-      <pubDate>Tue, 03 May 2022 05:36:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 May 2022 07:52:31 +0000</lastBuildDate>
     <item>
       <title>Yes - Tempus Fugit (23 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Tempus+Fugit</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1651649869--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Talking Heads</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 04 May 2022 03:37:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bee Gees - You Should Be Dancing (1 play)</title>
+      <link>https://www.last.fm/music/Bee+Gees/_/You+Should+Be+Dancing</link>
+      <guid isPermaLink="false">Frippertron-1651650124--bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810---You Should Be Dancing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d2aa2e3fb2f45c4a4c22738729fb8bd.png" length="126265" type="image/png"/>
+      <pubDate>Wed, 04 May 2022 03:42:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bee Gees - Stayin' Alive (2 plays)</title>
+      <link>https://www.last.fm/music/Bee+Gees/_/Stayin%27+Alive</link>
+      <guid isPermaLink="false">Frippertron-1651650379--bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810---Stayin' Alive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d2aa2e3fb2f45c4a4c22738729fb8bd.png" length="126265" type="image/png"/>
+      <pubDate>Wed, 04 May 2022 03:46:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
