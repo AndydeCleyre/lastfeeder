@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 May 2022 07:40:37 +0000</lastBuildDate>
-    <item>
-      <title>Bee Gees - Stayin' Alive (2 plays)</title>
-      <link>https://www.last.fm/music/Bee+Gees/_/Stayin%27+Alive</link>
-      <guid isPermaLink="false">Frippertron-1651650379--bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810---Stayin' Alive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d2aa2e3fb2f45c4a4c22738729fb8bd.png" length="126265" type="image/png"/>
-      <pubDate>Wed, 04 May 2022 03:46:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bee Gees - Love You Inside Out (2 plays)</title>
-      <link>https://www.last.fm/music/Bee+Gees/_/Love+You+Inside+Out</link>
-      <guid isPermaLink="false">Frippertron-1651650714--bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810---Love You Inside Out</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d2aa2e3fb2f45c4a4c22738729fb8bd.png" length="126265" type="image/png"/>
-      <pubDate>Wed, 04 May 2022 03:51:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sparks - La Dolce Vita (10 plays)</title>
-      <link>https://www.last.fm/music/Sparks/_/La+Dolce+Vita</link>
-      <guid isPermaLink="false">Frippertron-1651650972--Sparks---La Dolce Vita</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/104bad5476cb1eb98428ef67194fb206.jpg" length="16901" type="image/jpeg"/>
-      <pubDate>Wed, 04 May 2022 03:56:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 May 2022 07:52:23 +0000</lastBuildDate>
     <item>
       <title>Sparks - My Other Voice (36 plays)</title>
       <link>https://www.last.fm/music/Sparks/_/My+Other+Voice</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1651736041--5441c29d-3602-4898-b1a1-b77fa23b8e50---Shilling The Rubes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 05 May 2022 03:34:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Colin Newman - I've Waited Ages (1 play)</title>
+      <link>https://www.last.fm/music/Colin+Newman/_/I%27ve+Waited+Ages</link>
+      <guid isPermaLink="false">Frippertron-1651736366--7178b24a-4ec0-48bb-b740-deef07deafd8---I've Waited Ages</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0556b8ef074bcdecae3a7a7973342466.png" length="76217" type="image/png"/>
+      <pubDate>Thu, 05 May 2022 03:39:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Colin Newman - &amp; Jury (1 play)</title>
+      <link>https://www.last.fm/music/Colin+Newman/_/&amp;+Jury</link>
+      <guid isPermaLink="false">Frippertron-1651736676--7178b24a-4ec0-48bb-b740-deef07deafd8---&amp; Jury</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0556b8ef074bcdecae3a7a7973342466.png" length="76217" type="image/png"/>
+      <pubDate>Thu, 05 May 2022 03:44:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Colin Newman - Alone (1 play)</title>
+      <link>https://www.last.fm/music/Colin+Newman/_/Alone</link>
+      <guid isPermaLink="false">Frippertron-1651736844--7178b24a-4ec0-48bb-b740-deef07deafd8---Alone</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0556b8ef074bcdecae3a7a7973342466.png" length="76217" type="image/png"/>
+      <pubDate>Thu, 05 May 2022 03:47:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
