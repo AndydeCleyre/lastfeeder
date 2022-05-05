@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 May 2022 09:21:27 +0000</lastBuildDate>
-    <item>
-      <title>Van Morrison - Dweller On The Threshold (23 plays)</title>
-      <link>https://www.last.fm/music/Van+Morrison/_/Dweller+On+The+Threshold</link>
-      <guid isPermaLink="false">Arcade1996-1651490397--a41ac10f-0a56-4672-9161-b83f9b223559---Dweller On The Threshold</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8db4859af7294fa6a694a13adb25ce86.jpg" length="10043" type="image/jpeg"/>
-      <pubDate>Mon, 02 May 2022 07:19:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Sylvian - September (1 play)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/September</link>
-      <guid isPermaLink="false">Arcade1996-1651490765--719db6b1-0d91-458c-8d18-875ec44105bf---September</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2545661603466ae74f3053efb5e8ae7e.jpg" length="35391" type="image/jpeg"/>
-      <pubDate>Mon, 02 May 2022 07:26:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Sylvian - The Boy With The Gun (1 play)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/The+Boy+With+The+Gun</link>
-      <guid isPermaLink="false">Arcade1996-1651490843--719db6b1-0d91-458c-8d18-875ec44105bf---The Boy With The Gun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2545661603466ae74f3053efb5e8ae7e.jpg" length="35391" type="image/jpeg"/>
-      <pubDate>Mon, 02 May 2022 07:27:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 May 2022 14:26:32 +0000</lastBuildDate>
     <item>
       <title>David Sylvian - Maria (1 play)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Maria</link>
@@ -121,7 +100,7 @@
       <pubDate>Mon, 02 May 2022 20:25:55 -0400</pubDate>
     </item>
     <item>
-      <title>Yung Lean - bliss (7 plays)</title>
+      <title>Yung Lean - bliss (8 plays)</title>
       <link>https://www.last.fm/music/Yung+Lean/_/bliss</link>
       <guid isPermaLink="false">Arcade1996-1651537777--757ed661-fbad-4e45-b1cd-a6b09f06f54a---bliss</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98eb02fc3c8d57bc88bad903227042e6.png" length="144147" type="image/png"/>
@@ -338,6 +317,13 @@
       <pubDate>Wed, 04 May 2022 20:11:44 -0400</pubDate>
     </item>
     <item>
+      <title>Charli XCX - Baby (17 plays)</title>
+      <link>https://www.last.fm/music/Charli+XCX/_/Baby</link>
+      <guid isPermaLink="false">Arcade1996-1651722365--260b6184-8828-48eb-945c-bc4cb6fc34ca---Baby</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/647da295e6e0696ecfcd73229d5816f3.jpg" length="21136" type="image/jpeg"/>
+      <pubDate>Wed, 04 May 2022 23:46:05 -0400</pubDate>
+    </item>
+    <item>
       <title>Killing Joke - The Death &amp; Resurrection Show - Remastered (8 plays)</title>
       <link>https://www.last.fm/music/Killing+Joke/_/The+Death+&amp;+Resurrection+Show+-+Remastered</link>
       <guid isPermaLink="false">Arcade1996-1651741104--Killing Joke---The Death &amp; Resurrection Show - Remastered</guid>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1651741727--14ecd19f-7121-4192-8549-e5056241a42f---Brambleton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87390a1fc122d9412420e0ee7e1769b2.jpg" length="42328" type="image/jpeg"/>
       <pubDate>Thu, 05 May 2022 05:08:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yung Lean - bliss (8 plays)</title>
+      <link>https://www.last.fm/music/Yung+Lean/_/bliss</link>
+      <guid isPermaLink="false">Arcade1996-1651741895--757ed661-fbad-4e45-b1cd-a6b09f06f54a---bliss</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98eb02fc3c8d57bc88bad903227042e6.png" length="144147" type="image/png"/>
+      <pubDate>Thu, 05 May 2022 05:11:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Everything Everything - Pizza Boy (1 play)</title>
+      <link>https://www.last.fm/music/Everything+Everything/_/Pizza+Boy</link>
+      <guid isPermaLink="false">Arcade1996-1651760448--251e10fb-4ed1-4a79-8655-7f22d461a689---Pizza Boy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab2d4af89ed04a123ed7c536831c8b4c.jpg" length="30882" type="image/jpeg"/>
+      <pubDate>Thu, 05 May 2022 10:20:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
