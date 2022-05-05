@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 May 2022 06:27:05 +0000</lastBuildDate>
-    <item>
-      <title>black midi - Talking Heads (24 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Talking+Heads</link>
-      <guid isPermaLink="false">Frippertron-1651649869--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Talking Heads</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 04 May 2022 03:37:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bee Gees - You Should Be Dancing (1 play)</title>
-      <link>https://www.last.fm/music/Bee+Gees/_/You+Should+Be+Dancing</link>
-      <guid isPermaLink="false">Frippertron-1651650124--bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810---You Should Be Dancing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d2aa2e3fb2f45c4a4c22738729fb8bd.png" length="126265" type="image/png"/>
-      <pubDate>Wed, 04 May 2022 03:42:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 May 2022 07:40:37 +0000</lastBuildDate>
     <item>
       <title>Bee Gees - Stayin' Alive (2 plays)</title>
       <link>https://www.last.fm/music/Bee+Gees/_/Stayin%27+Alive</link>
@@ -156,7 +142,7 @@
       <pubDate>Wed, 04 May 2022 05:24:26 -0400</pubDate>
     </item>
     <item>
-      <title>David Bowie - Shilling The Rubes (7 plays)</title>
+      <title>David Bowie - Shilling The Rubes (8 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Shilling+The+Rubes</link>
       <guid isPermaLink="false">Frippertron-1651657176--5441c29d-3602-4898-b1a1-b77fa23b8e50---Shilling The Rubes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -191,7 +177,7 @@
       <pubDate>Wed, 04 May 2022 23:09:17 -0400</pubDate>
     </item>
     <item>
-      <title>David Bowie - Shilling The Rubes (7 plays)</title>
+      <title>David Bowie - Shilling The Rubes (8 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Shilling+The+Rubes</link>
       <guid isPermaLink="false">Frippertron-1651720274--5441c29d-3602-4898-b1a1-b77fa23b8e50---Shilling The Rubes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1651730807--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Ritual</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95753961559b45889779c8ba20e3c527.png" length="202621" type="image/png"/>
       <pubDate>Thu, 05 May 2022 02:06:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Siberian Khatru (81 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Siberian+Khatru</link>
+      <guid isPermaLink="false">Frippertron-1651735488--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Siberian Khatru</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e46257737f7a64712734146fe3d15c8.png" length="120533" type="image/png"/>
+      <pubDate>Thu, 05 May 2022 03:24:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Shilling The Rubes (8 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Shilling+The+Rubes</link>
+      <guid isPermaLink="false">Frippertron-1651736041--5441c29d-3602-4898-b1a1-b77fa23b8e50---Shilling The Rubes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 05 May 2022 03:34:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
