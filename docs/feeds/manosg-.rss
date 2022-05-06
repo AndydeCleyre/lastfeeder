@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 May 2022 08:29:26 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Time Out Of Mind (1 play)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Time+Out+Of+Mind</link>
-      <guid isPermaLink="false">manosg--1651575859--e01c3376-15fa-40d7-b747-5f219bdefdd7---Time Out Of Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/145cf0b3fffe44d3c44c2e5ef2d08699.png" length="80382" type="image/png"/>
-      <pubDate>Tue, 03 May 2022 07:04:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 May 2022 08:47:56 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - My Rival (1 play)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/My+Rival</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1651825512--Giannis Aggelakas---Mono Ta Poulia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 06 May 2022 04:25:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Giannis Aggelakas - Aspri Nihta</title>
+      <link>https://www.last.fm/music/Giannis+Aggelakas/_/Aspri+Nihta</link>
+      <guid isPermaLink="false">manosg--1651825711--Giannis Aggelakas---Aspri Nihta</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 06 May 2022 04:28:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
