@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 May 2022 05:52:24 +0000</lastBuildDate>
-    <item>
-      <title>The Stooges - 1970 (103 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/1970</link>
-      <guid isPermaLink="false">Frippertron-1651742433--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---1970</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1bc149e960d80c3bd55e3920695b663.jpg" length="22393" type="image/jpeg"/>
-      <pubDate>Thu, 05 May 2022 05:20:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Stooges - Lost In The Future (Take 1) (16 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/Lost+In+The+Future+(Take+1)</link>
-      <guid isPermaLink="false">Frippertron-1651742762--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Lost In The Future (Take 1)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8faf0e934d99980ec31252051eeca5d7.jpg" length="20293" type="image/jpeg"/>
-      <pubDate>Thu, 05 May 2022 05:26:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 May 2022 06:28:37 +0000</lastBuildDate>
     <item>
       <title>The Stooges - Fun House (96 plays)</title>
       <link>https://www.last.fm/music/The+Stooges/_/Fun+House</link>
@@ -93,7 +79,7 @@
       <pubDate>Thu, 05 May 2022 22:46:09 -0400</pubDate>
     </item>
     <item>
-      <title>Yes - Tempus Fugit (24 plays)</title>
+      <title>Yes - Tempus Fugit</title>
       <link>https://www.last.fm/music/Yes/_/Tempus+Fugit</link>
       <guid isPermaLink="false">Frippertron-1651805647--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Tempus Fugit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d461aaea9d34c2a97ef2e398ebd5a78.png" length="179860" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1651815977--331ce348-1b08-40b9-8ed7-0763b92bd003---Bitter-Sweet</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f147556280904cdfbd548c75da1bf6a1.png" length="237465" type="image/png"/>
       <pubDate>Fri, 06 May 2022 01:46:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Shilling The Rubes (9 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Shilling+The+Rubes</link>
+      <guid isPermaLink="false">Frippertron-1651816270--5441c29d-3602-4898-b1a1-b77fa23b8e50---Shilling The Rubes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 06 May 2022 01:51:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Slow Burn (48 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Slow+Burn</link>
+      <guid isPermaLink="false">Frippertron-1651816639--5441c29d-3602-4898-b1a1-b77fa23b8e50---Slow Burn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de189195ab834c449adfc34815549796.png" length="157830" type="image/png"/>
+      <pubDate>Fri, 06 May 2022 01:57:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
