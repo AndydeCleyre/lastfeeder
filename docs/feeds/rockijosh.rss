@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 May 2022 04:58:33 +0000</lastBuildDate>
-    <item>
-      <title>My Chemical Romance - I'm Not Okay (I Promise) (256 plays)</title>
-      <link>https://www.last.fm/music/My+Chemical+Romance/_/I%27m+Not+Okay+(I+Promise)</link>
-      <guid isPermaLink="false">rockijosh-1651782251--c07f0676-9143-4217-8a9f-4c26bd636f13---I'm Not Okay (I Promise)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78e45dcad389bf7e5a5829587ee624c5.jpg" length="32518" type="image/jpeg"/>
-      <pubDate>Thu, 05 May 2022 16:24:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yellowcard - Ocean Avenue (12 plays)</title>
-      <link>https://www.last.fm/music/Yellowcard/_/Ocean+Avenue</link>
-      <guid isPermaLink="false">rockijosh-1651782451--3630fff3-52fc-4e97-ab01-d68fd88e4135---Ocean Avenue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b24302cfb804914c9cc2ee0834d7d47.png" length="138770" type="image/png"/>
-      <pubDate>Thu, 05 May 2022 16:27:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>AFI - Miss Murder (68 plays)</title>
-      <link>https://www.last.fm/music/AFI/_/Miss+Murder</link>
-      <guid isPermaLink="false">rockijosh-1651782658--AFI---Miss Murder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0a4b04bf955443b83095ac7752afb4b.png" length="144389" type="image/png"/>
-      <pubDate>Thu, 05 May 2022 16:30:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 May 2022 08:25:04 +0000</lastBuildDate>
     <item>
       <title>Good Charlotte - The Anthem (8 plays)</title>
       <link>https://www.last.fm/music/Good+Charlotte/_/The+Anthem</link>
@@ -51,7 +30,7 @@
       <pubDate>Fri, 06 May 2022 04:05:28 -0400</pubDate>
     </item>
     <item>
-      <title>Justin Bieber - Ghost (45 plays)</title>
+      <title>Justin Bieber - Ghost (46 plays)</title>
       <link>https://www.last.fm/music/Justin+Bieber/_/Ghost</link>
       <guid isPermaLink="false">rockijosh-1651833292--e0140a67-e4d1-4f13-8a01-364355bee46e---Ghost</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a3d813e3e2ac451f52d45297c8c5017.jpg" length="26863" type="image/jpeg"/>
@@ -352,11 +331,32 @@
       <pubDate>Sun, 08 May 2022 00:48:49 -0400</pubDate>
     </item>
     <item>
+      <title>PUP - Habits (2 plays)</title>
+      <link>https://www.last.fm/music/PUP/_/Habits</link>
+      <guid isPermaLink="false">rockijosh-1651985533--3165f5e0-44ff-446a-81d7-c09ec69661ae---Habits</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eeb85295cf967a44f147a4bb13ab1327.jpg" length="32569" type="image/jpeg"/>
+      <pubDate>Sun, 08 May 2022 00:52:13 -0400</pubDate>
+    </item>
+    <item>
       <title>PUP - Waiting (22 plays)</title>
       <link>https://www.last.fm/music/PUP/_/Waiting</link>
       <guid isPermaLink="false">rockijosh-1651985533--3165f5e0-44ff-446a-81d7-c09ec69661ae---Waiting</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eeb85295cf967a44f147a4bb13ab1327.jpg" length="32569" type="image/jpeg"/>
       <pubDate>Sun, 08 May 2022 00:52:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Killers - When You Were Young (49 plays)</title>
+      <link>https://www.last.fm/music/The+Killers/_/When+You+Were+Young</link>
+      <guid isPermaLink="false">rockijosh-1651997492--95e1ead9-4d31-4808-a7ac-32c3614c116b---When You Were Young</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7645386e75e465b9a9b5335bc9115ba.png" length="168396" type="image/png"/>
+      <pubDate>Sun, 08 May 2022 04:11:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Justin Bieber - Ghost (46 plays)</title>
+      <link>https://www.last.fm/music/Justin+Bieber/_/Ghost</link>
+      <guid isPermaLink="false">rockijosh-1651997757--e0140a67-e4d1-4f13-8a01-364355bee46e---Ghost</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a3d813e3e2ac451f52d45297c8c5017.jpg" length="26863" type="image/jpeg"/>
+      <pubDate>Sun, 08 May 2022 04:15:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
