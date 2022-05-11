@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 May 2022 12:48:56 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Aja (5 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Aja</link>
-      <guid isPermaLink="false">manosg--1651941512--e01c3376-15fa-40d7-b747-5f219bdefdd7---Aja</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Sat, 07 May 2022 12:38:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 May 2022 13:29:17 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Black Cow (5 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Black+Cow</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1652271188--5629ca87-9086-48c4-8dc4-b4a966c45067---Spirals in Hyperspace</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f38c2c052939aa4b50e5661de70276f.jpg" length="26204" type="image/jpeg"/>
       <pubDate>Wed, 11 May 2022 08:13:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Shawn Lane - Kaiser Nancarrow (2 plays)</title>
+      <link>https://www.last.fm/music/Shawn+Lane/_/Kaiser+Nancarrow</link>
+      <guid isPermaLink="false">manosg--1652272428--4af1aa09-05c8-40d9-9274-d0667953c6bc---Kaiser Nancarrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b23c4a1b8a63fb7f156690e8599e600.jpg" length="19371" type="image/jpeg"/>
+      <pubDate>Wed, 11 May 2022 08:33:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
