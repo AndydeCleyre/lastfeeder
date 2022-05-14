@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 May 2022 07:35:49 +0000</lastBuildDate>
-    <item>
-      <title>Naxatras - The Answer (4 plays)</title>
-      <link>https://www.last.fm/music/Naxatras/_/The+Answer</link>
-      <guid isPermaLink="false">manosg--1652335811--052b43c2-2f6a-4e60-92ea-18b4de2be0d9---The Answer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70d944967f6f66014151b84b8de05031.jpg" length="29283" type="image/jpeg"/>
-      <pubDate>Thu, 12 May 2022 02:10:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Naxatras - Ride with Time (5 plays)</title>
-      <link>https://www.last.fm/music/Naxatras/_/Ride+with+Time</link>
-      <guid isPermaLink="false">manosg--1652336164--052b43c2-2f6a-4e60-92ea-18b4de2be0d9---Ride with Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70d944967f6f66014151b84b8de05031.jpg" length="29283" type="image/jpeg"/>
-      <pubDate>Thu, 12 May 2022 02:16:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 May 2022 07:52:18 +0000</lastBuildDate>
     <item>
       <title>Naxatras - Radiant Stars (4 plays)</title>
       <link>https://www.last.fm/music/Naxatras/_/Radiant+Stars</link>
@@ -58,7 +44,7 @@
       <pubDate>Thu, 12 May 2022 02:43:15 -0400</pubDate>
     </item>
     <item>
-      <title>Naxatras - White Morning (1 play)</title>
+      <title>Naxatras - White Morning</title>
       <link>https://www.last.fm/music/Naxatras/_/White+Morning</link>
       <guid isPermaLink="false">manosg--1652339412--052b43c2-2f6a-4e60-92ea-18b4de2be0d9---White Morning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5374ba2b3bc4f0eeb697fa68b38f5e6d.jpg" length="35661" type="image/jpeg"/>
@@ -331,7 +317,7 @@
       <pubDate>Sat, 14 May 2022 02:24:15 -0400</pubDate>
     </item>
     <item>
-      <title>Gil Evans - Solea</title>
+      <title>Gil Evans - Solea (1 play)</title>
       <link>https://www.last.fm/music/Gil+Evans/_/Solea</link>
       <guid isPermaLink="false">manosg--1652509795--83b1d510-c4ae-485b-91bf-c69b63044dd6---Solea</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7274babce154484a643780ffd3565b30.png" length="83433" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1652513025--8e8c7417-c905-46b1-b42a-5260b4274ed4---Pannonica</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df0d3cc333f8d0c87928d49888ea4440.jpg" length="20274" type="image/jpeg"/>
       <pubDate>Sat, 14 May 2022 03:23:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Thelonious Monk - I Surrender, Dear (1 play)</title>
+      <link>https://www.last.fm/music/Thelonious+Monk/_/I+Surrender,+Dear</link>
+      <guid isPermaLink="false">manosg--1652513554--8e8c7417-c905-46b1-b42a-5260b4274ed4---I Surrender, Dear</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df0d3cc333f8d0c87928d49888ea4440.jpg" length="20274" type="image/jpeg"/>
+      <pubDate>Sat, 14 May 2022 03:32:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Thelonious Monk - Bemsha Swing (1 play)</title>
+      <link>https://www.last.fm/music/Thelonious+Monk/_/Bemsha+Swing</link>
+      <guid isPermaLink="false">manosg--1652513882--8e8c7417-c905-46b1-b42a-5260b4274ed4---Bemsha Swing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df0d3cc333f8d0c87928d49888ea4440.jpg" length="20274" type="image/jpeg"/>
+      <pubDate>Sat, 14 May 2022 03:38:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
