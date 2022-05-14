@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 May 2022 09:42:28 +0000</lastBuildDate>
-    <item>
-      <title>The Blue Nile - Saturday Night (2 plays)</title>
-      <link>https://www.last.fm/music/The+Blue+Nile/_/Saturday+Night</link>
-      <guid isPermaLink="false">Arcade1996-1652455016--13453b40-1d9c-4281-b73f-b7c1b45c7ebd---Saturday Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2198bb7f07b97ee3d13bb90b850cadf9.png" length="86619" type="image/png"/>
-      <pubDate>Fri, 13 May 2022 11:16:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Deacon Blue - Real Gone Kid (5 plays)</title>
-      <link>https://www.last.fm/music/Deacon+Blue/_/Real+Gone+Kid</link>
-      <guid isPermaLink="false">Arcade1996-1652458183--1d46cb3a-8071-45ba-855e-74e3cff20974---Real Gone Kid</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/193fd6ae43554b94bdc7a0f39d53e048.jpg" length="18263" type="image/jpeg"/>
-      <pubDate>Fri, 13 May 2022 12:09:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 May 2022 09:54:06 +0000</lastBuildDate>
     <item>
       <title>Sade - Pearls (2 plays)</title>
       <link>https://www.last.fm/music/Sade/_/Pearls</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1652520823--My Chemical Romance---The Foundations of Decay</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55e0eb295310209bd9b9271092460187.jpg" length="20686" type="image/jpeg"/>
       <pubDate>Sat, 14 May 2022 05:33:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>My Chemical Romance - Dead! (1 play)</title>
+      <link>https://www.last.fm/music/My+Chemical+Romance/_/Dead!</link>
+      <guid isPermaLink="false">Arcade1996-1652521184--c07f0676-9143-4217-8a9f-4c26bd636f13---Dead!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7675defb2787ce67cd030081eb8ff77c.png" length="164585" type="image/png"/>
+      <pubDate>Sat, 14 May 2022 05:39:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>My Chemical Romance - I'm Not Okay (I Promise) (1 play)</title>
+      <link>https://www.last.fm/music/My+Chemical+Romance/_/I%27m+Not+Okay+(I+Promise)</link>
+      <guid isPermaLink="false">Arcade1996-1652521687--c07f0676-9143-4217-8a9f-4c26bd636f13---I'm Not Okay (I Promise)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78e45dcad389bf7e5a5829587ee624c5.jpg" length="32518" type="image/jpeg"/>
+      <pubDate>Sat, 14 May 2022 05:48:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
