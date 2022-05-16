@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 May 2022 07:34:04 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Moss Garden (38 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Moss+Garden</link>
-      <guid isPermaLink="false">Frippertron-1652256972--5441c29d-3602-4898-b1a1-b77fa23b8e50---Moss Garden</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Wed, 11 May 2022 04:16:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 May 2022 07:52:14 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Neuköln (45 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Neuk%C3%B6ln</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1652686174--719db6b1-0d91-458c-8d18-875ec44105bf---Taking The Veil</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6643fe918794698be831a436d10c810.png" length="67260" type="image/png"/>
       <pubDate>Mon, 16 May 2022 03:29:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - Silver Moon (75 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/Silver+Moon</link>
+      <guid isPermaLink="false">Frippertron-1652686456--719db6b1-0d91-458c-8d18-875ec44105bf---Silver Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6643fe918794698be831a436d10c810.png" length="67260" type="image/png"/>
+      <pubDate>Mon, 16 May 2022 03:34:16 -0400</pubDate>
     </item>
   </channel>
 </rss>
