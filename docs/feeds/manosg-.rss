@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 May 2022 15:28:11 +0000</lastBuildDate>
-    <item>
-      <title>ZZ Top - Rough Boy (3 plays)</title>
-      <link>https://www.last.fm/music/ZZ+Top/_/Rough+Boy</link>
-      <guid isPermaLink="false">manosg--1652627772--a81259a0-a2f5-464b-866e-71220f2739f1---Rough Boy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1960c042075543ffad84389075a5ae1f.png" length="108297" type="image/png"/>
-      <pubDate>Sun, 15 May 2022 11:16:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 May 2022 15:47:18 +0000</lastBuildDate>
     <item>
       <title>Marillion - Kayleigh (9 plays)</title>
       <link>https://www.last.fm/music/Marillion/_/Kayleigh</link>
@@ -68,6 +61,7 @@
       <title>Suede - Saturday Night (1 play)</title>
       <link>https://www.last.fm/music/Suede/_/Saturday+Night</link>
       <guid isPermaLink="false">manosg--1652679884--Suede---Saturday Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b9ea0b184138ad179d088c3ea6188fe.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Mon, 16 May 2022 01:44:44 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1652713698--Eagles---I Can't Tell You Why - 2013 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bec180e0b64d5664e25dbb31a85ac0c4.jpg" length="12689" type="image/jpeg"/>
       <pubDate>Mon, 16 May 2022 11:08:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lenny Kravitz - It Ain't Over 'til It's Over (3 plays)</title>
+      <link>https://www.last.fm/music/Lenny+Kravitz/_/It+Ain%27t+Over+%27til+It%27s+Over</link>
+      <guid isPermaLink="false">manosg--1652714021--0ef3f425-9bd2-4216-9dd2-219d2fe90f1f---It Ain't Over 'til It's Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e1a6fdcfc5e4047c0d0467ac3008560.png" length="104141" type="image/png"/>
+      <pubDate>Mon, 16 May 2022 11:13:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
