@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 May 2022 10:29:47 +0000</lastBuildDate>
-    <item>
-      <title>Crash Test Dummies - Mmm Mmm Mmm Mmm (2 plays)</title>
-      <link>https://www.last.fm/music/Crash+Test+Dummies/_/Mmm+Mmm+Mmm+Mmm</link>
-      <guid isPermaLink="false">manosg--1652697287--afb8f901-d846-4c70-a898-59bc183d1da7---Mmm Mmm Mmm Mmm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2fee8f7c5c044de9bf8b91493e83fad.png" length="214628" type="image/png"/>
-      <pubDate>Mon, 16 May 2022 06:34:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Toto - Rosanna (9 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/Rosanna</link>
-      <guid isPermaLink="false">manosg--1652697654--aab5c954-cabe-432e-899e-1c4f99757327---Rosanna</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png" length="74475" type="image/png"/>
-      <pubDate>Mon, 16 May 2022 06:40:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Eric Clapton - My Father's Eyes - 2015 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Eric+Clapton/_/My+Father%27s+Eyes+-+2015+Remaster</link>
-      <guid isPermaLink="false">manosg--1652697987--Eric Clapton---My Father's Eyes - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fadf615b8acdaf9848e92649508f396.jpg" length="19418" type="image/jpeg"/>
-      <pubDate>Mon, 16 May 2022 06:46:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 May 2022 10:44:54 +0000</lastBuildDate>
     <item>
       <title>America - A Horse With No Name (7 plays)</title>
       <link>https://www.last.fm/music/America/_/A+Horse+With+No+Name</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1652780676--Toad The Wet Sprocket---Walk On The Ocean</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a42a82f180f4c929c54c84c724e0c33.png" length="248089" type="image/png"/>
       <pubDate>Tue, 17 May 2022 05:44:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Aerosmith - Janie's Got a Gun (3 plays)</title>
+      <link>https://www.last.fm/music/Aerosmith/_/Janie%27s+Got+a+Gun</link>
+      <guid isPermaLink="false">manosg--1652783269--3d2b98e5-556f-4451-a3ff-c50ea18d57cb---Janie's Got a Gun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b6e8c831b594d5bb7362e7d6e0eb723.png" length="133713" type="image/png"/>
+      <pubDate>Tue, 17 May 2022 06:27:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yusuf - Wild World (1 play)</title>
+      <link>https://www.last.fm/music/Yusuf/_/Wild+World</link>
+      <guid isPermaLink="false">manosg--1652783601--Yusuf---Wild World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/92beb25a3233a703cee6843eabbf71a5.jpg" length="23341" type="image/jpeg"/>
+      <pubDate>Tue, 17 May 2022 06:33:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Christopher Cross - Ride Like the Wind (1 play)</title>
+      <link>https://www.last.fm/music/Christopher+Cross/_/Ride+Like+the+Wind</link>
+      <guid isPermaLink="false">manosg--1652783801--883e4ba4-8ccc-47ed-81df-df51e41792a9---Ride Like the Wind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c691fc5cf5b447f9852588008e8e17ff.png" length="192777" type="image/png"/>
+      <pubDate>Tue, 17 May 2022 06:36:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
