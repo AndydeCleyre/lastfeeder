@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 May 2022 07:40:49 +0000</lastBuildDate>
-    <item>
-      <title>John Cale - If You Were Still Around (18 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/If+You+Were+Still+Around</link>
-      <guid isPermaLink="false">Frippertron-1652694309--72c090b6-a68e-4cb9-b330-85278681a714---If You Were Still Around</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f34d9e67d2545c3c9b2f78da40c05ff9.png" length="39874" type="image/png"/>
-      <pubDate>Mon, 16 May 2022 05:45:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>John Cale - (I Keep A) Close Watch (57 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/(I+Keep+A)+Close+Watch</link>
-      <guid isPermaLink="false">Frippertron-1652694519--72c090b6-a68e-4cb9-b330-85278681a714---(I Keep A) Close Watch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f34d9e67d2545c3c9b2f78da40c05ff9.png" length="39874" type="image/png"/>
-      <pubDate>Mon, 16 May 2022 05:48:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 May 2022 07:52:33 +0000</lastBuildDate>
     <item>
       <title>John Cale - Damn Life (55 plays)</title>
       <link>https://www.last.fm/music/John+Cale/_/Damn+Life</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1652772862--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---One More Red Nightmare</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 17 May 2022 03:34:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Red (107 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Red</link>
+      <guid isPermaLink="false">Frippertron-1652773291--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Red</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 17 May 2022 03:41:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - VROOOM VROOOM (19 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/VROOOM+VROOOM</link>
+      <guid isPermaLink="false">Frippertron-1652773690--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---VROOOM VROOOM</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 17 May 2022 03:48:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
