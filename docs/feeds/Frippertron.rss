@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 May 2022 10:25:00 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Somebody Up There Likes Me (44 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
-      <guid isPermaLink="false">Frippertron-1652848986--5441c29d-3602-4898-b1a1-b77fa23b8e50---Somebody Up There Likes Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Wed, 18 May 2022 00:43:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 May 2022 22:21:31 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Can You Hear Me? (30 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Can+You+Hear+Me%3F</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1652867815--13453b40-1d9c-4281-b73f-b7c1b45c7ebd---The Downtown Lights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2198bb7f07b97ee3d13bb90b850cadf9.png" length="86619" type="image/png"/>
       <pubDate>Wed, 18 May 2022 05:56:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Hospitality On Parade (24 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/Hospitality+On+Parade</link>
+      <guid isPermaLink="false">Frippertron-1652911241--Sparks---Hospitality On Parade</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 18 May 2022 18:00:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
