@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 May 2022 17:11:03 +0000</lastBuildDate>
-    <item>
-      <title>Cock Robin - Just Around the Corner (1 play)</title>
-      <link>https://www.last.fm/music/Cock+Robin/_/Just+Around+the+Corner</link>
-      <guid isPermaLink="false">manosg--1652773426--a58d4ccf-341d-4f2d-a7c8-52828ce89ad2---Just Around the Corner</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80317a67771c4e8a90baf0dcea2a9272.jpg" length="16268" type="image/jpeg"/>
-      <pubDate>Tue, 17 May 2022 03:43:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 May 2022 17:40:08 +0000</lastBuildDate>
     <item>
       <title>R.E.M. - Losing My Religion (2 plays)</title>
       <link>https://www.last.fm/music/R.E.M./_/Losing+My+Religion</link>
@@ -348,6 +341,7 @@
       <title>Leonard Cohen - The Future - Live In London (3 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/The+Future+-+Live+In+London</link>
       <guid isPermaLink="false">manosg--1652892086--65314b12-0e08-43fa-ba33-baaa7b874c15---The Future - Live In London</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f51b157fdfdd49c1ab440f851c09aa26.jpg" length="20525" type="image/jpeg"/>
       <pubDate>Wed, 18 May 2022 12:41:26 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1652893172--694bee19-8cec-4fb0-97b7-c7820657772f---Sex Child</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc2128c42f9300d5021349da803d1660.png" length="163070" type="image/png"/>
       <pubDate>Wed, 18 May 2022 12:59:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sade - Maureen (18 plays)</title>
+      <link>https://www.last.fm/music/Sade/_/Maureen</link>
+      <guid isPermaLink="false">manosg--1652893541--67930b3e-e00b-469f-8c74-fd69f20522ec---Maureen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29ce2666eebe380a0f882755aab75798.jpg" length="14640" type="image/jpeg"/>
+      <pubDate>Wed, 18 May 2022 13:05:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
