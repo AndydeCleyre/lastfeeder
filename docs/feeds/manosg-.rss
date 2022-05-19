@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 May 2022 08:49:44 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - I'm on Fire (1 play)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/I%27m+on+Fire</link>
-      <guid isPermaLink="false">manosg--1652779931--70248960-cb53-4ea4-943a-edb18f7d336f---I'm on Fire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03426c63f1f44b53cb6ea5745ec08cda.png" length="161704" type="image/png"/>
-      <pubDate>Tue, 17 May 2022 05:32:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Foo Fighters - Everlong - acoustic version (1 play)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Everlong+-+acoustic+version</link>
-      <guid isPermaLink="false">manosg--1652780208--67f66c07-6e61-4026-ade5-7e782fad3a5d---Everlong - acoustic version</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dee59c598c84eb1a28ba3c303147100.png" length="157483" type="image/png"/>
-      <pubDate>Tue, 17 May 2022 05:36:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Blind Melon - No Rain (1 play)</title>
-      <link>https://www.last.fm/music/Blind+Melon/_/No+Rain</link>
-      <guid isPermaLink="false">manosg--1652780458--38c5cdab-5d6d-43d1-85b0-dac41bde186e---No Rain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48dd5b9226d849269e10c60558e140d6.png" length="158871" type="image/png"/>
-      <pubDate>Tue, 17 May 2022 05:40:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 May 2022 09:22:30 +0000</lastBuildDate>
     <item>
       <title>Toad The Wet Sprocket - Walk On The Ocean (1 play)</title>
       <link>https://www.last.fm/music/Toad+The+Wet+Sprocket/_/Walk+On+The+Ocean</link>
@@ -61,6 +40,7 @@
       <title>Stone Sour - Wicked Game - Acoustic; Live (1 play)</title>
       <link>https://www.last.fm/music/Stone+Sour/_/Wicked+Game+-+Acoustic;+Live</link>
       <guid isPermaLink="false">manosg--1652784077--Stone Sour---Wicked Game - Acoustic; Live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/987969981ddd474bc73a434a20d36ed4.jpg" length="38127" type="image/jpeg"/>
       <pubDate>Tue, 17 May 2022 06:41:17 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">manosg--1652947837--ARÐ---Take Up My Bones</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f55a0453626cc2860c92932a87d8803d.jpg" length="35492" type="image/jpeg"/>
       <pubDate>Thu, 19 May 2022 04:10:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>ARÐ - Raise Then The Incorrupt Body (10 plays)</title>
+      <link>https://www.last.fm/music/AR%C3%90/_/Raise+Then+The+Incorrupt+Body</link>
+      <guid isPermaLink="false">manosg--1652948950--ARÐ---Raise Then The Incorrupt Body</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f55a0453626cc2860c92932a87d8803d.jpg" length="35492" type="image/jpeg"/>
+      <pubDate>Thu, 19 May 2022 04:29:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>ARÐ - Boughs Of Trees (8 plays)</title>
+      <link>https://www.last.fm/music/AR%C3%90/_/Boughs+Of+Trees</link>
+      <guid isPermaLink="false">manosg--1652951163--ARÐ---Boughs Of Trees</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f55a0453626cc2860c92932a87d8803d.jpg" length="35492" type="image/jpeg"/>
+      <pubDate>Thu, 19 May 2022 05:06:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>ARÐ - Banner Of The Saint (7 plays)</title>
+      <link>https://www.last.fm/music/AR%C3%90/_/Banner+Of+The+Saint</link>
+      <guid isPermaLink="false">manosg--1652951531--ARÐ---Banner Of The Saint</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f55a0453626cc2860c92932a87d8803d.jpg" length="35492" type="image/jpeg"/>
+      <pubDate>Thu, 19 May 2022 05:12:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
