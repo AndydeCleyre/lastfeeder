@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 May 2022 14:42:58 +0000</lastBuildDate>
-    <item>
-      <title>The Doobie Brothers - What a Fool Believes (1 play)</title>
-      <link>https://www.last.fm/music/The+Doobie+Brothers/_/What+a+Fool+Believes</link>
-      <guid isPermaLink="false">manosg--1652791355--588dea29-eea3-456b-a815-3ee04f75c8e7---What a Fool Believes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0cb1180d3bae83e60a432f2427363b3.jpg" length="20084" type="image/jpeg"/>
-      <pubDate>Tue, 17 May 2022 08:42:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 May 2022 14:56:55 +0000</lastBuildDate>
     <item>
       <title>The Cranberries - Ode to My Family (1 play)</title>
       <link>https://www.last.fm/music/The+Cranberries/_/Ode+to+My+Family</link>
@@ -341,7 +334,6 @@
       <title>Naxatras - Shape of the Evening (4 plays)</title>
       <link>https://www.last.fm/music/Naxatras/_/Shape+of+the+Evening</link>
       <guid isPermaLink="false">manosg--1652957881--052b43c2-2f6a-4e60-92ea-18b4de2be0d9---Shape of the Evening</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70d944967f6f66014151b84b8de05031.jpg" length="29283" type="image/jpeg"/>
       <pubDate>Thu, 19 May 2022 06:58:01 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">manosg--1652971216--40877739-c290-4c41-b803-5809f4cb4c90---Brisa Del Desierto</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d33758afdc55474a922739c2f8542220.png" length="249863" type="image/png"/>
       <pubDate>Thu, 19 May 2022 10:40:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Los Natas - Carl Sagan (1 play)</title>
+      <link>https://www.last.fm/music/Los+Natas/_/Carl+Sagan</link>
+      <guid isPermaLink="false">manosg--1652971351--40877739-c290-4c41-b803-5809f4cb4c90---Carl Sagan</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d33758afdc55474a922739c2f8542220.png" length="249863" type="image/png"/>
+      <pubDate>Thu, 19 May 2022 10:42:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
