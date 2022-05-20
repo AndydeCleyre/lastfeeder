@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 May 2022 05:53:49 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Caroline, No (59 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Caroline,+No</link>
-      <guid isPermaLink="false">Frippertron-1652950365--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Caroline, No</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f8a723d5e2848c7c820a1ac8768fce5.png" length="174675" type="image/png"/>
-      <pubDate>Thu, 19 May 2022 04:52:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 May 2022 06:27:17 +0000</lastBuildDate>
     <item>
       <title>Peter Gabriel - I Don't Remember (63 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/I+Don%27t+Remember</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1653025503--490bde43-5edb-4a93-b3b3-7a0465fd8909---Marquee Moon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
       <pubDate>Fri, 20 May 2022 01:45:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chico Buarque - Deus Lhe Pague (29 plays)</title>
+      <link>https://www.last.fm/music/Chico+Buarque/_/Deus+Lhe+Pague</link>
+      <guid isPermaLink="false">Frippertron-1653026188--3a5d1cc7-627e-48ea-aba3-fdd20d782c33---Deus Lhe Pague</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b47929a57fc4a51fd2e4b2569af7899f.png" length="79168" type="image/png"/>
+      <pubDate>Fri, 20 May 2022 01:56:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
