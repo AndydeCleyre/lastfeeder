@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 May 2022 08:27:20 +0000</lastBuildDate>
-    <item>
-      <title>Massive Attack - Man Next Door (48 plays)</title>
-      <link>https://www.last.fm/music/Massive+Attack/_/Man+Next+Door</link>
-      <guid isPermaLink="false">Frippertron-1653017245--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Man Next Door</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
-      <pubDate>Thu, 19 May 2022 23:27:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 May 2022 08:48:56 +0000</lastBuildDate>
     <item>
       <title>Portishead - Glory Box (12 plays)</title>
       <link>https://www.last.fm/music/Portishead/_/Glory+Box</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1653034988--80cd255d-995c-47f1-a5bc-cc34669a37a0---When In Rome</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a2ee04b863fcbe55be5ee57de954916.jpg" length="23042" type="image/jpeg"/>
       <pubDate>Fri, 20 May 2022 04:23:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Iggy Pop - Lust For Life (90 plays)</title>
+      <link>https://www.last.fm/music/Iggy+Pop/_/Lust+For+Life</link>
+      <guid isPermaLink="false">Frippertron-1653036188--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Lust For Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b68045da645548c783381464ba5cc8ce.png" length="112283" type="image/png"/>
+      <pubDate>Fri, 20 May 2022 04:43:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
