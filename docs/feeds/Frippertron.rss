@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 May 2022 08:55:50 +0000</lastBuildDate>
-    <item>
-      <title>Dennis Wilson - Friday Night (56 plays)</title>
-      <link>https://www.last.fm/music/Dennis+Wilson/_/Friday+Night</link>
-      <guid isPermaLink="false">Frippertron-1653278299--4051f6bf-6a59-4d23-bd8b-2fddb1389dc0---Friday Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcbfa24117974cbeccb63ffce723e7c4.png" length="146011" type="image/png"/>
-      <pubDate>Sun, 22 May 2022 23:58:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 May 2022 09:23:05 +0000</lastBuildDate>
     <item>
       <title>Dennis Wilson - Dreamer (65 plays)</title>
       <link>https://www.last.fm/music/Dennis+Wilson/_/Dreamer</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1653296043--5eecaf18-02ec-47af-a4f2-7831db373419---Khashoggi's Ship</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d0adaf4dbb8f3b74536615cd463392.png" length="173779" type="image/png"/>
       <pubDate>Mon, 23 May 2022 04:54:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - The Miracle (8 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/The+Miracle</link>
+      <guid isPermaLink="false">Frippertron-1653296212--5eecaf18-02ec-47af-a4f2-7831db373419---The Miracle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d0adaf4dbb8f3b74536615cd463392.png" length="173779" type="image/png"/>
+      <pubDate>Mon, 23 May 2022 04:56:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
