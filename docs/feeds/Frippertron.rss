@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 May 2022 10:26:17 +0000</lastBuildDate>
-    <item>
-      <title>MC5 - Ramblin' Rose (17 plays)</title>
-      <link>https://www.last.fm/music/MC5/_/Ramblin%27+Rose</link>
-      <guid isPermaLink="false">Frippertron-1653367589--08b736bb-1c82-40b4-8b0b-49e2182a067a---Ramblin' Rose</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7ddfec1a4ad4193a7f5dcebaf19ace2.png" length="246254" type="image/png"/>
-      <pubDate>Tue, 24 May 2022 00:46:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>MC5 - Kick Out the Jams (32 plays)</title>
-      <link>https://www.last.fm/music/MC5/_/Kick+Out+the+Jams</link>
-      <guid isPermaLink="false">Frippertron-1653367844--08b736bb-1c82-40b4-8b0b-49e2182a067a---Kick Out the Jams</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7ddfec1a4ad4193a7f5dcebaf19ace2.png" length="246254" type="image/png"/>
-      <pubDate>Tue, 24 May 2022 00:50:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>MC5 - Come Together (12 plays)</title>
-      <link>https://www.last.fm/music/MC5/_/Come+Together</link>
-      <guid isPermaLink="false">Frippertron-1653368018--08b736bb-1c82-40b4-8b0b-49e2182a067a---Come Together</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7ddfec1a4ad4193a7f5dcebaf19ace2.png" length="246254" type="image/png"/>
-      <pubDate>Tue, 24 May 2022 00:53:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>MC5 - Rocket Reducer N. 62 (Rama Lama Fa Fa Fa) (9 plays)</title>
-      <link>https://www.last.fm/music/MC5/_/Rocket+Reducer+N.+62+(Rama+Lama+Fa+Fa+Fa)</link>
-      <guid isPermaLink="false">Frippertron-1653368288--MC5---Rocket Reducer N. 62 (Rama Lama Fa Fa Fa)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7ddfec1a4ad4193a7f5dcebaf19ace2.png" length="246254" type="image/png"/>
-      <pubDate>Tue, 24 May 2022 00:58:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Flash (10 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Flash</link>
-      <guid isPermaLink="false">Frippertron-1653368618--5eecaf18-02ec-47af-a4f2-7831db373419---Flash</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
-      <pubDate>Tue, 24 May 2022 01:03:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - The Hero (10 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/The+Hero</link>
-      <guid isPermaLink="false">Frippertron-1653368733--5eecaf18-02ec-47af-a4f2-7831db373419---The Hero</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
-      <pubDate>Tue, 24 May 2022 01:05:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - We Will Rock You (fast) (32 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/We+Will+Rock+You+(fast)</link>
-      <guid isPermaLink="false">Frippertron-1653368839--5eecaf18-02ec-47af-a4f2-7831db373419---We Will Rock You (fast)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
-      <pubDate>Tue, 24 May 2022 01:07:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Action This Day (52 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Action+This+Day</link>
-      <guid isPermaLink="false">Frippertron-1653369039--5eecaf18-02ec-47af-a4f2-7831db373419---Action This Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
-      <pubDate>Tue, 24 May 2022 01:10:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Play the Game (52 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Play+the+Game</link>
-      <guid isPermaLink="false">Frippertron-1653369334--5eecaf18-02ec-47af-a4f2-7831db373419---Play the Game</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
-      <pubDate>Tue, 24 May 2022 01:15:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 May 2022 03:23:17 +0000</lastBuildDate>
     <item>
       <title>Queen - Staying Power (64 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Staying+Power</link>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">Frippertron-1653386898--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---Coyote</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c60a01f24d29587ac64886a92b75349.jpg" length="16303" type="image/jpeg"/>
       <pubDate>Tue, 24 May 2022 06:08:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Keep Yourself Alive (35 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Keep+Yourself+Alive</link>
+      <guid isPermaLink="false">Frippertron-1653446718--5eecaf18-02ec-47af-a4f2-7831db373419---Keep Yourself Alive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Tue, 24 May 2022 22:45:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Doing All Right (17 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Doing+All+Right</link>
+      <guid isPermaLink="false">Frippertron-1653446944--5eecaf18-02ec-47af-a4f2-7831db373419---Doing All Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Tue, 24 May 2022 22:49:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Great King Rat (24 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Great+King+Rat</link>
+      <guid isPermaLink="false">Frippertron-1653447193--5eecaf18-02ec-47af-a4f2-7831db373419---Great King Rat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Tue, 24 May 2022 22:53:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Mad The Swine (9 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Mad+The+Swine</link>
+      <guid isPermaLink="false">Frippertron-1653447536--5eecaf18-02ec-47af-a4f2-7831db373419---Mad The Swine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Tue, 24 May 2022 22:58:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - My Fairy King (18 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/My+Fairy+King</link>
+      <guid isPermaLink="false">Frippertron-1653447736--5eecaf18-02ec-47af-a4f2-7831db373419---My Fairy King</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Tue, 24 May 2022 23:02:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Liar (73 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Liar</link>
+      <guid isPermaLink="false">Frippertron-1653447983--5eecaf18-02ec-47af-a4f2-7831db373419---Liar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Tue, 24 May 2022 23:06:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - The Night Comes Down (33 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/The+Night+Comes+Down</link>
+      <guid isPermaLink="false">Frippertron-1653448368--5eecaf18-02ec-47af-a4f2-7831db373419---The Night Comes Down</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Tue, 24 May 2022 23:12:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Polaris - Hey Sandy (1 play)</title>
+      <link>https://www.last.fm/music/Polaris/_/Hey+Sandy</link>
+      <guid isPermaLink="false">Frippertron-1653448634--Polaris---Hey Sandy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3feb5057e6fbe640b7a5fd7d81e40cc3.jpg" length="18165" type="image/jpeg"/>
+      <pubDate>Tue, 24 May 2022 23:17:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Polaris - She Is Staggering (1 play)</title>
+      <link>https://www.last.fm/music/Polaris/_/She+Is+Staggering</link>
+      <guid isPermaLink="false">Frippertron-1653448790--Polaris---She Is Staggering</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3feb5057e6fbe640b7a5fd7d81e40cc3.jpg" length="18165" type="image/jpeg"/>
+      <pubDate>Tue, 24 May 2022 23:19:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
