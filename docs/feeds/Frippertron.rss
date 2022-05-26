@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 May 2022 09:22:38 +0000</lastBuildDate>
-    <item>
-      <title>Michael Jackson - Bad (5 plays)</title>
-      <link>https://www.last.fm/music/Michael+Jackson/_/Bad</link>
-      <guid isPermaLink="false">Frippertron-1653535908--f27ec8db-af05-4f36-916e-3d57f91ecf5e---Bad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8860bfd3ea86680bac8cb2decae33f06.jpg" length="20111" type="image/jpeg"/>
-      <pubDate>Wed, 25 May 2022 23:31:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Michael Jackson - Rock with You (14 plays)</title>
-      <link>https://www.last.fm/music/Michael+Jackson/_/Rock+with+You</link>
-      <guid isPermaLink="false">Frippertron-1653536155--f27ec8db-af05-4f36-916e-3d57f91ecf5e---Rock with You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe6f2a0832392b384472f53a5d8cfd6.png" length="193335" type="image/png"/>
-      <pubDate>Wed, 25 May 2022 23:35:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Polaris - Hey Sandy (2 plays)</title>
-      <link>https://www.last.fm/music/Polaris/_/Hey+Sandy</link>
-      <guid isPermaLink="false">Frippertron-1653536386--Polaris---Hey Sandy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3feb5057e6fbe640b7a5fd7d81e40cc3.jpg" length="18165" type="image/jpeg"/>
-      <pubDate>Wed, 25 May 2022 23:39:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>black midi - Welcome to Hell (49 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Welcome+to+Hell</link>
-      <guid isPermaLink="false">Frippertron-1653536570--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Welcome to Hell</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
-      <pubDate>Wed, 25 May 2022 23:42:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 May 2022 09:44:21 +0000</lastBuildDate>
     <item>
       <title>Talking Heads - Blind (34 plays)</title>
       <link>https://www.last.fm/music/Talking+Heads/_/Blind</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1653556687--e01c3376-15fa-40d7-b747-5f219bdefdd7---Everything You Did</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
       <pubDate>Thu, 26 May 2022 05:18:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - The Royal Scam (9 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/The+Royal+Scam</link>
+      <guid isPermaLink="false">Frippertron-1653556925--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Royal Scam</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
+      <pubDate>Thu, 26 May 2022 05:22:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - You've Been Around (41 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/You%27ve+Been+Around</link>
+      <guid isPermaLink="false">Frippertron-1653557350--5441c29d-3602-4898-b1a1-b77fa23b8e50---You've Been Around</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b3ff296ade87980c7bb9d6aede6fc16.png" length="194085" type="image/png"/>
+      <pubDate>Thu, 26 May 2022 05:29:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - I Feel Free (42 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/I+Feel+Free</link>
+      <guid isPermaLink="false">Frippertron-1653557635--5441c29d-3602-4898-b1a1-b77fa23b8e50---I Feel Free</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b3ff296ade87980c7bb9d6aede6fc16.png" length="194085" type="image/png"/>
+      <pubDate>Thu, 26 May 2022 05:33:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Joni Mitchell - Raised on Robbery (14 plays)</title>
+      <link>https://www.last.fm/music/Joni+Mitchell/_/Raised+on+Robbery</link>
+      <guid isPermaLink="false">Frippertron-1653557959--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---Raised on Robbery</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3eb66e68656496e9f96afadb753c545.jpg" length="7970" type="image/jpeg"/>
+      <pubDate>Thu, 26 May 2022 05:39:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
