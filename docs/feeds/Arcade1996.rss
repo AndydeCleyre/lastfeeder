@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 May 2022 13:23:33 +0000</lastBuildDate>
-    <item>
-      <title>Jessie Ware - Spotlight (1 play)</title>
-      <link>https://www.last.fm/music/Jessie+Ware/_/Spotlight</link>
-      <guid isPermaLink="false">Arcade1996-1653483380--6ed40778-8d03-4a5c-ad35-93cf814627c9---Spotlight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1efdf5b6ba52459efb7a4a3f60b0d2a8.jpg" length="16374" type="image/jpeg"/>
-      <pubDate>Wed, 25 May 2022 08:56:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 May 2022 13:53:30 +0000</lastBuildDate>
     <item>
       <title>Sufjan Stevens - Cimmerian Shade (1 play)</title>
       <link>https://www.last.fm/music/Sufjan+Stevens/_/Cimmerian+Shade</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1653571110--5fee3020-513b-48c2-b1f7-4681b01db0c6---Free</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/153cb088d5989154e6f90d78903f7450.jpg" length="19411" type="image/jpeg"/>
       <pubDate>Thu, 26 May 2022 09:18:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nilüfer Yanya - midnight sun (1 play)</title>
+      <link>https://www.last.fm/music/Nil%C3%BCfer+Yanya/_/midnight+sun</link>
+      <guid isPermaLink="false">Arcade1996-1653571346--Nilüfer Yanya---midnight sun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47eda98f52553c82c4dde3d833a3cde4.png" length="207146" type="image/png"/>
+      <pubDate>Thu, 26 May 2022 09:22:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
