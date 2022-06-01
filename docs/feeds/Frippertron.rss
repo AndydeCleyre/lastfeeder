@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jun 2022 14:28:06 +0000</lastBuildDate>
-    <item>
-      <title>Thom Yorke - A Storm That Took Everything (2 plays)</title>
-      <link>https://www.last.fm/music/Thom+Yorke/_/A+Storm+That+Took+Everything</link>
-      <guid isPermaLink="false">Frippertron-1654059139--8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b---A Storm That Took Everything</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2745ec71c16a4f1183afce7ebd1afe55.jpg" length="12918" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jun 2022 00:52:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thom Yorke - The Hooks (2 plays)</title>
-      <link>https://www.last.fm/music/Thom+Yorke/_/The+Hooks</link>
-      <guid isPermaLink="false">Frippertron-1654059247--8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b---The Hooks</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2745ec71c16a4f1183afce7ebd1afe55.jpg" length="12918" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jun 2022 00:54:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jun 2022 17:56:39 +0000</lastBuildDate>
     <item>
       <title>Thom Yorke - Suspirium (2 plays)</title>
       <link>https://www.last.fm/music/Thom+Yorke/_/Suspirium</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1654077736--5441c29d-3602-4898-b1a1-b77fa23b8e50---Wild Is the Wind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
       <pubDate>Wed, 01 Jun 2022 06:02:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Goblin - Deep Shadows (1 play)</title>
+      <link>https://www.last.fm/music/Goblin/_/Deep+Shadows</link>
+      <guid isPermaLink="false">Frippertron-1654105570--c02f99fd-8c93-4c4f-ad71-229ffe14552c---Deep Shadows</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e7ec2a7d4c1fa2e347b70bead51d8f4f.png" length="33252" type="image/png"/>
+      <pubDate>Wed, 01 Jun 2022 13:46:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fleetwood Mac - Oh Well (1 play)</title>
+      <link>https://www.last.fm/music/Fleetwood+Mac/_/Oh+Well</link>
+      <guid isPermaLink="false">Frippertron-1654105929--bd13909f-1c29-4c27-a874-d4aaf27c5b1a---Oh Well</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/078b6b2dd43d4164a7bdc15da0b47da6.png" length="236373" type="image/png"/>
+      <pubDate>Wed, 01 Jun 2022 13:52:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
