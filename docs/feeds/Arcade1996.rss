@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jun 2022 22:44:36 +0000</lastBuildDate>
-    <item>
-      <title>The Durutti Column - Portrait for Frazer (1 play)</title>
-      <link>https://www.last.fm/music/The+Durutti+Column/_/Portrait+for+Frazer</link>
-      <guid isPermaLink="false">Arcade1996-1653916324--aaddb5e3-f8a5-4a9d-8674-f885112ecf0e---Portrait for Frazer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa9d3b85a1b34a789b4a8ffdaab26eaf.png" length="188007" type="image/png"/>
-      <pubDate>Mon, 30 May 2022 09:12:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jun 2022 11:40:35 +0000</lastBuildDate>
     <item>
       <title>The Durutti Column - Jacqueline (1 play)</title>
       <link>https://www.last.fm/music/The+Durutti+Column/_/Jacqueline</link>
@@ -254,7 +247,7 @@
       <pubDate>Tue, 31 May 2022 18:38:57 -0400</pubDate>
     </item>
     <item>
-      <title>Boldy James - Game Time (9 plays)</title>
+      <title>Boldy James - Game Time (10 plays)</title>
       <link>https://www.last.fm/music/Boldy+James/_/Game+Time</link>
       <guid isPermaLink="false">Arcade1996-1654037027--Boldy James---Game Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25a9b69421d0f5935f044d626834b0cf.jpg" length="15580" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1654089754--f22942a1-6f70-4f48-866e-238cb2308fbd---#3</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27cbbe4e88884b81911699b88c2d5eca.png" length="164592" type="image/png"/>
       <pubDate>Wed, 01 Jun 2022 09:22:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boldy James - Game Time (10 plays)</title>
+      <link>https://www.last.fm/music/Boldy+James/_/Game+Time</link>
+      <guid isPermaLink="false">Arcade1996-1654123456--Boldy James---Game Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25a9b69421d0f5935f044d626834b0cf.jpg" length="15580" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jun 2022 18:44:16 -0400</pubDate>
     </item>
   </channel>
 </rss>
