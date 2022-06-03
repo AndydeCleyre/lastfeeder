@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jun 2022 07:37:57 +0000</lastBuildDate>
-    <item>
-      <title>Michael Jackson - Girlfriend (3 plays)</title>
-      <link>https://www.last.fm/music/Michael+Jackson/_/Girlfriend</link>
-      <guid isPermaLink="false">Frippertron-1654225758--f27ec8db-af05-4f36-916e-3d57f91ecf5e---Girlfriend</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe6f2a0832392b384472f53a5d8cfd6.png" length="193335" type="image/png"/>
-      <pubDate>Thu, 02 Jun 2022 23:09:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Heaven 17 - (We Don't Need This) Fascist Groove Thang (4 plays)</title>
-      <link>https://www.last.fm/music/Heaven+17/_/(We+Don%27t+Need+This)+Fascist+Groove+Thang</link>
-      <guid isPermaLink="false">Frippertron-1654226002--0796f847-09ca-4526-b17e-44390dd536ba---(We Don't Need This) Fascist Groove Thang</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e397731b8b54cb0b8b14a71a5bfca18.png" length="217342" type="image/png"/>
-      <pubDate>Thu, 02 Jun 2022 23:13:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jun 2022 07:52:20 +0000</lastBuildDate>
     <item>
       <title>Heaven 17 - Penthouse And Pavement (1 play)</title>
       <link>https://www.last.fm/music/Heaven+17/_/Penthouse+And+Pavement</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1654241702--5441c29d-3602-4898-b1a1-b77fa23b8e50---Cracked Actor</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
       <pubDate>Fri, 03 Jun 2022 03:35:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Dead Man Walking (49 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
+      <guid isPermaLink="false">Frippertron-1654241882--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jun 2022 03:38:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Teenage Wildlife (183 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Teenage+Wildlife</link>
+      <guid isPermaLink="false">Frippertron-1654242293--5441c29d-3602-4898-b1a1-b77fa23b8e50---Teenage Wildlife</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jun 2022 03:44:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
