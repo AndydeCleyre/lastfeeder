@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jun 2022 08:44:07 +0000</lastBuildDate>
-    <item>
-      <title>Queen - '39 (20 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/%2739</link>
-      <guid isPermaLink="false">Frippertron-1654486923--5eecaf18-02ec-47af-a4f2-7831db373419---'39</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d36a1f8075da4df6bb835b2f7eac1547.png" length="77758" type="image/png"/>
-      <pubDate>Sun, 05 Jun 2022 23:42:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Sweet Lady (19 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Sweet+Lady</link>
-      <guid isPermaLink="false">Frippertron-1654487135--5eecaf18-02ec-47af-a4f2-7831db373419---Sweet Lady</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d36a1f8075da4df6bb835b2f7eac1547.png" length="77758" type="image/png"/>
-      <pubDate>Sun, 05 Jun 2022 23:45:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Jun 2022 08:55:57 +0000</lastBuildDate>
     <item>
       <title>Queen - Seaside Rendezvous (13 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Seaside+Rendezvous</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1654504535--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
       <pubDate>Mon, 06 Jun 2022 04:35:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Dead Man Walking (50 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
+      <guid isPermaLink="false">Frippertron-1654504963--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jun 2022 04:42:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - The Last Thing You Should Do (37 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/The+Last+Thing+You+Should+Do</link>
+      <guid isPermaLink="false">Frippertron-1654505359--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Last Thing You Should Do</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jun 2022 04:49:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
