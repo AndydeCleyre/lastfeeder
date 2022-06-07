@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jun 2022 17:04:37 +0000</lastBuildDate>
-    <item>
-      <title>BAYNK - Simmer (3 plays)</title>
-      <link>https://www.last.fm/music/BAYNK/_/Simmer</link>
-      <guid isPermaLink="false">ddgromit-1654298870--27c8c7f6-0609-433e-bbf7-398da6ba2d12---Simmer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f3617e2f415081b1261022f0b8daa01.jpg" length="4746" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jun 2022 19:27:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Goth Babe - I Wanna Help Your Mind (1 play)</title>
-      <link>https://www.last.fm/music/Goth+Babe/_/I+Wanna+Help+Your+Mind</link>
-      <guid isPermaLink="false">ddgromit-1654299106--Goth Babe---I Wanna Help Your Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3670e59142f2dad0349754d9634c3f0.png" length="144670" type="image/png"/>
-      <pubDate>Fri, 03 Jun 2022 19:31:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jun 2022 23:40:01 +0000</lastBuildDate>
     <item>
       <title>Nasaya - TEMPO (12 plays)</title>
       <link>https://www.last.fm/music/Nasaya/_/TEMPO</link>
@@ -278,6 +264,7 @@
       <title>Obli - Change (2 plays)</title>
       <link>https://www.last.fm/music/Obli/_/Change</link>
       <guid isPermaLink="false">ddgromit-1654447189--Obli---Change</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bed6b8547de56e21394a00fbe8ec0832.jpg" length="17797" type="image/jpeg"/>
       <pubDate>Sun, 05 Jun 2022 12:39:49 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1654620657--d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8---Know Who You Are</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21cf030428dcf361c9e4b8070d5e0f80.jpg" length="9258" type="image/jpeg"/>
       <pubDate>Tue, 07 Jun 2022 12:50:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Supertramp - Your Poppa Don't Mind (1 play)</title>
+      <link>https://www.last.fm/music/Supertramp/_/Your+Poppa+Don%27t+Mind</link>
+      <guid isPermaLink="false">ddgromit-1654620968--d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8---Your Poppa Don't Mind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/daf10a6b25ff8e680cda85b6a290111f.png" length="208989" type="image/png"/>
+      <pubDate>Tue, 07 Jun 2022 12:56:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Goth Babe - I Wanna Help Your Mind (2 plays)</title>
+      <link>https://www.last.fm/music/Goth+Babe/_/I+Wanna+Help+Your+Mind</link>
+      <guid isPermaLink="false">ddgromit-1654644957--Goth Babe---I Wanna Help Your Mind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3670e59142f2dad0349754d9634c3f0.png" length="144670" type="image/png"/>
+      <pubDate>Tue, 07 Jun 2022 19:35:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
