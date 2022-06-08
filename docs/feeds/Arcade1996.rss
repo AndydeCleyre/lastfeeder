@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jun 2022 01:49:41 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - Something from Nothing (101 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Something+from+Nothing</link>
-      <guid isPermaLink="false">Arcade1996-1654511917--67f66c07-6e61-4026-ade5-7e782fad3a5d---Something from Nothing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7ee50fc9d0f404ec08d2cd50a8a414a.png" length="197110" type="image/png"/>
-      <pubDate>Mon, 06 Jun 2022 06:38:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Bonny - 2007 Remastered Version (41 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Bonny+-+2007+Remastered+Version</link>
-      <guid isPermaLink="false">Arcade1996-1654520525--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Bonny - 2007 Remastered Version</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8970aa3b488e88cf7be0d7117be7c78c.jpg" length="24641" type="image/jpeg"/>
-      <pubDate>Mon, 06 Jun 2022 09:02:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jun 2022 09:43:24 +0000</lastBuildDate>
     <item>
       <title>The The - Infected (42 plays)</title>
       <link>https://www.last.fm/music/The+The/_/Infected</link>
@@ -51,7 +37,7 @@
       <pubDate>Mon, 06 Jun 2022 09:18:16 -0400</pubDate>
     </item>
     <item>
-      <title>System of a Down - Deer Dance (3 plays)</title>
+      <title>System of a Down - Deer Dance (4 plays)</title>
       <link>https://www.last.fm/music/System+of+a+Down/_/Deer+Dance</link>
       <guid isPermaLink="false">Arcade1996-1654521732--cc0b7089-c08d-4c10-b6b0-873582c17fd6---Deer Dance</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c4ee6a22457448f82af23ef5134cfa6.png" length="227465" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1654648248--8f47ae55-9321-49f1-b40b-b4e0674b9279---Goodbye</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d16a8301f8d7306e33fc60f711d3a40.jpg" length="19044" type="image/jpeg"/>
       <pubDate>Tue, 07 Jun 2022 20:30:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>System of a Down - Forest (2 plays)</title>
+      <link>https://www.last.fm/music/System+of+a+Down/_/Forest</link>
+      <guid isPermaLink="false">Arcade1996-1654680855--cc0b7089-c08d-4c10-b6b0-873582c17fd6---Forest</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c4ee6a22457448f82af23ef5134cfa6.png" length="227465" type="image/png"/>
+      <pubDate>Wed, 08 Jun 2022 05:34:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>System of a Down - Deer Dance (4 plays)</title>
+      <link>https://www.last.fm/music/System+of+a+Down/_/Deer+Dance</link>
+      <guid isPermaLink="false">Arcade1996-1654681095--cc0b7089-c08d-4c10-b6b0-873582c17fd6---Deer Dance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c4ee6a22457448f82af23ef5134cfa6.png" length="227465" type="image/png"/>
+      <pubDate>Wed, 08 Jun 2022 05:38:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
