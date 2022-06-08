@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jun 2022 21:39:45 +0000</lastBuildDate>
-    <item>
-      <title>Supertramp - Know Who You Are (1 play)</title>
-      <link>https://www.last.fm/music/Supertramp/_/Know+Who+You+Are</link>
-      <guid isPermaLink="false">ddgromit-1654620657--d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8---Know Who You Are</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21cf030428dcf361c9e4b8070d5e0f80.jpg" length="9258" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jun 2022 12:50:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Supertramp - Your Poppa Don't Mind (1 play)</title>
-      <link>https://www.last.fm/music/Supertramp/_/Your+Poppa+Don%27t+Mind</link>
-      <guid isPermaLink="false">ddgromit-1654620968--d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8---Your Poppa Don't Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/daf10a6b25ff8e680cda85b6a290111f.png" length="208989" type="image/png"/>
-      <pubDate>Tue, 07 Jun 2022 12:56:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Goth Babe - I Wanna Help Your Mind (2 plays)</title>
-      <link>https://www.last.fm/music/Goth+Babe/_/I+Wanna+Help+Your+Mind</link>
-      <guid isPermaLink="false">ddgromit-1654644957--Goth Babe---I Wanna Help Your Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3670e59142f2dad0349754d9634c3f0.png" length="144670" type="image/png"/>
-      <pubDate>Tue, 07 Jun 2022 19:35:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jun 2022 21:52:23 +0000</lastBuildDate>
     <item>
       <title>Disclosure - Expressing What Matters (4 plays)</title>
       <link>https://www.last.fm/music/Disclosure/_/Expressing+What+Matters</link>
@@ -191,7 +170,7 @@
       <pubDate>Wed, 08 Jun 2022 00:33:36 -0400</pubDate>
     </item>
     <item>
-      <title>Lazywax - Santa Catarina (2 plays)</title>
+      <title>Lazywax - Santa Catarina (3 plays)</title>
       <link>https://www.last.fm/music/Lazywax/_/Santa+Catarina</link>
       <guid isPermaLink="false">ddgromit-1654663010--Lazywax---Santa Catarina</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d6457e39f69c350dea9ea8df7ce43e1.jpg" length="15088" type="image/jpeg"/>
@@ -264,7 +243,6 @@
       <title>Franc Moody - Losing Touch (1 play)</title>
       <link>https://www.last.fm/music/Franc+Moody/_/Losing+Touch</link>
       <guid isPermaLink="false">ddgromit-1654665526--Franc Moody---Losing Touch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/584e02b1e42aef081275a80d70f82231.png" length="108345" type="image/png"/>
       <pubDate>Wed, 08 Jun 2022 01:18:46 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">ddgromit-1654724056--8562cd5d-68d7-462e-9c33-40a0e3e4d082---Pour Toi</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/09a57dccdfceb64e68db13323c28f9b6.jpg" length="33240" type="image/jpeg"/>
       <pubDate>Wed, 08 Jun 2022 17:34:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rome in Silver - Like You (1 play)</title>
+      <link>https://www.last.fm/music/Rome+in+Silver/_/Like+You</link>
+      <guid isPermaLink="false">ddgromit-1654724242--Rome in Silver---Like You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae679180225b4dcfd1ce50ab7e5af08.jpg" length="26071" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jun 2022 17:37:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fabich - Back to Life (1 play)</title>
+      <link>https://www.last.fm/music/Fabich/_/Back+to+Life</link>
+      <guid isPermaLink="false">ddgromit-1654724476--Fabich---Back to Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c311a0e3e2c06189f806ec45a1584ff0.jpg" length="22794" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jun 2022 17:41:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lazywax - Santa Catarina (3 plays)</title>
+      <link>https://www.last.fm/music/Lazywax/_/Santa+Catarina</link>
+      <guid isPermaLink="false">ddgromit-1654724657--Lazywax---Santa Catarina</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d6457e39f69c350dea9ea8df7ce43e1.jpg" length="15088" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jun 2022 17:44:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
