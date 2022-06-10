@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jun 2022 05:52:37 +0000</lastBuildDate>
-    <item>
-      <title>Kate Bush - Get Out of My House (65 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/Get+Out+of+My+House</link>
-      <guid isPermaLink="false">Frippertron-1654760708--4b585938-f271-45e2-b19a-91c634b5e396---Get Out of My House</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jun 2022 03:45:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kate Bush - And Dream of Sheep (24 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/And+Dream+of+Sheep</link>
-      <guid isPermaLink="false">Frippertron-1654761045--4b585938-f271-45e2-b19a-91c634b5e396---And Dream of Sheep</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/391be121643ab50801b7955b0ac5b50c.png" length="60172" type="image/png"/>
-      <pubDate>Thu, 09 Jun 2022 03:50:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jun 2022 06:25:07 +0000</lastBuildDate>
     <item>
       <title>Kate Bush - Under Ice (23 plays)</title>
       <link>https://www.last.fm/music/Kate+Bush/_/Under+Ice</link>
@@ -100,7 +86,7 @@
       <pubDate>Thu, 09 Jun 2022 04:36:43 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - Slow (46 plays)</title>
+      <title>black midi - Slow (47 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Slow</link>
       <guid isPermaLink="false">Frippertron-1654764093--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Slow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1654840307--black midi---Ominous Train Interlude</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 10 Jun 2022 01:51:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - 27 Questions (14 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/27+Questions</link>
+      <guid isPermaLink="false">Frippertron-1654840351--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---27 Questions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 10 Jun 2022 01:52:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Slow (47 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Slow</link>
+      <guid isPermaLink="false">Frippertron-1654840686--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Slow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 10 Jun 2022 01:58:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
