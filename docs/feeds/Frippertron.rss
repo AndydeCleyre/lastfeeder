@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jun 2022 05:38:43 +0000</lastBuildDate>
-    <item>
-      <title>Kate Bush - Night of the Swallow (34 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/Night+of+the+Swallow</link>
-      <guid isPermaLink="false">Frippertron-1654759848--4b585938-f271-45e2-b19a-91c634b5e396---Night of the Swallow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jun 2022 03:30:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kate Bush - All the Love (39 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/All+the+Love</link>
-      <guid isPermaLink="false">Frippertron-1654760172--4b585938-f271-45e2-b19a-91c634b5e396---All the Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jun 2022 03:36:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kate Bush - Houdini (34 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/Houdini</link>
-      <guid isPermaLink="false">Frippertron-1654760477--4b585938-f271-45e2-b19a-91c634b5e396---Houdini</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jun 2022 03:41:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jun 2022 05:52:37 +0000</lastBuildDate>
     <item>
       <title>Kate Bush - Get Out of My House (65 plays)</title>
       <link>https://www.last.fm/music/Kate+Bush/_/Get+Out+of+My+House</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1654839079--4b585938-f271-45e2-b19a-91c634b5e396---Get Out of My House</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
       <pubDate>Fri, 10 Jun 2022 01:31:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>LCD Soundsystem - All My Friends (44 plays)</title>
+      <link>https://www.last.fm/music/LCD+Soundsystem/_/All+My+Friends</link>
+      <guid isPermaLink="false">Frippertron-1654839424--2aaf7396-6ab8-40f3-9776-a41c42c8e26b---All My Friends</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62e79d7331b34ea9ced494570a2fe797.png" length="185603" type="image/png"/>
+      <pubDate>Fri, 10 Jun 2022 01:37:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>LCD Soundsystem - Sound of Silver (40 plays)</title>
+      <link>https://www.last.fm/music/LCD+Soundsystem/_/Sound+of+Silver</link>
+      <guid isPermaLink="false">Frippertron-1654839888--2aaf7396-6ab8-40f3-9776-a41c42c8e26b---Sound of Silver</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62e79d7331b34ea9ced494570a2fe797.png" length="185603" type="image/png"/>
+      <pubDate>Fri, 10 Jun 2022 01:44:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Ominous Train Interlude (14 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Ominous+Train+Interlude</link>
+      <guid isPermaLink="false">Frippertron-1654840307--black midi---Ominous Train Interlude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 10 Jun 2022 01:51:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
