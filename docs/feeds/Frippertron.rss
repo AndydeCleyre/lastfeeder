@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jun 2022 09:44:14 +0000</lastBuildDate>
-    <item>
-      <title>Metro - Precious (19 plays)</title>
-      <link>https://www.last.fm/music/Metro/_/Precious</link>
-      <guid isPermaLink="false">Frippertron-1655177737--ea13db11-d664-4e06-86dd-41a2beb13f33---Precious</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb331b51f48ba649396d1e54a0ec77e2.jpg" length="20826" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jun 2022 23:35:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jun 2022 09:55:41 +0000</lastBuildDate>
     <item>
       <title>Metro - Mono Messiah (25 plays)</title>
       <link>https://www.last.fm/music/Metro/_/Mono+Messiah</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1655199336--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Tarkus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c4a7d083d94215a67cf06aa7e4b142.png" length="215731" type="image/png"/>
       <pubDate>Tue, 14 Jun 2022 05:35:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Emerson, Lake &amp; Palmer - Karn Evil 9 (10 plays)</title>
+      <link>https://www.last.fm/music/Emerson,+Lake+&amp;+Palmer/_/Karn+Evil+9</link>
+      <guid isPermaLink="false">Frippertron-1655200134--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Karn Evil 9</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9e92a352b64848b1fb6a3735cdf9f7.png" length="217931" type="image/png"/>
+      <pubDate>Tue, 14 Jun 2022 05:48:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
