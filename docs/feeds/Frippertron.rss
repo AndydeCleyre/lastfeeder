@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jun 2022 04:20:37 +0000</lastBuildDate>
-    <item>
-      <title>Billy Joel - Easy Money (26 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/Easy+Money</link>
-      <guid isPermaLink="false">Frippertron-1655183854--64b94289-9474-4d43-8c93-918ccc1920d1---Easy Money</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a12d150c799c416daef11949670485c8.png" length="161438" type="image/png"/>
-      <pubDate>Tue, 14 Jun 2022 01:17:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Billy Joel - Laura (48 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/Laura</link>
-      <guid isPermaLink="false">Frippertron-1655184121--64b94289-9474-4d43-8c93-918ccc1920d1---Laura</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f04e1b359f6a427f9cf582b5f3546dac.png" length="91942" type="image/png"/>
-      <pubDate>Tue, 14 Jun 2022 01:22:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Billy Joel - Surprises (25 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/Surprises</link>
-      <guid isPermaLink="false">Frippertron-1655184444--64b94289-9474-4d43-8c93-918ccc1920d1---Surprises</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f04e1b359f6a427f9cf582b5f3546dac.png" length="91942" type="image/png"/>
-      <pubDate>Tue, 14 Jun 2022 01:27:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Billy Joel - Scandinavian Skies (43 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/Scandinavian+Skies</link>
-      <guid isPermaLink="false">Frippertron-1655184651--64b94289-9474-4d43-8c93-918ccc1920d1---Scandinavian Skies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f04e1b359f6a427f9cf582b5f3546dac.png" length="91942" type="image/png"/>
-      <pubDate>Tue, 14 Jun 2022 01:30:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - Darkness (65 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/Darkness</link>
-      <guid isPermaLink="false">Frippertron-1655185026--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Darkness</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce344fc4277e420fc2edf6448e8f15c5.jpg" length="9231" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jun 2022 01:37:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - Signal to Noise (12 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/Signal+to+Noise</link>
-      <guid isPermaLink="false">Frippertron-1655185594--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Signal to Noise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce344fc4277e420fc2edf6448e8f15c5.jpg" length="9231" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jun 2022 01:46:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Hammill - Gog Magog (In Bromine Chambers) (19 plays)</title>
-      <link>https://www.last.fm/music/Peter+Hammill/_/Gog+Magog+(In+Bromine+Chambers)</link>
-      <guid isPermaLink="false">Frippertron-1655186073--3b972356-4410-4858-ab9c-6e3c3cf76609---Gog Magog (In Bromine Chambers)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/146dd5cfc6093c67c24f8b045dee68c6.jpg" length="12619" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jun 2022 01:54:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Hammill - Tapeworm (35 plays)</title>
-      <link>https://www.last.fm/music/Peter+Hammill/_/Tapeworm</link>
-      <guid isPermaLink="false">Frippertron-1655186516--3b972356-4410-4858-ab9c-6e3c3cf76609---Tapeworm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/146dd5cfc6093c67c24f8b045dee68c6.jpg" length="12619" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jun 2022 02:01:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Hammill - Again (10 plays)</title>
-      <link>https://www.last.fm/music/Peter+Hammill/_/Again</link>
-      <guid isPermaLink="false">Frippertron-1655186778--3b972356-4410-4858-ab9c-6e3c3cf76609---Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/146dd5cfc6093c67c24f8b045dee68c6.jpg" length="12619" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jun 2022 02:06:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jun 2022 05:00:03 +0000</lastBuildDate>
     <item>
       <title>Japan - The Other Side Of Life (14 plays)</title>
       <link>https://www.last.fm/music/Japan/_/The+Other+Side+Of+Life</link>
@@ -86,7 +23,7 @@
       <pubDate>Tue, 14 Jun 2022 03:19:37 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - 27 Questions (23 plays)</title>
+      <title>black midi - 27 Questions (24 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/27+Questions</link>
       <guid isPermaLink="false">Frippertron-1655191427--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---27 Questions</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
@@ -219,7 +156,7 @@
       <pubDate>Tue, 14 Jun 2022 04:54:56 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - 27 Questions (23 plays)</title>
+      <title>black midi - 27 Questions (24 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/27+Questions</link>
       <guid isPermaLink="false">Frippertron-1655197791--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---27 Questions</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
@@ -261,7 +198,7 @@
       <pubDate>Tue, 14 Jun 2022 22:51:48 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - 27 Questions (23 plays)</title>
+      <title>black midi - 27 Questions (24 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/27+Questions</link>
       <guid isPermaLink="false">Frippertron-1655261759--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---27 Questions</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
@@ -352,11 +289,74 @@
       <pubDate>Tue, 14 Jun 2022 23:56:24 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - 27 Questions (23 plays)</title>
+      <title>black midi - 27 Questions (24 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/27+Questions</link>
       <guid isPermaLink="false">Frippertron-1655265693--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---27 Questions</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
       <pubDate>Wed, 15 Jun 2022 00:01:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - 27 Questions (24 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/27+Questions</link>
+      <guid isPermaLink="false">Frippertron-1655266024--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---27 Questions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jun 2022 00:07:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Patti Smith - Gloria (19 plays)</title>
+      <link>https://www.last.fm/music/Patti+Smith/_/Gloria</link>
+      <guid isPermaLink="false">Frippertron-1655267154--d135874d-9cae-4fef-97e3-36acbd9f5a26---Gloria</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d297ef7118a92d361ac20ba3c1c2460.png" length="109012" type="image/png"/>
+      <pubDate>Wed, 15 Jun 2022 00:25:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stooges - I Got a Right (72 plays)</title>
+      <link>https://www.last.fm/music/The+Stooges/_/I+Got+a+Right</link>
+      <guid isPermaLink="false">Frippertron-1655267515--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---I Got a Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c470addd18bd47d0ac98cf242d1c0e39.jpg" length="27495" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jun 2022 00:31:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stooges - Gimme Some Skin (57 plays)</title>
+      <link>https://www.last.fm/music/The+Stooges/_/Gimme+Some+Skin</link>
+      <guid isPermaLink="false">Frippertron-1655267721--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Gimme Some Skin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c470addd18bd47d0ac98cf242d1c0e39.jpg" length="27495" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jun 2022 00:35:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stooges - Down On The Street (122 plays)</title>
+      <link>https://www.last.fm/music/The+Stooges/_/Down+On+The+Street</link>
+      <guid isPermaLink="false">Frippertron-1655267902--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Down On The Street</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b13103128807f4fbdf3dd8d7f0e1c6b.png" length="171463" type="image/png"/>
+      <pubDate>Wed, 15 Jun 2022 00:38:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stooges - Loose (111 plays)</title>
+      <link>https://www.last.fm/music/The+Stooges/_/Loose</link>
+      <guid isPermaLink="false">Frippertron-1655268126--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Loose</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b13103128807f4fbdf3dd8d7f0e1c6b.png" length="171463" type="image/png"/>
+      <pubDate>Wed, 15 Jun 2022 00:42:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stooges - T.V. Eye (176 plays)</title>
+      <link>https://www.last.fm/music/The+Stooges/_/T.V.+Eye</link>
+      <guid isPermaLink="false">Frippertron-1655268342--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---T.V. Eye</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b13103128807f4fbdf3dd8d7f0e1c6b.png" length="171463" type="image/png"/>
+      <pubDate>Wed, 15 Jun 2022 00:45:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stooges - Dirt (80 plays)</title>
+      <link>https://www.last.fm/music/The+Stooges/_/Dirt</link>
+      <guid isPermaLink="false">Frippertron-1655268601--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Dirt</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b13103128807f4fbdf3dd8d7f0e1c6b.png" length="171463" type="image/png"/>
+      <pubDate>Wed, 15 Jun 2022 00:50:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stooges - 1970 (104 plays)</title>
+      <link>https://www.last.fm/music/The+Stooges/_/1970</link>
+      <guid isPermaLink="false">Frippertron-1655269026--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---1970</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b13103128807f4fbdf3dd8d7f0e1c6b.png" length="171463" type="image/png"/>
+      <pubDate>Wed, 15 Jun 2022 00:57:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
