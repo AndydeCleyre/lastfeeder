@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jun 2022 09:54:24 +0000</lastBuildDate>
-    <item>
-      <title>The Stooges - I Got a Right (72 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/I+Got+a+Right</link>
-      <guid isPermaLink="false">Frippertron-1655267515--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---I Got a Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c470addd18bd47d0ac98cf242d1c0e39.jpg" length="27495" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jun 2022 00:31:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Stooges - Gimme Some Skin (57 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/Gimme+Some+Skin</link>
-      <guid isPermaLink="false">Frippertron-1655267721--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Gimme Some Skin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c470addd18bd47d0ac98cf242d1c0e39.jpg" length="27495" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jun 2022 00:35:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jun 2022 10:23:57 +0000</lastBuildDate>
     <item>
       <title>The Stooges - Down On The Street (122 plays)</title>
       <link>https://www.last.fm/music/The+Stooges/_/Down+On+The+Street</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1655286044--3b972356-4410-4858-ab9c-6e3c3cf76609---A Louse Is Not a Home</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb88163072e011215888e32ec49c5fa0.jpg" length="10881" type="image/jpeg"/>
       <pubDate>Wed, 15 Jun 2022 05:40:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Neal and Jack and Me (62 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Neal+and+Jack+and+Me</link>
+      <guid isPermaLink="false">Frippertron-1655286863--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Neal and Jack and Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 15 Jun 2022 05:54:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - The Howler (20 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/The+Howler</link>
+      <guid isPermaLink="false">Frippertron-1655287124--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Howler</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 15 Jun 2022 05:58:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
