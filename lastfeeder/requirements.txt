@@ -1,12 +1,12 @@
 anyio==3.6.1
     # via httpcore
-babel==2.10.2
+babel==2.10.3
     # via delorean
 backports-zoneinfo==0.2.1
     # via
     #   pytz-deprecation-shim
     #   tzlocal
-certifi==2022.5.18.1
+certifi==2022.6.15
     # via
     #   httpcore
     #   httpx
