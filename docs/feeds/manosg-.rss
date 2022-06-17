@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jun 2022 06:51:49 +0000</lastBuildDate>
-    <item>
-      <title>Toto - Georgy Porgy (2 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/Georgy+Porgy</link>
-      <guid isPermaLink="false">manosg--1655285506--aab5c954-cabe-432e-899e-1c4f99757327---Georgy Porgy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa1bbe860f25435793ebdb25a1f032f6.png" length="185016" type="image/png"/>
-      <pubDate>Wed, 15 Jun 2022 05:31:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Chris Isaak - Can't Do a Thing (1 play)</title>
-      <link>https://www.last.fm/music/Chris+Isaak/_/Can%27t+Do+a+Thing</link>
-      <guid isPermaLink="false">manosg--1655285754--479497d4-e7c2-4e78-972e-56e78fac3995---Can't Do a Thing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3aa2d0bbba304883c85f5c6974044604.jpg" length="20725" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jun 2022 05:35:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jun 2022 07:23:38 +0000</lastBuildDate>
     <item>
       <title>Chris Rea - Josephine - New Version 2008 (1 play)</title>
       <link>https://www.last.fm/music/Chris+Rea/_/Josephine+-+New+Version+2008</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1655448206--e01c3376-15fa-40d7-b747-5f219bdefdd7---Things I Miss The Most</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35f884e52c822aa9470386cea17411a7.jpg" length="25095" type="image/jpeg"/>
       <pubDate>Fri, 17 Jun 2022 02:43:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Blues Beach (1 play)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Blues+Beach</link>
+      <guid isPermaLink="false">manosg--1655448445--e01c3376-15fa-40d7-b747-5f219bdefdd7---Blues Beach</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35f884e52c822aa9470386cea17411a7.jpg" length="25095" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jun 2022 02:47:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Godwhacker (1 play)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Godwhacker</link>
+      <guid isPermaLink="false">manosg--1655448711--e01c3376-15fa-40d7-b747-5f219bdefdd7---Godwhacker</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35f884e52c822aa9470386cea17411a7.jpg" length="25095" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jun 2022 02:51:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
