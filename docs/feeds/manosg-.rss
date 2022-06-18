@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jun 2022 10:21:07 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Night By Night (7 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Night+By+Night</link>
-      <guid isPermaLink="false">manosg--1655456855--e01c3376-15fa-40d7-b747-5f219bdefdd7---Night By Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/767ceb0094d4d9d18702b29ef79b9fbb.png" length="143377" type="image/png"/>
-      <pubDate>Fri, 17 Jun 2022 05:07:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Any Major Dude Will Tell You (5 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Any+Major+Dude+Will+Tell+You</link>
-      <guid isPermaLink="false">manosg--1655457073--e01c3376-15fa-40d7-b747-5f219bdefdd7---Any Major Dude Will Tell You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/767ceb0094d4d9d18702b29ef79b9fbb.png" length="143377" type="image/png"/>
-      <pubDate>Fri, 17 Jun 2022 05:11:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jun 2022 10:41:29 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Barrytown (5 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Barrytown</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1655546669--60aa2510-4ab1-4e50-9267-30a15700dc1c---Since I Lost You - 2007 Digital Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1330ff2ab6164abf94dbb8828616a5ad.png" length="122490" type="image/png"/>
       <pubDate>Sat, 18 Jun 2022 06:04:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Fading Lights - Remastered 2007 (1 play)</title>
+      <link>https://www.last.fm/music/Genesis/_/Fading+Lights+-+Remastered+2007</link>
+      <guid isPermaLink="false">manosg--1655546919--Genesis---Fading Lights - Remastered 2007</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1330ff2ab6164abf94dbb8828616a5ad.png" length="122490" type="image/png"/>
+      <pubDate>Sat, 18 Jun 2022 06:08:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Play The Game - Remastered 2011 (1 play)</title>
+      <link>https://www.last.fm/music/Queen/_/Play+The+Game+-+Remastered+2011</link>
+      <guid isPermaLink="false">manosg--1655548089--5eecaf18-02ec-47af-a4f2-7831db373419---Play The Game - Remastered 2011</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a23956df65d9581338e0e71db00d79a.jpg" length="22722" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jun 2022 06:28:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
