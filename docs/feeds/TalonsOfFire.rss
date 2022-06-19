@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jun 2022 15:42:39 +0000</lastBuildDate>
-    <item>
-      <title>Beach House - Over and Over (2 plays)</title>
-      <link>https://www.last.fm/music/Beach+House/_/Over+and+Over</link>
-      <guid isPermaLink="false">TalonsOfFire-1655223263--d5cc67b8-1cc4-453b-96e8-44487acdebea---Over and Over</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/022d1a3924a84c731520bda4e2f6e3d8.png" length="76323" type="image/png"/>
-      <pubDate>Tue, 14 Jun 2022 12:14:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jun 2022 20:41:34 +0000</lastBuildDate>
     <item>
       <title>The Verve - Love Is Noise (1 play)</title>
       <link>https://www.last.fm/music/The+Verve/_/Love+Is+Noise</link>
@@ -124,6 +117,7 @@
       <title>Ólafur Arnalds - saman (1 play)</title>
       <link>https://www.last.fm/music/%C3%93lafur+Arnalds/_/saman</link>
       <guid isPermaLink="false">TalonsOfFire-1655304596--6655955b-1c1e-4bcb-84e4-81bcd9efab30---saman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/372330feaf1a55a5e1d9b3c7a8f03331.jpg" length="16675" type="image/jpeg"/>
       <pubDate>Wed, 15 Jun 2022 10:49:56 -0400</pubDate>
     </item>
     <item>
@@ -267,7 +261,7 @@
       <pubDate>Sat, 18 Jun 2022 17:28:07 -0400</pubDate>
     </item>
     <item>
-      <title>Porcupine Tree - Rats Return (1 play)</title>
+      <title>Porcupine Tree - Rats Return (2 plays)</title>
       <link>https://www.last.fm/music/Porcupine+Tree/_/Rats+Return</link>
       <guid isPermaLink="false">TalonsOfFire-1655587908--169c4c28-858e-497b-81a4-8bc15e0026ea---Rats Return</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f3e2258ed25cd999ab9cfadc006b6eb.jpg" length="25322" type="image/jpeg"/>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1655652493--6a65d878-fcd0-42cf-aff9-ca1d636a8bcc---Wild Green</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ecd580ad50fe9649ace23fc73b62e60.jpg" length="15061" type="image/jpeg"/>
       <pubDate>Sun, 19 Jun 2022 11:28:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Porcupine Tree - Rats Return (2 plays)</title>
+      <link>https://www.last.fm/music/Porcupine+Tree/_/Rats+Return</link>
+      <guid isPermaLink="false">TalonsOfFire-1655670871--169c4c28-858e-497b-81a4-8bc15e0026ea---Rats Return</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f3e2258ed25cd999ab9cfadc006b6eb.jpg" length="25322" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jun 2022 16:34:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
