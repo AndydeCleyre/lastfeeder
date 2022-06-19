@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jun 2022 10:41:19 +0000</lastBuildDate>
-    <item>
-      <title>Julee Cruise - Falling (20 plays)</title>
-      <link>https://www.last.fm/music/Julee+Cruise/_/Falling</link>
-      <guid isPermaLink="false">Arcade1996-1655389681--3b7865df-3c91-48dd-9126-a71e0dfe7f8d---Falling</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43e28ccd4f5865f526e4d85b801e8553.jpg" length="6916" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jun 2022 10:28:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Armand Hammer - Roaches Don't Fly (7 plays)</title>
-      <link>https://www.last.fm/music/Armand+Hammer/_/Roaches+Don%27t+Fly</link>
-      <guid isPermaLink="false">Arcade1996-1655390002--167a6f86-2c26-43fe-82f0-e4c8a39ea490---Roaches Don't Fly</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/886de8a4bb8afd7abfc4d497324b6309.jpg" length="24443" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jun 2022 10:33:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jun 2022 10:53:04 +0000</lastBuildDate>
     <item>
       <title>Julee Cruise - I Remember (2 plays)</title>
       <link>https://www.last.fm/music/Julee+Cruise/_/I+Remember</link>
@@ -345,7 +331,7 @@
       <pubDate>Sun, 19 Jun 2022 06:22:19 -0400</pubDate>
     </item>
     <item>
-      <title>Perfume Genius - Herem (1 play)</title>
+      <title>Perfume Genius - Herem</title>
       <link>https://www.last.fm/music/Perfume+Genius/_/Herem</link>
       <guid isPermaLink="false">Arcade1996-1655634348--c4ff10e0-ae5a-467d-a409-6e0b4bf241eb---Herem</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2433e91c5f2f27cbb6a3db91ed460df4.jpg" length="23407" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1655634789--c4ff10e0-ae5a-467d-a409-6e0b4bf241eb---Teeth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2433e91c5f2f27cbb6a3db91ed460df4.jpg" length="23407" type="image/jpeg"/>
       <pubDate>Sun, 19 Jun 2022 06:33:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Perfume Genius - Pop Song (4 plays)</title>
+      <link>https://www.last.fm/music/Perfume+Genius/_/Pop+Song</link>
+      <guid isPermaLink="false">Arcade1996-1655635042--c4ff10e0-ae5a-467d-a409-6e0b4bf241eb---Pop Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2433e91c5f2f27cbb6a3db91ed460df4.jpg" length="23407" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jun 2022 06:37:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Perfume Genius - Scherzo (1 play)</title>
+      <link>https://www.last.fm/music/Perfume+Genius/_/Scherzo</link>
+      <guid isPermaLink="false">Arcade1996-1655635348--c4ff10e0-ae5a-467d-a409-6e0b4bf241eb---Scherzo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2433e91c5f2f27cbb6a3db91ed460df4.jpg" length="23407" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jun 2022 06:42:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
