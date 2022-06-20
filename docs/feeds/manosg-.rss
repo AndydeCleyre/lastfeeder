@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Jun 2022 10:45:22 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Aja (6 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Aja</link>
-      <guid isPermaLink="false">manosg--1655459147--e01c3376-15fa-40d7-b747-5f219bdefdd7---Aja</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jun 2022 05:45:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jun 2022 10:56:28 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Black Cow (6 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Black+Cow</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1655718367--f4857fb9-e255-4dc6-bd01-e4ca7cc68544---Whatever It Is, I Just Can't Stop</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f914b94a9d0ea7ef737efa017324261e.png" length="20584" type="image/png"/>
       <pubDate>Mon, 20 Jun 2022 05:46:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jamiroquai - Blow Your Mind (1 play)</title>
+      <link>https://www.last.fm/music/Jamiroquai/_/Blow+Your+Mind</link>
+      <guid isPermaLink="false">manosg--1655721624--f4857fb9-e255-4dc6-bd01-e4ca7cc68544---Blow Your Mind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f914b94a9d0ea7ef737efa017324261e.png" length="20584" type="image/png"/>
+      <pubDate>Mon, 20 Jun 2022 06:40:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
