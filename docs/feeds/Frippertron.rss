@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jun 2022 03:41:32 +0000</lastBuildDate>
-    <item>
-      <title>Fleetwood Mac - Oh Well (2 plays)</title>
-      <link>https://www.last.fm/music/Fleetwood+Mac/_/Oh+Well</link>
-      <guid isPermaLink="false">Frippertron-1655789030--bd13909f-1c29-4c27-a874-d4aaf27c5b1a---Oh Well</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/078b6b2dd43d4164a7bdc15da0b47da6.png" length="236373" type="image/png"/>
-      <pubDate>Tue, 21 Jun 2022 01:23:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Deacon Blues (61 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Deacon+Blues</link>
-      <guid isPermaLink="false">Frippertron-1655789581--e01c3376-15fa-40d7-b747-5f219bdefdd7---Deacon Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jun 2022 01:33:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jun 2022 04:19:20 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Bodhisattva (64 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Bodhisattva</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1655868940--bf710b71-48e5-4e15-9bd6-96debb2e4e98---Old Dreams Waiting to Be Realized</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17e442acb6944d90bb4a169b8557f57e.png" length="51739" type="image/png"/>
       <pubDate>Tue, 21 Jun 2022 23:35:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Knife - Raging Lung (18 plays)</title>
+      <link>https://www.last.fm/music/The+Knife/_/Raging+Lung</link>
+      <guid isPermaLink="false">Frippertron-1655869854--bf710b71-48e5-4e15-9bd6-96debb2e4e98---Raging Lung</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17e442acb6944d90bb4a169b8557f57e.png" length="51739" type="image/png"/>
+      <pubDate>Tue, 21 Jun 2022 23:50:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Knife - Ready to Lose (91 plays)</title>
+      <link>https://www.last.fm/music/The+Knife/_/Ready+to+Lose</link>
+      <guid isPermaLink="false">Frippertron-1655870357--bf710b71-48e5-4e15-9bd6-96debb2e4e98---Ready to Lose</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17e442acb6944d90bb4a169b8557f57e.png" length="51739" type="image/png"/>
+      <pubDate>Tue, 21 Jun 2022 23:59:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
