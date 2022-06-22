@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jun 2022 09:54:13 +0000</lastBuildDate>
-    <item>
-      <title>Jockstrap - Charlotte (1 play)</title>
-      <link>https://www.last.fm/music/Jockstrap/_/Charlotte</link>
-      <guid isPermaLink="false">Frippertron-1655872456--e181e6b6-79dc-426a-b071-83a7fbe890ab---Charlotte</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c4cd5c24631725016f17ed58a0c069f.jpg" length="24037" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jun 2022 00:34:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jun 2022 10:25:32 +0000</lastBuildDate>
     <item>
       <title>Jockstrap - Joy (1 play)</title>
       <link>https://www.last.fm/music/Jockstrap/_/Joy</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1655891410--Bauhaus---The Three Shadows (Part Three)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1c531fd8a6d463391f05deb30743b5e.jpg" length="21929" type="image/jpeg"/>
       <pubDate>Wed, 22 Jun 2022 05:50:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Viet Cong - Death (52 plays)</title>
+      <link>https://www.last.fm/music/Viet+Cong/_/Death</link>
+      <guid isPermaLink="false">Frippertron-1655891533--24750b27-fa3d-41e0-8ea3-0307190e647f---Death</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac2261a6273645754105aab2ee928ef1.jpg" length="16364" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jun 2022 05:52:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
