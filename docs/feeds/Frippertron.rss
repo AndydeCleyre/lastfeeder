@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jun 2022 15:22:12 +0000</lastBuildDate>
-    <item>
-      <title>Octobre - Les vivants (52 plays)</title>
-      <link>https://www.last.fm/music/Octobre/_/Les+vivants</link>
-      <guid isPermaLink="false">Frippertron-1655876212--eed5660c-f1a1-47f9-9284-f0b9f02199de---Les vivants</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0212b2fa6be04ac584d1abae3a233600.jpg" length="24941" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jun 2022 01:36:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Octobre - La maudite machine (32 plays)</title>
-      <link>https://www.last.fm/music/Octobre/_/La+maudite+machine</link>
-      <guid isPermaLink="false">Frippertron-1655876484--eed5660c-f1a1-47f9-9284-f0b9f02199de---La maudite machine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0212b2fa6be04ac584d1abae3a233600.jpg" length="24941" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jun 2022 01:41:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Boris - Heavy Friends (13 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/Heavy+Friends</link>
-      <guid isPermaLink="false">Frippertron-1655876756--590702b8-e5fd-43f7-9472-5f062f8e311e---Heavy Friends</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6232a3b735114c4497e3fe64fcb55668.png" length="13914" type="image/png"/>
-      <pubDate>Wed, 22 Jun 2022 01:45:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Boris - Korosu (33 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/Korosu</link>
-      <guid isPermaLink="false">Frippertron-1655877045--590702b8-e5fd-43f7-9472-5f062f8e311e---Korosu</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6232a3b735114c4497e3fe64fcb55668.png" length="13914" type="image/png"/>
-      <pubDate>Wed, 22 Jun 2022 01:50:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jun 2022 15:44:35 +0000</lastBuildDate>
     <item>
       <title>Boris - Pink (21 plays)</title>
       <link>https://www.last.fm/music/Boris/_/Pink</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1655911171--045494aa-e913-4e62-bf4e-dcc276e0075a---Turn to Dust</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e5870bb74a869c07600542752b1b2ad.jpg" length="17362" type="image/jpeg"/>
       <pubDate>Wed, 22 Jun 2022 11:19:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kelela - Bluff (1 play)</title>
+      <link>https://www.last.fm/music/Kelela/_/Bluff</link>
+      <guid isPermaLink="false">Frippertron-1655911442--045494aa-e913-4e62-bf4e-dcc276e0075a---Bluff</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e5870bb74a869c07600542752b1b2ad.jpg" length="17362" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jun 2022 11:24:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kelela - Altadena (1 play)</title>
+      <link>https://www.last.fm/music/Kelela/_/Altadena</link>
+      <guid isPermaLink="false">Frippertron-1655911517--045494aa-e913-4e62-bf4e-dcc276e0075a---Altadena</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e5870bb74a869c07600542752b1b2ad.jpg" length="17362" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jun 2022 11:25:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Robert Fripp - Breathless (20 plays)</title>
+      <link>https://www.last.fm/music/Robert+Fripp/_/Breathless</link>
+      <guid isPermaLink="false">Frippertron-1655911841--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Breathless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 22 Jun 2022 11:30:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Robert Fripp - Disengage (32 plays)</title>
+      <link>https://www.last.fm/music/Robert+Fripp/_/Disengage</link>
+      <guid isPermaLink="false">Frippertron-1655912128--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Disengage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 22 Jun 2022 11:35:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
