@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jun 2022 15:44:35 +0000</lastBuildDate>
-    <item>
-      <title>Boris - Pink (21 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/Pink</link>
-      <guid isPermaLink="false">Frippertron-1655877333--590702b8-e5fd-43f7-9472-5f062f8e311e---Pink</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8cd8dbe63cd64b75a141ce7a90c32238.png" length="55343" type="image/png"/>
-      <pubDate>Wed, 22 Jun 2022 01:55:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jun 2022 19:16:46 +0000</lastBuildDate>
     <item>
       <title>Kate Bush - Get Out of My House (70 plays)</title>
       <link>https://www.last.fm/music/Kate+Bush/_/Get+Out+of+My+House</link>
@@ -352,11 +345,18 @@
       <pubDate>Wed, 22 Jun 2022 11:30:41 -0400</pubDate>
     </item>
     <item>
-      <title>Robert Fripp - Disengage (32 plays)</title>
+      <title>Robert Fripp - Disengage (33 plays)</title>
       <link>https://www.last.fm/music/Robert+Fripp/_/Disengage</link>
       <guid isPermaLink="false">Frippertron-1655912128--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Disengage</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 22 Jun 2022 11:35:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Robert Fripp - Disengage (33 plays)</title>
+      <link>https://www.last.fm/music/Robert+Fripp/_/Disengage</link>
+      <guid isPermaLink="false">Frippertron-1655924812--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Disengage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 22 Jun 2022 15:06:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
