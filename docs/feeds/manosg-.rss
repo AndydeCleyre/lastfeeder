@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jun 2022 11:21:22 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Good Company - Remastered 2011 (1 play)</title>
-      <link>https://www.last.fm/music/Queen/_/Good+Company+-+Remastered+2011</link>
-      <guid isPermaLink="false">manosg--1655887662--5eecaf18-02ec-47af-a4f2-7831db373419---Good Company - Remastered 2011</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00cae9c9aa97ad22d52d72597917852a.jpg" length="18299" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jun 2022 04:47:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jun 2022 14:19:25 +0000</lastBuildDate>
     <item>
       <title>Queen - Bohemian Rhapsody - Remastered 2011 (1 play)</title>
       <link>https://www.last.fm/music/Queen/_/Bohemian+Rhapsody+-+Remastered+2011</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1655981508--Battle Symphony---The Final Chance</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e507fe0d980ab11f0e2711590df2633.jpg" length="39493" type="image/jpeg"/>
       <pubDate>Thu, 23 Jun 2022 06:51:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Battle Symphony - One-Eyed Jack (1 play)</title>
+      <link>https://www.last.fm/music/Battle+Symphony/_/One-Eyed+Jack</link>
+      <guid isPermaLink="false">manosg--1655981878--Battle Symphony---One-Eyed Jack</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e507fe0d980ab11f0e2711590df2633.jpg" length="39493" type="image/jpeg"/>
+      <pubDate>Thu, 23 Jun 2022 06:57:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
