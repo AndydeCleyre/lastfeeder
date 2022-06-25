@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jun 2022 10:24:57 +0000</lastBuildDate>
-    <item>
-      <title>Ivan Lins - Deixa Eu Dizer (6 plays)</title>
-      <link>https://www.last.fm/music/Ivan+Lins/_/Deixa+Eu+Dizer</link>
-      <guid isPermaLink="false">Frippertron-1656044689--2f31098d-1258-4f8f-af5f-95815b02f2d2---Deixa Eu Dizer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e57a941e22a58c942e0db84672331426.jpg" length="16448" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jun 2022 00:24:49 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Jun 2022 10:53:53 +0000</lastBuildDate>
     <item>
       <title>Ivan Lins - Avarandado (5 plays)</title>
       <link>https://www.last.fm/music/Ivan+Lins/_/Avarandado</link>
@@ -278,6 +271,7 @@
       <title>Giorgio Moroder - Machines (Opening Titles) (32 plays)</title>
       <link>https://www.last.fm/music/Giorgio+Moroder/_/Machines+(Opening+Titles)</link>
       <guid isPermaLink="false">Frippertron-1656060718--38dd6337-19ae-4793-ab4b-313eff523457---Machines (Opening Titles)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9fbc1be9ca84e74809344925177386f.png" length="201590" type="image/png"/>
       <pubDate>Fri, 24 Jun 2022 04:51:58 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1656064915--4b585938-f271-45e2-b19a-91c634b5e396---Get Out of My House</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
       <pubDate>Fri, 24 Jun 2022 06:01:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Hellfire (1 play)</title>
+      <link>https://www.last.fm/music/black+midi/_/Hellfire</link>
+      <guid isPermaLink="false">Frippertron-1656154262--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Hellfire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
+      <pubDate>Sat, 25 Jun 2022 06:51:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
