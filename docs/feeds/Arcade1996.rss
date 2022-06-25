@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jun 2022 16:27:15 +0000</lastBuildDate>
-    <item>
-      <title>The Sundays - Summertime (9 plays)</title>
-      <link>https://www.last.fm/music/The+Sundays/_/Summertime</link>
-      <guid isPermaLink="false">Arcade1996-1655965180--8f47ae55-9321-49f1-b40b-b4e0674b9279---Summertime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/200b115d9a53bcc927eacaee251a6894.jpg" length="18398" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jun 2022 02:19:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Low - Quorum (10 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Quorum</link>
-      <guid isPermaLink="false">Arcade1996-1655965443--92de643f-fa8f-4e68-b627-4376711b7b33---Quorum</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b4d504c19202fe437d085ddaf6708d3.png" length="67574" type="image/png"/>
-      <pubDate>Thu, 23 Jun 2022 02:24:03 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Jun 2022 16:53:49 +0000</lastBuildDate>
     <item>
       <title>The Sundays - Summertime (9 plays)</title>
       <link>https://www.last.fm/music/The+Sundays/_/Summertime</link>
@@ -180,7 +166,6 @@
       <title>Refused - New Noise (15 plays)</title>
       <link>https://www.last.fm/music/Refused/_/New+Noise</link>
       <guid isPermaLink="false">Arcade1996-1656165594--42884e27-dfb8-453d-990f-2ffd90bc2d1a---New Noise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57a4f003f4671f15ce39a1e7c558a396.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Sat, 25 Jun 2022 09:59:54 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Arcade1996-1656174284--e8bd5b47-e8b4-4671-a9f6-590a92e88898---Hush</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01d661dcae688e740527b0fbd9c021da.jpg" length="1729" type="image/jpeg"/>
       <pubDate>Sat, 25 Jun 2022 12:24:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dean Blunt - Mersh (3 plays)</title>
+      <link>https://www.last.fm/music/Dean+Blunt/_/Mersh</link>
+      <guid isPermaLink="false">Arcade1996-1656174360--e8bd5b47-e8b4-4671-a9f6-590a92e88898---Mersh</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01d661dcae688e740527b0fbd9c021da.jpg" length="1729" type="image/jpeg"/>
+      <pubDate>Sat, 25 Jun 2022 12:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dean Blunt - Grade (3 plays)</title>
+      <link>https://www.last.fm/music/Dean+Blunt/_/Grade</link>
+      <guid isPermaLink="false">Arcade1996-1656174566--e8bd5b47-e8b4-4671-a9f6-590a92e88898---Grade</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01d661dcae688e740527b0fbd9c021da.jpg" length="1729" type="image/jpeg"/>
+      <pubDate>Sat, 25 Jun 2022 12:29:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
