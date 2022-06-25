@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jun 2022 17:39:36 +0000</lastBuildDate>
-    <item>
-      <title>Dan Deacon - Fell Into the Ocean (2 plays)</title>
-      <link>https://www.last.fm/music/Dan+Deacon/_/Fell+Into+the+Ocean</link>
-      <guid isPermaLink="false">walrus898-1655691517--8dd73d1a-0424-4581-af8c-ade3edb44c5a---Fell Into the Ocean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3a40ce6dad1b14ac15b2180d89b1a8a8.jpg" length="26681" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jun 2022 22:18:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Real Estate - Days (2 plays)</title>
-      <link>https://www.last.fm/music/Real+Estate/_/Days</link>
-      <guid isPermaLink="false">walrus898-1655691840--2ff0dfc6-0542-4bbc-a44a-60605c074ba6---Days</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/37169c9978b64d06afe6221b4ab989d7.png" length="78328" type="image/png"/>
-      <pubDate>Sun, 19 Jun 2022 22:24:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Jun 2022 17:52:34 +0000</lastBuildDate>
     <item>
       <title>Anemone - Party Theme - Bout De Toi Remix (2 plays)</title>
       <link>https://www.last.fm/music/Anemone/_/Party+Theme+-+Bout+De+Toi+Remix</link>
@@ -152,6 +138,7 @@
       <title>Rats On Rafts - Cashmere Carey (1 play)</title>
       <link>https://www.last.fm/music/Rats+On+Rafts/_/Cashmere+Carey</link>
       <guid isPermaLink="false">walrus898-1655778297--Rats On Rafts---Cashmere Carey</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/632b0b8be0d893747cb34b12048700a2.jpg" length="20490" type="image/jpeg"/>
       <pubDate>Mon, 20 Jun 2022 22:24:57 -0400</pubDate>
     </item>
     <item>
@@ -316,14 +303,14 @@
       <pubDate>Sat, 25 Jun 2022 12:11:08 -0400</pubDate>
     </item>
     <item>
-      <title>Day Wave - Heart To Rest (1 play)</title>
+      <title>Day Wave - Heart To Rest (2 plays)</title>
       <link>https://www.last.fm/music/Day+Wave/_/Heart+To+Rest</link>
       <guid isPermaLink="false">walrus898-1656173695--e46758a5-28e4-41c0-9893-2f5720d712f3---Heart To Rest</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d0a11d404797c4b5c16e2ae206ad821.jpg" length="18695" type="image/jpeg"/>
       <pubDate>Sat, 25 Jun 2022 12:14:55 -0400</pubDate>
     </item>
     <item>
-      <title>Day Wave - Apartment Complex (1 play)</title>
+      <title>Day Wave - Apartment Complex (2 plays)</title>
       <link>https://www.last.fm/music/Day+Wave/_/Apartment+Complex</link>
       <guid isPermaLink="false">walrus898-1656173834--e46758a5-28e4-41c0-9893-2f5720d712f3---Apartment Complex</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d0a11d404797c4b5c16e2ae206ad821.jpg" length="18695" type="image/jpeg"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">walrus898-1656178341--e46758a5-28e4-41c0-9893-2f5720d712f3---We Used To Be Young</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d0a11d404797c4b5c16e2ae206ad821.jpg" length="18695" type="image/jpeg"/>
       <pubDate>Sat, 25 Jun 2022 13:32:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Day Wave - Heart To Rest (2 plays)</title>
+      <link>https://www.last.fm/music/Day+Wave/_/Heart+To+Rest</link>
+      <guid isPermaLink="false">walrus898-1656178524--e46758a5-28e4-41c0-9893-2f5720d712f3---Heart To Rest</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d0a11d404797c4b5c16e2ae206ad821.jpg" length="18695" type="image/jpeg"/>
+      <pubDate>Sat, 25 Jun 2022 13:35:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Day Wave - Apartment Complex (2 plays)</title>
+      <link>https://www.last.fm/music/Day+Wave/_/Apartment+Complex</link>
+      <guid isPermaLink="false">walrus898-1656178978--e46758a5-28e4-41c0-9893-2f5720d712f3---Apartment Complex</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d0a11d404797c4b5c16e2ae206ad821.jpg" length="18695" type="image/jpeg"/>
+      <pubDate>Sat, 25 Jun 2022 13:42:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
