@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jun 2022 23:19:23 +0000</lastBuildDate>
-    <item>
-      <title>J+1 - Remember When (1 play)</title>
-      <link>https://www.last.fm/music/J%252B1/_/Remember+When</link>
-      <guid isPermaLink="false">ddgromit-1656157211--88ac688e-991f-4f69-83fb-7f729048338c---Remember When</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0514edc8c57b6ef61b3c7553b13007ae.jpg" length="13567" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jun 2022 07:40:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thomas Barrandon - Fragment (1 play)</title>
-      <link>https://www.last.fm/music/Thomas+Barrandon/_/Fragment</link>
-      <guid isPermaLink="false">ddgromit-1656157404--Thomas Barrandon---Fragment</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5ab6fb82ddb0f7ff19d08c963d87dca9.jpg" length="15346" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jun 2022 07:43:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Jun 2022 23:40:27 +0000</lastBuildDate>
     <item>
       <title>Virtual Mage - Sleepy (1 play)</title>
       <link>https://www.last.fm/music/Virtual+Mage/_/Sleepy</link>
@@ -236,6 +222,7 @@
       <title>Lucy In Disguise - Odyssey Point (2 plays)</title>
       <link>https://www.last.fm/music/Lucy+In+Disguise/_/Odyssey+Point</link>
       <guid isPermaLink="false">ddgromit-1656165280--1149f736-042c-4e4d-bf22-cd3c2166e864---Odyssey Point</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66023886c825396dd20badd631460b31.png" length="165967" type="image/png"/>
       <pubDate>Sat, 25 Jun 2022 09:54:40 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1656284845--fbb375f9-48bb-4635-824e-4120273b3ba7---Laughing With</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7ade6ba4bd24e129d3b04694fc78c4b.jpg" length="26437" type="image/jpeg"/>
       <pubDate>Sun, 26 Jun 2022 19:07:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gnarls Barkley - Going On (12 plays)</title>
+      <link>https://www.last.fm/music/Gnarls+Barkley/_/Going+On</link>
+      <guid isPermaLink="false">ddgromit-1656285238--a47c3aa2-7d87-475c-a2c7-1e2047dafb09---Going On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e615fb2807a0450ca0bc49d3c2d8fcbe.png" length="105719" type="image/png"/>
+      <pubDate>Sun, 26 Jun 2022 19:13:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Big Wild - 6's to 9's (feat. Rationale) (3 plays)</title>
+      <link>https://www.last.fm/music/Big+Wild/_/6%27s+to+9%27s+(feat.+Rationale)</link>
+      <guid isPermaLink="false">ddgromit-1656285411--dc72d14d-28ce-4663-842c-f0b083b4a83f---6's to 9's (feat. Rationale)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8235dab6027e15473e5c1f6abe24855.jpg" length="12824" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jun 2022 19:16:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
