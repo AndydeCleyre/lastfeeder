@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jun 2022 14:40:02 +0000</lastBuildDate>
-    <item>
-      <title>Shelleyan Orphan - Jeremiah (1 play)</title>
-      <link>https://www.last.fm/music/Shelleyan+Orphan/_/Jeremiah</link>
-      <guid isPermaLink="false">Frippertron-1656392900--979c2d7a-e2cd-426e-a484-2b5ac01cd437---Jeremiah</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e9a57e8279c8abd42ce47d22e937936.jpg" length="20905" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jun 2022 01:08:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Jun 2022 14:52:31 +0000</lastBuildDate>
     <item>
       <title>Shelleyan Orphan - Seeking Bread and Heaven (1 play)</title>
       <link>https://www.last.fm/music/Shelleyan+Orphan/_/Seeking+Bread+and+Heaven</link>
@@ -289,7 +282,7 @@
       <pubDate>Tue, 28 Jun 2022 05:44:23 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - 27 Questions (49 plays)</title>
+      <title>black midi - 27 Questions (50 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/27+Questions</link>
       <guid isPermaLink="false">Frippertron-1656409643--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---27 Questions</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1656426939--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---The Defence</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
       <pubDate>Tue, 28 Jun 2022 10:35:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - 27 Questions (50 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/27+Questions</link>
+      <guid isPermaLink="false">Frippertron-1656427120--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---27 Questions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jun 2022 10:38:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
