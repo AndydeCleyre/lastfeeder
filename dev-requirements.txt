@@ -1,4 +1,4 @@
-black==22.3.0
+black==22.6.0
     # via -r dev-requirements.in
 certifi==2022.6.15
     # via requests
