@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Jul 2022 07:39:54 +0000</lastBuildDate>
-    <item>
-      <title>Joe Satriani - Headless (2 plays)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/Headless</link>
-      <guid isPermaLink="false">manosg--1656572625--29762c82-bb92-4acd-b1fb-09cc4da250d2---Headless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe0c8fba5575890077d3b36f326582e.jpg" length="16109" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jun 2022 03:03:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joe Satriani - Strange (2 plays)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/Strange</link>
-      <guid isPermaLink="false">manosg--1656572715--29762c82-bb92-4acd-b1fb-09cc4da250d2---Strange</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe0c8fba5575890077d3b36f326582e.jpg" length="16109" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jun 2022 03:05:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joe Satriani - I Believe (2 plays)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/I+Believe</link>
-      <guid isPermaLink="false">manosg--1656573017--29762c82-bb92-4acd-b1fb-09cc4da250d2---I Believe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fe0c8fba5575890077d3b36f326582e.jpg" length="16109" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jun 2022 03:10:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Jul 2022 07:52:31 +0000</lastBuildDate>
     <item>
       <title>Joe Satriani - One Big Rush (2 plays)</title>
       <link>https://www.last.fm/music/Joe+Satriani/_/One+Big+Rush</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1656658653--70248960-cb53-4ea4-943a-edb18f7d336f---Point Blank</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1de065c26b0241beb35b7a44243d730f.png" length="180274" type="image/png"/>
       <pubDate>Fri, 01 Jul 2022 02:57:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - Cadillac Ranch (1 play)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/Cadillac+Ranch</link>
+      <guid isPermaLink="false">manosg--1656661072--70248960-cb53-4ea4-943a-edb18f7d336f---Cadillac Ranch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1de065c26b0241beb35b7a44243d730f.png" length="180274" type="image/png"/>
+      <pubDate>Fri, 01 Jul 2022 03:37:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - I'm a Rocker (1 play)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/I%27m+a+Rocker</link>
+      <guid isPermaLink="false">manosg--1656661255--70248960-cb53-4ea4-943a-edb18f7d336f---I'm a Rocker</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1de065c26b0241beb35b7a44243d730f.png" length="180274" type="image/png"/>
+      <pubDate>Fri, 01 Jul 2022 03:40:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - Fade Away (1 play)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/Fade+Away</link>
+      <guid isPermaLink="false">manosg--1656661470--70248960-cb53-4ea4-943a-edb18f7d336f---Fade Away</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1de065c26b0241beb35b7a44243d730f.png" length="180274" type="image/png"/>
+      <pubDate>Fri, 01 Jul 2022 03:44:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
