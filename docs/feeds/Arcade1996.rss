@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Jul 2022 04:39:52 +0000</lastBuildDate>
-    <item>
-      <title>Low - Words (10 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Words</link>
-      <guid isPermaLink="false">Arcade1996-1656689276--92de643f-fa8f-4e68-b627-4376711b7b33---Words</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4bacbf53718cac5b13a020a9b7fbcf0.jpg" length="15695" type="image/jpeg"/>
-      <pubDate>Fri, 01 Jul 2022 11:27:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Jul 2022 05:03:07 +0000</lastBuildDate>
     <item>
       <title>Low - Fear (1 play)</title>
       <link>https://www.last.fm/music/Low/_/Fear</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1656736441--bc1c8f3f-6f36-4086-a470-87ed813dd429---Reverse the Curse</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f5f3203bc7926b1809c9fb090ab85cd.jpg" length="11829" type="image/jpeg"/>
       <pubDate>Sat, 02 Jul 2022 00:34:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boldy James - Game Time (15 plays)</title>
+      <link>https://www.last.fm/music/Boldy+James/_/Game+Time</link>
+      <guid isPermaLink="false">Arcade1996-1656736676--Boldy James---Game Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25a9b69421d0f5935f044d626834b0cf.jpg" length="15580" type="image/jpeg"/>
+      <pubDate>Sat, 02 Jul 2022 00:37:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
