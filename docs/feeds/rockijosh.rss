@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Jul 2022 14:52:34 +0000</lastBuildDate>
-    <item>
-      <title>(G)I-DLE - TOMBOY (28 plays)</title>
-      <link>https://www.last.fm/music/(G)I-DLE/_/TOMBOY</link>
-      <guid isPermaLink="false">rockijosh-1656894662--0068ae6c-7156-40f9-a81f-39294af6a549---TOMBOY</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88541de786ed5121f29435048810d906.png" length="135956" type="image/png"/>
-      <pubDate>Sun, 03 Jul 2022 20:31:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>PUP - Matilda (38 plays)</title>
-      <link>https://www.last.fm/music/PUP/_/Matilda</link>
-      <guid isPermaLink="false">rockijosh-1656894836--3165f5e0-44ff-446a-81d7-c09ec69661ae---Matilda</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/51c0149feeead3198a6564562d480778.jpg" length="31832" type="image/jpeg"/>
-      <pubDate>Sun, 03 Jul 2022 20:33:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>MØ - New Moon (24 plays)</title>
-      <link>https://www.last.fm/music/M%C3%98/_/New+Moon</link>
-      <guid isPermaLink="false">rockijosh-1656895068--3ab2ee23-1c2f-458c-9c8c-ca4844729120---New Moon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20d2492b0a0199ef0e45229e1613ed11.jpg" length="17874" type="image/jpeg"/>
-      <pubDate>Sun, 03 Jul 2022 20:37:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Jul 2022 15:23:03 +0000</lastBuildDate>
     <item>
       <title>Dance Gavin Dance - Synergy (feat. Rob Damiani) (18 plays)</title>
       <link>https://www.last.fm/music/Dance+Gavin+Dance/_/Synergy+(feat.+Rob+Damiani)</link>
@@ -345,6 +324,13 @@
       <pubDate>Sun, 03 Jul 2022 23:53:50 -0400</pubDate>
     </item>
     <item>
+      <title>Matchbox Twenty - Push (1 play)</title>
+      <link>https://www.last.fm/music/Matchbox+Twenty/_/Push</link>
+      <guid isPermaLink="false">rockijosh-1656907707--75af9d25-cf32-49c0-9192-60bd8e9784e6---Push</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/006ed44fa946733c32673682f20e3a45.png" length="150933" type="image/png"/>
+      <pubDate>Mon, 04 Jul 2022 00:08:27 -0400</pubDate>
+    </item>
+    <item>
       <title>Lucas &amp; Steve - Another Life (feat. Alida) (36 plays)</title>
       <link>https://www.last.fm/music/Lucas+&amp;+Steve/_/Another+Life+(feat.+Alida)</link>
       <guid isPermaLink="false">rockijosh-1656945932--Lucas &amp; Steve---Another Life (feat. Alida)</guid>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1656946143--75aff57c-d397-4e6c-b5fc-1f32d7761512---Summer or Summer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01eeda23a0bafefd134d8277c6eb354b.jpg" length="23133" type="image/jpeg"/>
       <pubDate>Mon, 04 Jul 2022 10:49:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>My Chemical Romance - The Foundations of Decay (9 plays)</title>
+      <link>https://www.last.fm/music/My+Chemical+Romance/_/The+Foundations+of+Decay</link>
+      <guid isPermaLink="false">rockijosh-1656946343--c07f0676-9143-4217-8a9f-4c26bd636f13---The Foundations of Decay</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55e0eb295310209bd9b9271092460187.jpg" length="20686" type="image/jpeg"/>
+      <pubDate>Mon, 04 Jul 2022 10:52:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>(G)I-DLE - TOMBOY (29 plays)</title>
+      <link>https://www.last.fm/music/(G)I-DLE/_/TOMBOY</link>
+      <guid isPermaLink="false">rockijosh-1656946704--0068ae6c-7156-40f9-a81f-39294af6a549---TOMBOY</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88541de786ed5121f29435048810d906.png" length="135956" type="image/png"/>
+      <pubDate>Mon, 04 Jul 2022 10:58:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
