@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Jul 2022 20:42:34 +0000</lastBuildDate>
-    <item>
-      <title>Staind - So Far Away (34 plays)</title>
-      <link>https://www.last.fm/music/Staind/_/So+Far+Away</link>
-      <guid isPermaLink="false">rockijosh-1656957540--777a21a8-0d0f-4cf3-86b4-65bc0eba5649---So Far Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ff2400e68ea425e8bbc473c22b3be74.png" length="10827" type="image/png"/>
-      <pubDate>Mon, 04 Jul 2022 13:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Doris Casella - Estelle (1 play)</title>
-      <link>https://www.last.fm/music/Doris+Casella/_/Estelle</link>
-      <guid isPermaLink="false">rockijosh-1656958782--Doris Casella---Estelle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 04 Jul 2022 14:19:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Jul 2022 20:54:42 +0000</lastBuildDate>
     <item>
       <title>Isshi Matsuriza - Shizukana (1 play)</title>
       <link>https://www.last.fm/music/Isshi+Matsuriza/_/Shizukana</link>
@@ -355,7 +341,22 @@
       <title>Meg DeAngelis - Please Don't Make Me Fall in Love (5 plays)</title>
       <link>https://www.last.fm/music/Meg+DeAngelis/_/Please+Don%27t+Make+Me+Fall+in+Love</link>
       <guid isPermaLink="false">rockijosh-1657053545--Meg DeAngelis---Please Don't Make Me Fall in Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd585037e7b67e8a3d19d4b76b9d7295.png" length="122246" type="image/png"/>
       <pubDate>Tue, 05 Jul 2022 16:39:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>O-Town - All or Nothing (8 plays)</title>
+      <link>https://www.last.fm/music/O-Town/_/All+or+Nothing</link>
+      <guid isPermaLink="false">rockijosh-1657053696--5b5b5410-29d7-478a-94ca-bffa06c73579---All or Nothing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67836e68e0c230a44bf6d2cf9df1ae24.jpg" length="30632" type="image/jpeg"/>
+      <pubDate>Tue, 05 Jul 2022 16:41:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kacey Musgraves - Rainbow (54 plays)</title>
+      <link>https://www.last.fm/music/Kacey+Musgraves/_/Rainbow</link>
+      <guid isPermaLink="false">rockijosh-1657053978--d1393ecb-431b-4fde-a6ea-d769f2f040cb---Rainbow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff0056e09edb833b0aa4583a5aa02120.png" length="154564" type="image/png"/>
+      <pubDate>Tue, 05 Jul 2022 16:46:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
