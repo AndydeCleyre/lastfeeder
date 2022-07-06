@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Jul 2022 07:52:29 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - Open All Night (1 play)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/Open+All+Night</link>
-      <guid isPermaLink="false">manosg--1656946034--70248960-cb53-4ea4-943a-edb18f7d336f---Open All Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/92587764cd2b43baadcc8c22cdfc53a3.png" length="141132" type="image/png"/>
-      <pubDate>Mon, 04 Jul 2022 10:47:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bruce Springsteen - My Father's House (1 play)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/My+Father%27s+House</link>
-      <guid isPermaLink="false">manosg--1656946208--70248960-cb53-4ea4-943a-edb18f7d336f---My Father's House</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/92587764cd2b43baadcc8c22cdfc53a3.png" length="141132" type="image/png"/>
-      <pubDate>Mon, 04 Jul 2022 10:50:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Jul 2022 08:26:38 +0000</lastBuildDate>
     <item>
       <title>Bruce Springsteen - Reason to Believe (1 play)</title>
       <link>https://www.last.fm/music/Bruce+Springsteen/_/Reason+to+Believe</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1657093512--2052a3ca-00c8-40a8-835d-dc756854cf47---Seekers of the Blade</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82077bb997e1643fa5036ed5f9572e6b.jpg" length="30506" type="image/jpeg"/>
       <pubDate>Wed, 06 Jul 2022 03:45:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ironflame - Blood Red Cross (2 plays)</title>
+      <link>https://www.last.fm/music/Ironflame/_/Blood+Red+Cross</link>
+      <guid isPermaLink="false">manosg--1657093787--2052a3ca-00c8-40a8-835d-dc756854cf47---Blood Red Cross</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82077bb997e1643fa5036ed5f9572e6b.jpg" length="30506" type="image/jpeg"/>
+      <pubDate>Wed, 06 Jul 2022 03:49:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ironflame - On Ashen Wings (2 plays)</title>
+      <link>https://www.last.fm/music/Ironflame/_/On+Ashen+Wings</link>
+      <guid isPermaLink="false">manosg--1657094121--2052a3ca-00c8-40a8-835d-dc756854cf47---On Ashen Wings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82077bb997e1643fa5036ed5f9572e6b.jpg" length="30506" type="image/jpeg"/>
+      <pubDate>Wed, 06 Jul 2022 03:55:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
