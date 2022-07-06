@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Jul 2022 17:39:04 +0000</lastBuildDate>
-    <item>
-      <title>Bob Dylan - On the Road Again (8 plays)</title>
-      <link>https://www.last.fm/music/Bob+Dylan/_/On+the+Road+Again</link>
-      <guid isPermaLink="false">manosg--1656931419--72c536dc-7137-4477-a521-567eeb840fa8---On the Road Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a40d4c6f854242398a7c53e067e450a6.png" length="127792" type="image/png"/>
-      <pubDate>Mon, 04 Jul 2022 06:43:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Jul 2022 06:49:53 +0000</lastBuildDate>
     <item>
       <title>Bob Dylan - Bob Dylan's 115th Dream (8 plays)</title>
       <link>https://www.last.fm/music/Bob+Dylan/_/Bob+Dylan%27s+115th+Dream</link>
@@ -355,7 +348,15 @@
       <title>Ironflame - A Curse Upon Mankind (1 play)</title>
       <link>https://www.last.fm/music/Ironflame/_/A+Curse+Upon+Mankind</link>
       <guid isPermaLink="false">manosg--1657041915--2052a3ca-00c8-40a8-835d-dc756854cf47---A Curse Upon Mankind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/39ef4d10350f89c72d9efde0e281133b.png" length="157625" type="image/png"/>
       <pubDate>Tue, 05 Jul 2022 13:25:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ironflame - Where Madness Dwells (1 play)</title>
+      <link>https://www.last.fm/music/Ironflame/_/Where+Madness+Dwells</link>
+      <guid isPermaLink="false">manosg--1657042485--2052a3ca-00c8-40a8-835d-dc756854cf47---Where Madness Dwells</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/39ef4d10350f89c72d9efde0e281133b.png" length="157625" type="image/png"/>
+      <pubDate>Tue, 05 Jul 2022 13:34:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
