@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Jul 2022 18:27:28 +0000</lastBuildDate>
-    <item>
-      <title>Ironflame - A Funeral Within (2 plays)</title>
-      <link>https://www.last.fm/music/Ironflame/_/A+Funeral+Within</link>
-      <guid isPermaLink="false">manosg--1657041059--2052a3ca-00c8-40a8-835d-dc756854cf47---A Funeral Within</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/39ef4d10350f89c72d9efde0e281133b.png" length="157625" type="image/png"/>
-      <pubDate>Tue, 05 Jul 2022 13:10:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ironflame - Ready to Strike (2 plays)</title>
-      <link>https://www.last.fm/music/Ironflame/_/Ready+to+Strike</link>
-      <guid isPermaLink="false">manosg--1657041393--2052a3ca-00c8-40a8-835d-dc756854cf47---Ready to Strike</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/39ef4d10350f89c72d9efde0e281133b.png" length="157625" type="image/png"/>
-      <pubDate>Tue, 05 Jul 2022 13:16:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Jul 2022 19:16:40 +0000</lastBuildDate>
     <item>
       <title>Ironflame - The Phantom Flame (2 plays)</title>
       <link>https://www.last.fm/music/Ironflame/_/The+Phantom+Flame</link>
@@ -345,7 +331,14 @@
       <pubDate>Thu, 07 Jul 2022 12:23:48 -0400</pubDate>
     </item>
     <item>
-      <title>Bruce Springsteen - New York City Serenade (2 plays)</title>
+      <title>Bruce Springsteen - New York City Serenade (3 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/New+York+City+Serenade</link>
+      <guid isPermaLink="false">manosg--1657214888--70248960-cb53-4ea4-943a-edb18f7d336f---New York City Serenade</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ac148979a8ca47536d232266b412306.jpg" length="21923" type="image/jpeg"/>
+      <pubDate>Thu, 07 Jul 2022 13:28:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - New York City Serenade (3 plays)</title>
       <link>https://www.last.fm/music/Bruce+Springsteen/_/New+York+City+Serenade</link>
       <guid isPermaLink="false">manosg--1657216038--70248960-cb53-4ea4-943a-edb18f7d336f---New York City Serenade</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ac148979a8ca47536d232266b412306.jpg" length="21923" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1657216298--70248960-cb53-4ea4-943a-edb18f7d336f---Girls in Their Summer Clothes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d85df06b8c248a49eae595f3e409604.png" length="174865" type="image/png"/>
       <pubDate>Thu, 07 Jul 2022 13:51:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eagles - Take It Easy - 2013 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Eagles/_/Take+It+Easy+-+2013+Remaster</link>
+      <guid isPermaLink="false">manosg--1657216510--Eagles---Take It Easy - 2013 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c8c8b5051e8b3b677e8243a9a2870dc.jpg" length="12519" type="image/jpeg"/>
+      <pubDate>Thu, 07 Jul 2022 13:55:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
