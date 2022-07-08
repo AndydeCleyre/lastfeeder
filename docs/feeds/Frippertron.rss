@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Jul 2022 05:37:43 +0000</lastBuildDate>
-    <item>
-      <title>Gil Scott-Heron - Song of the Wind (13 plays)</title>
-      <link>https://www.last.fm/music/Gil+Scott-Heron/_/Song+of+the+Wind</link>
-      <guid isPermaLink="false">Frippertron-1657183322--b5b89643-c488-4f39-a302-25cab31084a5---Song of the Wind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5aa7a900bb754186b5b545a9b723aea9.jpg" length="19641" type="image/jpeg"/>
-      <pubDate>Thu, 07 Jul 2022 04:42:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Jul 2022 05:52:23 +0000</lastBuildDate>
     <item>
       <title>Gil Scott-Heron - Racetrack in France (27 plays)</title>
       <link>https://www.last.fm/music/Gil+Scott-Heron/_/Racetrack+in+France</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1657258386--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---The Defence</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
       <pubDate>Fri, 08 Jul 2022 01:33:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - 27 Questions (63 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/27+Questions</link>
+      <guid isPermaLink="false">Frippertron-1657259067--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---27 Questions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
+      <pubDate>Fri, 08 Jul 2022 01:44:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
