@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Jul 2022 15:22:59 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - Ghosts (2 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/Ghosts</link>
-      <guid isPermaLink="false">manosg--1657119928--70248960-cb53-4ea4-943a-edb18f7d336f---Ghosts</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/242e1b0ba5e6d26bfc499326637aef64.jpg" length="30041" type="image/jpeg"/>
-      <pubDate>Wed, 06 Jul 2022 11:05:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Jul 2022 15:55:43 +0000</lastBuildDate>
     <item>
       <title>Bruce Springsteen - Song For Orphans (2 plays)</title>
       <link>https://www.last.fm/music/Bruce+Springsteen/_/Song+For+Orphans</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1657293287--c544ed4d-2390-4442-a83e-1ea2883b09c8---I Need You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24d012f364e445cec54a844c604ecfbb.png" length="259790" type="image/png"/>
       <pubDate>Fri, 08 Jul 2022 11:14:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lynyrd Skynyrd - Don't Ask Me No Questions (8 plays)</title>
+      <link>https://www.last.fm/music/Lynyrd+Skynyrd/_/Don%27t+Ask+Me+No+Questions</link>
+      <guid isPermaLink="false">manosg--1657293703--c544ed4d-2390-4442-a83e-1ea2883b09c8---Don't Ask Me No Questions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24d012f364e445cec54a844c604ecfbb.png" length="259790" type="image/png"/>
+      <pubDate>Fri, 08 Jul 2022 11:21:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
