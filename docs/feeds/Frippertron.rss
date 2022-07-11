@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Jul 2022 14:42:43 +0000</lastBuildDate>
-    <item>
-      <title>Lou Reed - Berlin (54 plays)</title>
-      <link>https://www.last.fm/music/Lou+Reed/_/Berlin</link>
-      <guid isPermaLink="false">Frippertron-1657523203--9d1ebcfe-4c15-4d18-95d3-d919898638a1---Berlin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95aae05a48e848be8ce3b4896ea9bfe4.png" length="181751" type="image/png"/>
-      <pubDate>Mon, 11 Jul 2022 03:06:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Jul 2022 15:04:58 +0000</lastBuildDate>
     <item>
       <title>Lou Reed - Lady Day (34 plays)</title>
       <link>https://www.last.fm/music/Lou+Reed/_/Lady+Day</link>
@@ -44,7 +37,7 @@
       <pubDate>Mon, 11 Jul 2022 03:19:03 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - Welcome to Hell (120 plays)</title>
+      <title>black midi - Welcome to Hell (121 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Welcome+to+Hell</link>
       <guid isPermaLink="false">Frippertron-1657524131--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Welcome to Hell</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
@@ -198,7 +191,7 @@
       <pubDate>Mon, 11 Jul 2022 05:26:08 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - Welcome to Hell (120 plays)</title>
+      <title>black midi - Welcome to Hell (121 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Welcome+to+Hell</link>
       <guid isPermaLink="false">Frippertron-1657531755--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Welcome to Hell</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a33696e9e7e4e838b4050ced65372a3.jpg" length="27178" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1657550286--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Eat Men Eat</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
       <pubDate>Mon, 11 Jul 2022 10:38:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Welcome to Hell (121 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Welcome+to+Hell</link>
+      <guid isPermaLink="false">Frippertron-1657550477--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Welcome to Hell</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
+      <pubDate>Mon, 11 Jul 2022 10:41:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
