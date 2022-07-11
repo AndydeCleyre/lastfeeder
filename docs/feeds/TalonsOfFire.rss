@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Jul 2022 15:04:37 +0000</lastBuildDate>
-    <item>
-      <title>Steven Wilson - Sleep Together - Live (2 plays)</title>
-      <link>https://www.last.fm/music/Steven+Wilson/_/Sleep+Together+-+Live</link>
-      <guid isPermaLink="false">TalonsOfFire-1656446310--Steven Wilson---Sleep Together - Live</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb513bc5959083a244dc1fefba5578e.jpg" length="14862" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jun 2022 15:58:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Hayley Williams - KYRH (2 plays)</title>
-      <link>https://www.last.fm/music/Hayley+Williams/_/KYRH</link>
-      <guid isPermaLink="false">TalonsOfFire-1656446755--b4b5b5a7-feff-47d0-9458-83d0d135a692---KYRH</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4047e265c7d0860053c060b3409db8c3.jpg" length="10651" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jun 2022 16:05:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Rain Tree Crow - New Moon At Red Deer Wallow (3 plays)</title>
-      <link>https://www.last.fm/music/Rain+Tree+Crow/_/New+Moon+At+Red+Deer+Wallow</link>
-      <guid isPermaLink="false">TalonsOfFire-1656447815--4ca66f7e-e574-46eb-99f3-d8bee033d999---New Moon At Red Deer Wallow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d611ead5f35b4286a2534522d8cfdd56.png" length="145576" type="image/png"/>
-      <pubDate>Tue, 28 Jun 2022 16:23:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Jul 2022 15:21:54 +0000</lastBuildDate>
     <item>
       <title>Trespassers William - Rainbow Connection (1 play)</title>
       <link>https://www.last.fm/music/Trespassers+William/_/Rainbow+Connection</link>
@@ -247,7 +226,7 @@
       <pubDate>Thu, 07 Jul 2022 17:30:05 -0400</pubDate>
     </item>
     <item>
-      <title>The Durutti Column - Sketch for Summer (4 plays)</title>
+      <title>The Durutti Column - Sketch for Summer</title>
       <link>https://www.last.fm/music/The+Durutti+Column/_/Sketch+for+Summer</link>
       <guid isPermaLink="false">TalonsOfFire-1657229768--aaddb5e3-f8a5-4a9d-8674-f885112ecf0e---Sketch for Summer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16af1b14af004437a8cb3e8a6ba15c7c.jpg" length="18016" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">TalonsOfFire-1657551601--52074ba6-e495-4ef3-9bb4-0703888a9f68---Haiti</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36157c4a4a9f4480beed9e2c86b588cf.png" length="204343" type="image/png"/>
       <pubDate>Mon, 11 Jul 2022 11:00:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Warpaint - Champion (2 plays)</title>
+      <link>https://www.last.fm/music/Warpaint/_/Champion</link>
+      <guid isPermaLink="false">TalonsOfFire-1657551852--cf82a38f-9413-4333-bacb-ca5b6db95794---Champion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/746337b0376ba6f5d2733c867654268e.jpg" length="6300" type="image/jpeg"/>
+      <pubDate>Mon, 11 Jul 2022 11:04:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Young the Giant - Repeat (2 plays)</title>
+      <link>https://www.last.fm/music/Young+the+Giant/_/Repeat</link>
+      <guid isPermaLink="false">TalonsOfFire-1657552219--7fe96b15-5608-430e-ad25-77a01353c5d9---Repeat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd2da7f0bea8bd63a497e9429fc148e7.jpg" length="25183" type="image/jpeg"/>
+      <pubDate>Mon, 11 Jul 2022 11:10:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sigur Rós - Ég anda (5 plays)</title>
+      <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/%C3%89g+anda</link>
+      <guid isPermaLink="false">TalonsOfFire-1657552403--f6f2326f-6b25-4170-b89d-e235b25508e8---Ég anda</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6016c9614463408a9108f80d66051dc0.png" length="168064" type="image/png"/>
+      <pubDate>Mon, 11 Jul 2022 11:13:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
