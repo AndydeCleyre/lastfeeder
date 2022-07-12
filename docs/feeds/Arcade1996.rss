@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Jul 2022 13:54:16 +0000</lastBuildDate>
-    <item>
-      <title>Death Cab for Cutie - Title Track (15 plays)</title>
-      <link>https://www.last.fm/music/Death+Cab+for+Cutie/_/Title+Track</link>
-      <guid isPermaLink="false">Arcade1996-1657500665--0039c7ae-e1a7-4a7d-9b49-0cbc716821a6---Title Track</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84ea25524706497993464463fbf1e909.png" length="149834" type="image/png"/>
-      <pubDate>Sun, 10 Jul 2022 20:51:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Alexisonfire - Reverse the Curse (13 plays)</title>
-      <link>https://www.last.fm/music/Alexisonfire/_/Reverse+the+Curse</link>
-      <guid isPermaLink="false">Arcade1996-1657534154--bc1c8f3f-6f36-4086-a470-87ed813dd429---Reverse the Curse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/83e98a0ece7d44bd32913fbf47554c73.jpg" length="11898" type="image/jpeg"/>
-      <pubDate>Mon, 11 Jul 2022 06:09:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Jul 2022 14:40:30 +0000</lastBuildDate>
     <item>
       <title>Death Cab for Cutie - Title Track (15 plays)</title>
       <link>https://www.last.fm/music/Death+Cab+for+Cutie/_/Title+Track</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1657633259--69158f97-4c07-4c4e-baf8-4e4ab1ed666e---Beware the Friendly Stranger</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c1511b79b6a4a86d55fdd36ea9b3b5.jpg" length="22308" type="image/jpeg"/>
       <pubDate>Tue, 12 Jul 2022 09:40:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boards of Canada - Gyroscope (2 plays)</title>
+      <link>https://www.last.fm/music/Boards+of+Canada/_/Gyroscope</link>
+      <guid isPermaLink="false">Arcade1996-1657633297--69158f97-4c07-4c4e-baf8-4e4ab1ed666e---Gyroscope</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c1511b79b6a4a86d55fdd36ea9b3b5.jpg" length="22308" type="image/jpeg"/>
+      <pubDate>Tue, 12 Jul 2022 09:41:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boards of Canada - Dandelion (2 plays)</title>
+      <link>https://www.last.fm/music/Boards+of+Canada/_/Dandelion</link>
+      <guid isPermaLink="false">Arcade1996-1657636205--69158f97-4c07-4c4e-baf8-4e4ab1ed666e---Dandelion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c1511b79b6a4a86d55fdd36ea9b3b5.jpg" length="22308" type="image/jpeg"/>
+      <pubDate>Tue, 12 Jul 2022 10:30:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
