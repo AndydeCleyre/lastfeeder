@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Jul 2022 05:47:01 +0000</lastBuildDate>
-    <item>
-      <title>Tiger Trap - Chester (1 play)</title>
-      <link>https://www.last.fm/music/Tiger+Trap/_/Chester</link>
-      <guid isPermaLink="false">Frippertron-1657549347--7903b54d-b1ce-4061-91ef-4e8b25fbdc33---Chester</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d9b95436caa48e0b663587b922d12c8.jpg" length="34864" type="image/jpeg"/>
-      <pubDate>Mon, 11 Jul 2022 10:22:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tiger Trap - My Broken Heart (1 play)</title>
-      <link>https://www.last.fm/music/Tiger+Trap/_/My+Broken+Heart</link>
-      <guid isPermaLink="false">Frippertron-1657549532--7903b54d-b1ce-4061-91ef-4e8b25fbdc33---My Broken Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d9b95436caa48e0b663587b922d12c8.jpg" length="34864" type="image/jpeg"/>
-      <pubDate>Mon, 11 Jul 2022 10:25:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Jul 2022 06:27:46 +0000</lastBuildDate>
     <item>
       <title>Tiger Trap - Prettiest Boy (1 play)</title>
       <link>https://www.last.fm/music/Tiger+Trap/_/Prettiest+Boy</link>
@@ -357,6 +343,19 @@
       <guid isPermaLink="false">Frippertron-1657603976--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Tue, 12 Jul 2022 01:32:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Come September - Truth Drug (64 plays)</title>
+      <link>https://www.last.fm/music/Come+September/_/Truth+Drug</link>
+      <guid isPermaLink="false">Frippertron-1657605017--Come September---Truth Drug</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
+      <pubDate>Tue, 12 Jul 2022 01:50:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Come September - Here Comes Heaven (32 plays)</title>
+      <link>https://www.last.fm/music/Come+September/_/Here+Comes+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1657605306--Come September---Here Comes Heaven</guid>
+      <pubDate>Tue, 12 Jul 2022 01:55:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
