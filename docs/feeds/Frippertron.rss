@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Jul 2022 09:43:43 +0000</lastBuildDate>
-    <item>
-      <title>ミドリ - ゆきこさん (73 plays)</title>
-      <link>https://www.last.fm/music/%E3%83%9F%E3%83%89%E3%83%AA/_/%E3%82%86%E3%81%8D%E3%81%93%E3%81%95%E3%82%93</link>
-      <guid isPermaLink="false">Frippertron-1657860233--e2a46258-612f-48d6-88bd-3251de017c40---ゆきこさん</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d767ff4597044be87e4b07bb750af4d.png" length="72636" type="image/png"/>
-      <pubDate>Fri, 15 Jul 2022 00:43:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Jul 2022 09:55:00 +0000</lastBuildDate>
     <item>
       <title>ミドリ - かなしい日々。 (72 plays)</title>
       <link>https://www.last.fm/music/%E3%83%9F%E3%83%89%E3%83%AA/_/%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E6%97%A5%E3%80%85%E3%80%82</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1657877858--5441c29d-3602-4898-b1a1-b77fa23b8e50---Station to Station</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
       <pubDate>Fri, 15 Jul 2022 05:37:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Loving the Alien (103 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
+      <guid isPermaLink="false">Frippertron-1657878478--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
+      <pubDate>Fri, 15 Jul 2022 05:47:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
