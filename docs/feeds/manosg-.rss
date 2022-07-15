@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Jul 2022 10:55:53 +0000</lastBuildDate>
-    <item>
-      <title>ABBA - Voulez-Vous (1 play)</title>
-      <link>https://www.last.fm/music/ABBA/_/Voulez-Vous</link>
-      <guid isPermaLink="false">manosg--1657793540--d87e52c5-bb8d-4da8-b941-9f4928627dc8---Voulez-Vous</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d84bfbc85d894d51b4a845d0f5472109.png" length="149358" type="image/png"/>
-      <pubDate>Thu, 14 Jul 2022 06:12:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>ABBA - I Have a Dream (1 play)</title>
-      <link>https://www.last.fm/music/ABBA/_/I+Have+a+Dream</link>
-      <guid isPermaLink="false">manosg--1657793850--d87e52c5-bb8d-4da8-b941-9f4928627dc8---I Have a Dream</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d84bfbc85d894d51b4a845d0f5472109.png" length="149358" type="image/png"/>
-      <pubDate>Thu, 14 Jul 2022 06:17:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Jul 2022 11:17:38 +0000</lastBuildDate>
     <item>
       <title>ABBA - Angeleyes (1 play)</title>
       <link>https://www.last.fm/music/ABBA/_/Angeleyes</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1657882129--30692a69-4bea-4c1a-a346-92dcdaa20ff2---Rhode Island Shred</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66777387b25f4d0bb44f5f2f80396294.png" length="178474" type="image/png"/>
       <pubDate>Fri, 15 Jul 2022 06:48:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Guthrie Govan - Hangover (1 play)</title>
+      <link>https://www.last.fm/music/Guthrie+Govan/_/Hangover</link>
+      <guid isPermaLink="false">manosg--1657882267--30692a69-4bea-4c1a-a346-92dcdaa20ff2---Hangover</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66777387b25f4d0bb44f5f2f80396294.png" length="178474" type="image/png"/>
+      <pubDate>Fri, 15 Jul 2022 06:51:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Guthrie Govan - The Blue Room (1 play)</title>
+      <link>https://www.last.fm/music/Guthrie+Govan/_/The+Blue+Room</link>
+      <guid isPermaLink="false">manosg--1657882660--30692a69-4bea-4c1a-a346-92dcdaa20ff2---The Blue Room</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/40548ca784244a03a8619fae1410486d.jpg" length="27333" type="image/jpeg"/>
+      <pubDate>Fri, 15 Jul 2022 06:57:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
