@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Jul 2022 17:53:10 +0000</lastBuildDate>
-    <item>
-      <title>ABBA - Kisses of Fire (1 play)</title>
-      <link>https://www.last.fm/music/ABBA/_/Kisses+of+Fire</link>
-      <guid isPermaLink="false">manosg--1657796037--d87e52c5-bb8d-4da8-b941-9f4928627dc8---Kisses of Fire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d84bfbc85d894d51b4a845d0f5472109.png" length="149358" type="image/png"/>
-      <pubDate>Thu, 14 Jul 2022 06:53:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>ABBA - Summer Night City (1 play)</title>
-      <link>https://www.last.fm/music/ABBA/_/Summer+Night+City</link>
-      <guid isPermaLink="false">manosg--1657808811--d87e52c5-bb8d-4da8-b941-9f4928627dc8---Summer Night City</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d84bfbc85d894d51b4a845d0f5472109.png" length="149358" type="image/png"/>
-      <pubDate>Thu, 14 Jul 2022 10:26:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Jul 2022 18:25:47 +0000</lastBuildDate>
     <item>
       <title>ABBA - Lovelight - Original Version (1 play)</title>
       <link>https://www.last.fm/music/ABBA/_/Lovelight+-+Original+Version</link>
@@ -30,7 +16,7 @@
       <pubDate>Thu, 14 Jul 2022 10:30:26 -0400</pubDate>
     </item>
     <item>
-      <title>ABBA - Gimme! Gimme! Gimme! (A Man After Midnight) (1 play)</title>
+      <title>ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)</title>
       <link>https://www.last.fm/music/ABBA/_/Gimme!+Gimme!+Gimme!+(A+Man+After+Midnight)</link>
       <guid isPermaLink="false">manosg--1657809253--d87e52c5-bb8d-4da8-b941-9f4928627dc8---Gimme! Gimme! Gimme! (A Man After Midnight)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d84bfbc85d894d51b4a845d0f5472109.png" length="149358" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1657897605--Phil Collins---Something Happened On The Way To Heaven - 2016 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a64cd0c90af35283c38b24fe42057df8.jpg" length="14968" type="image/jpeg"/>
       <pubDate>Fri, 15 Jul 2022 11:06:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Phil Collins - Colours - 2016 Remaster (3 plays)</title>
+      <link>https://www.last.fm/music/Phil+Collins/_/Colours+-+2016+Remaster</link>
+      <guid isPermaLink="false">manosg--1657906993--Phil Collins---Colours - 2016 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a64cd0c90af35283c38b24fe42057df8.jpg" length="14968" type="image/jpeg"/>
+      <pubDate>Fri, 15 Jul 2022 13:43:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Phil Collins - I Wish It Would Rain Down - 2016 Remaster (4 plays)</title>
+      <link>https://www.last.fm/music/Phil+Collins/_/I+Wish+It+Would+Rain+Down+-+2016+Remaster</link>
+      <guid isPermaLink="false">manosg--1657907824--Phil Collins---I Wish It Would Rain Down - 2016 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a64cd0c90af35283c38b24fe42057df8.jpg" length="14968" type="image/jpeg"/>
+      <pubDate>Fri, 15 Jul 2022 13:57:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
