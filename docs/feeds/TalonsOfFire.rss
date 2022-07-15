@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Jul 2022 19:52:30 +0000</lastBuildDate>
-    <item>
-      <title>Sylvaine - Fortapt (2 plays)</title>
-      <link>https://www.last.fm/music/Sylvaine/_/Fortapt</link>
-      <guid isPermaLink="false">TalonsOfFire-1657564937--6f274512-701a-43b1-b533-7833af213ba0---Fortapt</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a516822dfb390477e2b4678fdd064756.jpg" length="13690" type="image/jpeg"/>
-      <pubDate>Mon, 11 Jul 2022 14:42:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Max Richter - I. Mrs Dalloway: Words (2 plays)</title>
-      <link>https://www.last.fm/music/Max+Richter/_/I.+Mrs+Dalloway:+Words</link>
-      <guid isPermaLink="false">TalonsOfFire-1657565596--Max Richter---I. Mrs Dalloway: Words</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03af07864d54ecb125115b308cd9f935.jpg" length="28142" type="image/jpeg"/>
-      <pubDate>Mon, 11 Jul 2022 14:53:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Jul 2022 15:46:42 +0000</lastBuildDate>
     <item>
       <title>Max Richter - IX. Orlando: Morphology (3 plays)</title>
       <link>https://www.last.fm/music/Max+Richter/_/IX.+Orlando:+Morphology</link>
@@ -226,11 +212,18 @@
       <pubDate>Tue, 12 Jul 2022 14:24:00 -0400</pubDate>
     </item>
     <item>
-      <title>Four Tet - Circling (2 plays)</title>
+      <title>Four Tet - Circling (3 plays)</title>
       <link>https://www.last.fm/music/Four+Tet/_/Circling</link>
       <guid isPermaLink="false">TalonsOfFire-1657650477--3bcff06f-675a-451f-9075-99e8657047e8---Circling</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cda5fa39e85dfd9b55a18d9223e0144c.jpg" length="30226" type="image/jpeg"/>
       <pubDate>Tue, 12 Jul 2022 14:27:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Four Tet - Circling (3 plays)</title>
+      <link>https://www.last.fm/music/Four+Tet/_/Circling</link>
+      <guid isPermaLink="false">TalonsOfFire-1657650794--3bcff06f-675a-451f-9075-99e8657047e8---Circling</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cda5fa39e85dfd9b55a18d9223e0144c.jpg" length="30226" type="image/jpeg"/>
+      <pubDate>Tue, 12 Jul 2022 14:33:14 -0400</pubDate>
     </item>
     <item>
       <title>Massive Attack - Black Milk (6 plays)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1657736134--alt-J---House of the Rising Sun</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6259a0d6ec6bfcb4c6cda530ae90231.jpg" length="11943" type="image/jpeg"/>
       <pubDate>Wed, 13 Jul 2022 14:15:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grouper - Poison Tree (1 play)</title>
+      <link>https://www.last.fm/music/Grouper/_/Poison+Tree</link>
+      <guid isPermaLink="false">TalonsOfFire-1657899667--7e571e09-887e-4544-b993-eb75e7837ec1---Poison Tree</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7f1f300efa3c631993990d61fa85343.jpg" length="33214" type="image/jpeg"/>
+      <pubDate>Fri, 15 Jul 2022 11:41:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
