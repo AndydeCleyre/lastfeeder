@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Jul 2022 10:46:19 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Apples and Oranges (3 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Apples+and+Oranges</link>
-      <guid isPermaLink="false">Frippertron-1658121622--83d91898-7763-47d7-b03b-b92132375c47---Apples and Oranges</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/495b50731f724667968bbe9ba8a921e7.png" length="180533" type="image/png"/>
-      <pubDate>Mon, 18 Jul 2022 01:20:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Jul 2022 11:18:28 +0000</lastBuildDate>
     <item>
       <title>The Style Council - Changing Of The Guard (51 plays)</title>
       <link>https://www.last.fm/music/The+Style+Council/_/Changing+Of+The+Guard</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1658140772--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Sons Of 1984</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6623040f9b7d4140c1e553007e082281.jpg" length="21065" type="image/jpeg"/>
       <pubDate>Mon, 18 Jul 2022 06:39:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Roundabout (76 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Roundabout</link>
+      <guid isPermaLink="false">Frippertron-1658141046--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Roundabout</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
+      <pubDate>Mon, 18 Jul 2022 06:44:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
