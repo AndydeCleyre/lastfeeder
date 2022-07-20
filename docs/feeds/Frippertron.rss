@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Jul 2022 10:56:30 +0000</lastBuildDate>
-    <item>
-      <title>XTC - Heatwave (2 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/Heatwave</link>
-      <guid isPermaLink="false">Frippertron-1658295870--97c86b2c-2765-46a2-aef8-76a7e24c430f---Heatwave</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4f4fe41c37f4f03cfb2cf4110edc1c6.png" length="90247" type="image/png"/>
-      <pubDate>Wed, 20 Jul 2022 01:44:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Jul 2022 17:38:15 +0000</lastBuildDate>
     <item>
       <title>XTC - Traffic Light Rock (2 plays)</title>
       <link>https://www.last.fm/music/XTC/_/Traffic+Light+Rock</link>
@@ -289,7 +282,7 @@
       <pubDate>Wed, 20 Jul 2022 05:59:38 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - Eat Men Eat (41 plays)</title>
+      <title>black midi - Eat Men Eat (42 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Eat+Men+Eat</link>
       <guid isPermaLink="false">Frippertron-1658311409--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Eat Men Eat</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1658313818--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Despair</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 20 Jul 2022 06:43:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Eat Men Eat (42 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Eat+Men+Eat</link>
+      <guid isPermaLink="false">Frippertron-1658337964--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Eat Men Eat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb46da457eb033e3805e551cf77baadd.jpg" length="16922" type="image/jpeg"/>
+      <pubDate>Wed, 20 Jul 2022 13:26:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
