@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Jul 2022 14:31:27 +0000</lastBuildDate>
-    <item>
-      <title>Bonobo - Break Apart (3 plays)</title>
-      <link>https://www.last.fm/music/Bonobo/_/Break+Apart</link>
-      <guid isPermaLink="false">TalonsOfFire-1657578991--9a709693-b4f8-4da9-8cc1-038c911a61be---Break Apart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c38acf497e651c79a0a1747b96fab6f.png" length="191389" type="image/png"/>
-      <pubDate>Mon, 11 Jul 2022 18:36:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elliott Smith - Needle in the Hay (2 plays)</title>
-      <link>https://www.last.fm/music/Elliott+Smith/_/Needle+in+the+Hay</link>
-      <guid isPermaLink="false">TalonsOfFire-1657634882--03ad1736-b7c9-412a-b442-82536d63a5c4---Needle in the Hay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/317edcca0a0a4c70b002a73b30cc1dc4.png" length="156481" type="image/png"/>
-      <pubDate>Tue, 12 Jul 2022 10:08:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Jul 2022 14:52:21 +0000</lastBuildDate>
     <item>
       <title>Brian Eno - Stars - Remastered 2005 (1 play)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/Stars+-+Remastered+2005</link>
@@ -247,11 +233,18 @@
       <pubDate>Tue, 12 Jul 2022 18:01:01 -0400</pubDate>
     </item>
     <item>
-      <title>mewithoutYou - A Glass Can Only Spill What It Contains (3 plays)</title>
+      <title>mewithoutYou - A Glass Can Only Spill What It Contains (4 plays)</title>
       <link>https://www.last.fm/music/mewithoutYou/_/A+Glass+Can+Only+Spill+What+It+Contains</link>
       <guid isPermaLink="false">TalonsOfFire-1657663738--759b5ff1-91fe-4ec9-b9b7-75b7b2ceb283---A Glass Can Only Spill What It Contains</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58f449bc353d53bd7f08702f88f131cd.jpg" length="38033" type="image/jpeg"/>
       <pubDate>Tue, 12 Jul 2022 18:08:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>mewithoutYou - A Glass Can Only Spill What It Contains (4 plays)</title>
+      <link>https://www.last.fm/music/mewithoutYou/_/A+Glass+Can+Only+Spill+What+It+Contains</link>
+      <guid isPermaLink="false">TalonsOfFire-1657663963--759b5ff1-91fe-4ec9-b9b7-75b7b2ceb283---A Glass Can Only Spill What It Contains</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58f449bc353d53bd7f08702f88f131cd.jpg" length="38033" type="image/jpeg"/>
+      <pubDate>Tue, 12 Jul 2022 18:12:43 -0400</pubDate>
     </item>
     <item>
       <title>Kate Bush - Breathing (2 plays)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1658327237--2f0c6064-1503-4a69-a580-9da411985772---Shadows of Moonlit Nights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3eb067ce695d07ab1f1dd52c75910b4b.jpg" length="28221" type="image/jpeg"/>
       <pubDate>Wed, 20 Jul 2022 10:27:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kate Bush - Lake Tahoe (6 plays)</title>
+      <link>https://www.last.fm/music/Kate+Bush/_/Lake+Tahoe</link>
+      <guid isPermaLink="false">TalonsOfFire-1658327473--4b585938-f271-45e2-b19a-91c634b5e396---Lake Tahoe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26cb585303740c77b81fd990a3973bde.jpg" length="17878" type="image/jpeg"/>
+      <pubDate>Wed, 20 Jul 2022 10:31:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
