@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Jul 2022 06:53:32 +0000</lastBuildDate>
-    <item>
-      <title>Gary Moore - Nowhere Fast (7 plays)</title>
-      <link>https://www.last.fm/music/Gary+Moore/_/Nowhere+Fast</link>
-      <guid isPermaLink="false">manosg--1658300844--a8806b5c-3ee0-4277-94d3-1a5427a7707c---Nowhere Fast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8aaf17b3a6894bb4bc730f615c820420.jpg" length="19791" type="image/jpeg"/>
-      <pubDate>Wed, 20 Jul 2022 03:07:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Jul 2022 07:19:36 +0000</lastBuildDate>
     <item>
       <title>Thin Lizzy - Do Anything You Want To (3 plays)</title>
       <link>https://www.last.fm/music/Thin+Lizzy/_/Do+Anything+You+Want+To</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1658386042--Rainbow---L.A. Connection</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa4c7b53cda4b2720c0d58c31602a971.jpg" length="30818" type="image/jpeg"/>
       <pubDate>Thu, 21 Jul 2022 02:47:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Gates of Babylon (12 plays)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Gates+of+Babylon</link>
+      <guid isPermaLink="false">manosg--1658386341--Rainbow---Gates of Babylon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa4c7b53cda4b2720c0d58c31602a971.jpg" length="30818" type="image/jpeg"/>
+      <pubDate>Thu, 21 Jul 2022 02:52:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
