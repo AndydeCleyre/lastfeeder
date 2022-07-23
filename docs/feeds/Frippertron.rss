@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Jul 2022 21:52:52 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Helter Skelter (32 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Helter+Skelter</link>
-      <guid isPermaLink="false">Frippertron-1658485250--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Helter Skelter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e17c97cccf44f7a85bb6c1c4029c0c9.png" length="3460" type="image/png"/>
-      <pubDate>Fri, 22 Jul 2022 06:20:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - Hey Jude (29 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Hey+Jude</link>
-      <guid isPermaLink="false">Frippertron-1658485487--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Hey Jude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e17c97cccf44f7a85bb6c1c4029c0c9.png" length="3460" type="image/png"/>
-      <pubDate>Fri, 22 Jul 2022 06:24:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>black midi - Talking Heads (56 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Talking+Heads</link>
-      <guid isPermaLink="false">Frippertron-1658485854--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Talking Heads</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 22 Jul 2022 06:30:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Jul 2022 22:20:09 +0000</lastBuildDate>
     <item>
       <title>black midi - Despair (37 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Despair</link>
@@ -37,7 +16,7 @@
       <pubDate>Fri, 22 Jul 2022 06:34:00 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - Crow's Perch (21 plays)</title>
+      <title>black midi - Crow's Perch (22 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Crow%27s+Perch</link>
       <guid isPermaLink="false">Frippertron-1658486255--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Crow's Perch</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1658612122--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ascending Forth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
       <pubDate>Sat, 23 Jul 2022 17:35:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Crow's Perch (22 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Crow%27s+Perch</link>
+      <guid isPermaLink="false">Frippertron-1658613819--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Crow's Perch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 23 Jul 2022 18:03:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Cruising (6 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Cruising</link>
+      <guid isPermaLink="false">Frippertron-1658614067--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Cruising</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 23 Jul 2022 18:07:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Dangerous Liaisons (34 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Dangerous+Liaisons</link>
+      <guid isPermaLink="false">Frippertron-1658614464--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Dangerous Liaisons</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
+      <pubDate>Sat, 23 Jul 2022 18:14:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
