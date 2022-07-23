@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Jul 2022 20:43:01 +0000</lastBuildDate>
-    <item>
-      <title>black midi - Welcome to Hell (133 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Welcome+to+Hell</link>
-      <guid isPermaLink="false">Frippertron-1658482517--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Welcome to Hell</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a33696e9e7e4e838b4050ced65372a3.jpg" length="27178" type="image/jpeg"/>
-      <pubDate>Fri, 22 Jul 2022 05:35:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>black midi - Chondromalacia Patella (72 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Chondromalacia+Patella</link>
-      <guid isPermaLink="false">Frippertron-1658482787--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Chondromalacia Patella</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a33696e9e7e4e838b4050ced65372a3.jpg" length="27178" type="image/jpeg"/>
-      <pubDate>Fri, 22 Jul 2022 05:39:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Jul 2022 20:54:47 +0000</lastBuildDate>
     <item>
       <title>black midi - Near DT, MI (85 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Near+DT,+MI</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1658608578--Lou Reed---Power &amp; Glory (The Situation)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa573bdda2bf49b5c94b6e264d6d9bef.png" length="209126" type="image/png"/>
       <pubDate>Sat, 23 Jul 2022 16:36:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lou Reed - Magician (Internally) (8 plays)</title>
+      <link>https://www.last.fm/music/Lou+Reed/_/Magician+(Internally)</link>
+      <guid isPermaLink="false">Frippertron-1658608842--9d1ebcfe-4c15-4d18-95d3-d919898638a1---Magician (Internally)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa573bdda2bf49b5c94b6e264d6d9bef.png" length="209126" type="image/png"/>
+      <pubDate>Sat, 23 Jul 2022 16:40:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lou Reed - Sword Of Damocles (Externally) (6 plays)</title>
+      <link>https://www.last.fm/music/Lou+Reed/_/Sword+Of+Damocles+(Externally)</link>
+      <guid isPermaLink="false">Frippertron-1658609228--9d1ebcfe-4c15-4d18-95d3-d919898638a1---Sword Of Damocles (Externally)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa573bdda2bf49b5c94b6e264d6d9bef.png" length="209126" type="image/png"/>
+      <pubDate>Sat, 23 Jul 2022 16:47:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
