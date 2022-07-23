@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Jul 2022 19:17:49 +0000</lastBuildDate>
-    <item>
-      <title>Snowy Red - I'm hurt (40 plays)</title>
-      <link>https://www.last.fm/music/Snowy+Red/_/I%27m+hurt</link>
-      <guid isPermaLink="false">Frippertron-1658477437--32e92235-e251-442b-b7e5-caea84e3b01d---I'm hurt</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d8e24a2642841c5a4d58ea3b8ab6064.png" length="111010" type="image/png"/>
-      <pubDate>Fri, 22 Jul 2022 04:10:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - The Next Day (53 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Next+Day</link>
-      <guid isPermaLink="false">Frippertron-1658477621--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Next Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/607135eae4e07c150bd6f6fc40b4a41f.jpg" length="11890" type="image/jpeg"/>
-      <pubDate>Fri, 22 Jul 2022 04:13:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>XTC - Train Running Low on Soul Coal (10 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/Train+Running+Low+on+Soul+Coal</link>
-      <guid isPermaLink="false">Frippertron-1658478028--97c86b2c-2765-46a2-aef8-76a7e24c430f---Train Running Low on Soul Coal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19e8c9e1979e486c8117278e8bc7d225.png" length="160075" type="image/png"/>
-      <pubDate>Fri, 22 Jul 2022 04:20:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Jul 2022 19:52:35 +0000</lastBuildDate>
     <item>
       <title>XTC - Wonderland (11 plays)</title>
       <link>https://www.last.fm/music/XTC/_/Wonderland</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1658602499--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---Ocean</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b98b14860bbd2ba90e7f65455ba5003a.png" length="206790" type="image/png"/>
       <pubDate>Sat, 23 Jul 2022 14:54:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Velvet Underground - Sister Ray (25 plays)</title>
+      <link>https://www.last.fm/music/The+Velvet+Underground/_/Sister+Ray</link>
+      <guid isPermaLink="false">Frippertron-1658604713--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---Sister Ray</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b98b14860bbd2ba90e7f65455ba5003a.png" length="206790" type="image/png"/>
+      <pubDate>Sat, 23 Jul 2022 15:31:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lou Reed - Berlin (56 plays)</title>
+      <link>https://www.last.fm/music/Lou+Reed/_/Berlin</link>
+      <guid isPermaLink="false">Frippertron-1658605337--9d1ebcfe-4c15-4d18-95d3-d919898638a1---Berlin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95aae05a48e848be8ce3b4896ea9bfe4.png" length="181751" type="image/png"/>
+      <pubDate>Sat, 23 Jul 2022 15:42:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lou Reed - Lady Day (36 plays)</title>
+      <link>https://www.last.fm/music/Lou+Reed/_/Lady+Day</link>
+      <guid isPermaLink="false">Frippertron-1658605544--9d1ebcfe-4c15-4d18-95d3-d919898638a1---Lady Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95aae05a48e848be8ce3b4896ea9bfe4.png" length="181751" type="image/png"/>
+      <pubDate>Sat, 23 Jul 2022 15:45:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
