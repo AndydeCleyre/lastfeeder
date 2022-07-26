@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Jul 2022 15:47:53 +0000</lastBuildDate>
-    <item>
-      <title>Metallica - Escape (Remastered) (1 play)</title>
-      <link>https://www.last.fm/music/Metallica/_/Escape+(Remastered)</link>
-      <guid isPermaLink="false">rockijosh-1658747350--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Escape (Remastered)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d45fcfe3d94af0cc9f2405612c12a88.jpg" length="20740" type="image/jpeg"/>
-      <pubDate>Mon, 25 Jul 2022 07:09:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Jul 2022 16:31:01 +0000</lastBuildDate>
     <item>
       <title>Metallica - Creeping Death (Remastered) (1 play)</title>
       <link>https://www.last.fm/music/Metallica/_/Creeping+Death+(Remastered)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1658848976--aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634---Texas Sun</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f8018f1bd85d104d0000947692cdf6c.jpg" length="25603" type="image/jpeg"/>
       <pubDate>Tue, 26 Jul 2022 11:22:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Brand New - Seventy Times 7 (254 plays)</title>
+      <link>https://www.last.fm/music/Brand+New/_/Seventy+Times+7</link>
+      <guid isPermaLink="false">rockijosh-1658850480--Brand New---Seventy Times 7</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de6d1e8e9bb940d6c058f0b5a6a6c591.png" length="65782" type="image/png"/>
+      <pubDate>Tue, 26 Jul 2022 11:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
