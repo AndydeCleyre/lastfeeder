@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Jul 2022 19:38:15 +0000</lastBuildDate>
-    <item>
-      <title>Steven Universe - Something Entirely New (feat. Erica Luttrell &amp; Charlyne Yi) (42 plays)</title>
-      <link>https://www.last.fm/music/Steven+Universe/_/Something+Entirely+New+(feat.+Erica+Luttrell+&amp;+Charlyne+Yi)</link>
-      <guid isPermaLink="false">evilgnomeandy-1658068831--2ddf7a90-4f47-46b4-8ecc-a9743a1ab37b---Something Entirely New (feat. Erica Luttrell &amp; Charlyne Yi)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c085b052d051ae544eebbab0b3d571ae.jpg" length="17688" type="image/jpeg"/>
-      <pubDate>Sun, 17 Jul 2022 10:40:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steven Universe - What Can I Do (For You) [feat. Susan Egan &amp; Tom Scharpling] (26 plays)</title>
-      <link>https://www.last.fm/music/Steven+Universe/_/What+Can+I+Do+(For+You)+%5Bfeat.+Susan+Egan+&amp;+Tom+Scharpling%5D</link>
-      <guid isPermaLink="false">evilgnomeandy-1658068940--2ddf7a90-4f47-46b4-8ecc-a9743a1ab37b---What Can I Do (For You) [feat. Susan Egan &amp; Tom Scharpling]</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c085b052d051ae544eebbab0b3d571ae.jpg" length="17688" type="image/jpeg"/>
-      <pubDate>Sun, 17 Jul 2022 10:42:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 Jul 2022 19:52:35 +0000</lastBuildDate>
     <item>
       <title>Steven Universe - Be Wherever You Are (feat. Zach Callison) (23 plays)</title>
       <link>https://www.last.fm/music/Steven+Universe/_/Be+Wherever+You+Are+(feat.+Zach+Callison)</link>
@@ -173,12 +159,14 @@
       <title>Newen Afrobeat - Rojo Carmín (3 plays)</title>
       <link>https://www.last.fm/music/Newen+Afrobeat/_/Rojo+Carm%C3%ADn</link>
       <guid isPermaLink="false">evilgnomeandy-1658331232--e9f34d84-4b44-43d2-a2a2-00f5c235a2c1---Rojo Carmín</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fbaaab27830e85d3462d703fc8c09b2f.jpg" length="21810" type="image/jpeg"/>
       <pubDate>Wed, 20 Jul 2022 11:33:52 -0400</pubDate>
     </item>
     <item>
       <title>Taggy Matcher - Two Dimes (2 plays)</title>
       <link>https://www.last.fm/music/Taggy+Matcher/_/Two+Dimes</link>
       <guid isPermaLink="false">evilgnomeandy-1658331530--Taggy Matcher---Two Dimes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35b7db865f10df043e916f645952712c.jpg" length="26806" type="image/jpeg"/>
       <pubDate>Wed, 20 Jul 2022 11:38:50 -0400</pubDate>
     </item>
     <item>
@@ -353,7 +341,22 @@
       <title>Kelley Stoltz - Dodged a Bullet (3 plays)</title>
       <link>https://www.last.fm/music/Kelley+Stoltz/_/Dodged+a+Bullet</link>
       <guid isPermaLink="false">evilgnomeandy-1659208777--c4c8675e-f8dc-4313-b430-8fbc83d8aafc---Dodged a Bullet</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e7bba477ea6742291f146f3a7cd32bb.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Sat, 30 Jul 2022 15:19:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Devendra Banhart - Franklin's Tower (4 plays)</title>
+      <link>https://www.last.fm/music/Devendra+Banhart/_/Franklin%27s+Tower</link>
+      <guid isPermaLink="false">evilgnomeandy-1659209007--0110e63e-0a9b-4818-af8e-41e180c20b9a---Franklin's Tower</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3cc740df2ec12666cb27cbd8aa7d1b8.jpg" length="23061" type="image/jpeg"/>
+      <pubDate>Sat, 30 Jul 2022 15:23:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Doors - When the Music's Over (37 plays)</title>
+      <link>https://www.last.fm/music/The+Doors/_/When+the+Music%27s+Over</link>
+      <guid isPermaLink="false">evilgnomeandy-1659209985--9efff43b-3b29-4082-824e-bc82f646f93d---When the Music's Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4a3df5139914c5190350c0e1c59094b.png" length="232933" type="image/png"/>
+      <pubDate>Sat, 30 Jul 2022 15:39:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
