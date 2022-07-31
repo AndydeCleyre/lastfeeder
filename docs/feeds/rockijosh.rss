@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Jul 2022 20:41:59 +0000</lastBuildDate>
-    <item>
-      <title>Emery - The Smile, The Face (204 plays)</title>
-      <link>https://www.last.fm/music/Emery/_/The+Smile,+The+Face</link>
-      <guid isPermaLink="false">rockijosh-1659110427--6b22de04-fb48-44aa-bd02-c1427f635477---The Smile, The Face</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/714a3b55723a45e38fda9c4aa5bd508d.png" length="203745" type="image/png"/>
-      <pubDate>Fri, 29 Jul 2022 12:00:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Emery - A Sin To Hold On To (115 plays)</title>
-      <link>https://www.last.fm/music/Emery/_/A+Sin+To+Hold+On+To</link>
-      <guid isPermaLink="false">rockijosh-1659110586--6b22de04-fb48-44aa-bd02-c1427f635477---A Sin To Hold On To</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/714a3b55723a45e38fda9c4aa5bd508d.png" length="203745" type="image/png"/>
-      <pubDate>Fri, 29 Jul 2022 12:03:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Emery - Piggy Bank Lies (126 plays)</title>
-      <link>https://www.last.fm/music/Emery/_/Piggy+Bank+Lies</link>
-      <guid isPermaLink="false">rockijosh-1659110757--6b22de04-fb48-44aa-bd02-c1427f635477---Piggy Bank Lies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/714a3b55723a45e38fda9c4aa5bd508d.png" length="203745" type="image/png"/>
-      <pubDate>Fri, 29 Jul 2022 12:05:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Jul 2022 20:53:48 +0000</lastBuildDate>
     <item>
       <title>Emery - Edge of the World (106 plays)</title>
       <link>https://www.last.fm/music/Emery/_/Edge+of+the+World</link>
@@ -229,7 +208,6 @@
       <title>Emery - Closed Eyes, Open Hands (2 plays)</title>
       <link>https://www.last.fm/music/Emery/_/Closed+Eyes,+Open+Hands</link>
       <guid isPermaLink="false">rockijosh-1659116613--6b22de04-fb48-44aa-bd02-c1427f635477---Closed Eyes, Open Hands</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/714a3b55723a45e38fda9c4aa5bd508d.png" length="203745" type="image/png"/>
       <pubDate>Fri, 29 Jul 2022 13:43:33 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">rockijosh-1659299704--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Paradise Motion</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1971cb3297755dea66072a5c31b42ce.jpg" length="14788" type="image/jpeg"/>
       <pubDate>Sun, 31 Jul 2022 16:35:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Charlotte Cardin - Anyone Who Loves Me (28 plays)</title>
+      <link>https://www.last.fm/music/Charlotte+Cardin/_/Anyone+Who+Loves+Me</link>
+      <guid isPermaLink="false">rockijosh-1659299918--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Anyone Who Loves Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ca533f37f878d1aeb8cf4a13c2b8335.jpg" length="5608" type="image/jpeg"/>
+      <pubDate>Sun, 31 Jul 2022 16:38:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Charlotte Cardin - Sex to Me (10 plays)</title>
+      <link>https://www.last.fm/music/Charlotte+Cardin/_/Sex+to+Me</link>
+      <guid isPermaLink="false">rockijosh-1659300154--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Sex to Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ca533f37f878d1aeb8cf4a13c2b8335.jpg" length="5608" type="image/jpeg"/>
+      <pubDate>Sun, 31 Jul 2022 16:42:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dinos - Memento Interlude (1 play)</title>
+      <link>https://www.last.fm/music/Dinos/_/Memento+Interlude</link>
+      <guid isPermaLink="false">rockijosh-1659300371--ee782f62-1bdb-4a0b-8fc4-3bf2a8c1f979---Memento Interlude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29b4e65e2c002913b301f7bfc772aba5.jpg" length="12312" type="image/jpeg"/>
+      <pubDate>Sun, 31 Jul 2022 16:46:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
