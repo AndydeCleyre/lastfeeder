@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Aug 2022 06:18:53 +0000</lastBuildDate>
-    <item>
-      <title>Lou Reed - Heavenly Arms (12 plays)</title>
-      <link>https://www.last.fm/music/Lou+Reed/_/Heavenly+Arms</link>
-      <guid isPermaLink="false">Frippertron-1659088901--9d1ebcfe-4c15-4d18-95d3-d919898638a1---Heavenly Arms</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb0a8a2f889040b5a84d90329dd1b661.png" length="39050" type="image/png"/>
-      <pubDate>Fri, 29 Jul 2022 06:01:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Aug 2022 07:02:07 +0000</lastBuildDate>
     <item>
       <title>Lou Reed - Berlin (62 plays)</title>
       <link>https://www.last.fm/music/Lou+Reed/_/Berlin</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1659333489--9efff43b-3b29-4082-824e-bc82f646f93d---Waiting for the Sun</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/165e99fa95176be09226f56b0e9a97d5.jpg" length="27795" type="image/jpeg"/>
       <pubDate>Mon, 01 Aug 2022 01:58:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Doors - Peace Frog (14 plays)</title>
+      <link>https://www.last.fm/music/The+Doors/_/Peace+Frog</link>
+      <guid isPermaLink="false">Frippertron-1659333755--9efff43b-3b29-4082-824e-bc82f646f93d---Peace Frog</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/165e99fa95176be09226f56b0e9a97d5.jpg" length="27795" type="image/jpeg"/>
+      <pubDate>Mon, 01 Aug 2022 02:02:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
