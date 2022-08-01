@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Jul 2022 16:28:15 +0000</lastBuildDate>
-    <item>
-      <title>Agoria - 3 Letters (3 plays)</title>
-      <link>https://www.last.fm/music/Agoria/_/3+Letters</link>
-      <guid isPermaLink="false">ddgromit-1658517810--90ba97be-5daf-4365-8704-9a74b780591b---3 Letters</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa2a30e2af0e707bdb5be34e2943e216.jpg" length="17518" type="image/jpeg"/>
-      <pubDate>Fri, 22 Jul 2022 15:23:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joesef - Thinking of You (Spotify Singles) (8 plays)</title>
-      <link>https://www.last.fm/music/Joesef/_/Thinking+of+You+(Spotify+Singles)</link>
-      <guid isPermaLink="false">ddgromit-1658546731--a5417f85-a2ef-4112-bc86-ddc7f415422f---Thinking of You (Spotify Singles)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1111138db25f24540b1d8162ac26cbf7.jpg" length="17822" type="image/jpeg"/>
-      <pubDate>Fri, 22 Jul 2022 23:25:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Les Gordon - L.E.D (1 play)</title>
-      <link>https://www.last.fm/music/Les+Gordon/_/L.E.D</link>
-      <guid isPermaLink="false">ddgromit-1658553890--02e5ab4c-7391-4614-ab0f-961b155c5887---L.E.D</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a3343058879858f8cdad68767e3c269.jpg" length="21926" type="image/jpeg"/>
-      <pubDate>Sat, 23 Jul 2022 01:24:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Les Gordon - Lantern (Radio Edit) (2 plays)</title>
-      <link>https://www.last.fm/music/Les+Gordon/_/Lantern+(Radio+Edit)</link>
-      <guid isPermaLink="false">ddgromit-1658554064--02e5ab4c-7391-4614-ab0f-961b155c5887---Lantern (Radio Edit)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9200ca548154118045625c0bba02b8e2.jpg" length="19181" type="image/jpeg"/>
-      <pubDate>Sat, 23 Jul 2022 01:27:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Billy Bragg - California Stars (1 play)</title>
-      <link>https://www.last.fm/music/Billy+Bragg/_/California+Stars</link>
-      <guid isPermaLink="false">ddgromit-1658770849--7cec4a03-0a83-4308-856a-afb8aa5db0fc---California Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f5a7e39217842d9a1566259cb7822a7.jpg" length="31103" type="image/jpeg"/>
-      <pubDate>Mon, 25 Jul 2022 13:40:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wilco - Spiders (Kidsmoke) (3 plays)</title>
-      <link>https://www.last.fm/music/Wilco/_/Spiders+(Kidsmoke)</link>
-      <guid isPermaLink="false">ddgromit-1658853832--9e53f84d-ef44-4c16-9677-5fd4d78cbd7d---Spiders (Kidsmoke)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7eb1cb2208934b54cb18c22e1cba2ba5.jpg" length="5110" type="image/jpeg"/>
-      <pubDate>Tue, 26 Jul 2022 12:43:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>tobi lou - Smiling at My Phone (3 plays)</title>
-      <link>https://www.last.fm/music/tobi+lou/_/Smiling+at+My+Phone</link>
-      <guid isPermaLink="false">ddgromit-1658854473--122a8e96-52f5-48aa-8944-44807dbcef45---Smiling at My Phone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/034d913791ca83c25fbd8a3d7d0fd548.jpg" length="18371" type="image/jpeg"/>
-      <pubDate>Tue, 26 Jul 2022 12:54:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Les Gordon - Paradise (1 play)</title>
-      <link>https://www.last.fm/music/Les+Gordon/_/Paradise</link>
-      <guid isPermaLink="false">ddgromit-1658864992--02e5ab4c-7391-4614-ab0f-961b155c5887---Paradise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f2475941a82834b4e55a82307fd6b6d.jpg" length="14366" type="image/jpeg"/>
-      <pubDate>Tue, 26 Jul 2022 15:49:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Les Gordon - Visions (1 play)</title>
-      <link>https://www.last.fm/music/Les+Gordon/_/Visions</link>
-      <guid isPermaLink="false">ddgromit-1658865172--02e5ab4c-7391-4614-ab0f-961b155c5887---Visions</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f791e8b946fb688c4747a1569987b6f3.jpg" length="9731" type="image/jpeg"/>
-      <pubDate>Tue, 26 Jul 2022 15:52:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Aug 2022 16:33:30 +0000</lastBuildDate>
     <item>
       <title>Les Gordon - Lolita Lélé (feat. Batuk) (2 plays)</title>
       <link>https://www.last.fm/music/Les+Gordon/_/Lolita+L%C3%A9l%C3%A9+(feat.+Batuk)</link>
@@ -348,7 +285,6 @@
       <title>Holy Ghost! - Bridge &amp; Tunnel - Prins Thomas Diskomiks (7 plays)</title>
       <link>https://www.last.fm/music/Holy+Ghost!/_/Bridge+&amp;+Tunnel+-+Prins+Thomas+Diskomiks</link>
       <guid isPermaLink="false">ddgromit-1658883611--Holy Ghost!---Bridge &amp; Tunnel - Prins Thomas Diskomiks</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7485cc421714173c1da2cdd0f405719.png" length="35118" type="image/png"/>
       <pubDate>Tue, 26 Jul 2022 21:00:11 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +293,69 @@
       <guid isPermaLink="false">ddgromit-1659133194--Reyanna Maria---So Pretty</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1105b6e0c3c5730f149e3d37e21c39ae.jpg" length="18191" type="image/jpeg"/>
       <pubDate>Fri, 29 Jul 2022 18:19:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Blacklite District - Cold as Ice (The Remake) (1 play)</title>
+      <link>https://www.last.fm/music/Blacklite+District/_/Cold+as+Ice+(The+Remake)</link>
+      <guid isPermaLink="false">ddgromit-1659198906--ada129b0-7445-4fe0-853d-daedeac3739f---Cold as Ice (The Remake)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e8838733c3cc43da9a9b37a185aa6a69.jpg" length="19927" type="image/jpeg"/>
+      <pubDate>Sat, 30 Jul 2022 12:35:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Harry Styles - As It Was (1 play)</title>
+      <link>https://www.last.fm/music/Harry+Styles/_/As+It+Was</link>
+      <guid isPermaLink="false">ddgromit-1659369968--7eb1ce54-a355-41f9-8d68-e018b096d427---As It Was</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg" length="11800" type="image/jpeg"/>
+      <pubDate>Mon, 01 Aug 2022 12:06:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Harry Styles - Late Night Talking (1 play)</title>
+      <link>https://www.last.fm/music/Harry+Styles/_/Late+Night+Talking</link>
+      <guid isPermaLink="false">ddgromit-1659370137--7eb1ce54-a355-41f9-8d68-e018b096d427---Late Night Talking</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg" length="11800" type="image/jpeg"/>
+      <pubDate>Mon, 01 Aug 2022 12:08:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Harry Styles - Watermelon Sugar (5 plays)</title>
+      <link>https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar</link>
+      <guid isPermaLink="false">ddgromit-1659370315--7eb1ce54-a355-41f9-8d68-e018b096d427---Watermelon Sugar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7de796d102c513bc59f75f7e8850b84a.jpg" length="14118" type="image/jpeg"/>
+      <pubDate>Mon, 01 Aug 2022 12:11:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Harry Styles - Music for a sushi restaurant (1 play)</title>
+      <link>https://www.last.fm/music/Harry+Styles/_/Music+for+a+sushi+restaurant</link>
+      <guid isPermaLink="false">ddgromit-1659370489--7eb1ce54-a355-41f9-8d68-e018b096d427---Music for a sushi restaurant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg" length="11800" type="image/jpeg"/>
+      <pubDate>Mon, 01 Aug 2022 12:14:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Harry Styles - Matilda (1 play)</title>
+      <link>https://www.last.fm/music/Harry+Styles/_/Matilda</link>
+      <guid isPermaLink="false">ddgromit-1659370683--7eb1ce54-a355-41f9-8d68-e018b096d427---Matilda</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg" length="11800" type="image/jpeg"/>
+      <pubDate>Mon, 01 Aug 2022 12:18:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Harry Styles - Adore You (11 plays)</title>
+      <link>https://www.last.fm/music/Harry+Styles/_/Adore+You</link>
+      <guid isPermaLink="false">ddgromit-1659370929--7eb1ce54-a355-41f9-8d68-e018b096d427---Adore You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7de796d102c513bc59f75f7e8850b84a.jpg" length="14118" type="image/jpeg"/>
+      <pubDate>Mon, 01 Aug 2022 12:22:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Harry Styles - Daylight (1 play)</title>
+      <link>https://www.last.fm/music/Harry+Styles/_/Daylight</link>
+      <guid isPermaLink="false">ddgromit-1659371136--7eb1ce54-a355-41f9-8d68-e018b096d427---Daylight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg" length="11800" type="image/jpeg"/>
+      <pubDate>Mon, 01 Aug 2022 12:25:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Harry Styles - Golden (1 play)</title>
+      <link>https://www.last.fm/music/Harry+Styles/_/Golden</link>
+      <guid isPermaLink="false">ddgromit-1659371300--7eb1ce54-a355-41f9-8d68-e018b096d427---Golden</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7de796d102c513bc59f75f7e8850b84a.jpg" length="14118" type="image/jpeg"/>
+      <pubDate>Mon, 01 Aug 2022 12:28:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
