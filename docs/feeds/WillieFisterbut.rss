@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Aug 2022 17:26:33 +0000</lastBuildDate>
-    <item>
-      <title>CHVRCHES - Good Girls (51 plays)</title>
-      <link>https://www.last.fm/music/CHVRCHES/_/Good+Girls</link>
-      <guid isPermaLink="false">WillieFisterbut-1659462764--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Good Girls</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9a1347fe5731ec790aef9d59a7f1b30.jpg" length="10071" type="image/jpeg"/>
-      <pubDate>Tue, 02 Aug 2022 13:52:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Aug 2022 17:43:38 +0000</lastBuildDate>
     <item>
       <title>CHVRCHES - Lullabies (42 plays)</title>
       <link>https://www.last.fm/music/CHVRCHES/_/Lullabies</link>
@@ -275,7 +268,7 @@
       <pubDate>Wed, 03 Aug 2022 12:07:23 -0400</pubDate>
     </item>
     <item>
-      <title>A-Z - The Machine Gunner (2 plays)</title>
+      <title>A-Z - The Machine Gunner (3 plays)</title>
       <link>https://www.last.fm/music/A-Z/_/The+Machine+Gunner</link>
       <guid isPermaLink="false">WillieFisterbut-1659543195--A-Z---The Machine Gunner</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">WillieFisterbut-1659546672--A-Z---The Far Side of the Horizon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
       <pubDate>Wed, 03 Aug 2022 13:11:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>A-Z - The Machine Gunner (3 plays)</title>
+      <link>https://www.last.fm/music/A-Z/_/The+Machine+Gunner</link>
+      <guid isPermaLink="false">WillieFisterbut-1659548276--A-Z---The Machine Gunner</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
+      <pubDate>Wed, 03 Aug 2022 13:37:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
