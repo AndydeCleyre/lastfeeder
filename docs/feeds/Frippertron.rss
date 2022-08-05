@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Aug 2022 07:39:50 +0000</lastBuildDate>
-    <item>
-      <title>The Rolling Stones - Miss You (5 plays)</title>
-      <link>https://www.last.fm/music/The+Rolling+Stones/_/Miss+You</link>
-      <guid isPermaLink="false">Frippertron-1659609099--b071f9fa-14b0-4217-8e97-eb41da73f598---Miss You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90825b5499e74108c13b218a2df64246.png" length="206010" type="image/png"/>
-      <pubDate>Thu, 04 Aug 2022 06:31:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Rolling Stones - When the Whip Comes Down (4 plays)</title>
-      <link>https://www.last.fm/music/The+Rolling+Stones/_/When+the+Whip+Comes+Down</link>
-      <guid isPermaLink="false">Frippertron-1659609383--b071f9fa-14b0-4217-8e97-eb41da73f598---When the Whip Comes Down</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90825b5499e74108c13b218a2df64246.png" length="206010" type="image/png"/>
-      <pubDate>Thu, 04 Aug 2022 06:36:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Aug 2022 07:52:14 +0000</lastBuildDate>
     <item>
       <title>The Rolling Stones - Shattered (1 play)</title>
       <link>https://www.last.fm/music/The+Rolling+Stones/_/Shattered</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1659684904--c1d4f2ba-cf39-460c-9528-6b827d3417a1---No Opportunity Necessary, No Experience Needed</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2635348da5194f0db687d5606b62b2dd.jpg" length="18081" type="image/jpeg"/>
       <pubDate>Fri, 05 Aug 2022 03:35:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Then (45 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Then</link>
+      <guid isPermaLink="false">Frippertron-1659685197--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Then</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2635348da5194f0db687d5606b62b2dd.jpg" length="18081" type="image/jpeg"/>
+      <pubDate>Fri, 05 Aug 2022 03:39:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Everydays (13 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Everydays</link>
+      <guid isPermaLink="false">Frippertron-1659685548--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Everydays</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2635348da5194f0db687d5606b62b2dd.jpg" length="18081" type="image/jpeg"/>
+      <pubDate>Fri, 05 Aug 2022 03:45:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
