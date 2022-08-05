@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Aug 2022 02:02:04 +0000</lastBuildDate>
-    <item>
-      <title>Sam Cooke - Another Saturday Night (6 plays)</title>
-      <link>https://www.last.fm/music/Sam+Cooke/_/Another+Saturday+Night</link>
-      <guid isPermaLink="false">rockijosh-1659616231--6c8fd0be-d961-454c-aee0-4366a6dbc993---Another Saturday Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/902db5824ffec4a55670c9cab6d197c9.jpg" length="22848" type="image/jpeg"/>
-      <pubDate>Thu, 04 Aug 2022 08:30:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Aug 2022 19:17:50 +0000</lastBuildDate>
     <item>
       <title>Charli XCX - Used to Know Me (9 plays)</title>
       <link>https://www.last.fm/music/Charli+XCX/_/Used+to+Know+Me</link>
@@ -72,7 +65,7 @@
       <pubDate>Thu, 04 Aug 2022 09:59:38 -0400</pubDate>
     </item>
     <item>
-      <title>Metallica - For Whom The Bell Tolls (Remastered) (8 plays)</title>
+      <title>Metallica - For Whom The Bell Tolls (Remastered) (9 plays)</title>
       <link>https://www.last.fm/music/Metallica/_/For+Whom+The+Bell+Tolls+(Remastered)</link>
       <guid isPermaLink="false">rockijosh-1659621832--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---For Whom The Bell Tolls (Remastered)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a3d01247e7def5a86b35f7362526d3e.png" length="165350" type="image/png"/>
@@ -355,8 +348,14 @@
       <title>Gerry Cinnamon - Sometimes (8 plays)</title>
       <link>https://www.last.fm/music/Gerry+Cinnamon/_/Sometimes</link>
       <guid isPermaLink="false">rockijosh-1659664135--f5bbb328-6990-45ff-bb42-0dcb97d47ddf---Sometimes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3238548e237a4ce3ba1383a81d7994a5.jpg" length="11332" type="image/jpeg"/>
       <pubDate>Thu, 04 Aug 2022 21:48:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Metallica - For Whom The Bell Tolls (Remastered) (9 plays)</title>
+      <link>https://www.last.fm/music/Metallica/_/For+Whom+The+Bell+Tolls+(Remastered)</link>
+      <guid isPermaLink="false">rockijosh-1659664331--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---For Whom The Bell Tolls (Remastered)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a3d01247e7def5a86b35f7362526d3e.png" length="165350" type="image/png"/>
+      <pubDate>Thu, 04 Aug 2022 21:52:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
