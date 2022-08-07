@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Aug 2022 17:53:04 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - Badlands - Live at Madison Square Garden, New York, NY - 09/22/79 (4 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/Badlands+-+Live+at+Madison+Square+Garden,+New+York,+NY+-+09%2F22%2F79</link>
-      <guid isPermaLink="false">manosg--1659630794--Bruce Springsteen---Badlands - Live at Madison Square Garden, New York, NY - 09/22/79</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b869901a88032997125d247bc42a4bd.jpg" length="25408" type="image/jpeg"/>
-      <pubDate>Thu, 04 Aug 2022 12:33:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Aug 2022 18:25:25 +0000</lastBuildDate>
     <item>
       <title>Bruce Springsteen - The Promised Land - Live at Madison Square Garden, New York, NY - 09/22/79 (4 plays)</title>
       <link>https://www.last.fm/music/Bruce+Springsteen/_/The+Promised+Land+-+Live+at+Madison+Square+Garden,+New+York,+NY+-+09%2F22%2F79</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1659893531--Iron Maiden---Death of the Celts</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
       <pubDate>Sun, 07 Aug 2022 13:32:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - The Parchment (6 plays)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/The+Parchment</link>
+      <guid isPermaLink="false">manosg--1659894202--Iron Maiden---The Parchment</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
+      <pubDate>Sun, 07 Aug 2022 13:43:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
