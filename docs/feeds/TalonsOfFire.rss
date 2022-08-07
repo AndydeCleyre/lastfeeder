@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Aug 2022 02:08:31 +0000</lastBuildDate>
-    <item>
-      <title>Arcade Fire - Song On The Beach (3 plays)</title>
-      <link>https://www.last.fm/music/Arcade+Fire/_/Song+On+The+Beach</link>
-      <guid isPermaLink="false">TalonsOfFire-1659208431--52074ba6-e495-4ef3-9bb4-0703888a9f68---Song On The Beach</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e43e043dac6b4142c10dc403dec4773b.png" length="132940" type="image/png"/>
-      <pubDate>Sat, 30 Jul 2022 15:13:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Aug 2022 20:53:37 +0000</lastBuildDate>
     <item>
       <title>Tycho - Systems (2 plays)</title>
       <link>https://www.last.fm/music/Tycho/_/Systems</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1659826389--52074ba6-e495-4ef3-9bb4-0703888a9f68---Joan of Arc</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bc0ff68aeb8414897e6f0d13908fdd8.png" length="163053" type="image/png"/>
       <pubDate>Sat, 06 Aug 2022 18:53:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Sleeping Rough (2 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Sleeping+Rough</link>
+      <guid isPermaLink="false">TalonsOfFire-1659905462--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Sleeping Rough</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ade8a8f225b4f9f205ba5c74026c761.jpg" length="35233" type="image/jpeg"/>
+      <pubDate>Sun, 07 Aug 2022 16:51:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
