@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Aug 2022 09:43:55 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - King Kong Itself (14 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/King+Kong+Itself</link>
-      <guid isPermaLink="false">Frippertron-1659933941--e20747e7-55a4-452e-8766-7b985585082d---King Kong Itself</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca14b8a4e31d4c2a99ca549981311f98.jpg" length="31309" type="image/jpeg"/>
-      <pubDate>Mon, 08 Aug 2022 00:45:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Frank Zappa - King Kong II (Its Magnificence As Interpreted By Dom Dewild) (13 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/King+Kong+II+(Its+Magnificence+As+Interpreted+By+Dom+Dewild)</link>
-      <guid isPermaLink="false">Frippertron-1659933992--Frank Zappa---King Kong II (Its Magnificence As Interpreted By Dom Dewild)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca14b8a4e31d4c2a99ca549981311f98.jpg" length="31309" type="image/jpeg"/>
-      <pubDate>Mon, 08 Aug 2022 00:46:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Aug 2022 09:55:38 +0000</lastBuildDate>
     <item>
       <title>Frank Zappa - King Kong (As Motorhead Explains It) (21 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/King+Kong+(As+Motorhead+Explains+It)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1659951461--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bring Me The Disco King</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45d9302a3796493dc908e8028dd0098e.png" length="180524" type="image/png"/>
       <pubDate>Mon, 08 Aug 2022 05:37:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans Way - Soul Train (33 plays)</title>
+      <link>https://www.last.fm/music/Swans+Way/_/Soul+Train</link>
+      <guid isPermaLink="false">Frippertron-1659951853--Swans Way---Soul Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47a9ee59b8d24813b2a0bd40a95cd31d.jpg" length="23852" type="image/jpeg"/>
+      <pubDate>Mon, 08 Aug 2022 05:44:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Fiery Furnaces - Quay Cur (13 plays)</title>
+      <link>https://www.last.fm/music/The+Fiery+Furnaces/_/Quay+Cur</link>
+      <guid isPermaLink="false">Frippertron-1659952092--2c916f95-f6ba-46fa-b9d8-dc0d9379f603---Quay Cur</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/723f1c1b28eddf2f41c73b6f408f6731.jpg" length="11235" type="image/jpeg"/>
+      <pubDate>Mon, 08 Aug 2022 05:48:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
