@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Aug 2022 21:41:26 +0000</lastBuildDate>
-    <item>
-      <title>CHVRCHES - Clearest Blue (25 plays)</title>
-      <link>https://www.last.fm/music/CHVRCHES/_/Clearest+Blue</link>
-      <guid isPermaLink="false">WillieFisterbut-1659889033--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Clearest Blue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2922d854b939c7ef8ae584552a3ff106.jpg" length="26053" type="image/jpeg"/>
-      <pubDate>Sun, 07 Aug 2022 12:17:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Medeia - Prology (26 plays)</title>
-      <link>https://www.last.fm/music/Medeia/_/Prology</link>
-      <guid isPermaLink="false">WillieFisterbut-1659889497--c13cd544-6ac7-4e66-9472-3b3ea73078c6---Prology</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ea4bcc8c28ad4e20769ef2de34130ca.jpg" length="22285" type="image/jpeg"/>
-      <pubDate>Sun, 07 Aug 2022 12:24:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Aug 2022 21:53:43 +0000</lastBuildDate>
     <item>
       <title>Medeia - Insectia (47 plays)</title>
       <link>https://www.last.fm/music/Medeia/_/Insectia</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">WillieFisterbut-1660080733--a4834f89-5224-4dca-a510-9f547a363da7---Black Water Mirrors</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df9a25b81f42df5d4ee1498bc474758c.jpg" length="18108" type="image/jpeg"/>
       <pubDate>Tue, 09 Aug 2022 17:32:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Celestial Season - The Golden Light Of Late Day (1 play)</title>
+      <link>https://www.last.fm/music/Celestial+Season/_/The+Golden+Light+Of+Late+Day</link>
+      <guid isPermaLink="false">WillieFisterbut-1660081143--a4834f89-5224-4dca-a510-9f547a363da7---The Golden Light Of Late Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df9a25b81f42df5d4ee1498bc474758c.jpg" length="18108" type="image/jpeg"/>
+      <pubDate>Tue, 09 Aug 2022 17:39:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Celestial Season - Sundown Trancends Us (1 play)</title>
+      <link>https://www.last.fm/music/Celestial+Season/_/Sundown+Trancends+Us</link>
+      <guid isPermaLink="false">WillieFisterbut-1660081501--a4834f89-5224-4dca-a510-9f547a363da7---Sundown Trancends Us</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df9a25b81f42df5d4ee1498bc474758c.jpg" length="18108" type="image/jpeg"/>
+      <pubDate>Tue, 09 Aug 2022 17:45:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
