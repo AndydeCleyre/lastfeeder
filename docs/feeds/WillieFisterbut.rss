@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Aug 2022 23:21:30 +0000</lastBuildDate>
-    <item>
-      <title>The Halo Effect - Shadowminds (6 plays)</title>
-      <link>https://www.last.fm/music/The+Halo+Effect/_/Shadowminds</link>
-      <guid isPermaLink="false">WillieFisterbut-1659949528--4e6e78c6-160f-4e2b-8b25-3227a4ec677f---Shadowminds</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c79c0a6ddf505f4b0d7df39f517e61.jpg" length="27100" type="image/jpeg"/>
-      <pubDate>Mon, 08 Aug 2022 05:05:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Halo Effect - Days Of The Lost (4 plays)</title>
-      <link>https://www.last.fm/music/The+Halo+Effect/_/Days+Of+The+Lost</link>
-      <guid isPermaLink="false">WillieFisterbut-1659949745--4e6e78c6-160f-4e2b-8b25-3227a4ec677f---Days Of The Lost</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c79c0a6ddf505f4b0d7df39f517e61.jpg" length="27100" type="image/jpeg"/>
-      <pubDate>Mon, 08 Aug 2022 05:09:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Aug 2022 23:42:09 +0000</lastBuildDate>
     <item>
       <title>The Halo Effect - The Needless End (4 plays)</title>
       <link>https://www.last.fm/music/The+Halo+Effect/_/The+Needless+End</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">WillieFisterbut-1660086771--After Evolution---Once Upon a Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b489b385a94cb68a91583ea805e56cfc.jpg" length="31576" type="image/jpeg"/>
       <pubDate>Tue, 09 Aug 2022 19:12:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alestorm - Magellan's Expedition (1 play)</title>
+      <link>https://www.last.fm/music/Alestorm/_/Magellan%27s+Expedition</link>
+      <guid isPermaLink="false">WillieFisterbut-1660087873--c0252a1b-0133-46bb-8c4f-cade46349ec3---Magellan's Expedition</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae8760061b2983dd30483852659ae7a5.jpg" length="33417" type="image/jpeg"/>
+      <pubDate>Tue, 09 Aug 2022 19:31:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alestorm - The Battle of Cape Fear River (1 play)</title>
+      <link>https://www.last.fm/music/Alestorm/_/The+Battle+of+Cape+Fear+River</link>
+      <guid isPermaLink="false">WillieFisterbut-1660088160--c0252a1b-0133-46bb-8c4f-cade46349ec3---The Battle of Cape Fear River</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae8760061b2983dd30483852659ae7a5.jpg" length="33417" type="image/jpeg"/>
+      <pubDate>Tue, 09 Aug 2022 19:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
