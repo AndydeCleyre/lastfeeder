@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Aug 2022 09:43:00 +0000</lastBuildDate>
-    <item>
-      <title>Electric Light Orchestra - Strange Magic (11 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Strange+Magic</link>
-      <guid isPermaLink="false">Frippertron-1660106108--0c502791-4ee9-4c5f-9696-0602b721ff3b---Strange Magic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/316e3c6a2cc34f9eaafa5299b4a670d1.jpg" length="20761" type="image/jpeg"/>
-      <pubDate>Wed, 10 Aug 2022 00:35:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - 10538 Overture (28 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/10538+Overture</link>
-      <guid isPermaLink="false">Frippertron-1660106390--0c502791-4ee9-4c5f-9696-0602b721ff3b---10538 Overture</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/908053c4d0bb4ae8a7da959ee8d0d571.png" length="180404" type="image/png"/>
-      <pubDate>Wed, 10 Aug 2022 00:39:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Aug 2022 09:56:04 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Whisper in the Night (45 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Whisper+in+the+Night</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1660124434--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Crow's Perch</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 10 Aug 2022 05:40:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - John L (82 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/John+L</link>
+      <guid isPermaLink="false">Frippertron-1660124750--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---John L</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Wed, 10 Aug 2022 05:45:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Ascending Forth (74 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Ascending+Forth</link>
+      <guid isPermaLink="false">Frippertron-1660125072--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ascending Forth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Wed, 10 Aug 2022 05:51:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
