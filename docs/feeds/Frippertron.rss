@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Aug 2022 06:26:37 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Teenage Wildlife (187 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Teenage+Wildlife</link>
-      <guid isPermaLink="false">Frippertron-1660184329--5441c29d-3602-4898-b1a1-b77fa23b8e50---Teenage Wildlife</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
-      <pubDate>Wed, 10 Aug 2022 22:18:49 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Aug 2022 06:50:07 +0000</lastBuildDate>
     <item>
       <title>David Bowie - African Night Flight (94 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/African+Night+Flight</link>
@@ -51,7 +44,7 @@
       <pubDate>Wed, 10 Aug 2022 22:42:58 -0400</pubDate>
     </item>
     <item>
-      <title>10cc - Sand In My Face (16 plays)</title>
+      <title>10cc - Sand In My Face (17 plays)</title>
       <link>https://www.last.fm/music/10cc/_/Sand+In+My+Face</link>
       <guid isPermaLink="false">Frippertron-1660186098--f37c537b-3557-4031-bfd6-ab63ced32854---Sand In My Face</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6392f29da02b853193c46b6718886abe.jpg" length="10374" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1660197468--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Cool, Cool Water</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png" length="139263" type="image/png"/>
       <pubDate>Thu, 11 Aug 2022 01:57:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>10cc - Sand In My Face (17 plays)</title>
+      <link>https://www.last.fm/music/10cc/_/Sand+In+My+Face</link>
+      <guid isPermaLink="false">Frippertron-1660200355--f37c537b-3557-4031-bfd6-ab63ced32854---Sand In My Face</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6392f29da02b853193c46b6718886abe.jpg" length="10374" type="image/jpeg"/>
+      <pubDate>Thu, 11 Aug 2022 02:45:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
