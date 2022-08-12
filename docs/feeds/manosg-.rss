@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Aug 2022 17:52:49 +0000</lastBuildDate>
-    <item>
-      <title>Iron Maiden - The Writing on the Wall (8 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/The+Writing+on+the+Wall</link>
-      <guid isPermaLink="false">manosg--1659975945--Iron Maiden---The Writing on the Wall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
-      <pubDate>Mon, 08 Aug 2022 12:25:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Lost in a Lost World (6 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Lost+in+a+Lost+World</link>
-      <guid isPermaLink="false">manosg--1660027266--Iron Maiden---Lost in a Lost World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
-      <pubDate>Tue, 09 Aug 2022 02:41:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Days of Future Past (5 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Days+of+Future+Past</link>
-      <guid isPermaLink="false">manosg--1660027863--Iron Maiden---Days of Future Past</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
-      <pubDate>Tue, 09 Aug 2022 02:51:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - The Time Machine (4 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/The+Time+Machine</link>
-      <guid isPermaLink="false">manosg--1660028107--Iron Maiden---The Time Machine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
-      <pubDate>Tue, 09 Aug 2022 02:55:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Aug 2022 18:26:16 +0000</lastBuildDate>
     <item>
       <title>Iron Maiden - Darkest Hour (3 plays)</title>
       <link>https://www.last.fm/music/Iron+Maiden/_/Darkest+Hour</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">manosg--1660301095--f1548c5b-329e-4036-921c-02213a04b525---The Spell - 2017 Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/310a79abba57d009aba47000e93a4554.jpg" length="34318" type="image/jpeg"/>
       <pubDate>Fri, 12 Aug 2022 06:44:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>A-Z - Trial by Fire (1 play)</title>
+      <link>https://www.last.fm/music/A-Z/_/Trial+by+Fire</link>
+      <guid isPermaLink="false">manosg--1660326440--A-Z---Trial by Fire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
+      <pubDate>Fri, 12 Aug 2022 13:47:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>A-Z - The Far Side of the Horizon (1 play)</title>
+      <link>https://www.last.fm/music/A-Z/_/The+Far+Side+of+the+Horizon</link>
+      <guid isPermaLink="false">manosg--1660326774--A-Z---The Far Side of the Horizon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
+      <pubDate>Fri, 12 Aug 2022 13:52:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>A-Z - The Machine Gunner (1 play)</title>
+      <link>https://www.last.fm/music/A-Z/_/The+Machine+Gunner</link>
+      <guid isPermaLink="false">manosg--1660327322--A-Z---The Machine Gunner</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
+      <pubDate>Fri, 12 Aug 2022 14:02:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>A-Z - Rise Again (1 play)</title>
+      <link>https://www.last.fm/music/A-Z/_/Rise+Again</link>
+      <guid isPermaLink="false">manosg--1660327701--A-Z---Rise Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
+      <pubDate>Fri, 12 Aug 2022 14:08:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
