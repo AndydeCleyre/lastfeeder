@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Aug 2022 16:27:32 +0000</lastBuildDate>
-    <item>
-      <title>Iron Maiden - The Parchment (7 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/The+Parchment</link>
-      <guid isPermaLink="false">manosg--1660032161--Iron Maiden---The Parchment</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
-      <pubDate>Tue, 09 Aug 2022 04:02:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Hell on Earth (8 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Hell+on+Earth</link>
-      <guid isPermaLink="false">manosg--1660032938--Iron Maiden---Hell on Earth</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc061092f1ed402405bc961e4e3a671f.jpg" length="29421" type="image/jpeg"/>
-      <pubDate>Tue, 09 Aug 2022 04:15:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Aug 2022 14:40:35 +0000</lastBuildDate>
     <item>
       <title>Ozzy Osbourne - Shot in the Dark (8 plays)</title>
       <link>https://www.last.fm/music/Ozzy+Osbourne/_/Shot+in+the+Dark</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1660402265--A-Z---Run Away</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
       <pubDate>Sat, 13 Aug 2022 10:51:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>A-Z - Stranded (1 play)</title>
+      <link>https://www.last.fm/music/A-Z/_/Stranded</link>
+      <guid isPermaLink="false">manosg--1660406571--A-Z---Stranded</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
+      <pubDate>Sat, 13 Aug 2022 12:02:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>A-Z - At the Waters Edge (1 play)</title>
+      <link>https://www.last.fm/music/A-Z/_/At+the+Waters+Edge</link>
+      <guid isPermaLink="false">manosg--1660487186--A-Z---At the Waters Edge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
+      <pubDate>Sun, 14 Aug 2022 10:26:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
