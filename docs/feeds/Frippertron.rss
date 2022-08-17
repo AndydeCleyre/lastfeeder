@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Aug 2022 05:54:08 +0000</lastBuildDate>
-    <item>
-      <title>Mr. Bungle - Vanity Fair (53 plays)</title>
-      <link>https://www.last.fm/music/Mr.+Bungle/_/Vanity+Fair</link>
-      <guid isPermaLink="false">Frippertron-1660644034--277e21a9-2d64-452d-96c4-2d23a7af5891---Vanity Fair</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/816c50e7a551418f8978d9b29e9ce9d1.png" length="19229" type="image/png"/>
-      <pubDate>Tue, 16 Aug 2022 06:00:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Aug 2022 06:29:39 +0000</lastBuildDate>
     <item>
       <title>Mr. Bungle - Goodbye Sober Day (25 plays)</title>
       <link>https://www.last.fm/music/Mr.+Bungle/_/Goodbye+Sober+Day</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1660715500--99524243-dc2e-4bf3-82c0-72395391d21f---Rosary</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/642f732ed5ff2b44d5649aa5993c50b4.jpg" length="21434" type="image/jpeg"/>
       <pubDate>Wed, 17 Aug 2022 01:51:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Billy Joel - Zanzibar (29 plays)</title>
+      <link>https://www.last.fm/music/Billy+Joel/_/Zanzibar</link>
+      <guid isPermaLink="false">Frippertron-1660715732--64b94289-9474-4d43-8c93-918ccc1920d1---Zanzibar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6fea4a2ff966386519fcc17deb42b0a.jpg" length="26337" type="image/jpeg"/>
+      <pubDate>Wed, 17 Aug 2022 01:55:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
