@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Aug 2022 15:41:52 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - You're So Static (11 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/You%27re+So+Static</link>
-      <guid isPermaLink="false">Frippertron-1660806557--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---You're So Static</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e9f1e73ab44886d52ae85a6e192e636.jpg" length="32553" type="image/jpeg"/>
-      <pubDate>Thu, 18 Aug 2022 03:09:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - We All Fall In Love Sometimes (30 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/We+All+Fall+In+Love+Sometimes</link>
-      <guid isPermaLink="false">Frippertron-1660806856--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---We All Fall In Love Sometimes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
-      <pubDate>Thu, 18 Aug 2022 03:14:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Aug 2022 16:02:28 +0000</lastBuildDate>
     <item>
       <title>Elton John - Curtains (34 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Curtains</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1660837110--65d98d73-98d7-4951-9da2-0f9a68ce4e06---Emmeline</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/774be9c22e0b2a8c6acd77dada1cbd03.jpg" length="32279" type="image/jpeg"/>
       <pubDate>Thu, 18 Aug 2022 11:38:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Medicine - I Hear (4 plays)</title>
+      <link>https://www.last.fm/music/Medicine/_/I+Hear</link>
+      <guid isPermaLink="false">Frippertron-1660837197--65d98d73-98d7-4951-9da2-0f9a68ce4e06---I Hear</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/774be9c22e0b2a8c6acd77dada1cbd03.jpg" length="32279" type="image/jpeg"/>
+      <pubDate>Thu, 18 Aug 2022 11:39:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Medicine - Live It Down (4 plays)</title>
+      <link>https://www.last.fm/music/Medicine/_/Live+It+Down</link>
+      <guid isPermaLink="false">Frippertron-1660837532--65d98d73-98d7-4951-9da2-0f9a68ce4e06---Live It Down</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/774be9c22e0b2a8c6acd77dada1cbd03.jpg" length="32279" type="image/jpeg"/>
+      <pubDate>Thu, 18 Aug 2022 11:45:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
