@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Aug 2022 23:20:45 +0000</lastBuildDate>
-    <item>
-      <title>Clem Beatz - Meet You (4 plays)</title>
-      <link>https://www.last.fm/music/Clem+Beatz/_/Meet+You</link>
-      <guid isPermaLink="false">ddgromit-1660857213--Clem Beatz---Meet You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2d6dd872d1131a557e59c51352ee6de.jpg" length="10890" type="image/jpeg"/>
-      <pubDate>Thu, 18 Aug 2022 17:13:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bleu Toucan - Hanoï Café (5 plays)</title>
-      <link>https://www.last.fm/music/Bleu+Toucan/_/Hano%C3%AF+Caf%C3%A9</link>
-      <guid isPermaLink="false">ddgromit-1660857420--d034712a-f6b2-49e3-b8eb-4cc93f964b9d---Hanoï Café</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9390a71a7a367aab6350d3a9ede8ba2.jpg" length="23626" type="image/jpeg"/>
-      <pubDate>Thu, 18 Aug 2022 17:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Seth XVI - Amazones (3 plays)</title>
-      <link>https://www.last.fm/music/Seth+XVI/_/Amazones</link>
-      <guid isPermaLink="false">ddgromit-1660857614--Seth XVI---Amazones</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a6209b230ef68a733f4a74c48722bfd.png" length="133897" type="image/png"/>
-      <pubDate>Thu, 18 Aug 2022 17:20:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Aug 2022 23:41:51 +0000</lastBuildDate>
     <item>
       <title>Leska - Rolling (2 plays)</title>
       <link>https://www.last.fm/music/Leska/_/Rolling</link>
@@ -44,7 +23,7 @@
       <pubDate>Thu, 18 Aug 2022 17:27:39 -0400</pubDate>
     </item>
     <item>
-      <title>Nhyx - Soulclap (1 play)</title>
+      <title>Nhyx - Soulclap (2 plays)</title>
       <link>https://www.last.fm/music/Nhyx/_/Soulclap</link>
       <guid isPermaLink="false">ddgromit-1660858304--b9abeaaa-2d71-4d4a-9db4-a3433b9ee4d5---Soulclap</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -79,7 +58,7 @@
       <pubDate>Thu, 18 Aug 2022 17:44:03 -0400</pubDate>
     </item>
     <item>
-      <title>Seth XVI - All My Friends (1 play)</title>
+      <title>Seth XVI - All My Friends (2 plays)</title>
       <link>https://www.last.fm/music/Seth+XVI/_/All+My+Friends</link>
       <guid isPermaLink="false">ddgromit-1660859287--Seth XVI---All My Friends</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c36fe2c331d8a86b09748f5d3686d326.jpg" length="8540" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1660951045--Dim Sum---Owa</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 19 Aug 2022 19:17:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>ÜM - I Say No (2 plays)</title>
+      <link>https://www.last.fm/music/%C3%9CM/_/I+Say+No</link>
+      <guid isPermaLink="false">ddgromit-1660951221--ÜM---I Say No</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 19 Aug 2022 19:20:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nhyx - Soulclap (2 plays)</title>
+      <link>https://www.last.fm/music/Nhyx/_/Soulclap</link>
+      <guid isPermaLink="false">ddgromit-1660951412--b9abeaaa-2d71-4d4a-9db4-a3433b9ee4d5---Soulclap</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 19 Aug 2022 19:23:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Seth XVI - All My Friends (2 plays)</title>
+      <link>https://www.last.fm/music/Seth+XVI/_/All+My+Friends</link>
+      <guid isPermaLink="false">ddgromit-1660951602--Seth XVI---All My Friends</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c36fe2c331d8a86b09748f5d3686d326.jpg" length="8540" type="image/jpeg"/>
+      <pubDate>Fri, 19 Aug 2022 19:26:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
