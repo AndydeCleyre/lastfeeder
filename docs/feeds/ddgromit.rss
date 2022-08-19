@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Aug 2022 22:43:25 +0000</lastBuildDate>
-    <item>
-      <title>Mazde - Wicked Winds (3 plays)</title>
-      <link>https://www.last.fm/music/Mazde/_/Wicked+Winds</link>
-      <guid isPermaLink="false">ddgromit-1660854976--55751d41-979b-480d-9f93-e69d2df9cfe8---Wicked Winds</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d69152031e3caeedecf3081bcd69b386.jpg" length="10495" type="image/jpeg"/>
-      <pubDate>Thu, 18 Aug 2022 16:36:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>ÜM - Mia Mia (3 plays)</title>
-      <link>https://www.last.fm/music/%C3%9CM/_/Mia+Mia</link>
-      <guid isPermaLink="false">ddgromit-1660855209--ÜM---Mia Mia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/965126d78b483ae0462988a24f87eda4.jpg" length="16561" type="image/jpeg"/>
-      <pubDate>Thu, 18 Aug 2022 16:40:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pas Sages - Danser Encore (3 plays)</title>
-      <link>https://www.last.fm/music/Pas+Sages/_/Danser+Encore</link>
-      <guid isPermaLink="false">ddgromit-1660855419--Pas Sages---Danser Encore</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 18 Aug 2022 16:43:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Aug 2022 22:55:08 +0000</lastBuildDate>
     <item>
       <title>Leska - Warriors (1 play)</title>
       <link>https://www.last.fm/music/Leska/_/Warriors</link>
@@ -72,7 +51,7 @@
       <pubDate>Thu, 18 Aug 2022 17:03:17 -0400</pubDate>
     </item>
     <item>
-      <title>ÜM - I Say No</title>
+      <title>ÜM - I Say No (1 play)</title>
       <link>https://www.last.fm/music/%C3%9CM/_/I+Say+No</link>
       <guid isPermaLink="false">ddgromit-1660856828--ÜM---I Say No</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -327,6 +306,7 @@
       <title>Mazde - Spreewaldplatz (1 play)</title>
       <link>https://www.last.fm/music/Mazde/_/Spreewaldplatz</link>
       <guid isPermaLink="false">ddgromit-1660947755--55751d41-979b-480d-9f93-e69d2df9cfe8---Spreewaldplatz</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5032c9b06dc4f462284a7f1fd06f6b42.jpg" length="40840" type="image/jpeg"/>
       <pubDate>Fri, 19 Aug 2022 18:22:35 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1660948559--44726c01-14c0-4a42-baac-022840568ec0---Don't Wait for Us</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f54939d46c20f435c7f2f1228e5c2c50.jpg" length="20550" type="image/jpeg"/>
       <pubDate>Fri, 19 Aug 2022 18:35:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alkakris - Doux papillon (1 play)</title>
+      <link>https://www.last.fm/music/Alkakris/_/Doux+papillon</link>
+      <guid isPermaLink="false">ddgromit-1660948819--Alkakris---Doux papillon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8bf32de03e598e1431d5806c4311252.png" length="158718" type="image/png"/>
+      <pubDate>Fri, 19 Aug 2022 18:40:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alvan - Sanzel (1 play)</title>
+      <link>https://www.last.fm/music/Alvan/_/Sanzel</link>
+      <guid isPermaLink="false">ddgromit-1660949124--694b7d36-b920-4342-a8e3-aa18947509dd---Sanzel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d069d5d68aa50f0ee54681827e459ee4.jpg" length="25976" type="image/jpeg"/>
+      <pubDate>Fri, 19 Aug 2022 18:45:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Else - Ambre (2 plays)</title>
+      <link>https://www.last.fm/music/Else/_/Ambre</link>
+      <guid isPermaLink="false">ddgromit-1660949380--4e41e23f-018f-41af-af43-cb30ddb33f51---Ambre</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce6eb87d54b2e536b63ba4668474530c.jpg" length="5901" type="image/jpeg"/>
+      <pubDate>Fri, 19 Aug 2022 18:49:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
