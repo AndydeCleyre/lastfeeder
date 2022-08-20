@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Aug 2022 10:22:22 +0000</lastBuildDate>
-    <item>
-      <title>Thin Lizzy - Cold Sweat (3 plays)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/Cold+Sweat</link>
-      <guid isPermaLink="false">manosg--1660201502--6a726ac6-019e-455c-8bbb-571a77bed52e---Cold Sweat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43ff41c659d14e9ea31595456c2bcdf8.jpg" length="23373" type="image/jpeg"/>
-      <pubDate>Thu, 11 Aug 2022 03:05:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Deep Purple - A Simple Song (1 play)</title>
-      <link>https://www.last.fm/music/Deep+Purple/_/A+Simple+Song</link>
-      <guid isPermaLink="false">manosg--1660206773--79491354-3d83-40e3-9d8e-7592d58d790a---A Simple Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5c437a298e2f6d6c4252ac70d88fc26.jpg" length="8818" type="image/jpeg"/>
-      <pubDate>Thu, 11 Aug 2022 04:32:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Deep Purple - Weirdistan (1 play)</title>
-      <link>https://www.last.fm/music/Deep+Purple/_/Weirdistan</link>
-      <guid isPermaLink="false">manosg--1660207164--79491354-3d83-40e3-9d8e-7592d58d790a---Weirdistan</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5c437a298e2f6d6c4252ac70d88fc26.jpg" length="8818" type="image/jpeg"/>
-      <pubDate>Thu, 11 Aug 2022 04:39:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Aug 2022 14:18:40 +0000</lastBuildDate>
     <item>
       <title>Deep Purple - Out Of Hand (1 play)</title>
       <link>https://www.last.fm/music/Deep+Purple/_/Out+Of+Hand</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1660990132--Bear McCreary---The Stranger</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e18d5f9525313b6605da7b9933ec6d7.png" length="168458" type="image/png"/>
       <pubDate>Sat, 20 Aug 2022 06:08:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bear McCreary - Númenor (1 play)</title>
+      <link>https://www.last.fm/music/Bear+McCreary/_/N%C3%BAmenor</link>
+      <guid isPermaLink="false">manosg--1660990462--Bear McCreary---Númenor</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e18d5f9525313b6605da7b9933ec6d7.png" length="168458" type="image/png"/>
+      <pubDate>Sat, 20 Aug 2022 06:14:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bear McCreary - Sauron (1 play)</title>
+      <link>https://www.last.fm/music/Bear+McCreary/_/Sauron</link>
+      <guid isPermaLink="false">manosg--1661004710--78192f3c-607b-4190-a02b-8e036887b9a7---Sauron</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e18d5f9525313b6605da7b9933ec6d7.png" length="168458" type="image/png"/>
+      <pubDate>Sat, 20 Aug 2022 10:11:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bear McCreary - Valinor (1 play)</title>
+      <link>https://www.last.fm/music/Bear+McCreary/_/Valinor</link>
+      <guid isPermaLink="false">manosg--1661004896--Bear McCreary---Valinor</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e18d5f9525313b6605da7b9933ec6d7.png" length="168458" type="image/png"/>
+      <pubDate>Sat, 20 Aug 2022 10:14:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
