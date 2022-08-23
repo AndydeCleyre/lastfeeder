@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Aug 2022 11:52:37 +0000</lastBuildDate>
-    <item>
-      <title>Logic - Homicide (1 play)</title>
-      <link>https://www.last.fm/music/Logic/_/Homicide</link>
-      <guid isPermaLink="false">gameofmetal-1661034504--20104c4d-cba0-4371-ab77-2f9d544674be---Homicide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcdcab0444ee5a7053ec505d48e63533.jpg" length="22520" type="image/jpeg"/>
-      <pubDate>Sat, 20 Aug 2022 18:28:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Highly Suspect - 16 (1 play)</title>
-      <link>https://www.last.fm/music/Highly+Suspect/_/16</link>
-      <guid isPermaLink="false">gameofmetal-1661039320--afd55c72-d123-4237-9818-fa3ce634b3dd---16</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b19b2a7f1834a50697db803729baa55.jpg" length="3778" type="image/jpeg"/>
-      <pubDate>Sat, 20 Aug 2022 19:48:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Morgan Wallen - Happy Hour (1 play)</title>
-      <link>https://www.last.fm/music/Morgan+Wallen/_/Happy+Hour</link>
-      <guid isPermaLink="false">gameofmetal-1661039599--2077273e-eaa1-4f49-903c-f286ededecb9---Happy Hour</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e05e408ddffed40acde9189a2e74dcc.jpg" length="20409" type="image/jpeg"/>
-      <pubDate>Sat, 20 Aug 2022 19:53:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Aug 2022 12:41:37 +0000</lastBuildDate>
     <item>
       <title>Bazzi - No Way! (1 play)</title>
       <link>https://www.last.fm/music/Bazzi/_/No+Way!</link>
@@ -68,6 +47,7 @@
       <title>Dan + Shay - All to Myself (1 play)</title>
       <link>https://www.last.fm/music/Dan+%252B+Shay/_/All+to+Myself</link>
       <guid isPermaLink="false">gameofmetal-1661040609--33cf3954-10af-4dcb-985f-9420d1fa4168---All to Myself</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6559dbbfdc66eee5416c51438b59b03c.png" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Sat, 20 Aug 2022 20:10:09 -0400</pubDate>
     </item>
     <item>
@@ -193,6 +173,7 @@
       <title>Parmalee - Take My Name (1 play)</title>
       <link>https://www.last.fm/music/Parmalee/_/Take+My+Name</link>
       <guid isPermaLink="false">gameofmetal-1661168776--Parmalee---Take My Name</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1e7668a99da71b00d15040547331c2e.jpg" length="20528" type="image/jpeg"/>
       <pubDate>Mon, 22 Aug 2022 07:46:16 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +336,27 @@
       <guid isPermaLink="false">gameofmetal-1661255260--Nashville Cast---Saved</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/40c5af9038766ee869f6185c8c2083ce.jpg" length="26841" type="image/jpeg"/>
       <pubDate>Tue, 23 Aug 2022 07:47:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tate McRae - you broke me first (2 plays)</title>
+      <link>https://www.last.fm/music/Tate+McRae/_/you+broke+me+first</link>
+      <guid isPermaLink="false">gameofmetal-1661255457--f9133869-f87c-459c-9aa7-2f176cda7e06---you broke me first</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e0ce3757c80b6a8407733d2b165e3ce.jpg" length="11315" type="image/jpeg"/>
+      <pubDate>Tue, 23 Aug 2022 07:50:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Avril Lavigne - Tell Me It's Over (1 play)</title>
+      <link>https://www.last.fm/music/Avril+Lavigne/_/Tell+Me+It%27s+Over</link>
+      <guid isPermaLink="false">gameofmetal-1661255626--0103c1cc-4a09-4a5d-a344-56ad99a77193---Tell Me It's Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/551f8ccfe6a05c26b1cab25bf29878e3.jpg" length="16760" type="image/jpeg"/>
+      <pubDate>Tue, 23 Aug 2022 07:53:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Camila Cabello - Living Proof (1 play)</title>
+      <link>https://www.last.fm/music/Camila+Cabello/_/Living+Proof</link>
+      <guid isPermaLink="false">gameofmetal-1661255791--01b8b5bf-06cb-45da-85fb-61ada72fcd69---Living Proof</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ffbe7e2ae8052685f1928b83590fe9a.jpg" length="22391" type="image/jpeg"/>
+      <pubDate>Tue, 23 Aug 2022 07:56:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
