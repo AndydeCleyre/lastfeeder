@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Aug 2022 15:44:39 +0000</lastBuildDate>
-    <item>
-      <title>Thin Lizzy - The Pressure Will Blow (1 play)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/The+Pressure+Will+Blow</link>
-      <guid isPermaLink="false">manosg--1661251945--6a726ac6-019e-455c-8bbb-571a77bed52e---The Pressure Will Blow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11255bb7891026b1d852a0ff9ce07cc7.png" length="151517" type="image/png"/>
-      <pubDate>Tue, 23 Aug 2022 06:52:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thin Lizzy - Leave This Town (1 play)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/Leave+This+Town</link>
-      <guid isPermaLink="false">manosg--1661252175--6a726ac6-019e-455c-8bbb-571a77bed52e---Leave This Town</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11255bb7891026b1d852a0ff9ce07cc7.png" length="151517" type="image/png"/>
-      <pubDate>Tue, 23 Aug 2022 06:56:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Aug 2022 18:35:32 +0000</lastBuildDate>
     <item>
       <title>Thin Lizzy - Hollywood (Down On Your Luck) (1 play)</title>
       <link>https://www.last.fm/music/Thin+Lizzy/_/Hollywood+(Down+On+Your+Luck)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1661354826--Def Leppard---Bringin' On The Heartbreak - 1984 Remix</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9899e9c1e21a6fb72974e90c0a8bf51c.jpg" length="32403" type="image/jpeg"/>
       <pubDate>Wed, 24 Aug 2022 11:27:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Def Leppard - Me And My Wine - 1984 Remix (1 play)</title>
+      <link>https://www.last.fm/music/Def+Leppard/_/Me+And+My+Wine+-+1984+Remix</link>
+      <guid isPermaLink="false">manosg--1661355103--Def Leppard---Me And My Wine - 1984 Remix</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9899e9c1e21a6fb72974e90c0a8bf51c.jpg" length="32403" type="image/jpeg"/>
+      <pubDate>Wed, 24 Aug 2022 11:31:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Def Leppard - Rock Rock (Till You Drop) (3 plays)</title>
+      <link>https://www.last.fm/music/Def+Leppard/_/Rock+Rock+(Till+You+Drop)</link>
+      <guid isPermaLink="false">manosg--1661364042--7249b899-8db8-43e7-9e6e-22f1e736024e---Rock Rock (Till You Drop)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/687a4294cd244c6d8388e3b9f5d4e9fb.jpg" length="29255" type="image/jpeg"/>
+      <pubDate>Wed, 24 Aug 2022 14:00:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
