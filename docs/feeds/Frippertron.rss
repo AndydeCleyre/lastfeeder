@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Aug 2022 08:49:46 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Funeral for a Friend (11 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Funeral+for+a+Friend</link>
-      <guid isPermaLink="false">Frippertron-1661312336--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Funeral for a Friend</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a352e9aa88d0a89f32164c16deefbce9.jpg" length="20940" type="image/jpeg"/>
-      <pubDate>Tue, 23 Aug 2022 23:38:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Tonight (39 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Tonight</link>
-      <guid isPermaLink="false">Frippertron-1661312505--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Tonight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a352e9aa88d0a89f32164c16deefbce9.jpg" length="20940" type="image/jpeg"/>
-      <pubDate>Tue, 23 Aug 2022 23:41:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Aug 2022 09:21:08 +0000</lastBuildDate>
     <item>
       <title>Elton John - Better Off Dead (14 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Better+Off+Dead</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1661330672--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Goodbye Yellow Brick Road</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2f940b4139db4edaa518ea8f19d2ef6.png" length="133752" type="image/png"/>
       <pubDate>Wed, 24 Aug 2022 04:44:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - I've Seen That Movie Too (31 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/I%27ve+Seen+That+Movie+Too</link>
+      <guid isPermaLink="false">Frippertron-1661330885--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---I've Seen That Movie Too</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2f940b4139db4edaa518ea8f19d2ef6.png" length="133752" type="image/png"/>
+      <pubDate>Wed, 24 Aug 2022 04:48:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - All The Girls Love Alice (38 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/All+The+Girls+Love+Alice</link>
+      <guid isPermaLink="false">Frippertron-1661331223--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---All The Girls Love Alice</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2f940b4139db4edaa518ea8f19d2ef6.png" length="133752" type="image/png"/>
+      <pubDate>Wed, 24 Aug 2022 04:53:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
