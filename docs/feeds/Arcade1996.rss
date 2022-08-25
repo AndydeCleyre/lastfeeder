@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Aug 2022 13:59:03 +0000</lastBuildDate>
-    <item>
-      <title>The 1975 - Happiness (18 plays)</title>
-      <link>https://www.last.fm/music/The+1975/_/Happiness</link>
-      <guid isPermaLink="false">Arcade1996-1661333911--5b6ebfe0-f72b-4902-bba9-74c8af0f1af0---Happiness</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3013befae532d43a985d22d1a99df4c.jpg" length="18519" type="image/jpeg"/>
-      <pubDate>Wed, 24 Aug 2022 05:38:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Danny Elfman - Native Intelligence (19 plays)</title>
-      <link>https://www.last.fm/music/Danny+Elfman/_/Native+Intelligence</link>
-      <guid isPermaLink="false">Arcade1996-1661334181--5b24fbab-c58f-4c37-a59d-ab232e2d98c4---Native Intelligence</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b92e4601003ee9a81fcef04622743041.jpg" length="25279" type="image/jpeg"/>
-      <pubDate>Wed, 24 Aug 2022 05:43:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Aug 2022 14:41:13 +0000</lastBuildDate>
     <item>
       <title>The Sundays - Goodbye (22 plays)</title>
       <link>https://www.last.fm/music/The+Sundays/_/Goodbye</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1661435254--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Strawberry Fields Forever - Remastered 2009</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a37895659617851adae070f2550e59c.jpg" length="41974" type="image/jpeg"/>
       <pubDate>Thu, 25 Aug 2022 09:47:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Beatles - Eleanor Rigby - Remastered 2009 (5 plays)</title>
+      <link>https://www.last.fm/music/The+Beatles/_/Eleanor+Rigby+-+Remastered+2009</link>
+      <guid isPermaLink="false">Arcade1996-1661435501--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Eleanor Rigby - Remastered 2009</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d909bf3a71494f5689e3d73001f8895.jpg" length="35381" type="image/jpeg"/>
+      <pubDate>Thu, 25 Aug 2022 09:51:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Brian Eno - Lantern Marsh - Remastered 2004 (1 play)</title>
+      <link>https://www.last.fm/music/Brian+Eno/_/Lantern+Marsh+-+Remastered+2004</link>
+      <guid isPermaLink="false">Arcade1996-1661437830--Brian Eno---Lantern Marsh - Remastered 2004</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55c2d21f19d1e9868471c17cee5c85fb.jpg" length="56595" type="image/jpeg"/>
+      <pubDate>Thu, 25 Aug 2022 10:30:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
