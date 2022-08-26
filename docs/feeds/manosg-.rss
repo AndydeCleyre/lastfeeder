@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Aug 2022 08:50:02 +0000</lastBuildDate>
-    <item>
-      <title>Def Leppard - Wasted (1 play)</title>
-      <link>https://www.last.fm/music/Def+Leppard/_/Wasted</link>
-      <guid isPermaLink="false">manosg--1661332446--7249b899-8db8-43e7-9e6e-22f1e736024e---Wasted</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/099285dbb0394c6391d0b5a782e2b551.jpg" length="23414" type="image/jpeg"/>
-      <pubDate>Wed, 24 Aug 2022 05:14:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Def Leppard - Rocks Off (1 play)</title>
-      <link>https://www.last.fm/music/Def+Leppard/_/Rocks+Off</link>
-      <guid isPermaLink="false">manosg--1661334186--7249b899-8db8-43e7-9e6e-22f1e736024e---Rocks Off</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/099285dbb0394c6391d0b5a782e2b551.jpg" length="23414" type="image/jpeg"/>
-      <pubDate>Wed, 24 Aug 2022 05:43:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Aug 2022 09:21:16 +0000</lastBuildDate>
     <item>
       <title>Def Leppard - It Don't Matter (1 play)</title>
       <link>https://www.last.fm/music/Def+Leppard/_/It+Don%27t+Matter</link>
@@ -275,7 +261,7 @@
       <pubDate>Thu, 25 Aug 2022 10:28:21 -0400</pubDate>
     </item>
     <item>
-      <title>Def Leppard - Love and Affection (3 plays)</title>
+      <title>Def Leppard - Love and Affection</title>
       <link>https://www.last.fm/music/Def+Leppard/_/Love+and+Affection</link>
       <guid isPermaLink="false">manosg--1661437964--7249b899-8db8-43e7-9e6e-22f1e736024e---Love and Affection</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3d513a711ac41c1c10a3f7fb274e52f.png" length="171552" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1661502798--79491354-3d83-40e3-9d8e-7592d58d790a---Birds of Prey</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5a0e6baf0c1fdac9cd324dc506cb61c.png" length="190688" type="image/png"/>
       <pubDate>Fri, 26 Aug 2022 04:33:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Anthony Phillips - Wind: Tales (1 play)</title>
+      <link>https://www.last.fm/music/Anthony+Phillips/_/Wind:+Tales</link>
+      <guid isPermaLink="false">manosg--1661503167--e62f6374-7e6f-4492-bb4a-3a1c62366e61---Wind: Tales</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e7ff27adf0903899574fb99fcf0ca37.jpg" length="28168" type="image/jpeg"/>
+      <pubDate>Fri, 26 Aug 2022 04:39:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Anthony Phillips - Which Way The Wind Blows (1 play)</title>
+      <link>https://www.last.fm/music/Anthony+Phillips/_/Which+Way+The+Wind+Blows</link>
+      <guid isPermaLink="false">manosg--1661504502--e62f6374-7e6f-4492-bb4a-3a1c62366e61---Which Way The Wind Blows</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e7ff27adf0903899574fb99fcf0ca37.jpg" length="28168" type="image/jpeg"/>
+      <pubDate>Fri, 26 Aug 2022 05:01:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
