@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Aug 2022 10:44:33 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Don't Let the Sun Go Down on Me (14 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Don%27t+Let+the+Sun+Go+Down+on+Me</link>
-      <guid isPermaLink="false">Frippertron-1661490810--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Don't Let the Sun Go Down on Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 26 Aug 2022 01:13:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Island Girl (2 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Island+Girl</link>
-      <guid isPermaLink="false">Frippertron-1661491151--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Island Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 26 Aug 2022 01:19:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Aug 2022 10:55:58 +0000</lastBuildDate>
     <item>
       <title>Elton John - Bennie and the Jets (67 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1661510336--Japan---Canton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
       <pubDate>Fri, 26 Aug 2022 06:38:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Japan - Visions Of China (44 plays)</title>
+      <link>https://www.last.fm/music/Japan/_/Visions+Of+China</link>
+      <guid isPermaLink="false">Frippertron-1661510670--Japan---Visions Of China</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
+      <pubDate>Fri, 26 Aug 2022 06:44:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Japan - Cantonese Boy (67 plays)</title>
+      <link>https://www.last.fm/music/Japan/_/Cantonese+Boy</link>
+      <guid isPermaLink="false">Frippertron-1661510898--Japan---Cantonese Boy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
+      <pubDate>Fri, 26 Aug 2022 06:48:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
