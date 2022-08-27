@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Aug 2022 16:28:50 +0000</lastBuildDate>
-    <item>
-      <title>Les Gordon - La Noche Azul (3 plays)</title>
-      <link>https://www.last.fm/music/Les+Gordon/_/La+Noche+Azul</link>
-      <guid isPermaLink="false">ddgromit-1661379396--02e5ab4c-7391-4614-ab0f-961b155c5887---La Noche Azul</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a902fcbef3da6f2b942448f53a3ad83.jpg" length="22058" type="image/jpeg"/>
-      <pubDate>Wed, 24 Aug 2022 18:16:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Aug 2022 17:24:14 +0000</lastBuildDate>
     <item>
       <title>Bleu Toucan - Hanoï Café (6 plays)</title>
       <link>https://www.last.fm/music/Bleu+Toucan/_/Hano%C3%AF+Caf%C3%A9</link>
@@ -205,7 +198,7 @@
       <pubDate>Fri, 26 Aug 2022 14:42:48 -0400</pubDate>
     </item>
     <item>
-      <title>Goth Babe - Casita</title>
+      <title>Goth Babe - Casita (5 plays)</title>
       <link>https://www.last.fm/music/Goth+Babe/_/Casita</link>
       <guid isPermaLink="false">ddgromit-1661539561--Goth Babe---Casita</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e0b312542f6aa90f560271824414283a.png" length="148111" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1661617460--17678771-5799-4017-851a-319f25b6948d---Till The End - Jonas Blue &amp; Sam Feldt Present Endless Summer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81b9e927579822a7316bebbe731f01ea.jpg" length="22506" type="image/jpeg"/>
       <pubDate>Sat, 27 Aug 2022 12:24:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Oliver Heldens - LOW (1 play)</title>
+      <link>https://www.last.fm/music/Oliver+Heldens/_/LOW</link>
+      <guid isPermaLink="false">ddgromit-1661617639--df679f1d-2bab-442b-bc67-02a44f9b2adf---LOW</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/431c25c3ae86fb9e8bc2231dfb30aac9.jpg" length="19457" type="image/jpeg"/>
+      <pubDate>Sat, 27 Aug 2022 12:27:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
