@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Aug 2022 07:19:17 +0000</lastBuildDate>
-    <item>
-      <title>Rosenshontz - One Shoe Bear (2 plays)</title>
-      <link>https://www.last.fm/music/Rosenshontz/_/One+Shoe+Bear</link>
-      <guid isPermaLink="false">walrus898-1661445893--Rosenshontz---One Shoe Bear</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d0365844b234a69baa15da3f61a6376.jpg" length="30709" type="image/jpeg"/>
-      <pubDate>Thu, 25 Aug 2022 12:44:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Rosenshontz - Teddy Bear's Picnic (2 plays)</title>
-      <link>https://www.last.fm/music/Rosenshontz/_/Teddy+Bear%27s+Picnic</link>
-      <guid isPermaLink="false">walrus898-1661446158--Rosenshontz---Teddy Bear's Picnic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e90b0c0fd994aa8b8415c8193d3622c.jpg" length="29312" type="image/jpeg"/>
-      <pubDate>Thu, 25 Aug 2022 12:49:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Aug 2022 16:30:44 +0000</lastBuildDate>
     <item>
       <title>Rosenshontz - Hippopotamus Rock (5 plays)</title>
       <link>https://www.last.fm/music/Rosenshontz/_/Hippopotamus+Rock</link>
@@ -30,14 +16,14 @@
       <pubDate>Thu, 25 Aug 2022 12:52:45 -0400</pubDate>
     </item>
     <item>
-      <title>SIX - Ex-Wives (1 play)</title>
+      <title>SIX - Ex-Wives (2 plays)</title>
       <link>https://www.last.fm/music/SIX/_/Ex-Wives</link>
       <guid isPermaLink="false">walrus898-1661462984--9827764e-03bf-4d00-bd1a-5d3c464cf416---Ex-Wives</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9d48e5691f48d4be01b675a5a772957.jpg" length="11307" type="image/jpeg"/>
       <pubDate>Thu, 25 Aug 2022 17:29:44 -0400</pubDate>
     </item>
     <item>
-      <title>SIX - No Way (1 play)</title>
+      <title>SIX - No Way (2 plays)</title>
       <link>https://www.last.fm/music/SIX/_/No+Way</link>
       <guid isPermaLink="false">walrus898-1661463334--9827764e-03bf-4d00-bd1a-5d3c464cf416---No Way</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9d48e5691f48d4be01b675a5a772957.jpg" length="11307" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">walrus898-1661583429--215f057c-fb64-4b27-abf2-1871e71912d9---Oviedo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/800c3723f635474a8443fc62bfd4b02a.jpg" length="25487" type="image/jpeg"/>
       <pubDate>Sat, 27 Aug 2022 02:57:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>SIX - Ex-Wives (2 plays)</title>
+      <link>https://www.last.fm/music/SIX/_/Ex-Wives</link>
+      <guid isPermaLink="false">walrus898-1661617202--9827764e-03bf-4d00-bd1a-5d3c464cf416---Ex-Wives</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9d48e5691f48d4be01b675a5a772957.jpg" length="11307" type="image/jpeg"/>
+      <pubDate>Sat, 27 Aug 2022 12:20:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>SIX - No Way (2 plays)</title>
+      <link>https://www.last.fm/music/SIX/_/No+Way</link>
+      <guid isPermaLink="false">walrus898-1661617552--9827764e-03bf-4d00-bd1a-5d3c464cf416---No Way</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9d48e5691f48d4be01b675a5a772957.jpg" length="11307" type="image/jpeg"/>
+      <pubDate>Sat, 27 Aug 2022 12:25:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
