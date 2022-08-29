@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Aug 2022 07:45:09 +0000</lastBuildDate>
-    <item>
-      <title>Def Leppard - Run Riot (3 plays)</title>
-      <link>https://www.last.fm/music/Def+Leppard/_/Run+Riot</link>
-      <guid isPermaLink="false">manosg--1661436088--7249b899-8db8-43e7-9e6e-22f1e736024e---Run Riot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3d513a711ac41c1c10a3f7fb274e52f.png" length="171552" type="image/png"/>
-      <pubDate>Thu, 25 Aug 2022 10:01:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Def Leppard - Hysteria (7 plays)</title>
-      <link>https://www.last.fm/music/Def+Leppard/_/Hysteria</link>
-      <guid isPermaLink="false">manosg--1661436367--7249b899-8db8-43e7-9e6e-22f1e736024e---Hysteria</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3d513a711ac41c1c10a3f7fb274e52f.png" length="171552" type="image/png"/>
-      <pubDate>Thu, 25 Aug 2022 10:06:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Aug 2022 07:56:41 +0000</lastBuildDate>
     <item>
       <title>Def Leppard - Excitable (3 plays)</title>
       <link>https://www.last.fm/music/Def+Leppard/_/Excitable</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1661758727--Bad Company---Ready for Love - 2015 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce7bd2fd1294ab913ceebb5bd9434925.jpg" length="15119" type="image/jpeg"/>
       <pubDate>Mon, 29 Aug 2022 03:38:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Company - Don't Let Me Down - 2015 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Bad+Company/_/Don%27t+Let+Me+Down+-+2015+Remaster</link>
+      <guid isPermaLink="false">manosg--1661759029--Bad Company---Don't Let Me Down - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce7bd2fd1294ab913ceebb5bd9434925.jpg" length="15119" type="image/jpeg"/>
+      <pubDate>Mon, 29 Aug 2022 03:43:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Company - Bad Company - 2015 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Bad+Company/_/Bad+Company+-+2015+Remaster</link>
+      <guid isPermaLink="false">manosg--1661759288--Bad Company---Bad Company - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce7bd2fd1294ab913ceebb5bd9434925.jpg" length="15119" type="image/jpeg"/>
+      <pubDate>Mon, 29 Aug 2022 03:48:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
