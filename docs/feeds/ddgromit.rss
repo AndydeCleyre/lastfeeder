@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Aug 2022 19:52:51 +0000</lastBuildDate>
-    <item>
-      <title>Les Gordon - Cendres (2 plays)</title>
-      <link>https://www.last.fm/music/Les+Gordon/_/Cendres</link>
-      <guid isPermaLink="false">ddgromit-1661382346--02e5ab4c-7391-4614-ab0f-961b155c5887---Cendres</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9200ca548154118045625c0bba02b8e2.jpg" length="19181" type="image/jpeg"/>
-      <pubDate>Wed, 24 Aug 2022 19:05:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Revers Gagnant - Paradis bleu (1 play)</title>
-      <link>https://www.last.fm/music/Revers+Gagnant/_/Paradis+bleu</link>
-      <guid isPermaLink="false">ddgromit-1661382542--Revers Gagnant---Paradis bleu</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/254a76d4b9b6b43c06098cbfdac9d996.jpg" length="28012" type="image/jpeg"/>
-      <pubDate>Wed, 24 Aug 2022 19:09:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Aug 2022 20:22:56 +0000</lastBuildDate>
     <item>
       <title>Leska - One and Only (5 plays)</title>
       <link>https://www.last.fm/music/Leska/_/One+and+Only</link>
@@ -152,6 +138,7 @@
       <title>Litany - Playlist (6 plays)</title>
       <link>https://www.last.fm/music/Litany/_/Playlist</link>
       <guid isPermaLink="false">ddgromit-1661540698--Litany---Playlist</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5963bf4e8cba5bc7ebf8cac5243a5bc.png" length="139501" type="image/png"/>
       <pubDate>Fri, 26 Aug 2022 15:04:58 -0400</pubDate>
     </item>
     <item>
@@ -204,7 +191,7 @@
       <pubDate>Fri, 26 Aug 2022 15:29:35 -0400</pubDate>
     </item>
     <item>
-      <title>Nasaya - TEMPO (14 plays)</title>
+      <title>Nasaya - TEMPO</title>
       <link>https://www.last.fm/music/Nasaya/_/TEMPO</link>
       <guid isPermaLink="false">ddgromit-1661542437--Nasaya---TEMPO</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7fb09d2399e3942b19ea92ad791c6b5b.jpg" length="41066" type="image/jpeg"/>
@@ -218,7 +205,7 @@
       <pubDate>Fri, 26 Aug 2022 15:37:56 -0400</pubDate>
     </item>
     <item>
-      <title>The Jungle Giants - Something Got Between Us (6 plays)</title>
+      <title>The Jungle Giants - Something Got Between Us (7 plays)</title>
       <link>https://www.last.fm/music/The+Jungle+Giants/_/Something+Got+Between+Us</link>
       <guid isPermaLink="false">ddgromit-1661542867--5f57853c-8e3c-4ed3-b71c-a67787ab58c9---Something Got Between Us</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4efdd45aecfa28d44e95cf16af1fd8cc.jpg" length="29612" type="image/jpeg"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1661888860--ab413f29-71af-4f7f-8ca8-5ece68beeaf3---Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e71595a5af425183e5cd5ab32f414f.jpg" length="23851" type="image/jpeg"/>
       <pubDate>Tue, 30 Aug 2022 15:47:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Jungle Giants - Something Got Between Us (7 plays)</title>
+      <link>https://www.last.fm/music/The+Jungle+Giants/_/Something+Got+Between+Us</link>
+      <guid isPermaLink="false">ddgromit-1661889123--5f57853c-8e3c-4ed3-b71c-a67787ab58c9---Something Got Between Us</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4efdd45aecfa28d44e95cf16af1fd8cc.jpg" length="29612" type="image/jpeg"/>
+      <pubDate>Tue, 30 Aug 2022 15:52:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Darius - Equilibrium (11 plays)</title>
+      <link>https://www.last.fm/music/Darius/_/Equilibrium</link>
+      <guid isPermaLink="false">ddgromit-1661889390--Darius---Equilibrium</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b570ac2cdcf98f132a2937303c77ecef.jpg" length="11634" type="image/jpeg"/>
+      <pubDate>Tue, 30 Aug 2022 15:56:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
