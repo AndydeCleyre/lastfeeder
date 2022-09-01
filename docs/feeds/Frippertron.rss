@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Sep 2022 10:45:14 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Win (47 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Win</link>
-      <guid isPermaLink="false">Frippertron-1662010666--5441c29d-3602-4898-b1a1-b77fa23b8e50---Win</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Thu, 01 Sep 2022 01:37:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Sep 2022 10:57:04 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Right (48 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Right</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1662028979--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---If You Don't Love Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
       <pubDate>Thu, 01 Sep 2022 06:42:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - The Sound Of Crying (30 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/The+Sound+Of+Crying</link>
+      <guid isPermaLink="false">Frippertron-1662029203--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The Sound Of Crying</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43f4bd6f02e94bff8bd2adacf4bae17d.png" length="178464" type="image/png"/>
+      <pubDate>Thu, 01 Sep 2022 06:46:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
