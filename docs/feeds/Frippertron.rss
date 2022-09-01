@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Sep 2022 07:42:15 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Young Americans (61 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Young+Americans</link>
-      <guid isPermaLink="false">Frippertron-1661940378--5441c29d-3602-4898-b1a1-b77fa23b8e50---Young Americans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Wed, 31 Aug 2022 06:06:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Win (47 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Win</link>
-      <guid isPermaLink="false">Frippertron-1661940693--5441c29d-3602-4898-b1a1-b77fa23b8e50---Win</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Wed, 31 Aug 2022 06:11:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Sep 2022 07:54:19 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Right (48 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Right</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1662017814--Sparks---Beaver O'Lindy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/012944f14ff14f52cf9e6c4a415fa45d.jpg" length="22400" type="image/jpeg"/>
       <pubDate>Thu, 01 Sep 2022 03:36:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Nothing Is Sacred (8 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/Nothing+Is+Sacred</link>
+      <guid isPermaLink="false">Frippertron-1662018041--Sparks---Nothing Is Sacred</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/012944f14ff14f52cf9e6c4a415fa45d.jpg" length="22400" type="image/jpeg"/>
+      <pubDate>Thu, 01 Sep 2022 03:40:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Do-Re-Mi (7 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/Do-Re-Mi</link>
+      <guid isPermaLink="false">Frippertron-1662018406--Sparks---Do-Re-Mi</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/012944f14ff14f52cf9e6c4a415fa45d.jpg" length="22400" type="image/jpeg"/>
+      <pubDate>Thu, 01 Sep 2022 03:46:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
