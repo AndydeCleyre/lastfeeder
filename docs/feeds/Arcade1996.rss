@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Sep 2022 15:56:13 +0000</lastBuildDate>
-    <item>
-      <title>Kenny Beats - Family Tree (1 play)</title>
-      <link>https://www.last.fm/music/Kenny+Beats/_/Family+Tree</link>
-      <guid isPermaLink="false">Arcade1996-1662025591--Kenny Beats---Family Tree</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9bf50e63251b0d8c767ee84a91f2b1cf.jpg" length="24592" type="image/jpeg"/>
-      <pubDate>Thu, 01 Sep 2022 05:46:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kenny Beats - Hooper (1 play)</title>
-      <link>https://www.last.fm/music/Kenny+Beats/_/Hooper</link>
-      <guid isPermaLink="false">Arcade1996-1662026236--Kenny Beats---Hooper</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9bf50e63251b0d8c767ee84a91f2b1cf.jpg" length="24592" type="image/jpeg"/>
-      <pubDate>Thu, 01 Sep 2022 05:57:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Sep 2022 16:31:17 +0000</lastBuildDate>
     <item>
       <title>Kenny Beats - Still (1 play)</title>
       <link>https://www.last.fm/music/Kenny+Beats/_/Still</link>
@@ -247,7 +233,7 @@
       <pubDate>Fri, 02 Sep 2022 04:48:26 -0400</pubDate>
     </item>
     <item>
-      <title>Actress - AZD SURF (4 plays)</title>
+      <title>Actress - AZD SURF (5 plays)</title>
       <link>https://www.last.fm/music/Actress/_/AZD+SURF</link>
       <guid isPermaLink="false">Arcade1996-1662108771--973321d1-9565-4214-a6ef-a77f1890c294---AZD SURF</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a92c43188d14f26488c417e1d65fd50.jpg" length="12449" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1662220241--Pi’erre Bourne---Superstar</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e44d811a84dc9c1a96ca608e99b6d34a.jpg" length="19733" type="image/jpeg"/>
       <pubDate>Sat, 03 Sep 2022 11:50:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Actress - AZD SURF (5 plays)</title>
+      <link>https://www.last.fm/music/Actress/_/AZD+SURF</link>
+      <guid isPermaLink="false">Arcade1996-1662220499--973321d1-9565-4214-a6ef-a77f1890c294---AZD SURF</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a92c43188d14f26488c417e1d65fd50.jpg" length="12449" type="image/jpeg"/>
+      <pubDate>Sat, 03 Sep 2022 11:54:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Dice - Seabird (1 play)</title>
+      <link>https://www.last.fm/music/Black+Dice/_/Seabird</link>
+      <guid isPermaLink="false">Arcade1996-1662220755--d8f9a4bd-ec27-4e29-8b3e-b8bdb62f950e---Seabird</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b0ad1d18b6441a5bed31b348bda0452.png" length="205314" type="image/png"/>
+      <pubDate>Sat, 03 Sep 2022 11:59:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
