@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Sep 2022 08:25:39 +0000</lastBuildDate>
-    <item>
-      <title>Diamond Head - Dead Reckoning (6 plays)</title>
-      <link>https://www.last.fm/music/Diamond+Head/_/Dead+Reckoning</link>
-      <guid isPermaLink="false">manosg--1662055785--d3dd86df-2f57-4a97-8100-d09915343f60---Dead Reckoning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e73a7d51c48390fcade1f6c548d5c04f.jpg" length="24174" type="image/jpeg"/>
-      <pubDate>Thu, 01 Sep 2022 14:09:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Sep 2022 08:46:34 +0000</lastBuildDate>
     <item>
       <title>Diamond Head - Shoot Out the Lights (1 play)</title>
       <link>https://www.last.fm/music/Diamond+Head/_/Shoot+Out+the+Lights</link>
@@ -65,7 +58,7 @@
       <pubDate>Fri, 02 Sep 2022 05:02:41 -0400</pubDate>
     </item>
     <item>
-      <title>Blind Guardian - Secrets of the American Gods (1 play)</title>
+      <title>Blind Guardian - Secrets of the American Gods</title>
       <link>https://www.last.fm/music/Blind+Guardian/_/Secrets+of+the+American+Gods</link>
       <guid isPermaLink="false">manosg--1662112759--7fa7fc04-1011-4876-8095-ecd232edea87---Secrets of the American Gods</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43e63f642cbe3ff050416bc4970bca0e.png" length="161248" type="image/png"/>
@@ -275,7 +268,7 @@
       <pubDate>Sat, 03 Sep 2022 11:30:56 -0400</pubDate>
     </item>
     <item>
-      <title>The Who - The Seeker - Edit (1 play)</title>
+      <title>The Who - The Seeker - Edit</title>
       <link>https://www.last.fm/music/The+Who/_/The+Seeker+-+Edit</link>
       <guid isPermaLink="false">manosg--1662219249--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---The Seeker - Edit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eea18a7d678040aabed884a4223c89bc.jpg" length="35966" type="image/jpeg"/>
@@ -352,11 +345,18 @@
       <pubDate>Sun, 04 Sep 2022 04:12:47 -0400</pubDate>
     </item>
     <item>
-      <title>Steely Dan - Black Cow (7 plays)</title>
+      <title>Steely Dan - Black Cow</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Black+Cow</link>
       <guid isPermaLink="false">manosg--1662279441--e01c3376-15fa-40d7-b747-5f219bdefdd7---Black Cow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
       <pubDate>Sun, 04 Sep 2022 04:17:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Aja (8 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Aja</link>
+      <guid isPermaLink="false">manosg--1662279752--e01c3376-15fa-40d7-b747-5f219bdefdd7---Aja</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Sun, 04 Sep 2022 04:22:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
