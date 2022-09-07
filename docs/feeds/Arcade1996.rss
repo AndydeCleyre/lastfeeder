@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Sep 2022 09:22:41 +0000</lastBuildDate>
-    <item>
-      <title>Megadeth - Symphony of Destruction (5 plays)</title>
-      <link>https://www.last.fm/music/Megadeth/_/Symphony+of+Destruction</link>
-      <guid isPermaLink="false">Arcade1996-1662384251--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---Symphony of Destruction</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/923998ab6997b27d59b7e691e22c6e08.jpg" length="23957" type="image/jpeg"/>
-      <pubDate>Mon, 05 Sep 2022 09:24:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>System of a Down - Holy Mountains (18 plays)</title>
-      <link>https://www.last.fm/music/System+of+a+Down/_/Holy+Mountains</link>
-      <guid isPermaLink="false">Arcade1996-1662385056--cc0b7089-c08d-4c10-b6b0-873582c17fd6---Holy Mountains</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e0ea42e8dd3e4f1aaa61a7bd0c833117.png" length="193830" type="image/png"/>
-      <pubDate>Mon, 05 Sep 2022 09:37:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Sep 2022 09:44:59 +0000</lastBuildDate>
     <item>
       <title>Sun Kil Moon - Carry Me Ohio (10 plays)</title>
       <link>https://www.last.fm/music/Sun+Kil+Moon/_/Carry+Me+Ohio</link>
@@ -114,7 +100,7 @@
       <pubDate>Tue, 06 Sep 2022 05:21:24 -0400</pubDate>
     </item>
     <item>
-      <title>Hudson Mohawke - Is It Supposed (10 plays)</title>
+      <title>Hudson Mohawke - Is It Supposed (11 plays)</title>
       <link>https://www.last.fm/music/Hudson+Mohawke/_/Is+It+Supposed</link>
       <guid isPermaLink="false">Arcade1996-1662456353--3d403d44-36ce-465c-ad43-ae877e65adc4---Is It Supposed</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cdae55f4609eb1cc194485f7aaff97d3.jpg" length="21101" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1662542363--21645c31-fe1c-45a4-955c-3e172b12c3f9---Too Much (feat. Moneybagg Yo)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54d92124788949da582ba07102ec45d4.jpg" length="25638" type="image/jpeg"/>
       <pubDate>Wed, 07 Sep 2022 05:19:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Sugarcubes - Hit (17 plays)</title>
+      <link>https://www.last.fm/music/The+Sugarcubes/_/Hit</link>
+      <guid isPermaLink="false">Arcade1996-1662542552--95303251-46d5-4239-89c8-eaf0b0947a11---Hit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b84870d3b2a84ee3ce0fa4b1d41c2428.jpg" length="20149" type="image/jpeg"/>
+      <pubDate>Wed, 07 Sep 2022 05:22:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hudson Mohawke - Is It Supposed (11 plays)</title>
+      <link>https://www.last.fm/music/Hudson+Mohawke/_/Is+It+Supposed</link>
+      <guid isPermaLink="false">Arcade1996-1662542789--3d403d44-36ce-465c-ad43-ae877e65adc4---Is It Supposed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cdae55f4609eb1cc194485f7aaff97d3.jpg" length="21101" type="image/jpeg"/>
+      <pubDate>Wed, 07 Sep 2022 05:26:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
