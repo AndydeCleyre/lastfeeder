@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Sep 2022 02:29:40 +0000</lastBuildDate>
-    <item>
-      <title>Gábor Szabó - In My Life (18 plays)</title>
-      <link>https://www.last.fm/music/G%C3%A1bor+Szab%C3%B3/_/In+My+Life</link>
-      <guid isPermaLink="false">evilgnomeandy-1662756203--ee69197a-ca57-42ba-bd23-93b756391a5d---In My Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5ac238d0cba86faadf8126ba40acf587.jpg" length="19779" type="image/jpeg"/>
-      <pubDate>Fri, 09 Sep 2022 16:43:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Caspar Babypants - Wonder Why You Hide (22 plays)</title>
-      <link>https://www.last.fm/music/Caspar+Babypants/_/Wonder+Why+You+Hide</link>
-      <guid isPermaLink="false">evilgnomeandy-1662756356--Caspar Babypants---Wonder Why You Hide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35001ea27e6fb22fe146168c4bb78aff.jpg" length="26089" type="image/jpeg"/>
-      <pubDate>Fri, 09 Sep 2022 16:45:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Sep 2022 23:25:05 +0000</lastBuildDate>
     <item>
       <title>Creedence Clearwater Revival - Born on the Bayou (7 plays)</title>
       <link>https://www.last.fm/music/Creedence+Clearwater+Revival/_/Born+on+the+Bayou</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1662769209--Caspar Babypants &amp; Jason Vontver---Be Quiet Mike</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 09 Sep 2022 20:20:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elizabeth Mitchell - John the Rabbit (1 play)</title>
+      <link>https://www.last.fm/music/Elizabeth+Mitchell/_/John+the+Rabbit</link>
+      <guid isPermaLink="false">evilgnomeandy-1662769451--03845f1b-b6bd-426a-b163-04b347e45270---John the Rabbit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f62284a3e6f5db8c03adbf0df7c83182.jpg" length="19984" type="image/jpeg"/>
+      <pubDate>Fri, 09 Sep 2022 20:24:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Louis Armstrong - Bibbidi-Bobbidi-Boo (1 play)</title>
+      <link>https://www.last.fm/music/Louis+Armstrong/_/Bibbidi-Bobbidi-Boo</link>
+      <guid isPermaLink="false">evilgnomeandy-1662851739--eea8a864-fcda-4602-9569-38ab446decd6---Bibbidi-Bobbidi-Boo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb0889bf91474eff829346cad94a9378.jpg" length="41625" type="image/jpeg"/>
+      <pubDate>Sat, 10 Sep 2022 19:15:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
