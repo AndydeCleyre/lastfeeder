@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Sep 2022 22:45:31 +0000</lastBuildDate>
-    <item>
-      <title>Unprocessed - Rain (1 play)</title>
-      <link>https://www.last.fm/music/Unprocessed/_/Rain</link>
-      <guid isPermaLink="false">lintmunro-1661826662--ef3eb759-49b3-4f20-ac12-a92b87a3cb4c---Rain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a220aa6e357f018dc796fc1df5326aec.jpg" length="24384" type="image/jpeg"/>
-      <pubDate>Mon, 29 Aug 2022 22:31:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Russian Circles - Conduit (2 plays)</title>
-      <link>https://www.last.fm/music/Russian+Circles/_/Conduit</link>
-      <guid isPermaLink="false">lintmunro-1661827260--cca40a67-e959-46f8-a3f3-8a3f77d2da9e---Conduit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/63eb775c45d001155091a4147df24506.jpg" length="18398" type="image/jpeg"/>
-      <pubDate>Mon, 29 Aug 2022 22:41:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Sep 2022 18:55:59 +0000</lastBuildDate>
     <item>
       <title>Russian Circles - Gnosis (2 plays)</title>
       <link>https://www.last.fm/music/Russian+Circles/_/Gnosis</link>
@@ -205,7 +191,7 @@
       <pubDate>Tue, 06 Sep 2022 11:56:15 -0400</pubDate>
     </item>
     <item>
-      <title>KEN mode - Unresponsive (1 play)</title>
+      <title>KEN mode - Unresponsive (2 plays)</title>
       <link>https://www.last.fm/music/KEN+mode/_/Unresponsive</link>
       <guid isPermaLink="false">lintmunro-1662673022--68c1feca-ff4f-4df4-a829-9c495a26c69c---Unresponsive</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c20ed8d0492bd6c3ee63202efa29bfc.jpg" length="9625" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1662935238--a5c06d69-0374-4b87-9d5d-492592eb6e8c---Giving The Past Away</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bcbbbe96d701f01d32f45ea11af323b.jpg" length="5172" type="image/jpeg"/>
       <pubDate>Sun, 11 Sep 2022 18:27:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>KEN mode - Unresponsive (2 plays)</title>
+      <link>https://www.last.fm/music/KEN+mode/_/Unresponsive</link>
+      <guid isPermaLink="false">lintmunro-1663007784--68c1feca-ff4f-4df4-a829-9c495a26c69c---Unresponsive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c20ed8d0492bd6c3ee63202efa29bfc.jpg" length="9625" type="image/jpeg"/>
+      <pubDate>Mon, 12 Sep 2022 14:36:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cloud Rat - Kaleidoscope (1 play)</title>
+      <link>https://www.last.fm/music/Cloud+Rat/_/Kaleidoscope</link>
+      <guid isPermaLink="false">lintmunro-1663008788--4ef06a0d-b8d1-42b4-aff8-06f223306cdb---Kaleidoscope</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e291207f5804c23411892d87f4fd00c.jpg" length="11291" type="image/jpeg"/>
+      <pubDate>Mon, 12 Sep 2022 14:53:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
