@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Sep 2022 20:23:50 +0000</lastBuildDate>
-    <item>
-      <title>Coldplay - Arabesque (5 plays)</title>
-      <link>https://www.last.fm/music/Coldplay/_/Arabesque</link>
-      <guid isPermaLink="false">TalonsOfFire-1662488494--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Arabesque</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b7955e365c8e73cff713a9f15d68636.png" length="174159" type="image/png"/>
-      <pubDate>Tue, 06 Sep 2022 14:21:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Sep 2022 13:51:21 +0000</lastBuildDate>
     <item>
       <title>Coldplay - Orphans (4 plays)</title>
       <link>https://www.last.fm/music/Coldplay/_/Orphans</link>
@@ -107,7 +100,7 @@
       <pubDate>Tue, 06 Sep 2022 15:41:24 -0400</pubDate>
     </item>
     <item>
-      <title>Coldplay - My Universe (1 play)</title>
+      <title>Coldplay - My Universe</title>
       <link>https://www.last.fm/music/Coldplay/_/My+Universe</link>
       <guid isPermaLink="false">TalonsOfFire-1662493497--cc197bad-dc9c-440d-a5b5-d52ba2e14234---My Universe</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fce31d4841bc76861f5ff024281c61d6.png" length="115295" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1662840910--Anathema---Untouchable, Pt. 2</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef2c071efff640b7a408c795c3959bde.png" length="190521" type="image/png"/>
       <pubDate>Sat, 10 Sep 2022 16:15:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cristin Milioti - 715 creeks (2 plays)</title>
+      <link>https://www.last.fm/music/Cristin+Milioti/_/715+creeks</link>
+      <guid isPermaLink="false">TalonsOfFire-1662990440--56f8bdda-33f6-4bf5-96c4-7c7d4e190d31---715 creeks</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b405b0c95f874bf144bea7fcc7dfbb4d.png" length="173853" type="image/png"/>
+      <pubDate>Mon, 12 Sep 2022 09:47:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
