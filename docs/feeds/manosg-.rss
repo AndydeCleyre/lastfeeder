@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Sep 2022 16:35:44 +0000</lastBuildDate>
-    <item>
-      <title>Ozzy Osbourne - Dead and Gone (1 play)</title>
-      <link>https://www.last.fm/music/Ozzy+Osbourne/_/Dead+and+Gone</link>
-      <guid isPermaLink="false">manosg--1662908445--8aa5b65a-5b3c-4029-92bf-47a544356934---Dead and Gone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2094099391ff6674aca84c42bfb4eb37.jpg" length="30746" type="image/jpeg"/>
-      <pubDate>Sun, 11 Sep 2022 11:00:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ozzy Osbourne - God Only Knows (1 play)</title>
-      <link>https://www.last.fm/music/Ozzy+Osbourne/_/God+Only+Knows</link>
-      <guid isPermaLink="false">manosg--1662908813--8aa5b65a-5b3c-4029-92bf-47a544356934---God Only Knows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2094099391ff6674aca84c42bfb4eb37.jpg" length="30746" type="image/jpeg"/>
-      <pubDate>Sun, 11 Sep 2022 11:06:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ozzy Osbourne - Darkside Blues (1 play)</title>
-      <link>https://www.last.fm/music/Ozzy+Osbourne/_/Darkside+Blues</link>
-      <guid isPermaLink="false">manosg--1662909113--8aa5b65a-5b3c-4029-92bf-47a544356934---Darkside Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2094099391ff6674aca84c42bfb4eb37.jpg" length="30746" type="image/jpeg"/>
-      <pubDate>Sun, 11 Sep 2022 11:11:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Judas Priest - Heading Out to the Highway (11 plays)</title>
-      <link>https://www.last.fm/music/Judas+Priest/_/Heading+Out+to+the+Highway</link>
-      <guid isPermaLink="false">manosg--1662909223--6b335658-22c8-485d-93de-0bc29a1d0349---Heading Out to the Highway</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e852bb1cddc669874cb4463332bdffc.png" length="122004" type="image/png"/>
-      <pubDate>Sun, 11 Sep 2022 11:13:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>Def Leppard - Let It Go (5 plays)</title>
-      <link>https://www.last.fm/music/Def+Leppard/_/Let+It+Go</link>
-      <guid isPermaLink="false">manosg--1662909471--7249b899-8db8-43e7-9e6e-22f1e736024e---Let It Go</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9899e9c1e21a6fb72974e90c0a8bf51c.jpg" length="32403" type="image/jpeg"/>
-      <pubDate>Sun, 11 Sep 2022 11:17:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Def Leppard - Another Hit and Run (5 plays)</title>
-      <link>https://www.last.fm/music/Def+Leppard/_/Another+Hit+and+Run</link>
-      <guid isPermaLink="false">manosg--1662910007--7249b899-8db8-43e7-9e6e-22f1e736024e---Another Hit and Run</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9899e9c1e21a6fb72974e90c0a8bf51c.jpg" length="32403" type="image/jpeg"/>
-      <pubDate>Sun, 11 Sep 2022 11:26:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Styx - Great White Hope (2 plays)</title>
-      <link>https://www.last.fm/music/Styx/_/Great+White+Hope</link>
-      <guid isPermaLink="false">manosg--1662961729--835a6d9c-fea0-4a71-ae52-9c4da946433a---Great White Hope</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38a582ae95385325166b169702ee5608.png" length="201741" type="image/png"/>
-      <pubDate>Mon, 12 Sep 2022 01:48:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Styx - I'm O.K. (2 plays)</title>
-      <link>https://www.last.fm/music/Styx/_/I%27m+O.K.</link>
-      <guid isPermaLink="false">manosg--1662961994--835a6d9c-fea0-4a71-ae52-9c4da946433a---I'm O.K.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38a582ae95385325166b169702ee5608.png" length="201741" type="image/png"/>
-      <pubDate>Mon, 12 Sep 2022 01:53:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Styx - Sing For The Day (2 plays)</title>
-      <link>https://www.last.fm/music/Styx/_/Sing+For+The+Day</link>
-      <guid isPermaLink="false">manosg--1662962422--835a6d9c-fea0-4a71-ae52-9c4da946433a---Sing For The Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38a582ae95385325166b169702ee5608.png" length="201741" type="image/png"/>
-      <pubDate>Mon, 12 Sep 2022 02:00:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Sep 2022 06:00:15 +0000</lastBuildDate>
     <item>
       <title>Styx - The Message (2 plays)</title>
       <link>https://www.last.fm/music/Styx/_/The+Message</link>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">manosg--1662998388--8fa5d80d-37e8-4133-9d5c-6bad446c63f0---Hold On</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c2d5797677b4d03b3996bf40453535c.jpg" length="21765" type="image/jpeg"/>
       <pubDate>Mon, 12 Sep 2022 11:59:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Stone Cold (5 plays)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Stone+Cold</link>
+      <guid isPermaLink="false">manosg--1663004784--Rainbow---Stone Cold</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg" length="28841" type="image/jpeg"/>
+      <pubDate>Mon, 12 Sep 2022 13:46:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Stone Cold (5 plays)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Stone+Cold</link>
+      <guid isPermaLink="false">manosg--1663046054--Rainbow---Stone Cold</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg" length="28841" type="image/jpeg"/>
+      <pubDate>Tue, 13 Sep 2022 01:14:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Bring on the Night (Dream Chaser) (2 plays)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Bring+on+the+Night+(Dream+Chaser)</link>
+      <guid isPermaLink="false">manosg--1663046372--Rainbow---Bring on the Night (Dream Chaser)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg" length="28841" type="image/jpeg"/>
+      <pubDate>Tue, 13 Sep 2022 01:19:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Tite Squeeze (2 plays)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Tite+Squeeze</link>
+      <guid isPermaLink="false">manosg--1663046916--Rainbow---Tite Squeeze</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg" length="28841" type="image/jpeg"/>
+      <pubDate>Tue, 13 Sep 2022 01:28:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Tearin Out My Heart (2 plays)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Tearin+Out+My+Heart</link>
+      <guid isPermaLink="false">manosg--1663047111--Rainbow---Tearin Out My Heart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg" length="28841" type="image/jpeg"/>
+      <pubDate>Tue, 13 Sep 2022 01:31:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Power (1 play)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Power</link>
+      <guid isPermaLink="false">manosg--1663047357--Rainbow---Power</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg" length="28841" type="image/jpeg"/>
+      <pubDate>Tue, 13 Sep 2022 01:35:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Miss Mistreated (2 plays)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Miss+Mistreated</link>
+      <guid isPermaLink="false">manosg--1663047623--Rainbow---Miss Mistreated</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg" length="28841" type="image/jpeg"/>
+      <pubDate>Tue, 13 Sep 2022 01:40:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Rock Fever (2 plays)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Rock+Fever</link>
+      <guid isPermaLink="false">manosg--1663047955--Rainbow---Rock Fever</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg" length="28841" type="image/jpeg"/>
+      <pubDate>Tue, 13 Sep 2022 01:45:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rainbow - Eyes of Fire (1 play)</title>
+      <link>https://www.last.fm/music/Rainbow/_/Eyes+of+Fire</link>
+      <guid isPermaLink="false">manosg--1663048185--Rainbow---Eyes of Fire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg" length="28841" type="image/jpeg"/>
+      <pubDate>Tue, 13 Sep 2022 01:49:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
