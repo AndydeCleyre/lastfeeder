@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Sep 2022 08:54:51 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - I Think I'm Going To Kill Myself (41 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/I+Think+I%27m+Going+To+Kill+Myself</link>
-      <guid isPermaLink="false">Frippertron-1663038095--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---I Think I'm Going To Kill Myself</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9194f7f823e853aa688f5ed5f827413d.jpg" length="21059" type="image/jpeg"/>
-      <pubDate>Mon, 12 Sep 2022 23:01:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Fame (164 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Fame</link>
-      <guid isPermaLink="false">Frippertron-1663038316--5441c29d-3602-4898-b1a1-b77fa23b8e50---Fame</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2842d5f3c928b3e85b0d7ccd67307ec.jpg" length="21936" type="image/jpeg"/>
-      <pubDate>Mon, 12 Sep 2022 23:05:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Sep 2022 09:25:10 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Beauty and the Beast (127 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1663058855--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Lady Lies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd680dff4a9949d792d4098a8ab68bb1.png" length="167335" type="image/png"/>
       <pubDate>Tue, 13 Sep 2022 04:47:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Abacab (32 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Abacab</link>
+      <guid isPermaLink="false">Frippertron-1663059220--60aa2510-4ab1-4e50-9267-30a15700dc1c---Abacab</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/135f00330fff4739b9f9ea74ee9009d0.png" length="32968" type="image/png"/>
+      <pubDate>Tue, 13 Sep 2022 04:53:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - No Reply at All (39 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/No+Reply+at+All</link>
+      <guid isPermaLink="false">Frippertron-1663059638--60aa2510-4ab1-4e50-9267-30a15700dc1c---No Reply at All</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/135f00330fff4739b9f9ea74ee9009d0.png" length="32968" type="image/png"/>
+      <pubDate>Tue, 13 Sep 2022 05:00:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
