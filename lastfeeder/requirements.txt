@@ -6,7 +6,7 @@ backports-zoneinfo==0.2.1
     # via
     #   pytz-deprecation-shim
     #   tzlocal
-certifi==2022.6.15.1
+certifi==2022.9.14
     # via
     #   httpcore
     #   httpx
@@ -22,7 +22,7 @@ httpx==0.23.0
     # via -r requirements.in
 humanize==4.3.0
     # via delorean
-idna==3.3
+idna==3.4
     # via
     #   anyio
     #   rfc3986
