@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Sep 2022 17:39:06 +0000</lastBuildDate>
-    <item>
-      <title>Lorna Shore - Of the Abyss (2 plays)</title>
-      <link>https://www.last.fm/music/Lorna+Shore/_/Of+the+Abyss</link>
-      <guid isPermaLink="false">WillieFisterbut-1662928195--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Of the Abyss</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00be022b9336b792c6b8c98d2a37e3d9.jpg" length="16018" type="image/jpeg"/>
-      <pubDate>Sun, 11 Sep 2022 16:29:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lorna Shore - ...And I Return To Nothingness (2 plays)</title>
-      <link>https://www.last.fm/music/Lorna+Shore/_/...And+I+Return+To+Nothingness</link>
-      <guid isPermaLink="false">WillieFisterbut-1662928565--e86fc1f5-d632-44b2-8aea-38f83aadffe8---...And I Return To Nothingness</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00be022b9336b792c6b8c98d2a37e3d9.jpg" length="16018" type="image/jpeg"/>
-      <pubDate>Sun, 11 Sep 2022 16:36:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Sep 2022 17:54:05 +0000</lastBuildDate>
     <item>
       <title>Charlotte Wessels - Against All Odds (1 play)</title>
       <link>https://www.last.fm/music/Charlotte+Wessels/_/Against+All+Odds</link>
@@ -110,6 +96,7 @@
       <title>Gerard McMann - Cry Little Sister (Theme from The Lost Boys) (3 plays)</title>
       <link>https://www.last.fm/music/Gerard+McMann/_/Cry+Little+Sister+(Theme+from+The+Lost+Boys)</link>
       <guid isPermaLink="false">WillieFisterbut-1662989396--ddccbe1a-de6a-4907-a095-5ab6ffab3b1f---Cry Little Sister (Theme from The Lost Boys)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0294ce1041449ba8554333b09d20520.jpg" length="17351" type="image/jpeg"/>
       <pubDate>Mon, 12 Sep 2022 09:29:56 -0400</pubDate>
     </item>
     <item>
@@ -123,7 +110,7 @@
       <title>Lorna Shore - To the Hellfire (5 plays)</title>
       <link>https://www.last.fm/music/Lorna+Shore/_/To+the+Hellfire</link>
       <guid isPermaLink="false">WillieFisterbut-1662993342--e86fc1f5-d632-44b2-8aea-38f83aadffe8---To the Hellfire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00be022b9336b792c6b8c98d2a37e3d9.jpg" length="16018" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00be022b9336b792c6b8c98d2a37e3d9.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Mon, 12 Sep 2022 10:35:42 -0400</pubDate>
     </item>
     <item>
@@ -354,8 +341,21 @@
       <title>An Abstract Illusion - Tear Down This Holy Mountain (1 play)</title>
       <link>https://www.last.fm/music/An+Abstract+Illusion/_/Tear+Down+This+Holy+Mountain</link>
       <guid isPermaLink="false">WillieFisterbut-1663435597--c1630cd6-541b-42e0-bba6-bb2a2f751105---Tear Down This Holy Mountain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d37a025527f2831f4d166e53e62195c.jpg" length="16961" type="image/jpeg"/>
       <pubDate>Sat, 17 Sep 2022 13:26:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>ABYSSIC - Cold as Winter Storm</title>
+      <link>https://www.last.fm/music/ABYSSIC/_/Cold+as+Winter+Storm</link>
+      <guid isPermaLink="false">WillieFisterbut-1663436498--ABYSSIC---Cold as Winter Storm</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 17 Sep 2022 13:41:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>ABYSSIC - Chronicle of the Dead</title>
+      <link>https://www.last.fm/music/ABYSSIC/_/Chronicle+of+the+Dead</link>
+      <guid isPermaLink="false">WillieFisterbut-1663436665--ABYSSIC---Chronicle of the Dead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 17 Sep 2022 13:44:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
