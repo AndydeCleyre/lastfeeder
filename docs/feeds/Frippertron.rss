@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Sep 2022 05:15:16 +0000</lastBuildDate>
-    <item>
-      <title>black midi - Speedway (108 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Speedway</link>
-      <guid isPermaLink="false">Frippertron-1663306936--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Speedway</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71cc3ceed9ab5f0d5e94c368a0cd8552.png" length="88367" type="image/png"/>
-      <pubDate>Fri, 16 Sep 2022 01:42:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>black midi - Reggae (35 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Reggae</link>
-      <guid isPermaLink="false">Frippertron-1663307136--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Reggae</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71cc3ceed9ab5f0d5e94c368a0cd8552.png" length="88367" type="image/png"/>
-      <pubDate>Fri, 16 Sep 2022 01:45:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Sep 2022 13:53:58 +0000</lastBuildDate>
     <item>
       <title>black midi - Near DT, MI (115 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Near+DT,+MI</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1663325437--20883363-1ea4-4d72-ad72-c0e767038f3e---Blacklight Shine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/293703b61fd7e3cb361552272e57185d.jpg" length="8242" type="image/jpeg"/>
       <pubDate>Fri, 16 Sep 2022 06:50:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Captain Fantastic And The Brown Dirt Cowboy (13 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Captain+Fantastic+And+The+Brown+Dirt+Cowboy</link>
+      <guid isPermaLink="false">Frippertron-1663508402--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Captain Fantastic And The Brown Dirt Cowboy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Sun, 18 Sep 2022 09:40:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Tower Of Babel (16 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Tower+Of+Babel</link>
+      <guid isPermaLink="false">Frippertron-1663508755--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Tower Of Babel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Sun, 18 Sep 2022 09:45:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
