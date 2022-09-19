@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Sep 2022 06:03:59 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - We All Fall In Love Sometimes (38 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/We+All+Fall+In+Love+Sometimes</link>
-      <guid isPermaLink="false">Frippertron-1663510582--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---We All Fall In Love Sometimes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
-      <pubDate>Sun, 18 Sep 2022 10:16:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Sep 2022 07:11:34 +0000</lastBuildDate>
     <item>
       <title>Elton John - Curtains (41 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Curtains</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1663567242--5441c29d-3602-4898-b1a1-b77fa23b8e50---Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
       <pubDate>Mon, 19 Sep 2022 02:00:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - Hungry Heart (18 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/Hungry+Heart</link>
+      <guid isPermaLink="false">Frippertron-1663571133--70248960-cb53-4ea4-943a-edb18f7d336f---Hungry Heart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1de065c26b0241beb35b7a44243d730f.png" length="180274" type="image/png"/>
+      <pubDate>Mon, 19 Sep 2022 03:05:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
