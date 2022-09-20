@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Sep 2022 10:54:19 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - The Waiting Room (41 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Waiting+Room</link>
-      <guid isPermaLink="false">Frippertron-1663562305--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Waiting Room</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
-      <pubDate>Mon, 19 Sep 2022 00:38:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Sep 2022 02:25:35 +0000</lastBuildDate>
     <item>
       <title>Genesis - Anyway (62 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Anyway</link>
@@ -93,7 +86,7 @@
       <pubDate>Mon, 19 Sep 2022 01:25:52 -0400</pubDate>
     </item>
     <item>
-      <title>David Bowie - Station to Station (87 plays)</title>
+      <title>David Bowie - Station to Station (88 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Station+to+Station</link>
       <guid isPermaLink="false">Frippertron-1663565778--5441c29d-3602-4898-b1a1-b77fa23b8e50---Station to Station</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1663583880--60aa2510-4ab1-4e50-9267-30a15700dc1c---Feeding the Fire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf202251fb7131f6dbc08be64d0a43c5.png" length="137052" type="image/png"/>
       <pubDate>Mon, 19 Sep 2022 06:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Station to Station (88 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Station+to+Station</link>
+      <guid isPermaLink="false">Frippertron-1663640463--5441c29d-3602-4898-b1a1-b77fa23b8e50---Station to Station</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d5e3ba9f875ec614950bb54f7cf9655.png" length="57157" type="image/png"/>
+      <pubDate>Mon, 19 Sep 2022 22:21:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
