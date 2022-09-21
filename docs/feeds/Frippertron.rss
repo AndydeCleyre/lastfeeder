@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Sep 2022 05:57:35 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Invisible Touch (13 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Invisible+Touch</link>
-      <guid isPermaLink="false">Frippertron-1663667093--60aa2510-4ab1-4e50-9267-30a15700dc1c---Invisible Touch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf202251fb7131f6dbc08be64d0a43c5.png" length="137052" type="image/png"/>
-      <pubDate>Tue, 20 Sep 2022 05:44:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Stagnation (17 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Stagnation</link>
-      <guid isPermaLink="false">Frippertron-1663667307--60aa2510-4ab1-4e50-9267-30a15700dc1c---Stagnation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a4f0bed2eeb46ea97f20fda573d7419.jpg" length="31184" type="image/jpeg"/>
-      <pubDate>Tue, 20 Sep 2022 05:48:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Sep 2022 07:02:10 +0000</lastBuildDate>
     <item>
       <title>Genesis - No Reply at All (41 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/No+Reply+at+All</link>
@@ -250,6 +236,7 @@
       <title>David Bowie - Life on Mars? (174 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Life+on+Mars%3F</link>
       <guid isPermaLink="false">Frippertron-1663735078--5441c29d-3602-4898-b1a1-b77fa23b8e50---Life on Mars?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe7e448f7ea225b595e9e8d83d19c548.jpg" length="19602" type="image/jpeg"/>
       <pubDate>Wed, 21 Sep 2022 00:37:58 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1663739506--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Grow Some Funk Of Your Own</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26248132e33d85cb29bbd81cf0bef6a8.jpg" length="24656" type="image/jpeg"/>
       <pubDate>Wed, 21 Sep 2022 01:51:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Cracked Actor (132 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Cracked+Actor</link>
+      <guid isPermaLink="false">Frippertron-1663739830--5441c29d-3602-4898-b1a1-b77fa23b8e50---Cracked Actor</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
+      <pubDate>Wed, 21 Sep 2022 01:57:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Time (88 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Time</link>
+      <guid isPermaLink="false">Frippertron-1663740012--5441c29d-3602-4898-b1a1-b77fa23b8e50---Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
+      <pubDate>Wed, 21 Sep 2022 02:00:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
