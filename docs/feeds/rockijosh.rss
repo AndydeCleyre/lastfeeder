@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Sep 2022 22:23:06 +0000</lastBuildDate>
-    <item>
-      <title>Luke Bodine - Tailspin (17 plays)</title>
-      <link>https://www.last.fm/music/Luke+Bodine/_/Tailspin</link>
-      <guid isPermaLink="false">rockijosh-1663936770--Luke Bodine---Tailspin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 23 Sep 2022 08:39:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jeff Rosenstock - Nausea (143 plays)</title>
-      <link>https://www.last.fm/music/Jeff+Rosenstock/_/Nausea</link>
-      <guid isPermaLink="false">rockijosh-1663936957--14892f45-a103-44f2-bb18-ee4a20d7876e---Nausea</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/248f0f82efa0147e59c9fd6f32916075.jpg" length="14168" type="image/jpeg"/>
-      <pubDate>Fri, 23 Sep 2022 08:42:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>PUP - Matilda - Live in Toronto / 2022 (2 plays)</title>
-      <link>https://www.last.fm/music/PUP/_/Matilda+-+Live+in+Toronto+%2F+2022</link>
-      <guid isPermaLink="false">rockijosh-1663937590--PUP---Matilda - Live in Toronto / 2022</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2589f25dfd788b7dcb8489483d8b986.png" length="109281" type="image/png"/>
-      <pubDate>Fri, 23 Sep 2022 08:53:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Sep 2022 22:44:51 +0000</lastBuildDate>
     <item>
       <title>ITZY - SNEAKERS (10 plays)</title>
       <link>https://www.last.fm/music/ITZY/_/SNEAKERS</link>
@@ -142,6 +121,13 @@
       <pubDate>Sat, 24 Sep 2022 11:53:31 -0400</pubDate>
     </item>
     <item>
+      <title>Nayeon - POP! (15 plays)</title>
+      <link>https://www.last.fm/music/Nayeon/_/POP!</link>
+      <guid isPermaLink="false">rockijosh-1664038311--Nayeon---POP!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d842bea788c1c3fca32b00a4c3557b10.jpg" length="16508" type="image/jpeg"/>
+      <pubDate>Sat, 24 Sep 2022 12:51:51 -0400</pubDate>
+    </item>
+    <item>
       <title>PUP - Matilda (60 plays)</title>
       <link>https://www.last.fm/music/PUP/_/Matilda</link>
       <guid isPermaLink="false">rockijosh-1664038554--3165f5e0-44ff-446a-81d7-c09ec69661ae---Matilda</guid>
@@ -149,7 +135,7 @@
       <pubDate>Sat, 24 Sep 2022 12:55:54 -0400</pubDate>
     </item>
     <item>
-      <title>Nayeon - POP! (14 plays)</title>
+      <title>Nayeon - POP! (15 plays)</title>
       <link>https://www.last.fm/music/Nayeon/_/POP!</link>
       <guid isPermaLink="false">rockijosh-1664038785--Nayeon---POP!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d842bea788c1c3fca32b00a4c3557b10.jpg" length="16508" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1664057896--Lights---Banner (Acoustic)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95da8f631f2b4625856b4bdae98e5245.png" length="197683" type="image/png"/>
       <pubDate>Sat, 24 Sep 2022 18:18:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lights - Don't Go Home Without Me (13 plays)</title>
+      <link>https://www.last.fm/music/Lights/_/Don%27t+Go+Home+Without+Me</link>
+      <guid isPermaLink="false">rockijosh-1664058131--Lights---Don't Go Home Without Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae35ab6410a824a563b3007d4902aa09.png" length="162978" type="image/png"/>
+      <pubDate>Sat, 24 Sep 2022 18:22:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tokyo Machine - Last Summer (1 play)</title>
+      <link>https://www.last.fm/music/Tokyo+Machine/_/Last+Summer</link>
+      <guid isPermaLink="false">rockijosh-1664058390--Tokyo Machine---Last Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03ba833483c37743490f5421700bb00d.jpg" length="29281" type="image/jpeg"/>
+      <pubDate>Sat, 24 Sep 2022 18:26:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
