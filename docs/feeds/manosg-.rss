@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Sep 2022 09:36:16 +0000</lastBuildDate>
-    <item>
-      <title>Rodríguez - Forget It (1 play)</title>
-      <link>https://www.last.fm/music/Rodr%C3%ADguez/_/Forget+It</link>
-      <guid isPermaLink="false">manosg--1664181171--c89b768a-c92d-47c2-b97b-f5bbc732955c---Forget It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2bf4375d6cd2b8d1d00e5c45d78f723.jpg" length="27082" type="image/jpeg"/>
-      <pubDate>Mon, 26 Sep 2022 04:32:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Neil Young - Heart of Gold (4 plays)</title>
-      <link>https://www.last.fm/music/Neil+Young/_/Heart+of+Gold</link>
-      <guid isPermaLink="false">manosg--1664181282--75167b8b-44e4-407b-9d35-effe87b223cf---Heart of Gold</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d2258f1ff7a4460bec7eed4efe6f9fc.png" length="132740" type="image/png"/>
-      <pubDate>Mon, 26 Sep 2022 04:34:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Sep 2022 10:00:42 +0000</lastBuildDate>
     <item>
       <title>Scott Walker - Rosemary (2 plays)</title>
       <link>https://www.last.fm/music/Scott+Walker/_/Rosemary</link>
@@ -145,7 +131,6 @@
       <title>The Velvet Underground - Ride Into The Sun - "1969" / 2014 Mix (1 play)</title>
       <link>https://www.last.fm/music/The+Velvet+Underground/_/Ride+Into+The+Sun+-+%221969%22+%2F+2014+Mix</link>
       <guid isPermaLink="false">manosg--1664188135--The Velvet Underground---Ride Into The Sun - "1969" / 2014 Mix</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4ce44348cf44058c0cb9d6ca3b128ab.jpg" length="18080" type="image/jpeg"/>
       <pubDate>Mon, 26 Sep 2022 06:28:55 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,19 @@
       <guid isPermaLink="false">manosg--1664271179--e5963d26-01fa-40f5-b200-e0127f410a45---Daddy's Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/039379d1897545769733e7d3fca3c369.png" length="202672" type="image/png"/>
       <pubDate>Tue, 27 Sep 2022 05:32:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Harry Chapin - Cat's in the Cradle (1 play)</title>
+      <link>https://www.last.fm/music/Harry+Chapin/_/Cat%27s+in+the+Cradle</link>
+      <guid isPermaLink="false">manosg--1664271362--ae4e3542-7838-4a6f-b753-08216be5a6bb---Cat's in the Cradle</guid>
+      <pubDate>Tue, 27 Sep 2022 05:36:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Phil Collins - Sussudio - 2016 Remaster (5 plays)</title>
+      <link>https://www.last.fm/music/Phil+Collins/_/Sussudio+-+2016+Remaster</link>
+      <guid isPermaLink="false">manosg--1664271614--Phil Collins---Sussudio - 2016 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2269d19214f35168b3a325fca4f07240.jpg" length="9489" type="image/jpeg"/>
+      <pubDate>Tue, 27 Sep 2022 05:40:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
