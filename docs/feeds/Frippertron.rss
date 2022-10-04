@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Oct 2022 07:17:11 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - 1984/Dodo (30 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/1984%2FDodo</link>
-      <guid isPermaLink="false">Frippertron-1664850540--5441c29d-3602-4898-b1a1-b77fa23b8e50---1984/Dodo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab6b39f3402c445dc468229c74dc236d.jpg" length="16073" type="image/jpeg"/>
-      <pubDate>Mon, 03 Oct 2022 22:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - She Shook Me Cold (52 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/She+Shook+Me+Cold</link>
-      <guid isPermaLink="false">Frippertron-1664850892--5441c29d-3602-4898-b1a1-b77fa23b8e50---She Shook Me Cold</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
-      <pubDate>Mon, 03 Oct 2022 22:34:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - All the Madmen (38 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/All+the+Madmen</link>
-      <guid isPermaLink="false">Frippertron-1664851150--5441c29d-3602-4898-b1a1-b77fa23b8e50---All the Madmen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
-      <pubDate>Mon, 03 Oct 2022 22:39:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Oct 2022 07:53:02 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Black Country Rock (27 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Black+Country+Rock</link>
@@ -156,7 +135,7 @@
       <pubDate>Tue, 04 Oct 2022 00:03:42 -0400</pubDate>
     </item>
     <item>
-      <title>Gentle Giant - Funny Ways (13 plays)</title>
+      <title>Gentle Giant - Funny Ways (14 plays)</title>
       <link>https://www.last.fm/music/Gentle+Giant/_/Funny+Ways</link>
       <guid isPermaLink="false">Frippertron-1664857559--f795c501-1c41-4be2-bc2a-875eba75aa31---Funny Ways</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff768ce2e6bf181de04ce3684eab07ff.png" length="160763" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1664867328--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Arrow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 04 Oct 2022 03:08:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Lemmings (33 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Lemmings</link>
+      <guid isPermaLink="false">Frippertron-1664868010--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 04 Oct 2022 03:20:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Funny Ways (14 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Funny+Ways</link>
+      <guid isPermaLink="false">Frippertron-1664869177--f795c501-1c41-4be2-bc2a-875eba75aa31---Funny Ways</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff768ce2e6bf181de04ce3684eab07ff.png" length="160763" type="image/png"/>
+      <pubDate>Tue, 04 Oct 2022 03:39:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Dangerous Liaisons (73 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Dangerous+Liaisons</link>
+      <guid isPermaLink="false">Frippertron-1664869687--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Dangerous Liaisons</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
+      <pubDate>Tue, 04 Oct 2022 03:48:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
