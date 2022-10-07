@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Oct 2022 21:23:07 +0000</lastBuildDate>
-    <item>
-      <title>Portishead - Glory Box (6 plays)</title>
-      <link>https://www.last.fm/music/Portishead/_/Glory+Box</link>
-      <guid isPermaLink="false">TalonsOfFire-1664296521--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---Glory Box</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29f72d0333df4193981b5ff16dd37df6.png" length="81442" type="image/png"/>
-      <pubDate>Tue, 27 Sep 2022 12:35:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Oct 2022 21:46:47 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Sorrow (6 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Sorrow</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1665177548--20104c4d-cba0-4371-ab77-2f9d544674be---5 Hooks</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8202245663f7c1ca5e3040e9c988faf.jpg" length="20838" type="image/jpeg"/>
       <pubDate>Fri, 07 Oct 2022 17:19:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fleet Foxes - Montezuma (14 plays)</title>
+      <link>https://www.last.fm/music/Fleet+Foxes/_/Montezuma</link>
+      <guid isPermaLink="false">TalonsOfFire-1665177786--fa97dd36-1b82-43d7-a6e4-2adeafd59cef---Montezuma</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff20a3537d91409ca96dc8927d4f879f.png" length="205095" type="image/png"/>
+      <pubDate>Fri, 07 Oct 2022 17:23:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
