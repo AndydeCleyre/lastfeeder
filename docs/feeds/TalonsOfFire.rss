@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Oct 2022 23:54:29 +0000</lastBuildDate>
-    <item>
-      <title>Bibio - Sleep On The Wing (3 plays)</title>
-      <link>https://www.last.fm/music/Bibio/_/Sleep+On+The+Wing</link>
-      <guid isPermaLink="false">TalonsOfFire-1664567055--9f9953f0-68bb-4ce3-aace-2f44c87f0aa3---Sleep On The Wing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3278308ab884bd5de1b331417998e37f.jpg" length="34408" type="image/jpeg"/>
-      <pubDate>Fri, 30 Sep 2022 15:44:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Camel - Rhayader Alone (3 plays)</title>
-      <link>https://www.last.fm/music/Camel/_/Rhayader+Alone</link>
-      <guid isPermaLink="false">TalonsOfFire-1664567275--a55d6b66-0897-4840-9894-7b140d78513a---Rhayader Alone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/254a64c0ef9544138435760be5037c36.png" length="133204" type="image/png"/>
-      <pubDate>Fri, 30 Sep 2022 15:47:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Oct 2022 03:43:55 +0000</lastBuildDate>
     <item>
       <title>Katatonia - Hypnone (3 plays)</title>
       <link>https://www.last.fm/music/Katatonia/_/Hypnone</link>
@@ -212,11 +198,18 @@
       <pubDate>Fri, 07 Oct 2022 17:52:24 -0400</pubDate>
     </item>
     <item>
-      <title>Helios - Emancipation (3 plays)</title>
+      <title>Helios - Emancipation (4 plays)</title>
       <link>https://www.last.fm/music/Helios/_/Emancipation</link>
       <guid isPermaLink="false">TalonsOfFire-1665180052--Helios---Emancipation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef5ea289642f45939fbd09fe2f3ed0af.png" length="133799" type="image/png"/>
       <pubDate>Fri, 07 Oct 2022 18:00:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Helios - Emancipation (4 plays)</title>
+      <link>https://www.last.fm/music/Helios/_/Emancipation</link>
+      <guid isPermaLink="false">TalonsOfFire-1665180212--Helios---Emancipation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef5ea289642f45939fbd09fe2f3ed0af.png" length="133799" type="image/png"/>
+      <pubDate>Fri, 07 Oct 2022 18:03:32 -0400</pubDate>
     </item>
     <item>
       <title>My Morning Jacket - Lowdown (7 plays)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1665186422--ea5883b7-68ce-48b3-b115-61746ea53b8c---Gideon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46577e3f165d4cbbb70dd6fb5b344b4f.png" length="140162" type="image/png"/>
       <pubDate>Fri, 07 Oct 2022 19:47:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>My Morning Jacket - Lay Low (9 plays)</title>
+      <link>https://www.last.fm/music/My+Morning+Jacket/_/Lay+Low</link>
+      <guid isPermaLink="false">TalonsOfFire-1665192118--ea5883b7-68ce-48b3-b115-61746ea53b8c---Lay Low</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46577e3f165d4cbbb70dd6fb5b344b4f.png" length="140162" type="image/png"/>
+      <pubDate>Fri, 07 Oct 2022 21:21:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
