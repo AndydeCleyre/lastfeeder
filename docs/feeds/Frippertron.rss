@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Oct 2022 05:51:47 +0000</lastBuildDate>
-    <item>
-      <title>Iggy Pop - Funtime (79 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/Funtime</link>
-      <guid isPermaLink="false">Frippertron-1665369940--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Funtime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7d9060e4e0042ba9efed6e2534d38cd.png" length="93291" type="image/png"/>
-      <pubDate>Sun, 09 Oct 2022 22:45:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iggy Pop - China Girl (127 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/China+Girl</link>
-      <guid isPermaLink="false">Frippertron-1665370168--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---China Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7d9060e4e0042ba9efed6e2534d38cd.png" length="93291" type="image/png"/>
-      <pubDate>Sun, 09 Oct 2022 22:49:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Oct 2022 06:53:04 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Quicksand (115 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Quicksand</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1665380834--eed5660c-f1a1-47f9-9284-f0b9f02199de---La maudite machine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0212b2fa6be04ac584d1abae3a233600.jpg" length="24941" type="image/jpeg"/>
       <pubDate>Mon, 10 Oct 2022 01:47:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Blueberry Pies (64 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Blueberry+Pies</link>
+      <guid isPermaLink="false">Frippertron-1665381123--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Blueberry Pies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8970aa3b488e88cf7be0d7117be7c78c.jpg" length="24641" type="image/jpeg"/>
+      <pubDate>Mon, 10 Oct 2022 01:52:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - When The Angels (66 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/When+The+Angels</link>
+      <guid isPermaLink="false">Frippertron-1665381269--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---When The Angels</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8970aa3b488e88cf7be0d7117be7c78c.jpg" length="24641" type="image/jpeg"/>
+      <pubDate>Mon, 10 Oct 2022 01:54:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
