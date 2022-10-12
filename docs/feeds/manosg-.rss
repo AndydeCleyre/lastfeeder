@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Oct 2022 10:01:28 +0000</lastBuildDate>
-    <item>
-      <title>Leonard Cohen - If I Didn't Have Your Love (9 plays)</title>
-      <link>https://www.last.fm/music/Leonard+Cohen/_/If+I+Didn%27t+Have+Your+Love</link>
-      <guid isPermaLink="false">manosg--1665413803--65314b12-0e08-43fa-ba33-baaa7b874c15---If I Didn't Have Your Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c19ff237d288825f4cc4342bd829aa17.jpg" length="6931" type="image/jpeg"/>
-      <pubDate>Mon, 10 Oct 2022 10:56:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Oct 2022 11:02:11 +0000</lastBuildDate>
     <item>
       <title>Leonard Cohen - Traveling Light (8 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Traveling+Light</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1665567994--Blur---Turn It Up - 2012 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ed3bb405cd44092820652fe6d8ba2fe.png" length="212301" type="image/png"/>
       <pubDate>Wed, 12 Oct 2022 05:46:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Blur - Resigned - 2012 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Blur/_/Resigned+-+2012+Remaster</link>
+      <guid isPermaLink="false">manosg--1665568197--Blur---Resigned - 2012 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ed3bb405cd44092820652fe6d8ba2fe.png" length="212301" type="image/png"/>
+      <pubDate>Wed, 12 Oct 2022 05:49:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
