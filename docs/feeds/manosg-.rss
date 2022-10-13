@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Oct 2022 06:50:50 +0000</lastBuildDate>
-    <item>
-      <title>ZZ Top - Goin' Down to Mexico (2 plays)</title>
-      <link>https://www.last.fm/music/ZZ+Top/_/Goin%27+Down+to+Mexico</link>
-      <guid isPermaLink="false">manosg--1665423883--a81259a0-a2f5-464b-866e-71220f2739f1---Goin' Down to Mexico</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2441f642689417096cc8f84b7482f7e.jpg" length="20526" type="image/jpeg"/>
-      <pubDate>Mon, 10 Oct 2022 13:44:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>ZZ Top - Old Man (2 plays)</title>
-      <link>https://www.last.fm/music/ZZ+Top/_/Old+Man</link>
-      <guid isPermaLink="false">manosg--1665424087--a81259a0-a2f5-464b-866e-71220f2739f1---Old Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2441f642689417096cc8f84b7482f7e.jpg" length="20526" type="image/jpeg"/>
-      <pubDate>Mon, 10 Oct 2022 13:48:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Oct 2022 07:36:16 +0000</lastBuildDate>
     <item>
       <title>ZZ Top - Neighbor, Neighbor (2 plays)</title>
       <link>https://www.last.fm/music/ZZ+Top/_/Neighbor,+Neighbor</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1665643195--65314b12-0e08-43fa-ba33-baaa7b874c15---Boogie Street - Live In London</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/625f99bef48d46088549519a6502ab8b.png" length="155223" type="image/png"/>
       <pubDate>Thu, 13 Oct 2022 02:39:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Hallelujah - Live In London (1 play)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Hallelujah+-+Live+In+London</link>
+      <guid isPermaLink="false">manosg--1665643615--65314b12-0e08-43fa-ba33-baaa7b874c15---Hallelujah - Live In London</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/625f99bef48d46088549519a6502ab8b.png" length="155223" type="image/png"/>
+      <pubDate>Thu, 13 Oct 2022 02:46:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Democracy - Live In London (1 play)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Democracy+-+Live+In+London</link>
+      <guid isPermaLink="false">manosg--1665644055--65314b12-0e08-43fa-ba33-baaa7b874c15---Democracy - Live In London</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/625f99bef48d46088549519a6502ab8b.png" length="155223" type="image/png"/>
+      <pubDate>Thu, 13 Oct 2022 02:54:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
