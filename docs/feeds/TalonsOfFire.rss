@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Oct 2022 17:44:52 +0000</lastBuildDate>
-    <item>
-      <title>Goldfrapp - Stranger (6 plays)</title>
-      <link>https://www.last.fm/music/Goldfrapp/_/Stranger</link>
-      <guid isPermaLink="false">TalonsOfFire-1665330019--7b885d42-3c41-4f43-9944-a5855ec5155e---Stranger</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74deae6b70374a79ca2c1d39d4c8ad8e.png" length="69181" type="image/png"/>
-      <pubDate>Sun, 09 Oct 2022 11:40:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Cure - One More Time (2 plays)</title>
-      <link>https://www.last.fm/music/The+Cure/_/One+More+Time</link>
-      <guid isPermaLink="false">TalonsOfFire-1665333819--69ee3720-a7cb-4402-b48d-a02c366f2bcf---One More Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a5401fd4ef19dfc6f8583f108d7023b.jpg" length="17970" type="image/jpeg"/>
-      <pubDate>Sun, 09 Oct 2022 12:43:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Oct 2022 17:59:17 +0000</lastBuildDate>
     <item>
       <title>Harold Budd - Sandtreader (4 plays)</title>
       <link>https://www.last.fm/music/Harold+Budd/_/Sandtreader</link>
@@ -240,7 +226,7 @@
       <pubDate>Wed, 12 Oct 2022 15:57:46 -0400</pubDate>
     </item>
     <item>
-      <title>Rush - Vital Signs - Live - Grace Under Pressure Tour (1 play)</title>
+      <title>Rush - Vital Signs - Live - Grace Under Pressure Tour</title>
       <link>https://www.last.fm/music/Rush/_/Vital+Signs+-+Live+-+Grace+Under+Pressure+Tour</link>
       <guid isPermaLink="false">TalonsOfFire-1665604973--abddd730-21df-49eb-b594-ff32c51ef1d6---Vital Signs - Live - Grace Under Pressure Tour</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5872e5327e33d7017e3ca0ed2059e85.jpg" length="21180" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1665855367--6a65d878-fcd0-42cf-aff9-ca1d636a8bcc---Crest of the Wave</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ecd580ad50fe9649ace23fc73b62e60.jpg" length="15061" type="image/jpeg"/>
       <pubDate>Sat, 15 Oct 2022 13:36:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arcade Fire - Awful Sound (Oh Eurydice) (8 plays)</title>
+      <link>https://www.last.fm/music/Arcade+Fire/_/Awful+Sound+(Oh+Eurydice)</link>
+      <guid isPermaLink="false">TalonsOfFire-1665855638--52074ba6-e495-4ef3-9bb4-0703888a9f68---Awful Sound (Oh Eurydice)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bc0ff68aeb8414897e6f0d13908fdd8.png" length="163053" type="image/png"/>
+      <pubDate>Sat, 15 Oct 2022 13:40:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Riverside - Beyond the Eyelids (10 plays)</title>
+      <link>https://www.last.fm/music/Riverside/_/Beyond+the+Eyelids</link>
+      <guid isPermaLink="false">TalonsOfFire-1665856011--Riverside---Beyond the Eyelids</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f385e75998c3ca95265e99e3e207fd57.jpg" length="18262" type="image/jpeg"/>
+      <pubDate>Sat, 15 Oct 2022 13:46:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
