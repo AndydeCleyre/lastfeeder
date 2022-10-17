@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Oct 2022 16:34:56 +0000</lastBuildDate>
-    <item>
-      <title>Leonard Cohen - So Long, Marianne - Live In London (1 play)</title>
-      <link>https://www.last.fm/music/Leonard+Cohen/_/So+Long,+Marianne+-+Live+In+London</link>
-      <guid isPermaLink="false">manosg--1665652685--65314b12-0e08-43fa-ba33-baaa7b874c15---So Long, Marianne - Live In London</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/625f99bef48d46088549519a6502ab8b.png" length="155223" type="image/png"/>
-      <pubDate>Thu, 13 Oct 2022 05:18:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Oct 2022 07:25:27 +0000</lastBuildDate>
     <item>
       <title>Leonard Cohen - First We Take Manhattan - Live In London (1 play)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/First+We+Take+Manhattan+-+Live+In+London</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1665935368--8846e4ff-0c19-4af2-872b-7a8dc7497f68---Impermanence</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4395f785b8f9b305ca38dec50ee8ff3c.jpg" length="6694" type="image/jpeg"/>
       <pubDate>Sun, 16 Oct 2022 11:49:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Cult - Under The Midnight Sun (1 play)</title>
+      <link>https://www.last.fm/music/The+Cult/_/Under+The+Midnight+Sun</link>
+      <guid isPermaLink="false">manosg--1665935621--8846e4ff-0c19-4af2-872b-7a8dc7497f68---Under The Midnight Sun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4395f785b8f9b305ca38dec50ee8ff3c.jpg" length="6694" type="image/jpeg"/>
+      <pubDate>Sun, 16 Oct 2022 11:53:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
