@@ -7,342 +7,216 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Oct 2022 03:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Oct 2022 15:30:20 +0000</lastBuildDate>
     <item>
-      <title>Lorna Shore - Apotheosis (19 plays)</title>
-      <link>https://www.last.fm/music/Lorna+Shore/_/Apotheosis</link>
-      <guid isPermaLink="false">WillieFisterbut-1666018738--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Apotheosis</guid>
+      <title>Wolfheart - Desolated Land (1 play)</title>
+      <link>https://www.last.fm/music/Wolfheart/_/Desolated+Land</link>
+      <guid isPermaLink="false">WillieFisterbut-1666102333--60e2fddc-8202-4a22-a7f9-eaf5b0bf6a8c---Desolated Land</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aab69103c53e38c721d0b01ef2e4deed.jpg" length="27939" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 10:12:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wolfheart - The King (1 play)</title>
+      <link>https://www.last.fm/music/Wolfheart/_/The+King</link>
+      <guid isPermaLink="false">WillieFisterbut-1666102759--60e2fddc-8202-4a22-a7f9-eaf5b0bf6a8c---The King</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aab69103c53e38c721d0b01ef2e4deed.jpg" length="27939" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 10:19:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wolfheart - Cold Flame (feat. Karl Sanders) (1 play)</title>
+      <link>https://www.last.fm/music/Wolfheart/_/Cold+Flame+(feat.+Karl+Sanders)</link>
+      <guid isPermaLink="false">WillieFisterbut-1666103113--Wolfheart---Cold Flame (feat. Karl Sanders)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aab69103c53e38c721d0b01ef2e4deed.jpg" length="27939" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 10:25:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wolfheart - Headstones (1 play)</title>
+      <link>https://www.last.fm/music/Wolfheart/_/Headstones</link>
+      <guid isPermaLink="false">WillieFisterbut-1666103553--60e2fddc-8202-4a22-a7f9-eaf5b0bf6a8c---Headstones</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aab69103c53e38c721d0b01ef2e4deed.jpg" length="27939" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 10:32:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wolfheart - Fires of the Fallen (1 play)</title>
+      <link>https://www.last.fm/music/Wolfheart/_/Fires+of+the+Fallen</link>
+      <guid isPermaLink="false">WillieFisterbut-1666103844--60e2fddc-8202-4a22-a7f9-eaf5b0bf6a8c---Fires of the Fallen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aab69103c53e38c721d0b01ef2e4deed.jpg" length="27939" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 10:37:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wolfheart - Eternal Slumber (1 play)</title>
+      <link>https://www.last.fm/music/Wolfheart/_/Eternal+Slumber</link>
+      <guid isPermaLink="false">WillieFisterbut-1666104176--60e2fddc-8202-4a22-a7f9-eaf5b0bf6a8c---Eternal Slumber</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aab69103c53e38c721d0b01ef2e4deed.jpg" length="27939" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 10:42:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - Dis Morta (4 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/Dis+Morta</link>
+      <guid isPermaLink="false">WillieFisterbut-1666104480--a646910b-3889-4092-b703-0e0ae36b426a---Dis Morta</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 10:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - Feeding Frenzy (4 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/Feeding+Frenzy</link>
+      <guid isPermaLink="false">WillieFisterbut-1666104710--a646910b-3889-4092-b703-0e0ae36b426a---Feeding Frenzy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 10:51:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - The Radical (4 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/The+Radical</link>
+      <guid isPermaLink="false">WillieFisterbut-1666104961--a646910b-3889-4092-b703-0e0ae36b426a---The Radical</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 10:56:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - Power (4 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/Power</link>
+      <guid isPermaLink="false">WillieFisterbut-1666105219--a646910b-3889-4092-b703-0e0ae36b426a---Power</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 11:00:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - Hyper Reality (4 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/Hyper+Reality</link>
+      <guid isPermaLink="false">WillieFisterbut-1666105536--a646910b-3889-4092-b703-0e0ae36b426a---Hyper Reality</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 11:05:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - Creating The Abyss (2 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/Creating+The+Abyss</link>
+      <guid isPermaLink="false">WillieFisterbut-1666105759--a646910b-3889-4092-b703-0e0ae36b426a---Creating The Abyss</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 11:09:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - Straight Razor (2 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/Straight+Razor</link>
+      <guid isPermaLink="false">WillieFisterbut-1666105937--a646910b-3889-4092-b703-0e0ae36b426a---Straight Razor</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 11:12:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - Chasing Mercury (2 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/Chasing+Mercury</link>
+      <guid isPermaLink="false">WillieFisterbut-1666106222--a646910b-3889-4092-b703-0e0ae36b426a---Chasing Mercury</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 11:17:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - Devil In The Mirror (2 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/Devil+In+The+Mirror</link>
+      <guid isPermaLink="false">WillieFisterbut-1666106528--a646910b-3889-4092-b703-0e0ae36b426a---Devil In The Mirror</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 11:22:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxik - Judas (2 plays)</title>
+      <link>https://www.last.fm/music/Toxik/_/Judas</link>
+      <guid isPermaLink="false">WillieFisterbut-1666106877--a646910b-3889-4092-b703-0e0ae36b426a---Judas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d40084de9d6469c20a71ead35347a202.png" length="189485" type="image/png"/>
+      <pubDate>Tue, 18 Oct 2022 11:27:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cult of Luna - Cold Burn (8 plays)</title>
+      <link>https://www.last.fm/music/Cult+of+Luna/_/Cold+Burn</link>
+      <guid isPermaLink="false">WillieFisterbut-1666118249--d347406f-839d-4423-9a28-188939282afa---Cold Burn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddeb18a5a499c639bfd56a129edf01af.jpg" length="9072" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 14:37:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cult of Luna - The Silver Arc (9 plays)</title>
+      <link>https://www.last.fm/music/Cult+of+Luna/_/The+Silver+Arc</link>
+      <guid isPermaLink="false">WillieFisterbut-1666118761--d347406f-839d-4423-9a28-188939282afa---The Silver Arc</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddeb18a5a499c639bfd56a129edf01af.jpg" length="9072" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 14:46:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cult of Luna - Beyond I (feat. Mariam Wallentin) (9 plays)</title>
+      <link>https://www.last.fm/music/Cult+of+Luna/_/Beyond+I+(feat.+Mariam+Wallentin)</link>
+      <guid isPermaLink="false">WillieFisterbut-1666118949--Cult of Luna---Beyond I (feat. Mariam Wallentin)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddeb18a5a499c639bfd56a129edf01af.jpg" length="9072" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 14:49:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cult of Luna - An Offering to the Wild (7 plays)</title>
+      <link>https://www.last.fm/music/Cult+of+Luna/_/An+Offering+to+the+Wild</link>
+      <guid isPermaLink="false">WillieFisterbut-1666119713--d347406f-839d-4423-9a28-188939282afa---An Offering to the Wild</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddeb18a5a499c639bfd56a129edf01af.jpg" length="9072" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:01:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cult of Luna - Into the Night (4 plays)</title>
+      <link>https://www.last.fm/music/Cult+of+Luna/_/Into+the+Night</link>
+      <guid isPermaLink="false">WillieFisterbut-1666120032--d347406f-839d-4423-9a28-188939282afa---Into the Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddeb18a5a499c639bfd56a129edf01af.jpg" length="9072" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:07:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cult of Luna - Full Moon (3 plays)</title>
+      <link>https://www.last.fm/music/Cult+of+Luna/_/Full+Moon</link>
+      <guid isPermaLink="false">WillieFisterbut-1666120105--d347406f-839d-4423-9a28-188939282afa---Full Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddeb18a5a499c639bfd56a129edf01af.jpg" length="9072" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:08:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Halo Effect - Shadowminds (11 plays)</title>
+      <link>https://www.last.fm/music/The+Halo+Effect/_/Shadowminds</link>
+      <guid isPermaLink="false">WillieFisterbut-1666120920--4e6e78c6-160f-4e2b-8b25-3227a4ec677f---Shadowminds</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c79c0a6ddf505f4b0d7df39f517e61.jpg" length="27100" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Halo Effect - Days Of The Lost (8 plays)</title>
+      <link>https://www.last.fm/music/The+Halo+Effect/_/Days+Of+The+Lost</link>
+      <guid isPermaLink="false">WillieFisterbut-1666121137--4e6e78c6-160f-4e2b-8b25-3227a4ec677f---Days Of The Lost</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c79c0a6ddf505f4b0d7df39f517e61.jpg" length="27100" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:25:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Halo Effect - The Needless End (9 plays)</title>
+      <link>https://www.last.fm/music/The+Halo+Effect/_/The+Needless+End</link>
+      <guid isPermaLink="false">WillieFisterbut-1666121533--4e6e78c6-160f-4e2b-8b25-3227a4ec677f---The Needless End</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c79c0a6ddf505f4b0d7df39f517e61.jpg" length="27100" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:32:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Halo Effect - Conditional (10 plays)</title>
+      <link>https://www.last.fm/music/The+Halo+Effect/_/Conditional</link>
+      <guid isPermaLink="false">WillieFisterbut-1666121754--4e6e78c6-160f-4e2b-8b25-3227a4ec677f---Conditional</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c79c0a6ddf505f4b0d7df39f517e61.jpg" length="27100" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:35:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Halo Effect - In Broken Trust (7 plays)</title>
+      <link>https://www.last.fm/music/The+Halo+Effect/_/In+Broken+Trust</link>
+      <guid isPermaLink="false">WillieFisterbut-1666122004--4e6e78c6-160f-4e2b-8b25-3227a4ec677f---In Broken Trust</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c79c0a6ddf505f4b0d7df39f517e61.jpg" length="27100" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:40:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Halo Effect - Gateways (7 plays)</title>
+      <link>https://www.last.fm/music/The+Halo+Effect/_/Gateways</link>
+      <guid isPermaLink="false">WillieFisterbut-1666122293--4e6e78c6-160f-4e2b-8b25-3227a4ec677f---Gateways</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c79c0a6ddf505f4b0d7df39f517e61.jpg" length="27100" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:44:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Halo Effect - A Truth Worth Lying For (6 plays)</title>
+      <link>https://www.last.fm/music/The+Halo+Effect/_/A+Truth+Worth+Lying+For</link>
+      <guid isPermaLink="false">WillieFisterbut-1666122514--4e6e78c6-160f-4e2b-8b25-3227a4ec677f---A Truth Worth Lying For</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c79c0a6ddf505f4b0d7df39f517e61.jpg" length="27100" type="image/jpeg"/>
+      <pubDate>Tue, 18 Oct 2022 15:48:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lorna Shore - Sun // Eater (28 plays)</title>
+      <link>https://www.last.fm/music/Lorna+Shore/_/Sun+%2F%2F+Eater</link>
+      <guid isPermaLink="false">WillieFisterbut-1666123378--Lorna Shore---Sun // Eater</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 10:58:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lorna Shore - Wrath (16 plays)</title>
-      <link>https://www.last.fm/music/Lorna+Shore/_/Wrath</link>
-      <guid isPermaLink="false">WillieFisterbut-1666019104--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Wrath</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 11:05:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lorna Shore - Pain Remains I: Dancing Like Flames (46 plays)</title>
-      <link>https://www.last.fm/music/Lorna+Shore/_/Pain+Remains+I:+Dancing+Like+Flames</link>
-      <guid isPermaLink="false">WillieFisterbut-1666019457--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Pain Remains I: Dancing Like Flames</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 11:10:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lorna Shore - Pain Remains II: After All I've Done, I'll Disappear (37 plays)</title>
-      <link>https://www.last.fm/music/Lorna+Shore/_/Pain+Remains+II:+After+All+I%27ve+Done,+I%27ll+Disappear</link>
-      <guid isPermaLink="false">WillieFisterbut-1666019794--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Pain Remains II: After All I've Done, I'll Disappear</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 11:16:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lorna Shore - Pain Remains III: In a Sea of Fire (28 plays)</title>
-      <link>https://www.last.fm/music/Lorna+Shore/_/Pain+Remains+III:+In+a+Sea+of+Fire</link>
-      <guid isPermaLink="false">WillieFisterbut-1666020398--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Pain Remains III: In a Sea of Fire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 11:26:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kardashev - The Approaching of Atonement (6 plays)</title>
-      <link>https://www.last.fm/music/Kardashev/_/The+Approaching+of+Atonement</link>
-      <guid isPermaLink="false">WillieFisterbut-1666020528--Kardashev---The Approaching of Atonement</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05734526488d3c762cbf24ec332bed63.png" length="117073" type="image/png"/>
-      <pubDate>Mon, 17 Oct 2022 11:28:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kardashev - Silvered Shadows (6 plays)</title>
-      <link>https://www.last.fm/music/Kardashev/_/Silvered+Shadows</link>
-      <guid isPermaLink="false">WillieFisterbut-1666021002--Kardashev---Silvered Shadows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05734526488d3c762cbf24ec332bed63.png" length="117073" type="image/png"/>
-      <pubDate>Mon, 17 Oct 2022 11:36:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kardashev - Apparitions in Candlelight (7 plays)</title>
-      <link>https://www.last.fm/music/Kardashev/_/Apparitions+in+Candlelight</link>
-      <guid isPermaLink="false">WillieFisterbut-1666021362--Kardashev---Apparitions in Candlelight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05734526488d3c762cbf24ec332bed63.png" length="117073" type="image/png"/>
-      <pubDate>Mon, 17 Oct 2022 11:42:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kardashev - Dissever (7 plays)</title>
-      <link>https://www.last.fm/music/Kardashev/_/Dissever</link>
-      <guid isPermaLink="false">WillieFisterbut-1666021433--Kardashev---Dissever</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05734526488d3c762cbf24ec332bed63.png" length="117073" type="image/png"/>
-      <pubDate>Mon, 17 Oct 2022 11:43:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kardashev - Lavender Calligraphy (6 plays)</title>
-      <link>https://www.last.fm/music/Kardashev/_/Lavender+Calligraphy</link>
-      <guid isPermaLink="false">WillieFisterbut-1666021734--Kardashev---Lavender Calligraphy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05734526488d3c762cbf24ec332bed63.png" length="117073" type="image/png"/>
-      <pubDate>Mon, 17 Oct 2022 11:48:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kardashev - The Blinding Threshold (8 plays)</title>
-      <link>https://www.last.fm/music/Kardashev/_/The+Blinding+Threshold</link>
-      <guid isPermaLink="false">WillieFisterbut-1666021824--Kardashev---The Blinding Threshold</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05734526488d3c762cbf24ec332bed63.png" length="117073" type="image/png"/>
-      <pubDate>Mon, 17 Oct 2022 11:50:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kardashev - Compost Grave-Song (7 plays)</title>
-      <link>https://www.last.fm/music/Kardashev/_/Compost+Grave-Song</link>
-      <guid isPermaLink="false">WillieFisterbut-1666022084--Kardashev---Compost Grave-Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05734526488d3c762cbf24ec332bed63.png" length="117073" type="image/png"/>
-      <pubDate>Mon, 17 Oct 2022 11:54:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kardashev - Cellar of Ghosts (7 plays)</title>
-      <link>https://www.last.fm/music/Kardashev/_/Cellar+of+Ghosts</link>
-      <guid isPermaLink="false">WillieFisterbut-1666022475--Kardashev---Cellar of Ghosts</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05734526488d3c762cbf24ec332bed63.png" length="117073" type="image/png"/>
-      <pubDate>Mon, 17 Oct 2022 12:01:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wake - Infinite Inward (2 plays)</title>
-      <link>https://www.last.fm/music/Wake/_/Infinite+Inward</link>
-      <guid isPermaLink="false">WillieFisterbut-1666023022--Wake---Infinite Inward</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62c4b12ca3f80c2b7437b473cbed176a.jpg" length="30701" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:10:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wake - Swallow the Light (2 plays)</title>
-      <link>https://www.last.fm/music/Wake/_/Swallow+the+Light</link>
-      <guid isPermaLink="false">WillieFisterbut-1666023400--Wake---Swallow the Light</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62c4b12ca3f80c2b7437b473cbed176a.jpg" length="30701" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:16:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wake - Mourning Dirge (Repose of the Dead) (2 plays)</title>
-      <link>https://www.last.fm/music/Wake/_/Mourning+Dirge+(Repose+of+the+Dead)</link>
-      <guid isPermaLink="false">WillieFisterbut-1666023831--Wake---Mourning Dirge (Repose of the Dead)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62c4b12ca3f80c2b7437b473cbed176a.jpg" length="30701" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:23:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wake - Pareidolia (2 plays)</title>
-      <link>https://www.last.fm/music/Wake/_/Pareidolia</link>
-      <guid isPermaLink="false">WillieFisterbut-1666023919--Wake---Pareidolia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62c4b12ca3f80c2b7437b473cbed176a.jpg" length="30701" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:25:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wake - Venerate (The Undoing of All) (2 plays)</title>
-      <link>https://www.last.fm/music/Wake/_/Venerate+(The+Undoing+of+All)</link>
-      <guid isPermaLink="false">WillieFisterbut-1666024497--Wake---Venerate (The Undoing of All)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62c4b12ca3f80c2b7437b473cbed176a.jpg" length="30701" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:34:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wake - Observer to Master (2 plays)</title>
-      <link>https://www.last.fm/music/Wake/_/Observer+to+Master</link>
-      <guid isPermaLink="false">WillieFisterbut-1666024848--Wake---Observer to Master</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62c4b12ca3f80c2b7437b473cbed176a.jpg" length="30701" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:40:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wake - Bleeding Eyes of the Watcher (2 plays)</title>
-      <link>https://www.last.fm/music/Wake/_/Bleeding+Eyes+of+the+Watcher</link>
-      <guid isPermaLink="false">WillieFisterbut-1666025268--Wake---Bleeding Eyes of the Watcher</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62c4b12ca3f80c2b7437b473cbed176a.jpg" length="30701" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:47:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - Pump It (25 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/Pump+It</link>
-      <guid isPermaLink="false">WillieFisterbut-1666025465--Electric Callboy---Pump It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:51:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - WE GOT THE MOVES (34 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/WE+GOT+THE+MOVES</link>
-      <guid isPermaLink="false">WillieFisterbut-1666025671--Electric Callboy---WE GOT THE MOVES</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:54:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - Fuckboi (feat. Conquer Divide) (4 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/Fuckboi+(feat.+Conquer+Divide)</link>
-      <guid isPermaLink="false">WillieFisterbut-1666025841--Electric Callboy---Fuckboi (feat. Conquer Divide)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 12:57:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - Spaceman (feat. FiNCH) (4 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/Spaceman+(feat.+FiNCH)</link>
-      <guid isPermaLink="false">WillieFisterbut-1666026039--Electric Callboy---Spaceman (feat. FiNCH)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 13:00:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - Mindreader (22 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/Mindreader</link>
-      <guid isPermaLink="false">WillieFisterbut-1666026264--Electric Callboy---Mindreader</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 13:04:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - Arrow of Love (18 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/Arrow+of+Love</link>
-      <guid isPermaLink="false">WillieFisterbut-1666026488--Electric Callboy---Arrow of Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 13:08:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - Parasite (21 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/Parasite</link>
-      <guid isPermaLink="false">WillieFisterbut-1666027590--Electric Callboy---Parasite</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 13:26:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - Tekkno Train (18 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/Tekkno+Train</link>
-      <guid isPermaLink="false">WillieFisterbut-1666027789--Electric Callboy---Tekkno Train</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 13:29:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - Hurrikan (20 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/Hurrikan</link>
-      <guid isPermaLink="false">WillieFisterbut-1666027888--Electric Callboy---Hurrikan</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 13:31:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Callboy - Neon (18 plays)</title>
-      <link>https://www.last.fm/music/Electric+Callboy/_/Neon</link>
-      <guid isPermaLink="false">WillieFisterbut-1666028080--Electric Callboy---Neon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85334a57b2b2a85bfd61a808add64741.jpg" length="20782" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 13:34:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Oceans of Slumber - The Waters Rising (9 plays)</title>
-      <link>https://www.last.fm/music/Oceans+of+Slumber/_/The+Waters+Rising</link>
-      <guid isPermaLink="false">WillieFisterbut-1666029442--47c5f847-e38a-4d14-a1cf-73b23e8167a1---The Waters Rising</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5e0c86260e909d2c0c128005c8b4ffa.jpg" length="25124" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 13:57:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Oceans of Slumber - Hearts of Stone (11 plays)</title>
-      <link>https://www.last.fm/music/Oceans+of+Slumber/_/Hearts+of+Stone</link>
-      <guid isPermaLink="false">WillieFisterbut-1666029678--47c5f847-e38a-4d14-a1cf-73b23e8167a1---Hearts of Stone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5e0c86260e909d2c0c128005c8b4ffa.jpg" length="25124" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:01:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Oceans of Slumber - The Lighthouse (8 plays)</title>
-      <link>https://www.last.fm/music/Oceans+of+Slumber/_/The+Lighthouse</link>
-      <guid isPermaLink="false">WillieFisterbut-1666029893--47c5f847-e38a-4d14-a1cf-73b23e8167a1---The Lighthouse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5e0c86260e909d2c0c128005c8b4ffa.jpg" length="25124" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:04:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Oceans of Slumber - Red Forest Roads (7 plays)</title>
-      <link>https://www.last.fm/music/Oceans+of+Slumber/_/Red+Forest+Roads</link>
-      <guid isPermaLink="false">WillieFisterbut-1666030141--47c5f847-e38a-4d14-a1cf-73b23e8167a1---Red Forest Roads</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5e0c86260e909d2c0c128005c8b4ffa.jpg" length="25124" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:09:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Oceans of Slumber - The Hanging Tree (7 plays)</title>
-      <link>https://www.last.fm/music/Oceans+of+Slumber/_/The+Hanging+Tree</link>
-      <guid isPermaLink="false">WillieFisterbut-1666030384--47c5f847-e38a-4d14-a1cf-73b23e8167a1---The Hanging Tree</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5e0c86260e909d2c0c128005c8b4ffa.jpg" length="25124" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:13:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Oceans of Slumber - Salvation (4 plays)</title>
-      <link>https://www.last.fm/music/Oceans+of+Slumber/_/Salvation</link>
-      <guid isPermaLink="false">WillieFisterbut-1666030688--47c5f847-e38a-4d14-a1cf-73b23e8167a1---Salvation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5e0c86260e909d2c0c128005c8b4ffa.jpg" length="25124" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:18:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Oceans of Slumber - Star Altar (4 plays)</title>
-      <link>https://www.last.fm/music/Oceans+of+Slumber/_/Star+Altar</link>
-      <guid isPermaLink="false">WillieFisterbut-1666031044--47c5f847-e38a-4d14-a1cf-73b23e8167a1---Star Altar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5e0c86260e909d2c0c128005c8b4ffa.jpg" length="25124" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:24:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Meshuggah - Broken Cog (5 plays)</title>
-      <link>https://www.last.fm/music/Meshuggah/_/Broken+Cog</link>
-      <guid isPermaLink="false">WillieFisterbut-1666031515--cf8b3b8c-118e-4136-8d1d-c37091173413---Broken Cog</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350f291398357b3468102492b2914422.jpg" length="23386" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:31:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Meshuggah - The Abysmal Eye (6 plays)</title>
-      <link>https://www.last.fm/music/Meshuggah/_/The+Abysmal+Eye</link>
-      <guid isPermaLink="false">WillieFisterbut-1666031811--cf8b3b8c-118e-4136-8d1d-c37091173413---The Abysmal Eye</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350f291398357b3468102492b2914422.jpg" length="23386" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:36:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Meshuggah - Light the Shortening Fuse (5 plays)</title>
-      <link>https://www.last.fm/music/Meshuggah/_/Light+the+Shortening+Fuse</link>
-      <guid isPermaLink="false">WillieFisterbut-1666032079--cf8b3b8c-118e-4136-8d1d-c37091173413---Light the Shortening Fuse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350f291398357b3468102492b2914422.jpg" length="23386" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:41:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Meshuggah - Phantoms (23 plays)</title>
-      <link>https://www.last.fm/music/Meshuggah/_/Phantoms</link>
-      <guid isPermaLink="false">WillieFisterbut-1666032373--cf8b3b8c-118e-4136-8d1d-c37091173413---Phantoms</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350f291398357b3468102492b2914422.jpg" length="23386" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:46:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Meshuggah - Ligature Marks (6 plays)</title>
-      <link>https://www.last.fm/music/Meshuggah/_/Ligature+Marks</link>
-      <guid isPermaLink="false">WillieFisterbut-1666032686--cf8b3b8c-118e-4136-8d1d-c37091173413---Ligature Marks</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350f291398357b3468102492b2914422.jpg" length="23386" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:51:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>Meshuggah - God He Sees in Mirrors (5 plays)</title>
-      <link>https://www.last.fm/music/Meshuggah/_/God+He+Sees+in+Mirrors</link>
-      <guid isPermaLink="false">WillieFisterbut-1666033014--cf8b3b8c-118e-4136-8d1d-c37091173413---God He Sees in Mirrors</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350f291398357b3468102492b2914422.jpg" length="23386" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 14:56:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Binary Number - Va1ha11a (feat. Prikia) (1 play)</title>
-      <link>https://www.last.fm/music/Binary+Number/_/Va1ha11a+(feat.+Prikia)</link>
-      <guid isPermaLink="false">WillieFisterbut-1666045291--Binary Number---Va1ha11a (feat. Prikia)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6fe1eae4719ddc2b50f1aff5172a0f62.jpg" length="20144" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 18:21:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lorna Shore - To the Hellfire (30 plays)</title>
-      <link>https://www.last.fm/music/Lorna+Shore/_/To+the+Hellfire</link>
-      <guid isPermaLink="false">WillieFisterbut-1666045880--e86fc1f5-d632-44b2-8aea-38f83aadffe8---To the Hellfire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00be022b9336b792c6b8c98d2a37e3d9.jpg" length="16018" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 18:31:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lorna Shore - Pain Remains II: After All I've Done, I'll Disappear (37 plays)</title>
-      <link>https://www.last.fm/music/Lorna+Shore/_/Pain+Remains+II:+After+All+I%27ve+Done,+I%27ll+Disappear</link>
-      <guid isPermaLink="false">WillieFisterbut-1666046248--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Pain Remains II: After All I've Done, I'll Disappear</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 18:37:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Amogh Symphony - Osiris 1 (21 plays)</title>
-      <link>https://www.last.fm/music/Amogh+Symphony/_/Osiris+1</link>
-      <guid isPermaLink="false">WillieFisterbut-1666047237--Amogh Symphony---Osiris 1</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e78977fbe5d79091fcf64332ab2cddc.jpg" length="27109" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 18:53:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>A-Z - Borrowed Time (6 plays)</title>
-      <link>https://www.last.fm/music/A-Z/_/Borrowed+Time</link>
-      <guid isPermaLink="false">WillieFisterbut-1666049921--A-Z---Borrowed Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8988f4e93c0da23e33cd81327e83ef81.jpg" length="28628" type="image/jpeg"/>
-      <pubDate>Mon, 17 Oct 2022 19:38:41 -0400</pubDate>
+      <pubDate>Tue, 18 Oct 2022 16:02:58 -0400</pubDate>
     </item>
     <item>
       <title>Meteora - Downfall (1 play)</title>
@@ -357,6 +231,132 @@
       <guid isPermaLink="false">WillieFisterbut-1666141490--Metopia---Willkommen bei Metopia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29c872baec7f213deb83ed18a9fbdfdd.jpg" length="31501" type="image/jpeg"/>
       <pubDate>Tue, 18 Oct 2022 21:04:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lorna Shore - Pain Remains I: Dancing Like Flames (49 plays)</title>
+      <link>https://www.last.fm/music/Lorna+Shore/_/Pain+Remains+I:+Dancing+Like+Flames</link>
+      <guid isPermaLink="false">WillieFisterbut-1666181107--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Pain Remains I: Dancing Like Flames</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 08:05:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lorna Shore - Pain Remains I: Dancing Like Flames (49 plays)</title>
+      <link>https://www.last.fm/music/Lorna+Shore/_/Pain+Remains+I:+Dancing+Like+Flames</link>
+      <guid isPermaLink="false">WillieFisterbut-1666181108--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Pain Remains I: Dancing Like Flames</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 08:05:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lorna Shore - Pain Remains I: Dancing Like Flames (49 plays)</title>
+      <link>https://www.last.fm/music/Lorna+Shore/_/Pain+Remains+I:+Dancing+Like+Flames</link>
+      <guid isPermaLink="false">WillieFisterbut-1666181109--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Pain Remains I: Dancing Like Flames</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 08:05:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lorna Shore - Pain Remains II: After All I've Done, I'll Disappear (39 plays)</title>
+      <link>https://www.last.fm/music/Lorna+Shore/_/Pain+Remains+II:+After+All+I%27ve+Done,+I%27ll+Disappear</link>
+      <guid isPermaLink="false">WillieFisterbut-1666181444--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Pain Remains II: After All I've Done, I'll Disappear</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 08:10:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lorna Shore - Pain Remains II: After All I've Done, I'll Disappear (39 plays)</title>
+      <link>https://www.last.fm/music/Lorna+Shore/_/Pain+Remains+II:+After+All+I%27ve+Done,+I%27ll+Disappear</link>
+      <guid isPermaLink="false">WillieFisterbut-1666181445--e86fc1f5-d632-44b2-8aea-38f83aadffe8---Pain Remains II: After All I've Done, I'll Disappear</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc0427f1265bfa800d44fd6d3817831.jpg" length="17198" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 08:10:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soilwork - Övergivenheten (2 plays)</title>
+      <link>https://www.last.fm/music/Soilwork/_/%C3%96vergivenheten</link>
+      <guid isPermaLink="false">WillieFisterbut-1666185273--d8d1b067-78bb-4db7-8f91-db2ff9a83ee5---Övergivenheten</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c514486e54e8758ceef725bdb64d654.jpg" length="29572" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 09:14:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soilwork - Nous Sommes la Guerre (2 plays)</title>
+      <link>https://www.last.fm/music/Soilwork/_/Nous+Sommes+la+Guerre</link>
+      <guid isPermaLink="false">WillieFisterbut-1666185686--d8d1b067-78bb-4db7-8f91-db2ff9a83ee5---Nous Sommes la Guerre</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c514486e54e8758ceef725bdb64d654.jpg" length="29572" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 09:21:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soilwork - Electric Again (2 plays)</title>
+      <link>https://www.last.fm/music/Soilwork/_/Electric+Again</link>
+      <guid isPermaLink="false">WillieFisterbut-1666185949--d8d1b067-78bb-4db7-8f91-db2ff9a83ee5---Electric Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c514486e54e8758ceef725bdb64d654.jpg" length="29572" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 09:25:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soilwork - Valleys of Gloam (2 plays)</title>
+      <link>https://www.last.fm/music/Soilwork/_/Valleys+of+Gloam</link>
+      <guid isPermaLink="false">WillieFisterbut-1666186201--d8d1b067-78bb-4db7-8f91-db2ff9a83ee5---Valleys of Gloam</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c514486e54e8758ceef725bdb64d654.jpg" length="29572" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 09:30:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soilwork - Is It in Your Darkness (2 plays)</title>
+      <link>https://www.last.fm/music/Soilwork/_/Is+It+in+Your+Darkness</link>
+      <guid isPermaLink="false">WillieFisterbut-1666186556--d8d1b067-78bb-4db7-8f91-db2ff9a83ee5---Is It in Your Darkness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c514486e54e8758ceef725bdb64d654.jpg" length="29572" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 09:35:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soilwork - Vultures (2 plays)</title>
+      <link>https://www.last.fm/music/Soilwork/_/Vultures</link>
+      <guid isPermaLink="false">WillieFisterbut-1666186904--d8d1b067-78bb-4db7-8f91-db2ff9a83ee5---Vultures</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c514486e54e8758ceef725bdb64d654.jpg" length="29572" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 09:41:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soilwork - Morgongåva/Stormfågel (1 play)</title>
+      <link>https://www.last.fm/music/Soilwork/_/Morgong%C3%A5va%2FStormf%C3%A5gel</link>
+      <guid isPermaLink="false">WillieFisterbut-1666186997--d8d1b067-78bb-4db7-8f91-db2ff9a83ee5---Morgongåva/Stormfågel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c514486e54e8758ceef725bdb64d654.jpg" length="29572" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 09:43:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soilwork - Death, I Hear You Calling (1 play)</title>
+      <link>https://www.last.fm/music/Soilwork/_/Death,+I+Hear+You+Calling</link>
+      <guid isPermaLink="false">WillieFisterbut-1666187278--d8d1b067-78bb-4db7-8f91-db2ff9a83ee5---Death, I Hear You Calling</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c514486e54e8758ceef725bdb64d654.jpg" length="29572" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 09:47:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soilwork - This Godless Universe (2 plays)</title>
+      <link>https://www.last.fm/music/Soilwork/_/This+Godless+Universe</link>
+      <guid isPermaLink="false">WillieFisterbut-1666188924--d8d1b067-78bb-4db7-8f91-db2ff9a83ee5---This Godless Universe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c514486e54e8758ceef725bdb64d654.jpg" length="29572" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 10:15:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Celeste - Des torrents de coups (7 plays)</title>
+      <link>https://www.last.fm/music/Celeste/_/Des+torrents+de+coups</link>
+      <guid isPermaLink="false">WillieFisterbut-1666189235--Celeste---Des torrents de coups</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/40271126ca9805ab37d30045f3c18f61.jpg" length="19155" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 10:20:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Celeste - De tes yeux bleus perlés (3 plays)</title>
+      <link>https://www.last.fm/music/Celeste/_/De+tes+yeux+bleus+perl%C3%A9s</link>
+      <guid isPermaLink="false">WillieFisterbut-1666190134--Celeste---De tes yeux bleus perlés</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/40271126ca9805ab37d30045f3c18f61.jpg" length="19155" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 10:35:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Celeste - Nonchalantes de beauté (3 plays)</title>
+      <link>https://www.last.fm/music/Celeste/_/Nonchalantes+de+beaut%C3%A9</link>
+      <guid isPermaLink="false">WillieFisterbut-1666190464--Celeste---Nonchalantes de beauté</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/40271126ca9805ab37d30045f3c18f61.jpg" length="19155" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 10:41:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Celeste - Draguée tout au fond (3 plays)</title>
+      <link>https://www.last.fm/music/Celeste/_/Dragu%C3%A9e+tout+au+fond</link>
+      <guid isPermaLink="false">WillieFisterbut-1666191074--Celeste---Draguée tout au fond</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/40271126ca9805ab37d30045f3c18f61.jpg" length="19155" type="image/jpeg"/>
+      <pubDate>Wed, 19 Oct 2022 10:51:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
