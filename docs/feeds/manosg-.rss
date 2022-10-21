@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Oct 2022 09:44:36 +0000</lastBuildDate>
-    <item>
-      <title>"Weird Al" Yankovic - Ricky (9 plays)</title>
-      <link>https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/Ricky</link>
-      <guid isPermaLink="false">manosg--1666196463--7746d775-9550-4360-b8d5-c37bd448ce01---Ricky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6417f7bc3bb69691323690c12fc360f.jpg" length="53798" type="image/jpeg"/>
-      <pubDate>Wed, 19 Oct 2022 12:21:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>"Weird Al" Yankovic - Gotta Boogie (9 plays)</title>
-      <link>https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/Gotta+Boogie</link>
-      <guid isPermaLink="false">manosg--1666196622--7746d775-9550-4360-b8d5-c37bd448ce01---Gotta Boogie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6417f7bc3bb69691323690c12fc360f.jpg" length="53798" type="image/jpeg"/>
-      <pubDate>Wed, 19 Oct 2022 12:23:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Oct 2022 10:01:59 +0000</lastBuildDate>
     <item>
       <title>"Weird Al" Yankovic - I Love Rocky Road (10 plays)</title>
       <link>https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/I+Love+Rocky+Road</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1666344822--8925a01a-8608-411d-a90b-f3a52d061208---Blood and Tears</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98e103e0d39082570461a7379ead1a36.jpg" length="23137" type="image/jpeg"/>
       <pubDate>Fri, 21 Oct 2022 05:33:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Opeth - Windowpane (2 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/Windowpane</link>
+      <guid isPermaLink="false">manosg--1666345081--c14b4180-dc87-481e-b17a-64e4150f90f6---Windowpane</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
+      <pubDate>Fri, 21 Oct 2022 05:38:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kiss - Hard Luck Woman (1 play)</title>
+      <link>https://www.last.fm/music/Kiss/_/Hard+Luck+Woman</link>
+      <guid isPermaLink="false">manosg--1666345547--e1f1e33e-2e4c-4d43-b91b-7064068d3283---Hard Luck Woman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/884a8a6d5014471bc731806d0bff54cd.png" length="175351" type="image/png"/>
+      <pubDate>Fri, 21 Oct 2022 05:45:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
