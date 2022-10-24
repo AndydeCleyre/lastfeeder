@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Oct 2022 07:32:18 +0000</lastBuildDate>
-    <item>
-      <title>Metallica - Mama Said (4 plays)</title>
-      <link>https://www.last.fm/music/Metallica/_/Mama+Said</link>
-      <guid isPermaLink="false">manosg--1666435810--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Mama Said</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c32d240ba59d4491ba5ce25939cba1ab.png" length="167417" type="image/png"/>
-      <pubDate>Sat, 22 Oct 2022 06:50:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Oct 2022 08:16:52 +0000</lastBuildDate>
     <item>
       <title>Queensrÿche - I Will Remember - Remastered (2 plays)</title>
       <link>https://www.last.fm/music/Queensr%C3%BFche/_/I+Will+Remember+-+Remastered</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1666596447--169c4c28-858e-497b-81a4-8bc15e0026ea---Lazarus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdeba83dd91ef78723345551cfae30e3.jpg" length="21468" type="image/jpeg"/>
       <pubDate>Mon, 24 Oct 2022 03:27:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dream Theater - Wither (2 plays)</title>
+      <link>https://www.last.fm/music/Dream+Theater/_/Wither</link>
+      <guid isPermaLink="false">manosg--1666596705--28503ab7-8bf2-4666-a7bd-2644bfc7cb1d---Wither</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a974d4e2a354c64be521d3d466974f3.png" length="147310" type="image/png"/>
+      <pubDate>Mon, 24 Oct 2022 03:31:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
