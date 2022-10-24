@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Oct 2022 10:32:40 +0000</lastBuildDate>
-    <item>
-      <title>Sleater-Kinney - One More Hour (39 plays)</title>
-      <link>https://www.last.fm/music/Sleater-Kinney/_/One+More+Hour</link>
-      <guid isPermaLink="false">Arcade1996-1666496411--e36e78eb-3ace-4acd-882c-16789e700ab7---One More Hour</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38ea284fdebf4822c8e04a721e5041b3.png" length="138736" type="image/png"/>
-      <pubDate>Sat, 22 Oct 2022 23:40:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Oct 2022 11:04:08 +0000</lastBuildDate>
     <item>
       <title>Sleater-Kinney - Turn It On (10 plays)</title>
       <link>https://www.last.fm/music/Sleater-Kinney/_/Turn+It+On</link>
@@ -173,6 +166,7 @@
       <title>Mudhoney - Good Enough - Remastered (1 play)</title>
       <link>https://www.last.fm/music/Mudhoney/_/Good+Enough+-+Remastered</link>
       <guid isPermaLink="false">Arcade1996-1666522125--Mudhoney---Good Enough - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04c4dcf716817b491f0742e1f6fdf925.jpg" length="27600" type="image/jpeg"/>
       <pubDate>Sun, 23 Oct 2022 06:48:45 -0400</pubDate>
     </item>
     <item>
@@ -221,6 +215,7 @@
       <title>Mudhoney - Let It Slide - Remastered (1 play)</title>
       <link>https://www.last.fm/music/Mudhoney/_/Let+It+Slide+-+Remastered</link>
       <guid isPermaLink="false">Arcade1996-1666571453--Mudhoney---Let It Slide - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04c4dcf716817b491f0742e1f6fdf925.jpg" length="27600" type="image/jpeg"/>
       <pubDate>Sun, 23 Oct 2022 20:30:53 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1666606720--17d69e72-9cf2-496f-aa64-ba238de2087e---Shades of Jae</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b48da0ae13d4a31a49f816695bc33c3.png" length="68262" type="image/png"/>
       <pubDate>Mon, 24 Oct 2022 06:18:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Born Slippy (Nuxx) (3 plays)</title>
+      <link>https://www.last.fm/music/Underworld/_/Born+Slippy+(Nuxx)</link>
+      <guid isPermaLink="false">Arcade1996-1666607136--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Born Slippy (Nuxx)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ef18635cfc1354fc2d7760005fb119f.jpg" length="40049" type="image/jpeg"/>
+      <pubDate>Mon, 24 Oct 2022 06:25:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
