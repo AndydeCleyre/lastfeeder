@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Oct 2022 17:52:48 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Dickinson - Abduction (2 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Dickinson/_/Abduction</link>
-      <guid isPermaLink="false">manosg--1666680586--50698127-f6f4-4c0c-8010-db98c21100e1---Abduction</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58370f573e978d57a4fef8fa39e1337f.jpg" length="34108" type="image/jpeg"/>
-      <pubDate>Tue, 25 Oct 2022 02:49:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bruce Dickinson - Soul Intruders (2 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Dickinson/_/Soul+Intruders</link>
-      <guid isPermaLink="false">manosg--1666680817--50698127-f6f4-4c0c-8010-db98c21100e1---Soul Intruders</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58370f573e978d57a4fef8fa39e1337f.jpg" length="34108" type="image/jpeg"/>
-      <pubDate>Tue, 25 Oct 2022 02:53:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Oct 2022 18:28:50 +0000</lastBuildDate>
     <item>
       <title>Bruce Dickinson - Kill Devil Hill (2 plays)</title>
       <link>https://www.last.fm/music/Bruce+Dickinson/_/Kill+Devil+Hill</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1666802382--HIM---Wicked Game</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101f62b54a10548bf0075ec0071b1db1.jpg" length="13545" type="image/jpeg"/>
       <pubDate>Wed, 26 Oct 2022 12:39:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>HIM - The Heartless (1 play)</title>
+      <link>https://www.last.fm/music/HIM/_/The+Heartless</link>
+      <guid isPermaLink="false">manosg--1666806712--HIM---The Heartless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101f62b54a10548bf0075ec0071b1db1.jpg" length="13545" type="image/jpeg"/>
+      <pubDate>Wed, 26 Oct 2022 13:51:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>HIM - Our Diabolikal Rapture (1 play)</title>
+      <link>https://www.last.fm/music/HIM/_/Our+Diabolikal+Rapture</link>
+      <guid isPermaLink="false">manosg--1666806954--HIM---Our Diabolikal Rapture</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101f62b54a10548bf0075ec0071b1db1.jpg" length="13545" type="image/jpeg"/>
+      <pubDate>Wed, 26 Oct 2022 13:55:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
