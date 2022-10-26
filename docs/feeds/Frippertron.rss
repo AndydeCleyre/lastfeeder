@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Oct 2022 08:28:55 +0000</lastBuildDate>
-    <item>
-      <title>John Cale - Mary Lou (28 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Mary+Lou</link>
-      <guid isPermaLink="false">Frippertron-1666750761--72c090b6-a68e-4cb9-b330-85278681a714---Mary Lou</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dd658db01724d6fa87a9f007b2e1202.jpg" length="11970" type="image/jpeg"/>
-      <pubDate>Tue, 25 Oct 2022 22:19:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>John Cale - Helen Of Troy (51 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Helen+Of+Troy</link>
-      <guid isPermaLink="false">Frippertron-1666750929--72c090b6-a68e-4cb9-b330-85278681a714---Helen Of Troy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dd658db01724d6fa87a9f007b2e1202.jpg" length="11970" type="image/jpeg"/>
-      <pubDate>Tue, 25 Oct 2022 22:22:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Oct 2022 08:51:43 +0000</lastBuildDate>
     <item>
       <title>John Cale - Gun (47 plays)</title>
       <link>https://www.last.fm/music/John+Cale/_/Gun</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1666772659--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Indiscipline</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 26 Oct 2022 04:24:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Sartori in Tangier (14 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Sartori+in+Tangier</link>
+      <guid isPermaLink="false">Frippertron-1666773407--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Sartori in Tangier</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 04:36:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Larks' Tongues In Aspic (Part II) (244 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+In+Aspic+(Part+II)</link>
+      <guid isPermaLink="false">Frippertron-1666773713--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Larks' Tongues In Aspic (Part II)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 26 Oct 2022 04:41:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
