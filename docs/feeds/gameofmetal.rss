@@ -7,63 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Oct 2022 14:54:10 +0000</lastBuildDate>
-    <item>
-      <title>Iron Maiden - Phantom of the Opera - 2015 remaster (2 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Phantom+of+the+Opera+-+2015+remaster</link>
-      <guid isPermaLink="false">gameofmetal-1666969403--Iron Maiden---Phantom of the Opera - 2015 remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22ebc7ec8a16a165bf75500df33a8544.png" length="218624" type="image/png"/>
-      <pubDate>Fri, 28 Oct 2022 11:03:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Transylvania - 2015 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Transylvania+-+2015+Remaster</link>
-      <guid isPermaLink="false">gameofmetal-1666969942--Iron Maiden---Transylvania - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22ebc7ec8a16a165bf75500df33a8544.png" length="218624" type="image/png"/>
-      <pubDate>Fri, 28 Oct 2022 11:12:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Strange World - 2015 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Strange+World+-+2015+Remaster</link>
-      <guid isPermaLink="false">gameofmetal-1666970187--Iron Maiden---Strange World - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22ebc7ec8a16a165bf75500df33a8544.png" length="218624" type="image/png"/>
-      <pubDate>Fri, 28 Oct 2022 11:16:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Charlotte The Harlot - 2015 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Charlotte+The+Harlot+-+2015+Remaster</link>
-      <guid isPermaLink="false">gameofmetal-1666970534--Iron Maiden---Charlotte The Harlot - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22ebc7ec8a16a165bf75500df33a8544.png" length="218624" type="image/png"/>
-      <pubDate>Fri, 28 Oct 2022 11:22:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Iron Maiden - 2015 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Iron+Maiden+-+2015+Remaster</link>
-      <guid isPermaLink="false">gameofmetal-1666970787--Iron Maiden---Iron Maiden - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22ebc7ec8a16a165bf75500df33a8544.png" length="218624" type="image/png"/>
-      <pubDate>Fri, 28 Oct 2022 11:26:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Prowler - 2015 Remaster (3 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Prowler+-+2015+Remaster</link>
-      <guid isPermaLink="false">gameofmetal-1666971002--Iron Maiden---Prowler - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22ebc7ec8a16a165bf75500df33a8544.png" length="218624" type="image/png"/>
-      <pubDate>Fri, 28 Oct 2022 11:30:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - Remember Tomorrow - 2015 Remaster (2 plays)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Remember+Tomorrow+-+2015+Remaster</link>
-      <guid isPermaLink="false">gameofmetal-1666971238--Iron Maiden---Remember Tomorrow - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22ebc7ec8a16a165bf75500df33a8544.png" length="218624" type="image/png"/>
-      <pubDate>Fri, 28 Oct 2022 11:33:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>charlieonnafriday - Enough (11 plays)</title>
-      <link>https://www.last.fm/music/charlieonnafriday/_/Enough</link>
-      <guid isPermaLink="false">gameofmetal-1666975244--charlieonnafriday---Enough</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/877ba39b66f6f329ffc47d0aefaa6d81.jpg" length="18772" type="image/jpeg"/>
-      <pubDate>Fri, 28 Oct 2022 12:40:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Oct 2022 15:23:35 +0000</lastBuildDate>
     <item>
       <title>Iron Maiden - Running Free - 2015 Remaster (2 plays)</title>
       <link>https://www.last.fm/music/Iron+Maiden/_/Running+Free+-+2015+Remaster</link>
@@ -357,6 +301,62 @@
       <guid isPermaLink="false">gameofmetal-1667054991--Bad Omens---Take Me First</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
       <pubDate>Sat, 29 Oct 2022 10:49:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - THE DEATH OF PEACE OF MIND (7 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/THE+DEATH+OF+PEACE+OF+MIND</link>
+      <guid isPermaLink="false">gameofmetal-1667055190--Bad Omens---THE DEATH OF PEACE OF MIND</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Sat, 29 Oct 2022 10:53:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - What It Cost (6 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/What+It+Cost</link>
+      <guid isPermaLink="false">gameofmetal-1667055432--Bad Omens---What It Cost</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Sat, 29 Oct 2022 10:57:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - Like A Villain (6 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/Like+A+Villain</link>
+      <guid isPermaLink="false">gameofmetal-1667055535--Bad Omens---Like A Villain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Sat, 29 Oct 2022 10:58:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - Bad Decisions (6 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/Bad+Decisions</link>
+      <guid isPermaLink="false">gameofmetal-1667055746--Bad Omens---Bad Decisions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Sat, 29 Oct 2022 11:02:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - Just Pretend (8 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/Just+Pretend</link>
+      <guid isPermaLink="false">gameofmetal-1667056008--Bad Omens---Just Pretend</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Sat, 29 Oct 2022 11:06:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - The Grey (6 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/The+Grey</link>
+      <guid isPermaLink="false">gameofmetal-1667056212--Bad Omens---The Grey</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Sat, 29 Oct 2022 11:10:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - Who Are You? (6 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/Who+Are+You%3F</link>
+      <guid isPermaLink="false">gameofmetal-1667056459--Bad Omens---Who Are You?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Sat, 29 Oct 2022 11:14:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - Somebody else. (6 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/Somebody+else.</link>
+      <guid isPermaLink="false">gameofmetal-1667056676--Bad Omens---Somebody else.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Sat, 29 Oct 2022 11:17:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
