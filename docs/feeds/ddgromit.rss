@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Nov 2022 19:52:58 +0000</lastBuildDate>
-    <item>
-      <title>titicon - silly me (1 play)</title>
-      <link>https://www.last.fm/music/titicon/_/silly+me</link>
-      <guid isPermaLink="false">ddgromit-1667272749--titicon---silly me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 31 Oct 2022 23:19:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Platinum Dust - Dizzy (3 plays)</title>
-      <link>https://www.last.fm/music/Platinum+Dust/_/Dizzy</link>
-      <guid isPermaLink="false">ddgromit-1667272832--Platinum Dust---Dizzy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0d41ffa4815e01988020da19fd5ce5a.jpg" length="16938" type="image/jpeg"/>
-      <pubDate>Mon, 31 Oct 2022 23:20:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Oyh! - 1 Step Ahead (6 plays)</title>
-      <link>https://www.last.fm/music/Oyh!/_/1+Step+Ahead</link>
-      <guid isPermaLink="false">ddgromit-1667272910--Oyh!---1 Step Ahead</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/527486dc9c2b4a20e0fe876e47b8e5ad.jpg" length="24953" type="image/jpeg"/>
-      <pubDate>Mon, 31 Oct 2022 23:21:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Billy Bass - Spanish Tea (2 plays)</title>
-      <link>https://www.last.fm/music/Billy+Bass/_/Spanish+Tea</link>
-      <guid isPermaLink="false">ddgromit-1667273006--Billy Bass---Spanish Tea</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52014cce06b5e9f54fbc1b53b053a705.jpg" length="20107" type="image/jpeg"/>
-      <pubDate>Mon, 31 Oct 2022 23:23:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Nov 2022 20:25:52 +0000</lastBuildDate>
     <item>
       <title>Years From Now - Morning Sax (1 play)</title>
       <link>https://www.last.fm/music/Years+From+Now/_/Morning+Sax</link>
@@ -355,7 +327,36 @@
       <title>Hurley Mower - Home Cooked (7 plays)</title>
       <link>https://www.last.fm/music/Hurley+Mower/_/Home+Cooked</link>
       <guid isPermaLink="false">ddgromit-1667332112--Hurley Mower---Home Cooked</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a517f99ffaab135f02d3deccade84dc6.jpg" length="16101" type="image/jpeg"/>
       <pubDate>Tue, 01 Nov 2022 15:48:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>IHF - Evolve (6 plays)</title>
+      <link>https://www.last.fm/music/IHF/_/Evolve</link>
+      <guid isPermaLink="false">ddgromit-1667332308--143c76ae-b338-42dc-9e74-86dcae8cfce3---Evolve</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86d3474720d3d50c60ea68d389283fed.jpg" length="18215" type="image/jpeg"/>
+      <pubDate>Tue, 01 Nov 2022 15:51:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grandbrothers - Bloodflow (6 plays)</title>
+      <link>https://www.last.fm/music/Grandbrothers/_/Bloodflow</link>
+      <guid isPermaLink="false">ddgromit-1667332502--36250550-80c6-4f83-819b-092d12db5575---Bloodflow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc22b10499705a835efdeb34a98c8853.jpg" length="18422" type="image/jpeg"/>
+      <pubDate>Tue, 01 Nov 2022 15:55:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Les Gordon - Enid &amp; Rebecca (7 plays)</title>
+      <link>https://www.last.fm/music/Les+Gordon/_/Enid+&amp;+Rebecca</link>
+      <guid isPermaLink="false">ddgromit-1667332861--02e5ab4c-7391-4614-ab0f-961b155c5887---Enid &amp; Rebecca</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 01 Nov 2022 16:01:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Les Gordon - Knight &amp; Car (4 plays)</title>
+      <link>https://www.last.fm/music/Les+Gordon/_/Knight+&amp;+Car</link>
+      <guid isPermaLink="false">ddgromit-1667333187--02e5ab4c-7391-4614-ab0f-961b155c5887---Knight &amp; Car</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 01 Nov 2022 16:06:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
