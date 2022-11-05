@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Nov 2022 17:52:25 +0000</lastBuildDate>
-    <item>
-      <title>The Dynamics - Whole Lotta Love (11 plays)</title>
-      <link>https://www.last.fm/music/The+Dynamics/_/Whole+Lotta+Love</link>
-      <guid isPermaLink="false">evilgnomeandy-1667243378--9e73c869-20a8-444f-903e-a0dd17fee1ac---Whole Lotta Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90c98b1d79064bde940be87ad4d656f3.jpg" length="29584" type="image/jpeg"/>
-      <pubDate>Mon, 31 Oct 2022 15:09:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sean Nelson - Gotta Get Up (38 plays)</title>
-      <link>https://www.last.fm/music/Sean+Nelson/_/Gotta+Get+Up</link>
-      <guid isPermaLink="false">evilgnomeandy-1667243641--14f42d15-e97b-4dd9-8996-ffc6f00b6f2b---Gotta Get Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/464aff4fba0e2b93b22151e1a2212abb.jpg" length="37371" type="image/jpeg"/>
-      <pubDate>Mon, 31 Oct 2022 15:14:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Nov 2022 18:25:17 +0000</lastBuildDate>
     <item>
       <title>Nickodemus - Mi Swing es Tropical (35 plays)</title>
       <link>https://www.last.fm/music/Nickodemus/_/Mi+Swing+es+Tropical</link>
@@ -278,7 +264,7 @@
       <title>Frank Sinatra - Stardust (1 play)</title>
       <link>https://www.last.fm/music/Frank+Sinatra/_/Stardust</link>
       <guid isPermaLink="false">evilgnomeandy-1667667328--197450cd-0124-4164-b723-3c22dd16494d---Stardust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c3afcc0c6645b2b2fc8774d508b6846.jpg" length="26125" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c3afcc0c6645b2b2fc8774d508b6846.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Sat, 05 Nov 2022 12:55:28 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1667670400--7f06afd2-a30f-47b6-a25d-6638ab91c817---A Certain Girl</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 05 Nov 2022 13:46:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grateful Dead - Franklin's Tower - 2006 Remaster (12 plays)</title>
+      <link>https://www.last.fm/music/Grateful+Dead/_/Franklin%27s+Tower+-+2006+Remaster</link>
+      <guid isPermaLink="false">evilgnomeandy-1667670565--Grateful Dead---Franklin's Tower - 2006 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c28fb16caef0e8b5dc25c7d98f7c8f41.png" length="205414" type="image/png"/>
+      <pubDate>Sat, 05 Nov 2022 13:49:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Presidents of the United States of America - Stranger (34 plays)</title>
+      <link>https://www.last.fm/music/The+Presidents+of+the+United+States+of+America/_/Stranger</link>
+      <guid isPermaLink="false">evilgnomeandy-1667670838--7509421d-1074-442f-be8f-b526167afcb3---Stranger</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e763a526ab50da37e2d04d340e0181f1.jpg" length="30155" type="image/jpeg"/>
+      <pubDate>Sat, 05 Nov 2022 13:53:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
