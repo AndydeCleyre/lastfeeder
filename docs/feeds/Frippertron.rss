@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Nov 2022 09:44:05 +0000</lastBuildDate>
-    <item>
-      <title>The Mandrake Memorial - Hiding (1 play)</title>
-      <link>https://www.last.fm/music/The+Mandrake+Memorial/_/Hiding</link>
-      <guid isPermaLink="false">Frippertron-1667794738--759d0fbc-a215-4872-a880-07fb0f01bbf4---Hiding</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/658f1d76ed1b4810806dbbd23bae6637.jpg" length="29422" type="image/jpeg"/>
-      <pubDate>Sun, 06 Nov 2022 23:18:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Mandrake Memorial - Just A Blur (Version 2) (1 play)</title>
-      <link>https://www.last.fm/music/The+Mandrake+Memorial/_/Just+A+Blur+(Version+2)</link>
-      <guid isPermaLink="false">Frippertron-1667794921--759d0fbc-a215-4872-a880-07fb0f01bbf4---Just A Blur (Version 2)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/658f1d76ed1b4810806dbbd23bae6637.jpg" length="29422" type="image/jpeg"/>
-      <pubDate>Sun, 06 Nov 2022 23:22:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Nov 2022 09:56:08 +0000</lastBuildDate>
     <item>
       <title>The Mandrake Memorial - Tadpole (1 play)</title>
       <link>https://www.last.fm/music/The+Mandrake+Memorial/_/Tadpole</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1667813995--8546949d-f46c-45ab-8391-85b26dda6b65---Blue Melody</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1286bd66078b840c90d0961bd2267011.jpg" length="14109" type="image/jpeg"/>
       <pubDate>Mon, 07 Nov 2022 04:39:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Talk Talk - Myrrhman (26 plays)</title>
+      <link>https://www.last.fm/music/Talk+Talk/_/Myrrhman</link>
+      <guid isPermaLink="false">Frippertron-1667814357--a74f43e4-50c4-4b19-a2ce-c05ce9bccb03---Myrrhman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85748de6718876bc3fd9c8c218d8b2fa.png" length="168717" type="image/png"/>
+      <pubDate>Mon, 07 Nov 2022 04:45:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Talk Talk - Ascension Day (24 plays)</title>
+      <link>https://www.last.fm/music/Talk+Talk/_/Ascension+Day</link>
+      <guid isPermaLink="false">Frippertron-1667814690--a74f43e4-50c4-4b19-a2ce-c05ce9bccb03---Ascension Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85748de6718876bc3fd9c8c218d8b2fa.png" length="168717" type="image/png"/>
+      <pubDate>Mon, 07 Nov 2022 04:51:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
