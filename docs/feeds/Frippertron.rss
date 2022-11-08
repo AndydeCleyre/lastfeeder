@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Nov 2022 09:43:19 +0000</lastBuildDate>
-    <item>
-      <title>Low - There's a Comma After Still (7 plays)</title>
-      <link>https://www.last.fm/music/Low/_/There%27s+a+Comma+After+Still</link>
-      <guid isPermaLink="false">Frippertron-1667880945--92de643f-fa8f-4e68-b627-4376711b7b33---There's a Comma After Still</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 07 Nov 2022 23:15:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Low - Don't Walk Away (7 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Don%27t+Walk+Away</link>
-      <guid isPermaLink="false">Frippertron-1667881058--92de643f-fa8f-4e68-b627-4376711b7b33---Don't Walk Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 07 Nov 2022 23:17:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Nov 2022 09:55:07 +0000</lastBuildDate>
     <item>
       <title>Low - More (7 plays)</title>
       <link>https://www.last.fm/music/Low/_/More</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1667900300--David Sylvian---Jacqueline</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2df8d4033c9b49f68b9ec4fd2a286006.png" length="225520" type="image/png"/>
       <pubDate>Tue, 08 Nov 2022 04:38:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - beautiful country (24 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/beautiful+country</link>
+      <guid isPermaLink="false">Frippertron-1667900539--David Sylvian---beautiful country</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2df8d4033c9b49f68b9ec4fd2a286006.png" length="225520" type="image/png"/>
+      <pubDate>Tue, 08 Nov 2022 04:42:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - Forbidden Colours (291 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/Forbidden+Colours</link>
+      <guid isPermaLink="false">Frippertron-1667901021--719db6b1-0d91-458c-8d18-875ec44105bf---Forbidden Colours</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6643fe918794698be831a436d10c810.png" length="67260" type="image/png"/>
+      <pubDate>Tue, 08 Nov 2022 04:50:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
