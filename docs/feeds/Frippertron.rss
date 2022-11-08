@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Nov 2022 09:25:14 +0000</lastBuildDate>
-    <item>
-      <title>Low - I Can Wait (13 plays)</title>
-      <link>https://www.last.fm/music/Low/_/I+Can+Wait</link>
-      <guid isPermaLink="false">Frippertron-1667879544--92de643f-fa8f-4e68-b627-4376711b7b33---I Can Wait</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 07 Nov 2022 22:52:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>Low - All Night (10 plays)</title>
-      <link>https://www.last.fm/music/Low/_/All+Night</link>
-      <guid isPermaLink="false">Frippertron-1667879789--92de643f-fa8f-4e68-b627-4376711b7b33---All Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 07 Nov 2022 22:56:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Low - Hey (10 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Hey</link>
-      <guid isPermaLink="false">Frippertron-1667880106--92de643f-fa8f-4e68-b627-4376711b7b33---Hey</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 07 Nov 2022 23:01:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Low - Days Like These (7 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Days+Like+These</link>
-      <guid isPermaLink="false">Frippertron-1667880633--92de643f-fa8f-4e68-b627-4376711b7b33---Days Like These</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 07 Nov 2022 23:10:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Nov 2022 09:43:19 +0000</lastBuildDate>
     <item>
       <title>Low - There's a Comma After Still (7 plays)</title>
       <link>https://www.last.fm/music/Low/_/There%27s+a+Comma+After+Still</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1667898960--Japan---The Other Side Of Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/828e10a974d849e9c9e9ff3f0e2b92c1.png" length="120398" type="image/png"/>
       <pubDate>Tue, 08 Nov 2022 04:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - Silver Moon (88 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/Silver+Moon</link>
+      <guid isPermaLink="false">Frippertron-1667899438--719db6b1-0d91-458c-8d18-875ec44105bf---Silver Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c467ec626bf640c69ac572178cc9f97a.png" length="230221" type="image/png"/>
+      <pubDate>Tue, 08 Nov 2022 04:23:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - Red Guitar (108 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/Red+Guitar</link>
+      <guid isPermaLink="false">Frippertron-1667899819--719db6b1-0d91-458c-8d18-875ec44105bf---Red Guitar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba42b7075fa22bcc1af6b7c23e41ea16.jpg" length="20298" type="image/jpeg"/>
+      <pubDate>Tue, 08 Nov 2022 04:30:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - modern interior (13 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/modern+interior</link>
+      <guid isPermaLink="false">Frippertron-1667900137--719db6b1-0d91-458c-8d18-875ec44105bf---modern interior</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2df8d4033c9b49f68b9ec4fd2a286006.png" length="225520" type="image/png"/>
+      <pubDate>Tue, 08 Nov 2022 04:35:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - Jacqueline (21 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/Jacqueline</link>
+      <guid isPermaLink="false">Frippertron-1667900300--David Sylvian---Jacqueline</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2df8d4033c9b49f68b9ec4fd2a286006.png" length="225520" type="image/png"/>
+      <pubDate>Tue, 08 Nov 2022 04:38:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
