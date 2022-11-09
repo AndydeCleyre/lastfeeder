@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Nov 2022 11:39:39 +0000</lastBuildDate>
-    <item>
-      <title>David Sylvian - Wave (32 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/Wave</link>
-      <guid isPermaLink="false">Frippertron-1667972532--719db6b1-0d91-458c-8d18-875ec44105bf---Wave</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c467ec626bf640c69ac572178cc9f97a.png" length="230221" type="image/png"/>
-      <pubDate>Wed, 09 Nov 2022 00:42:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Nov 2022 11:52:16 +0000</lastBuildDate>
     <item>
       <title>David Sylvian - Silver Moon (89 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Silver+Moon</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1667993776--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Surf's Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a163383cd84247699b6df8a8ee387a2.jpg" length="24788" type="image/jpeg"/>
       <pubDate>Wed, 09 Nov 2022 06:36:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Beach Boys - All I Wanna Do (133 plays)</title>
+      <link>https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do</link>
+      <guid isPermaLink="false">Frippertron-1667994067--ebfc1398-8d96-47e3-82c3-f782abcdb13d---All I Wanna Do</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png" length="139263" type="image/png"/>
+      <pubDate>Wed, 09 Nov 2022 06:41:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
