@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Nov 2022 21:41:54 +0000</lastBuildDate>
-    <item>
-      <title>LCD Soundsystem - Someone Great (6 plays)</title>
-      <link>https://www.last.fm/music/LCD+Soundsystem/_/Someone+Great</link>
-      <guid isPermaLink="false">evilgnomeandy-1667929125--2aaf7396-6ab8-40f3-9776-a41c42c8e26b---Someone Great</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62e79d7331b34ea9ced494570a2fe797.png" length="185603" type="image/png"/>
-      <pubDate>Tue, 08 Nov 2022 12:38:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Nov 2022 21:54:03 +0000</lastBuildDate>
     <item>
       <title>Ry Cooder - Drume Negrita (18 plays)</title>
       <link>https://www.last.fm/music/Ry+Cooder/_/Drume+Negrita</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1668116319--2ce02909-598b-44ef-a456-151ba0a3bd70---You Are My Sunshine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ba775bdd3c448c9b2b8fbe1d7dcb068.jpg" length="20302" type="image/jpeg"/>
       <pubDate>Thu, 10 Nov 2022 16:38:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Johnny Cash - You Are My Sunshine (1 play)</title>
+      <link>https://www.last.fm/music/Johnny+Cash/_/You+Are+My+Sunshine</link>
+      <guid isPermaLink="false">evilgnomeandy-1668116501--Johnny Cash---You Are My Sunshine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93e36c06b6bc4f45e6542f2a9ac299b2.jpg" length="9795" type="image/jpeg"/>
+      <pubDate>Thu, 10 Nov 2022 16:41:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
