@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Nov 2022 17:34:39 +0000</lastBuildDate>
-    <item>
-      <title>Warpaint - Shadows (2 plays)</title>
-      <link>https://www.last.fm/music/Warpaint/_/Shadows</link>
-      <guid isPermaLink="false">TalonsOfFire-1667507178--cf82a38f-9413-4333-bacb-ca5b6db95794---Shadows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3a57c3963355b26dfec6dba878835102.jpg" length="38870" type="image/jpeg"/>
-      <pubDate>Thu, 03 Nov 2022 16:26:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Warpaint - Undertow (4 plays)</title>
-      <link>https://www.last.fm/music/Warpaint/_/Undertow</link>
-      <guid isPermaLink="false">TalonsOfFire-1667507457--cf82a38f-9413-4333-bacb-ca5b6db95794---Undertow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3a57c3963355b26dfec6dba878835102.jpg" length="38870" type="image/jpeg"/>
-      <pubDate>Thu, 03 Nov 2022 16:30:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Warpaint - Whiteout (2 plays)</title>
-      <link>https://www.last.fm/music/Warpaint/_/Whiteout</link>
-      <guid isPermaLink="false">TalonsOfFire-1667507853--cf82a38f-9413-4333-bacb-ca5b6db95794---Whiteout</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/168051c0c085671fcb26eff2ffd05e45.jpg" length="12503" type="image/jpeg"/>
-      <pubDate>Thu, 03 Nov 2022 16:37:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Nov 2022 17:52:34 +0000</lastBuildDate>
     <item>
       <title>Warpaint - New Song (2 plays)</title>
       <link>https://www.last.fm/music/Warpaint/_/New+Song</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">TalonsOfFire-1668187655--9a709693-b4f8-4da9-8cc1-038c911a61be---Defender</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dc48556ad8e9978526e1db42d6059f66.jpg" length="20684" type="image/jpeg"/>
       <pubDate>Fri, 11 Nov 2022 12:27:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bonobo - ATK (1 play)</title>
+      <link>https://www.last.fm/music/Bonobo/_/ATK</link>
+      <guid isPermaLink="false">TalonsOfFire-1668188028--9a709693-b4f8-4da9-8cc1-038c911a61be---ATK</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dc48556ad8e9978526e1db42d6059f66.jpg" length="20684" type="image/jpeg"/>
+      <pubDate>Fri, 11 Nov 2022 12:33:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Brian Eno - Who Gives a Thought (1 play)</title>
+      <link>https://www.last.fm/music/Brian+Eno/_/Who+Gives+a+Thought</link>
+      <guid isPermaLink="false">TalonsOfFire-1668188464--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Who Gives a Thought</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/926ae3f76532fb2bc2e93f11b3105279.png" length="106342" type="image/png"/>
+      <pubDate>Fri, 11 Nov 2022 12:41:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Brian Eno - We Let It In (1 play)</title>
+      <link>https://www.last.fm/music/Brian+Eno/_/We+Let+It+In</link>
+      <guid isPermaLink="false">TalonsOfFire-1668188703--ff95eb47-41c4-4f7f-a104-cdc30f02e872---We Let It In</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/926ae3f76532fb2bc2e93f11b3105279.png" length="106342" type="image/png"/>
+      <pubDate>Fri, 11 Nov 2022 12:45:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
