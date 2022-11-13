@@ -18,9 +18,9 @@ isort==5.10.1
     # via -r dev-requirements.in
 mypy-extensions==0.4.3
     # via black
-pathspec==0.10.1
+pathspec==0.10.2
     # via black
-platformdirs==2.5.3
+platformdirs==2.5.4
     # via black
 requests==2.28.1
     # via flit
