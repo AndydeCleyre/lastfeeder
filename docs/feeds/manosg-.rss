@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Nov 2022 17:13:53 +0000</lastBuildDate>
-    <item>
-      <title>Blackmore's Night - Rainbow Blues (7 plays)</title>
-      <link>https://www.last.fm/music/Blackmore%27s+Night/_/Rainbow+Blues</link>
-      <guid isPermaLink="false">manosg--1668249311--aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68---Rainbow Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42c9598cf8c14f4e9ce68e00b9273e47.jpg" length="35215" type="image/jpeg"/>
-      <pubDate>Sat, 12 Nov 2022 05:35:11 -0500</pubDate>
-    </item>
-    <item>
-      <title>Blackmore's Night - All For One (6 plays)</title>
-      <link>https://www.last.fm/music/Blackmore%27s+Night/_/All+For+One</link>
-      <guid isPermaLink="false">manosg--1668265152--aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68---All For One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42c9598cf8c14f4e9ce68e00b9273e47.jpg" length="35215" type="image/jpeg"/>
-      <pubDate>Sat, 12 Nov 2022 09:59:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Nov 2022 18:26:53 +0000</lastBuildDate>
     <item>
       <title>Blackmore's Night - Dandelion Wine (8 plays)</title>
       <link>https://www.last.fm/music/Blackmore%27s+Night/_/Dandelion+Wine</link>
@@ -103,7 +89,6 @@
       <title>Doomocracy - Catharsis (3 plays)</title>
       <link>https://www.last.fm/music/Doomocracy/_/Catharsis</link>
       <guid isPermaLink="false">manosg--1668275603--Doomocracy---Catharsis</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71183b976c3e88a49e0a080e317a4983.jpg" length="10496" type="image/jpeg"/>
       <pubDate>Sat, 12 Nov 2022 12:53:23 -0500</pubDate>
     </item>
     <item>
@@ -236,7 +221,6 @@
       <title>Enya - Shepherd Moons - 2009 Remaster (3 plays)</title>
       <link>https://www.last.fm/music/Enya/_/Shepherd+Moons+-+2009+Remaster</link>
       <guid isPermaLink="false">manosg--1668364934--Enya---Shepherd Moons - 2009 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7bf3cb16552735edc4e240b2d88650c.jpg" length="22194" type="image/jpeg"/>
       <pubDate>Sun, 13 Nov 2022 13:42:14 -0500</pubDate>
     </item>
     <item>
@@ -355,8 +339,21 @@
       <title>Apocrypha - Lost Children of Hope (2 plays)</title>
       <link>https://www.last.fm/music/Apocrypha/_/Lost+Children+of+Hope</link>
       <guid isPermaLink="false">manosg--1668443617--6c6bfed9-ddf9-466d-b4f5-20dd4c15ebc6---Lost Children of Hope</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e0935f871674a0c950797f2f23d7f9a.jpg" length="25937" type="image/jpeg"/>
       <pubDate>Mon, 14 Nov 2022 11:33:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Enya - The Celts - 2009 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Enya/_/The+Celts+-+2009+Remaster</link>
+      <guid isPermaLink="false">manosg--1668449989--Enya---The Celts - 2009 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce98fa6680c3533c2a5a316adcc32191.jpg" length="23663" type="image/jpeg"/>
+      <pubDate>Mon, 14 Nov 2022 13:19:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Enya - Aldebaran - 2009 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Enya/_/Aldebaran+-+2009+Remaster</link>
+      <guid isPermaLink="false">manosg--1668450170--Enya---Aldebaran - 2009 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce98fa6680c3533c2a5a316adcc32191.jpg" length="23663" type="image/jpeg"/>
+      <pubDate>Mon, 14 Nov 2022 13:22:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
