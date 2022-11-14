@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Nov 2022 05:39:47 +0000</lastBuildDate>
-    <item>
-      <title>Low - [untitled] (2 plays)</title>
-      <link>https://www.last.fm/music/Low/_/%5Buntitled%5D</link>
-      <guid isPermaLink="false">Frippertron-1667986692--92de643f-fa8f-4e68-b627-4376711b7b33---[untitled]</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8edf22079b6871fdafe8cdf059110af0.jpg" length="20051" type="image/jpeg"/>
-      <pubDate>Wed, 09 Nov 2022 04:38:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Low - In Metal (2 plays)</title>
-      <link>https://www.last.fm/music/Low/_/In+Metal</link>
-      <guid isPermaLink="false">Frippertron-1667986743--92de643f-fa8f-4e68-b627-4376711b7b33---In Metal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8edf22079b6871fdafe8cdf059110af0.jpg" length="20051" type="image/jpeg"/>
-      <pubDate>Wed, 09 Nov 2022 04:39:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Nov 2022 05:53:05 +0000</lastBuildDate>
     <item>
       <title>The Doors - L.A. Woman (20 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/L.A.+Woman</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1668401939--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
       <pubDate>Sun, 13 Nov 2022 23:58:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Public Image Ltd. - Albatross (4 plays)</title>
+      <link>https://www.last.fm/music/Public+Image+Ltd./_/Albatross</link>
+      <guid isPermaLink="false">Frippertron-1668404242--Public Image Ltd.---Albatross</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d148f235bac1ee0c82aeab48bd9b823.jpg" length="12373" type="image/jpeg"/>
+      <pubDate>Mon, 14 Nov 2022 00:37:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Public Image Ltd. - Memories (4 plays)</title>
+      <link>https://www.last.fm/music/Public+Image+Ltd./_/Memories</link>
+      <guid isPermaLink="false">Frippertron-1668404881--Public Image Ltd.---Memories</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d148f235bac1ee0c82aeab48bd9b823.jpg" length="12373" type="image/jpeg"/>
+      <pubDate>Mon, 14 Nov 2022 00:48:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
