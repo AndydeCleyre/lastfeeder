@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Nov 2022 07:19:09 +0000</lastBuildDate>
-    <item>
-      <title>Blackmore's Night - Fires At Midnight (14 plays)</title>
-      <link>https://www.last.fm/music/Blackmore%27s+Night/_/Fires+At+Midnight</link>
-      <guid isPermaLink="false">manosg--1668278144--aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68---Fires At Midnight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/512a7f80cc964b0ecbb848fc6ad01b2a.jpg" length="26350" type="image/jpeg"/>
-      <pubDate>Sat, 12 Nov 2022 13:35:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Blackmore's Night - Hanging Tree (13 plays)</title>
-      <link>https://www.last.fm/music/Blackmore%27s+Night/_/Hanging+Tree</link>
-      <guid isPermaLink="false">manosg--1668278601--aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68---Hanging Tree</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/512a7f80cc964b0ecbb848fc6ad01b2a.jpg" length="26350" type="image/jpeg"/>
-      <pubDate>Sat, 12 Nov 2022 13:43:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Blackmore's Night - Storm (13 plays)</title>
-      <link>https://www.last.fm/music/Blackmore%27s+Night/_/Storm</link>
-      <guid isPermaLink="false">manosg--1668278854--aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68---Storm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/512a7f80cc964b0ecbb848fc6ad01b2a.jpg" length="26350" type="image/jpeg"/>
-      <pubDate>Sat, 12 Nov 2022 13:47:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Blackmore's Night - Mid Winter's Night (11 plays)</title>
-      <link>https://www.last.fm/music/Blackmore%27s+Night/_/Mid+Winter%27s+Night</link>
-      <guid isPermaLink="false">manosg--1668362257--aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68---Mid Winter's Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/512a7f80cc964b0ecbb848fc6ad01b2a.jpg" length="26350" type="image/jpeg"/>
-      <pubDate>Sun, 13 Nov 2022 12:57:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Nov 2022 09:20:33 +0000</lastBuildDate>
     <item>
       <title>Blackmore's Night - All Because Of You (17 plays)</title>
       <link>https://www.last.fm/music/Blackmore%27s+Night/_/All+Because+Of+You</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">manosg--1668496271--Enya---Cursum Perficio - 2009 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/636d4d7e29efb7966c7035a866c51a75.png" length="211581" type="image/png"/>
       <pubDate>Tue, 15 Nov 2022 02:11:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Munroe's Thunder - The Black Watch (1 play)</title>
+      <link>https://www.last.fm/music/Munroe%27s+Thunder/_/The+Black+Watch</link>
+      <guid isPermaLink="false">manosg--1668501327--Munroe's Thunder---The Black Watch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6cf6dafc531266a3fb75707dcf86fb81.jpg" length="25571" type="image/jpeg"/>
+      <pubDate>Tue, 15 Nov 2022 03:35:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Munroe's Thunder - Awaken The Fire (1 play)</title>
+      <link>https://www.last.fm/music/Munroe%27s+Thunder/_/Awaken+The+Fire</link>
+      <guid isPermaLink="false">manosg--1668502352--Munroe's Thunder---Awaken The Fire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6cf6dafc531266a3fb75707dcf86fb81.jpg" length="25571" type="image/jpeg"/>
+      <pubDate>Tue, 15 Nov 2022 03:52:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Munroe's Thunder - Gray Hall (1 play)</title>
+      <link>https://www.last.fm/music/Munroe%27s+Thunder/_/Gray+Hall</link>
+      <guid isPermaLink="false">manosg--1668502649--Munroe's Thunder---Gray Hall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6cf6dafc531266a3fb75707dcf86fb81.jpg" length="25571" type="image/jpeg"/>
+      <pubDate>Tue, 15 Nov 2022 03:57:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Munroe's Thunder - Babbington Mary (1 play)</title>
+      <link>https://www.last.fm/music/Munroe%27s+Thunder/_/Babbington+Mary</link>
+      <guid isPermaLink="false">manosg--1668502945--Munroe's Thunder---Babbington Mary</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6cf6dafc531266a3fb75707dcf86fb81.jpg" length="25571" type="image/jpeg"/>
+      <pubDate>Tue, 15 Nov 2022 04:02:25 -0500</pubDate>
     </item>
   </channel>
 </rss>
