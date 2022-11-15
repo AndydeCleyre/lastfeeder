@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Nov 2022 22:41:31 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Icarus or Blériot (1 play)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Icarus+or+Bl%C3%A9riot</link>
-      <guid isPermaLink="false">TalonsOfFire-1668188910--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Icarus or Blériot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/926ae3f76532fb2bc2e93f11b3105279.png" length="106342" type="image/png"/>
-      <pubDate>Fri, 11 Nov 2022 12:48:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>Brian Eno - Garden of Stars (1 play)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Garden+of+Stars</link>
-      <guid isPermaLink="false">TalonsOfFire-1668192267--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Garden of Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/926ae3f76532fb2bc2e93f11b3105279.png" length="106342" type="image/png"/>
-      <pubDate>Fri, 11 Nov 2022 13:44:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Nov 2022 22:53:17 +0000</lastBuildDate>
     <item>
       <title>Brian Eno - Inclusion (1 play)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/Inclusion</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1668551300--a2b1a5f6-92d2-4039-8e55-47360a77957e---Across The Waters</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
       <pubDate>Tue, 15 Nov 2022 17:28:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Opeth - Marrow of the Earth (13 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/Marrow+of+the+Earth</link>
+      <guid isPermaLink="false">TalonsOfFire-1668551328--c14b4180-dc87-481e-b17a-64e4150f90f6---Marrow of the Earth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d48541a850fba5f85737df480450fadc.png" length="204874" type="image/png"/>
+      <pubDate>Tue, 15 Nov 2022 17:28:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Opeth - Will o the Wisp (13 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/Will+o+the+Wisp</link>
+      <guid isPermaLink="false">TalonsOfFire-1668552177--c14b4180-dc87-481e-b17a-64e4150f90f6---Will o the Wisp</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3afbb6aa160181fdce00f63389b8678e.jpg" length="28195" type="image/jpeg"/>
+      <pubDate>Tue, 15 Nov 2022 17:42:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
