@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Nov 2022 04:56:43 +0000</lastBuildDate>
-    <item>
-      <title>The Who - The Real Me (49 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/The+Real+Me</link>
-      <guid isPermaLink="false">Frippertron-1668504363--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---The Real Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Tue, 15 Nov 2022 04:26:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Who - Quadrophenia (27 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/Quadrophenia</link>
-      <guid isPermaLink="false">Frippertron-1668504566--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Quadrophenia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Tue, 15 Nov 2022 04:29:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Who - Cut My Hair (36 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/Cut+My+Hair</link>
-      <guid isPermaLink="false">Frippertron-1668504941--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Cut My Hair</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Tue, 15 Nov 2022 04:35:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Nov 2022 05:21:39 +0000</lastBuildDate>
     <item>
       <title>The Who - The Punk and the Godfather (27 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/The+Punk+and+the+Godfather</link>
@@ -212,7 +191,7 @@
       <pubDate>Tue, 15 Nov 2022 06:48:06 -0500</pubDate>
     </item>
     <item>
-      <title>Ulver - Nowhere/Catastrophe (37 plays)</title>
+      <title>Ulver - Nowhere/Catastrophe (38 plays)</title>
       <link>https://www.last.fm/music/Ulver/_/Nowhere%2FCatastrophe</link>
       <guid isPermaLink="false">Frippertron-1668513354--7d209631-ccb8-4a87-8516-64abe4c22dba---Nowhere/Catastrophe</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c96a7f2cc854dc1332030ea697a82f44.jpg" length="19427" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1668574049--Be-Bop Deluxe---Fair Exchange</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e01d838e48a7af3484dac1a3197e04c.jpg" length="15196" type="image/jpeg"/>
       <pubDate>Tue, 15 Nov 2022 23:47:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ulver - Dead City Centres (11 plays)</title>
+      <link>https://www.last.fm/music/Ulver/_/Dead+City+Centres</link>
+      <guid isPermaLink="false">Frippertron-1668574431--7d209631-ccb8-4a87-8516-64abe4c22dba---Dead City Centres</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c96a7f2cc854dc1332030ea697a82f44.jpg" length="19427" type="image/jpeg"/>
+      <pubDate>Tue, 15 Nov 2022 23:53:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ulver - Nowhere/Catastrophe (38 plays)</title>
+      <link>https://www.last.fm/music/Ulver/_/Nowhere%2FCatastrophe</link>
+      <guid isPermaLink="false">Frippertron-1668574804--7d209631-ccb8-4a87-8516-64abe4c22dba---Nowhere/Catastrophe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c96a7f2cc854dc1332030ea697a82f44.jpg" length="19427" type="image/jpeg"/>
+      <pubDate>Wed, 16 Nov 2022 00:00:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Frame by Frame (98 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Frame+by+Frame</link>
+      <guid isPermaLink="false">Frippertron-1668574974--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Frame by Frame</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 16 Nov 2022 00:02:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
