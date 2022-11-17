@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Nov 2022 01:51:59 +0000</lastBuildDate>
-    <item>
-      <title>Lil Mosey - Blueberry Faygo (5 plays)</title>
-      <link>https://www.last.fm/music/Lil+Mosey/_/Blueberry+Faygo</link>
-      <guid isPermaLink="false">gameofmetal-1668478126--330e00e4-7991-4b47-b2be-3881aa5afed6---Blueberry Faygo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0316440b8142ed89de9c0c07550cf826.jpg" length="32123" type="image/jpeg"/>
-      <pubDate>Mon, 14 Nov 2022 21:08:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Dayseeker - Dreamstate (29 plays)</title>
-      <link>https://www.last.fm/music/Dayseeker/_/Dreamstate</link>
-      <guid isPermaLink="false">gameofmetal-1668525622--d9a9b6aa-c5c5-40dc-95ec-0bff029245c0---Dreamstate</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c791d7743c2f72f0a2dd4e7611cdc12.jpg" length="18390" type="image/jpeg"/>
-      <pubDate>Tue, 15 Nov 2022 10:20:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Nov 2022 03:15:37 +0000</lastBuildDate>
     <item>
       <title>Dayseeker - Neon Grave (18 plays)</title>
       <link>https://www.last.fm/music/Dayseeker/_/Neon+Grave</link>
@@ -278,6 +264,7 @@
       <title>Jessie Murph - Upgrade (6 plays)</title>
       <link>https://www.last.fm/music/Jessie+Murph/_/Upgrade</link>
       <guid isPermaLink="false">gameofmetal-1668631306--007188c6-2cd6-4060-9629-151433847ddf---Upgrade</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/780b07e21dedf29b087418a8bc506ba5.jpg" length="8836" type="image/jpeg"/>
       <pubDate>Wed, 16 Nov 2022 15:41:46 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1668649469--Bad Omens---Like A Villain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
       <pubDate>Wed, 16 Nov 2022 20:44:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - Bad Decisions (9 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/Bad+Decisions</link>
+      <guid isPermaLink="false">gameofmetal-1668649680--Bad Omens---Bad Decisions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Wed, 16 Nov 2022 20:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bad Omens - Just Pretend (13 plays)</title>
+      <link>https://www.last.fm/music/Bad+Omens/_/Just+Pretend</link>
+      <guid isPermaLink="false">gameofmetal-1668649941--Bad Omens---Just Pretend</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
+      <pubDate>Wed, 16 Nov 2022 20:52:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
