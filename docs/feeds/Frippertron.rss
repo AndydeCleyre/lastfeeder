@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Nov 2022 06:26:03 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Editions of You (60 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
-      <guid isPermaLink="false">Frippertron-1668594372--331ce348-1b08-40b9-8ed7-0763b92bd003---Editions of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Wed, 16 Nov 2022 05:26:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - In Every Dream Home a Heartache (46 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/In+Every+Dream+Home+a+Heartache</link>
-      <guid isPermaLink="false">Frippertron-1668594605--331ce348-1b08-40b9-8ed7-0763b92bd003---In Every Dream Home a Heartache</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Wed, 16 Nov 2022 05:30:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - For Your Pleasure (19 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/For+Your+Pleasure</link>
-      <guid isPermaLink="false">Frippertron-1668594933--331ce348-1b08-40b9-8ed7-0763b92bd003---For Your Pleasure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Wed, 16 Nov 2022 05:35:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Nov 2022 06:47:17 +0000</lastBuildDate>
     <item>
       <title>Jockstrap - Greatest Hits (17 plays)</title>
       <link>https://www.last.fm/music/Jockstrap/_/Greatest+Hits</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1668665981--83d91898-7763-47d7-b03b-b92132375c47---On the Run</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
       <pubDate>Thu, 17 Nov 2022 01:19:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Time (24 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Time</link>
+      <guid isPermaLink="false">Frippertron-1668666292--83d91898-7763-47d7-b03b-b92132375c47---Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 01:24:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - The Great Gig in the Sky (22 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/The+Great+Gig+in+the+Sky</link>
+      <guid isPermaLink="false">Frippertron-1668666686--83d91898-7763-47d7-b03b-b92132375c47---The Great Gig in the Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 01:31:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Money (20 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Money</link>
+      <guid isPermaLink="false">Frippertron-1668667098--83d91898-7763-47d7-b03b-b92132375c47---Money</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 01:38:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
