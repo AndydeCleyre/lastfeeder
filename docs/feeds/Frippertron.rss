@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Nov 2022 11:17:01 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Time (24 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Time</link>
-      <guid isPermaLink="false">Frippertron-1668666292--83d91898-7763-47d7-b03b-b92132375c47---Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
-      <pubDate>Thu, 17 Nov 2022 01:24:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - The Great Gig in the Sky (22 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/The+Great+Gig+in+the+Sky</link>
-      <guid isPermaLink="false">Frippertron-1668666686--83d91898-7763-47d7-b03b-b92132375c47---The Great Gig in the Sky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
-      <pubDate>Thu, 17 Nov 2022 01:31:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Nov 2022 11:38:01 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Money (20 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Money</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1668683617--331ce348-1b08-40b9-8ed7-0763b92bd003---Re-Make/Re-Model</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
       <pubDate>Thu, 17 Nov 2022 06:13:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Ladytron (40 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Ladytron</link>
+      <guid isPermaLink="false">Frippertron-1668683932--331ce348-1b08-40b9-8ed7-0763b92bd003---Ladytron</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
+      <pubDate>Thu, 17 Nov 2022 06:18:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Virginia Plain (129 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Virginia+Plain</link>
+      <guid isPermaLink="false">Frippertron-1668684192--331ce348-1b08-40b9-8ed7-0763b92bd003---Virginia Plain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
+      <pubDate>Thu, 17 Nov 2022 06:23:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
