@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Nov 2022 11:38:01 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Money (20 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Money</link>
-      <guid isPermaLink="false">Frippertron-1668667098--83d91898-7763-47d7-b03b-b92132375c47---Money</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
-      <pubDate>Thu, 17 Nov 2022 01:38:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Nov 2022 11:52:24 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Us and Them (20 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Us+and+Them</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1668684192--331ce348-1b08-40b9-8ed7-0763b92bd003---Virginia Plain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
       <pubDate>Thu, 17 Nov 2022 06:23:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Arnold Schönberg - Sehr Langsam (Takt 1) (19 plays)</title>
+      <link>https://www.last.fm/music/Arnold+Sch%C3%B6nberg/_/Sehr+Langsam+(Takt+1)</link>
+      <guid isPermaLink="false">Frippertron-1668685349--Arnold Schönberg---Sehr Langsam (Takt 1)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/39acdf8d472d2d555b68f3f44b317f88.jpg" length="14965" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 06:42:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
