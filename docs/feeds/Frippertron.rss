@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Nov 2022 07:19:09 +0000</lastBuildDate>
-    <item>
-      <title>Kayo Dot - Symmetrical Arizona (69 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/Symmetrical+Arizona</link>
-      <guid isPermaLink="false">Frippertron-1668596101--3979eee5-c72a-4b0a-9191-a0243881250a---Symmetrical Arizona</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
-      <pubDate>Wed, 16 Nov 2022 05:55:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Nov 2022 07:52:24 +0000</lastBuildDate>
     <item>
       <title>The Doors - Break on Through (to the Other Side) (23 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/Break+on+Through+(to+the+Other+Side)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1668668607--83d91898-7763-47d7-b03b-b92132375c47---Brain Damage</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
       <pubDate>Thu, 17 Nov 2022 02:03:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Eclipse (26 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Eclipse</link>
+      <guid isPermaLink="false">Frippertron-1668671221--83d91898-7763-47d7-b03b-b92132375c47---Eclipse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 02:47:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
