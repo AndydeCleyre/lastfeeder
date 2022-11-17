@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Nov 2022 19:38:28 +0000</lastBuildDate>
-    <item>
-      <title>The Plot in You - Troll (1 play)</title>
-      <link>https://www.last.fm/music/The+Plot+in+You/_/Troll</link>
-      <guid isPermaLink="false">gameofmetal-1668632040--c2e7d4ac-5e30-4b55-99b7-e49d99fd7c63---Troll</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/036330c8db3145b0911b736276d55833.png" length="155443" type="image/png"/>
-      <pubDate>Wed, 16 Nov 2022 15:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Counterparts - Burn (11 plays)</title>
-      <link>https://www.last.fm/music/Counterparts/_/Burn</link>
-      <guid isPermaLink="false">gameofmetal-1668632237--Counterparts---Burn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/373f9a30c78fd24420056a95b7f45114.png" length="106056" type="image/png"/>
-      <pubDate>Wed, 16 Nov 2022 15:57:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>Bad Omens - Concrete Jungle (12 plays)</title>
-      <link>https://www.last.fm/music/Bad+Omens/_/Concrete+Jungle</link>
-      <guid isPermaLink="false">gameofmetal-1668647306--Bad Omens---Concrete Jungle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
-      <pubDate>Wed, 16 Nov 2022 20:08:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Bad Omens - Nowhere To Go (12 plays)</title>
-      <link>https://www.last.fm/music/Bad+Omens/_/Nowhere+To+Go</link>
-      <guid isPermaLink="false">gameofmetal-1668648677--Bad Omens---Nowhere To Go</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9422d9559aec6d56380e2144bfbfe8b3.jpg" length="11062" type="image/jpeg"/>
-      <pubDate>Wed, 16 Nov 2022 20:31:17 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Nov 2022 20:21:50 +0000</lastBuildDate>
     <item>
       <title>Bad Omens - Take Me First (11 plays)</title>
       <link>https://www.last.fm/music/Bad+Omens/_/Take+Me+First</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">gameofmetal-1668713288--Watain---Opus Dei - The Morbid Angel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ef090638c1c49599a609a08baac5995.jpg" length="38999" type="image/jpeg"/>
       <pubDate>Thu, 17 Nov 2022 14:28:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Watain - Puzzles ov Flesh (1 play)</title>
+      <link>https://www.last.fm/music/Watain/_/Puzzles+ov+Flesh</link>
+      <guid isPermaLink="false">gameofmetal-1668713627--8c51b06d-b678-4bbf-aeac-7295dfb69d13---Puzzles ov Flesh</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ef090638c1c49599a609a08baac5995.jpg" length="38999" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 14:33:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Watain - I Am the Earth (1 play)</title>
+      <link>https://www.last.fm/music/Watain/_/I+Am+the+Earth</link>
+      <guid isPermaLink="false">gameofmetal-1668715248--8c51b06d-b678-4bbf-aeac-7295dfb69d13---I Am the Earth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ef090638c1c49599a609a08baac5995.jpg" length="38999" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 15:00:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Watain - The Golden Horns of Darash (1 play)</title>
+      <link>https://www.last.fm/music/Watain/_/The+Golden+Horns+of+Darash</link>
+      <guid isPermaLink="false">gameofmetal-1668715614--8c51b06d-b678-4bbf-aeac-7295dfb69d13---The Golden Horns of Darash</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ef090638c1c49599a609a08baac5995.jpg" length="38999" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 15:06:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Watain - From the Pulpits of Abomination (1 play)</title>
+      <link>https://www.last.fm/music/Watain/_/From+the+Pulpits+of+Abomination</link>
+      <guid isPermaLink="false">gameofmetal-1668715960--8c51b06d-b678-4bbf-aeac-7295dfb69d13---From the Pulpits of Abomination</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ef090638c1c49599a609a08baac5995.jpg" length="38999" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 15:12:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
