@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Nov 2022 05:52:15 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - No Quarter (54 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/No+Quarter</link>
-      <guid isPermaLink="false">Frippertron-1668593115--678d88b2-87b0-403b-b63d-5da7465aecc3---No Quarter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
-      <pubDate>Wed, 16 Nov 2022 05:05:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Legal Boys (36 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Legal+Boys</link>
-      <guid isPermaLink="false">Frippertron-1668593592--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Legal Boys</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61bb942d52b4348c0d5356151a03d11f.jpg" length="28585" type="image/jpeg"/>
-      <pubDate>Wed, 16 Nov 2022 05:13:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Virginia Plain (128 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Virginia+Plain</link>
-      <guid isPermaLink="false">Frippertron-1668593824--331ce348-1b08-40b9-8ed7-0763b92bd003---Virginia Plain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
-      <pubDate>Wed, 16 Nov 2022 05:17:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Do the Strand (29 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Do+the+Strand</link>
-      <guid isPermaLink="false">Frippertron-1668594067--331ce348-1b08-40b9-8ed7-0763b92bd003---Do the Strand</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Wed, 16 Nov 2022 05:21:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Nov 2022 06:26:03 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - Editions of You (60 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1668663782--83d91898-7763-47d7-b03b-b92132375c47---Sheep</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
       <pubDate>Thu, 17 Nov 2022 00:43:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Dogs (39 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Dogs</link>
+      <guid isPermaLink="false">Frippertron-1668664539--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 00:55:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Speak to Me (11 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Speak+to+Me</link>
+      <guid isPermaLink="false">Frippertron-1668665635--83d91898-7763-47d7-b03b-b92132375c47---Speak to Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 01:13:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Breathe (20 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Breathe</link>
+      <guid isPermaLink="false">Frippertron-1668665809--83d91898-7763-47d7-b03b-b92132375c47---Breathe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 01:16:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - On the Run (18 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/On+the+Run</link>
+      <guid isPermaLink="false">Frippertron-1668665981--83d91898-7763-47d7-b03b-b92132375c47---On the Run</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Thu, 17 Nov 2022 01:19:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
