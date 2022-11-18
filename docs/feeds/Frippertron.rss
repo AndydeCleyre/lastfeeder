@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Nov 2022 04:29:01 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Casanova (55 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Casanova</link>
-      <guid isPermaLink="false">Frippertron-1668674723--331ce348-1b08-40b9-8ed7-0763b92bd003---Casanova</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f147556280904cdfbd548c75da1bf6a1.png" length="237465" type="image/png"/>
-      <pubDate>Thu, 17 Nov 2022 03:45:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Nov 2022 04:49:00 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - Street Life (47 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Street+Life</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1668744714--Charles Mingus---Orange Was The Color Of Her Dress, Then Silk Blues, Orange Was The Color Of Her Dress, Then Silk Blues</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 17 Nov 2022 23:11:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Charles Mingus - Noddin' Ya Head Blues (1 play)</title>
+      <link>https://www.last.fm/music/Charles+Mingus/_/Noddin%27+Ya+Head+Blues</link>
+      <guid isPermaLink="false">Frippertron-1668746560--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---Noddin' Ya Head Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 17 Nov 2022 23:42:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
