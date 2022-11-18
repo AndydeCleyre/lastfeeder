@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Nov 2022 09:41:08 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - 2HB (3 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/2HB</link>
-      <guid isPermaLink="false">Frippertron-1668742557--331ce348-1b08-40b9-8ed7-0763b92bd003---2HB</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
-      <pubDate>Thu, 17 Nov 2022 22:35:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Doors - Love Me Two Times (7 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Love+Me+Two+Times</link>
-      <guid isPermaLink="false">Frippertron-1668742707--9efff43b-3b29-4082-824e-bc82f646f93d---Love Me Two Times</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4a3df5139914c5190350c0e1c59094b.png" length="232933" type="image/png"/>
-      <pubDate>Thu, 17 Nov 2022 22:38:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Nov 2022 09:53:06 +0000</lastBuildDate>
     <item>
       <title>The Doors - L.A. Woman (23 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/L.A.+Woman</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1668764246--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
       <pubDate>Fri, 18 Nov 2022 04:37:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Dethroned (88 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Dethroned</link>
+      <guid isPermaLink="false">Frippertron-1668764612--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Dethroned</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 04:43:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Ascending Forth (109 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Ascending+Forth</link>
+      <guid isPermaLink="false">Frippertron-1668764931--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ascending Forth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 04:48:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
