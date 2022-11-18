@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Nov 2022 05:52:24 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - She Sells (65 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/She+Sells</link>
-      <guid isPermaLink="false">Frippertron-1668676059--331ce348-1b08-40b9-8ed7-0763b92bd003---She Sells</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
-      <pubDate>Thu, 17 Nov 2022 04:07:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Hammer to Fall (26 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Hammer+to+Fall</link>
-      <guid isPermaLink="false">Frippertron-1668676480--5eecaf18-02ec-47af-a4f2-7831db373419---Hammer to Fall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
-      <pubDate>Thu, 17 Nov 2022 04:14:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Foxygen - Follow The Leader (104 plays)</title>
-      <link>https://www.last.fm/music/Foxygen/_/Follow+The+Leader</link>
-      <guid isPermaLink="false">Frippertron-1668676773--913e6848-6865-4717-ac5e-3bd9c22826be---Follow The Leader</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c79a9fe4e22388964a0f9e78d81b2ccc.jpg" length="26095" type="image/jpeg"/>
-      <pubDate>Thu, 17 Nov 2022 04:19:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Foxygen - Avalon (106 plays)</title>
-      <link>https://www.last.fm/music/Foxygen/_/Avalon</link>
-      <guid isPermaLink="false">Frippertron-1668677027--913e6848-6865-4717-ac5e-3bd9c22826be---Avalon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c79a9fe4e22388964a0f9e78d81b2ccc.jpg" length="26095" type="image/jpeg"/>
-      <pubDate>Thu, 17 Nov 2022 04:23:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Foxygen - America (41 plays)</title>
-      <link>https://www.last.fm/music/Foxygen/_/America</link>
-      <guid isPermaLink="false">Frippertron-1668677270--913e6848-6865-4717-ac5e-3bd9c22826be---America</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c79a9fe4e22388964a0f9e78d81b2ccc.jpg" length="26095" type="image/jpeg"/>
-      <pubDate>Thu, 17 Nov 2022 04:27:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>black midi - Dethroned (87 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Dethroned</link>
-      <guid isPermaLink="false">Frippertron-1668677610--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Dethroned</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bb061a8cc4dc88cbc2d7fabe76f3789.jpg" length="31499" type="image/jpeg"/>
-      <pubDate>Thu, 17 Nov 2022 04:33:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>black midi - Crow's Perch (54 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Crow%27s+Perch</link>
-      <guid isPermaLink="false">Frippertron-1668677974--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Crow's Perch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 17 Nov 2022 04:39:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>black midi - Talking Heads (85 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Talking+Heads</link>
-      <guid isPermaLink="false">Frippertron-1668678222--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Talking Heads</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 17 Nov 2022 04:43:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>Special Interest - Cherry Blue Intention (1 play)</title>
-      <link>https://www.last.fm/music/Special+Interest/_/Cherry+Blue+Intention</link>
-      <guid isPermaLink="false">Frippertron-1668678422--cb0a7ee8-69fe-409c-85ae-820e3f1e46d4---Cherry Blue Intention</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce8988fe6f832bf7de13ff81a2890be1.png" length="130386" type="image/png"/>
-      <pubDate>Thu, 17 Nov 2022 04:47:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Nov 2022 06:26:35 +0000</lastBuildDate>
     <item>
       <title>Special Interest - (Herman's) House (1 play)</title>
       <link>https://www.last.fm/music/Special+Interest/_/(Herman%27s)+House</link>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">Frippertron-1668750481--06cae8a2-622f-4033-a13e-f965c5289ecc---Aberdeen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
       <pubDate>Fri, 18 Nov 2022 00:48:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - Mary's Prayer (13 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/Mary%27s+Prayer</link>
+      <guid isPermaLink="false">Frippertron-1668750630--06cae8a2-622f-4033-a13e-f965c5289ecc---Mary's Prayer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 00:50:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - Lorraine Parade (5 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/Lorraine+Parade</link>
+      <guid isPermaLink="false">Frippertron-1668750866--06cae8a2-622f-4033-a13e-f965c5289ecc---Lorraine Parade</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 00:54:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - Nothing Ever Goes To Plan (5 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/Nothing+Ever+Goes+To+Plan</link>
+      <guid isPermaLink="false">Frippertron-1668751091--06cae8a2-622f-4033-a13e-f965c5289ecc---Nothing Ever Goes To Plan</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 00:58:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - Broken China (5 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/Broken+China</link>
+      <guid isPermaLink="false">Frippertron-1668751322--06cae8a2-622f-4033-a13e-f965c5289ecc---Broken China</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 01:02:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - Steamtrains To The Milky Way (4 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/Steamtrains+To+The+Milky+Way</link>
+      <guid isPermaLink="false">Frippertron-1668751593--06cae8a2-622f-4033-a13e-f965c5289ecc---Steamtrains To The Milky Way</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 01:06:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - Spencer-Tracey (4 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/Spencer-Tracey</link>
+      <guid isPermaLink="false">Frippertron-1668751864--06cae8a2-622f-4033-a13e-f965c5289ecc---Spencer-Tracey</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 01:11:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - You Remain An Angel (6 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/You+Remain+An+Angel</link>
+      <guid isPermaLink="false">Frippertron-1668751960--06cae8a2-622f-4033-a13e-f965c5289ecc---You Remain An Angel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 01:12:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - Ruby's Golden Wedding (7 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/Ruby%27s+Golden+Wedding</link>
+      <guid isPermaLink="false">Frippertron-1668752255--06cae8a2-622f-4033-a13e-f965c5289ecc---Ruby's Golden Wedding</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 01:17:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - A Girl I Used To Know (4 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/A+Girl+I+Used+To+Know</link>
+      <guid isPermaLink="false">Frippertron-1668752448--06cae8a2-622f-4033-a13e-f965c5289ecc---A Girl I Used To Know</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Fri, 18 Nov 2022 01:20:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
