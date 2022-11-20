@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Nov 2022 22:18:43 +0000</lastBuildDate>
-    <item>
-      <title>Tenhi - Yötä (1 play)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Y%C3%B6t%C3%A4</link>
-      <guid isPermaLink="false">TalonsOfFire-1668795208--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Yötä</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/743a883fb2cf4cf5cc07f776abe3fe38.png" length="74057" type="image/png"/>
-      <pubDate>Fri, 18 Nov 2022 13:13:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Nov 2022 22:40:48 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Suortuva (1 play)</title>
       <link>https://www.last.fm/music/Tenhi/_/Suortuva</link>
@@ -268,7 +261,7 @@
       <pubDate>Sun, 20 Nov 2022 15:15:41 -0500</pubDate>
     </item>
     <item>
-      <title>Vàli - Dystre Naturbilder (2 plays)</title>
+      <title>Vàli - Dystre Naturbilder</title>
       <link>https://www.last.fm/music/V%C3%A0li/_/Dystre+Naturbilder</link>
       <guid isPermaLink="false">TalonsOfFire-1668975424--ecb6cd5c-a75e-4794-b2e9-c7be123b824a---Dystre Naturbilder</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99dd320094bd8832720019cdf8dc8193.jpg" length="28762" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1668980125--310e4c19-d810-42f1-947f-76889e8bfcf2---Angels Of Light</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b4e3a9f12334729c76748e5c1965e29.jpg" length="37114" type="image/jpeg"/>
       <pubDate>Sun, 20 Nov 2022 16:35:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Angels of Light - Inner Female (2 plays)</title>
+      <link>https://www.last.fm/music/The+Angels+of+Light/_/Inner+Female</link>
+      <guid isPermaLink="false">TalonsOfFire-1668982672--310e4c19-d810-42f1-947f-76889e8bfcf2---Inner Female</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b4e3a9f12334729c76748e5c1965e29.jpg" length="37114" type="image/jpeg"/>
+      <pubDate>Sun, 20 Nov 2022 17:17:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
