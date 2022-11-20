@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Nov 2022 03:59:02 +0000</lastBuildDate>
-    <item>
-      <title>Gorillaz - Saturnz Barz (feat. Popcaan) (14 plays)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/Saturnz+Barz+(feat.+Popcaan)</link>
-      <guid isPermaLink="false">Arcade1996-1668858343--e21857d5-3256-4547-afb3-4b6ded592596---Saturnz Barz (feat. Popcaan)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6be60edd13ecd2226b9ca7508484f99.jpg" length="17271" type="image/jpeg"/>
-      <pubDate>Sat, 19 Nov 2022 06:45:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz - Re-Hash (1 play)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/Re-Hash</link>
-      <guid isPermaLink="false">Arcade1996-1668858525--e21857d5-3256-4547-afb3-4b6ded592596---Re-Hash</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86fc45f14a789e9fee32a99ea9036d3d.png" length="83302" type="image/png"/>
-      <pubDate>Sat, 19 Nov 2022 06:48:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz - Pac-Man (feat. ScHoolboy Q) (25 plays)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/Pac-Man+(feat.+ScHoolboy+Q)</link>
-      <guid isPermaLink="false">Arcade1996-1668858748--e21857d5-3256-4547-afb3-4b6ded592596---Pac-Man (feat. ScHoolboy Q)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80f8f3a965cef1643cc047cb0f7aa1b3.jpg" length="26603" type="image/jpeg"/>
-      <pubDate>Sat, 19 Nov 2022 06:52:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Nov 2022 05:39:12 +0000</lastBuildDate>
     <item>
       <title>Nas - Ghetto Reporter (2 plays)</title>
       <link>https://www.last.fm/music/Nas/_/Ghetto+Reporter</link>
@@ -114,7 +93,7 @@
       <pubDate>Sat, 19 Nov 2022 10:47:11 -0500</pubDate>
     </item>
     <item>
-      <title>Nas - Get Light</title>
+      <title>Nas - Get Light (2 plays)</title>
       <link>https://www.last.fm/music/Nas/_/Get+Light</link>
       <guid isPermaLink="false">Arcade1996-1668873071--cfbc0924-0035-4d6c-8197-f024653af823---Get Light</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe0affa424031aa643dda097d43d569f.jpg" length="15421" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Arcade1996-1668915547--cfbc0924-0035-4d6c-8197-f024653af823---Once a Man, Twice a Child</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe0affa424031aa643dda097d43d569f.jpg" length="15421" type="image/jpeg"/>
       <pubDate>Sat, 19 Nov 2022 22:39:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nas - Get Light (2 plays)</title>
+      <link>https://www.last.fm/music/Nas/_/Get+Light</link>
+      <guid isPermaLink="false">Arcade1996-1668915787--cfbc0924-0035-4d6c-8197-f024653af823---Get Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe0affa424031aa643dda097d43d569f.jpg" length="15421" type="image/jpeg"/>
+      <pubDate>Sat, 19 Nov 2022 22:43:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Justin Timberlake - Cry Me a River (1 play)</title>
+      <link>https://www.last.fm/music/Justin+Timberlake/_/Cry+Me+a+River</link>
+      <guid isPermaLink="false">Arcade1996-1668922076--596ffa74-3d08-44ef-b113-765d43d12738---Cry Me a River</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2339e92a6ef49b0af34072a8012e07c1.jpg" length="18044" type="image/jpeg"/>
+      <pubDate>Sun, 20 Nov 2022 00:27:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Craig David - Walking Away (11 plays)</title>
+      <link>https://www.last.fm/music/Craig+David/_/Walking+Away</link>
+      <guid isPermaLink="false">Arcade1996-1668922364--89e39f67-65cc-4f90-b145-b1b56c209f8a---Walking Away</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b60e110d2d7d0de2db35c47bc20884dc.jpg" length="15273" type="image/jpeg"/>
+      <pubDate>Sun, 20 Nov 2022 00:32:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
