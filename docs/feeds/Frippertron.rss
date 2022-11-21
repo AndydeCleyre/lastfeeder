@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Nov 2022 07:19:35 +0000</lastBuildDate>
-    <item>
-      <title>Weyes Blood - In Holy Flux (2 plays)</title>
-      <link>https://www.last.fm/music/Weyes+Blood/_/In+Holy+Flux</link>
-      <guid isPermaLink="false">Frippertron-1668767955--469d6414-1f06-43de-80d5-17762d4a356a---In Holy Flux</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8214c56f1e5bc67fcd1f29073dedf822.jpg" length="15691" type="image/jpeg"/>
-      <pubDate>Fri, 18 Nov 2022 05:39:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>Weyes Blood - The Worst is Done (2 plays)</title>
-      <link>https://www.last.fm/music/Weyes+Blood/_/The+Worst+is+Done</link>
-      <guid isPermaLink="false">Frippertron-1668768063--469d6414-1f06-43de-80d5-17762d4a356a---The Worst is Done</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8214c56f1e5bc67fcd1f29073dedf822.jpg" length="15691" type="image/jpeg"/>
-      <pubDate>Fri, 18 Nov 2022 05:41:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Nov 2022 08:27:10 +0000</lastBuildDate>
     <item>
       <title>Donovan - The Trip (3 plays)</title>
       <link>https://www.last.fm/music/Donovan/_/The+Trip</link>
@@ -355,8 +341,21 @@
       <title>Alexander Scriabin - Piano Concerto in F Sharp Minor, Op.20: 2. Andante (9 plays)</title>
       <link>https://www.last.fm/music/Alexander+Scriabin/_/Piano+Concerto+in+F+Sharp+Minor,+Op.20:+2.+Andante</link>
       <guid isPermaLink="false">Frippertron-1669013676--Alexander Scriabin---Piano Concerto in F Sharp Minor, Op.20: 2. Andante</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fc097e60ecc4cc9bb0d643611eb319d.jpg" length="31083" type="image/jpeg"/>
       <pubDate>Mon, 21 Nov 2022 01:54:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Dangerous Liaisons (86 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Dangerous+Liaisons</link>
+      <guid isPermaLink="false">Frippertron-1669017604--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Dangerous Liaisons</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
+      <pubDate>Mon, 21 Nov 2022 03:00:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Black Napkins (5 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Black+Napkins</link>
+      <guid isPermaLink="false">Frippertron-1669017921--e20747e7-55a4-452e-8766-7b985585082d---Black Napkins</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62ad20134bf9636f74b15af171a68469.jpg" length="31978" type="image/jpeg"/>
+      <pubDate>Mon, 21 Nov 2022 03:05:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
