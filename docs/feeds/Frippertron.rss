@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Nov 2022 05:19:01 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Echoes (61 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
-      <guid isPermaLink="false">Frippertron-1669019620--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
-      <pubDate>Mon, 21 Nov 2022 03:33:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Van der Graaf Generator - Lemmings (34 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Lemmings</link>
-      <guid isPermaLink="false">Frippertron-1669020900--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
-      <pubDate>Mon, 21 Nov 2022 03:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Van der Graaf Generator - Man-Erg (50 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Man-Erg</link>
-      <guid isPermaLink="false">Frippertron-1669021601--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Man-Erg</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
-      <pubDate>Mon, 21 Nov 2022 04:06:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Nov 2022 05:39:53 +0000</lastBuildDate>
     <item>
       <title>Van der Graaf Generator - A Plague of Lighthouse Keepers (50 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/A+Plague+of+Lighthouse+Keepers</link>
@@ -184,7 +163,7 @@
       <pubDate>Mon, 21 Nov 2022 06:25:34 -0500</pubDate>
     </item>
     <item>
-      <title>Pink Floyd - Fearless (36 plays)</title>
+      <title>Pink Floyd - Fearless (37 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
       <guid isPermaLink="false">Frippertron-1669030193--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1669093320--72d7d717-0837-4f2a-9641-d0f9fdd3acf7---Get Thy Bearings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35740bedbc794e50ce8fd5585d9a4723.png" length="135122" type="image/png"/>
       <pubDate>Tue, 22 Nov 2022 00:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Crow's Perch (55 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Crow%27s+Perch</link>
+      <guid isPermaLink="false">Frippertron-1669094586--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Crow's Perch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 00:23:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Talking Heads (86 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Talking+Heads</link>
+      <guid isPermaLink="false">Frippertron-1669094850--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Talking Heads</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 00:27:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Fearless (37 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
+      <guid isPermaLink="false">Frippertron-1669095120--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 00:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
