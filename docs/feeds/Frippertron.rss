@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Nov 2022 07:52:13 +0000</lastBuildDate>
-    <item>
-      <title>Tim Buckley - Down by the Borderline (33 plays)</title>
-      <link>https://www.last.fm/music/Tim+Buckley/_/Down+by+the+Borderline</link>
-      <guid isPermaLink="false">Frippertron-1669027357--8546949d-f46c-45ab-8391-85b26dda6b65---Down by the Borderline</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/303412cc2aa54270466e6590da64c849.jpg" length="20343" type="image/jpeg"/>
-      <pubDate>Mon, 21 Nov 2022 05:42:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tim Buckley - Lorca (7 plays)</title>
-      <link>https://www.last.fm/music/Tim+Buckley/_/Lorca</link>
-      <guid isPermaLink="false">Frippertron-1669027723--8546949d-f46c-45ab-8391-85b26dda6b65---Lorca</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/458bca87b19e5c69007a33153ee74333.jpg" length="22855" type="image/jpeg"/>
-      <pubDate>Mon, 21 Nov 2022 05:48:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tim Buckley - Anonymous Proposition (7 plays)</title>
-      <link>https://www.last.fm/music/Tim+Buckley/_/Anonymous+Proposition</link>
-      <guid isPermaLink="false">Frippertron-1669028323--8546949d-f46c-45ab-8391-85b26dda6b65---Anonymous Proposition</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/458bca87b19e5c69007a33153ee74333.jpg" length="22855" type="image/jpeg"/>
-      <pubDate>Mon, 21 Nov 2022 05:58:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tim Buckley - I Had a Talk With My Woman (8 plays)</title>
-      <link>https://www.last.fm/music/Tim+Buckley/_/I+Had+a+Talk+With+My+Woman</link>
-      <guid isPermaLink="false">Frippertron-1669028635--8546949d-f46c-45ab-8391-85b26dda6b65---I Had a Talk With My Woman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/458bca87b19e5c69007a33153ee74333.jpg" length="22855" type="image/jpeg"/>
-      <pubDate>Mon, 21 Nov 2022 06:03:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tim Buckley - Nobody Walkin' (11 plays)</title>
-      <link>https://www.last.fm/music/Tim+Buckley/_/Nobody+Walkin%27</link>
-      <guid isPermaLink="false">Frippertron-1669028914--8546949d-f46c-45ab-8391-85b26dda6b65---Nobody Walkin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/458bca87b19e5c69007a33153ee74333.jpg" length="22855" type="image/jpeg"/>
-      <pubDate>Mon, 21 Nov 2022 06:08:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - It's a Hard Life (40 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/It%27s+a+Hard+Life</link>
-      <guid isPermaLink="false">Frippertron-1669029417--5eecaf18-02ec-47af-a4f2-7831db373419---It's a Hard Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
-      <pubDate>Mon, 21 Nov 2022 06:16:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Pain Is So Close To Pleasure (24 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Pain+Is+So+Close+To+Pleasure</link>
-      <guid isPermaLink="false">Frippertron-1669029672--5eecaf18-02ec-47af-a4f2-7831db373419---Pain Is So Close To Pleasure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4c38c817e5142f2a865f087d11c4894.png" length="208957" type="image/png"/>
-      <pubDate>Mon, 21 Nov 2022 06:21:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Friends Will Be Friends (16 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Friends+Will+Be+Friends</link>
-      <guid isPermaLink="false">Frippertron-1669029934--5eecaf18-02ec-47af-a4f2-7831db373419---Friends Will Be Friends</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4c38c817e5142f2a865f087d11c4894.png" length="208957" type="image/png"/>
-      <pubDate>Mon, 21 Nov 2022 06:25:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Fearless (37 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
-      <guid isPermaLink="false">Frippertron-1669030193--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
-      <pubDate>Mon, 21 Nov 2022 06:29:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Nov 2022 08:29:14 +0000</lastBuildDate>
     <item>
       <title>The Style Council - A Stones Throw Away (31 plays)</title>
       <link>https://www.last.fm/music/The+Style+Council/_/A+Stones+Throw+Away</link>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">Frippertron-1669103338--e7fbc24b-744b-4ad3-96bb-685f78d9ef09---The Garden of Earthly Delights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f072d1ae9bd2208c9ce79663e390736c.jpg" length="20109" type="image/jpeg"/>
       <pubDate>Tue, 22 Nov 2022 02:48:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Friends (52 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Friends</link>
+      <guid isPermaLink="false">Frippertron-1669103572--678d88b2-87b0-403b-b63d-5da7465aecc3---Friends</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3b92b3b5cdc47eec7ed970f3b38346a.png" length="181550" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 02:52:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Celebration Day (75 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Celebration+Day</link>
+      <guid isPermaLink="false">Frippertron-1669103807--678d88b2-87b0-403b-b63d-5da7465aecc3---Celebration Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3b92b3b5cdc47eec7ed970f3b38346a.png" length="181550" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 02:56:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Since I've Been Loving You (62 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
+      <guid isPermaLink="false">Frippertron-1669104018--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3b92b3b5cdc47eec7ed970f3b38346a.png" length="181550" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 03:00:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - That's the Way (16 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/That%27s+the+Way</link>
+      <guid isPermaLink="false">Frippertron-1669104467--678d88b2-87b0-403b-b63d-5da7465aecc3---That's the Way</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3b92b3b5cdc47eec7ed970f3b38346a.png" length="181550" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 03:07:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Big Star - In the Street (single mix) (15 plays)</title>
+      <link>https://www.last.fm/music/Big+Star/_/In+the+Street+(single+mix)</link>
+      <guid isPermaLink="false">Frippertron-1669104807--21d177ba-3d51-461e-9b3f-ad9a80b419dc---In the Street (single mix)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd0484a9bc44cc5af76687cb2e7e78d6.png" length="91940" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 03:13:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Big Star - Kizza Me (61 plays)</title>
+      <link>https://www.last.fm/music/Big+Star/_/Kizza+Me</link>
+      <guid isPermaLink="false">Frippertron-1669104987--21d177ba-3d51-461e-9b3f-ad9a80b419dc---Kizza Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/deb88b6beb9956f6cf4f9fe8d06c0b5d.png" length="165841" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 03:16:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Big Star - Thank You Friends (51 plays)</title>
+      <link>https://www.last.fm/music/Big+Star/_/Thank+You+Friends</link>
+      <guid isPermaLink="false">Frippertron-1669105153--21d177ba-3d51-461e-9b3f-ad9a80b419dc---Thank You Friends</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/deb88b6beb9956f6cf4f9fe8d06c0b5d.png" length="165841" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 03:19:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>XTC - Respectable Street (53 plays)</title>
+      <link>https://www.last.fm/music/XTC/_/Respectable+Street</link>
+      <guid isPermaLink="false">Frippertron-1669105340--97c86b2c-2765-46a2-aef8-76a7e24c430f---Respectable Street</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8836d10c699527cf57fe719308a93b47.png" length="210965" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 03:22:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>XTC - Rocket From a Bottle (17 plays)</title>
+      <link>https://www.last.fm/music/XTC/_/Rocket+From+a+Bottle</link>
+      <guid isPermaLink="false">Frippertron-1669105577--97c86b2c-2765-46a2-aef8-76a7e24c430f---Rocket From a Bottle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8836d10c699527cf57fe719308a93b47.png" length="210965" type="image/png"/>
+      <pubDate>Tue, 22 Nov 2022 03:26:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
