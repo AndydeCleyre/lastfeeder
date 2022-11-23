@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Nov 2022 06:56:02 +0000</lastBuildDate>
-    <item>
-      <title>Scott Walker - The Seventh Seal (51 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/The+Seventh+Seal</link>
-      <guid isPermaLink="false">Frippertron-1669113908--99524243-dc2e-4bf3-82c0-72395391d21f---The Seventh Seal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png" length="153014" type="image/png"/>
-      <pubDate>Tue, 22 Nov 2022 05:45:08 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Nov 2022 08:25:02 +0000</lastBuildDate>
     <item>
       <title>Scott Walker - On Your Own Again (44 plays)</title>
       <link>https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1669186240--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
       <pubDate>Wed, 23 Nov 2022 01:50:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Echoes (63 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
+      <guid isPermaLink="false">Frippertron-1669186560--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
+      <pubDate>Wed, 23 Nov 2022 01:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
