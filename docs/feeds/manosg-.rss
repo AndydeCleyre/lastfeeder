@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Nov 2022 16:27:48 +0000</lastBuildDate>
-    <item>
-      <title>Motörhead - Live to Win (10 plays)</title>
-      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Live+to+Win</link>
-      <guid isPermaLink="false">manosg--1669139434--57961a97-3796-4bf7-9f02-a985a8979ae9---Live to Win</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/648d206ff85e4c7a8d72d9cc2a4d8b48.jpg" length="34812" type="image/jpeg"/>
-      <pubDate>Tue, 22 Nov 2022 12:50:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Motörhead - Fast and Loose (9 plays)</title>
-      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Fast+and+Loose</link>
-      <guid isPermaLink="false">manosg--1669139650--57961a97-3796-4bf7-9f02-a985a8979ae9---Fast and Loose</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/648d206ff85e4c7a8d72d9cc2a4d8b48.jpg" length="34812" type="image/jpeg"/>
-      <pubDate>Tue, 22 Nov 2022 12:54:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Nov 2022 16:52:22 +0000</lastBuildDate>
     <item>
       <title>Motörhead - (We Are) The Roadcrew (10 plays)</title>
       <link>https://www.last.fm/music/Mot%C3%B6rhead/_/(We+Are)+The+Roadcrew</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1669220466--bfd085b8-0bbf-46b3-8ab9-193bca5c85e7---I'm Above</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4526c6a7d73143b7812e3831aa38bda2.png" length="67262" type="image/png"/>
       <pubDate>Wed, 23 Nov 2022 11:21:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mad Season - Artificial Red (1 play)</title>
+      <link>https://www.last.fm/music/Mad+Season/_/Artificial+Red</link>
+      <guid isPermaLink="false">manosg--1669220841--bfd085b8-0bbf-46b3-8ab9-193bca5c85e7---Artificial Red</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4526c6a7d73143b7812e3831aa38bda2.png" length="67262" type="image/png"/>
+      <pubDate>Wed, 23 Nov 2022 11:27:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mad Season - Lifeless Dead (1 play)</title>
+      <link>https://www.last.fm/music/Mad+Season/_/Lifeless+Dead</link>
+      <guid isPermaLink="false">manosg--1669221217--bfd085b8-0bbf-46b3-8ab9-193bca5c85e7---Lifeless Dead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4526c6a7d73143b7812e3831aa38bda2.png" length="67262" type="image/png"/>
+      <pubDate>Wed, 23 Nov 2022 11:33:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
