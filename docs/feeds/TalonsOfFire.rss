@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Nov 2022 19:15:30 +0000</lastBuildDate>
-    <item>
-      <title>Vàli - Mer Ute I Moerket (2 plays)</title>
-      <link>https://www.last.fm/music/V%C3%A0li/_/Mer+Ute+I+Moerket</link>
-      <guid isPermaLink="false">TalonsOfFire-1668970622--ecb6cd5c-a75e-4794-b2e9-c7be123b824a---Mer Ute I Moerket</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/367267fe527b4e8a89231131062a4a0b.jpg" length="13891" type="image/jpeg"/>
-      <pubDate>Sun, 20 Nov 2022 13:57:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Vàli - Taake (2 plays)</title>
-      <link>https://www.last.fm/music/V%C3%A0li/_/Taake</link>
-      <guid isPermaLink="false">TalonsOfFire-1668970873--ecb6cd5c-a75e-4794-b2e9-c7be123b824a---Taake</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/367267fe527b4e8a89231131062a4a0b.jpg" length="13891" type="image/jpeg"/>
-      <pubDate>Sun, 20 Nov 2022 14:01:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>Vàli - Doedens Evige Kall (2 plays)</title>
-      <link>https://www.last.fm/music/V%C3%A0li/_/Doedens+Evige+Kall</link>
-      <guid isPermaLink="false">TalonsOfFire-1668970973--ecb6cd5c-a75e-4794-b2e9-c7be123b824a---Doedens Evige Kall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/367267fe527b4e8a89231131062a4a0b.jpg" length="13891" type="image/jpeg"/>
-      <pubDate>Sun, 20 Nov 2022 14:02:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Nov 2022 20:52:28 +0000</lastBuildDate>
     <item>
       <title>Vàli - Nordavindens Klagesang (2 plays)</title>
       <link>https://www.last.fm/music/V%C3%A0li/_/Nordavindens+Klagesang</link>
@@ -275,7 +254,7 @@
       <pubDate>Thu, 24 Nov 2022 13:17:08 -0500</pubDate>
     </item>
     <item>
-      <title>Sufjan Stevens - Christmas In The Room (1 play)</title>
+      <title>Sufjan Stevens - Christmas In The Room</title>
       <link>https://www.last.fm/music/Sufjan+Stevens/_/Christmas+In+The+Room</link>
       <guid isPermaLink="false">TalonsOfFire-1669313990--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Christmas In The Room</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a893fc0cad97bc1295d9095295e9602f.jpg" length="38536" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">TalonsOfFire-1669316126--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Morning (Sacred Harp)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a893fc0cad97bc1295d9095295e9602f.jpg" length="38536" type="image/jpeg"/>
       <pubDate>Thu, 24 Nov 2022 13:55:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sufjan Stevens - Christmas Woman (1 play)</title>
+      <link>https://www.last.fm/music/Sufjan+Stevens/_/Christmas+Woman</link>
+      <guid isPermaLink="false">TalonsOfFire-1669316291--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Christmas Woman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a893fc0cad97bc1295d9095295e9602f.jpg" length="38536" type="image/jpeg"/>
+      <pubDate>Thu, 24 Nov 2022 13:58:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sufjan Stevens - Silent Night (1 play)</title>
+      <link>https://www.last.fm/music/Sufjan+Stevens/_/Silent+Night</link>
+      <guid isPermaLink="false">TalonsOfFire-1669322895--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Silent Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a893fc0cad97bc1295d9095295e9602f.jpg" length="38536" type="image/jpeg"/>
+      <pubDate>Thu, 24 Nov 2022 15:48:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sufjan Stevens - Particle Physics (1 play)</title>
+      <link>https://www.last.fm/music/Sufjan+Stevens/_/Particle+Physics</link>
+      <guid isPermaLink="false">TalonsOfFire-1669323039--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Particle Physics</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a893fc0cad97bc1295d9095295e9602f.jpg" length="38536" type="image/jpeg"/>
+      <pubDate>Thu, 24 Nov 2022 15:50:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
