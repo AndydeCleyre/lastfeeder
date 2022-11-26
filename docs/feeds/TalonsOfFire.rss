@@ -7,35 +7,12 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Nov 2022 22:52:45 +0000</lastBuildDate>
-    <item>
-      <title>Musk Ox - Earthrise (1 play)</title>
-      <link>https://www.last.fm/music/Musk+Ox/_/Earthrise</link>
-      <guid isPermaLink="false">TalonsOfFire-1669061959--b833eb03-d3f9-4240-80f5-959147cc3700---Earthrise</guid>
-      <pubDate>Mon, 21 Nov 2022 15:19:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Musk Ox - Windswept (1 play)</title>
-      <link>https://www.last.fm/music/Musk+Ox/_/Windswept</link>
-      <guid isPermaLink="false">TalonsOfFire-1669062521--b833eb03-d3f9-4240-80f5-959147cc3700---Windswept</guid>
-      <pubDate>Mon, 21 Nov 2022 15:28:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Musk Ox - Arcanum (1 play)</title>
-      <link>https://www.last.fm/music/Musk+Ox/_/Arcanum</link>
-      <guid isPermaLink="false">TalonsOfFire-1669066507--b833eb03-d3f9-4240-80f5-959147cc3700---Arcanum</guid>
-      <pubDate>Mon, 21 Nov 2022 16:35:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>Musk Ox - Above the clouds (3 plays)</title>
-      <link>https://www.last.fm/music/Musk+Ox/_/Above+the+clouds</link>
-      <guid isPermaLink="false">TalonsOfFire-1669067578--b833eb03-d3f9-4240-80f5-959147cc3700---Above the clouds</guid>
-      <pubDate>Mon, 21 Nov 2022 16:52:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Nov 2022 23:19:06 +0000</lastBuildDate>
     <item>
       <title>Musk Ox - Serenade the Constellations (1 play)</title>
       <link>https://www.last.fm/music/Musk+Ox/_/Serenade+the+Constellations</link>
       <guid isPermaLink="false">TalonsOfFire-1669068206--b833eb03-d3f9-4240-80f5-959147cc3700---Serenade the Constellations</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba51b96d0a6e4757c767237824c3679c.jpg" length="21776" type="image/jpeg"/>
       <pubDate>Mon, 21 Nov 2022 17:03:26 -0500</pubDate>
     </item>
     <item>
@@ -352,6 +329,34 @@
       <guid isPermaLink="false">TalonsOfFire-1669502393--182430af-bc1c-4028-b2c8-37d77e0df225---kasvot</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b44dfde133bafa07c45b07b3b1458607.jpg" length="4863" type="image/jpeg"/>
       <pubDate>Sat, 26 Nov 2022 17:39:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tortoise - Glass Museum (5 plays)</title>
+      <link>https://www.last.fm/music/Tortoise/_/Glass+Museum</link>
+      <guid isPermaLink="false">TalonsOfFire-1669502839--e0953daa-860f-4dc8-9f1a-b12587cdaf17---Glass Museum</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6428faffbd3a595eed2fabd78b34d6a3.png" length="149456" type="image/png"/>
+      <pubDate>Sat, 26 Nov 2022 17:47:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Brakhage (5 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Brakhage</link>
+      <guid isPermaLink="false">TalonsOfFire-1669503280--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Brakhage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
+      <pubDate>Sat, 26 Nov 2022 17:54:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Max Richter - The Departure (2 plays)</title>
+      <link>https://www.last.fm/music/Max+Richter/_/The+Departure</link>
+      <guid isPermaLink="false">TalonsOfFire-1669503618--509f20b2-5df3-4aec-9bbc-002131fb3f99---The Departure</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3079fc7a93f20b2d2215de1174b53f64.jpg" length="19769" type="image/jpeg"/>
+      <pubDate>Sat, 26 Nov 2022 18:00:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Helios - Even Today (1 play)</title>
+      <link>https://www.last.fm/music/Helios/_/Even+Today</link>
+      <guid isPermaLink="false">TalonsOfFire-1669503691--Helios---Even Today</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f709f85cd86ced1f32a3b7cc358b44ef.jpg" length="18951" type="image/jpeg"/>
+      <pubDate>Sat, 26 Nov 2022 18:01:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
