@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 04:44:20 +0000</lastBuildDate>
-    <item>
-      <title>Deerhunter - Timebends (7 plays)</title>
-      <link>https://www.last.fm/music/Deerhunter/_/Timebends</link>
-      <guid isPermaLink="false">Frippertron-1669183903--4f416ed7-dda2-45de-a6f1-b986e861cf4b---Timebends</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ff917b3d1a42164dbff3ac59a914e4d.png" length="138893" type="image/png"/>
-      <pubDate>Wed, 23 Nov 2022 01:11:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Townes Van Zandt - Nothin' (16 plays)</title>
-      <link>https://www.last.fm/music/Townes+Van+Zandt/_/Nothin%27</link>
-      <guid isPermaLink="false">Frippertron-1669184658--d67d1a21-6e45-4dd6-aef0-0191ba3796e0---Nothin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/435b9a4ae4b74f50cf31374863d4291d.jpg" length="28402" type="image/jpeg"/>
-      <pubDate>Wed, 23 Nov 2022 01:24:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Nov 2022 04:56:15 +0000</lastBuildDate>
     <item>
       <title>Wire - Map Ref. 41ºN 93ºW (100 plays)</title>
       <link>https://www.last.fm/music/Wire/_/Map+Ref.+41%C2%BAN+93%C2%BAW</link>
@@ -355,7 +341,22 @@
       <title>Aquarelle - Volupté (1 play)</title>
       <link>https://www.last.fm/music/Aquarelle/_/Volupt%C3%A9</link>
       <guid isPermaLink="false">Frippertron-1669610272--d6776246-eb59-42a9-a884-7842e5330cd3---Volupté</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f955a48872e4ff8a89db0af95c252bd.jpg" length="28533" type="image/jpeg"/>
       <pubDate>Sun, 27 Nov 2022 23:37:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Aquarelle - Espéranto (1 play)</title>
+      <link>https://www.last.fm/music/Aquarelle/_/Esp%C3%A9ranto</link>
+      <guid isPermaLink="false">Frippertron-1669610549--d6776246-eb59-42a9-a884-7842e5330cd3---Espéranto</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f955a48872e4ff8a89db0af95c252bd.jpg" length="28533" type="image/jpeg"/>
+      <pubDate>Sun, 27 Nov 2022 23:42:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Einstürzende Neubauten - Zampano (15 plays)</title>
+      <link>https://www.last.fm/music/Einst%C3%BCrzende+Neubauten/_/Zampano</link>
+      <guid isPermaLink="false">Frippertron-1669610946--6e9ac29b-798c-4af7-8d9e-55cdc72a999c---Zampano</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46da948c2d03431fc3bb96e2192cfac6.png" length="203483" type="image/png"/>
+      <pubDate>Sun, 27 Nov 2022 23:49:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
