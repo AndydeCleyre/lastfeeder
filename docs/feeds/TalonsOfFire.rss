@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 20:20:04 +0000</lastBuildDate>
-    <item>
-      <title>Sufjan Stevens - Mr. Frosty Man (1 play)</title>
-      <link>https://www.last.fm/music/Sufjan+Stevens/_/Mr.+Frosty+Man</link>
-      <guid isPermaLink="false">TalonsOfFire-1669314659--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Mr. Frosty Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a893fc0cad97bc1295d9095295e9602f.jpg" length="38536" type="image/jpeg"/>
-      <pubDate>Thu, 24 Nov 2022 13:30:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Nov 2022 20:52:24 +0000</lastBuildDate>
     <item>
       <title>Sufjan Stevens - Up On The Housetop (1 play)</title>
       <link>https://www.last.fm/music/Sufjan+Stevens/_/Up+On+The+Housetop</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1669666432--Brian Eno---A Clearing - Remastered 2004</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55c2d21f19d1e9868471c17cee5c85fb.jpg" length="56595" type="image/jpeg"/>
       <pubDate>Mon, 28 Nov 2022 15:13:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pavement - Range Life (1 play)</title>
+      <link>https://www.last.fm/music/Pavement/_/Range+Life</link>
+      <guid isPermaLink="false">TalonsOfFire-1669666691--5c255b49-e769-45c2-a361-4bd603292ea7---Range Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fcc86052c094a2e9dfedb814032006e.jpg" length="31134" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 15:18:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
