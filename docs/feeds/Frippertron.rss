@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 07:19:46 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Any Colour You Like (20 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Any+Colour+You+Like</link>
-      <guid isPermaLink="false">Frippertron-1669202581--83d91898-7763-47d7-b03b-b92132375c47---Any Colour You Like</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
-      <pubDate>Wed, 23 Nov 2022 06:23:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Brain Damage (27 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Brain+Damage</link>
-      <guid isPermaLink="false">Frippertron-1669203074--83d91898-7763-47d7-b03b-b92132375c47---Brain Damage</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
-      <pubDate>Wed, 23 Nov 2022 06:31:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Eclipse (27 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Eclipse</link>
-      <guid isPermaLink="false">Frippertron-1669203300--83d91898-7763-47d7-b03b-b92132375c47---Eclipse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
-      <pubDate>Wed, 23 Nov 2022 06:35:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Nov 2022 08:25:45 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Astronomy Domine (31 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Astronomy+Domine</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1669618704--black midi---I Can't Go For That (No Can Do)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 28 Nov 2022 01:58:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Echoes (64 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
+      <guid isPermaLink="false">Frippertron-1669621845--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
+      <pubDate>Mon, 28 Nov 2022 02:50:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Harmonium - Prologue (37 plays)</title>
+      <link>https://www.last.fm/music/Harmonium/_/Prologue</link>
+      <guid isPermaLink="false">Frippertron-1669623261--0310f78a-3395-46e9-9986-342480de490e---Prologue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43da76186a9340abb425d42f3e641094.jpg" length="10740" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 03:14:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Harmonium - Comme un fou (70 plays)</title>
+      <link>https://www.last.fm/music/Harmonium/_/Comme+un+fou</link>
+      <guid isPermaLink="false">Frippertron-1669623528--0310f78a-3395-46e9-9986-342480de490e---Comme un fou</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43da76186a9340abb425d42f3e641094.jpg" length="10740" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 03:18:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
