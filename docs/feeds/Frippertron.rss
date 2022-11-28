@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 11:16:32 +0000</lastBuildDate>
-    <item>
-      <title>Aquarelle - Aquarelle (1 play)</title>
-      <link>https://www.last.fm/music/Aquarelle/_/Aquarelle</link>
-      <guid isPermaLink="false">Frippertron-1669609769--Aquarelle---Aquarelle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f955a48872e4ff8a89db0af95c252bd.jpg" length="28533" type="image/jpeg"/>
-      <pubDate>Sun, 27 Nov 2022 23:29:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Aquarelle - Volupté (1 play)</title>
-      <link>https://www.last.fm/music/Aquarelle/_/Volupt%C3%A9</link>
-      <guid isPermaLink="false">Frippertron-1669610272--d6776246-eb59-42a9-a884-7842e5330cd3---Volupté</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f955a48872e4ff8a89db0af95c252bd.jpg" length="28533" type="image/jpeg"/>
-      <pubDate>Sun, 27 Nov 2022 23:37:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>Aquarelle - Espéranto (1 play)</title>
-      <link>https://www.last.fm/music/Aquarelle/_/Esp%C3%A9ranto</link>
-      <guid isPermaLink="false">Frippertron-1669610549--d6776246-eb59-42a9-a884-7842e5330cd3---Espéranto</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f955a48872e4ff8a89db0af95c252bd.jpg" length="28533" type="image/jpeg"/>
-      <pubDate>Sun, 27 Nov 2022 23:42:29 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Nov 2022 11:38:02 +0000</lastBuildDate>
     <item>
       <title>Einstürzende Neubauten - Zampano (15 plays)</title>
       <link>https://www.last.fm/music/Einst%C3%BCrzende+Neubauten/_/Zampano</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1669633261--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
       <pubDate>Mon, 28 Nov 2022 06:01:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Fearless (41 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
+      <guid isPermaLink="false">Frippertron-1669634497--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
+      <pubDate>Mon, 28 Nov 2022 06:21:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Have a Cigar (24 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Have+a+Cigar</link>
+      <guid isPermaLink="false">Frippertron-1669634841--83d91898-7763-47d7-b03b-b92132375c47---Have a Cigar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/394cfbc6b2a74766a4364778c641ca51.png" length="62978" type="image/png"/>
+      <pubDate>Mon, 28 Nov 2022 06:27:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - The Great Gig in the Sky (24 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/The+Great+Gig+in+the+Sky</link>
+      <guid isPermaLink="false">Frippertron-1669635196--83d91898-7763-47d7-b03b-b92132375c47---The Great Gig in the Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d4bdd038cacbec705e269edb0fd38419.png" length="17165" type="image/png"/>
+      <pubDate>Mon, 28 Nov 2022 06:33:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
