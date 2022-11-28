@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 08:55:54 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Fearless (40 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
-      <guid isPermaLink="false">Frippertron-1669605495--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
-      <pubDate>Sun, 27 Nov 2022 22:18:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>Big Star - O My Soul (23 plays)</title>
-      <link>https://www.last.fm/music/Big+Star/_/O+My+Soul</link>
-      <guid isPermaLink="false">Frippertron-1669605822--21d177ba-3d51-461e-9b3f-ad9a80b419dc---O My Soul</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5ad6c7774a84a4bcaf7656021ce6a3e.png" length="104122" type="image/png"/>
-      <pubDate>Sun, 27 Nov 2022 22:23:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Nov 2022 09:20:39 +0000</lastBuildDate>
     <item>
       <title>Big Star - In the Street (single mix) (17 plays)</title>
       <link>https://www.last.fm/music/Big+Star/_/In+the+Street+(single+mix)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1669625254--0310f78a-3395-46e9-9986-342480de490e---L'exil</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43da76186a9340abb425d42f3e641094.jpg" length="10740" type="image/jpeg"/>
       <pubDate>Mon, 28 Nov 2022 03:47:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Harmonium - Le Corridor (23 plays)</title>
+      <link>https://www.last.fm/music/Harmonium/_/Le+Corridor</link>
+      <guid isPermaLink="false">Frippertron-1669626039--0310f78a-3395-46e9-9986-342480de490e---Le Corridor</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43da76186a9340abb425d42f3e641094.jpg" length="10740" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 04:00:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Harmonium - Lumières de vie (22 plays)</title>
+      <link>https://www.last.fm/music/Harmonium/_/Lumi%C3%A8res+de+vie</link>
+      <guid isPermaLink="false">Frippertron-1669626507--0310f78a-3395-46e9-9986-342480de490e---Lumières de vie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43da76186a9340abb425d42f3e641094.jpg" length="10740" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 04:08:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
