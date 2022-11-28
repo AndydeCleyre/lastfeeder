@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 18:24:35 +0000</lastBuildDate>
-    <item>
-      <title>Diplo - Heartless (feat. Morgan Wallen) (9 plays)</title>
-      <link>https://www.last.fm/music/Diplo/_/Heartless+(feat.+Morgan+Wallen)</link>
-      <guid isPermaLink="false">gameofmetal-1669301696--a56bd8f9-8ef8-4d63-89a4-794ed1360dd2---Heartless (feat. Morgan Wallen)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9176894f8c7cf80c8746357b625d7f6e.jpg" length="16114" type="image/jpeg"/>
-      <pubDate>Thu, 24 Nov 2022 09:54:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sam Smith - Unholy (feat. Kim Petras) (18 plays)</title>
-      <link>https://www.last.fm/music/Sam+Smith/_/Unholy+(feat.+Kim+Petras)</link>
-      <guid isPermaLink="false">gameofmetal-1669301807--5a85c140-dcf9-4dd2-b2c8-aff0471549f3---Unholy (feat. Kim Petras)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b11feab3d5951f275dc5258774a3a0ea.jpg" length="13921" type="image/jpeg"/>
-      <pubDate>Thu, 24 Nov 2022 09:56:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sam Smith - Unholy (feat. Kim Petras) (18 plays)</title>
-      <link>https://www.last.fm/music/Sam+Smith/_/Unholy+(feat.+Kim+Petras)</link>
-      <guid isPermaLink="false">gameofmetal-1669301959--5a85c140-dcf9-4dd2-b2c8-aff0471549f3---Unholy (feat. Kim Petras)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b11feab3d5951f275dc5258774a3a0ea.jpg" length="13921" type="image/jpeg"/>
-      <pubDate>Thu, 24 Nov 2022 09:59:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Nov 2022 19:38:12 +0000</lastBuildDate>
     <item>
       <title>Maren Morris - The Bones (1 play)</title>
       <link>https://www.last.fm/music/Maren+Morris/_/The+Bones</link>
@@ -107,11 +86,18 @@
       <pubDate>Thu, 24 Nov 2022 18:32:31 -0500</pubDate>
     </item>
     <item>
-      <title>Roddy Ricch - The Box (7 plays)</title>
+      <title>Roddy Ricch - The Box (8 plays)</title>
       <link>https://www.last.fm/music/Roddy+Ricch/_/The+Box</link>
       <guid isPermaLink="false">gameofmetal-1669333008--5721c227-4caf-48b1-bbfc-1a4ed3276963---The Box</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b99fa4b5cf3a2cd7974ffd139c7250fc.jpg" length="10977" type="image/jpeg"/>
       <pubDate>Thu, 24 Nov 2022 18:36:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roddy Ricch - The Box (8 plays)</title>
+      <link>https://www.last.fm/music/Roddy+Ricch/_/The+Box</link>
+      <guid isPermaLink="false">gameofmetal-1669333206--5721c227-4caf-48b1-bbfc-1a4ed3276963---The Box</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b99fa4b5cf3a2cd7974ffd139c7250fc.jpg" length="10977" type="image/jpeg"/>
+      <pubDate>Thu, 24 Nov 2022 18:40:06 -0500</pubDate>
     </item>
     <item>
       <title>Carrie Underwood - Cowboy Casanova (4 plays)</title>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1669658543--Cynocephalus---Nor Fire Nor Sword</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 28 Nov 2022 13:02:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>ACAUSAL INTRUSION - Ostensible Implanted Inheritance (2 plays)</title>
+      <link>https://www.last.fm/music/ACAUSAL+INTRUSION/_/Ostensible+Implanted+Inheritance</link>
+      <guid isPermaLink="false">gameofmetal-1669662492--50afd88d-e3c5-400f-9cba-f8aceda83eb4---Ostensible Implanted Inheritance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1dfbad67204236cd3b34cd9f623adf1.jpg" length="17129" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 14:08:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>ACAUSAL INTRUSION - Consultation of Nothingness (1 play)</title>
+      <link>https://www.last.fm/music/ACAUSAL+INTRUSION/_/Consultation+of+Nothingness</link>
+      <guid isPermaLink="false">gameofmetal-1669663175--50afd88d-e3c5-400f-9cba-f8aceda83eb4---Consultation of Nothingness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1dfbad67204236cd3b34cd9f623adf1.jpg" length="17129" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 14:19:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
