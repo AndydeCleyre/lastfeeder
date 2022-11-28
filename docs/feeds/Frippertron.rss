@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 06:57:15 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Us and Them (21 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Us+and+Them</link>
-      <guid isPermaLink="false">Frippertron-1669202089--83d91898-7763-47d7-b03b-b92132375c47---Us and Them</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
-      <pubDate>Wed, 23 Nov 2022 06:14:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Nov 2022 07:19:46 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Any Colour You Like (20 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Any+Colour+You+Like</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1669618429--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Chondromalacia Patella</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb46da457eb033e3805e551cf77baadd.jpg" length="16922" type="image/jpeg"/>
       <pubDate>Mon, 28 Nov 2022 01:53:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - I Can't Go For That (No Can Do) (5 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/I+Can%27t+Go+For+That+(No+Can+Do)</link>
+      <guid isPermaLink="false">Frippertron-1669618704--black midi---I Can't Go For That (No Can Do)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 28 Nov 2022 01:58:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
