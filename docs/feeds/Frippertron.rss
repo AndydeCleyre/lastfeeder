@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 08:44:07 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Shadow Man (13 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Shadow+Man</link>
-      <guid isPermaLink="false">Frippertron-1669605213--5441c29d-3602-4898-b1a1-b77fa23b8e50---Shadow Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bf1ba3974eb85862a15b184ca6ed449.jpg" length="20715" type="image/jpeg"/>
-      <pubDate>Sun, 27 Nov 2022 22:13:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Nov 2022 08:55:54 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Fearless (40 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1669624569--0310f78a-3395-46e9-9986-342480de490e---Le Premier Ciel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43da76186a9340abb425d42f3e641094.jpg" length="10740" type="image/jpeg"/>
       <pubDate>Mon, 28 Nov 2022 03:36:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Harmonium - L'exil (37 plays)</title>
+      <link>https://www.last.fm/music/Harmonium/_/L%27exil</link>
+      <guid isPermaLink="false">Frippertron-1669625254--0310f78a-3395-46e9-9986-342480de490e---L'exil</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43da76186a9340abb425d42f3e641094.jpg" length="10740" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 03:47:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
