@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 01:41:38 +0000</lastBuildDate>
-    <item>
-      <title>Thurston Harris - Little Bitty Pretty One (1 play)</title>
-      <link>https://www.last.fm/music/Thurston+Harris/_/Little+Bitty+Pretty+One</link>
-      <guid isPermaLink="false">ddgromit-1669434419--8199b847-a85c-4df3-a8be-505970725aa4---Little Bitty Pretty One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6d6fe6e380b1cdec47bc54238bf5a0b.png" length="208772" type="image/png"/>
-      <pubDate>Fri, 25 Nov 2022 22:46:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Nov 2022 04:24:39 +0000</lastBuildDate>
     <item>
       <title>Harry Connick, Jr. - A Wink and a Smile (1 play)</title>
       <link>https://www.last.fm/music/Harry+Connick,+Jr./_/A+Wink+and+a+Smile</link>
@@ -194,6 +187,7 @@
       <title>Diskay - Last Lights (1 play)</title>
       <link>https://www.last.fm/music/Diskay/_/Last+Lights</link>
       <guid isPermaLink="false">ddgromit-1669679158--Diskay---Last Lights</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53061a02d48b3c4546714008ae4abdfe.jpg" length="12380" type="image/jpeg"/>
       <pubDate>Mon, 28 Nov 2022 18:45:58 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1669683875--40eef15c-9728-418c-911d-e222e15b718b---On Your Side</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15ffc19250dec71ae6a0a478518b1662.jpg" length="10867" type="image/jpeg"/>
       <pubDate>Mon, 28 Nov 2022 20:04:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>The George Kaplan Conspiracy - Meeting Place (1 play)</title>
+      <link>https://www.last.fm/music/The+George+Kaplan+Conspiracy/_/Meeting+Place</link>
+      <guid isPermaLink="false">ddgromit-1669684030--ee937b61-edb6-4982-8033-bb2d54e5d7b6---Meeting Place</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/917c6a1225be0c359a3214c080fec6af.jpg" length="28168" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 20:07:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
