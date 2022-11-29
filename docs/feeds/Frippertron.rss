@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 08:55:50 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Us and Them (22 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Us+and+Them</link>
-      <guid isPermaLink="false">Frippertron-1669635500--83d91898-7763-47d7-b03b-b92132375c47---Us and Them</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d4bdd038cacbec705e269edb0fd38419.png" length="17165" type="image/png"/>
-      <pubDate>Mon, 28 Nov 2022 06:38:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>Serge Fiori - Vert (5 plays)</title>
-      <link>https://www.last.fm/music/Serge+Fiori/_/Vert</link>
-      <guid isPermaLink="false">Frippertron-1669691739--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---Vert</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c76ce72d0a42a073e9c5bf019c667268.jpg" length="22552" type="image/jpeg"/>
-      <pubDate>Mon, 28 Nov 2022 22:15:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Nov 2022 09:19:47 +0000</lastBuildDate>
     <item>
       <title>Serge Fiori - Comme un fou (4 plays)</title>
       <link>https://www.last.fm/music/Serge+Fiori/_/Comme+un+fou</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1669712078--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part One)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3915948125f87b9bd98bc69759a27d7.jpg" length="29595" type="image/jpeg"/>
       <pubDate>Tue, 29 Nov 2022 03:54:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Dogs (41 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Dogs</link>
+      <guid isPermaLink="false">Frippertron-1669712216--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3915948125f87b9bd98bc69759a27d7.jpg" length="29595" type="image/jpeg"/>
+      <pubDate>Tue, 29 Nov 2022 03:56:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Pigs on the Wing (Part Two) (22 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+on+the+Wing+(Part+Two)</link>
+      <guid isPermaLink="false">Frippertron-1669713334--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part Two)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3915948125f87b9bd98bc69759a27d7.jpg" length="29595" type="image/jpeg"/>
+      <pubDate>Tue, 29 Nov 2022 04:15:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
