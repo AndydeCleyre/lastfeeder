@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 04:56:37 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Waiting for the Man (11 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Waiting+for+the+Man</link>
-      <guid isPermaLink="false">Frippertron-1669616092--5441c29d-3602-4898-b1a1-b77fa23b8e50---Waiting for the Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bf1ba3974eb85862a15b184ca6ed449.jpg" length="20715" type="image/jpeg"/>
-      <pubDate>Mon, 28 Nov 2022 01:14:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - Turn to Stone (104 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Turn+to+Stone</link>
-      <guid isPermaLink="false">Frippertron-1669616441--0c502791-4ee9-4c5f-9696-0602b721ff3b---Turn to Stone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png" length="171902" type="image/png"/>
-      <pubDate>Mon, 28 Nov 2022 01:20:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Nov 2022 05:20:07 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Tightrope (62 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Tightrope</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1669697396--6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a---String Quartet in F Major: IV. Vif et agité</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e16b466b1b14daeb47f074b008d62cc.jpg" length="22250" type="image/jpeg"/>
       <pubDate>Mon, 28 Nov 2022 23:49:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Manic Street Preachers - Faster (60 plays)</title>
+      <link>https://www.last.fm/music/Manic+Street+Preachers/_/Faster</link>
+      <guid isPermaLink="false">Frippertron-1669697718--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---Faster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46fc03ebdb564e8bceb72d68608249a4.png" length="91812" type="image/png"/>
+      <pubDate>Mon, 28 Nov 2022 23:55:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Astronomy Domine (32 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Astronomy+Domine</link>
+      <guid isPermaLink="false">Frippertron-1669697996--83d91898-7763-47d7-b03b-b92132375c47---Astronomy Domine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4db1b8ef3cabd86e40a3f30b6597927.jpg" length="31882" type="image/jpeg"/>
+      <pubDate>Mon, 28 Nov 2022 23:59:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
