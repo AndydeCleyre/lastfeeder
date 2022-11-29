@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 04:24:39 +0000</lastBuildDate>
-    <item>
-      <title>Harry Connick, Jr. - A Wink and a Smile (1 play)</title>
-      <link>https://www.last.fm/music/Harry+Connick,+Jr./_/A+Wink+and+a+Smile</link>
-      <guid isPermaLink="false">ddgromit-1669434562--fd23e684-270f-4507-9cb0-a0e0d7854d16---A Wink and a Smile</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d58c408f42564148a80772e2e3673bf7.jpg" length="24092" type="image/jpeg"/>
-      <pubDate>Fri, 25 Nov 2022 22:49:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Dixie Cups - Iko Iko (1 play)</title>
-      <link>https://www.last.fm/music/The+Dixie+Cups/_/Iko+Iko</link>
-      <guid isPermaLink="false">ddgromit-1669434729--91fc56fe-ac9a-4d35-8cdc-34eb72fa59bb---Iko Iko</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f753e2aa123de2640a38219a16a144e3.jpg" length="27179" type="image/jpeg"/>
-      <pubDate>Fri, 25 Nov 2022 22:52:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Nov 2022 18:55:19 +0000</lastBuildDate>
     <item>
       <title>Sam Cooke - Nothing Can Change This Love (4 plays)</title>
       <link>https://www.last.fm/music/Sam+Cooke/_/Nothing+Can+Change+This+Love</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1669684030--ee937b61-edb6-4982-8033-bb2d54e5d7b6---Meeting Place</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/917c6a1225be0c359a3214c080fec6af.jpg" length="28168" type="image/jpeg"/>
       <pubDate>Mon, 28 Nov 2022 20:07:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Doris Troy - Just One Look (2 plays)</title>
+      <link>https://www.last.fm/music/Doris+Troy/_/Just+One+Look</link>
+      <guid isPermaLink="false">ddgromit-1669746590--19ef4a75-f072-4a1b-b687-ed516ee52e87---Just One Look</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2272702763f79429a9637896ed8d780.jpg" length="19892" type="image/jpeg"/>
+      <pubDate>Tue, 29 Nov 2022 13:29:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Billie Eilish - No Time to Die (4 plays)</title>
+      <link>https://www.last.fm/music/Billie+Eilish/_/No+Time+to+Die</link>
+      <guid isPermaLink="false">ddgromit-1669747854--f4abc0b5-3f7a-4eff-8f78-ac078dbce533---No Time to Die</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cab852d36f8d26385942aad73053684e.jpg" length="14417" type="image/jpeg"/>
+      <pubDate>Tue, 29 Nov 2022 13:50:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
