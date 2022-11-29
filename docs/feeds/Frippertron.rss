@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 09:19:47 +0000</lastBuildDate>
-    <item>
-      <title>Serge Fiori - Comme un fou (4 plays)</title>
-      <link>https://www.last.fm/music/Serge+Fiori/_/Comme+un+fou</link>
-      <guid isPermaLink="false">Frippertron-1669692110--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---Comme un fou</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c76ce72d0a42a073e9c5bf019c667268.jpg" length="22552" type="image/jpeg"/>
-      <pubDate>Mon, 28 Nov 2022 22:21:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Nov 2022 09:39:39 +0000</lastBuildDate>
     <item>
       <title>Fiori-Séguin - La guitare des pays d'en haut (29 plays)</title>
       <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/La+guitare+des+pays+d%27en+haut</link>
@@ -44,7 +37,7 @@
       <pubDate>Mon, 28 Nov 2022 22:44:18 -0500</pubDate>
     </item>
     <item>
-      <title>Pink Floyd - Pigs (Three Different Ones) (33 plays)</title>
+      <title>Pink Floyd - Pigs (Three Different Ones) (34 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+(Three+Different+Ones)</link>
       <guid isPermaLink="false">Frippertron-1669693559--83d91898-7763-47d7-b03b-b92132375c47---Pigs (Three Different Ones)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1669713334--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part Two)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3915948125f87b9bd98bc69759a27d7.jpg" length="29595" type="image/jpeg"/>
       <pubDate>Tue, 29 Nov 2022 04:15:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Pigs (Three Different Ones) (34 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+(Three+Different+Ones)</link>
+      <guid isPermaLink="false">Frippertron-1669713473--83d91898-7763-47d7-b03b-b92132375c47---Pigs (Three Different Ones)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3915948125f87b9bd98bc69759a27d7.jpg" length="29595" type="image/jpeg"/>
+      <pubDate>Tue, 29 Nov 2022 04:17:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
