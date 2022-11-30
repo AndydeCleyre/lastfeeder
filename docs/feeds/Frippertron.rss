@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 09:39:58 +0000</lastBuildDate>
-    <item>
-      <title>Golden Earring - Back Home (40 plays)</title>
-      <link>https://www.last.fm/music/Golden+Earring/_/Back+Home</link>
-      <guid isPermaLink="false">Frippertron-1669779490--75336c3d-2833-46cb-8037-b835cd7d646d---Back Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddf64ff1c8b6d60a4c033735e9ee7911.jpg" length="32769" type="image/jpeg"/>
-      <pubDate>Tue, 29 Nov 2022 22:38:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Nov 2022 09:52:15 +0000</lastBuildDate>
     <item>
       <title>Golden Earring - Big Tree, Blue Sea (33 plays)</title>
       <link>https://www.last.fm/music/Golden+Earring/_/Big+Tree,+Blue+Sea</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1669801047--4f416ed7-dda2-45de-a6f1-b986e861cf4b---Futurism</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ff917b3d1a42164dbff3ac59a914e4d.png" length="138893" type="image/png"/>
       <pubDate>Wed, 30 Nov 2022 04:37:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Deerhunter - Timebends (8 plays)</title>
+      <link>https://www.last.fm/music/Deerhunter/_/Timebends</link>
+      <guid isPermaLink="false">Frippertron-1669801216--4f416ed7-dda2-45de-a6f1-b986e861cf4b---Timebends</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ff917b3d1a42164dbff3ac59a914e4d.png" length="138893" type="image/png"/>
+      <pubDate>Wed, 30 Nov 2022 04:40:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
