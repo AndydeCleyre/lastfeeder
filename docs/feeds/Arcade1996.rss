@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 10:42:02 +0000</lastBuildDate>
-    <item>
-      <title>Hatchie - Nosedive (11 plays)</title>
-      <link>https://www.last.fm/music/Hatchie/_/Nosedive</link>
-      <guid isPermaLink="false">Arcade1996-1669629307--b51f07c9-a42c-4ea7-b5ed-ce4b7f47101a---Nosedive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b576fc0d9b1d9a621cd188ee4b72814.jpg" length="30689" type="image/jpeg"/>
-      <pubDate>Mon, 28 Nov 2022 04:55:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>Preoccupations - Ricochet (31 plays)</title>
-      <link>https://www.last.fm/music/Preoccupations/_/Ricochet</link>
-      <guid isPermaLink="false">Arcade1996-1669629555--9ee1988d-66ec-4c29-98d6-876a45e0fcbd---Ricochet</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bf4086129f18361b2b8deaec5c52e84.jpg" length="18459" type="image/jpeg"/>
-      <pubDate>Mon, 28 Nov 2022 04:59:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Nov 2022 10:54:09 +0000</lastBuildDate>
     <item>
       <title>Rumskib - Springtime (5 plays)</title>
       <link>https://www.last.fm/music/Rumskib/_/Springtime</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1669804338--ecf5ab37-019f-4cc1-9fdc-218de6a41b65---Versi</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41ee825eb581e28b5b1e1c70754238a5.jpg" length="24511" type="image/jpeg"/>
       <pubDate>Wed, 30 Nov 2022 05:32:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nas - One Mic, One Gun</title>
+      <link>https://www.last.fm/music/Nas/_/One+Mic,+One+Gun</link>
+      <guid isPermaLink="false">Arcade1996-1669804664--Nas---One Mic, One Gun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8db082a8a0062fe807c82c2a3df68bd3.jpg" length="5234" type="image/jpeg"/>
+      <pubDate>Wed, 30 Nov 2022 05:37:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Andy Stott - When It Hits (1 play)</title>
+      <link>https://www.last.fm/music/Andy+Stott/_/When+It+Hits</link>
+      <guid isPermaLink="false">Arcade1996-1669805019--ecf5ab37-019f-4cc1-9fdc-218de6a41b65---When It Hits</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebe893253d6295754a9b45e70f34ae9.png" length="119343" type="image/png"/>
+      <pubDate>Wed, 30 Nov 2022 05:43:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
