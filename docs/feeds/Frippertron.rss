@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 10:53:56 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Have a Cigar (26 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Have+a+Cigar</link>
-      <guid isPermaLink="false">Frippertron-1669781981--83d91898-7763-47d7-b03b-b92132375c47---Have a Cigar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/394cfbc6b2a74766a4364778c641ca51.png" length="62978" type="image/png"/>
-      <pubDate>Tue, 29 Nov 2022 23:19:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Nov 2022 11:16:33 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Fearless (43 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1669804855--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Elephant Talk</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 30 Nov 2022 05:40:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fiori-Séguin - Deux cents nuits à l'heure (6 plays)</title>
+      <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/Deux+cents+nuits+%C3%A0+l%27heure</link>
+      <guid isPermaLink="false">Frippertron-1669806331--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---Deux cents nuits à l'heure</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7265696d2e9e44dbb2427f7a542af297.jpg" length="20039" type="image/jpeg"/>
+      <pubDate>Wed, 30 Nov 2022 06:05:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
