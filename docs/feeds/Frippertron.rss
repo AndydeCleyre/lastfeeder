@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 08:43:51 +0000</lastBuildDate>
-    <item>
-      <title>The Who - The Real Me (50 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/The+Real+Me</link>
-      <guid isPermaLink="false">Frippertron-1669721005--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---The Real Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Tue, 29 Nov 2022 06:23:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Who - 5:15 (43 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/5:15</link>
-      <guid isPermaLink="false">Frippertron-1669721215--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---5:15</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Tue, 29 Nov 2022 06:26:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Nov 2022 08:55:58 +0000</lastBuildDate>
     <item>
       <title>Fiori-Séguin - Illusion (16 plays)</title>
       <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/Illusion</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1669797080--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Wed, 30 Nov 2022 03:31:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Big Star - In the Street (single mix) (18 plays)</title>
+      <link>https://www.last.fm/music/Big+Star/_/In+the+Street+(single+mix)</link>
+      <guid isPermaLink="false">Frippertron-1669798119--21d177ba-3d51-461e-9b3f-ad9a80b419dc---In the Street (single mix)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd0484a9bc44cc5af76687cb2e7e78d6.png" length="91940" type="image/png"/>
+      <pubDate>Wed, 30 Nov 2022 03:48:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Big Star - O My Soul (24 plays)</title>
+      <link>https://www.last.fm/music/Big+Star/_/O+My+Soul</link>
+      <guid isPermaLink="false">Frippertron-1669798299--21d177ba-3d51-461e-9b3f-ad9a80b419dc---O My Soul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5ad6c7774a84a4bcaf7656021ce6a3e.png" length="104122" type="image/png"/>
+      <pubDate>Wed, 30 Nov 2022 03:51:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
