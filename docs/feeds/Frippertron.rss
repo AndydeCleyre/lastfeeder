@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 08:25:20 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Careful With That Axe, Eugene (5 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Careful+With+That+Axe,+Eugene</link>
-      <guid isPermaLink="false">Frippertron-1669720213--83d91898-7763-47d7-b03b-b92132375c47---Careful With That Axe, Eugene</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3915948125f87b9bd98bc69759a27d7.jpg" length="29595" type="image/jpeg"/>
-      <pubDate>Tue, 29 Nov 2022 06:10:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Nov 2022 08:43:51 +0000</lastBuildDate>
     <item>
       <title>The Who - The Real Me (50 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/The+Real+Me</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1669795645--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
       <pubDate>Wed, 30 Nov 2022 03:07:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Dogs (42 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Dogs</link>
+      <guid isPermaLink="false">Frippertron-1669797080--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Wed, 30 Nov 2022 03:31:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
