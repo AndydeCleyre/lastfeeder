@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 15:53:46 +0000</lastBuildDate>
-    <item>
-      <title>Eloy - Introduction (2 plays)</title>
-      <link>https://www.last.fm/music/Eloy/_/Introduction</link>
-      <guid isPermaLink="false">manosg--1669647501--bc154a90-890b-409e-b850-53ca299ab0d6---Introduction</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ce75d2dc4e1a599c6dea2c87b409853.jpg" length="26575" type="image/jpeg"/>
-      <pubDate>Mon, 28 Nov 2022 09:58:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Luther Allison - Dust My Broom (1 play)</title>
-      <link>https://www.last.fm/music/Luther+Allison/_/Dust+My+Broom</link>
-      <guid isPermaLink="false">manosg--1669658072--11cb567e-ecac-4226-8944-f862440e8bca---Dust My Broom</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e47f9f8a33f7873471ebac7d9984fc1.jpg" length="20451" type="image/jpeg"/>
-      <pubDate>Mon, 28 Nov 2022 12:54:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Nov 2022 16:28:26 +0000</lastBuildDate>
     <item>
       <title>Luther Allison - Every Night About This Time (1 play)</title>
       <link>https://www.last.fm/music/Luther+Allison/_/Every+Night+About+This+Time</link>
@@ -254,7 +240,7 @@
       <pubDate>Wed, 30 Nov 2022 08:15:59 -0500</pubDate>
     </item>
     <item>
-      <title>Warlord - Soliloquy (3 plays)</title>
+      <title>Warlord - Soliloquy (4 plays)</title>
       <link>https://www.last.fm/music/Warlord/_/Soliloquy</link>
       <guid isPermaLink="false">manosg--1669814838--05f3293e-bcb1-4f23-a01a-daafb24feb63---Soliloquy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e50be83bd9b64f2f84d6831fcc67fd55.jpg" length="12440" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1669823094--05f3293e-bcb1-4f23-a01a-daafb24feb63---Lucifer's Hammer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c12fe1c62e38451293cfe82ba43ba43f.jpg" length="38963" type="image/jpeg"/>
       <pubDate>Wed, 30 Nov 2022 10:44:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Warlord - Soliloquy (4 plays)</title>
+      <link>https://www.last.fm/music/Warlord/_/Soliloquy</link>
+      <guid isPermaLink="false">manosg--1669823325--05f3293e-bcb1-4f23-a01a-daafb24feb63---Soliloquy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c12fe1c62e38451293cfe82ba43ba43f.jpg" length="38963" type="image/jpeg"/>
+      <pubDate>Wed, 30 Nov 2022 10:48:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Warlord - Mrs. Victoria (1 play)</title>
+      <link>https://www.last.fm/music/Warlord/_/Mrs.+Victoria</link>
+      <guid isPermaLink="false">manosg--1669823670--05f3293e-bcb1-4f23-a01a-daafb24feb63---Mrs. Victoria</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c12fe1c62e38451293cfe82ba43ba43f.jpg" length="38963" type="image/jpeg"/>
+      <pubDate>Wed, 30 Nov 2022 10:54:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
