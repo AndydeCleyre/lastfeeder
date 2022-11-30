@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 06:24:53 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Sheep (54 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Sheep</link>
-      <guid isPermaLink="false">Frippertron-1669710710--83d91898-7763-47d7-b03b-b92132375c47---Sheep</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3915948125f87b9bd98bc69759a27d7.jpg" length="29595" type="image/jpeg"/>
-      <pubDate>Tue, 29 Nov 2022 03:31:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Pigs on the Wing (Part One) (21 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+on+the+Wing+(Part+One)</link>
-      <guid isPermaLink="false">Frippertron-1669712078--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part One)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3915948125f87b9bd98bc69759a27d7.jpg" length="29595" type="image/jpeg"/>
-      <pubDate>Tue, 29 Nov 2022 03:54:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Dogs (41 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Dogs</link>
-      <guid isPermaLink="false">Frippertron-1669712216--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3915948125f87b9bd98bc69759a27d7.jpg" length="29595" type="image/jpeg"/>
-      <pubDate>Tue, 29 Nov 2022 03:56:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Nov 2022 06:44:52 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Pigs on the Wing (Part Two) (22 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+on+the+Wing+(Part+Two)</link>
@@ -107,7 +86,7 @@
       <pubDate>Tue, 29 Nov 2022 06:23:25 -0500</pubDate>
     </item>
     <item>
-      <title>The Who - 5:15 (42 plays)</title>
+      <title>The Who - 5:15 (43 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/5:15</link>
       <guid isPermaLink="false">Frippertron-1669721215--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---5:15</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1669789061--5dfb48c8-770b-4f10-baf6-9bd45ab5ad46---Vers L'infini</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 30 Nov 2022 01:17:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Who - Is It in My Head? (20 plays)</title>
+      <link>https://www.last.fm/music/The+Who/_/Is+It+in+My+Head%3F</link>
+      <guid isPermaLink="false">Frippertron-1669789779--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Is It in My Head?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
+      <pubDate>Wed, 30 Nov 2022 01:29:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Who - I've Had Enough (29 plays)</title>
+      <link>https://www.last.fm/music/The+Who/_/I%27ve+Had+Enough</link>
+      <guid isPermaLink="false">Frippertron-1669790004--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---I've Had Enough</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
+      <pubDate>Wed, 30 Nov 2022 01:33:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Who - 5:15 (43 plays)</title>
+      <link>https://www.last.fm/music/The+Who/_/5:15</link>
+      <guid isPermaLink="false">Frippertron-1669790379--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---5:15</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
+      <pubDate>Wed, 30 Nov 2022 01:39:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
