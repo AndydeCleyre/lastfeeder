@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Dec 2022 18:21:22 +0000</lastBuildDate>
-    <item>
-      <title>Luther Allison - Living In The House Of The Blues (1 play)</title>
-      <link>https://www.last.fm/music/Luther+Allison/_/Living+In+The+House+Of+The+Blues</link>
-      <guid isPermaLink="false">manosg--1669878903--11cb567e-ecac-4226-8944-f862440e8bca---Living In The House Of The Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbca69662bd54120a7057c6023957d9a.jpg" length="21193" type="image/jpeg"/>
-      <pubDate>Thu, 01 Dec 2022 02:15:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Luther Allison - Part Time Love (4 plays)</title>
-      <link>https://www.last.fm/music/Luther+Allison/_/Part+Time+Love</link>
-      <guid isPermaLink="false">manosg--1669879301--11cb567e-ecac-4226-8944-f862440e8bca---Part Time Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1715a1e29fe112740e1343cacb51db2b.jpg" length="27355" type="image/jpeg"/>
-      <pubDate>Thu, 01 Dec 2022 02:21:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Luther Allison - Bad News Is Coming (1 play)</title>
-      <link>https://www.last.fm/music/Luther+Allison/_/Bad+News+Is+Coming</link>
-      <guid isPermaLink="false">manosg--1669879546--11cb567e-ecac-4226-8944-f862440e8bca---Bad News Is Coming</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc75b8f9bb20d48072ef89ebff6db3a0.jpg" length="23495" type="image/jpeg"/>
-      <pubDate>Thu, 01 Dec 2022 02:25:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Dec 2022 11:14:00 +0000</lastBuildDate>
     <item>
       <title>Luther Allison - It's Too Late (1 play)</title>
       <link>https://www.last.fm/music/Luther+Allison/_/It%27s+Too+Late</link>
@@ -149,7 +128,7 @@
       <pubDate>Thu, 01 Dec 2022 06:22:26 -0500</pubDate>
     </item>
     <item>
-      <title>Junior Wells - Hoodoo Man Blues</title>
+      <title>Junior Wells - Hoodoo Man Blues (4 plays)</title>
       <link>https://www.last.fm/music/Junior+Wells/_/Hoodoo+Man+Blues</link>
       <guid isPermaLink="false">manosg--1669893939--5f526374-0e88-4508-a8d6-7f25c16cb2d8---Hoodoo Man Blues</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5e68b3c59812f01c3cb3fa83de2cf33.png" length="90743" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1670003496--Genesis---For Absent Friends - Digital Remastered 2008</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
       <pubDate>Fri, 02 Dec 2022 12:51:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - The Return Of The Giant Hogweed - Digital Remastered 2008 (2 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/The+Return+Of+The+Giant+Hogweed+-+Digital+Remastered+2008</link>
+      <guid isPermaLink="false">manosg--1670003665--Genesis---The Return Of The Giant Hogweed - Digital Remastered 2008</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
+      <pubDate>Fri, 02 Dec 2022 12:54:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Watcher Of The Skies - Digital Remastered 2008 (4 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Watcher+Of+The+Skies+-+Digital+Remastered+2008</link>
+      <guid isPermaLink="false">manosg--1670064784--Genesis---Watcher Of The Skies - Digital Remastered 2008</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
+      <pubDate>Sat, 03 Dec 2022 05:53:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Time Table - Digital Remastered 2008 (2 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Time+Table+-+Digital+Remastered+2008</link>
+      <guid isPermaLink="false">manosg--1670065229--Genesis---Time Table - Digital Remastered 2008</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
+      <pubDate>Sat, 03 Dec 2022 06:00:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
