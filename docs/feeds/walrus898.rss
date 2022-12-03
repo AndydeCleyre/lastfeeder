@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Dec 2022 18:21:44 +0000</lastBuildDate>
-    <item>
-      <title>Alvvays - Tile By Tile (16 plays)</title>
-      <link>https://www.last.fm/music/Alvvays/_/Tile+By+Tile</link>
-      <guid isPermaLink="false">walrus898-1669508628--99450990-b24e-4132-bb68-235f8c3e2564---Tile By Tile</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e41b308ca8a94f72e26a79320a3bf313.jpg" length="22342" type="image/jpeg"/>
-      <pubDate>Sat, 26 Nov 2022 19:23:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Dec 2022 14:15:11 +0000</lastBuildDate>
     <item>
       <title>Built to Spill - Bloody Rainbow (5 plays)</title>
       <link>https://www.last.fm/music/Built+to+Spill/_/Bloody+Rainbow</link>
@@ -170,7 +163,7 @@
       <pubDate>Tue, 29 Nov 2022 11:26:39 -0500</pubDate>
     </item>
     <item>
-      <title>FRANKiiE - Glory Me (1 play)</title>
+      <title>FRANKiiE - Glory Me (2 plays)</title>
       <link>https://www.last.fm/music/FRANKiiE/_/Glory+Me</link>
       <guid isPermaLink="false">walrus898-1669742994--5f3164ec-9f4f-485c-9b8a-50813fd6fa80---Glory Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a05f186ef09820fa0ac666ce0126764.png" length="132103" type="image/png"/>
@@ -299,6 +292,7 @@
       <title>Unknown Mortal Orchestra - I Killed Captain Cook (1 play)</title>
       <link>https://www.last.fm/music/Unknown+Mortal+Orchestra/_/I+Killed+Captain+Cook</link>
       <guid isPermaLink="false">walrus898-1669916402--e2305342-0bde-4a2c-aed0-4b88694834de---I Killed Captain Cook</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da2b5927abfcc431871d06ec9a7f8b9a.jpg" length="22013" type="image/jpeg"/>
       <pubDate>Thu, 01 Dec 2022 12:40:02 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">walrus898-1670004687--861a735d-76b9-4ee1-b1e4-91d27b9129c1---123</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75ef6c7e2a161478694554d4cfe04f48.jpg" length="23737" type="image/jpeg"/>
       <pubDate>Fri, 02 Dec 2022 13:11:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>FRANKiiE - Glory Me (2 plays)</title>
+      <link>https://www.last.fm/music/FRANKiiE/_/Glory+Me</link>
+      <guid isPermaLink="false">walrus898-1670004928--5f3164ec-9f4f-485c-9b8a-50813fd6fa80---Glory Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a05f186ef09820fa0ac666ce0126764.png" length="132103" type="image/png"/>
+      <pubDate>Fri, 02 Dec 2022 13:15:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
