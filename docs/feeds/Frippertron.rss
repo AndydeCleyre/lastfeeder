@@ -7,23 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Dec 2022 03:39:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2022 03:52:16 +0000</lastBuildDate>
     <item>
-      <title>Ulver - Rolling Stone (21 plays)</title>
-      <link>https://www.last.fm/music/Ulver/_/Rolling+Stone</link>
-      <guid isPermaLink="false">Frippertron-1669803537--7d209631-ccb8-4a87-8516-64abe4c22dba---Rolling Stone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c3085462af4c55e6f62a9e1c8dff2a4.jpg" length="12805" type="image/jpeg"/>
-      <pubDate>Wed, 30 Nov 2022 05:18:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>Come September - Here Comes Heaven (39 plays)</title>
-      <link>https://www.last.fm/music/Come+September/_/Here+Comes+Heaven</link>
-      <guid isPermaLink="false">Frippertron-1669803964--Come September---Here Comes Heaven</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
-      <pubDate>Wed, 30 Nov 2022 05:26:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Come September - Truth Drug (74 plays)</title>
+      <title>Come September - Truth Drug (75 plays)</title>
       <link>https://www.last.fm/music/Come+September/_/Truth+Drug</link>
       <guid isPermaLink="false">Frippertron-1669804246--Come September---Truth Drug</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1670211356--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---La guitare des pays d'en haut</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7265696d2e9e44dbb2427f7a542af297.jpg" length="20039" type="image/jpeg"/>
       <pubDate>Sun, 04 Dec 2022 22:35:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Come September - Truth Drug (75 plays)</title>
+      <link>https://www.last.fm/music/Come+September/_/Truth+Drug</link>
+      <guid isPermaLink="false">Frippertron-1670211746--Come September---Truth Drug</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
+      <pubDate>Sun, 04 Dec 2022 22:42:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Come September - Looking For Lili Marlene (45 plays)</title>
+      <link>https://www.last.fm/music/Come+September/_/Looking+For+Lili+Marlene</link>
+      <guid isPermaLink="false">Frippertron-1670212040--Come September---Looking For Lili Marlene</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
+      <pubDate>Sun, 04 Dec 2022 22:47:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
