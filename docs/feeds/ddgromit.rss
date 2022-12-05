@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Dec 2022 03:24:19 +0000</lastBuildDate>
-    <item>
-      <title>Taylor Swift - Would've, Could've, Should've (1 play)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Would%27ve,+Could%27ve,+Should%27ve</link>
-      <guid isPermaLink="false">ddgromit-1670003674--20244d07-534f-4eff-b4d4-930878889970---Would've, Could've, Should've</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bb1c215a957801b0dc8c26925b95c50.jpg" length="14292" type="image/jpeg"/>
-      <pubDate>Fri, 02 Dec 2022 12:54:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Dec 2022 03:40:01 +0000</lastBuildDate>
     <item>
       <title>Taylor Swift - Dear Reader (1 play)</title>
       <link>https://www.last.fm/music/Taylor+Swift/_/Dear+Reader</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1670210169--a871fd87-50f7-4032-b06d-da56779edcce---Truly Madly Deeply</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55d82587898a8a32ce9ff48cf502229d.jpg" length="11308" type="image/jpeg"/>
       <pubDate>Sun, 04 Dec 2022 22:16:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Savage Garden - I Knew I Loved You (1 play)</title>
+      <link>https://www.last.fm/music/Savage+Garden/_/I+Knew+I+Loved+You</link>
+      <guid isPermaLink="false">ddgromit-1670210451--a871fd87-50f7-4032-b06d-da56779edcce---I Knew I Loved You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c17ef69205f47a883a9db1dfb94bcd9.png" length="163882" type="image/png"/>
+      <pubDate>Sun, 04 Dec 2022 22:20:51 -0500</pubDate>
     </item>
   </channel>
 </rss>

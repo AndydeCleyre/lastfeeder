@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Dec 2022 03:24:40 +0000</lastBuildDate>
-    <item>
-      <title>Chicago - A Hit by Varèse (20 plays)</title>
-      <link>https://www.last.fm/music/Chicago/_/A+Hit+by+Var%C3%A8se</link>
-      <guid isPermaLink="false">Frippertron-1669801986--Chicago---A Hit by Varèse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fddfc0bd9cd95ce0d646cd2980bcf78c.jpg" length="25981" type="image/jpeg"/>
-      <pubDate>Wed, 30 Nov 2022 04:53:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Larry Coryell - Call to the Higher Consciousness (18 plays)</title>
-      <link>https://www.last.fm/music/Larry+Coryell/_/Call+to+the+Higher+Consciousness</link>
-      <guid isPermaLink="false">Frippertron-1669802279--5a8f286f-cb7c-4e31-b021-935173f160ed---Call to the Higher Consciousness</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf76e043d46867012fd7514b81cc5dd7.jpg" length="24087" type="image/jpeg"/>
-      <pubDate>Wed, 30 Nov 2022 04:57:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Dec 2022 03:39:40 +0000</lastBuildDate>
     <item>
       <title>Ulver - Rolling Stone (21 plays)</title>
       <link>https://www.last.fm/music/Ulver/_/Rolling+Stone</link>
@@ -79,7 +65,7 @@
       <pubDate>Wed, 30 Nov 2022 06:21:27 -0500</pubDate>
     </item>
     <item>
-      <title>Fiori-Séguin - La guitare des pays d'en haut (31 plays)</title>
+      <title>Fiori-Séguin - La guitare des pays d'en haut (32 plays)</title>
       <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/La+guitare+des+pays+d%27en+haut</link>
       <guid isPermaLink="false">Frippertron-1669807662--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---La guitare des pays d'en haut</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7265696d2e9e44dbb2427f7a542af297.jpg" length="20039" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1670210312--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bring Me The Disco King</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45d9302a3796493dc908e8028dd0098e.png" length="180524" type="image/png"/>
       <pubDate>Sun, 04 Dec 2022 22:18:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Loving the Alien (120 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
+      <guid isPermaLink="false">Frippertron-1670210797--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
+      <pubDate>Sun, 04 Dec 2022 22:26:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fiori-Séguin - La guitare des pays d'en haut (32 plays)</title>
+      <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/La+guitare+des+pays+d%27en+haut</link>
+      <guid isPermaLink="false">Frippertron-1670211356--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---La guitare des pays d'en haut</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7265696d2e9e44dbb2427f7a542af297.jpg" length="20039" type="image/jpeg"/>
+      <pubDate>Sun, 04 Dec 2022 22:35:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
