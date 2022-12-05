@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Dec 2022 05:15:51 +0000</lastBuildDate>
-    <item>
-      <title>Taylor Swift - High Infidelity (1 play)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/High+Infidelity</link>
-      <guid isPermaLink="false">ddgromit-1670003294--20244d07-534f-4eff-b4d4-930878889970---High Infidelity</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bb1c215a957801b0dc8c26925b95c50.jpg" length="14292" type="image/jpeg"/>
-      <pubDate>Fri, 02 Dec 2022 12:48:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Taylor Swift - Glitch (1 play)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Glitch</link>
-      <guid isPermaLink="false">ddgromit-1670003525--20244d07-534f-4eff-b4d4-930878889970---Glitch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bb1c215a957801b0dc8c26925b95c50.jpg" length="14292" type="image/jpeg"/>
-      <pubDate>Fri, 02 Dec 2022 12:52:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Dec 2022 03:24:19 +0000</lastBuildDate>
     <item>
       <title>Taylor Swift - Would've, Could've, Should've (1 play)</title>
       <link>https://www.last.fm/music/Taylor+Swift/_/Would%27ve,+Could%27ve,+Should%27ve</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1670129824--d41a6875-b626-4c0f-89a1-aecb643d29ff---Fairytale of New York (feat. Kirsty MacColl)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e822b0df391983e624b8506357b116e0.jpg" length="24650" type="image/jpeg"/>
       <pubDate>Sat, 03 Dec 2022 23:57:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sam Smith - Have Yourself a Merry Little Christmas (2 plays)</title>
+      <link>https://www.last.fm/music/Sam+Smith/_/Have+Yourself+a+Merry+Little+Christmas</link>
+      <guid isPermaLink="false">ddgromit-1670130097--5a85c140-dcf9-4dd2-b2c8-aff0471549f3---Have Yourself a Merry Little Christmas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/64257491b3984e24ce8d3093e4277453.png" length="196485" type="image/png"/>
+      <pubDate>Sun, 04 Dec 2022 00:01:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Savage Garden - Truly Madly Deeply (1 play)</title>
+      <link>https://www.last.fm/music/Savage+Garden/_/Truly+Madly+Deeply</link>
+      <guid isPermaLink="false">ddgromit-1670210169--a871fd87-50f7-4032-b06d-da56779edcce---Truly Madly Deeply</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55d82587898a8a32ce9ff48cf502229d.jpg" length="11308" type="image/jpeg"/>
+      <pubDate>Sun, 04 Dec 2022 22:16:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
