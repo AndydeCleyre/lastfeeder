@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Dec 2022 22:17:43 +0000</lastBuildDate>
-    <item>
-      <title>Dana Gavanski - Waltz For A Spaniel (1 play)</title>
-      <link>https://www.last.fm/music/Dana+Gavanski/_/Waltz+For+A+Spaniel</link>
-      <guid isPermaLink="false">lintmunro-1668275350--de44f5f9-3f3c-4a47-a8c9-598d6c55b06f---Waltz For A Spaniel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5aab88ef97a13fc04165400c7bc51862.jpg" length="12568" type="image/jpeg"/>
-      <pubDate>Sat, 12 Nov 2022 12:49:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Exhumed - PUTRESCINE AND CADAVERINE (1 play)</title>
-      <link>https://www.last.fm/music/Exhumed/_/PUTRESCINE+AND+CADAVERINE</link>
-      <guid isPermaLink="false">lintmunro-1668275515--157fa1d2-3399-4523-9481-edd2e2f57400---PUTRESCINE AND CADAVERINE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/caf49959ad1d2e51bcc3d290067bd28d.jpg" length="33052" type="image/jpeg"/>
-      <pubDate>Sat, 12 Nov 2022 12:51:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Dec 2022 22:38:51 +0000</lastBuildDate>
     <item>
       <title>High Command - Imposing Hammers of Cold Sorcery (1 play)</title>
       <link>https://www.last.fm/music/High+Command/_/Imposing+Hammers+of+Cold+Sorcery</link>
@@ -201,6 +187,7 @@
       <title>Djevel - I Daudens Dimme Natt (1 play)</title>
       <link>https://www.last.fm/music/Djevel/_/I+Daudens+Dimme+Natt</link>
       <guid isPermaLink="false">lintmunro-1669069309--a1ae582c-25a9-49dd-be91-ebe0b90eee93---I Daudens Dimme Natt</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1455025f17daef988074620c605b34ff.jpg" length="11551" type="image/jpeg"/>
       <pubDate>Mon, 21 Nov 2022 17:21:49 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1670450982--86f1453a-f9bd-4345-b815-0a1836f56b85---Sixhundredthirtyone</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a53b400b428dc92ff78cde7de253c8a.jpg" length="22833" type="image/jpeg"/>
       <pubDate>Wed, 07 Dec 2022 17:09:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lykotonon - The Apocryphal Self (1 play)</title>
+      <link>https://www.last.fm/music/Lykotonon/_/The+Apocryphal+Self</link>
+      <guid isPermaLink="false">lintmunro-1670451851--Lykotonon---The Apocryphal Self</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d8099b3d01136ee78ff6d1d5fa2efec.jpg" length="21594" type="image/jpeg"/>
+      <pubDate>Wed, 07 Dec 2022 17:24:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>See You Next Tuesday - Hey Look, No Crying (1 play)</title>
+      <link>https://www.last.fm/music/See+You+Next+Tuesday/_/Hey+Look,+No+Crying</link>
+      <guid isPermaLink="false">lintmunro-1670452338--b64af6c6-62d1-47cd-ac63-4bd325e04d56---Hey Look, No Crying</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb37c9ea278c313dc750872b87e25357.jpg" length="31972" type="image/jpeg"/>
+      <pubDate>Wed, 07 Dec 2022 17:32:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
