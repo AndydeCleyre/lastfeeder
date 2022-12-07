@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Dec 2022 06:43:01 +0000</lastBuildDate>
-    <item>
-      <title>The Stooges - Death Trip (22 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/Death+Trip</link>
-      <guid isPermaLink="false">Frippertron-1670321921--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Death Trip</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69ebd87597be80838b0063a65ed9bd06.jpg" length="11393" type="image/jpeg"/>
-      <pubDate>Tue, 06 Dec 2022 05:18:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>black midi - Dethroned (93 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Dethroned</link>
-      <guid isPermaLink="false">Frippertron-1670322317--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Dethroned</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
-      <pubDate>Tue, 06 Dec 2022 05:25:17 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Dec 2022 06:55:06 +0000</lastBuildDate>
     <item>
       <title>black midi - Hogwash and Balderdash (106 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Hogwash+and+Balderdash</link>
@@ -222,14 +208,14 @@
       <title>SUGAR BABE - SHOW (20 plays)</title>
       <link>https://www.last.fm/music/SUGAR+BABE/_/SHOW</link>
       <guid isPermaLink="false">Frippertron-1670388524--08614e29-9470-4547-9d2c-d13287727173---SHOW</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad375c7964274ad09f8a8cc7b5596bef.png" length="0" type="text/html; charset=UTF-8"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad375c7964274ad09f8a8cc7b5596bef.png" length="101924" type="image/png"/>
       <pubDate>Tue, 06 Dec 2022 23:48:44 -0500</pubDate>
     </item>
     <item>
       <title>SUGAR BABE - DOWN TOWN (20 plays)</title>
       <link>https://www.last.fm/music/SUGAR+BABE/_/DOWN+TOWN</link>
       <guid isPermaLink="false">Frippertron-1670388733--08614e29-9470-4547-9d2c-d13287727173---DOWN TOWN</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad375c7964274ad09f8a8cc7b5596bef.png" length="0" type="text/html; charset=UTF-8"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad375c7964274ad09f8a8cc7b5596bef.png" length="101924" type="image/png"/>
       <pubDate>Tue, 06 Dec 2022 23:52:13 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1670395031--15b1cbac-060a-4136-9e07-4622c52c0f60---La Solitude</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
       <pubDate>Wed, 07 Dec 2022 01:37:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Richard Hawley - Soldier On (10 plays)</title>
+      <link>https://www.last.fm/music/Richard+Hawley/_/Soldier+On</link>
+      <guid isPermaLink="false">Frippertron-1670395394--006f0783-c5a0-458b-a9da-f8551f7ebe77---Soldier On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9793cfeabf4a4e3f8b60ad7b501409b1.jpg" length="7379" type="image/jpeg"/>
+      <pubDate>Wed, 07 Dec 2022 01:43:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Richard Hawley - The Ocean (37 plays)</title>
+      <link>https://www.last.fm/music/Richard+Hawley/_/The+Ocean</link>
+      <guid isPermaLink="false">Frippertron-1670395806--006f0783-c5a0-458b-a9da-f8551f7ebe77---The Ocean</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de427c04e92f432383e3b16e981e1609.png" length="174445" type="image/png"/>
+      <pubDate>Wed, 07 Dec 2022 01:50:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
