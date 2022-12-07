@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Dec 2022 11:15:19 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - You Are What You Is (35 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/You+Are+What+You+Is</link>
-      <guid isPermaLink="false">Frippertron-1670391350--e20747e7-55a4-452e-8766-7b985585082d---You Are What You Is</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd5e013e3824f4ed04d33a366f1effc4.jpg" length="19431" type="image/jpeg"/>
-      <pubDate>Wed, 07 Dec 2022 00:35:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Dec 2022 11:27:13 +0000</lastBuildDate>
     <item>
       <title>Frank Zappa - Hungry Freaks, Daddy (18 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/Hungry+Freaks,+Daddy</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1670411516--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
       <pubDate>Wed, 07 Dec 2022 06:11:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Albion Fair (47 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
+      <guid isPermaLink="false">Frippertron-1670411885--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
+      <pubDate>Wed, 07 Dec 2022 06:18:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
