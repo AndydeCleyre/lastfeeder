@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Dec 2022 08:41:38 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Fearless (45 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
-      <guid isPermaLink="false">Frippertron-1670411516--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
-      <pubDate>Wed, 07 Dec 2022 06:11:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Dec 2022 08:53:38 +0000</lastBuildDate>
     <item>
       <title>The Enid - Albion Fair (48 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1670488565--66f8692c-966d-4dfb-a2ed-babf51241922---O Salome</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017073b2445e401daebeae96368f1365.jpg" length="20967" type="image/jpeg"/>
       <pubDate>Thu, 08 Dec 2022 03:36:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Fiery Furnaces - Quay Cur (15 plays)</title>
+      <link>https://www.last.fm/music/The+Fiery+Furnaces/_/Quay+Cur</link>
+      <guid isPermaLink="false">Frippertron-1670489203--2c916f95-f6ba-46fa-b9d8-dc0d9379f603---Quay Cur</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/723f1c1b28eddf2f41c73b6f408f6731.jpg" length="11235" type="image/jpeg"/>
+      <pubDate>Thu, 08 Dec 2022 03:46:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
