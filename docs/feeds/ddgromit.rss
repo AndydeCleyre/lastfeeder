@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Dec 2022 19:14:25 +0000</lastBuildDate>
-    <item>
-      <title>Neil Frances - These Days (1 play)</title>
-      <link>https://www.last.fm/music/Neil+Frances/_/These+Days</link>
-      <guid isPermaLink="false">ddgromit-1670454643--c4a1d94a-b37b-4d1a-8449-e3f8c65beecb---These Days</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c80bd5d231a774ff9664710630e6c0f.jpg" length="15666" type="image/jpeg"/>
-      <pubDate>Wed, 07 Dec 2022 18:10:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Dec 2022 21:52:14 +0000</lastBuildDate>
     <item>
       <title>Hnny - Cheer Up, My Brother (4 plays)</title>
       <link>https://www.last.fm/music/Hnny/_/Cheer+Up,+My+Brother</link>
@@ -355,7 +348,15 @@
       <title>Meeka Kates - Fault Line (1 play)</title>
       <link>https://www.last.fm/music/Meeka+Kates/_/Fault+Line</link>
       <guid isPermaLink="false">ddgromit-1670525878--Meeka Kates---Fault Line</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da1ba52fe9c6bda427836735573f6a87.jpg" length="15718" type="image/jpeg"/>
       <pubDate>Thu, 08 Dec 2022 13:57:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neil Frances - On the Lookout (1 play)</title>
+      <link>https://www.last.fm/music/Neil+Frances/_/On+the+Lookout</link>
+      <guid isPermaLink="false">ddgromit-1670526099--Neil Frances---On the Lookout</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b404ce49345795abb6f36bda4a5db20.jpg" length="18108" type="image/jpeg"/>
+      <pubDate>Thu, 08 Dec 2022 14:01:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
