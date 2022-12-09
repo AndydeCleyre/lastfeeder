@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Dec 2022 04:54:42 +0000</lastBuildDate>
-    <item>
-      <title>Townes Van Zandt - Nothin' (17 plays)</title>
-      <link>https://www.last.fm/music/Townes+Van+Zandt/_/Nothin%27</link>
-      <guid isPermaLink="false">Frippertron-1670494061--d67d1a21-6e45-4dd6-aef0-0191ba3796e0---Nothin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/435b9a4ae4b74f50cf31374863d4291d.jpg" length="28402" type="image/jpeg"/>
-      <pubDate>Thu, 08 Dec 2022 05:07:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Vanishing Twin - Cryonic Suspension May Save Your Life (18 plays)</title>
-      <link>https://www.last.fm/music/Vanishing+Twin/_/Cryonic+Suspension+May+Save+Your+Life</link>
-      <guid isPermaLink="false">Frippertron-1670494232--487a96f2-eefd-485e-892b-2cf240835bf4---Cryonic Suspension May Save Your Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fa51be253913168409f54cdd6c1cb7c.jpg" length="18313" type="image/jpeg"/>
-      <pubDate>Thu, 08 Dec 2022 05:10:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Dec 2022 05:16:54 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Nightrider (33 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Nightrider</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1670561524--2803b905-fe99-4071-ac2e-f4bf94ce6fb8---Ecubyan</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7d5772b21e862c7386f86aa6ab886cf.jpg" length="11484" type="image/jpeg"/>
       <pubDate>Thu, 08 Dec 2022 23:52:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jobriath - World Without End (29 plays)</title>
+      <link>https://www.last.fm/music/Jobriath/_/World+Without+End</link>
+      <guid isPermaLink="false">Frippertron-1670561686--2803b905-fe99-4071-ac2e-f4bf94ce6fb8---World Without End</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84984ef176f741f5a4eff942e3e091d2.png" length="161953" type="image/png"/>
+      <pubDate>Thu, 08 Dec 2022 23:54:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Elephant Talk (76 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Elephant+Talk</link>
+      <guid isPermaLink="false">Frippertron-1670562007--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Elephant Talk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 09 Dec 2022 00:00:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
