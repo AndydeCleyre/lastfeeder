@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Dec 2022 03:53:00 +0000</lastBuildDate>
-    <item>
-      <title>Duñe - Slowdiving (3 plays)</title>
-      <link>https://www.last.fm/music/Du%C3%B1e/_/Slowdiving</link>
-      <guid isPermaLink="false">ddgromit-1670462169--Duñe---Slowdiving</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702a1de88ac7ee1207dfd5e895850d43.jpg" length="13179" type="image/jpeg"/>
-      <pubDate>Wed, 07 Dec 2022 20:16:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kraak &amp; Smaak - Stumble (5 plays)</title>
-      <link>https://www.last.fm/music/Kraak+&amp;+Smaak/_/Stumble</link>
-      <guid isPermaLink="false">ddgromit-1670462364--472fcf2f-eaa2-44a2-8e8f-2ecd23cd0fc7---Stumble</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b1a9868c69f0f7e13148b33cf495784.jpg" length="25415" type="image/jpeg"/>
-      <pubDate>Wed, 07 Dec 2022 20:19:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Dec 2022 17:38:07 +0000</lastBuildDate>
     <item>
       <title>Jamie Woon - Sharpness (3 plays)</title>
       <link>https://www.last.fm/music/Jamie+Woon/_/Sharpness</link>
@@ -352,11 +338,25 @@
       <pubDate>Thu, 08 Dec 2022 18:36:35 -0500</pubDate>
     </item>
     <item>
-      <title>RAC - Passion (3 plays)</title>
+      <title>RAC - Passion (4 plays)</title>
       <link>https://www.last.fm/music/RAC/_/Passion</link>
       <guid isPermaLink="false">ddgromit-1670542822--RAC---Passion</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017560fef2a9378a128df7362dcf5d63.jpg" length="11392" type="image/jpeg"/>
       <pubDate>Thu, 08 Dec 2022 18:40:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>RAC - Passion (4 plays)</title>
+      <link>https://www.last.fm/music/RAC/_/Passion</link>
+      <guid isPermaLink="false">ddgromit-1670557962--RAC---Passion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017560fef2a9378a128df7362dcf5d63.jpg" length="11392" type="image/jpeg"/>
+      <pubDate>Thu, 08 Dec 2022 22:52:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cocomelon - The Wheels on the Bus - Storytime Version (1 play)</title>
+      <link>https://www.last.fm/music/Cocomelon/_/The+Wheels+on+the+Bus+-+Storytime+Version</link>
+      <guid isPermaLink="false">ddgromit-1670557974--Cocomelon---The Wheels on the Bus - Storytime Version</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 08 Dec 2022 22:52:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
