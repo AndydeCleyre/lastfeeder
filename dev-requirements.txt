@@ -1,4 +1,4 @@
-black==22.10.0
+black==22.12.0
     # via -r dev-requirements.in
 certifi==2022.12.7
     # via requests
@@ -18,7 +18,7 @@ isort==5.10.1
     # via -r dev-requirements.in
 mypy-extensions==0.4.3
     # via black
-pathspec==0.10.2
+pathspec==0.10.3
     # via black
 platformdirs==2.6.0
     # via black
