@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Dec 2022 04:22:17 +0000</lastBuildDate>
-    <item>
-      <title>Scott Walker - Next (30 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/Next</link>
-      <guid isPermaLink="false">Frippertron-1670577986--99524243-dc2e-4bf3-82c0-72395391d21f---Next</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png" length="81214" type="image/png"/>
-      <pubDate>Fri, 09 Dec 2022 04:26:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Dec 2022 04:42:34 +0000</lastBuildDate>
     <item>
       <title>Scott Walker - Plastic Palace People (20 plays)</title>
       <link>https://www.last.fm/music/Scott+Walker/_/Plastic+Palace+People</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1670645563--2c6cd964-9c7c-4d3d-b917-89813646d4eb---Virgin On The Ridiculous</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0371501bd9e44cb7ccd6e7801935300c.jpg" length="27890" type="image/jpeg"/>
       <pubDate>Fri, 09 Dec 2022 23:12:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Caravan - For Richard (2 plays)</title>
+      <link>https://www.last.fm/music/Caravan/_/For+Richard</link>
+      <guid isPermaLink="false">Frippertron-1670646043--2c6cd964-9c7c-4d3d-b917-89813646d4eb---For Richard</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0371501bd9e44cb7ccd6e7801935300c.jpg" length="27890" type="image/jpeg"/>
+      <pubDate>Fri, 09 Dec 2022 23:20:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
