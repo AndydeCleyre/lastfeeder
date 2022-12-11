@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Dec 2022 01:43:05 +0000</lastBuildDate>
-    <item>
-      <title>Meeka Kates - Fault Line (1 play)</title>
-      <link>https://www.last.fm/music/Meeka+Kates/_/Fault+Line</link>
-      <guid isPermaLink="false">ddgromit-1670525878--Meeka Kates---Fault Line</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da1ba52fe9c6bda427836735573f6a87.jpg" length="15718" type="image/jpeg"/>
-      <pubDate>Thu, 08 Dec 2022 13:57:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neil Frances - On the Lookout (1 play)</title>
-      <link>https://www.last.fm/music/Neil+Frances/_/On+the+Lookout</link>
-      <guid isPermaLink="false">ddgromit-1670526099--Neil Frances---On the Lookout</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b404ce49345795abb6f36bda4a5db20.jpg" length="18108" type="image/jpeg"/>
-      <pubDate>Thu, 08 Dec 2022 14:01:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kazy Lambist - Annecy (2 plays)</title>
-      <link>https://www.last.fm/music/Kazy+Lambist/_/Annecy</link>
-      <guid isPermaLink="false">ddgromit-1670536219--Kazy Lambist---Annecy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f0c13f0e44ab41189fad88324079828.jpg" length="13286" type="image/jpeg"/>
-      <pubDate>Thu, 08 Dec 2022 16:50:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Dec 2022 18:53:22 +0000</lastBuildDate>
     <item>
       <title>Common Saints - Dreams (6 plays)</title>
       <link>https://www.last.fm/music/Common+Saints/_/Dreams</link>
@@ -114,7 +93,7 @@
       <pubDate>Thu, 08 Dec 2022 17:30:45 -0500</pubDate>
     </item>
     <item>
-      <title>Neil Frances - Dumb Love (4 plays)</title>
+      <title>Neil Frances - Dumb Love (5 plays)</title>
       <link>https://www.last.fm/music/Neil+Frances/_/Dumb+Love</link>
       <guid isPermaLink="false">ddgromit-1670538840--c4a1d94a-b37b-4d1a-8449-e3f8c65beecb---Dumb Love</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3692401bc9efe33be2383a73d14b36ae.jpg" length="17727" type="image/jpeg"/>
@@ -184,7 +163,7 @@
       <pubDate>Thu, 08 Dec 2022 18:07:09 -0500</pubDate>
     </item>
     <item>
-      <title>Hnny - So (4 plays)</title>
+      <title>Hnny - So (5 plays)</title>
       <link>https://www.last.fm/music/Hnny/_/So</link>
       <guid isPermaLink="false">ddgromit-1670541027--Hnny---So</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa6ae0d85d28b9fd07d078da2b234731.jpg" length="22267" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1670720417--Drama---Monte Carlo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 10 Dec 2022 20:00:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neil Frances - Dumb Love (5 plays)</title>
+      <link>https://www.last.fm/music/Neil+Frances/_/Dumb+Love</link>
+      <guid isPermaLink="false">ddgromit-1670783942--c4a1d94a-b37b-4d1a-8449-e3f8c65beecb---Dumb Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3692401bc9efe33be2383a73d14b36ae.jpg" length="17727" type="image/jpeg"/>
+      <pubDate>Sun, 11 Dec 2022 13:39:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Satin Jackets - Don’t Worry (2 plays)</title>
+      <link>https://www.last.fm/music/Satin+Jackets/_/Don%E2%80%99t+Worry</link>
+      <guid isPermaLink="false">ddgromit-1670784224--e0432382-b245-4a30-b230-5558b36ac158---Don’t Worry</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a58d99d5b8f5add91aa3e4e83ad356a3.jpg" length="9737" type="image/jpeg"/>
+      <pubDate>Sun, 11 Dec 2022 13:43:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hnny - So (5 plays)</title>
+      <link>https://www.last.fm/music/Hnny/_/So</link>
+      <guid isPermaLink="false">ddgromit-1670784501--Hnny---So</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa6ae0d85d28b9fd07d078da2b234731.jpg" length="22267" type="image/jpeg"/>
+      <pubDate>Sun, 11 Dec 2022 13:48:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
