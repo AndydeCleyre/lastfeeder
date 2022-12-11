@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Dec 2022 02:42:55 +0000</lastBuildDate>
-    <item>
-      <title>Cocteau Twins - Frosty the Snowman (8 plays)</title>
-      <link>https://www.last.fm/music/Cocteau+Twins/_/Frosty+the+Snowman</link>
-      <guid isPermaLink="false">Arcade1996-1670643323--000fc734-b7e1-4a01-92d1-f544261b43f5---Frosty the Snowman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/910b13aad63e4744c750effd6d4b99f3.png" length="69126" type="image/png"/>
-      <pubDate>Fri, 09 Dec 2022 22:35:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jesu - Christmas (3 plays)</title>
-      <link>https://www.last.fm/music/Jesu/_/Christmas</link>
-      <guid isPermaLink="false">Arcade1996-1670644642--ae69d81f-552d-4013-8dfc-4778d8f38742---Christmas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/396b8ffedd5e4c5396751dbf3ba9493a.png" length="170834" type="image/png"/>
-      <pubDate>Fri, 09 Dec 2022 22:57:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Dec 2022 04:43:50 +0000</lastBuildDate>
     <item>
       <title>Dead Kennedys - Advice From Christmas Past (3 plays)</title>
       <link>https://www.last.fm/music/Dead+Kennedys/_/Advice+From+Christmas+Past</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1670725480--cb15675b-24a4-4092-8554-61f03b6017d8---Old Dirty Rudolph</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30f4b1026d49257e45641b4485a36260.jpg" length="34850" type="image/jpeg"/>
       <pubDate>Sat, 10 Dec 2022 21:24:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tankard - Fuck Christmas - 2018 - Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Tankard/_/Fuck+Christmas+-+2018+-+Remaster</link>
+      <guid isPermaLink="false">Arcade1996-1670725599--Tankard---Fuck Christmas - 2018 - Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa3154dcfd68b49729fd5f4706906b7b.jpg" length="24234" type="image/jpeg"/>
+      <pubDate>Sat, 10 Dec 2022 21:26:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Carter the Unstoppable Sex Machine - Shopper's Paradise - 2012 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Carter+the+Unstoppable+Sex+Machine/_/Shopper%27s+Paradise+-+2012+Remaster</link>
+      <guid isPermaLink="false">Arcade1996-1670733410--Carter the Unstoppable Sex Machine---Shopper's Paradise - 2012 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d3a6c331d4525113e28d32944dbe0f8.jpg" length="21226" type="image/jpeg"/>
+      <pubDate>Sat, 10 Dec 2022 23:36:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
