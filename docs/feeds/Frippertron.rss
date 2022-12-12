@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Dec 2022 08:42:14 +0000</lastBuildDate>
-    <item>
-      <title>Television - Marquee Moon (141 plays)</title>
-      <link>https://www.last.fm/music/Television/_/Marquee+Moon</link>
-      <guid isPermaLink="false">Frippertron-1670816049--490bde43-5edb-4a93-b3b3-7a0465fd8909---Marquee Moon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
-      <pubDate>Sun, 11 Dec 2022 22:34:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Life on Mars? (188 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Life+on+Mars%3F</link>
-      <guid isPermaLink="false">Frippertron-1670816715--5441c29d-3602-4898-b1a1-b77fa23b8e50---Life on Mars?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Sun, 11 Dec 2022 22:45:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Dec 2022 08:54:13 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Queen Bitch (66 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Queen+Bitch</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1670834401--34e56f20-ddda-48c9-a4bb-6bb12df57de0---The Lodgers (Or She Was Only A Shopkeeper's Daughter)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b682f1ad6a61946c56adfe837b5784a1.jpg" length="28141" type="image/jpeg"/>
       <pubDate>Mon, 12 Dec 2022 03:40:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Style Council - Walls Come Tumbling Down! (73 plays)</title>
+      <link>https://www.last.fm/music/The+Style+Council/_/Walls+Come+Tumbling+Down!</link>
+      <guid isPermaLink="false">Frippertron-1670834640--34e56f20-ddda-48c9-a4bb-6bb12df57de0---Walls Come Tumbling Down!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b682f1ad6a61946c56adfe837b5784a1.jpg" length="28141" type="image/jpeg"/>
+      <pubDate>Mon, 12 Dec 2022 03:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Style Council - Shout To The Top (138 plays)</title>
+      <link>https://www.last.fm/music/The+Style+Council/_/Shout+To+The+Top</link>
+      <guid isPermaLink="false">Frippertron-1670834848--34e56f20-ddda-48c9-a4bb-6bb12df57de0---Shout To The Top</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b682f1ad6a61946c56adfe837b5784a1.jpg" length="28141" type="image/jpeg"/>
+      <pubDate>Mon, 12 Dec 2022 03:47:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
