@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Dec 2022 06:43:07 +0000</lastBuildDate>
-    <item>
-      <title>Joe Henry - Struck (1 play)</title>
-      <link>https://www.last.fm/music/Joe+Henry/_/Struck</link>
-      <guid isPermaLink="false">Frippertron-1670679505--7ea95bc8-7c97-4b8c-baf5-f3720bc94b40---Struck</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb9a78254c4d48c98a7b7c44db2d0b9b.jpg" length="17099" type="image/jpeg"/>
-      <pubDate>Sat, 10 Dec 2022 08:38:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Joe Henry - Rough And Tumble (1 play)</title>
-      <link>https://www.last.fm/music/Joe+Henry/_/Rough+And+Tumble</link>
-      <guid isPermaLink="false">Frippertron-1670679828--7ea95bc8-7c97-4b8c-baf5-f3720bc94b40---Rough And Tumble</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb9a78254c4d48c98a7b7c44db2d0b9b.jpg" length="17099" type="image/jpeg"/>
-      <pubDate>Sat, 10 Dec 2022 08:43:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Dec 2022 06:54:49 +0000</lastBuildDate>
     <item>
       <title>Joe Henry - Lock And Key (1 play)</title>
       <link>https://www.last.fm/music/Joe+Henry/_/Lock+And+Key</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1670826973--66f8692c-966d-4dfb-a2ed-babf51241922---Golden Earrings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
       <pubDate>Mon, 12 Dec 2022 01:36:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Salome (214 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Salome</link>
+      <guid isPermaLink="false">Frippertron-1670827235--66f8692c-966d-4dfb-a2ed-babf51241922---Salome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
+      <pubDate>Mon, 12 Dec 2022 01:40:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sonic Youth - Unmade Bed (25 plays)</title>
+      <link>https://www.last.fm/music/Sonic+Youth/_/Unmade+Bed</link>
+      <guid isPermaLink="false">Frippertron-1670827967--5cbef01b-cc35-4f52-af7b-d0df0c4f61b9---Unmade Bed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f2bd187cff8c6619f14320abbe37de1f.jpg" length="15322" type="image/jpeg"/>
+      <pubDate>Mon, 12 Dec 2022 01:52:47 -0500</pubDate>
     </item>
   </channel>
 </rss>
