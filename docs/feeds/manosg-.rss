@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Dec 2022 11:15:14 +0000</lastBuildDate>
-    <item>
-      <title>Jeremy Soule - Deep Waters (1 play)</title>
-      <link>https://www.last.fm/music/Jeremy+Soule/_/Deep+Waters</link>
-      <guid isPermaLink="false">manosg--1670657330--f413369d-d72f-46b9-8744-2d09344a9c6a---Deep Waters</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16ebb2649f15db2ebf015d672b6a322f.png" length="234531" type="image/png"/>
-      <pubDate>Sat, 10 Dec 2022 02:28:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jeremy Soule - Dusk at the Market (1 play)</title>
-      <link>https://www.last.fm/music/Jeremy+Soule/_/Dusk+at+the+Market</link>
-      <guid isPermaLink="false">manosg--1670657400--f413369d-d72f-46b9-8744-2d09344a9c6a---Dusk at the Market</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16ebb2649f15db2ebf015d672b6a322f.png" length="234531" type="image/png"/>
-      <pubDate>Sat, 10 Dec 2022 02:30:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Dec 2022 11:27:25 +0000</lastBuildDate>
     <item>
       <title>Howard Shore - Feast Of Starlight - From "The Hobbit - The Desolation Of Smaug" (1 play)</title>
       <link>https://www.last.fm/music/Howard+Shore/_/Feast+Of+Starlight+-+From+%22The+Hobbit+-+The+Desolation+Of+Smaug%22</link>
@@ -44,7 +30,7 @@
       <pubDate>Sat, 10 Dec 2022 02:36:09 -0500</pubDate>
     </item>
     <item>
-      <title>Jeremy Soule - Dragonborn (1 play)</title>
+      <title>Jeremy Soule - Dragonborn</title>
       <link>https://www.last.fm/music/Jeremy+Soule/_/Dragonborn</link>
       <guid isPermaLink="false">manosg--1670657921--f413369d-d72f-46b9-8744-2d09344a9c6a---Dragonborn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f6b89eb9e3f279fc6257dd39d9a5011e.jpg" length="23804" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1670929876--SteelBalls---Sword and Sorcery</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ebcb29c85ffd7171c4ba07c3fce92b0b.png" length="167873" type="image/png"/>
       <pubDate>Tue, 13 Dec 2022 06:11:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>SteelBalls - Birth of a Legend (1 play)</title>
+      <link>https://www.last.fm/music/SteelBalls/_/Birth+of+a+Legend</link>
+      <guid isPermaLink="false">manosg--1670930081--SteelBalls---Birth of a Legend</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ebcb29c85ffd7171c4ba07c3fce92b0b.png" length="167873" type="image/png"/>
+      <pubDate>Tue, 13 Dec 2022 06:14:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>SteelBalls - The Conqueror (1 play)</title>
+      <link>https://www.last.fm/music/SteelBalls/_/The+Conqueror</link>
+      <guid isPermaLink="false">manosg--1670930141--SteelBalls---The Conqueror</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ebcb29c85ffd7171c4ba07c3fce92b0b.png" length="167873" type="image/png"/>
+      <pubDate>Tue, 13 Dec 2022 06:15:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
