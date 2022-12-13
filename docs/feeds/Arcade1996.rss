@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Dec 2022 13:33:03 +0000</lastBuildDate>
-    <item>
-      <title>Young Nudy - You Ain't Hard (29 plays)</title>
-      <link>https://www.last.fm/music/Young+Nudy/_/You+Ain%27t+Hard</link>
-      <guid isPermaLink="false">Arcade1996-1670851415--79c9b9a6-4b78-4738-8b81-95b066321ea9---You Ain't Hard</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3271227231361e1f7dfc7236faf10ffd.jpg" length="19591" type="image/jpeg"/>
-      <pubDate>Mon, 12 Dec 2022 08:23:35 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Smashing Pumpkins - Eye (31 plays)</title>
-      <link>https://www.last.fm/music/The+Smashing+Pumpkins/_/Eye</link>
-      <guid isPermaLink="false">Arcade1996-1670851648--ba0d6274-db14-4ef5-b28d-657ebde1a396---Eye</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ab2bb3f7ece43fd0f78ab7e5cb311c7.jpg" length="21659" type="image/jpeg"/>
-      <pubDate>Mon, 12 Dec 2022 08:27:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Dec 2022 13:52:35 +0000</lastBuildDate>
     <item>
       <title>The Sundays - Summertime (35 plays)</title>
       <link>https://www.last.fm/music/The+Sundays/_/Summertime</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1670938210--5272ad9e-a205-4d58-a088-2de06d6b0fbc---An Offering to the Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b4ec59c45e09820ae01495c2fcec88f.jpg" length="13311" type="image/jpeg"/>
       <pubDate>Tue, 13 Dec 2022 08:30:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iglooghost - Rust Genome (1 play)</title>
+      <link>https://www.last.fm/music/Iglooghost/_/Rust+Genome</link>
+      <guid isPermaLink="false">Arcade1996-1670938347--e42e0cb0-2722-4807-9102-889a2d4adcc3---Rust Genome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8cbc4e2319d0c639a2614cead314c18.jpg" length="13428" type="image/jpeg"/>
+      <pubDate>Tue, 13 Dec 2022 08:32:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Caroline Polachek - Welcome to My Island (2 plays)</title>
+      <link>https://www.last.fm/music/Caroline+Polachek/_/Welcome+to+My+Island</link>
+      <guid isPermaLink="false">Arcade1996-1670938545--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Welcome to My Island</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e7709517735b5d3521002997ad73032.jpg" length="8322" type="image/jpeg"/>
+      <pubDate>Tue, 13 Dec 2022 08:35:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
