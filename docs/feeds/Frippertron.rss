@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Dec 2022 07:16:30 +0000</lastBuildDate>
-    <item>
-      <title>Scott Walker - If You Go Away (51 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/If+You+Go+Away</link>
-      <guid isPermaLink="false">Frippertron-1670845450--99524243-dc2e-4bf3-82c0-72395391d21f---If You Go Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
-      <pubDate>Mon, 12 Dec 2022 06:44:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Dec 2022 07:52:29 +0000</lastBuildDate>
     <item>
       <title>Scott Walker - Jackie (12 plays)</title>
       <link>https://www.last.fm/music/Scott+Walker/_/Jackie</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1670914681--d2db1078-c170-4e22-b261-14f3ad60a690---Too Much Paranoias</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fedde0c06bb45bb875d3b0e4317d0d8.png" length="137795" type="image/png"/>
       <pubDate>Tue, 13 Dec 2022 01:58:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Supper's Ready (85 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Supper%27s+Ready</link>
+      <guid isPermaLink="false">Frippertron-1670917309--60aa2510-4ab1-4e50-9267-30a15700dc1c---Supper's Ready</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
+      <pubDate>Tue, 13 Dec 2022 02:41:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
