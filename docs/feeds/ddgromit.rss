@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Dec 2022 19:26:52 +0000</lastBuildDate>
-    <item>
-      <title>Taylor Swift - august (5 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/august</link>
-      <guid isPermaLink="false">ddgromit-1670889606--20244d07-534f-4eff-b4d4-930878889970---august</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8da93ab6d8aa00384998fdae7451d92.jpg" length="28260" type="image/jpeg"/>
-      <pubDate>Mon, 12 Dec 2022 19:00:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Taylor Swift - Love Story (Taylor’s Version) (7 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Love+Story+(Taylor%E2%80%99s+Version)</link>
-      <guid isPermaLink="false">ddgromit-1670889868--20244d07-534f-4eff-b4d4-930878889970---Love Story (Taylor’s Version)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3856d213e777106809c33f9a3d951d98.jpg" length="18840" type="image/jpeg"/>
-      <pubDate>Mon, 12 Dec 2022 19:04:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Taylor Swift - I Knew You Were Trouble (Taylor's Version) (10 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/I+Knew+You+Were+Trouble+(Taylor%27s+Version)</link>
-      <guid isPermaLink="false">ddgromit-1670890104--20244d07-534f-4eff-b4d4-930878889970---I Knew You Were Trouble (Taylor's Version)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a758908e6e86dcecbb199c4b19acb799.jpg" length="18797" type="image/jpeg"/>
-      <pubDate>Mon, 12 Dec 2022 19:08:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Dec 2022 19:38:40 +0000</lastBuildDate>
     <item>
       <title>Taylor Swift - Maroon (7 plays)</title>
       <link>https://www.last.fm/music/Taylor+Swift/_/Maroon</link>
@@ -37,7 +16,7 @@
       <pubDate>Mon, 12 Dec 2022 19:12:03 -0500</pubDate>
     </item>
     <item>
-      <title>Taylor Swift - Enchanted (13 plays)</title>
+      <title>Taylor Swift - Enchanted</title>
       <link>https://www.last.fm/music/Taylor+Swift/_/Enchanted</link>
       <guid isPermaLink="false">ddgromit-1670890542--20244d07-534f-4eff-b4d4-930878889970---Enchanted</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9ff4f81e3402e5fdd3c8e85681ad606.jpg" length="28984" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1670981385--195f5b56-da60-4b71-a2df-0c2488fd0565---Mama It's Christmas</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7092e926a7551dd107c3d5f433673f8.jpg" length="39178" type="image/jpeg"/>
       <pubDate>Tue, 13 Dec 2022 20:29:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>James Blake - I'll Come Too (8 plays)</title>
+      <link>https://www.last.fm/music/James+Blake/_/I%27ll+Come+Too</link>
+      <guid isPermaLink="false">ddgromit-1671045855--8dc08b1f-e393-4f85-a5dd-300f7693a8b8---I'll Come Too</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6fe9abceab69b5689d1e37a1a2045b5a.jpg" length="9272" type="image/jpeg"/>
+      <pubDate>Wed, 14 Dec 2022 14:24:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Duñe - Slowdiving (4 plays)</title>
+      <link>https://www.last.fm/music/Du%C3%B1e/_/Slowdiving</link>
+      <guid isPermaLink="false">ddgromit-1671046077--Duñe---Slowdiving</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702a1de88ac7ee1207dfd5e895850d43.jpg" length="13179" type="image/jpeg"/>
+      <pubDate>Wed, 14 Dec 2022 14:27:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jordan Rakei - Family (2 plays)</title>
+      <link>https://www.last.fm/music/Jordan+Rakei/_/Family</link>
+      <guid isPermaLink="false">ddgromit-1671046271--812c46e5-3d65-4e80-ada8-269450c5621b---Family</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4541be8f937257ef4b648b862fc82d3.jpg" length="22509" type="image/jpeg"/>
+      <pubDate>Wed, 14 Dec 2022 14:31:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
