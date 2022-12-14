@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Dec 2022 06:23:48 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Stone Cold Crazy (69 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Stone+Cold+Crazy</link>
-      <guid isPermaLink="false">Frippertron-1670927618--5eecaf18-02ec-47af-a4f2-7831db373419---Stone Cold Crazy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
-      <pubDate>Tue, 13 Dec 2022 05:33:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Liar (75 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Liar</link>
-      <guid isPermaLink="false">Frippertron-1670927757--5eecaf18-02ec-47af-a4f2-7831db373419---Liar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
-      <pubDate>Tue, 13 Dec 2022 05:35:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Son and Daughter (64 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Son+and+Daughter</link>
-      <guid isPermaLink="false">Frippertron-1670928415--5eecaf18-02ec-47af-a4f2-7831db373419---Son and Daughter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fb6dafb0fe843b2c3fb2bacdaed3cc5.png" length="67039" type="image/png"/>
-      <pubDate>Tue, 13 Dec 2022 05:46:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Dec 2022 06:42:48 +0000</lastBuildDate>
     <item>
       <title>Queen - The Fairy Feller's Master-Stroke (57 plays)</title>
       <link>https://www.last.fm/music/Queen/_/The+Fairy+Feller%27s+Master-Stroke</link>
@@ -44,7 +23,7 @@
       <pubDate>Tue, 13 Dec 2022 05:57:15 -0500</pubDate>
     </item>
     <item>
-      <title>Scott Walker - The Seventh Seal (58 plays)</title>
+      <title>Scott Walker - The Seventh Seal</title>
       <link>https://www.last.fm/music/Scott+Walker/_/The+Seventh+Seal</link>
       <guid isPermaLink="false">Frippertron-1670930635--99524243-dc2e-4bf3-82c0-72395391d21f---The Seventh Seal</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3092fb15a1bbba61c2e841e455172610.png" length="153014" type="image/png"/>
@@ -352,11 +331,32 @@
       <pubDate>Wed, 14 Dec 2022 01:17:14 -0500</pubDate>
     </item>
     <item>
-      <title>black midi - bmbmbm (139 plays)</title>
+      <title>black midi - bmbmbm (140 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/bmbmbm</link>
       <guid isPermaLink="false">Frippertron-1670998920--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---bmbmbm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a33696e9e7e4e838b4050ced65372a3.jpg" length="27178" type="image/jpeg"/>
       <pubDate>Wed, 14 Dec 2022 01:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - bmbmbm (140 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/bmbmbm</link>
+      <guid isPermaLink="false">Frippertron-1670999265--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---bmbmbm</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1136599c000685a5aafe9dafe57515f3.png" length="63513" type="image/png"/>
+      <pubDate>Wed, 14 Dec 2022 01:27:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - 953 (109 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/953</link>
+      <guid isPermaLink="false">Frippertron-1670999501--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---953</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee43f45dc9ee7b7ff9cdaf98daa69cd.jpg" length="27097" type="image/jpeg"/>
+      <pubDate>Wed, 14 Dec 2022 01:31:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Dethroned (98 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Dethroned</link>
+      <guid isPermaLink="false">Frippertron-1670999805--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Dethroned</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee43f45dc9ee7b7ff9cdaf98daa69cd.jpg" length="27097" type="image/jpeg"/>
+      <pubDate>Wed, 14 Dec 2022 01:36:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
