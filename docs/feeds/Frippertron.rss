@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Dec 2022 11:27:08 +0000</lastBuildDate>
-    <item>
-      <title>Caravan - Mirror For The Day (2 plays)</title>
-      <link>https://www.last.fm/music/Caravan/_/Mirror+For+The+Day</link>
-      <guid isPermaLink="false">Frippertron-1670996827--2c6cd964-9c7c-4d3d-b917-89813646d4eb---Mirror For The Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0371501bd9e44cb7ccd6e7801935300c.jpg" length="27890" type="image/jpeg"/>
-      <pubDate>Wed, 14 Dec 2022 00:47:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>Caravan - Virgin On The Ridiculous (2 plays)</title>
-      <link>https://www.last.fm/music/Caravan/_/Virgin+On+The+Ridiculous</link>
-      <guid isPermaLink="false">Frippertron-1670997099--2c6cd964-9c7c-4d3d-b917-89813646d4eb---Virgin On The Ridiculous</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0371501bd9e44cb7ccd6e7801935300c.jpg" length="27890" type="image/jpeg"/>
-      <pubDate>Wed, 14 Dec 2022 00:51:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Dec 2022 11:39:12 +0000</lastBuildDate>
     <item>
       <title>Devo - It's Not Right (14 plays)</title>
       <link>https://www.last.fm/music/Devo/_/It%27s+Not+Right</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671016993--5eecaf18-02ec-47af-a4f2-7831db373419---Son and Daughter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
       <pubDate>Wed, 14 Dec 2022 06:23:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Jesus (14 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Jesus</link>
+      <guid isPermaLink="false">Frippertron-1671017192--5eecaf18-02ec-47af-a4f2-7831db373419---Jesus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
+      <pubDate>Wed, 14 Dec 2022 06:26:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Albion Fair (50 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
+      <guid isPermaLink="false">Frippertron-1671017469--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
+      <pubDate>Wed, 14 Dec 2022 06:31:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
