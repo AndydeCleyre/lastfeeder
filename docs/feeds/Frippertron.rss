@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Dec 2022 09:38:05 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Wild Honey (75 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Wild+Honey</link>
-      <guid isPermaLink="false">Frippertron-1671078888--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Wild Honey</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb8442d636a242a92005f7a9ab208d8f.jpg" length="43513" type="image/jpeg"/>
-      <pubDate>Wed, 14 Dec 2022 23:34:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Aren't You Glad (100 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Aren%27t+You+Glad</link>
-      <guid isPermaLink="false">Frippertron-1671079054--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Aren't You Glad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb8442d636a242a92005f7a9ab208d8f.jpg" length="43513" type="image/jpeg"/>
-      <pubDate>Wed, 14 Dec 2022 23:37:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Dec 2022 09:52:59 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - A Thing or Two (40 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/A+Thing+or+Two</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671096808--720df570-c435-4be5-a755-357d9fd98bc8---Nite Flights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3682788971fa96bb1878454d9ffb55e7.jpg" length="16777" type="image/jpeg"/>
       <pubDate>Thu, 15 Dec 2022 04:33:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Walker Brothers - The Electrician (75 plays)</title>
+      <link>https://www.last.fm/music/The+Walker+Brothers/_/The+Electrician</link>
+      <guid isPermaLink="false">Frippertron-1671097071--720df570-c435-4be5-a755-357d9fd98bc8---The Electrician</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3682788971fa96bb1878454d9ffb55e7.jpg" length="16777" type="image/jpeg"/>
+      <pubDate>Thu, 15 Dec 2022 04:37:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Albion Fair (51 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
+      <guid isPermaLink="false">Frippertron-1671097505--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
+      <pubDate>Thu, 15 Dec 2022 04:45:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
