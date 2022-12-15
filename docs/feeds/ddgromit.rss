@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Dec 2022 20:18:20 +0000</lastBuildDate>
-    <item>
-      <title>Phoebe Bridgers - So Much Wine (1 play)</title>
-      <link>https://www.last.fm/music/Phoebe+Bridgers/_/So+Much+Wine</link>
-      <guid isPermaLink="false">ddgromit-1670957467--96855c21-b832-4366-ba12-0d2330c36a86---So Much Wine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01e45f2eef866323bd35079555aa9fe6.jpg" length="23133" type="image/jpeg"/>
-      <pubDate>Tue, 13 Dec 2022 13:51:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Dec 2022 20:52:28 +0000</lastBuildDate>
     <item>
       <title>McKenna Williams - Winter Wonderland (1 play)</title>
       <link>https://www.last.fm/music/McKenna+Williams/_/Winter+Wonderland</link>
@@ -191,7 +184,7 @@
       <pubDate>Wed, 14 Dec 2022 16:01:15 -0500</pubDate>
     </item>
     <item>
-      <title>Leisure - Be With You (4 plays)</title>
+      <title>Leisure - Be With You (5 plays)</title>
       <link>https://www.last.fm/music/Leisure/_/Be+With+You</link>
       <guid isPermaLink="false">ddgromit-1671051860--f67d22da-7fe8-40f8-8495-b903e74fd094---Be With You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3bc06f5fbf763ddc197d2fe68134b4f.jpg" length="15033" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1671134214--Neil Frances---On the Lookout</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b404ce49345795abb6f36bda4a5db20.jpg" length="18108" type="image/jpeg"/>
       <pubDate>Thu, 15 Dec 2022 14:56:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leisure - Be With You (5 plays)</title>
+      <link>https://www.last.fm/music/Leisure/_/Be+With+You</link>
+      <guid isPermaLink="false">ddgromit-1671134443--f67d22da-7fe8-40f8-8495-b903e74fd094---Be With You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3bc06f5fbf763ddc197d2fe68134b4f.jpg" length="15033" type="image/jpeg"/>
+      <pubDate>Thu, 15 Dec 2022 15:00:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
