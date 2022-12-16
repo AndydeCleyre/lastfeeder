@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Dec 2022 04:52:35 +0000</lastBuildDate>
-    <item>
-      <title>Devo - Shrivel-up (14 plays)</title>
-      <link>https://www.last.fm/music/Devo/_/Shrivel-up</link>
-      <guid isPermaLink="false">Frippertron-1671095467--d2db1078-c170-4e22-b261-14f3ad60a690---Shrivel-up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fedde0c06bb45bb875d3b0e4317d0d8.png" length="137795" type="image/png"/>
-      <pubDate>Thu, 15 Dec 2022 04:11:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Walker Brothers - Deadlier Than The Male (12 plays)</title>
-      <link>https://www.last.fm/music/The+Walker+Brothers/_/Deadlier+Than+The+Male</link>
-      <guid isPermaLink="false">Frippertron-1671095658--720df570-c435-4be5-a755-357d9fd98bc8---Deadlier Than The Male</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f18a57ea51494037c034fe15db30a08e.png" length="166992" type="image/png"/>
-      <pubDate>Thu, 15 Dec 2022 04:14:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Dec 2022 05:16:10 +0000</lastBuildDate>
     <item>
       <title>The Walker Brothers - After The Lights Go Out (5 plays)</title>
       <link>https://www.last.fm/music/The+Walker+Brothers/_/After+The+Lights+Go+Out</link>
@@ -310,7 +296,7 @@
       <pubDate>Thu, 15 Dec 2022 22:53:03 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Prelude (85 plays)</title>
+      <title>The Enid - Prelude</title>
       <link>https://www.last.fm/music/The+Enid/_/Prelude</link>
       <guid isPermaLink="false">Frippertron-1671162978--66f8692c-966d-4dfb-a2ed-babf51241922---Prelude</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99a1983dce9646368d796b1d749eee9e.jpg" length="20048" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671165908--66f8692c-966d-4dfb-a2ed-babf51241922---Earthborn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa5be6109c174cd19024712962285fd2.jpg" length="29501" type="image/jpeg"/>
       <pubDate>Thu, 15 Dec 2022 23:45:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Fool (70 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Fool</link>
+      <guid isPermaLink="false">Frippertron-1671166480--66f8692c-966d-4dfb-a2ed-babf51241922---Fool</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
+      <pubDate>Thu, 15 Dec 2022 23:54:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Caroline - dark blue (14 plays)</title>
+      <link>https://www.last.fm/music/Caroline/_/dark+blue</link>
+      <guid isPermaLink="false">Frippertron-1671166731--Caroline---dark blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101d26194a33557f8c529fe6d26457e9.jpg" length="20526" type="image/jpeg"/>
+      <pubDate>Thu, 15 Dec 2022 23:58:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
