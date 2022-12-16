@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Dec 2022 17:40:08 +0000</lastBuildDate>
-    <item>
-      <title>Daniel Hart - I Promise You Will Not Come To Harm (2 plays)</title>
-      <link>https://www.last.fm/music/Daniel+Hart/_/I+Promise+You+Will+Not+Come+To+Harm</link>
-      <guid isPermaLink="false">TalonsOfFire-1670877059--Daniel Hart---I Promise You Will Not Come To Harm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5d841f7f1710bb38f026d1b36138e96.jpg" length="19462" type="image/jpeg"/>
-      <pubDate>Mon, 12 Dec 2022 15:30:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Max Richter - II. Mrs Dalloway: In The Garden (1 play)</title>
-      <link>https://www.last.fm/music/Max+Richter/_/II.+Mrs+Dalloway:+In+The+Garden</link>
-      <guid isPermaLink="false">TalonsOfFire-1670877254--Max Richter---II. Mrs Dalloway: In The Garden</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03af07864d54ecb125115b308cd9f935.jpg" length="28142" type="image/jpeg"/>
-      <pubDate>Mon, 12 Dec 2022 15:34:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Phoebe Bridgers - Sidelines (1 play)</title>
-      <link>https://www.last.fm/music/Phoebe+Bridgers/_/Sidelines</link>
-      <guid isPermaLink="false">TalonsOfFire-1670877604--96855c21-b832-4366-ba12-0d2330c36a86---Sidelines</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b20ddb05689187b31ceed082ea3ffad.jpg" length="19711" type="image/jpeg"/>
-      <pubDate>Mon, 12 Dec 2022 15:40:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Dec 2022 17:53:15 +0000</lastBuildDate>
     <item>
       <title>Air - Playground Love (2 plays)</title>
       <link>https://www.last.fm/music/Air/_/Playground+Love</link>
@@ -177,11 +156,18 @@
       <pubDate>Mon, 12 Dec 2022 17:06:00 -0500</pubDate>
     </item>
     <item>
-      <title>Mazzy Star - Fade Into You (2 plays)</title>
+      <title>Mazzy Star - Fade Into You (3 plays)</title>
       <link>https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You</link>
       <guid isPermaLink="false">TalonsOfFire-1670883074--c48d4327-8122-4286-af66-05e1ee6ac4d8---Fade Into You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60615ead3d8383e70e84a526817de4bf.jpg" length="28405" type="image/jpeg"/>
       <pubDate>Mon, 12 Dec 2022 17:11:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mazzy Star - Fade Into You (3 plays)</title>
+      <link>https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You</link>
+      <guid isPermaLink="false">TalonsOfFire-1670883369--c48d4327-8122-4286-af66-05e1ee6ac4d8---Fade Into You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60615ead3d8383e70e84a526817de4bf.jpg" length="28405" type="image/jpeg"/>
+      <pubDate>Mon, 12 Dec 2022 17:16:09 -0500</pubDate>
     </item>
     <item>
       <title>Alaskan Tapes - Notes (3 plays)</title>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1671212038--938df0a0-c650-4cf8-9b23-5ad8a5cb4805---Irrwege</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/286fc8840b95473cc701d1434b7e7edf.png" length="159035" type="image/png"/>
       <pubDate>Fri, 16 Dec 2022 12:33:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bohren &amp; der Club of Gore - Ganz leise kommt die Nacht (1 play)</title>
+      <link>https://www.last.fm/music/Bohren+&amp;+der+Club+of+Gore/_/Ganz+leise+kommt+die+Nacht</link>
+      <guid isPermaLink="false">TalonsOfFire-1671212257--938df0a0-c650-4cf8-9b23-5ad8a5cb4805---Ganz leise kommt die Nacht</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/286fc8840b95473cc701d1434b7e7edf.png" length="159035" type="image/png"/>
+      <pubDate>Fri, 16 Dec 2022 12:37:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bohren &amp; der Club of Gore - Segeln ohne Wind (1 play)</title>
+      <link>https://www.last.fm/music/Bohren+&amp;+der+Club+of+Gore/_/Segeln+ohne+Wind</link>
+      <guid isPermaLink="false">TalonsOfFire-1671212759--938df0a0-c650-4cf8-9b23-5ad8a5cb4805---Segeln ohne Wind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/286fc8840b95473cc701d1434b7e7edf.png" length="159035" type="image/png"/>
+      <pubDate>Fri, 16 Dec 2022 12:45:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
