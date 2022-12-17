@@ -14,7 +14,7 @@ flit-core==3.8.0
     # via flit
 idna==3.4
     # via requests
-isort==5.11.2
+isort==5.11.3
     # via -r dev-requirements.in
 mypy-extensions==0.4.3
     # via black
