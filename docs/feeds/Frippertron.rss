@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Dec 2022 04:40:31 +0000</lastBuildDate>
-    <item>
-      <title>The Who - 5:15 (45 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/5:15</link>
-      <guid isPermaLink="false">Frippertron-1671180591--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---5:15</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Fri, 16 Dec 2022 03:49:51 -0500</pubDate>
-    </item>
-    <item>
-      <title>Boris - Introduction (19 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/Introduction</link>
-      <guid isPermaLink="false">Frippertron-1671180919--590702b8-e5fd-43f7-9472-5f062f8e311e---Introduction</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88666db81b163fd51d9c25b77dfba829.jpg" length="16290" type="image/jpeg"/>
-      <pubDate>Fri, 16 Dec 2022 03:55:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Dec 2022 04:52:32 +0000</lastBuildDate>
     <item>
       <title>Boris - Ibitsu (33 plays)</title>
       <link>https://www.last.fm/music/Boris/_/Ibitsu</link>
@@ -184,7 +170,7 @@
       <pubDate>Fri, 16 Dec 2022 05:47:20 -0500</pubDate>
     </item>
     <item>
-      <title>The Beach Boys - Surf's Up (151 plays)</title>
+      <title>The Beach Boys - Surf's Up (152 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Surf%27s+Up</link>
       <guid isPermaLink="false">Frippertron-1671187961--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Surf's Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a163383cd84247699b6df8a8ee387a2.jpg" length="24788" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671424563--5a54b72e-bfb3-4ca6-944a-e17261399965---The Modern Dance</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/394924a53d8c3ba293226dd92c512e76.jpg" length="31224" type="image/jpeg"/>
       <pubDate>Sun, 18 Dec 2022 23:36:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Beach Boys - Feel Flows (49 plays)</title>
+      <link>https://www.last.fm/music/The+Beach+Boys/_/Feel+Flows</link>
+      <guid isPermaLink="false">Frippertron-1671424823--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Feel Flows</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a163383cd84247699b6df8a8ee387a2.jpg" length="24788" type="image/jpeg"/>
+      <pubDate>Sun, 18 Dec 2022 23:40:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Beach Boys - Surf's Up (152 plays)</title>
+      <link>https://www.last.fm/music/The+Beach+Boys/_/Surf%27s+Up</link>
+      <guid isPermaLink="false">Frippertron-1671425123--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Surf's Up</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a163383cd84247699b6df8a8ee387a2.jpg" length="24788" type="image/jpeg"/>
+      <pubDate>Sun, 18 Dec 2022 23:45:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
