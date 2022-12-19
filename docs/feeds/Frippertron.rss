@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Dec 2022 05:37:23 +0000</lastBuildDate>
-    <item>
-      <title>Devo - Wiggly World (4 plays)</title>
-      <link>https://www.last.fm/music/Devo/_/Wiggly+World</link>
-      <guid isPermaLink="false">Frippertron-1671182283--d2db1078-c170-4e22-b261-14f3ad60a690---Wiggly World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e276028087e4d26986da0b7760832f2.jpg" length="19457" type="image/jpeg"/>
-      <pubDate>Fri, 16 Dec 2022 04:18:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Devo - Pink Pussycat (2 plays)</title>
-      <link>https://www.last.fm/music/Devo/_/Pink+Pussycat</link>
-      <guid isPermaLink="false">Frippertron-1671182454--d2db1078-c170-4e22-b261-14f3ad60a690---Pink Pussycat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e276028087e4d26986da0b7760832f2.jpg" length="19457" type="image/jpeg"/>
-      <pubDate>Fri, 16 Dec 2022 04:20:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>Devo - (I Can't Get No) Satisfaction (40 plays)</title>
-      <link>https://www.last.fm/music/Devo/_/(I+Can%27t+Get+No)+Satisfaction</link>
-      <guid isPermaLink="false">Frippertron-1671182658--d2db1078-c170-4e22-b261-14f3ad60a690---(I Can't Get No) Satisfaction</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e276028087e4d26986da0b7760832f2.jpg" length="19457" type="image/jpeg"/>
-      <pubDate>Fri, 16 Dec 2022 04:24:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Dec 2022 05:52:35 +0000</lastBuildDate>
     <item>
       <title>Devo - Too Much Paranoias (25 plays)</title>
       <link>https://www.last.fm/music/Devo/_/Too+Much+Paranoias</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1671427784--5c2e405c-00c2-413d-8035-f7bc15ac6cbf---White</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cca4ac392ccd4eb79a9fa51c41431d21.jpg" length="8714" type="image/jpeg"/>
       <pubDate>Mon, 19 Dec 2022 00:29:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Circulation - Burgundy (1 play)</title>
+      <link>https://www.last.fm/music/Circulation/_/Burgundy</link>
+      <guid isPermaLink="false">Frippertron-1671428179--5c2e405c-00c2-413d-8035-f7bc15ac6cbf---Burgundy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cca4ac392ccd4eb79a9fa51c41431d21.jpg" length="8714" type="image/jpeg"/>
+      <pubDate>Mon, 19 Dec 2022 00:36:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Circulation - Cyan (1 play)</title>
+      <link>https://www.last.fm/music/Circulation/_/Cyan</link>
+      <guid isPermaLink="false">Frippertron-1671428537--5c2e405c-00c2-413d-8035-f7bc15ac6cbf---Cyan</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cca4ac392ccd4eb79a9fa51c41431d21.jpg" length="8714" type="image/jpeg"/>
+      <pubDate>Mon, 19 Dec 2022 00:42:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Circulation - Green (1 play)</title>
+      <link>https://www.last.fm/music/Circulation/_/Green</link>
+      <guid isPermaLink="false">Frippertron-1671428838--5c2e405c-00c2-413d-8035-f7bc15ac6cbf---Green</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cca4ac392ccd4eb79a9fa51c41431d21.jpg" length="8714" type="image/jpeg"/>
+      <pubDate>Mon, 19 Dec 2022 00:47:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
