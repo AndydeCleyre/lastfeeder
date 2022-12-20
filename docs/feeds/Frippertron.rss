@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Dec 2022 08:40:27 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Surf's Up (153 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Surf%27s+Up</link>
-      <guid isPermaLink="false">Frippertron-1671505817--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Surf's Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a163383cd84247699b6df8a8ee387a2.jpg" length="24788" type="image/jpeg"/>
-      <pubDate>Mon, 19 Dec 2022 22:10:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - 'Til I Die (45 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/%27Til+I+Die</link>
-      <guid isPermaLink="false">Frippertron-1671506066--ebfc1398-8d96-47e3-82c3-f782abcdb13d---'Til I Die</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a163383cd84247699b6df8a8ee387a2.jpg" length="24788" type="image/jpeg"/>
-      <pubDate>Mon, 19 Dec 2022 22:14:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Dec 2022 08:52:38 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Feel Flows (50 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Feel+Flows</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671525314--青葉市子---i am POD(0%)(20131125)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/462d363c619b4297c21d28e4c7f95381.png" length="148268" type="image/png"/>
       <pubDate>Tue, 20 Dec 2022 03:35:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>青葉市子 - IMPERIAL SMOKE TOWN (20131125) (37 plays)</title>
+      <link>https://www.last.fm/music/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/_/IMPERIAL+SMOKE+TOWN+(20131125)</link>
+      <guid isPermaLink="false">Frippertron-1671525642--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---IMPERIAL SMOKE TOWN (20131125)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/462d363c619b4297c21d28e4c7f95381.png" length="148268" type="image/png"/>
+      <pubDate>Tue, 20 Dec 2022 03:40:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>青葉市子 - Mars 2027 (20131125) (36 plays)</title>
+      <link>https://www.last.fm/music/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/_/Mars+2027+(20131125)</link>
+      <guid isPermaLink="false">Frippertron-1671526118--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---Mars 2027 (20131125)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/462d363c619b4297c21d28e4c7f95381.png" length="148268" type="image/png"/>
+      <pubDate>Tue, 20 Dec 2022 03:48:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
