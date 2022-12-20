@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Dec 2022 08:22:39 +0000</lastBuildDate>
-    <item>
-      <title>Scott Walker - Windows of the World (25 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/Windows+of+the+World</link>
-      <guid isPermaLink="false">Frippertron-1671450216--99524243-dc2e-4bf3-82c0-72395391d21f---Windows of the World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903e0d179d4f46d1ab4fbc5ae0f3054a.png" length="81214" type="image/png"/>
-      <pubDate>Mon, 19 Dec 2022 06:43:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Scott Walker - Two Weeks Since You've Gone (40 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/Two+Weeks+Since+You%27ve+Gone</link>
-      <guid isPermaLink="false">Frippertron-1671450506--99524243-dc2e-4bf3-82c0-72395391d21f---Two Weeks Since You've Gone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
-      <pubDate>Mon, 19 Dec 2022 06:48:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Dec 2022 08:40:27 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Surf's Up (153 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Surf%27s+Up</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671524114--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---airplane (20131125)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/462d363c619b4297c21d28e4c7f95381.png" length="148268" type="image/png"/>
       <pubDate>Tue, 20 Dec 2022 03:15:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>青葉市子 - いきのこり●ぼくら (20131125) (42 plays)</title>
+      <link>https://www.last.fm/music/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/_/%E3%81%84%E3%81%8D%E3%81%AE%E3%81%93%E3%82%8A%E2%97%8F%E3%81%BC%E3%81%8F%E3%82%89+(20131125)</link>
+      <guid isPermaLink="false">Frippertron-1671524878--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---いきのこり●ぼくら (20131125)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/462d363c619b4297c21d28e4c7f95381.png" length="148268" type="image/png"/>
+      <pubDate>Tue, 20 Dec 2022 03:27:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>青葉市子 - i am POD(0%)(20131125) (47 plays)</title>
+      <link>https://www.last.fm/music/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/_/i+am+POD(0%25)(20131125)</link>
+      <guid isPermaLink="false">Frippertron-1671525314--青葉市子---i am POD(0%)(20131125)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/462d363c619b4297c21d28e4c7f95381.png" length="148268" type="image/png"/>
+      <pubDate>Tue, 20 Dec 2022 03:35:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
