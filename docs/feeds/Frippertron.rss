@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Dec 2022 08:22:49 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Mayday Galliard (186 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
-      <guid isPermaLink="false">Frippertron-1671533235--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Tue, 20 Dec 2022 05:47:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Dark Hydraulic (41 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Dark+Hydraulic</link>
-      <guid isPermaLink="false">Frippertron-1671533716--66f8692c-966d-4dfb-a2ed-babf51241922---Dark Hydraulic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Tue, 20 Dec 2022 05:55:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - The Last Judgement (90 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/The+Last+Judgement</link>
-      <guid isPermaLink="false">Frippertron-1671534579--66f8692c-966d-4dfb-a2ed-babf51241922---The Last Judgement</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Tue, 20 Dec 2022 06:09:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Dec 2022 08:40:49 +0000</lastBuildDate>
     <item>
       <title>The Enid - In the Region of the Summer Stars (115 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/In+the+Region+of+the+Summer+Stars</link>
@@ -51,7 +30,7 @@
       <pubDate>Tue, 20 Dec 2022 06:37:21 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Prelude</title>
+      <title>The Enid - Prelude (88 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Prelude</link>
       <guid isPermaLink="false">Frippertron-1671592592--66f8692c-966d-4dfb-a2ed-babf51241922---Prelude</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99a1983dce9646368d796b1d749eee9e.jpg" length="20048" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1671610643--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---I've Had Enough</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
       <pubDate>Wed, 21 Dec 2022 03:17:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Who - 5:15 (46 plays)</title>
+      <link>https://www.last.fm/music/The+Who/_/5:15</link>
+      <guid isPermaLink="false">Frippertron-1671611018--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---5:15</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
+      <pubDate>Wed, 21 Dec 2022 03:23:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Who - Bell Boy (31 plays)</title>
+      <link>https://www.last.fm/music/The+Who/_/Bell+Boy</link>
+      <guid isPermaLink="false">Frippertron-1671611318--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Bell Boy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
+      <pubDate>Wed, 21 Dec 2022 03:28:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Who - Doctor Jimmy (17 plays)</title>
+      <link>https://www.last.fm/music/The+Who/_/Doctor+Jimmy</link>
+      <guid isPermaLink="false">Frippertron-1671611619--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Doctor Jimmy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
+      <pubDate>Wed, 21 Dec 2022 03:33:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
