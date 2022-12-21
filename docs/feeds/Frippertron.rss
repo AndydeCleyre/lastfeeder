@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Dec 2022 05:37:20 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - The Great Deceiver (75 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/The+Great+Deceiver</link>
-      <guid isPermaLink="false">Frippertron-1671519628--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Great Deceiver</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 20 Dec 2022 02:00:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Lament (119 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Lament</link>
-      <guid isPermaLink="false">Frippertron-1671523405--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Lament</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 20 Dec 2022 03:03:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Dec 2022 05:52:32 +0000</lastBuildDate>
     <item>
       <title>King Crimson - VROOOM (31 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/VROOOM</link>
@@ -135,7 +121,7 @@
       <pubDate>Tue, 20 Dec 2022 05:26:10 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Albion Fair (53 plays)</title>
+      <title>The Enid - Albion Fair (54 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
       <guid isPermaLink="false">Frippertron-1671532233--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671600911--66f8692c-966d-4dfb-a2ed-babf51241922---Elegy (Touch Me)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
       <pubDate>Wed, 21 Dec 2022 00:35:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Gallavant (18 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Gallavant</link>
+      <guid isPermaLink="false">Frippertron-1671601112--66f8692c-966d-4dfb-a2ed-babf51241922---Gallavant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
+      <pubDate>Wed, 21 Dec 2022 00:38:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Albion Fair (54 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
+      <guid isPermaLink="false">Frippertron-1671601552--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
+      <pubDate>Wed, 21 Dec 2022 00:45:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
