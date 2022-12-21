@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Dec 2022 10:19:21 +0000</lastBuildDate>
-    <item>
-      <title>Miles Davis - On The Corner (1 play)</title>
-      <link>https://www.last.fm/music/Miles+Davis/_/On+The+Corner</link>
-      <guid isPermaLink="false">Frippertron-1671595720--561d854a-6a28-4aa7-8c99-323e6ce46c2a---On The Corner</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50f513ad4b1a4bb1a5ca8530568660fd.jpg" length="30321" type="image/jpeg"/>
-      <pubDate>Tue, 20 Dec 2022 23:08:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Dec 2022 10:38:58 +0000</lastBuildDate>
     <item>
       <title>Miles Davis - New York Girl (1 play)</title>
       <link>https://www.last.fm/music/Miles+Davis/_/New+York+Girl</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1671617663--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Years Ago</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9903bae260baaa04c6177ebcac4b74bc.jpg" length="29213" type="image/jpeg"/>
       <pubDate>Wed, 21 Dec 2022 05:14:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Soft Machine - Out-Bloody-Rageous (25 plays)</title>
+      <link>https://www.last.fm/music/Soft+Machine/_/Out-Bloody-Rageous</link>
+      <guid isPermaLink="false">Frippertron-1671617899--5193ce6b-a315-4c50-ae49-54e69ffbc988---Out-Bloody-Rageous</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c41dbeedf6c244b8c40c5d21520d15b8.png" length="194241" type="image/png"/>
+      <pubDate>Wed, 21 Dec 2022 05:18:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
