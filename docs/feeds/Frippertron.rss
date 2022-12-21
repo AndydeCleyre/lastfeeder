@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Dec 2022 11:14:35 +0000</lastBuildDate>
-    <item>
-      <title>Miles Davis - One and One (1 play)</title>
-      <link>https://www.last.fm/music/Miles+Davis/_/One+and+One</link>
-      <guid isPermaLink="false">Frippertron-1671597250--561d854a-6a28-4aa7-8c99-323e6ce46c2a---One and One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50f513ad4b1a4bb1a5ca8530568660fd.jpg" length="30321" type="image/jpeg"/>
-      <pubDate>Tue, 20 Dec 2022 23:34:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Miles Davis - Helen Butte (1 play)</title>
-      <link>https://www.last.fm/music/Miles+Davis/_/Helen+Butte</link>
-      <guid isPermaLink="false">Frippertron-1671597621--561d854a-6a28-4aa7-8c99-323e6ce46c2a---Helen Butte</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50f513ad4b1a4bb1a5ca8530568660fd.jpg" length="30321" type="image/jpeg"/>
-      <pubDate>Tue, 20 Dec 2022 23:40:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Dec 2022 11:26:21 +0000</lastBuildDate>
     <item>
       <title>Miles Davis - Mr. Freedom X (1 play)</title>
       <link>https://www.last.fm/music/Miles+Davis/_/Mr.+Freedom+X</link>
@@ -37,14 +23,14 @@
       <pubDate>Wed, 21 Dec 2022 00:04:46 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Humouresque (32 plays)</title>
+      <title>The Enid - Humouresque (33 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Humouresque</link>
       <guid isPermaLink="false">Frippertron-1671600216--66f8692c-966d-4dfb-a2ed-babf51241922---Humouresque</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
       <pubDate>Wed, 21 Dec 2022 00:23:36 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Cortege (69 plays)</title>
+      <title>The Enid - Cortege (70 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Cortege</link>
       <guid isPermaLink="false">Frippertron-1671600596--66f8692c-966d-4dfb-a2ed-babf51241922---Cortege</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671620958--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbca9ddde60549a3c91a1bf7ca73f23b.png" length="142754" type="image/png"/>
       <pubDate>Wed, 21 Dec 2022 06:09:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Humouresque (33 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Humouresque</link>
+      <guid isPermaLink="false">Frippertron-1671621379--66f8692c-966d-4dfb-a2ed-babf51241922---Humouresque</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbca9ddde60549a3c91a1bf7ca73f23b.png" length="142754" type="image/png"/>
+      <pubDate>Wed, 21 Dec 2022 06:16:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Cortege (70 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Cortege</link>
+      <guid isPermaLink="false">Frippertron-1671621757--66f8692c-966d-4dfb-a2ed-babf51241922---Cortege</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbca9ddde60549a3c91a1bf7ca73f23b.png" length="142754" type="image/png"/>
+      <pubDate>Wed, 21 Dec 2022 06:22:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
