@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Dec 2022 08:40:30 +0000</lastBuildDate>
-    <item>
-      <title>Paramore - The News (9 plays)</title>
-      <link>https://www.last.fm/music/Paramore/_/The+News</link>
-      <guid isPermaLink="false">Arcade1996-1671628667--44cf61b8-5197-448a-b82b-cef6ee89fac5---The News</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/717d706e166d1b53042c3f078f7b9240.jpg" length="17193" type="image/jpeg"/>
-      <pubDate>Wed, 21 Dec 2022 08:17:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Dec 2022 08:53:27 +0000</lastBuildDate>
     <item>
       <title>Manic Street Preachers - Theme from M*A*S*H (Suicide Is Painless) (8 plays)</title>
       <link>https://www.last.fm/music/Manic+Street+Preachers/_/Theme+from+M*A*S*H+(Suicide+Is+Painless)</link>
@@ -352,11 +345,18 @@
       <pubDate>Thu, 22 Dec 2022 01:55:44 -0500</pubDate>
     </item>
     <item>
-      <title>Riff Raff - MOSSY OAK (1 play)</title>
+      <title>Riff Raff - MOSSY OAK</title>
       <link>https://www.last.fm/music/Riff+Raff/_/MOSSY+OAK</link>
       <guid isPermaLink="false">Arcade1996-1671698106--f0bf3f58-bfc9-404b-ac54-49e04544a757---MOSSY OAK</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06be993b5b80fa2ee5be85082e15f5bb.jpg" length="20514" type="image/jpeg"/>
       <pubDate>Thu, 22 Dec 2022 03:35:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Riff Raff - Million Dollar Mullet (2 plays)</title>
+      <link>https://www.last.fm/music/Riff+Raff/_/Million+Dollar+Mullet</link>
+      <guid isPermaLink="false">Arcade1996-1671698298--f0bf3f58-bfc9-404b-ac54-49e04544a757---Million Dollar Mullet</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06be993b5b80fa2ee5be85082e15f5bb.jpg" length="20514" type="image/jpeg"/>
+      <pubDate>Thu, 22 Dec 2022 03:38:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
