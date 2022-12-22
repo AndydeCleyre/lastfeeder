@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Dec 2022 17:37:25 +0000</lastBuildDate>
-    <item>
-      <title>Halsey - I'm Not Mad (2 plays)</title>
-      <link>https://www.last.fm/music/Halsey/_/I%27m+Not+Mad</link>
-      <guid isPermaLink="false">gameofmetal-1671580402--3377f3bb-60fc-4403-aea9-7e800612e060---I'm Not Mad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc0dd217b63395a41a1ed4578996a928.jpg" length="17488" type="image/jpeg"/>
-      <pubDate>Tue, 20 Dec 2022 18:53:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Noah Cyrus - July (7 plays)</title>
-      <link>https://www.last.fm/music/Noah+Cyrus/_/July</link>
-      <guid isPermaLink="false">gameofmetal-1671580576--Noah Cyrus---July</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66014d0980f5d94de2f1a1ca9c9925aa.jpg" length="17223" type="image/jpeg"/>
-      <pubDate>Tue, 20 Dec 2022 18:56:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Dec 2022 18:22:36 +0000</lastBuildDate>
     <item>
       <title>Dark Watcher - Farewell To The Old West (2 plays)</title>
       <link>https://www.last.fm/music/Dark+Watcher/_/Farewell+To+The+Old+West</link>
@@ -243,7 +229,6 @@
       <title>Carly Pearce - Next Girl (8 plays)</title>
       <link>https://www.last.fm/music/Carly+Pearce/_/Next+Girl</link>
       <guid isPermaLink="false">gameofmetal-1671632174--199affdb-93c0-4a9d-a4d0-26dc4fa01806---Next Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/64306da4c7fec854ec6de9510ff185e3.jpg" length="19578" type="image/jpeg"/>
       <pubDate>Wed, 21 Dec 2022 09:16:14 -0500</pubDate>
     </item>
     <item>
@@ -275,7 +260,7 @@
       <pubDate>Wed, 21 Dec 2022 14:44:23 -0500</pubDate>
     </item>
     <item>
-      <title>ORM - Mod Døden (1 play)</title>
+      <title>ORM - Mod Døden (2 plays)</title>
       <link>https://www.last.fm/music/ORM/_/Mod+D%C3%B8den</link>
       <guid isPermaLink="false">gameofmetal-1671653029--ORM---Mod Døden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e59f5bb0a2fcf594fa202968f578eb6b.jpg" length="28056" type="image/jpeg"/>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">gameofmetal-1671729268--charlieonnafriday---After Hours</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eff8eb18a2e5bcecfa299c64f026b354.jpg" length="24998" type="image/jpeg"/>
       <pubDate>Thu, 22 Dec 2022 12:14:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gone West - What Could've Been (6 plays)</title>
+      <link>https://www.last.fm/music/Gone+West/_/What+Could%27ve+Been</link>
+      <guid isPermaLink="false">gameofmetal-1671729426--ef9185ff-eff6-4d1a-bbd9-84fe20f1ef63---What Could've Been</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7716fe62fc5c09736e814d7bf6f5f27.png" length="188690" type="image/png"/>
+      <pubDate>Thu, 22 Dec 2022 12:17:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>ORM - Mod Døden (2 plays)</title>
+      <link>https://www.last.fm/music/ORM/_/Mod+D%C3%B8den</link>
+      <guid isPermaLink="false">gameofmetal-1671732040--ORM---Mod Døden</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e59f5bb0a2fcf594fa202968f578eb6b.jpg" length="28056" type="image/jpeg"/>
+      <pubDate>Thu, 22 Dec 2022 13:00:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
