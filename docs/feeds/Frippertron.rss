@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Dec 2022 08:22:10 +0000</lastBuildDate>
-    <item>
-      <title>Dennis Wilson - Common (18 plays)</title>
-      <link>https://www.last.fm/music/Dennis+Wilson/_/Common</link>
-      <guid isPermaLink="false">Frippertron-1671765814--4051f6bf-6a59-4d23-bd8b-2fddb1389dc0---Common</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81573b65ca50f311b2c4c25edf98dbdc.jpg" length="24429" type="image/jpeg"/>
-      <pubDate>Thu, 22 Dec 2022 22:23:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Dec 2022 08:40:12 +0000</lastBuildDate>
     <item>
       <title>Dennis Wilson - Love Surrounds Me (22 plays)</title>
       <link>https://www.last.fm/music/Dennis+Wilson/_/Love+Surrounds+Me</link>
@@ -72,7 +65,7 @@
       <pubDate>Thu, 22 Dec 2022 22:51:45 -0500</pubDate>
     </item>
     <item>
-      <title>Dennis Wilson - Piano Variations On Thoughts Of You</title>
+      <title>Dennis Wilson - Piano Variations On Thoughts Of You (18 plays)</title>
       <link>https://www.last.fm/music/Dennis+Wilson/_/Piano+Variations+On+Thoughts+Of+You</link>
       <guid isPermaLink="false">Frippertron-1671767815--4051f6bf-6a59-4d23-bd8b-2fddb1389dc0---Piano Variations On Thoughts Of You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81573b65ca50f311b2c4c25edf98dbdc.jpg" length="24429" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1671783280--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99a1983dce9646368d796b1d749eee9e.jpg" length="20048" type="image/jpeg"/>
       <pubDate>Fri, 23 Dec 2022 03:14:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Albion Fair (55 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
+      <guid isPermaLink="false">Frippertron-1671783667--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d196bd9f38894bd49736a08b25baab4d.jpg" length="24127" type="image/jpeg"/>
+      <pubDate>Fri, 23 Dec 2022 03:21:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
