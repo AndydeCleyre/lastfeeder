@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Dec 2022 11:26:51 +0000</lastBuildDate>
-    <item>
-      <title>Joni Mitchell - People's Parties (7 plays)</title>
-      <link>https://www.last.fm/music/Joni+Mitchell/_/People%27s+Parties</link>
-      <guid isPermaLink="false">Frippertron-1671778176--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---People's Parties</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb20c8ffe720ef20a8b420a395730374.jpg" length="5936" type="image/jpeg"/>
-      <pubDate>Fri, 23 Dec 2022 01:49:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Joni Mitchell - The Same Situation (7 plays)</title>
-      <link>https://www.last.fm/music/Joni+Mitchell/_/The+Same+Situation</link>
-      <guid isPermaLink="false">Frippertron-1671778313--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---The Same Situation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb20c8ffe720ef20a8b420a395730374.jpg" length="5936" type="image/jpeg"/>
-      <pubDate>Fri, 23 Dec 2022 01:51:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Dec 2022 11:38:29 +0000</lastBuildDate>
     <item>
       <title>Joni Mitchell - Car on a Hill (7 plays)</title>
       <link>https://www.last.fm/music/Joni+Mitchell/_/Car+on+a+Hill</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671794443--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Spider and I</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3169d4d7ca95457ab3c52dee4fb5447b.png" length="38250" type="image/png"/>
       <pubDate>Fri, 23 Dec 2022 06:20:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Amore (46 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Amore</link>
+      <guid isPermaLink="false">Frippertron-1671794734--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Amore</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/645b4662e2fa4e0e9719e7baa4e270dd.png" length="29856" type="image/png"/>
+      <pubDate>Fri, 23 Dec 2022 06:25:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Merry Christmas Mr. Lawrence (92 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Merry+Christmas+Mr.+Lawrence</link>
+      <guid isPermaLink="false">Frippertron-1671795044--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Merry Christmas Mr. Lawrence</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/645b4662e2fa4e0e9719e7baa4e270dd.png" length="29856" type="image/png"/>
+      <pubDate>Fri, 23 Dec 2022 06:30:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
