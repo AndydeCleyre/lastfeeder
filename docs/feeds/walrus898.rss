@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Dec 2022 01:23:19 +0000</lastBuildDate>
-    <item>
-      <title>Andy Williams - It's the Most Wonderful Time of the Year (14 plays)</title>
-      <link>https://www.last.fm/music/Andy+Williams/_/It%27s+the+Most+Wonderful+Time+of+the+Year</link>
-      <guid isPermaLink="false">walrus898-1671299307--499beb76-d760-42da-8585-367601932e2d---It's the Most Wonderful Time of the Year</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06ff9a7878e30cc92f34e41190cd7bb4.jpg" length="19535" type="image/jpeg"/>
-      <pubDate>Sat, 17 Dec 2022 12:48:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kelly Clarkson - Underneath the Tree (4 plays)</title>
-      <link>https://www.last.fm/music/Kelly+Clarkson/_/Underneath+the+Tree</link>
-      <guid isPermaLink="false">walrus898-1671299459--d339efbb-77b9-4147-ba9e-59f2f24550b2---Underneath the Tree</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afd2dff4621149d085e1aa612fa80ff5.png" length="179258" type="image/png"/>
-      <pubDate>Sat, 17 Dec 2022 12:50:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Dec 2022 02:28:03 +0000</lastBuildDate>
     <item>
       <title>Sia - Snowman (3 plays)</title>
       <link>https://www.last.fm/music/Sia/_/Snowman</link>
@@ -44,7 +30,7 @@
       <pubDate>Sat, 17 Dec 2022 16:58:36 -0500</pubDate>
     </item>
     <item>
-      <title>Josh Groban - Ave Maria (1 play)</title>
+      <title>Josh Groban - Ave Maria (2 plays)</title>
       <link>https://www.last.fm/music/Josh+Groban/_/Ave+Maria</link>
       <guid isPermaLink="false">walrus898-1671314613--12be5b16-915f-44bc-978a-8ddfab235b79---Ave Maria</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a09574200d434ecdce770528a26573ef.png" length="170431" type="image/png"/>
@@ -282,7 +268,7 @@
       <pubDate>Thu, 22 Dec 2022 16:02:59 -0500</pubDate>
     </item>
     <item>
-      <title>Phoenix - Winter Solstice (2 plays)</title>
+      <title>Phoenix - Winter Solstice (3 plays)</title>
       <link>https://www.last.fm/music/Phoenix/_/Winter+Solstice</link>
       <guid isPermaLink="false">walrus898-1671743170--Phoenix---Winter Solstice</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af00fa5488aa387ff15a2545f8511b2c.jpg" length="27526" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">walrus898-1671753763--Phoenix---After Midnight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af00fa5488aa387ff15a2545f8511b2c.jpg" length="27526" type="image/jpeg"/>
       <pubDate>Thu, 22 Dec 2022 19:02:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Phoenix - Winter Solstice (3 plays)</title>
+      <link>https://www.last.fm/music/Phoenix/_/Winter+Solstice</link>
+      <guid isPermaLink="false">walrus898-1671753954--Phoenix---Winter Solstice</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af00fa5488aa387ff15a2545f8511b2c.jpg" length="27526" type="image/jpeg"/>
+      <pubDate>Thu, 22 Dec 2022 19:05:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Josh Groban - Ave Maria (2 plays)</title>
+      <link>https://www.last.fm/music/Josh+Groban/_/Ave+Maria</link>
+      <guid isPermaLink="false">walrus898-1671759641--12be5b16-915f-44bc-978a-8ddfab235b79---Ave Maria</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a09574200d434ecdce770528a26573ef.png" length="170431" type="image/png"/>
+      <pubDate>Thu, 22 Dec 2022 20:40:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
