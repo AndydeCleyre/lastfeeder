@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Dec 2022 06:22:29 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Loving the Alien (122 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
-      <guid isPermaLink="false">Frippertron-1671706457--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
-      <pubDate>Thu, 22 Dec 2022 05:54:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Dead Man Walking (64 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
-      <guid isPermaLink="false">Frippertron-1671706885--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
-      <pubDate>Thu, 22 Dec 2022 06:01:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Dec 2022 06:41:28 +0000</lastBuildDate>
     <item>
       <title>Sparks - This Town Ain't Big Enough For Both Of Us (71 plays)</title>
       <link>https://www.last.fm/music/Sparks/_/This+Town+Ain%27t+Big+Enough+For+Both+Of+Us</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671776037--4b585938-f271-45e2-b19a-91c634b5e396---December Will Be Magic Again</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3f2bb2885aaab4ef238847a8c4cdf7e9.jpg" length="15293" type="image/jpeg"/>
       <pubDate>Fri, 23 Dec 2022 01:13:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Black Country, New Road - Opus (16 plays)</title>
+      <link>https://www.last.fm/music/Black+Country,+New+Road/_/Opus</link>
+      <guid isPermaLink="false">Frippertron-1671776343--e9403d9c-329b-4108-a26f-564159d441d9---Opus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b221fa0cae008b5bb50f889e699b216.png" length="124101" type="image/png"/>
+      <pubDate>Fri, 23 Dec 2022 01:19:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Black Country, New Road - Basketball Shoes (25 plays)</title>
+      <link>https://www.last.fm/music/Black+Country,+New+Road/_/Basketball+Shoes</link>
+      <guid isPermaLink="false">Frippertron-1671776845--e9403d9c-329b-4108-a26f-564159d441d9---Basketball Shoes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b221fa0cae008b5bb50f889e699b216.png" length="124101" type="image/png"/>
+      <pubDate>Fri, 23 Dec 2022 01:27:25 -0500</pubDate>
     </item>
   </channel>
 </rss>
