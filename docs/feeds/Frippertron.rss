@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Dec 2022 07:14:43 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - It Ain't Easy (49 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/It+Ain%27t+Easy</link>
-      <guid isPermaLink="false">Frippertron-1671789971--5441c29d-3602-4898-b1a1-b77fa23b8e50---It Ain't Easy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Fri, 23 Dec 2022 05:06:11 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Lady Stardust (72 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Lady+Stardust</link>
-      <guid isPermaLink="false">Frippertron-1671790153--5441c29d-3602-4898-b1a1-b77fa23b8e50---Lady Stardust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Fri, 23 Dec 2022 05:09:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Dec 2022 07:26:24 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Star (83 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Star</link>
@@ -114,7 +100,7 @@
       <pubDate>Fri, 23 Dec 2022 06:13:39 -0500</pubDate>
     </item>
     <item>
-      <title>Brian Eno - Through Hollow Lands (For Harold Budd) (27 plays)</title>
+      <title>Brian Eno - Through Hollow Lands (For Harold Budd)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/Through+Hollow+Lands+(For+Harold+Budd)</link>
       <guid isPermaLink="false">Frippertron-1671794204--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Through Hollow Lands (For Harold Budd)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3169d4d7ca95457ab3c52dee4fb5447b.png" length="38250" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671865494--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---Ikinokori●Bokura</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c74901bbd29b24489d6208fb70e94a1.jpg" length="14672" type="image/jpeg"/>
       <pubDate>Sat, 24 Dec 2022 02:04:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>青葉市子 - Amatsubu (1 play)</title>
+      <link>https://www.last.fm/music/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/_/Amatsubu</link>
+      <guid isPermaLink="false">Frippertron-1671865955--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---Amatsubu</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c74901bbd29b24489d6208fb70e94a1.jpg" length="14672" type="image/jpeg"/>
+      <pubDate>Sat, 24 Dec 2022 02:12:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>青葉市子 - Sagu Palm's Song (1 play)</title>
+      <link>https://www.last.fm/music/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/_/Sagu+Palm%27s+Song</link>
+      <guid isPermaLink="false">Frippertron-1671866293--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---Sagu Palm's Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c74901bbd29b24489d6208fb70e94a1.jpg" length="14672" type="image/jpeg"/>
+      <pubDate>Sat, 24 Dec 2022 02:18:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
