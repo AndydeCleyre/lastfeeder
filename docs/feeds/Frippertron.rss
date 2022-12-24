@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Dec 2022 23:17:22 +0000</lastBuildDate>
-    <item>
-      <title>Joni Mitchell - Raised on Robbery (15 plays)</title>
-      <link>https://www.last.fm/music/Joni+Mitchell/_/Raised+on+Robbery</link>
-      <guid isPermaLink="false">Frippertron-1671782599--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---Raised on Robbery</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb20c8ffe720ef20a8b420a395730374.jpg" length="5936" type="image/jpeg"/>
-      <pubDate>Fri, 23 Dec 2022 03:03:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Joni Mitchell - Trouble Child (18 plays)</title>
-      <link>https://www.last.fm/music/Joni+Mitchell/_/Trouble+Child</link>
-      <guid isPermaLink="false">Frippertron-1671782789--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---Trouble Child</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb20c8ffe720ef20a8b420a395730374.jpg" length="5936" type="image/jpeg"/>
-      <pubDate>Fri, 23 Dec 2022 03:06:29 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Dec 2022 05:27:56 +0000</lastBuildDate>
     <item>
       <title>Joni Mitchell - Twisted (17 plays)</title>
       <link>https://www.last.fm/music/Joni+Mitchell/_/Twisted</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671796161--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The Venus Of The Soup Kitchen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
       <pubDate>Fri, 23 Dec 2022 06:49:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Scott Walker - Free again (1 play)</title>
+      <link>https://www.last.fm/music/Scott+Walker/_/Free+again</link>
+      <guid isPermaLink="false">Frippertron-1671859049--Scott Walker---Free again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 24 Dec 2022 00:17:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Scott Walker - I Get Along Without You Very Well (1 play)</title>
+      <link>https://www.last.fm/music/Scott+Walker/_/I+Get+Along+Without+You+Very+Well</link>
+      <guid isPermaLink="false">Frippertron-1671859343--Scott Walker---I Get Along Without You Very Well</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 24 Dec 2022 00:22:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
