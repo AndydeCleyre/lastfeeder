@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Dec 2022 08:38:46 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Through Hollow Lands (For Harold Budd) (27 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Through+Hollow+Lands+(For+Harold+Budd)</link>
-      <guid isPermaLink="false">Frippertron-1671794204--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Through Hollow Lands (For Harold Budd)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3169d4d7ca95457ab3c52dee4fb5447b.png" length="38250" type="image/png"/>
-      <pubDate>Fri, 23 Dec 2022 06:16:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Brian Eno - Spider and I (27 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Spider+and+I</link>
-      <guid isPermaLink="false">Frippertron-1671794443--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Spider and I</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3169d4d7ca95457ab3c52dee4fb5447b.png" length="38250" type="image/png"/>
-      <pubDate>Fri, 23 Dec 2022 06:20:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Dec 2022 13:37:33 +0000</lastBuildDate>
     <item>
       <title>坂本龍一 - Amore (46 plays)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Amore</link>
@@ -107,14 +93,14 @@
       <pubDate>Sat, 24 Dec 2022 00:42:27 -0500</pubDate>
     </item>
     <item>
-      <title>Scott Walker - It's Raining Today (65 plays)</title>
+      <title>Scott Walker - It's Raining Today (66 plays)</title>
       <link>https://www.last.fm/music/Scott+Walker/_/It%27s+Raining+Today</link>
       <guid isPermaLink="false">Frippertron-1671860809--99524243-dc2e-4bf3-82c0-72395391d21f---It's Raining Today</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
       <pubDate>Sat, 24 Dec 2022 00:46:49 -0500</pubDate>
     </item>
     <item>
-      <title>Scott Walker - Copenhagen (45 plays)</title>
+      <title>Scott Walker - Copenhagen (46 plays)</title>
       <link>https://www.last.fm/music/Scott+Walker/_/Copenhagen</link>
       <guid isPermaLink="false">Frippertron-1671861050--99524243-dc2e-4bf3-82c0-72395391d21f---Copenhagen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1671870512--角松敏生---Heart Dancing</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0172fbfcd8dad5dc0f8645bd208016d7.jpg" length="30900" type="image/jpeg"/>
       <pubDate>Sat, 24 Dec 2022 03:28:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Scott Walker - It's Raining Today (66 plays)</title>
+      <link>https://www.last.fm/music/Scott+Walker/_/It%27s+Raining+Today</link>
+      <guid isPermaLink="false">Frippertron-1671888714--99524243-dc2e-4bf3-82c0-72395391d21f---It's Raining Today</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
+      <pubDate>Sat, 24 Dec 2022 08:31:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Scott Walker - Copenhagen (46 plays)</title>
+      <link>https://www.last.fm/music/Scott+Walker/_/Copenhagen</link>
+      <guid isPermaLink="false">Frippertron-1671888956--99524243-dc2e-4bf3-82c0-72395391d21f---Copenhagen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/388cff3392eb0780c0b1618dee5c94a7.jpg" length="20839" type="image/jpeg"/>
+      <pubDate>Sat, 24 Dec 2022 08:35:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
