@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Dec 2022 19:37:59 +0000</lastBuildDate>
-    <item>
-      <title>Sufjan Stevens - Holy, Holy, Holy (8 plays)</title>
-      <link>https://www.last.fm/music/Sufjan+Stevens/_/Holy,+Holy,+Holy</link>
-      <guid isPermaLink="false">ddgromit-1671850775--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Holy, Holy, Holy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a34fe4e0a23aa07cb18d83cb57929682.jpg" length="32807" type="image/jpeg"/>
-      <pubDate>Fri, 23 Dec 2022 21:59:35 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Ballroom Thieves - (Anywhere but) Home for the Holidays (7 plays)</title>
-      <link>https://www.last.fm/music/The+Ballroom+Thieves/_/(Anywhere+but)+Home+for+the+Holidays</link>
-      <guid isPermaLink="false">ddgromit-1671851005--9ac84c2f-01db-4f05-b20c-7eacfa007fe3---(Anywhere but) Home for the Holidays</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad618d25f9c1f0ba0c136f3e107ce311.jpg" length="20903" type="image/jpeg"/>
-      <pubDate>Fri, 23 Dec 2022 22:03:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Dec 2022 19:52:20 +0000</lastBuildDate>
     <item>
       <title>Handsome and Gretyl - Silent Night (7 plays)</title>
       <link>https://www.last.fm/music/Handsome+and+Gretyl/_/Silent+Night</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1672083125--20244d07-534f-4eff-b4d4-930878889970---I Knew You Were Trouble (Taylor's Version)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a758908e6e86dcecbb199c4b19acb799.jpg" length="18797" type="image/jpeg"/>
       <pubDate>Mon, 26 Dec 2022 14:32:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Taylor Swift - Maroon (8 plays)</title>
+      <link>https://www.last.fm/music/Taylor+Swift/_/Maroon</link>
+      <guid isPermaLink="false">ddgromit-1672083345--20244d07-534f-4eff-b4d4-930878889970---Maroon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4869ca6fef509baf681c1d3d2a797af7.jpg" length="13413" type="image/jpeg"/>
+      <pubDate>Mon, 26 Dec 2022 14:35:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Taylor Swift - Enchanted (14 plays)</title>
+      <link>https://www.last.fm/music/Taylor+Swift/_/Enchanted</link>
+      <guid isPermaLink="false">ddgromit-1672083563--20244d07-534f-4eff-b4d4-930878889970---Enchanted</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9ff4f81e3402e5fdd3c8e85681ad606.jpg" length="28984" type="image/jpeg"/>
+      <pubDate>Mon, 26 Dec 2022 14:39:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
