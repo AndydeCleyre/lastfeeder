@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Dec 2022 20:17:43 +0000</lastBuildDate>
-    <item>
-      <title>Nickelback - Never Gonna Be Alone (3 plays)</title>
-      <link>https://www.last.fm/music/Nickelback/_/Never+Gonna+Be+Alone</link>
-      <guid isPermaLink="false">gameofmetal-1672005203--bc710bcf-8815-42cf-bad2-3f1d12246aeb---Never Gonna Be Alone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3335319d37744aa0bb90ef5d9647a1ed.jpg" length="32157" type="image/jpeg"/>
-      <pubDate>Sun, 25 Dec 2022 16:53:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nickelback - Shakin' Hands (2 plays)</title>
-      <link>https://www.last.fm/music/Nickelback/_/Shakin%27+Hands</link>
-      <guid isPermaLink="false">gameofmetal-1672005430--bc710bcf-8815-42cf-bad2-3f1d12246aeb---Shakin' Hands</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3335319d37744aa0bb90ef5d9647a1ed.jpg" length="32157" type="image/jpeg"/>
-      <pubDate>Sun, 25 Dec 2022 16:57:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Dec 2022 20:37:50 +0000</lastBuildDate>
     <item>
       <title>Nickelback - S.E.X. (2 plays)</title>
       <link>https://www.last.fm/music/Nickelback/_/S.E.X.</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1672171017--b20ef93b-47b0-4ded-9f27-39d38fad0f18---The Wolves of Ossory</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19b52800e28614e3684e2acd0deb05bf.jpg" length="14462" type="image/jpeg"/>
       <pubDate>Tue, 27 Dec 2022 14:56:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wormwitch - Hammer of the Underworld (1 play)</title>
+      <link>https://www.last.fm/music/Wormwitch/_/Hammer+of+the+Underworld</link>
+      <guid isPermaLink="false">gameofmetal-1672171251--b20ef93b-47b0-4ded-9f27-39d38fad0f18---Hammer of the Underworld</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19b52800e28614e3684e2acd0deb05bf.jpg" length="14462" type="image/jpeg"/>
+      <pubDate>Tue, 27 Dec 2022 15:00:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wormwitch - The Crimson Proof (1 play)</title>
+      <link>https://www.last.fm/music/Wormwitch/_/The+Crimson+Proof</link>
+      <guid isPermaLink="false">gameofmetal-1672173197--b20ef93b-47b0-4ded-9f27-39d38fad0f18---The Crimson Proof</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19b52800e28614e3684e2acd0deb05bf.jpg" length="14462" type="image/jpeg"/>
+      <pubDate>Tue, 27 Dec 2022 15:33:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
