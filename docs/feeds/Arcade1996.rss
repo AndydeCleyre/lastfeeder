@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Dec 2022 10:52:33 +0000</lastBuildDate>
-    <item>
-      <title>Depeche Mode - Sister of Night (7 plays)</title>
-      <link>https://www.last.fm/music/Depeche+Mode/_/Sister+of+Night</link>
-      <guid isPermaLink="false">Arcade1996-1672060690--8538e728-ca0b-4321-b7e5-cff6565dd4c0---Sister of Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a50598a3f5fd8b64645df7c983dac218.jpg" length="23066" type="image/jpeg"/>
-      <pubDate>Mon, 26 Dec 2022 08:18:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Depeche Mode - Jazz Thieves (5 plays)</title>
-      <link>https://www.last.fm/music/Depeche+Mode/_/Jazz+Thieves</link>
-      <guid isPermaLink="false">Arcade1996-1672061048--8538e728-ca0b-4321-b7e5-cff6565dd4c0---Jazz Thieves</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a50598a3f5fd8b64645df7c983dac218.jpg" length="23066" type="image/jpeg"/>
-      <pubDate>Mon, 26 Dec 2022 08:24:08 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Dec 2022 14:28:25 +0000</lastBuildDate>
     <item>
       <title>Depeche Mode - Freestate (4 plays)</title>
       <link>https://www.last.fm/music/Depeche+Mode/_/Freestate</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1672137596--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---You Love Us - Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14e15b63933cd444a3169e3ee5862b0d.jpg" length="18592" type="image/jpeg"/>
       <pubDate>Tue, 27 Dec 2022 05:39:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Opus III - It's a Fine Day (1 play)</title>
+      <link>https://www.last.fm/music/Opus+III/_/It%27s+a+Fine+Day</link>
+      <guid isPermaLink="false">Arcade1996-1672150459--919bac95-5e4f-44a7-be71-231d8230b10e---It's a Fine Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6824c9af21108cfd5e458118690875e.png" length="213781" type="image/png"/>
+      <pubDate>Tue, 27 Dec 2022 09:14:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Indochine - Tes Yeux Noirs (1 play)</title>
+      <link>https://www.last.fm/music/Indochine/_/Tes+Yeux+Noirs</link>
+      <guid isPermaLink="false">Arcade1996-1672150790--076caf66-1bb1-4486-8f46-910c83441eab---Tes Yeux Noirs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3fcb1bdec7b43578744b9ae5293fcc1.jpg" length="24838" type="image/jpeg"/>
+      <pubDate>Tue, 27 Dec 2022 09:19:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
