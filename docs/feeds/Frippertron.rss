@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Dec 2022 05:16:17 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Something Wicked This Way Comes (124 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Something+Wicked+This+Way+Comes</link>
-      <guid isPermaLink="false">Frippertron-1672129132--66f8692c-966d-4dfb-a2ed-babf51241922---Something Wicked This Way Comes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Tue, 27 Dec 2022 03:18:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Dec 2022 05:37:32 +0000</lastBuildDate>
     <item>
       <title>The Enid - Fand (35 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Fand</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1672203716--24750b27-fa3d-41e0-8ea3-0307190e647f---March Of Progress</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac2261a6273645754105aab2ee928ef1.jpg" length="16364" type="image/jpeg"/>
       <pubDate>Wed, 28 Dec 2022 00:01:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Viet Cong - Death (55 plays)</title>
+      <link>https://www.last.fm/music/Viet+Cong/_/Death</link>
+      <guid isPermaLink="false">Frippertron-1672205182--24750b27-fa3d-41e0-8ea3-0307190e647f---Death</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac2261a6273645754105aab2ee928ef1.jpg" length="16364" type="image/jpeg"/>
+      <pubDate>Wed, 28 Dec 2022 00:26:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
