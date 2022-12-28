@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Dec 2022 05:37:32 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Fand (35 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Fand</link>
-      <guid isPermaLink="false">Frippertron-1672129733--66f8692c-966d-4dfb-a2ed-babf51241922---Fand</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Tue, 27 Dec 2022 03:28:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Mockingbird (5 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Mockingbird</link>
-      <guid isPermaLink="false">Frippertron-1672130784--66f8692c-966d-4dfb-a2ed-babf51241922---Mockingbird</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Tue, 27 Dec 2022 03:46:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Dec 2022 05:52:31 +0000</lastBuildDate>
     <item>
       <title>The Delgados - The Light Before We Land (1 play)</title>
       <link>https://www.last.fm/music/The+Delgados/_/The+Light+Before+We+Land</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672205182--24750b27-fa3d-41e0-8ea3-0307190e647f---Death</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac2261a6273645754105aab2ee928ef1.jpg" length="16364" type="image/jpeg"/>
       <pubDate>Wed, 28 Dec 2022 00:26:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kahondo Style - The Spree (1 play)</title>
+      <link>https://www.last.fm/music/Kahondo+Style/_/The+Spree</link>
+      <guid isPermaLink="false">Frippertron-1672205887--6b15328b-b248-42f7-99cc-02292dc47234---The Spree</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3554392a0c1429695639a1b8bd458a4.jpg" length="34098" type="image/jpeg"/>
+      <pubDate>Wed, 28 Dec 2022 00:38:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kahondo Style - Survival (1 play)</title>
+      <link>https://www.last.fm/music/Kahondo+Style/_/Survival</link>
+      <guid isPermaLink="false">Frippertron-1672206181--6b15328b-b248-42f7-99cc-02292dc47234---Survival</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3554392a0c1429695639a1b8bd458a4.jpg" length="34098" type="image/jpeg"/>
+      <pubDate>Wed, 28 Dec 2022 00:43:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
