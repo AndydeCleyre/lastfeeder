@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 11:38:26 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Beauty and the Beast (136 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
-      <guid isPermaLink="false">Frippertron-1672291725--5441c29d-3602-4898-b1a1-b77fa23b8e50---Beauty and the Beast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Thu, 29 Dec 2022 00:28:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Dec 2022 11:52:32 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Joe the Lion (59 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Joe+the+Lion</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1672313494--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Happy With What You Have to Be Happy With</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 29 Dec 2022 06:31:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthony Shakir - Roaming (1 play)</title>
+      <link>https://www.last.fm/music/Anthony+Shakir/_/Roaming</link>
+      <guid isPermaLink="false">Frippertron-1672313843--42912a98-d35b-49b7-a0ee-8b9f5178f09c---Roaming</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f990603a4e3d30bd781d09d7f94ee57.jpg" length="19071" type="image/jpeg"/>
+      <pubDate>Thu, 29 Dec 2022 06:37:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
