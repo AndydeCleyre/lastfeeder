@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 04:53:19 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - 665 The Great Bean (51 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/665+The+Great+Bean</link>
-      <guid isPermaLink="false">Frippertron-1672215735--66f8692c-966d-4dfb-a2ed-babf51241922---665 The Great Bean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbca9ddde60549a3c91a1bf7ca73f23b.png" length="142754" type="image/png"/>
-      <pubDate>Wed, 28 Dec 2022 03:22:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - The Hall Of Mirrors (1 play)</title>
-      <link>https://www.last.fm/music/The+Enid/_/The+Hall+Of+Mirrors</link>
-      <guid isPermaLink="false">Frippertron-1672216032--66f8692c-966d-4dfb-a2ed-babf51241922---The Hall Of Mirrors</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbca9ddde60549a3c91a1bf7ca73f23b.png" length="142754" type="image/png"/>
-      <pubDate>Wed, 28 Dec 2022 03:27:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - The Dreamer (49 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/The+Dreamer</link>
-      <guid isPermaLink="false">Frippertron-1672216349--66f8692c-966d-4dfb-a2ed-babf51241922---The Dreamer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbca9ddde60549a3c91a1bf7ca73f23b.png" length="142754" type="image/png"/>
-      <pubDate>Wed, 28 Dec 2022 03:32:29 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Dec 2022 05:16:51 +0000</lastBuildDate>
     <item>
       <title>The Enid - Mayday Galliard (194 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
@@ -198,7 +177,7 @@
       <pubDate>Wed, 28 Dec 2022 05:37:06 -0500</pubDate>
     </item>
     <item>
-      <title>Deerhunter - Helicopter (35 plays)</title>
+      <title>Deerhunter - Helicopter (36 plays)</title>
       <link>https://www.last.fm/music/Deerhunter/_/Helicopter</link>
       <guid isPermaLink="false">Frippertron-1672224239--4f416ed7-dda2-45de-a6f1-b986e861cf4b---Helicopter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70a35c54fb2d4b75b0febce9614ccf6d.png" length="101547" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1672289273--66f8692c-966d-4dfb-a2ed-babf51241922---Golden Earrings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
       <pubDate>Wed, 28 Dec 2022 23:47:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Fool (72 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Fool</link>
+      <guid isPermaLink="false">Frippertron-1672289532--66f8692c-966d-4dfb-a2ed-babf51241922---Fool</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
+      <pubDate>Wed, 28 Dec 2022 23:52:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - 665 The Great Bean (52 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/665+The+Great+Bean</link>
+      <guid isPermaLink="false">Frippertron-1672289729--66f8692c-966d-4dfb-a2ed-babf51241922---665 The Great Bean</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
+      <pubDate>Wed, 28 Dec 2022 23:55:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Deerhunter - Helicopter (36 plays)</title>
+      <link>https://www.last.fm/music/Deerhunter/_/Helicopter</link>
+      <guid isPermaLink="false">Frippertron-1672289980--4f416ed7-dda2-45de-a6f1-b986e861cf4b---Helicopter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70a35c54fb2d4b75b0febce9614ccf6d.png" length="101547" type="image/png"/>
+      <pubDate>Wed, 28 Dec 2022 23:59:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
