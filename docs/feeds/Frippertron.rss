@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 03:19:31 +0000</lastBuildDate>
-    <item>
-      <title>Kahondo Style - Jenny McNeilly (1 play)</title>
-      <link>https://www.last.fm/music/Kahondo+Style/_/Jenny+McNeilly</link>
-      <guid isPermaLink="false">Frippertron-1672206710--6b15328b-b248-42f7-99cc-02292dc47234---Jenny McNeilly</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3554392a0c1429695639a1b8bd458a4.jpg" length="34098" type="image/jpeg"/>
-      <pubDate>Wed, 28 Dec 2022 00:51:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Accept - Balls to the Wall (13 plays)</title>
-      <link>https://www.last.fm/music/Accept/_/Balls+to+the+Wall</link>
-      <guid isPermaLink="false">Frippertron-1672206968--41f4d85a-0bd7-4602-a3e3-8c47f36efb0a---Balls to the Wall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e732529e2f063d6c934bfb0d24d9c5e.png" length="105611" type="image/png"/>
-      <pubDate>Wed, 28 Dec 2022 00:56:08 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Dec 2022 03:38:37 +0000</lastBuildDate>
     <item>
       <title>Movietone - Hydra (1 play)</title>
       <link>https://www.last.fm/music/Movietone/_/Hydra</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672283740--7d6fa35a-5bd1-4379-bb26-4ffa8c561e0e---Fire in the Head</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
       <pubDate>Wed, 28 Dec 2022 22:15:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Morgan - The Sleeper Wakes (35 plays)</title>
+      <link>https://www.last.fm/music/Morgan/_/The+Sleeper+Wakes</link>
+      <guid isPermaLink="false">Frippertron-1672284042--7d6fa35a-5bd1-4379-bb26-4ffa8c561e0e---The Sleeper Wakes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
+      <pubDate>Wed, 28 Dec 2022 22:20:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Morgan - The Right (30 plays)</title>
+      <link>https://www.last.fm/music/Morgan/_/The+Right</link>
+      <guid isPermaLink="false">Frippertron-1672284416--7d6fa35a-5bd1-4379-bb26-4ffa8c561e0e---The Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
+      <pubDate>Wed, 28 Dec 2022 22:26:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
