@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Dec 2022 05:15:58 +0000</lastBuildDate>
-    <item>
-      <title>Taylor Swift - Enchanted (14 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Enchanted</link>
-      <guid isPermaLink="false">ddgromit-1672083563--20244d07-534f-4eff-b4d4-930878889970---Enchanted</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9ff4f81e3402e5fdd3c8e85681ad606.jpg" length="28984" type="image/jpeg"/>
-      <pubDate>Mon, 26 Dec 2022 14:39:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Taylor Swift - All Too Well (10 Minute Version) (Taylor's Version) (From the Vault) (16 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/All+Too+Well+(10+Minute+Version)+(Taylor%27s+Version)+(From+the+Vault)</link>
-      <guid isPermaLink="false">ddgromit-1672083916--20244d07-534f-4eff-b4d4-930878889970---All Too Well (10 Minute Version) (Taylor's Version) (From the Vault)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a758908e6e86dcecbb199c4b19acb799.jpg" length="18797" type="image/jpeg"/>
-      <pubDate>Mon, 26 Dec 2022 14:45:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Dec 2022 05:38:00 +0000</lastBuildDate>
     <item>
       <title>Taylor Swift - Karma (5 plays)</title>
       <link>https://www.last.fm/music/Taylor+Swift/_/Karma</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1672377093--Baby Nursery Rhymes---Twinkle Twinkle Little Star</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 30 Dec 2022 00:11:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Michael Kiwanuka - Love &amp; Hate (5 plays)</title>
+      <link>https://www.last.fm/music/Michael+Kiwanuka/_/Love+&amp;+Hate</link>
+      <guid isPermaLink="false">ddgromit-1672377225--11f570ff-44d9-4e9c-8812-e6d56103c5c1---Love &amp; Hate</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c449921d37c5705e06939c30442b374.png" length="103000" type="image/png"/>
+      <pubDate>Fri, 30 Dec 2022 00:13:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Klyne - Water Flow (5 plays)</title>
+      <link>https://www.last.fm/music/Klyne/_/Water+Flow</link>
+      <guid isPermaLink="false">ddgromit-1672377652--0b58106c-e4e1-4b84-bf93-ee8364bff0a2---Water Flow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4bcaa691975fc224d79eea30cf0b20a.jpg" length="20308" type="image/jpeg"/>
+      <pubDate>Fri, 30 Dec 2022 00:20:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
