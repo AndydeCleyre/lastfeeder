@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 11:52:32 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Joe the Lion (59 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Joe+the+Lion</link>
-      <guid isPermaLink="false">Frippertron-1672291947--5441c29d-3602-4898-b1a1-b77fa23b8e50---Joe the Lion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Thu, 29 Dec 2022 00:32:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - "Heroes" (114 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/%22Heroes%22</link>
-      <guid isPermaLink="false">Frippertron-1672292137--5441c29d-3602-4898-b1a1-b77fa23b8e50---"Heroes"</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Thu, 29 Dec 2022 00:35:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Dec 2022 03:19:32 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Don't Sing (45 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Don%27t+Sing</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672313843--42912a98-d35b-49b7-a0ee-8b9f5178f09c---Roaming</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f990603a4e3d30bd781d09d7f94ee57.jpg" length="19071" type="image/jpeg"/>
       <pubDate>Thu, 29 Dec 2022 06:37:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Sign In Stranger (35 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Sign+In+Stranger</link>
+      <guid isPermaLink="false">Frippertron-1672369774--e01c3376-15fa-40d7-b747-5f219bdefdd7---Sign In Stranger</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
+      <pubDate>Thu, 29 Dec 2022 22:09:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Haitian Divorce (18 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Haitian+Divorce</link>
+      <guid isPermaLink="false">Frippertron-1672370090--e01c3376-15fa-40d7-b747-5f219bdefdd7---Haitian Divorce</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
+      <pubDate>Thu, 29 Dec 2022 22:14:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
