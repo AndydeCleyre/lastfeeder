@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Dec 2022 10:18:28 +0000</lastBuildDate>
-    <item>
-      <title>Jobriath - Rock of Ages (34 plays)</title>
-      <link>https://www.last.fm/music/Jobriath/_/Rock+of+Ages</link>
-      <guid isPermaLink="false">Frippertron-1672376131--2803b905-fe99-4071-ac2e-f4bf94ce6fb8---Rock of Ages</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84984ef176f741f5a4eff942e3e091d2.png" length="161953" type="image/png"/>
-      <pubDate>Thu, 29 Dec 2022 23:55:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Neal and Jack and Me (83 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Neal+and+Jack+and+Me</link>
-      <guid isPermaLink="false">Frippertron-1672376445--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Neal and Jack and Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 30 Dec 2022 00:00:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Dec 2022 10:38:39 +0000</lastBuildDate>
     <item>
       <title>Tubeway Army - Me! I Disconnect From You (1 play)</title>
       <link>https://www.last.fm/music/Tubeway+Army/_/Me!+I+Disconnect+From+You</link>
@@ -65,7 +51,7 @@
       <pubDate>Fri, 30 Dec 2022 00:46:00 -0500</pubDate>
     </item>
     <item>
-      <title>Kate Bush - Sat in Your Lap (63 plays)</title>
+      <title>Kate Bush - Sat in Your Lap</title>
       <link>https://www.last.fm/music/Kate+Bush/_/Sat+in+Your+Lap</link>
       <guid isPermaLink="false">Frippertron-1672379368--4b585938-f271-45e2-b19a-91c634b5e396---Sat in Your Lap</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672395000--66f8692c-966d-4dfb-a2ed-babf51241922---Spring</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbba8b5c8ccb4703856a15e756fc44a0.jpg" length="13781" type="image/jpeg"/>
       <pubDate>Fri, 30 Dec 2022 05:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Summer (82 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Summer</link>
+      <guid isPermaLink="false">Frippertron-1672395414--66f8692c-966d-4dfb-a2ed-babf51241922---Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbba8b5c8ccb4703856a15e756fc44a0.jpg" length="13781" type="image/jpeg"/>
+      <pubDate>Fri, 30 Dec 2022 05:16:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Autumn "Veni Creator Spiritus" (39 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Autumn+%22Veni+Creator+Spiritus%22</link>
+      <guid isPermaLink="false">Frippertron-1672396241--66f8692c-966d-4dfb-a2ed-babf51241922---Autumn "Veni Creator Spiritus"</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbba8b5c8ccb4703856a15e756fc44a0.jpg" length="13781" type="image/jpeg"/>
+      <pubDate>Fri, 30 Dec 2022 05:30:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
