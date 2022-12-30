@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Dec 2022 08:39:02 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Prelude (92 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Prelude</link>
-      <guid isPermaLink="false">Frippertron-1672371329--66f8692c-966d-4dfb-a2ed-babf51241922---Prelude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99a1983dce9646368d796b1d749eee9e.jpg" length="20048" type="image/jpeg"/>
-      <pubDate>Thu, 29 Dec 2022 22:35:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Mayday Galliard (196 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
-      <guid isPermaLink="false">Frippertron-1672371410--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99a1983dce9646368d796b1d749eee9e.jpg" length="20048" type="image/jpeg"/>
-      <pubDate>Thu, 29 Dec 2022 22:36:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Dec 2022 08:52:29 +0000</lastBuildDate>
     <item>
       <title>The Enid - Raindown (160 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Raindown</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672389337--5eecaf18-02ec-47af-a4f2-7831db373419---Hammer to Fall</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
       <pubDate>Fri, 30 Dec 2022 03:35:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - Flesh (27 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/Flesh</link>
+      <guid isPermaLink="false">Frippertron-1672389638--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Flesh</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22428b99ae6eaf64823abbdef76f0255.jpg" length="4910" type="image/jpeg"/>
+      <pubDate>Fri, 30 Dec 2022 03:40:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Todd Rundgren - Healing (part I) (33 plays)</title>
+      <link>https://www.last.fm/music/Todd+Rundgren/_/Healing+(part+I)</link>
+      <guid isPermaLink="false">Frippertron-1672389879--Todd Rundgren---Healing (part I)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22428b99ae6eaf64823abbdef76f0255.jpg" length="4910" type="image/jpeg"/>
+      <pubDate>Fri, 30 Dec 2022 03:44:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
