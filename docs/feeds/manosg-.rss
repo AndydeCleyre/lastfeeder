@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 19:13:46 +0000</lastBuildDate>
-    <item>
-      <title>Iron Maiden - Purgatory - 2015 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Purgatory+-+2015+Remaster</link>
-      <guid isPermaLink="false">manosg--1672166262--Iron Maiden---Purgatory - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c903f39a5f183e710212477bac6633f5.png" length="213360" type="image/png"/>
-      <pubDate>Tue, 27 Dec 2022 13:37:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Dec 2022 11:26:35 +0000</lastBuildDate>
     <item>
       <title>Iron Maiden - Drifter - 2015 Remaster (1 play)</title>
       <link>https://www.last.fm/music/Iron+Maiden/_/Drifter+-+2015+Remaster</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1672340622--6605c2c6-f115-486c-8b1a-b786882de463---Jack And Jill</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b562a5f40cba417195f2f489f16d4f8b.jpg" length="14581" type="image/jpeg"/>
       <pubDate>Thu, 29 Dec 2022 14:03:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cactus - Let Me Swim (2 plays)</title>
+      <link>https://www.last.fm/music/Cactus/_/Let+Me+Swim</link>
+      <guid isPermaLink="false">manosg--1672340788--Cactus---Let Me Swim</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18a226175af74c5d90ed080b7fbd2689.png" length="162676" type="image/png"/>
+      <pubDate>Thu, 29 Dec 2022 14:06:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
