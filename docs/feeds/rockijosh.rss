@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Dec 2022 23:37:35 +0000</lastBuildDate>
-    <item>
-      <title>Kacey Musgraves - breadwinner (17 plays)</title>
-      <link>https://www.last.fm/music/Kacey+Musgraves/_/breadwinner</link>
-      <guid isPermaLink="false">rockijosh-1672421961--d1393ecb-431b-4fde-a6ea-d769f2f040cb---breadwinner</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3af52505864e49cd76f36b4cae4111e.jpg" length="13551" type="image/jpeg"/>
-      <pubDate>Fri, 30 Dec 2022 12:39:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>PUP - Totally Fine (34 plays)</title>
-      <link>https://www.last.fm/music/PUP/_/Totally+Fine</link>
-      <guid isPermaLink="false">rockijosh-1672422161--3165f5e0-44ff-446a-81d7-c09ec69661ae---Totally Fine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eeb85295cf967a44f147a4bb13ab1327.jpg" length="32569" type="image/jpeg"/>
-      <pubDate>Fri, 30 Dec 2022 12:42:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Dec 2022 23:52:22 +0000</lastBuildDate>
     <item>
       <title>JJ Lin - Lose Control (7 plays)</title>
       <link>https://www.last.fm/music/JJ+Lin/_/Lose+Control</link>
@@ -331,7 +317,7 @@
       <pubDate>Fri, 30 Dec 2022 18:18:59 -0500</pubDate>
     </item>
     <item>
-      <title>The Sounds - Night After Night (55 plays)</title>
+      <title>The Sounds - Night After Night (56 plays)</title>
       <link>https://www.last.fm/music/The+Sounds/_/Night+After+Night</link>
       <guid isPermaLink="false">rockijosh-1672442541--The Sounds---Night After Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c8d695e5ee34a97b023f0f75cc42d97.png" length="173074" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1672443198--The Sounds---Much Too Long</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c8d695e5ee34a97b023f0f75cc42d97.png" length="173074" type="image/png"/>
       <pubDate>Fri, 30 Dec 2022 18:33:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Sounds - Running Out of Turbo (19 plays)</title>
+      <link>https://www.last.fm/music/The+Sounds/_/Running+Out+of+Turbo</link>
+      <guid isPermaLink="false">rockijosh-1672443388--The Sounds---Running Out of Turbo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c8d695e5ee34a97b023f0f75cc42d97.png" length="173074" type="image/png"/>
+      <pubDate>Fri, 30 Dec 2022 18:36:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Sounds - Night After Night (56 plays)</title>
+      <link>https://www.last.fm/music/The+Sounds/_/Night+After+Night</link>
+      <guid isPermaLink="false">rockijosh-1672443557--The Sounds---Night After Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c8d695e5ee34a97b023f0f75cc42d97.png" length="173074" type="image/png"/>
+      <pubDate>Fri, 30 Dec 2022 18:39:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
