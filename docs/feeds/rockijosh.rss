@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Dec 2022 23:37:50 +0000</lastBuildDate>
-    <item>
-      <title>Caroline Polachek - Sunset (25 plays)</title>
-      <link>https://www.last.fm/music/Caroline+Polachek/_/Sunset</link>
-      <guid isPermaLink="false">rockijosh-1672466259--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Sunset</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4bc4106e849c1d1926bb66ae6536c980.jpg" length="11836" type="image/jpeg"/>
-      <pubDate>Sat, 31 Dec 2022 00:57:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Coheed and Cambria - The Liars Club (49 plays)</title>
-      <link>https://www.last.fm/music/Coheed+and+Cambria/_/The+Liars+Club</link>
-      <guid isPermaLink="false">rockijosh-1672466423--ae1b47d5-5128-431c-9d30-e08fd90e0767---The Liars Club</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/343bd4f2d53d0b2a603a64945565b2bb.jpg" length="30587" type="image/jpeg"/>
-      <pubDate>Sat, 31 Dec 2022 01:00:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Magnolia Park - Don't Be Racist (30 plays)</title>
-      <link>https://www.last.fm/music/Magnolia+Park/_/Don%27t+Be+Racist</link>
-      <guid isPermaLink="false">rockijosh-1672466652--e2d4b394-a2cc-4848-bb15-e5b7c55cc059---Don't Be Racist</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9293267b8146131b9b7c19d24fa3176.jpg" length="10453" type="image/jpeg"/>
-      <pubDate>Sat, 31 Dec 2022 01:04:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 Dec 2022 23:52:29 +0000</lastBuildDate>
     <item>
       <title>Masked Wolf - Jenny I’m Sorry (feat. Alex Gaskarth From All Time Low) (35 plays)</title>
       <link>https://www.last.fm/music/Masked+Wolf/_/Jenny+I%E2%80%99m+Sorry+(feat.+Alex+Gaskarth+From+All+Time+Low)</link>
@@ -37,7 +16,7 @@
       <pubDate>Sat, 31 Dec 2022 01:07:27 -0500</pubDate>
     </item>
     <item>
-      <title>Fickle Friends - Pretty Great</title>
+      <title>Fickle Friends - Pretty Great (28 plays)</title>
       <link>https://www.last.fm/music/Fickle+Friends/_/Pretty+Great</link>
       <guid isPermaLink="false">rockijosh-1672467018--2520d6eb-fe07-4403-bb99-7f7bfd68b701---Pretty Great</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/812b515b245eb8e618c50354b8a6b270.jpg" length="29122" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">rockijosh-1672529128--677e31f1-4035-463c-8ca4-41175440c919---Western Nights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22d11bc36e414094b227486963fe05f1.jpg" length="11690" type="image/jpeg"/>
       <pubDate>Sat, 31 Dec 2022 18:25:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ethel Cain - Family Tree (11 plays)</title>
+      <link>https://www.last.fm/music/Ethel+Cain/_/Family+Tree</link>
+      <guid isPermaLink="false">rockijosh-1672529495--677e31f1-4035-463c-8ca4-41175440c919---Family Tree</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22d11bc36e414094b227486963fe05f1.jpg" length="11690" type="image/jpeg"/>
+      <pubDate>Sat, 31 Dec 2022 18:31:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ethel Cain - Hard Times</title>
+      <link>https://www.last.fm/music/Ethel+Cain/_/Hard+Times</link>
+      <guid isPermaLink="false">rockijosh-1672529927--677e31f1-4035-463c-8ca4-41175440c919---Hard Times</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22d11bc36e414094b227486963fe05f1.jpg" length="11690" type="image/jpeg"/>
+      <pubDate>Sat, 31 Dec 2022 18:38:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ethel Cain - Thoroughfare (8 plays)</title>
+      <link>https://www.last.fm/music/Ethel+Cain/_/Thoroughfare</link>
+      <guid isPermaLink="false">rockijosh-1672530233--677e31f1-4035-463c-8ca4-41175440c919---Thoroughfare</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22d11bc36e414094b227486963fe05f1.jpg" length="11690" type="image/jpeg"/>
+      <pubDate>Sat, 31 Dec 2022 18:43:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
