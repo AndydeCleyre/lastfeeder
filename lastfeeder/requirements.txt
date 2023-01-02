@@ -24,7 +24,7 @@ idna==3.4
     #   rfc3986
 lxml==4.9.2
     # via feedgen
-plumbum==1.8.0
+plumbum==1.8.1
     # via -r requirements.in
 python-dateutil==2.8.2
     # via
