@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Jan 2023 01:44:21 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - Lucky Guy (14 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Lucky+Guy</link>
-      <guid isPermaLink="false">Frippertron-1672383147--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Lucky Guy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48a4bd7cd981f406baa04f4452dfc53d.jpg" length="19228" type="image/jpeg"/>
-      <pubDate>Fri, 30 Dec 2022 01:52:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Jan 2023 03:19:07 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Out Of Control (9 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Out+Of+Control</link>
@@ -296,7 +289,7 @@
       <pubDate>Sat, 31 Dec 2022 18:58:37 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Childe Roland (37 plays)</title>
+      <title>The Enid - Childe Roland (38 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Childe+Roland</link>
       <guid isPermaLink="false">Frippertron-1672531910--66f8692c-966d-4dfb-a2ed-babf51241922---Childe Roland</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1672536634--66f8692c-966d-4dfb-a2ed-babf51241922---Something Wicked This Way Comes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
       <pubDate>Sat, 31 Dec 2022 20:30:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Childe Roland (38 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Childe+Roland</link>
+      <guid isPermaLink="false">Frippertron-1672629093--66f8692c-966d-4dfb-a2ed-babf51241922---Childe Roland</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
+      <pubDate>Sun, 01 Jan 2023 22:11:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
