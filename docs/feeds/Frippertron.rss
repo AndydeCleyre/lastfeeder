@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jan 2023 03:38:31 +0000</lastBuildDate>
-    <item>
-      <title>Come September - Realisation (69 plays)</title>
-      <link>https://www.last.fm/music/Come+September/_/Realisation</link>
-      <guid isPermaLink="false">Frippertron-1672383727--Come September---Realisation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
-      <pubDate>Fri, 30 Dec 2022 02:02:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Jan 2023 03:52:55 +0000</lastBuildDate>
     <item>
       <title>Come September - Realisation (69 plays)</title>
       <link>https://www.last.fm/music/Come+September/_/Realisation</link>
@@ -23,7 +16,7 @@
       <pubDate>Fri, 30 Dec 2022 02:05:41 -0500</pubDate>
     </item>
     <item>
-      <title>Come September - Here Comes Heaven (41 plays)</title>
+      <title>Come September - Here Comes Heaven</title>
       <link>https://www.last.fm/music/Come+September/_/Here+Comes+Heaven</link>
       <guid isPermaLink="false">Frippertron-1672387562--Come September---Here Comes Heaven</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
@@ -93,7 +86,7 @@
       <pubDate>Fri, 30 Dec 2022 03:44:39 -0500</pubDate>
     </item>
     <item>
-      <title>Todd Rundgren - Healing (part II)</title>
+      <title>Todd Rundgren - Healing (part II) (30 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Healing+(part+II)</link>
       <guid isPermaLink="false">Frippertron-1672390325--Todd Rundgren---Healing (part II)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22428b99ae6eaf64823abbdef76f0255.jpg" length="4910" type="image/jpeg"/>
@@ -191,7 +184,7 @@
       <pubDate>Fri, 30 Dec 2022 05:10:00 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Summer (83 plays)</title>
+      <title>The Enid - Summer (84 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Summer</link>
       <guid isPermaLink="false">Frippertron-1672395414--66f8692c-966d-4dfb-a2ed-babf51241922---Summer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbba8b5c8ccb4703856a15e756fc44a0.jpg" length="13781" type="image/jpeg"/>
@@ -303,7 +296,7 @@
       <pubDate>Sat, 31 Dec 2022 19:44:20 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Summer (83 plays)</title>
+      <title>The Enid - Summer (84 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Summer</link>
       <guid isPermaLink="false">Frippertron-1672534643--66f8692c-966d-4dfb-a2ed-babf51241922---Summer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1672629829--The Enid---The Last Judgement/In The Region Of The Summer Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
       <pubDate>Sun, 01 Jan 2023 22:23:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Summer (84 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Summer</link>
+      <guid isPermaLink="false">Frippertron-1672630912--66f8692c-966d-4dfb-a2ed-babf51241922---Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
+      <pubDate>Sun, 01 Jan 2023 22:41:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
