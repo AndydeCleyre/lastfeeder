@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jan 2023 10:18:37 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Childe Roland (38 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Childe+Roland</link>
-      <guid isPermaLink="false">Frippertron-1672629093--66f8692c-966d-4dfb-a2ed-babf51241922---Childe Roland</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
-      <pubDate>Sun, 01 Jan 2023 22:11:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Hall Of Mirrors (24 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Hall+Of+Mirrors</link>
-      <guid isPermaLink="false">Frippertron-1672629528--66f8692c-966d-4dfb-a2ed-babf51241922---Hall Of Mirrors</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
-      <pubDate>Sun, 01 Jan 2023 22:18:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Jan 2023 10:38:04 +0000</lastBuildDate>
     <item>
       <title>The Enid - The Last Judgement/In The Region Of The Summer Stars (3 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/The+Last+Judgement%2FIn+The+Region+Of+The+Summer+Stars</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672653650--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---T.V. Eye</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1bc149e960d80c3bd55e3920695b663.jpg" length="22393" type="image/jpeg"/>
       <pubDate>Mon, 02 Jan 2023 05:00:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Stooges - Dirt (81 plays)</title>
+      <link>https://www.last.fm/music/The+Stooges/_/Dirt</link>
+      <guid isPermaLink="false">Frippertron-1672655039--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Dirt</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1bc149e960d80c3bd55e3920695b663.jpg" length="22393" type="image/jpeg"/>
+      <pubDate>Mon, 02 Jan 2023 05:23:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Stooges - 1970 (106 plays)</title>
+      <link>https://www.last.fm/music/The+Stooges/_/1970</link>
+      <guid isPermaLink="false">Frippertron-1672655465--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---1970</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1bc149e960d80c3bd55e3920695b663.jpg" length="22393" type="image/jpeg"/>
+      <pubDate>Mon, 02 Jan 2023 05:31:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
