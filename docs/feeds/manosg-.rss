@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jan 2023 12:33:24 +0000</lastBuildDate>
-    <item>
-      <title>Rainbow - Self Portrait (18 plays)</title>
-      <link>https://www.last.fm/music/Rainbow/_/Self+Portrait</link>
-      <guid isPermaLink="false">manosg--1672509684--Rainbow---Self Portrait</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/09628988f5ed4ec588978aab1ca70394.png" length="195780" type="image/png"/>
-      <pubDate>Sat, 31 Dec 2022 13:01:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Jan 2023 16:23:53 +0000</lastBuildDate>
     <item>
       <title>Rainbow - Black Sheep of the Family (18 plays)</title>
       <link>https://www.last.fm/music/Rainbow/_/Black+Sheep+of+the+Family</link>
@@ -128,7 +121,7 @@
       <pubDate>Sun, 01 Jan 2023 05:03:09 -0500</pubDate>
     </item>
     <item>
-      <title>Fates Warning - Part IX (1 play)</title>
+      <title>Fates Warning - Part IX</title>
       <link>https://www.last.fm/music/Fates+Warning/_/Part+IX</link>
       <guid isPermaLink="false">manosg--1672573351--17fbada3-6dac-42f3-8a6c-8c1c1484f730---Part IX</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbebb9804750615b17697aea77ea03f3.jpg" length="19673" type="image/jpeg"/>
@@ -184,7 +177,7 @@
       <pubDate>Sun, 01 Jan 2023 10:36:11 -0500</pubDate>
     </item>
     <item>
-      <title>Fates Warning - A Pleasant Shade of Gray, Pt. 5 - Live (1 play)</title>
+      <title>Fates Warning - A Pleasant Shade of Gray, Pt. 5 - Live</title>
       <link>https://www.last.fm/music/Fates+Warning/_/A+Pleasant+Shade+of+Gray,+Pt.+5+-+Live</link>
       <guid isPermaLink="false">manosg--1672587645--Fates Warning---A Pleasant Shade of Gray, Pt. 5 - Live</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c679038381624ea9960517aa191253cf.jpg" length="14401" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1672660512--9d30e408-1559-448b-b491-2f8de1583ccf---Silence, And The Firmament Withdrew</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7f9f9f2f6c16ee4dd793580ce4b6713.png" length="231464" type="image/png"/>
       <pubDate>Mon, 02 Jan 2023 06:55:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dark Tranquillity - Edenspring (1 play)</title>
+      <link>https://www.last.fm/music/Dark+Tranquillity/_/Edenspring</link>
+      <guid isPermaLink="false">manosg--1672660670--9d30e408-1559-448b-b491-2f8de1583ccf---Edenspring</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7f9f9f2f6c16ee4dd793580ce4b6713.png" length="231464" type="image/png"/>
+      <pubDate>Mon, 02 Jan 2023 06:57:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
