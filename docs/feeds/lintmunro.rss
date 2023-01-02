@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Dec 2022 23:17:32 +0000</lastBuildDate>
-    <item>
-      <title>Elvis Presley - Blue Christmas (2 plays)</title>
-      <link>https://www.last.fm/music/Elvis+Presley/_/Blue+Christmas</link>
-      <guid isPermaLink="false">lintmunro-1670893912--01809552-4f87-45b0-afff-2c6f0730a3be---Blue Christmas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb8c9c6544521f7610370c92356645fd.png" length="203159" type="image/png"/>
-      <pubDate>Mon, 12 Dec 2022 20:11:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Jan 2023 19:52:18 +0000</lastBuildDate>
     <item>
       <title>Ini Kamoze - All I Want for Christmas (3 plays)</title>
       <link>https://www.last.fm/music/Ini+Kamoze/_/All+I+Want+for+Christmas</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1672083116--1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f---Arntor, a Warrior</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b0464d7ba0e2340a706df420191d4f1.jpg" length="28108" type="image/jpeg"/>
       <pubDate>Mon, 26 Dec 2022 14:31:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Windir - The Burial Mound of King Hydnes (5 plays)</title>
+      <link>https://www.last.fm/music/Windir/_/The+Burial+Mound+of+King+Hydnes</link>
+      <guid isPermaLink="false">lintmunro-1672083639--1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f---The Burial Mound of King Hydnes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b0464d7ba0e2340a706df420191d4f1.jpg" length="28108" type="image/jpeg"/>
+      <pubDate>Mon, 26 Dec 2022 14:40:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
