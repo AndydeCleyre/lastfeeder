@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jan 2023 05:16:11 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Hammer to Fall (27 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Hammer+to+Fall</link>
-      <guid isPermaLink="false">Frippertron-1672389337--5eecaf18-02ec-47af-a4f2-7831db373419---Hammer to Fall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
-      <pubDate>Fri, 30 Dec 2022 03:35:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Jan 2023 05:37:20 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Flesh (27 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Flesh</link>
@@ -247,7 +240,7 @@
       <pubDate>Sat, 31 Dec 2022 19:57:23 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Jessica</title>
+      <title>The Enid - Jessica (72 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Jessica</link>
       <guid isPermaLink="false">Frippertron-1672535650--66f8692c-966d-4dfb-a2ed-babf51241922---Jessica</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1672635456--66f8692c-966d-4dfb-a2ed-babf51241922---Earthborn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
       <pubDate>Sun, 01 Jan 2023 23:57:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Fand (38 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Fand</link>
+      <guid isPermaLink="false">Frippertron-1672635816--66f8692c-966d-4dfb-a2ed-babf51241922---Fand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
+      <pubDate>Mon, 02 Jan 2023 00:03:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
