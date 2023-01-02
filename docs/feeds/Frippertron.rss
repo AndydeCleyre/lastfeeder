@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jan 2023 06:40:57 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - Something To Fall Back On (31 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Something+To+Fall+Back+On</link>
-      <guid isPermaLink="false">Frippertron-1672393202--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Something To Fall Back On</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1572d25de6ecca560c82b52403a14df0.png" length="179206" type="image/png"/>
-      <pubDate>Fri, 30 Dec 2022 04:40:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Jan 2023 06:52:41 +0000</lastBuildDate>
     <item>
       <title>Television - Marquee Moon (143 plays)</title>
       <link>https://www.last.fm/music/Television/_/Marquee+Moon</link>
@@ -79,7 +72,7 @@
       <pubDate>Fri, 30 Dec 2022 06:06:04 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Jessica</title>
+      <title>The Enid - Jessica (72 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Jessica</link>
       <guid isPermaLink="false">Frippertron-1672398699--66f8692c-966d-4dfb-a2ed-babf51241922---Jessica</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7beb227235314766b790c34a39b87261.jpg" length="24491" type="image/jpeg"/>
@@ -219,7 +212,7 @@
       <pubDate>Sun, 01 Jan 2023 22:41:52 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Sheets Of Blue (42 plays)</title>
+      <title>The Enid - Sheets Of Blue</title>
       <link>https://www.last.fm/music/The+Enid/_/Sheets+Of+Blue</link>
       <guid isPermaLink="false">Frippertron-1672631754--66f8692c-966d-4dfb-a2ed-babf51241922---Sheets Of Blue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1672641255--dc5cd3ad-fa36-42e0-acd4-2c9d87f82ea6---Justice Black</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ece27037af5b4e95ce1b67b1d0cb43ad.png" length="220279" type="image/png"/>
       <pubDate>Mon, 02 Jan 2023 01:34:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Mekanik Zain (5 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Mekanik+Zain</link>
+      <guid isPermaLink="false">Frippertron-1672641448--Magma---Mekanik Zain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2437c5a2b424108c11ab7abb4c25e47.jpg" length="11335" type="image/jpeg"/>
+      <pubDate>Mon, 02 Jan 2023 01:37:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
