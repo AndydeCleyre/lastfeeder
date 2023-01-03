@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 13:30:54 +0000</lastBuildDate>
-    <item>
-      <title>Mach-Hommy - Wiz Marquee (1 play)</title>
-      <link>https://www.last.fm/music/Mach-Hommy/_/Wiz+Marquee</link>
-      <guid isPermaLink="false">Arcade1996-1672650972--Mach-Hommy---Wiz Marquee</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d7bace28778d3d990e12a13cba0296b.jpg" length="35724" type="image/jpeg"/>
-      <pubDate>Mon, 02 Jan 2023 04:16:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mach-Hommy - Turbo Tariff (1 play)</title>
-      <link>https://www.last.fm/music/Mach-Hommy/_/Turbo+Tariff</link>
-      <guid isPermaLink="false">Arcade1996-1672651124--Mach-Hommy---Turbo Tariff</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d7bace28778d3d990e12a13cba0296b.jpg" length="35724" type="image/jpeg"/>
-      <pubDate>Mon, 02 Jan 2023 04:18:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Jan 2023 13:42:13 +0000</lastBuildDate>
     <item>
       <title>Mach-Hommy - 30 Stone Grouper (1 play)</title>
       <link>https://www.last.fm/music/Mach-Hommy/_/30+Stone+Grouper</link>
@@ -163,7 +149,7 @@
       <pubDate>Mon, 02 Jan 2023 18:37:57 -0500</pubDate>
     </item>
     <item>
-      <title>Television - Venus (3 plays)</title>
+      <title>Television - Venus (4 plays)</title>
       <link>https://www.last.fm/music/Television/_/Venus</link>
       <guid isPermaLink="false">Arcade1996-1672702847--490bde43-5edb-4a93-b3b3-7a0465fd8909---Venus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
@@ -201,7 +187,6 @@
       <title>Tom Dae - Just As Long As You Are Mine (1 play)</title>
       <link>https://www.last.fm/music/Tom+Dae/_/Just+As+Long+As+You+Are+Mine</link>
       <guid isPermaLink="false">Arcade1996-1672703622--Tom Dae---Just As Long As You Are Mine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2317ee6e21b98831be057cc51a869ea7.jpg" length="15465" type="image/jpeg"/>
       <pubDate>Mon, 02 Jan 2023 18:53:42 -0500</pubDate>
     </item>
     <item>
@@ -261,7 +246,7 @@
       <pubDate>Tue, 03 Jan 2023 04:08:16 -0500</pubDate>
     </item>
     <item>
-      <title>Television - Venus (3 plays)</title>
+      <title>Television - Venus (4 plays)</title>
       <link>https://www.last.fm/music/Television/_/Venus</link>
       <guid isPermaLink="false">Arcade1996-1672737156--490bde43-5edb-4a93-b3b3-7a0465fd8909---Venus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Arcade1996-1672752295--490bde43-5edb-4a93-b3b3-7a0465fd8909---See No Evil</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
       <pubDate>Tue, 03 Jan 2023 08:24:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Television - Venus (4 plays)</title>
+      <link>https://www.last.fm/music/Television/_/Venus</link>
+      <guid isPermaLink="false">Arcade1996-1672752527--490bde43-5edb-4a93-b3b3-7a0465fd8909---Venus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jan 2023 08:28:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Television - Friction (1 play)</title>
+      <link>https://www.last.fm/music/Television/_/Friction</link>
+      <guid isPermaLink="false">Arcade1996-1672752756--490bde43-5edb-4a93-b3b3-7a0465fd8909---Friction</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jan 2023 08:32:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
