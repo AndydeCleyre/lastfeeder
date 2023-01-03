@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 20:19:16 +0000</lastBuildDate>
-    <item>
-      <title>Nickelback - If Today Was Your Last Day (4 plays)</title>
-      <link>https://www.last.fm/music/Nickelback/_/If+Today+Was+Your+Last+Day</link>
-      <guid isPermaLink="false">gameofmetal-1672518323--bc710bcf-8815-42cf-bad2-3f1d12246aeb---If Today Was Your Last Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3335319d37744aa0bb90ef5d9647a1ed.jpg" length="32157" type="image/jpeg"/>
-      <pubDate>Sat, 31 Dec 2022 15:25:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Jan 2023 20:38:16 +0000</lastBuildDate>
     <item>
       <title>Mario Judah - Rockstar (5 plays)</title>
       <link>https://www.last.fm/music/Mario+Judah/_/Rockstar</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1672776341--bf94f1fb-7122-4131-b7df-f26210ad8ec3---Hand Aufs Herz</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b3b9a260e4a3c2c033cc36973e09f92.jpg" length="22104" type="image/jpeg"/>
       <pubDate>Tue, 03 Jan 2023 15:05:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ellende - Someday (1 play)</title>
+      <link>https://www.last.fm/music/Ellende/_/Someday</link>
+      <guid isPermaLink="false">gameofmetal-1672776825--bf94f1fb-7122-4131-b7df-f26210ad8ec3---Someday</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b3b9a260e4a3c2c033cc36973e09f92.jpg" length="22104" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jan 2023 15:13:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
