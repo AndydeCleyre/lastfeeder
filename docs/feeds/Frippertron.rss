@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 18:39:50 +0000</lastBuildDate>
-    <item>
-      <title>Rah Band - Messages From The Stars (1 play)</title>
-      <link>https://www.last.fm/music/Rah+Band/_/Messages+From+The+Stars</link>
-      <guid isPermaLink="false">Frippertron-1672723468--138f1987-bbb8-48b9-8d77-bf02576b0905---Messages From The Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
-      <pubDate>Tue, 03 Jan 2023 00:24:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rah Band - Roll Me Down to Rio (1 play)</title>
-      <link>https://www.last.fm/music/Rah+Band/_/Roll+Me+Down+to+Rio</link>
-      <guid isPermaLink="false">Frippertron-1672723735--138f1987-bbb8-48b9-8d77-bf02576b0905---Roll Me Down to Rio</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
-      <pubDate>Tue, 03 Jan 2023 00:28:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Jan 2023 18:52:32 +0000</lastBuildDate>
     <item>
       <title>Rah Band - Perfumed Garden (with Scented Strings) (1 play)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Perfumed+Garden+(with+Scented+Strings)</link>
@@ -37,7 +23,7 @@
       <pubDate>Tue, 03 Jan 2023 00:42:16 -0500</pubDate>
     </item>
     <item>
-      <title>Rah Band - Sam The Samba Man (1 play)</title>
+      <title>Rah Band - Sam The Samba Man (2 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
       <guid isPermaLink="false">Frippertron-1672724884--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
@@ -341,7 +327,6 @@
       <title>The Enid - Earthborn (74 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Earthborn</link>
       <guid isPermaLink="false">Frippertron-1672746051--66f8692c-966d-4dfb-a2ed-babf51241922---Earthborn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
       <pubDate>Tue, 03 Jan 2023 06:40:51 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1672770936--ec53333e-2067-44ba-8222-79a40cbef550---Can't take my eyes off of you</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ed1bc6e0878c695f1ab57f83e269dcc.jpg" length="25201" type="image/jpeg"/>
       <pubDate>Tue, 03 Jan 2023 13:35:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Boys Town Gang - Can't Take My Eyes Off You (24 plays)</title>
+      <link>https://www.last.fm/music/Boys+Town+Gang/_/Can%27t+Take+My+Eyes+Off+You</link>
+      <guid isPermaLink="false">Frippertron-1672771094--4d35ec15-f23a-4358-852a-3a5d5dd27e1b---Can't Take My Eyes Off You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e8e5fbdbbc789daa8bd1d149e1478f1.jpg" length="25845" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jan 2023 13:38:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rah Band - Sam The Samba Man (2 plays)</title>
+      <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
+      <guid isPermaLink="false">Frippertron-1672771691--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
+      <pubDate>Tue, 03 Jan 2023 13:48:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
