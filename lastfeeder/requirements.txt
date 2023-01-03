@@ -14,7 +14,7 @@ h11==0.14.0
     # via httpcore
 httpcore==0.16.3
     # via httpx
-httpx==0.23.1
+httpx==0.23.2
     # via -r requirements.in
 humanize==4.4.0
     # via delorean
