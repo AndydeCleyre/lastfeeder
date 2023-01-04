@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Jan 2023 05:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Pola - Vanité (1 play)</title>
-      <link>https://www.last.fm/music/Pola/_/Vanit%C3%A9</link>
-      <guid isPermaLink="false">Frippertron-1672739258--Pola---Vanité</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b22ab9a2c7e84fd7aeec9dd059d6d0f2.jpg" length="27252" type="image/jpeg"/>
-      <pubDate>Tue, 03 Jan 2023 04:47:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Sundialer (41 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Sundialer</link>
-      <guid isPermaLink="false">Frippertron-1672739706--66f8692c-966d-4dfb-a2ed-babf51241922---Sundialer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e709908fd5a475286056ec849104f4d.jpg" length="20057" type="image/jpeg"/>
-      <pubDate>Tue, 03 Jan 2023 04:55:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Salome 95 (172 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Salome+95</link>
-      <guid isPermaLink="false">Frippertron-1672740023--The Enid---Salome 95</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e709908fd5a475286056ec849104f4d.jpg" length="20057" type="image/jpeg"/>
-      <pubDate>Tue, 03 Jan 2023 05:00:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Jan 2023 06:22:13 +0000</lastBuildDate>
     <item>
       <title>The Enid - Fantasy (25 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Fantasy</link>
@@ -296,7 +275,7 @@
       <pubDate>Tue, 03 Jan 2023 23:37:06 -0500</pubDate>
     </item>
     <item>
-      <title>Doopees - How Does It Feel (18 plays)</title>
+      <title>Doopees - How Does It Feel</title>
       <link>https://www.last.fm/music/Doopees/_/How+Does+It+Feel</link>
       <guid isPermaLink="false">Frippertron-1672807360--101159b3-6c44-4e24-beab-5e90bc2bfc35---How Does It Feel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f560c1847e57e06001e3072cacf3c2b.jpg" length="16741" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1672810852--66f8692c-966d-4dfb-a2ed-babf51241922---Summer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c59244f6b6814f839d31ac58b247c474.jpg" length="17301" type="image/jpeg"/>
       <pubDate>Wed, 04 Jan 2023 00:40:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Golden Earrings (119 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Golden+Earrings</link>
+      <guid isPermaLink="false">Frippertron-1672811473--66f8692c-966d-4dfb-a2ed-babf51241922---Golden Earrings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 00:51:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - 665 The Great Bean (54 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/665+The+Great+Bean</link>
+      <guid isPermaLink="false">Frippertron-1672811744--66f8692c-966d-4dfb-a2ed-babf51241922---665 The Great Bean</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 00:55:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Salome (220 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Salome</link>
+      <guid isPermaLink="false">Frippertron-1672812829--66f8692c-966d-4dfb-a2ed-babf51241922---Salome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 01:13:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
