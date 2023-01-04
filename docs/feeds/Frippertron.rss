@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Jan 2023 04:40:30 +0000</lastBuildDate>
-    <item>
-      <title>Pola - Encyclopédie (1 play)</title>
-      <link>https://www.last.fm/music/Pola/_/Encyclop%C3%A9die</link>
-      <guid isPermaLink="false">Frippertron-1672737201--Pola---Encyclopédie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b22ab9a2c7e84fd7aeec9dd059d6d0f2.jpg" length="27252" type="image/jpeg"/>
-      <pubDate>Tue, 03 Jan 2023 04:13:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pola - Fatal (1 play)</title>
-      <link>https://www.last.fm/music/Pola/_/Fatal</link>
-      <guid isPermaLink="false">Frippertron-1672737439--Pola---Fatal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b22ab9a2c7e84fd7aeec9dd059d6d0f2.jpg" length="27252" type="image/jpeg"/>
-      <pubDate>Tue, 03 Jan 2023 04:17:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Jan 2023 04:52:27 +0000</lastBuildDate>
     <item>
       <title>Pola - Jalousie (1 play)</title>
       <link>https://www.last.fm/music/Pola/_/Jalousie</link>
@@ -156,7 +142,7 @@
       <pubDate>Tue, 03 Jan 2023 06:20:02 -0500</pubDate>
     </item>
     <item>
-      <title>The Enid - Chaldean Crossing (43 plays)</title>
+      <title>The Enid - Chaldean Crossing</title>
       <link>https://www.last.fm/music/The+Enid/_/Chaldean+Crossing</link>
       <guid isPermaLink="false">Frippertron-1672745394--66f8692c-966d-4dfb-a2ed-babf51241922---Chaldean Crossing</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672807026--e01c3376-15fa-40d7-b747-5f219bdefdd7---Haitian Divorce</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
       <pubDate>Tue, 03 Jan 2023 23:37:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Doopees - How Does It Feel (18 plays)</title>
+      <link>https://www.last.fm/music/Doopees/_/How+Does+It+Feel</link>
+      <guid isPermaLink="false">Frippertron-1672807360--101159b3-6c44-4e24-beab-5e90bc2bfc35---How Does It Feel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f560c1847e57e06001e3072cacf3c2b.jpg" length="16741" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jan 2023 23:42:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Doopees - Time and Space (11 plays)</title>
+      <link>https://www.last.fm/music/Doopees/_/Time+and+Space</link>
+      <guid isPermaLink="false">Frippertron-1672807593--101159b3-6c44-4e24-beab-5e90bc2bfc35---Time and Space</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f560c1847e57e06001e3072cacf3c2b.jpg" length="16741" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jan 2023 23:46:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
