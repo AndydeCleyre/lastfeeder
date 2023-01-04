@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Jan 2023 15:55:05 +0000</lastBuildDate>
-    <item>
-      <title>checkp01nt - Outdated (1 play)</title>
-      <link>https://www.last.fm/music/checkp01nt/_/Outdated</link>
-      <guid isPermaLink="false">lintmunro-1671033033--checkp01nt---Outdated</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 14 Dec 2022 10:50:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>checkp01nt - Yee Your Haw (1 play)</title>
-      <link>https://www.last.fm/music/checkp01nt/_/Yee+Your+Haw</link>
-      <guid isPermaLink="false">lintmunro-1671033196--checkp01nt---Yee Your Haw</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 14 Dec 2022 10:53:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Jan 2023 23:18:33 +0000</lastBuildDate>
     <item>
       <title>checkp01nt - LFG (2 plays)</title>
       <link>https://www.last.fm/music/checkp01nt/_/LFG</link>
@@ -334,6 +320,7 @@
       <title>Cloakroom - Lost Meaning (1 play)</title>
       <link>https://www.last.fm/music/Cloakroom/_/Lost+Meaning</link>
       <guid isPermaLink="false">lintmunro-1672778104--d419f6da-298a-40ea-ba0c-1757edd218b7---Lost Meaning</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ac918ab35876f3d806d956dc3b8ba43.jpg" length="33772" type="image/jpeg"/>
       <pubDate>Tue, 03 Jan 2023 15:35:04 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1672779537--cool sorcery---DETONATION</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e56731e8ab1398120eab0a420b078b1f.jpg" length="25359" type="image/jpeg"/>
       <pubDate>Tue, 03 Jan 2023 15:58:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mdou Moctar - Ibitilan (1 play)</title>
+      <link>https://www.last.fm/music/Mdou+Moctar/_/Ibitilan</link>
+      <guid isPermaLink="false">lintmunro-1672873515--d85defaf-b82e-48be-beb5-2672099e392e---Ibitilan</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7cf840b1a0e3df721ebbfea50c76fce4.jpg" length="14945" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 18:05:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Immolation - Abandoned (1 play)</title>
+      <link>https://www.last.fm/music/Immolation/_/Abandoned</link>
+      <guid isPermaLink="false">lintmunro-1672873724--c373c7f0-fddf-4c04-a327-19dd83590753---Abandoned</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6da2c4f06d14743aee863540e2d83fc6.png" length="182992" type="image/png"/>
+      <pubDate>Wed, 04 Jan 2023 18:08:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
