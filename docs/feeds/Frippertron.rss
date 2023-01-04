@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Jan 2023 09:38:15 +0000</lastBuildDate>
-    <item>
-      <title>XTC - Wonderland (14 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/Wonderland</link>
-      <guid isPermaLink="false">Frippertron-1672803802--97c86b2c-2765-46a2-aef8-76a7e24c430f---Wonderland</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/085ab1cd779d467a8d240078f6973e21.png" length="146014" type="image/png"/>
-      <pubDate>Tue, 03 Jan 2023 22:43:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>XTC - This World Over (11 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/This+World+Over</link>
-      <guid isPermaLink="false">Frippertron-1672804059--97c86b2c-2765-46a2-aef8-76a7e24c430f---This World Over</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19e8c9e1979e486c8117278e8bc7d225.png" length="160075" type="image/png"/>
-      <pubDate>Tue, 03 Jan 2023 22:47:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>XTC - Train Running Low on Soul Coal (11 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/Train+Running+Low+on+Soul+Coal</link>
-      <guid isPermaLink="false">Frippertron-1672804389--97c86b2c-2765-46a2-aef8-76a7e24c430f---Train Running Low on Soul Coal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19e8c9e1979e486c8117278e8bc7d225.png" length="160075" type="image/png"/>
-      <pubDate>Tue, 03 Jan 2023 22:53:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Jan 2023 09:52:47 +0000</lastBuildDate>
     <item>
       <title>Genesis - No Reply at All (44 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/No+Reply+at+All</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1672824979--4b585938-f271-45e2-b19a-91c634b5e396---There Goes a Tenner</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
       <pubDate>Wed, 04 Jan 2023 04:36:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kate Bush - Pull Out the Pin (45 plays)</title>
+      <link>https://www.last.fm/music/Kate+Bush/_/Pull+Out+the+Pin</link>
+      <guid isPermaLink="false">Frippertron-1672825186--4b585938-f271-45e2-b19a-91c634b5e396---Pull Out the Pin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 04:39:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kate Bush - Suspended in Gaffa (43 plays)</title>
+      <link>https://www.last.fm/music/Kate+Bush/_/Suspended+in+Gaffa</link>
+      <guid isPermaLink="false">Frippertron-1672825514--4b585938-f271-45e2-b19a-91c634b5e396---Suspended in Gaffa</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 04:45:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kate Bush - Leave It Open (42 plays)</title>
+      <link>https://www.last.fm/music/Kate+Bush/_/Leave+It+Open</link>
+      <guid isPermaLink="false">Frippertron-1672825751--4b585938-f271-45e2-b19a-91c634b5e396---Leave It Open</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 04:49:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
