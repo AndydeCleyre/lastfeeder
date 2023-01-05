@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jan 2023 04:41:24 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Sundialer (43 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Sundialer</link>
-      <guid isPermaLink="false">Frippertron-1672820256--66f8692c-966d-4dfb-a2ed-babf51241922---Sundialer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e709908fd5a475286056ec849104f4d.jpg" length="20057" type="image/jpeg"/>
-      <pubDate>Wed, 04 Jan 2023 03:17:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Dark Hydraulic (43 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Dark+Hydraulic</link>
-      <guid isPermaLink="false">Frippertron-1672820563--66f8692c-966d-4dfb-a2ed-babf51241922---Dark Hydraulic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e709908fd5a475286056ec849104f4d.jpg" length="20057" type="image/jpeg"/>
-      <pubDate>Wed, 04 Jan 2023 03:22:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Salome 95 (174 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Salome+95</link>
-      <guid isPermaLink="false">Frippertron-1672821415--The Enid---Salome 95</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e709908fd5a475286056ec849104f4d.jpg" length="20057" type="image/jpeg"/>
-      <pubDate>Wed, 04 Jan 2023 03:36:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Jan 2023 04:53:34 +0000</lastBuildDate>
     <item>
       <title>Magma - The Last Seven Minutes (1970-1977, Phase I) (71 plays)</title>
       <link>https://www.last.fm/music/Magma/_/The+Last+Seven+Minutes+(1970-1977,+Phase+I)</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1672893347--Magma---Weïdorje</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1291ec2a6ffec59351d5f7b6477c4bc.jpg" length="23764" type="image/jpeg"/>
       <pubDate>Wed, 04 Jan 2023 23:35:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Tröller Tanz (Ghost Dance) (1 play)</title>
+      <link>https://www.last.fm/music/Magma/_/Tr%C3%B6ller+Tanz+(Ghost+Dance)</link>
+      <guid isPermaLink="false">Frippertron-1672893616--Magma---Tröller Tanz (Ghost Dance)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1291ec2a6ffec59351d5f7b6477c4bc.jpg" length="23764" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 23:40:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Soleil D'Ork (Ork' Sun) (2 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Soleil+D%27Ork+(Ork%27+Sun)</link>
+      <guid isPermaLink="false">Frippertron-1672893835--Magma---Soleil D'Ork (Ork' Sun)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1291ec2a6ffec59351d5f7b6477c4bc.jpg" length="23764" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 23:43:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Zombies (Ghost Dance) (2 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Zombies+(Ghost+Dance)</link>
+      <guid isPermaLink="false">Frippertron-1672894064--Magma---Zombies (Ghost Dance)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1291ec2a6ffec59351d5f7b6477c4bc.jpg" length="23764" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 23:47:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
