@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jan 2023 05:37:20 +0000</lastBuildDate>
-    <item>
-      <title>Magma - Ïma Sürï Dondaï (7 plays)</title>
-      <link>https://www.last.fm/music/Magma/_/%C3%8Fma+S%C3%BCr%C3%AF+Donda%C3%AF</link>
-      <guid isPermaLink="false">Frippertron-1672822991--Magma---Ïma Sürï Dondaï</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d41569300d9444eb294c3d7463cb798.png" length="82630" type="image/png"/>
-      <pubDate>Wed, 04 Jan 2023 04:03:11 -0500</pubDate>
-    </item>
-    <item>
-      <title>Magma - Kobaïa Iss Deh Hündïn (2 plays)</title>
-      <link>https://www.last.fm/music/Magma/_/Koba%C3%AFa+Iss+Deh+H%C3%BCnd%C3%AFn</link>
-      <guid isPermaLink="false">Frippertron-1672823261--Magma---Kobaïa Iss Deh Hündïn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d41569300d9444eb294c3d7463cb798.png" length="82630" type="image/png"/>
-      <pubDate>Wed, 04 Jan 2023 04:07:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Magma - Da Zeuhl Wortz Mekanïk (7 plays)</title>
-      <link>https://www.last.fm/music/Magma/_/Da+Zeuhl+Wortz+Mekan%C3%AFk</link>
-      <guid isPermaLink="false">Frippertron-1672823479--Magma---Da Zeuhl Wortz Mekanïk</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d41569300d9444eb294c3d7463cb798.png" length="82630" type="image/png"/>
-      <pubDate>Wed, 04 Jan 2023 04:11:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Jan 2023 05:52:56 +0000</lastBuildDate>
     <item>
       <title>Magma - Nebëhr Gudahtt (26 plays)</title>
       <link>https://www.last.fm/music/Magma/_/Neb%C3%ABhr+Gudahtt</link>
@@ -331,7 +310,7 @@
       <pubDate>Wed, 04 Jan 2023 23:40:16 -0500</pubDate>
     </item>
     <item>
-      <title>Magma - Soleil D'Ork (Ork' Sun) (2 plays)</title>
+      <title>Magma - Soleil D'Ork (Ork' Sun)</title>
       <link>https://www.last.fm/music/Magma/_/Soleil+D%27Ork+(Ork%27+Sun)</link>
       <guid isPermaLink="false">Frippertron-1672893835--Magma---Soleil D'Ork (Ork' Sun)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1291ec2a6ffec59351d5f7b6477c4bc.jpg" length="23764" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1672896376--Magma---The Last Seven Minutes (1970-1977, Phase I)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbe3bfebd6a42ee67181817a9d18b6a7.jpg" length="36621" type="image/jpeg"/>
       <pubDate>Thu, 05 Jan 2023 00:26:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Hortz Fur Dëhn Stekëhn West (11 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Hortz+Fur+D%C3%ABhn+Stek%C3%ABhn+West</link>
+      <guid isPermaLink="false">Frippertron-1672896828--Magma---Hortz Fur Dëhn Stekëhn West</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d41569300d9444eb294c3d7463cb798.png" length="82630" type="image/png"/>
+      <pubDate>Thu, 05 Jan 2023 00:33:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Ïma Sürï Dondaï (8 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/%C3%8Fma+S%C3%BCr%C3%AF+Donda%C3%AF</link>
+      <guid isPermaLink="false">Frippertron-1672897402--Magma---Ïma Sürï Dondaï</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d41569300d9444eb294c3d7463cb798.png" length="82630" type="image/png"/>
+      <pubDate>Thu, 05 Jan 2023 00:43:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Kobaïa Iss Deh Hündïn (3 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Koba%C3%AFa+Iss+Deh+H%C3%BCnd%C3%AFn</link>
+      <guid isPermaLink="false">Frippertron-1672897674--Magma---Kobaïa Iss Deh Hündïn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d41569300d9444eb294c3d7463cb798.png" length="82630" type="image/png"/>
+      <pubDate>Thu, 05 Jan 2023 00:47:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
