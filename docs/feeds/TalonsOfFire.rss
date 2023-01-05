@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jan 2023 20:53:30 +0000</lastBuildDate>
-    <item>
-      <title>Bon Iver - Blood Bank (5 plays)</title>
-      <link>https://www.last.fm/music/Bon+Iver/_/Blood+Bank</link>
-      <guid isPermaLink="false">TalonsOfFire-1671573520--437a0e49-c6ae-42f6-a6c1-84f25ed366bc---Blood Bank</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/982a1b665901461a8d109d631b3e6a15.png" length="95277" type="image/png"/>
-      <pubDate>Tue, 20 Dec 2022 16:58:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Jan 2023 21:16:23 +0000</lastBuildDate>
     <item>
       <title>Swans - Blind (7 plays)</title>
       <link>https://www.last.fm/music/Swans/_/Blind</link>
@@ -289,7 +282,7 @@
       <pubDate>Wed, 28 Dec 2022 16:41:12 -0500</pubDate>
     </item>
     <item>
-      <title>Holy Fawn - Take Me With You</title>
+      <title>Holy Fawn - Take Me With You (1 play)</title>
       <link>https://www.last.fm/music/Holy+Fawn/_/Take+Me+With+You</link>
       <guid isPermaLink="false">TalonsOfFire-1672263870--42489dbe-d79d-45a4-aee7-4666aba8180a---Take Me With You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4db52d26945a19daf1b8ef62254c493b.jpg" length="23656" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1672951015--42489dbe-d79d-45a4-aee7-4666aba8180a---Lift Your Head</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a664ddb176e09712480a6ec6333df74f.jpg" length="21404" type="image/jpeg"/>
       <pubDate>Thu, 05 Jan 2023 15:36:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Holy Fawn - Empty Vials (1 play)</title>
+      <link>https://www.last.fm/music/Holy+Fawn/_/Empty+Vials</link>
+      <guid isPermaLink="false">TalonsOfFire-1672951319--42489dbe-d79d-45a4-aee7-4666aba8180a---Empty Vials</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a664ddb176e09712480a6ec6333df74f.jpg" length="21404" type="image/jpeg"/>
+      <pubDate>Thu, 05 Jan 2023 15:41:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
