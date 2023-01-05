@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Jan 2023 11:39:05 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Golden Earrings (119 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Golden+Earrings</link>
-      <guid isPermaLink="false">Frippertron-1672811473--66f8692c-966d-4dfb-a2ed-babf51241922---Golden Earrings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
-      <pubDate>Wed, 04 Jan 2023 00:51:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - 665 The Great Bean (54 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/665+The+Great+Bean</link>
-      <guid isPermaLink="false">Frippertron-1672811744--66f8692c-966d-4dfb-a2ed-babf51241922---665 The Great Bean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
-      <pubDate>Wed, 04 Jan 2023 00:55:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Jan 2023 03:22:06 +0000</lastBuildDate>
     <item>
       <title>The Enid - Salome (220 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Salome</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672831585--The Enid---The Last Judgement/In The Region Of The Summer Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/425c57c77d51430eafc56b3db5ebe3d4.jpg" length="45438" type="image/jpeg"/>
       <pubDate>Wed, 04 Jan 2023 06:26:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Come September - Realisation (70 plays)</title>
+      <link>https://www.last.fm/music/Come+September/_/Realisation</link>
+      <guid isPermaLink="false">Frippertron-1672888300--Come September---Realisation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 22:11:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Come September - Here Comes Heaven (42 plays)</title>
+      <link>https://www.last.fm/music/Come+September/_/Here+Comes+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1672888515--Come September---Here Comes Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
+      <pubDate>Wed, 04 Jan 2023 22:15:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
