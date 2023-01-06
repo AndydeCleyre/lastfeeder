@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jan 2023 12:35:09 +0000</lastBuildDate>
-    <item>
-      <title>Rah Band - Sam The Samba Man (7 plays)</title>
-      <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
-      <guid isPermaLink="false">Frippertron-1672899827--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 01:23:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Jan 2023 03:24:03 +0000</lastBuildDate>
     <item>
       <title>Rah Band - Tears And Rain (4 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Tears+And+Rain</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1672919535--Japan---Cantonese Boy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
       <pubDate>Thu, 05 Jan 2023 06:52:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Black Cow (23 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Black+Cow</link>
+      <guid isPermaLink="false">Frippertron-1672974943--e01c3376-15fa-40d7-b747-5f219bdefdd7---Black Cow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Thu, 05 Jan 2023 22:15:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
