@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jan 2023 04:21:30 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Song For Europe (72 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Song+For+Europe</link>
-      <guid isPermaLink="false">Frippertron-1672907312--66f8692c-966d-4dfb-a2ed-babf51241922---Song For Europe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7beb227235314766b790c34a39b87261.jpg" length="24491" type="image/jpeg"/>
-      <pubDate>Thu, 05 Jan 2023 03:28:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Something Wicked This Way Comes (129 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Something+Wicked+This+Way+Comes</link>
-      <guid isPermaLink="false">Frippertron-1672907572--66f8692c-966d-4dfb-a2ed-babf51241922---Something Wicked This Way Comes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7beb227235314766b790c34a39b87261.jpg" length="24491" type="image/jpeg"/>
-      <pubDate>Thu, 05 Jan 2023 03:32:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Jan 2023 04:41:12 +0000</lastBuildDate>
     <item>
       <title>Morbid Angel - Immortal Rites (1 play)</title>
       <link>https://www.last.fm/music/Morbid+Angel/_/Immortal+Rites</link>
@@ -170,7 +156,7 @@
       <pubDate>Thu, 05 Jan 2023 05:19:40 -0500</pubDate>
     </item>
     <item>
-      <title>King Crimson - Larks' Tongues in Aspic (Part IV)</title>
+      <title>King Crimson - Larks' Tongues in Aspic (Part IV) (53 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+in+Aspic+(Part+IV)</link>
       <guid isPermaLink="false">Frippertron-1672914365--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Larks' Tongues in Aspic (Part IV)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -254,7 +240,7 @@
       <pubDate>Thu, 05 Jan 2023 06:31:51 -0500</pubDate>
     </item>
     <item>
-      <title>Rah Band - Messages From The Stars (5 plays)</title>
+      <title>Rah Band - Messages From The Stars (6 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Messages+From+The+Stars</link>
       <guid isPermaLink="false">Frippertron-1672918646--138f1987-bbb8-48b9-8d77-bf02576b0905---Messages From The Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672978289--Magma---Da zeuhl wortz mekanik</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2437c5a2b424108c11ab7abb4c25e47.jpg" length="11335" type="image/jpeg"/>
       <pubDate>Thu, 05 Jan 2023 23:11:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Mekanik Zain (6 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Mekanik+Zain</link>
+      <guid isPermaLink="false">Frippertron-1672978664--Magma---Mekanik Zain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2437c5a2b424108c11ab7abb4c25e47.jpg" length="11335" type="image/jpeg"/>
+      <pubDate>Thu, 05 Jan 2023 23:17:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rah Band - Messages From The Stars (6 plays)</title>
+      <link>https://www.last.fm/music/Rah+Band/_/Messages+From+The+Stars</link>
+      <guid isPermaLink="false">Frippertron-1672979773--138f1987-bbb8-48b9-8d77-bf02576b0905---Messages From The Stars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
+      <pubDate>Thu, 05 Jan 2023 23:36:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
