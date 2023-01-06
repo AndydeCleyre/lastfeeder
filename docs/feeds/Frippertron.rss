@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jan 2023 05:16:33 +0000</lastBuildDate>
-    <item>
-      <title>Morbid Angel - Chapel of Ghouls (1 play)</title>
-      <link>https://www.last.fm/music/Morbid+Angel/_/Chapel+of+Ghouls</link>
-      <guid isPermaLink="false">Frippertron-1672909381--4355a36d-805e-478d-8589-64f0292724b2---Chapel of Ghouls</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8d367e2a9cfaf7dad8ff99a69e6a4f.png" length="249849" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 04:03:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>Morbid Angel - Bleed for the Devil (1 play)</title>
-      <link>https://www.last.fm/music/Morbid+Angel/_/Bleed+for+the+Devil</link>
-      <guid isPermaLink="false">Frippertron-1672909680--4355a36d-805e-478d-8589-64f0292724b2---Bleed for the Devil</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8d367e2a9cfaf7dad8ff99a69e6a4f.png" length="249849" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 04:08:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Jan 2023 05:37:27 +0000</lastBuildDate>
     <item>
       <title>Morbid Angel - Damnation (1 play)</title>
       <link>https://www.last.fm/music/Morbid+Angel/_/Damnation</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672981326--f7c0267c-5dad-4e43-ac06-844c54a77e1c---Presto Vivace and Reprise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/813f3846426bef4c35d54c07546374a7.png" length="131403" type="image/png"/>
       <pubDate>Fri, 06 Jan 2023 00:02:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Who's my love (3 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Who%27s+my+love</link>
+      <guid isPermaLink="false">Frippertron-1672982545--Magma---Who's my love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/719fc3b6c9fe48aebafadce6e669b255.png" length="163960" type="image/png"/>
+      <pubDate>Fri, 06 Jan 2023 00:22:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Otis (3 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Otis</link>
+      <guid isPermaLink="false">Frippertron-1672982984--Magma---Otis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/719fc3b6c9fe48aebafadce6e669b255.png" length="163960" type="image/png"/>
+      <pubDate>Fri, 06 Jan 2023 00:29:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
