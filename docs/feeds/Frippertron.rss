@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jan 2023 04:41:12 +0000</lastBuildDate>
-    <item>
-      <title>Morbid Angel - Immortal Rites (1 play)</title>
-      <link>https://www.last.fm/music/Morbid+Angel/_/Immortal+Rites</link>
-      <guid isPermaLink="false">Frippertron-1672908179--4355a36d-805e-478d-8589-64f0292724b2---Immortal Rites</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8d367e2a9cfaf7dad8ff99a69e6a4f.png" length="249849" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 03:42:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Morbid Angel - Suffocation (1 play)</title>
-      <link>https://www.last.fm/music/Morbid+Angel/_/Suffocation</link>
-      <guid isPermaLink="false">Frippertron-1672908423--4355a36d-805e-478d-8589-64f0292724b2---Suffocation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8d367e2a9cfaf7dad8ff99a69e6a4f.png" length="249849" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 03:47:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Jan 2023 04:52:58 +0000</lastBuildDate>
     <item>
       <title>Morbid Angel - Visions from the Dark Side (1 play)</title>
       <link>https://www.last.fm/music/Morbid+Angel/_/Visions+from+the+Dark+Side</link>
@@ -247,7 +233,7 @@
       <pubDate>Thu, 05 Jan 2023 06:37:26 -0500</pubDate>
     </item>
     <item>
-      <title>Rah Band - Sam The Samba Man (7 plays)</title>
+      <title>Rah Band - Sam The Samba Man (8 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
       <guid isPermaLink="false">Frippertron-1672918911--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672979773--138f1987-bbb8-48b9-8d77-bf02576b0905---Messages From The Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
       <pubDate>Thu, 05 Jan 2023 23:36:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rah Band - Perfumed Garden (with Scented Strings) (4 plays)</title>
+      <link>https://www.last.fm/music/Rah+Band/_/Perfumed+Garden+(with+Scented+Strings)</link>
+      <guid isPermaLink="false">Frippertron-1672980185--138f1987-bbb8-48b9-8d77-bf02576b0905---Perfumed Garden (with Scented Strings)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
+      <pubDate>Thu, 05 Jan 2023 23:43:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rah Band - Sam The Samba Man (8 plays)</title>
+      <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
+      <guid isPermaLink="false">Frippertron-1672980581--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
+      <pubDate>Thu, 05 Jan 2023 23:49:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
