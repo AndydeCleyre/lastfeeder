@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jan 2023 05:37:27 +0000</lastBuildDate>
-    <item>
-      <title>Morbid Angel - Damnation (1 play)</title>
-      <link>https://www.last.fm/music/Morbid+Angel/_/Damnation</link>
-      <guid isPermaLink="false">Frippertron-1672909825--4355a36d-805e-478d-8589-64f0292724b2---Damnation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8d367e2a9cfaf7dad8ff99a69e6a4f.png" length="249849" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 04:10:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Morbid Angel - Blasphemy (1 play)</title>
-      <link>https://www.last.fm/music/Morbid+Angel/_/Blasphemy</link>
-      <guid isPermaLink="false">Frippertron-1672910083--4355a36d-805e-478d-8589-64f0292724b2---Blasphemy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8d367e2a9cfaf7dad8ff99a69e6a4f.png" length="249849" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 04:14:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Jan 2023 05:52:21 +0000</lastBuildDate>
     <item>
       <title>Morbid Angel - Evil Spells (1 play)</title>
       <link>https://www.last.fm/music/Morbid+Angel/_/Evil+Spells</link>
@@ -226,7 +212,7 @@
       <pubDate>Thu, 05 Jan 2023 22:15:43 -0500</pubDate>
     </item>
     <item>
-      <title>Steely Dan - Aja (20 plays)</title>
+      <title>Steely Dan - Aja</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Aja</link>
       <guid isPermaLink="false">Frippertron-1672975253--e01c3376-15fa-40d7-b747-5f219bdefdd7---Aja</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1672982984--Magma---Otis</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/719fc3b6c9fe48aebafadce6e669b255.png" length="163960" type="image/png"/>
       <pubDate>Fri, 06 Jan 2023 00:29:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Fantasy (27 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Fantasy</link>
+      <guid isPermaLink="false">Frippertron-1672983679--66f8692c-966d-4dfb-a2ed-babf51241922---Fantasy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70c5291f0e384383887f390f7ed3753d.jpg" length="30981" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jan 2023 00:41:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Mayday Galliard (201 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
+      <guid isPermaLink="false">Frippertron-1672984057--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jan 2023 00:47:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
