@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jan 2023 10:19:22 +0000</lastBuildDate>
-    <item>
-      <title>Rah Band - Messages From The Stars (6 plays)</title>
-      <link>https://www.last.fm/music/Rah+Band/_/Messages+From+The+Stars</link>
-      <guid isPermaLink="false">Frippertron-1672979773--138f1987-bbb8-48b9-8d77-bf02576b0905---Messages From The Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 23:36:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rah Band - Perfumed Garden (with Scented Strings) (4 plays)</title>
-      <link>https://www.last.fm/music/Rah+Band/_/Perfumed+Garden+(with+Scented+Strings)</link>
-      <guid isPermaLink="false">Frippertron-1672980185--138f1987-bbb8-48b9-8d77-bf02576b0905---Perfumed Garden (with Scented Strings)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 23:43:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rah Band - Sam The Samba Man (8 plays)</title>
-      <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
-      <guid isPermaLink="false">Frippertron-1672980581--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
-      <pubDate>Thu, 05 Jan 2023 23:49:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Jan 2023 10:39:03 +0000</lastBuildDate>
     <item>
       <title>U.K. - In The Dead Of Night (28 plays)</title>
       <link>https://www.last.fm/music/U.K./_/In+The+Dead+Of+Night</link>
@@ -166,6 +145,7 @@
       <title>Morgan - The Right (32 plays)</title>
       <link>https://www.last.fm/music/Morgan/_/The+Right</link>
       <guid isPermaLink="false">Frippertron-1672988212--7d6fa35a-5bd1-4379-bb26-4ffa8c561e0e---The Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
       <pubDate>Fri, 06 Jan 2023 01:56:52 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1672999785--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Growing Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce344fc4277e420fc2edf6448e8f15c5.jpg" length="9231" type="image/jpeg"/>
       <pubDate>Fri, 06 Jan 2023 05:09:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Sky Blue (11 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Sky+Blue</link>
+      <guid isPermaLink="false">Frippertron-1673000241--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Sky Blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce344fc4277e420fc2edf6448e8f15c5.jpg" length="9231" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jan 2023 05:17:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - No Way Out (8 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/No+Way+Out</link>
+      <guid isPermaLink="false">Frippertron-1673000641--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---No Way Out</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce344fc4277e420fc2edf6448e8f15c5.jpg" length="9231" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jan 2023 05:24:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - I Grieve (8 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/I+Grieve</link>
+      <guid isPermaLink="false">Frippertron-1673001116--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---I Grieve</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce344fc4277e420fc2edf6448e8f15c5.jpg" length="9231" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jan 2023 05:31:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
