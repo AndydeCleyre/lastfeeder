@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jan 2023 21:52:45 +0000</lastBuildDate>
-    <item>
-      <title>Florence + the Machine - King (1 play)</title>
-      <link>https://www.last.fm/music/Florence+%252B+the+Machine/_/King</link>
-      <guid isPermaLink="false">lintmunro-1672689642--5fee3020-513b-48c2-b1f7-4681b01db0c6---King</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84cdb4ae98ca7ac3b19bc4fc52041503.jpg" length="27422" type="image/jpeg"/>
-      <pubDate>Mon, 02 Jan 2023 15:00:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>Frankie and the Witch Fingers - Electricide (1 play)</title>
-      <link>https://www.last.fm/music/Frankie+and+the+Witch+Fingers/_/Electricide</link>
-      <guid isPermaLink="false">lintmunro-1672777892--cc846715-ccc7-4391-868b-0876d135daa0---Electricide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f537fa3e54d9cc80836a50c76b7cb87f.jpg" length="20900" type="image/jpeg"/>
-      <pubDate>Tue, 03 Jan 2023 15:31:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cloakroom - Lost Meaning (1 play)</title>
-      <link>https://www.last.fm/music/Cloakroom/_/Lost+Meaning</link>
-      <guid isPermaLink="false">lintmunro-1672778104--d419f6da-298a-40ea-ba0c-1757edd218b7---Lost Meaning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ac918ab35876f3d806d956dc3b8ba43.jpg" length="33772" type="image/jpeg"/>
-      <pubDate>Tue, 03 Jan 2023 15:35:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Jan 2023 01:25:59 +0000</lastBuildDate>
     <item>
       <title>Disq - Civilization Four (1 play)</title>
       <link>https://www.last.fm/music/Disq/_/Civilization+Four</link>
@@ -341,7 +320,6 @@
       <title>Shores of Null - Nothing Left to Burn (1 play)</title>
       <link>https://www.last.fm/music/Shores+of+Null/_/Nothing+Left+to+Burn</link>
       <guid isPermaLink="false">lintmunro-1673040015--a2e60b17-960e-4e9c-8194-681b39d5613e---Nothing Left to Burn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb9660936f281fa2bec9077faa9924f2.jpg" length="8880" type="image/jpeg"/>
       <pubDate>Fri, 06 Jan 2023 16:20:15 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">lintmunro-1673040813--a0befa17-6652-43c7-a211-3c84432f15cd---Bodom Beach Terror</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2daeac3e2b1bef74e4477fed5f064544.jpg" length="24189" type="image/jpeg"/>
       <pubDate>Fri, 06 Jan 2023 16:33:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Misþyrming - Með hamri (1 play)</title>
+      <link>https://www.last.fm/music/Mis%C3%BEyrming/_/Me%C3%B0+hamri</link>
+      <guid isPermaLink="false">lintmunro-1673041777--03f9e6f0-7c7f-4fd6-a47f-f0b0425f314b---Með hamri</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01d90e85f2b08f823d8bb5785e9fdcf9.jpg" length="18159" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jan 2023 16:49:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Grumpster - Fever Dream (2 plays)</title>
+      <link>https://www.last.fm/music/Grumpster/_/Fever+Dream</link>
+      <guid isPermaLink="false">lintmunro-1673049879--d281cbf2-007c-4c58-9040-b670fc5f9445---Fever Dream</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56e80f2a2b2fb7d4b3c27845c732f28a.jpg" length="36383" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jan 2023 19:04:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Grumpster - Crash (2 plays)</title>
+      <link>https://www.last.fm/music/Grumpster/_/Crash</link>
+      <guid isPermaLink="false">lintmunro-1673050040--d281cbf2-007c-4c58-9040-b670fc5f9445---Crash</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56e80f2a2b2fb7d4b3c27845c732f28a.jpg" length="36383" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jan 2023 19:07:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
