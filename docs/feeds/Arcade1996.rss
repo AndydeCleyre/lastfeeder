@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Jan 2023 13:52:20 +0000</lastBuildDate>
-    <item>
-      <title>YoungBoy Never Broke Again - Not My Friend (1 play)</title>
-      <link>https://www.last.fm/music/YoungBoy+Never+Broke+Again/_/Not+My+Friend</link>
-      <guid isPermaLink="false">Arcade1996-1673061702--127d8614-0876-4408-886c-6f110b047a78---Not My Friend</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9477e9bebd2ed5db8b4aea02f9116aa.jpg" length="34974" type="image/jpeg"/>
-      <pubDate>Fri, 06 Jan 2023 22:21:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Jan 2023 14:14:47 +0000</lastBuildDate>
     <item>
       <title>YoungBoy Never Broke Again - Mini Me (1 play)</title>
       <link>https://www.last.fm/music/YoungBoy+Never+Broke+Again/_/Mini+Me</link>
@@ -44,7 +37,7 @@
       <pubDate>Fri, 06 Jan 2023 22:33:07 -0500</pubDate>
     </item>
     <item>
-      <title>Primal Scream - Gentle Tuesday</title>
+      <title>Primal Scream - Gentle Tuesday (5 plays)</title>
       <link>https://www.last.fm/music/Primal+Scream/_/Gentle+Tuesday</link>
       <guid isPermaLink="false">Arcade1996-1673062649--55704c38-224f-4b75-b29f-d43653f8bc9a---Gentle Tuesday</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc40076db12c4821bb2efbbcb67c4bbb.png" length="174288" type="image/png"/>
@@ -303,7 +296,7 @@
       <pubDate>Sun, 08 Jan 2023 08:04:00 -0500</pubDate>
     </item>
     <item>
-      <title>The Beloved - Time After Time (1 play)</title>
+      <title>The Beloved - Time After Time (2 plays)</title>
       <link>https://www.last.fm/music/The+Beloved/_/Time+After+Time</link>
       <guid isPermaLink="false">Arcade1996-1673183254--2b87e134-b4a3-48d8-afac-9501d4c6e931---Time After Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b57890596a39b79190682795a3d43579.png" length="142638" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1673185569--2b87e134-b4a3-48d8-afac-9501d4c6e931---The Sun Rising</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b57890596a39b79190682795a3d43579.png" length="142638" type="image/png"/>
       <pubDate>Sun, 08 Jan 2023 08:46:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Beloved - Time After Time (2 plays)</title>
+      <link>https://www.last.fm/music/The+Beloved/_/Time+After+Time</link>
+      <guid isPermaLink="false">Arcade1996-1673185949--2b87e134-b4a3-48d8-afac-9501d4c6e931---Time After Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b57890596a39b79190682795a3d43579.png" length="142638" type="image/png"/>
+      <pubDate>Sun, 08 Jan 2023 08:52:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
