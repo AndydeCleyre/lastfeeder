@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jan 2023 23:38:29 +0000</lastBuildDate>
-    <item>
-      <title>Devendra Banhart - Mi Negrita (17 plays)</title>
-      <link>https://www.last.fm/music/Devendra+Banhart/_/Mi+Negrita</link>
-      <guid isPermaLink="false">evilgnomeandy-1672704751--0110e63e-0a9b-4818-af8e-41e180c20b9a---Mi Negrita</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34889b8a262f48b88795ccfa7212c9e0.jpg" length="12180" type="image/jpeg"/>
-      <pubDate>Mon, 02 Jan 2023 19:12:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Jan 2023 01:38:06 +0000</lastBuildDate>
     <item>
       <title>Devendra Banhart - A Sight to Behold (8 plays)</title>
       <link>https://www.last.fm/music/Devendra+Banhart/_/A+Sight+to+Behold</link>
@@ -47,6 +40,7 @@
       <title>Devendra Banhart - Jon Lends a Hand (4 plays)</title>
       <link>https://www.last.fm/music/Devendra+Banhart/_/Jon+Lends+a+Hand</link>
       <guid isPermaLink="false">evilgnomeandy-1672764787--0110e63e-0a9b-4818-af8e-41e180c20b9a---Jon Lends a Hand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0c4517937e4c12c3a58855abfaed43e.png" length="54675" type="image/png"/>
       <pubDate>Tue, 03 Jan 2023 11:53:07 -0500</pubDate>
     </item>
     <item>
@@ -60,6 +54,7 @@
       <title>Devendra Banhart - Jon Lends a Hand (4 plays)</title>
       <link>https://www.last.fm/music/Devendra+Banhart/_/Jon+Lends+a+Hand</link>
       <guid isPermaLink="false">evilgnomeandy-1672810893--0110e63e-0a9b-4818-af8e-41e180c20b9a---Jon Lends a Hand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0c4517937e4c12c3a58855abfaed43e.png" length="54675" type="image/png"/>
       <pubDate>Wed, 04 Jan 2023 00:41:33 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1673123874--584eadcd-e493-4c59-a1f2-9eea9ee399a3---Revolution</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99e2b53455c6265d76a1718d97b3c5db.png" length="124571" type="image/png"/>
       <pubDate>Sat, 07 Jan 2023 15:37:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tim Armstrong - Inner City Violence (39 plays)</title>
+      <link>https://www.last.fm/music/Tim+Armstrong/_/Inner+City+Violence</link>
+      <guid isPermaLink="false">evilgnomeandy-1673124187--beaecc2d-20c7-4221-8fd2-682c82f0faab---Inner City Violence</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57798432aba14b9c871ce0e5558c6233.jpg" length="13428" type="image/jpeg"/>
+      <pubDate>Sat, 07 Jan 2023 15:43:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
