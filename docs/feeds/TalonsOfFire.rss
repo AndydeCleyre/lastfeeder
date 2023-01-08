@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Jan 2023 21:14:28 +0000</lastBuildDate>
-    <item>
-      <title>Sufjan Stevens - The Sleigh In The Moon (2 plays)</title>
-      <link>https://www.last.fm/music/Sufjan+Stevens/_/The+Sleigh+In+The+Moon</link>
-      <guid isPermaLink="false">TalonsOfFire-1672000925--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---The Sleigh In The Moon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a893fc0cad97bc1295d9095295e9602f.jpg" length="38536" type="image/jpeg"/>
-      <pubDate>Sun, 25 Dec 2022 15:42:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sufjan Stevens - Let It Snow! Let It Snow! Let It Snow! (1 play)</title>
-      <link>https://www.last.fm/music/Sufjan+Stevens/_/Let+It+Snow!+Let+It+Snow!+Let+It+Snow!</link>
-      <guid isPermaLink="false">TalonsOfFire-1672001058--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Let It Snow! Let It Snow! Let It Snow!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a893fc0cad97bc1295d9095295e9602f.jpg" length="38536" type="image/jpeg"/>
-      <pubDate>Sun, 25 Dec 2022 15:44:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Jan 2023 21:26:50 +0000</lastBuildDate>
     <item>
       <title>Holy Fawn - Dark Stone (1 play)</title>
       <link>https://www.last.fm/music/Holy+Fawn/_/Dark+Stone</link>
@@ -348,6 +334,7 @@
       <title>ColdWorld - Stille (2 plays)</title>
       <link>https://www.last.fm/music/ColdWorld/_/Stille</link>
       <guid isPermaLink="false">TalonsOfFire-1673211913--2f253ad2-e391-48c3-a79c-f44b9a8a0981---Stille</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fde6c8d9661abd6cf416b989b1e8d576.jpg" length="5322" type="image/jpeg"/>
       <pubDate>Sun, 08 Jan 2023 16:05:13 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1673212029--Brian Eno---Unfamiliar Wind (Leeks Hills) - Remastered 2004</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55c2d21f19d1e9868471c17cee5c85fb.jpg" length="56595" type="image/jpeg"/>
       <pubDate>Sun, 08 Jan 2023 16:07:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Astronauts - In My Direction (2 plays)</title>
+      <link>https://www.last.fm/music/Astronauts/_/In+My+Direction</link>
+      <guid isPermaLink="false">TalonsOfFire-1673212355--9b735e38-2d0c-4c9f-9b3f-052a7326d1eb---In My Direction</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9550f237d3694ba4cb9282884c4a0476.jpg" length="43147" type="image/jpeg"/>
+      <pubDate>Sun, 08 Jan 2023 16:12:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bonobo - Terrapin (3 plays)</title>
+      <link>https://www.last.fm/music/Bonobo/_/Terrapin</link>
+      <guid isPermaLink="false">TalonsOfFire-1673212713--9a709693-b4f8-4da9-8cc1-038c911a61be---Terrapin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08050631aee745578de5dca51732f134.jpg" length="26720" type="image/jpeg"/>
+      <pubDate>Sun, 08 Jan 2023 16:18:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
