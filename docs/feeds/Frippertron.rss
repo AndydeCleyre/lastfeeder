@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jan 2023 04:52:54 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - I Saw The Light (216 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/I+Saw+The+Light</link>
-      <guid isPermaLink="false">Frippertron-1672995409--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---I Saw The Light</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e0cb27c868af52a6902552aac2a089a.jpg" length="35724" type="image/jpeg"/>
-      <pubDate>Fri, 06 Jan 2023 03:56:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Jan 2023 05:16:49 +0000</lastBuildDate>
     <item>
       <title>Marvin Gaye - When Did You Stop Loving Me, When Did I Stop Loving You (22 plays)</title>
       <link>https://www.last.fm/music/Marvin+Gaye/_/When+Did+You+Stop+Loving+Me,+When+Did+I+Stop+Loving+You</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1673239778--Magma---Maahnt (The Wizard's Fight Versus the Devil)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbe3bfebd6a42ee67181817a9d18b6a7.jpg" length="36621" type="image/jpeg"/>
       <pubDate>Sun, 08 Jan 2023 23:49:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Bodhisattva (69 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Bodhisattva</link>
+      <guid isPermaLink="false">Frippertron-1673240171--e01c3376-15fa-40d7-b747-5f219bdefdd7---Bodhisattva</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
+      <pubDate>Sun, 08 Jan 2023 23:56:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
