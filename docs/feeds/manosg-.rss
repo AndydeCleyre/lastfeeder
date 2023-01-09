@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jan 2023 15:57:46 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Drive My Car - Remastered 2009 (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Drive+My+Car+-+Remastered+2009</link>
-      <guid isPermaLink="false">manosg--1673191375--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Drive My Car - Remastered 2009</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fb15f6020014bbc85400a984a175b44.jpg" length="28788" type="image/jpeg"/>
-      <pubDate>Sun, 08 Jan 2023 10:22:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Jan 2023 16:37:55 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Norwegian Wood (This Bird Has Flown) - Remastered 2009 (1 play)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Norwegian+Wood+(This+Bird+Has+Flown)+-+Remastered+2009</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1673279560--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Hello, Goodbye - Remastered 2015</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/207c9708aabfc084aee235ab2c8c4ee9.jpg" length="5326" type="image/jpeg"/>
       <pubDate>Mon, 09 Jan 2023 10:52:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Beatles - Lady Madonna - Remastered 2015 (1 play)</title>
+      <link>https://www.last.fm/music/The+Beatles/_/Lady+Madonna+-+Remastered+2015</link>
+      <guid isPermaLink="false">manosg--1673279767--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Lady Madonna - Remastered 2015</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/207c9708aabfc084aee235ab2c8c4ee9.jpg" length="5326" type="image/jpeg"/>
+      <pubDate>Mon, 09 Jan 2023 10:56:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
