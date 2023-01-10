@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jan 2023 04:40:53 +0000</lastBuildDate>
-    <item>
-      <title>Kate Bush - All the Love (52 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/All+the+Love</link>
-      <guid isPermaLink="false">Frippertron-1673253317--4b585938-f271-45e2-b19a-91c634b5e396---All the Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
-      <pubDate>Mon, 09 Jan 2023 03:35:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kate Bush - Houdini (47 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/Houdini</link>
-      <guid isPermaLink="false">Frippertron-1673253588--4b585938-f271-45e2-b19a-91c634b5e396---Houdini</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
-      <pubDate>Mon, 09 Jan 2023 03:39:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Jan 2023 04:52:42 +0000</lastBuildDate>
     <item>
       <title>Kate Bush - Get Out of My House (82 plays)</title>
       <link>https://www.last.fm/music/Kate+Bush/_/Get+Out+of+My+House</link>
@@ -86,7 +72,7 @@
       <pubDate>Mon, 09 Jan 2023 04:24:36 -0500</pubDate>
     </item>
     <item>
-      <title>King Crimson - Red</title>
+      <title>King Crimson - Red (120 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Red</link>
       <guid isPermaLink="false">Frippertron-1673256525--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Red</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -219,14 +205,14 @@
       <pubDate>Mon, 09 Jan 2023 06:12:21 -0500</pubDate>
     </item>
     <item>
-      <title>Rah Band - Sam The Samba Man (9 plays)</title>
+      <title>Rah Band - Sam The Samba Man (10 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
       <guid isPermaLink="false">Frippertron-1673263135--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
       <pubDate>Mon, 09 Jan 2023 06:18:55 -0500</pubDate>
     </item>
     <item>
-      <title>Rah Band - Tears And Rain (5 plays)</title>
+      <title>Rah Band - Tears And Rain (6 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Tears+And+Rain</link>
       <guid isPermaLink="false">Frippertron-1673263387--138f1987-bbb8-48b9-8d77-bf02576b0905---Tears And Rain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1673325361--138f1987-bbb8-48b9-8d77-bf02576b0905---Messages From The Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
       <pubDate>Mon, 09 Jan 2023 23:36:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rah Band - Sam The Samba Man (10 plays)</title>
+      <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
+      <guid isPermaLink="false">Frippertron-1673325622--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
+      <pubDate>Mon, 09 Jan 2023 23:40:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rah Band - Tears And Rain (6 plays)</title>
+      <link>https://www.last.fm/music/Rah+Band/_/Tears+And+Rain</link>
+      <guid isPermaLink="false">Frippertron-1673325868--138f1987-bbb8-48b9-8d77-bf02576b0905---Tears And Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
+      <pubDate>Mon, 09 Jan 2023 23:44:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
