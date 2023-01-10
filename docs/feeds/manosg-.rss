@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jan 2023 16:58:03 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - From Me To You - Mono / Remastered (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/From+Me+To+You+-+Mono+%2F+Remastered</link>
-      <guid isPermaLink="false">manosg--1673264674--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---From Me To You - Mono / Remastered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/207c9708aabfc084aee235ab2c8c4ee9.jpg" length="5326" type="image/jpeg"/>
-      <pubDate>Mon, 09 Jan 2023 06:44:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - She Loves You - Mono / Remastered (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/She+Loves+You+-+Mono+%2F+Remastered</link>
-      <guid isPermaLink="false">manosg--1673264790--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---She Loves You - Mono / Remastered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/207c9708aabfc084aee235ab2c8c4ee9.jpg" length="5326" type="image/jpeg"/>
-      <pubDate>Mon, 09 Jan 2023 06:46:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - I Want To Hold Your Hand - Remastered 2015 (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/I+Want+To+Hold+Your+Hand+-+Remastered+2015</link>
-      <guid isPermaLink="false">manosg--1673264930--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---I Want To Hold Your Hand - Remastered 2015</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/207c9708aabfc084aee235ab2c8c4ee9.jpg" length="5326" type="image/jpeg"/>
-      <pubDate>Mon, 09 Jan 2023 06:48:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Jan 2023 17:21:44 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Can't Buy Me Love - Remastered 2015 (1 play)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Can%27t+Buy+Me+Love+-+Remastered+2015</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1673368205--George Harrison---Plug Me In - Remastered 2014</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87d411d0a917a74ce3a08d220802b244.jpg" length="21455" type="image/jpeg"/>
       <pubDate>Tue, 10 Jan 2023 11:30:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>George Harrison - I Remember Jeep - Remastered 2014 (1 play)</title>
+      <link>https://www.last.fm/music/George+Harrison/_/I+Remember+Jeep+-+Remastered+2014</link>
+      <guid isPermaLink="false">manosg--1673368405--George Harrison---I Remember Jeep - Remastered 2014</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87d411d0a917a74ce3a08d220802b244.jpg" length="21455" type="image/jpeg"/>
+      <pubDate>Tue, 10 Jan 2023 11:33:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>George Harrison - Thanks For The Pepperoni - Remastered 2014 (1 play)</title>
+      <link>https://www.last.fm/music/George+Harrison/_/Thanks+For+The+Pepperoni+-+Remastered+2014</link>
+      <guid isPermaLink="false">manosg--1673370045--George Harrison---Thanks For The Pepperoni - Remastered 2014</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87d411d0a917a74ce3a08d220802b244.jpg" length="21455" type="image/jpeg"/>
+      <pubDate>Tue, 10 Jan 2023 12:00:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>George Harrison - Out Of The Blue - Remastered 2014 (1 play)</title>
+      <link>https://www.last.fm/music/George+Harrison/_/Out+Of+The+Blue+-+Remastered+2014</link>
+      <guid isPermaLink="false">manosg--1673370395--George Harrison---Out Of The Blue - Remastered 2014</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87d411d0a917a74ce3a08d220802b244.jpg" length="21455" type="image/jpeg"/>
+      <pubDate>Tue, 10 Jan 2023 12:06:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
