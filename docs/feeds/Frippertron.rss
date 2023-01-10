@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jan 2023 05:52:21 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - One More Red Nightmare (81 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/One+More+Red+Nightmare</link>
-      <guid isPermaLink="false">Frippertron-1673257268--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---One More Red Nightmare</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 09 Jan 2023 04:41:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Providence (74 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Providence</link>
-      <guid isPermaLink="false">Frippertron-1673257700--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Providence</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 09 Jan 2023 04:48:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Jan 2023 06:23:41 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Starless (223 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Starless</link>
@@ -219,7 +205,7 @@
       <pubDate>Mon, 09 Jan 2023 22:59:23 -0500</pubDate>
     </item>
     <item>
-      <title>Magma - Da Zeuhl Wortz Mekanïk (9 plays)</title>
+      <title>Magma - Da Zeuhl Wortz Mekanïk</title>
       <link>https://www.last.fm/music/Magma/_/Da+Zeuhl+Wortz+Mekan%C3%AFk</link>
       <guid isPermaLink="false">Frippertron-1673323381--Magma---Da Zeuhl Wortz Mekanïk</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d41569300d9444eb294c3d7463cb798.png" length="82630" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1673329661--c12476fc-3f8d-4340-8dba-883bdee08ee7---The Cry</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41b8ea7e11d31887f03dae7b9b6386eb.jpg" length="25123" type="image/jpeg"/>
       <pubDate>Tue, 10 Jan 2023 00:47:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Demilich - Raped Embalmed Beauty Sleep (2 plays)</title>
+      <link>https://www.last.fm/music/Demilich/_/Raped+Embalmed+Beauty+Sleep</link>
+      <guid isPermaLink="false">Frippertron-1673329886--c12476fc-3f8d-4340-8dba-883bdee08ee7---Raped Embalmed Beauty Sleep</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41b8ea7e11d31887f03dae7b9b6386eb.jpg" length="25123" type="image/jpeg"/>
+      <pubDate>Tue, 10 Jan 2023 00:51:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magma - Mëkanïk Dëstruktïẁ Kömmandöh (2 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/M%C3%ABkan%C3%AFk+D%C3%ABstrukt%C3%AF%E1%BA%81+K%C3%B6mmand%C3%B6h</link>
+      <guid isPermaLink="false">Frippertron-1673330136--Magma---Mëkanïk Dëstruktïẁ Kömmandöh</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 10 Jan 2023 00:55:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
