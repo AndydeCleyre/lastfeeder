@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jan 2023 17:21:24 +0000</lastBuildDate>
-    <item>
-      <title>Lady Gaga - Bad Romance (14 plays)</title>
-      <link>https://www.last.fm/music/Lady+Gaga/_/Bad+Romance</link>
-      <guid isPermaLink="false">rockijosh-1673137161--650e7db6-b795-4eb5-a702-5ea2fc46c848---Bad Romance</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0dc64dbb17438473725ef05fef4e6741.png" length="80049" type="image/png"/>
-      <pubDate>Sat, 07 Jan 2023 19:19:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Jan 2023 17:38:56 +0000</lastBuildDate>
     <item>
       <title>Finsterforst - Wrecking Ball (4 plays)</title>
       <link>https://www.last.fm/music/Finsterforst/_/Wrecking+Ball</link>
@@ -156,7 +149,7 @@
       <pubDate>Tue, 10 Jan 2023 08:01:29 -0500</pubDate>
     </item>
     <item>
-      <title>Fickle Friends - IRL (4 plays)</title>
+      <title>Fickle Friends - IRL (5 plays)</title>
       <link>https://www.last.fm/music/Fickle+Friends/_/IRL</link>
       <guid isPermaLink="false">rockijosh-1673355847--2520d6eb-fe07-4403-bb99-7f7bfd68b701---IRL</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adfc767a83088c59a38ab5738cf1a36f.jpg" length="17105" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1673370923--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Welcome to My Island</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e7709517735b5d3521002997ad73032.jpg" length="8322" type="image/jpeg"/>
       <pubDate>Tue, 10 Jan 2023 12:15:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fickle Friends - IRL (5 plays)</title>
+      <link>https://www.last.fm/music/Fickle+Friends/_/IRL</link>
+      <guid isPermaLink="false">rockijosh-1673371157--2520d6eb-fe07-4403-bb99-7f7bfd68b701---IRL</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adfc767a83088c59a38ab5738cf1a36f.jpg" length="17105" type="image/jpeg"/>
+      <pubDate>Tue, 10 Jan 2023 12:19:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
