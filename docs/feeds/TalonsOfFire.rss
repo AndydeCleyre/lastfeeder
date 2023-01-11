@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Jan 2023 17:22:30 +0000</lastBuildDate>
-    <item>
-      <title>Four Tet - Locked (4 plays)</title>
-      <link>https://www.last.fm/music/Four+Tet/_/Locked</link>
-      <guid isPermaLink="false">TalonsOfFire-1673217677--3bcff06f-675a-451f-9075-99e8657047e8---Locked</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d29a1ae5c57a436a8357da752ee2cc0e.png" length="215506" type="image/png"/>
-      <pubDate>Sun, 08 Jan 2023 17:41:17 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Jan 2023 17:41:49 +0000</lastBuildDate>
     <item>
       <title>Mark Hollis - Westward Bound (10 plays)</title>
       <link>https://www.last.fm/music/Mark+Hollis/_/Westward+Bound</link>
@@ -313,6 +306,7 @@
       <title>Prefab Sprout - Hey Manhattan! (5 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Hey+Manhattan!</link>
       <guid isPermaLink="false">TalonsOfFire-1673226334--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Hey Manhattan!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
       <pubDate>Sun, 08 Jan 2023 20:05:34 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1673457340--Riverside---02 Panic Room</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f385e75998c3ca95265e99e3e207fd57.jpg" length="18262" type="image/jpeg"/>
       <pubDate>Wed, 11 Jan 2023 12:15:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Riverside - Embryonic (5 plays)</title>
+      <link>https://www.last.fm/music/Riverside/_/Embryonic</link>
+      <guid isPermaLink="false">TalonsOfFire-1673457669--Riverside---Embryonic</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f385e75998c3ca95265e99e3e207fd57.jpg" length="18262" type="image/jpeg"/>
+      <pubDate>Wed, 11 Jan 2023 12:21:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
