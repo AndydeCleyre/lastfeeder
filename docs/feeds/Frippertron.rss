@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Jan 2023 10:41:41 +0000</lastBuildDate>
-    <item>
-      <title>Kate Bush - Leave It Open (48 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/Leave+It+Open</link>
-      <guid isPermaLink="false">Frippertron-1673502263--4b585938-f271-45e2-b19a-91c634b5e396---Leave It Open</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jan 2023 00:44:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Jan 2023 10:53:26 +0000</lastBuildDate>
     <item>
       <title>Kate Bush - The Dreaming (51 plays)</title>
       <link>https://www.last.fm/music/Kate+Bush/_/The+Dreaming</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1673519780--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---In the Wake of Poseidon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 12 Jan 2023 05:36:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Islands (65 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Islands</link>
+      <guid isPermaLink="false">Frippertron-1673520286--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Islands</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 12 Jan 2023 05:44:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
