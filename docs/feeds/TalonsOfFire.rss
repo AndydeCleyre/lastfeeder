@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Jan 2023 20:19:43 +0000</lastBuildDate>
-    <item>
-      <title>Toby Driver - Glyph (14 plays)</title>
-      <link>https://www.last.fm/music/Toby+Driver/_/Glyph</link>
-      <guid isPermaLink="false">TalonsOfFire-1673213934--3dfa29d2-6a2e-4092-9bef-6e336782dca9---Glyph</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e70cae69a9a36de8627d80f11e1c492d.jpg" length="6231" type="image/jpeg"/>
-      <pubDate>Sun, 08 Jan 2023 16:38:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Jan 2023 23:52:43 +0000</lastBuildDate>
     <item>
       <title>Jonny Greenwood - Sandalwood I (6 plays)</title>
       <link>https://www.last.fm/music/Jonny+Greenwood/_/Sandalwood+I</link>
@@ -222,6 +215,7 @@
       <title>Kauan - Lapsenmuisto (5 plays)</title>
       <link>https://www.last.fm/music/Kauan/_/Lapsenmuisto</link>
       <guid isPermaLink="false">TalonsOfFire-1673225461--182430af-bc1c-4028-b2c8-37d77e0df225---Lapsenmuisto</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b44dfde133bafa07c45b07b3b1458607.jpg" length="4863" type="image/jpeg"/>
       <pubDate>Sun, 08 Jan 2023 19:51:01 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1673554408--0f6df3f2-01f5-4d9a-a047-a76c907d7b66---The Womb Of Winter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a24fc904423d05b2e3b3950d5e91a3e.jpg" length="19729" type="image/jpeg"/>
       <pubDate>Thu, 12 Jan 2023 15:13:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Grouper - Kelso (Blue sky) (2 plays)</title>
+      <link>https://www.last.fm/music/Grouper/_/Kelso+(Blue+sky)</link>
+      <guid isPermaLink="false">TalonsOfFire-1673554644--7e571e09-887e-4544-b993-eb75e7837ec1---Kelso (Blue sky)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/852432add16d5b8ebee29e5056c6ce8b.jpg" length="6126" type="image/jpeg"/>
+      <pubDate>Thu, 12 Jan 2023 15:17:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
