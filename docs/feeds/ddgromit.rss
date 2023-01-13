@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jan 2023 18:52:40 +0000</lastBuildDate>
-    <item>
-      <title>Bear's Den - Sophie (3 plays)</title>
-      <link>https://www.last.fm/music/Bear%27s+Den/_/Sophie</link>
-      <guid isPermaLink="false">ddgromit-1672633102--f11f6e85-a39a-4dd8-875b-cd84839ddec6---Sophie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6517214830a34418c49ec9ebf41c3adc.jpg" length="15713" type="image/jpeg"/>
-      <pubDate>Sun, 01 Jan 2023 23:18:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Jan 2023 19:13:55 +0000</lastBuildDate>
     <item>
       <title>Tulsi Kumar - Twinkle Twinkle Little Star (11 plays)</title>
       <link>https://www.last.fm/music/Tulsi+Kumar/_/Twinkle+Twinkle+Little+Star</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1673635151--Twin Caverns---Swell</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60cdbaab5db3a703405d03d669c8123f.jpg" length="12624" type="image/jpeg"/>
       <pubDate>Fri, 13 Jan 2023 13:39:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Volcano Choir - Byegone (1 play)</title>
+      <link>https://www.last.fm/music/Volcano+Choir/_/Byegone</link>
+      <guid isPermaLink="false">ddgromit-1673635872--7d57bab8-3c1f-4c91-8dd2-dd51c89155a2---Byegone</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3f9cdf2dd79d44be87dab94f1943fb66.png" length="169719" type="image/png"/>
+      <pubDate>Fri, 13 Jan 2023 13:51:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
