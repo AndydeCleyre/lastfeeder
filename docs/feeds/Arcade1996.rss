@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jan 2023 13:05:14 +0000</lastBuildDate>
-    <item>
-      <title>Everything But the Girl - Single (36 plays)</title>
-      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Single</link>
-      <guid isPermaLink="false">Arcade1996-1673530144--959cf5bf-ee29-4af6-a85a-0b480181d988---Single</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/333d7c67a6181d2dc07901442018457a.jpg" length="24909" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jan 2023 08:29:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Jan 2023 13:32:15 +0000</lastBuildDate>
     <item>
       <title>Everything But the Girl - Five Fathoms (11 plays)</title>
       <link>https://www.last.fm/music/Everything+But+the+Girl/_/Five+Fathoms</link>
@@ -86,7 +79,7 @@
       <pubDate>Thu, 12 Jan 2023 19:44:49 -0500</pubDate>
     </item>
     <item>
-      <title>Everything But the Girl - Five Fathoms (11 plays)</title>
+      <title>Everything But the Girl - Five Fathoms</title>
       <link>https://www.last.fm/music/Everything+But+the+Girl/_/Five+Fathoms</link>
       <guid isPermaLink="false">Arcade1996-1673600995--959cf5bf-ee29-4af6-a85a-0b480181d988---Five Fathoms</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d23e96cffabb74f97bd5f83bab0f4e9.jpg" length="16850" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1673614714--596ffa74-3d08-44ef-b113-765d43d12738---Rock Your Body</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1ccafd800684d58d596521313687b76.jpg" length="20272" type="image/jpeg"/>
       <pubDate>Fri, 13 Jan 2023 07:58:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bruno Mars - Finesse (1 play)</title>
+      <link>https://www.last.fm/music/Bruno+Mars/_/Finesse</link>
+      <guid isPermaLink="false">Arcade1996-1673614994--afb680f2-b6eb-4cd7-a70b-a63b25c763d5---Finesse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f18dc30b48412484b34ebff24ba615be.jpg" length="16430" type="image/jpeg"/>
+      <pubDate>Fri, 13 Jan 2023 08:03:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
