@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jan 2023 20:17:10 +0000</lastBuildDate>
-    <item>
-      <title>Hans Zimmer - King of Pride Rock - From "The Lion King"/Score (1 play)</title>
-      <link>https://www.last.fm/music/Hans+Zimmer/_/King+of+Pride+Rock+-+From+%22The+Lion+King%22%2FScore</link>
-      <guid isPermaLink="false">walrus898-1672951776--Hans Zimmer---King of Pride Rock - From "The Lion King"/Score</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d59f9fcc45fda1afcf11eb0cfebbcbb.jpg" length="26304" type="image/jpeg"/>
-      <pubDate>Thu, 05 Jan 2023 15:49:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Circle of Life - From "The Lion King"/Soundtrack Version (1 play)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Circle+of+Life+-+From+%22The+Lion+King%22%2FSoundtrack+Version</link>
-      <guid isPermaLink="false">walrus898-1672952135--Elton John---Circle of Life - From "The Lion King"/Soundtrack Version</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d59f9fcc45fda1afcf11eb0cfebbcbb.jpg" length="26304" type="image/jpeg"/>
-      <pubDate>Thu, 05 Jan 2023 15:55:35 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Jan 2023 20:38:01 +0000</lastBuildDate>
     <item>
       <title>Elton John - I Just Can't Wait to Be King - From "The Lion King"/Soundtrack Version (1 play)</title>
       <link>https://www.last.fm/music/Elton+John/_/I+Just+Can%27t+Wait+to+Be+King+-+From+%22The+Lion+King%22%2FSoundtrack+Version</link>
@@ -103,7 +89,6 @@
       <title>Ruth Radelet - Crimes (1 play)</title>
       <link>https://www.last.fm/music/Ruth+Radelet/_/Crimes</link>
       <guid isPermaLink="false">walrus898-1673234020--fd5b3d6e-ecd6-45be-bbd9-5faf2dc5e14d---Crimes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c9af150a8bcaa89360ae37d0d028a0d.jpg" length="21792" type="image/jpeg"/>
       <pubDate>Sun, 08 Jan 2023 22:13:40 -0500</pubDate>
     </item>
     <item>
@@ -233,7 +218,7 @@
       <pubDate>Tue, 10 Jan 2023 12:53:07 -0500</pubDate>
     </item>
     <item>
-      <title>Generationals - I Was A Tunnel (1 play)</title>
+      <title>Generationals - I Was A Tunnel (2 plays)</title>
       <link>https://www.last.fm/music/Generationals/_/I+Was+A+Tunnel</link>
       <guid isPermaLink="false">walrus898-1673373593--11f34bce-298f-4527-a5eb-28cafee71c4f---I Was A Tunnel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb25d86087d832b7e729157f3209266.jpg" length="33908" type="image/jpeg"/>
@@ -289,7 +274,7 @@
       <pubDate>Wed, 11 Jan 2023 11:18:49 -0500</pubDate>
     </item>
     <item>
-      <title>Oberhofer - Let It Go - Demo (1 play)</title>
+      <title>Oberhofer - Let It Go - Demo (2 plays)</title>
       <link>https://www.last.fm/music/Oberhofer/_/Let+It+Go+-+Demo</link>
       <guid isPermaLink="false">walrus898-1673454160--1c216af5-1ea9-4b7e-9046-a9ed1eb43476---Let It Go - Demo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e54614d4996b9c541b093d417ae8901.jpg" length="16988" type="image/jpeg"/>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">walrus898-1673726602--29765e3c-95f0-4682-b97e-02c45fac8390---Ten Whole Years</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 14 Jan 2023 15:03:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Oberhofer - Let It Go - Demo (2 plays)</title>
+      <link>https://www.last.fm/music/Oberhofer/_/Let+It+Go+-+Demo</link>
+      <guid isPermaLink="false">walrus898-1673726808--1c216af5-1ea9-4b7e-9046-a9ed1eb43476---Let It Go - Demo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e54614d4996b9c541b093d417ae8901.jpg" length="16988" type="image/jpeg"/>
+      <pubDate>Sat, 14 Jan 2023 15:06:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Generationals - I Was A Tunnel (2 plays)</title>
+      <link>https://www.last.fm/music/Generationals/_/I+Was+A+Tunnel</link>
+      <guid isPermaLink="false">walrus898-1673727738--11f34bce-298f-4527-a5eb-28cafee71c4f---I Was A Tunnel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb25d86087d832b7e729157f3209266.jpg" length="33908" type="image/jpeg"/>
+      <pubDate>Sat, 14 Jan 2023 15:22:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
