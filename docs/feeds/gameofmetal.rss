@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jan 2023 16:24:41 +0000</lastBuildDate>
-    <item>
-      <title>Sleep Token - Atlantic (1 play)</title>
-      <link>https://www.last.fm/music/Sleep+Token/_/Atlantic</link>
-      <guid isPermaLink="false">gameofmetal-1673537273--775ad383-ac2d-479a-af9d-b561442cb749---Atlantic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b91378422afe120679bb0dfc731ab03.jpg" length="13522" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jan 2023 10:27:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Jan 2023 17:37:19 +0000</lastBuildDate>
     <item>
       <title>Sleep Token - Hypnosis (3 plays)</title>
       <link>https://www.last.fm/music/Sleep+Token/_/Hypnosis</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1673885110--Ahab---Red Foam (The Great Storm)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/996571bd58a94b19c436442a531de484.png" length="236473" type="image/png"/>
       <pubDate>Mon, 16 Jan 2023 11:05:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ahab - The Weedmen (1 play)</title>
+      <link>https://www.last.fm/music/Ahab/_/The+Weedmen</link>
+      <guid isPermaLink="false">gameofmetal-1673885495--b1f91f8b-a708-4e05-ace1-630816aa1566---The Weedmen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/996571bd58a94b19c436442a531de484.png" length="236473" type="image/png"/>
+      <pubDate>Mon, 16 Jan 2023 11:11:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
