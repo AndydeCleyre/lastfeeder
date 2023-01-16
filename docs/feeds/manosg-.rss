@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jan 2023 16:45:54 +0000</lastBuildDate>
-    <item>
-      <title>Jeff Buckley - So Real (1 play)</title>
-      <link>https://www.last.fm/music/Jeff+Buckley/_/So+Real</link>
-      <guid isPermaLink="false">manosg--1673780815--e6e879c0-3d56-4f12-b3c5-3ce459661a8e---So Real</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e67632f2ae8a416c97b8fc3191d77894.png" length="186474" type="image/png"/>
-      <pubDate>Sun, 15 Jan 2023 06:06:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Jan 2023 17:52:15 +0000</lastBuildDate>
     <item>
       <title>Jeff Buckley - Hallelujah (3 plays)</title>
       <link>https://www.last.fm/music/Jeff+Buckley/_/Hallelujah</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1673887010--cc0b7089-c08d-4c10-b6b0-873582c17fd6---Science</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dfc476f560cf4920b94a5ab5d539b05b.png" length="227895" type="image/png"/>
       <pubDate>Mon, 16 Jan 2023 11:36:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amorphis - Sampo (14 plays)</title>
+      <link>https://www.last.fm/music/Amorphis/_/Sampo</link>
+      <guid isPermaLink="false">manosg--1673887168--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Sampo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb97634d5dcb44bf80367cf4e2deb676.png" length="194513" type="image/png"/>
+      <pubDate>Mon, 16 Jan 2023 11:39:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
