@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jan 2023 10:52:16 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - The Letters (75 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/The+Letters</link>
-      <guid isPermaLink="false">Frippertron-1673928138--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Letters</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 16 Jan 2023 23:02:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Ladies of the Road (109 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Ladies+of+the+Road</link>
-      <guid isPermaLink="false">Frippertron-1673928409--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Ladies of the Road</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 16 Jan 2023 23:06:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Prelude: Song of the Gulls (34 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Prelude:+Song+of+the+Gulls</link>
-      <guid isPermaLink="false">Frippertron-1673928744--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Prelude: Song of the Gulls</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 16 Jan 2023 23:12:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jan 2023 11:14:55 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Islands (66 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Islands</link>
@@ -303,7 +282,7 @@
       <pubDate>Tue, 17 Jan 2023 05:01:09 -0500</pubDate>
     </item>
     <item>
-      <title>King Crimson - Larks' Tongues In Aspic (Part II) (251 plays)</title>
+      <title>King Crimson - Larks' Tongues In Aspic (Part II) (252 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+In+Aspic+(Part+II)</link>
       <guid isPermaLink="false">Frippertron-1673950000--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Larks' Tongues In Aspic (Part II)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1673952540--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Frame by Frame</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 17 Jan 2023 05:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Sleepless (71 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Sleepless</link>
+      <guid isPermaLink="false">Frippertron-1673952780--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Sleepless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 17 Jan 2023 05:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Larks' Tongues In Aspic (Part II) (252 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+In+Aspic+(Part+II)</link>
+      <guid isPermaLink="false">Frippertron-1673953137--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Larks' Tongues In Aspic (Part II)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 17 Jan 2023 05:58:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Bring Me The Disco King (72 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Bring+Me+The+Disco+King</link>
+      <guid isPermaLink="false">Frippertron-1673953550--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bring Me The Disco King</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45d9302a3796493dc908e8028dd0098e.png" length="180524" type="image/png"/>
+      <pubDate>Tue, 17 Jan 2023 06:05:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
