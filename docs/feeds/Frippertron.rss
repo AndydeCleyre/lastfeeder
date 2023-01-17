@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jan 2023 04:21:46 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - The Royal Scam (11 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/The+Royal+Scam</link>
-      <guid isPermaLink="false">Frippertron-1673849112--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Royal Scam</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jan 2023 01:05:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kate Bush - Sat in Your Lap (73 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/Sat+in+Your+Lap</link>
-      <guid isPermaLink="false">Frippertron-1673849551--4b585938-f271-45e2-b19a-91c634b5e396---Sat in Your Lap</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdcb38afa602c94070e6a89b016fa94b.jpg" length="30366" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jan 2023 01:12:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jan 2023 04:40:56 +0000</lastBuildDate>
     <item>
       <title>Kate Bush - There Goes a Tenner (56 plays)</title>
       <link>https://www.last.fm/music/Kate+Bush/_/There+Goes+a+Tenner</link>
@@ -135,7 +121,7 @@
       <pubDate>Mon, 16 Jan 2023 03:26:07 -0500</pubDate>
     </item>
     <item>
-      <title>John Cale - Story of Blood (13 plays)</title>
+      <title>John Cale - Story of Blood (14 plays)</title>
       <link>https://www.last.fm/music/John+Cale/_/Story+of+Blood</link>
       <guid isPermaLink="false">Frippertron-1673857768--John Cale---Story of Blood</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ca962b00d818b52d591065d5797b76e.jpg" length="17018" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1673929003--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Islands</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 16 Jan 2023 23:16:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>John Cale - Story of Blood (14 plays)</title>
+      <link>https://www.last.fm/music/John+Cale/_/Story+of+Blood</link>
+      <guid isPermaLink="false">Frippertron-1673929576--John Cale---Story of Blood</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ca962b00d818b52d591065d5797b76e.jpg" length="17018" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jan 2023 23:26:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Stay (245 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
+      <guid isPermaLink="false">Frippertron-1673930039--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jan 2023 23:33:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
