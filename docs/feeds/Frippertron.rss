@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jan 2023 11:14:55 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Islands (66 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Islands</link>
-      <guid isPermaLink="false">Frippertron-1673929003--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Islands</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 16 Jan 2023 23:16:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>John Cale - Story of Blood (14 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Story+of+Blood</link>
-      <guid isPermaLink="false">Frippertron-1673929576--John Cale---Story of Blood</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ca962b00d818b52d591065d5797b76e.jpg" length="17018" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jan 2023 23:26:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jan 2023 11:26:48 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Stay (245 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1673953550--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bring Me The Disco King</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45d9302a3796493dc908e8028dd0098e.png" length="180524" type="image/png"/>
       <pubDate>Tue, 17 Jan 2023 06:05:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Loving the Alien (125 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
+      <guid isPermaLink="false">Frippertron-1673954017--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jan 2023 06:13:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Dead Man Walking (66 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
+      <guid isPermaLink="false">Frippertron-1673954453--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jan 2023 06:20:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
