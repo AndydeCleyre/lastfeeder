@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jan 2023 06:22:01 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Mayday Galliard (206 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
-      <guid isPermaLink="false">Frippertron-1673856295--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jan 2023 03:04:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jan 2023 06:41:21 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Long Flowing Robe (74 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Long+Flowing+Robe</link>
@@ -100,7 +93,7 @@
       <pubDate>Mon, 16 Jan 2023 04:35:53 -0500</pubDate>
     </item>
     <item>
-      <title>Rosetta - Au Pays Natal (1 play)</title>
+      <title>Rosetta - Au Pays Natal (2 plays)</title>
       <link>https://www.last.fm/music/Rosetta/_/Au+Pays+Natal</link>
       <guid isPermaLink="false">Frippertron-1673862731--79489e1b-5658-4e5f-8841-3e313946dc4d---Au Pays Natal</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75a24a1788ae4814b2a1605734531f2d.jpg" length="34236" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1673936111--79489e1b-5658-4e5f-8841-3e313946dc4d---Itinérant</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75a24a1788ae4814b2a1605734531f2d.jpg" length="34236" type="image/jpeg"/>
       <pubDate>Tue, 17 Jan 2023 01:15:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rosetta - Au Pays Natal (2 plays)</title>
+      <link>https://www.last.fm/music/Rosetta/_/Au+Pays+Natal</link>
+      <guid isPermaLink="false">Frippertron-1673937199--79489e1b-5658-4e5f-8841-3e313946dc4d---Au Pays Natal</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75a24a1788ae4814b2a1605734531f2d.jpg" length="34236" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jan 2023 01:33:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
