@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jan 2023 11:52:26 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Kid Charlemagne (12 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Kid+Charlemagne</link>
-      <guid isPermaLink="false">Frippertron-1673847014--e01c3376-15fa-40d7-b747-5f219bdefdd7---Kid Charlemagne</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jan 2023 00:30:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jan 2023 03:37:49 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - The Caves Of Altamira (20 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/The+Caves+Of+Altamira</link>
@@ -317,7 +310,7 @@
       <pubDate>Mon, 16 Jan 2023 05:51:59 -0500</pubDate>
     </item>
     <item>
-      <title>King Crimson - Moonchild (22 plays)</title>
+      <title>King Crimson - Moonchild (23 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Moonchild</link>
       <guid isPermaLink="false">Frippertron-1673866788--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Moonchild</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1673868914--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Thousand Knives</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f84ae4d6261be905ee2fb8b11ff1ab4.jpg" length="21132" type="image/jpeg"/>
       <pubDate>Mon, 16 Jan 2023 06:35:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Moonchild (23 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Moonchild</link>
+      <guid isPermaLink="false">Frippertron-1673925943--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Moonchild</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 16 Jan 2023 22:25:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
