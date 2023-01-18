@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jan 2023 09:17:30 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Dead Man Walking (67 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
-      <guid isPermaLink="false">Frippertron-1673954453--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jan 2023 06:20:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>Duster - The Phantom Facing Me (5 plays)</title>
-      <link>https://www.last.fm/music/Duster/_/The+Phantom+Facing+Me</link>
-      <guid isPermaLink="false">Frippertron-1673954746--Duster---The Phantom Facing Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/845716297e338b13a715e43d54f06453.jpg" length="11363" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jan 2023 06:25:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jan 2023 09:38:24 +0000</lastBuildDate>
     <item>
       <title>Duster - The Breakup Suite (5 plays)</title>
       <link>https://www.last.fm/music/Duster/_/The+Breakup+Suite</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674033096--3979eee5-c72a-4b0a-9191-a0243881250a---Abyss Hinge 2: The Shrinking Armature</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3d7e1fb6c549df90dea1b1d66f69f4.png" length="67374" type="image/png"/>
       <pubDate>Wed, 18 Jan 2023 04:11:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Cartogram Out of Phase (17 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Cartogram+Out+of+Phase</link>
+      <guid isPermaLink="false">Frippertron-1674033919--3979eee5-c72a-4b0a-9191-a0243881250a---Cartogram Out of Phase</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3d7e1fb6c549df90dea1b1d66f69f4.png" length="67374" type="image/png"/>
+      <pubDate>Wed, 18 Jan 2023 04:25:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - The Knight Errant (2 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/The+Knight+Errant</link>
+      <guid isPermaLink="false">Frippertron-1674034146--3979eee5-c72a-4b0a-9191-a0243881250a---The Knight Errant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a70244a24a18a1ab87debf114ffec441.jpg" length="23882" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jan 2023 04:29:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
