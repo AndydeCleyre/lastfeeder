@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jan 2023 08:41:24 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Frame by Frame (103 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Frame+by+Frame</link>
-      <guid isPermaLink="false">Frippertron-1673952540--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Frame by Frame</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 17 Jan 2023 05:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Sleepless (71 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Sleepless</link>
-      <guid isPermaLink="false">Frippertron-1673952780--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Sleepless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 17 Jan 2023 05:53:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jan 2023 08:53:27 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Larks' Tongues In Aspic (Part II) (253 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Larks%27+Tongues+In+Aspic+(Part+II)</link>
@@ -30,7 +16,7 @@
       <pubDate>Tue, 17 Jan 2023 05:58:57 -0500</pubDate>
     </item>
     <item>
-      <title>David Bowie - Bring Me The Disco King (72 plays)</title>
+      <title>David Bowie - Bring Me The Disco King</title>
       <link>https://www.last.fm/music/David+Bowie/_/Bring+Me+The+Disco+King</link>
       <guid isPermaLink="false">Frippertron-1673953550--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bring Me The Disco King</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45d9302a3796493dc908e8028dd0098e.png" length="180524" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674030883--3979eee5-c72a-4b0a-9191-a0243881250a---The Useless Ladder</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
       <pubDate>Wed, 18 Jan 2023 03:34:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Symmetrical Arizona (74 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Symmetrical+Arizona</link>
+      <guid isPermaLink="false">Frippertron-1674031047--3979eee5-c72a-4b0a-9191-a0243881250a---Symmetrical Arizona</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jan 2023 03:37:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Calonyction Girl (10 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Calonyction+Girl</link>
+      <guid isPermaLink="false">Frippertron-1674031710--3979eee5-c72a-4b0a-9191-a0243881250a---Calonyction Girl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3d7e1fb6c549df90dea1b1d66f69f4.png" length="67374" type="image/png"/>
+      <pubDate>Wed, 18 Jan 2023 03:48:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
