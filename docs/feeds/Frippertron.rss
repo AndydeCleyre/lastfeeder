@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jan 2023 10:39:58 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Do It Again (15 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Do+It+Again</link>
-      <guid isPermaLink="false">Frippertron-1674012828--e01c3376-15fa-40d7-b747-5f219bdefdd7---Do It Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
-      <pubDate>Tue, 17 Jan 2023 22:33:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Dirty Work (6 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Dirty+Work</link>
-      <guid isPermaLink="false">Frippertron-1674013186--e01c3376-15fa-40d7-b747-5f219bdefdd7---Dirty Work</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
-      <pubDate>Tue, 17 Jan 2023 22:39:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jan 2023 10:52:29 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Only A Fool Would Say That (8 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Only+A+Fool+Would+Say+That</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674036966--3979eee5-c72a-4b0a-9191-a0243881250a---Epipsychidion</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a70244a24a18a1ab87debf114ffec441.jpg" length="23882" type="image/jpeg"/>
       <pubDate>Wed, 18 Jan 2023 05:16:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - Tong Poo (54 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Tong+Poo</link>
+      <guid isPermaLink="false">Frippertron-1674038324--ac5af671-1df0-4312-8b7b-e61992ecc883---Tong Poo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e921f13b6f64750c7cf28dbd8671a92.png" length="184608" type="image/png"/>
+      <pubDate>Wed, 18 Jan 2023 05:38:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - Gradated Grey (4 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Gradated+Grey</link>
+      <guid isPermaLink="false">Frippertron-1674038698--ac5af671-1df0-4312-8b7b-e61992ecc883---Gradated Grey</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe340b2717cc522039b5f4aab1cffac7.jpg" length="17013" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jan 2023 05:44:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
