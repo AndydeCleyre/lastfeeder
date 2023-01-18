@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jan 2023 11:26:45 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Loving the Alien (126 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
-      <guid isPermaLink="false">Frippertron-1674014395--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jan 2023 22:59:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Dead Man Walking (67 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
-      <guid isPermaLink="false">Frippertron-1674014822--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jan 2023 23:07:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jan 2023 11:38:36 +0000</lastBuildDate>
     <item>
       <title>Shohei Amimori - Sonasile (3 plays)</title>
       <link>https://www.last.fm/music/Shohei+Amimori/_/Sonasile</link>
@@ -317,7 +303,7 @@
       <pubDate>Wed, 18 Jan 2023 05:16:06 -0500</pubDate>
     </item>
     <item>
-      <title>Yellow Magic Orchestra - Tong Poo (54 plays)</title>
+      <title>Yellow Magic Orchestra - Tong Poo (55 plays)</title>
       <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Tong+Poo</link>
       <guid isPermaLink="false">Frippertron-1674038324--ac5af671-1df0-4312-8b7b-e61992ecc883---Tong Poo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e921f13b6f64750c7cf28dbd8671a92.png" length="184608" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674040828--ac5af671-1df0-4312-8b7b-e61992ecc883---Firecracker</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e921f13b6f64750c7cf28dbd8671a92.png" length="184608" type="image/png"/>
       <pubDate>Wed, 18 Jan 2023 06:20:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - Simoon (18 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Simoon</link>
+      <guid isPermaLink="false">Frippertron-1674041121--ac5af671-1df0-4312-8b7b-e61992ecc883---Simoon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e921f13b6f64750c7cf28dbd8671a92.png" length="184608" type="image/png"/>
+      <pubDate>Wed, 18 Jan 2023 06:25:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - Tong Poo (55 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Tong+Poo</link>
+      <guid isPermaLink="false">Frippertron-1674041591--ac5af671-1df0-4312-8b7b-e61992ecc883---Tong Poo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e921f13b6f64750c7cf28dbd8671a92.png" length="184608" type="image/png"/>
+      <pubDate>Wed, 18 Jan 2023 06:33:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
