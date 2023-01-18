@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jan 2023 11:14:50 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Green Earrings (18 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Green+Earrings</link>
-      <guid isPermaLink="false">Frippertron-1674013818--e01c3376-15fa-40d7-b747-5f219bdefdd7---Green Earrings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jan 2023 22:50:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Haitian Divorce (21 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Haitian+Divorce</link>
-      <guid isPermaLink="false">Frippertron-1674014063--e01c3376-15fa-40d7-b747-5f219bdefdd7---Haitian Divorce</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jan 2023 22:54:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jan 2023 11:26:45 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Loving the Alien (126 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674039311--ac5af671-1df0-4312-8b7b-e61992ecc883---Behind the Mask</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c426776c314dd574ffc44146749c4835.jpg" length="21832" type="image/jpeg"/>
       <pubDate>Wed, 18 Jan 2023 05:55:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - Computer Game (Theme From 'The Circus') (8 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Computer+Game+(Theme+From+%27The+Circus%27)</link>
+      <guid isPermaLink="false">Frippertron-1674040718--ac5af671-1df0-4312-8b7b-e61992ecc883---Computer Game (Theme From 'The Circus')</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e921f13b6f64750c7cf28dbd8671a92.png" length="184608" type="image/png"/>
+      <pubDate>Wed, 18 Jan 2023 06:18:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - Firecracker (41 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Firecracker</link>
+      <guid isPermaLink="false">Frippertron-1674040828--ac5af671-1df0-4312-8b7b-e61992ecc883---Firecracker</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e921f13b6f64750c7cf28dbd8671a92.png" length="184608" type="image/png"/>
+      <pubDate>Wed, 18 Jan 2023 06:20:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
