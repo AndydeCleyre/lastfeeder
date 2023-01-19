@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jan 2023 07:37:19 +0000</lastBuildDate>
-    <item>
-      <title>Amorphis - Sampo (14 plays)</title>
-      <link>https://www.last.fm/music/Amorphis/_/Sampo</link>
-      <guid isPermaLink="false">manosg--1673887168--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Sampo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb97634d5dcb44bf80367cf4e2deb676.png" length="194513" type="image/png"/>
-      <pubDate>Mon, 16 Jan 2023 11:39:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Jan 2023 08:23:59 +0000</lastBuildDate>
     <item>
       <title>Amorphis - Silver Bride (28 plays)</title>
       <link>https://www.last.fm/music/Amorphis/_/Silver+Bride</link>
@@ -86,7 +79,7 @@
       <pubDate>Mon, 16 Jan 2023 13:34:49 -0500</pubDate>
     </item>
     <item>
-      <title>Wintersun - Darkness and Frost (1 play)</title>
+      <title>Wintersun - Darkness and Frost (2 plays)</title>
       <link>https://www.last.fm/music/Wintersun/_/Darkness+and+Frost</link>
       <guid isPermaLink="false">manosg--1673894452--569622c3-f50f-4556-af46-452ad9c3148e---Darkness and Frost</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5354a7981f1c48e3bbee46682576644d.png" length="251366" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1674112706--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Beginning Of Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79037520456541c8892dde8334d73ebe.png" length="168864" type="image/png"/>
       <pubDate>Thu, 19 Jan 2023 02:18:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wintersun - Darkness and Frost (2 plays)</title>
+      <link>https://www.last.fm/music/Wintersun/_/Darkness+and+Frost</link>
+      <guid isPermaLink="false">manosg--1674113058--569622c3-f50f-4556-af46-452ad9c3148e---Darkness and Frost</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5354a7981f1c48e3bbee46682576644d.png" length="251366" type="image/png"/>
+      <pubDate>Thu, 19 Jan 2023 02:24:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
