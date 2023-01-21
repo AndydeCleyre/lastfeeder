@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Jan 2023 08:21:28 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Lazarus (3 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Lazarus</link>
-      <guid isPermaLink="false">manosg--1674129280--5441c29d-3602-4898-b1a1-b77fa23b8e50---Lazarus</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
-      <pubDate>Thu, 19 Jan 2023 06:54:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Sue (Or in a Season of Crime) (3 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Sue+(Or+in+a+Season+of+Crime)</link>
-      <guid isPermaLink="false">manosg--1674129662--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sue (Or in a Season of Crime)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
-      <pubDate>Thu, 19 Jan 2023 07:01:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Jan 2023 10:52:28 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Girl Loves Me (3 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Girl+Loves+Me</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1674282570--6bf692e0-baac-4428-94c3-423d52508cf0---Music For Miriam</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e80e949bc329a63d558e550cd3b7320.jpg" length="21894" type="image/jpeg"/>
       <pubDate>Sat, 21 Jan 2023 01:29:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Antimatter - No Contact (1 play)</title>
+      <link>https://www.last.fm/music/Antimatter/_/No+Contact</link>
+      <guid isPermaLink="false">manosg--1674288731--Antimatter---No Contact</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d34029626bd9f8943db5225acc4cffd1.jpg" length="31658" type="image/jpeg"/>
+      <pubDate>Sat, 21 Jan 2023 03:12:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Antimatter - Paranoid Carbon (1 play)</title>
+      <link>https://www.last.fm/music/Antimatter/_/Paranoid+Carbon</link>
+      <guid isPermaLink="false">manosg--1674297981--Antimatter---Paranoid Carbon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d34029626bd9f8943db5225acc4cffd1.jpg" length="31658" type="image/jpeg"/>
+      <pubDate>Sat, 21 Jan 2023 05:46:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
