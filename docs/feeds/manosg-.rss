@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Jan 2023 11:13:42 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - I Can't Give Everything Away (3 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/I+Can%27t+Give+Everything+Away</link>
-      <guid isPermaLink="false">manosg--1674151258--5441c29d-3602-4898-b1a1-b77fa23b8e50---I Can't Give Everything Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
-      <pubDate>Thu, 19 Jan 2023 13:00:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Beauty and the Beast - 2017 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast+-+2017+Remaster</link>
-      <guid isPermaLink="false">manosg--1674151715--David Bowie---Beauty and the Beast - 2017 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8b1798abf4f517c0bb53e198df3a7b4.jpg" length="20031" type="image/jpeg"/>
-      <pubDate>Thu, 19 Jan 2023 13:08:35 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Jan 2023 11:25:26 +0000</lastBuildDate>
     <item>
       <title>Twilight Force - Twilight Force (1 play)</title>
       <link>https://www.last.fm/music/Twilight+Force/_/Twilight+Force</link>
@@ -187,7 +173,6 @@
       <title>Soft Machine - Priscilla (3 plays)</title>
       <link>https://www.last.fm/music/Soft+Machine/_/Priscilla</link>
       <guid isPermaLink="false">manosg--1674229236--5193ce6b-a315-4c50-ae49-54e69ffbc988---Priscilla</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef9442bdd9f196be82bd30d59f5ba3dd.png" length="173933" type="image/png"/>
       <pubDate>Fri, 20 Jan 2023 10:40:36 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">manosg--1674299069--Antimatter---Templates</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d34029626bd9f8943db5225acc4cffd1.jpg" length="31658" type="image/jpeg"/>
       <pubDate>Sat, 21 Jan 2023 06:04:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Antimatter - Fold (1 play)</title>
+      <link>https://www.last.fm/music/Antimatter/_/Fold</link>
+      <guid isPermaLink="false">manosg--1674299386--Antimatter---Fold</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d34029626bd9f8943db5225acc4cffd1.jpg" length="31658" type="image/jpeg"/>
+      <pubDate>Sat, 21 Jan 2023 06:09:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Antimatter - Redshift (1 play)</title>
+      <link>https://www.last.fm/music/Antimatter/_/Redshift</link>
+      <guid isPermaLink="false">manosg--1674299731--Antimatter---Redshift</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d34029626bd9f8943db5225acc4cffd1.jpg" length="31658" type="image/jpeg"/>
+      <pubDate>Sat, 21 Jan 2023 06:15:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
