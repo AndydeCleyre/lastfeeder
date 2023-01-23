@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Jan 2023 23:17:48 +0000</lastBuildDate>
-    <item>
-      <title>Haken - Invasion (5 plays)</title>
-      <link>https://www.last.fm/music/Haken/_/Invasion</link>
-      <guid isPermaLink="false">lintmunro-1673115421--0246a3fd-a254-416d-8cd2-e31da4ac6f59---Invasion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bed80930484f1e9753ddb76559a4547.png" length="137389" type="image/png"/>
-      <pubDate>Sat, 07 Jan 2023 13:17:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Jan 2023 21:38:08 +0000</lastBuildDate>
     <item>
       <title>Haken - The Strain (4 plays)</title>
       <link>https://www.last.fm/music/Haken/_/The+Strain</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1674428649--06d53842-b311-490b-ae1d-b35524d09978---Paracosm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ea7fb5edd2436b6444edf49e13d04d2.jpg" length="22322" type="image/jpeg"/>
       <pubDate>Sun, 22 Jan 2023 18:04:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Foretoken - Demon Queller (1 play)</title>
+      <link>https://www.last.fm/music/Foretoken/_/Demon+Queller</link>
+      <guid isPermaLink="false">lintmunro-1674428952--4418acee-8de2-4813-a4b0-0daa8b3716f7---Demon Queller</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/122b27ff2218997ea627e671cb975132.jpg" length="18896" type="image/jpeg"/>
+      <pubDate>Sun, 22 Jan 2023 18:09:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
