@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jan 2023 09:38:15 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - One for the Vine (72 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/One+for+the+Vine</link>
-      <guid isPermaLink="false">Frippertron-1674531205--60aa2510-4ab1-4e50-9267-30a15700dc1c---One for the Vine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8825bb16c376478bc7fd8b88be8b3b93.png" length="125092" type="image/png"/>
-      <pubDate>Mon, 23 Jan 2023 22:33:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - The Lamb Lies Down on Broadway (80 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Lamb+Lies+Down+on+Broadway</link>
-      <guid isPermaLink="false">Frippertron-1674531805--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Lamb Lies Down on Broadway</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
-      <pubDate>Mon, 23 Jan 2023 22:43:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jan 2023 09:52:18 +0000</lastBuildDate>
     <item>
       <title>Genesis - Fly on a Windshield (76 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Fly+on+a+Windshield</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674552721--e9d2cdf6-d485-4074-9a53-9990c9a4d8b1---Oikeamielisten sali</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/395080bc93a5cdb784ab2b8423f9b47b.jpg" length="20358" type="image/jpeg"/>
       <pubDate>Tue, 24 Jan 2023 04:32:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Oranssi Pazuzu - Kuulen ääniä maan alta (1 play)</title>
+      <link>https://www.last.fm/music/Oranssi+Pazuzu/_/Kuulen+%C3%A4%C3%A4ni%C3%A4+maan+alta</link>
+      <guid isPermaLink="false">Frippertron-1674553204--e9d2cdf6-d485-4074-9a53-9990c9a4d8b1---Kuulen ääniä maan alta</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/395080bc93a5cdb784ab2b8423f9b47b.jpg" length="20358" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 04:40:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Oranssi Pazuzu - Taivaan portti (1 play)</title>
+      <link>https://www.last.fm/music/Oranssi+Pazuzu/_/Taivaan+portti</link>
+      <guid isPermaLink="false">Frippertron-1674553639--e9d2cdf6-d485-4074-9a53-9990c9a4d8b1---Taivaan portti</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/395080bc93a5cdb784ab2b8423f9b47b.jpg" length="20358" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 04:47:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
