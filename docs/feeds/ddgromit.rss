@@ -7,63 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jan 2023 20:52:51 +0000</lastBuildDate>
-    <item>
-      <title>SZA - Kill Bill (4 plays)</title>
-      <link>https://www.last.fm/music/SZA/_/Kill+Bill</link>
-      <guid isPermaLink="false">ddgromit-1674323369--272989c8-5535-492d-a25c-9f58803e027f---Kill Bill</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2cfb5bdf137f4d6293565205965750f.jpg" length="29207" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jan 2023 12:49:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>JVKE - golden hour (2 plays)</title>
-      <link>https://www.last.fm/music/JVKE/_/golden+hour</link>
-      <guid isPermaLink="false">ddgromit-1674323476--JVKE---golden hour</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/590f129c184c0416c06aac2de89a978c.jpg" length="22639" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jan 2023 12:51:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>JVKE - this is what falling in love feels like (1 play)</title>
-      <link>https://www.last.fm/music/JVKE/_/this+is+what+falling+in+love+feels+like</link>
-      <guid isPermaLink="false">ddgromit-1674323686--JVKE---this is what falling in love feels like</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/590f129c184c0416c06aac2de89a978c.jpg" length="22639" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jan 2023 12:54:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Martin Garrix - Hero (1 play)</title>
-      <link>https://www.last.fm/music/Martin+Garrix/_/Hero</link>
-      <guid isPermaLink="false">ddgromit-1674324935--3e1f2ee4-16be-4406-bf18-6173840cf2b1---Hero</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30f375313b0f9b42da6e8db29cad1274.png" length="152950" type="image/png"/>
-      <pubDate>Sat, 21 Jan 2023 13:15:35 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gnarls Barkley - Crazy (1 play)</title>
-      <link>https://www.last.fm/music/Gnarls+Barkley/_/Crazy</link>
-      <guid isPermaLink="false">ddgromit-1674355905--a47c3aa2-7d87-475c-a2c7-1e2047dafb09---Crazy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c7ec437f1e5c4406b6bd7dddb62a9d5.jpg" length="26820" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jan 2023 21:51:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Corinne Bailey Rae - Put Your Records On (3 plays)</title>
-      <link>https://www.last.fm/music/Corinne+Bailey+Rae/_/Put+Your+Records+On</link>
-      <guid isPermaLink="false">ddgromit-1674356093--bc85c6f6-6b06-44c1-8754-ef32c1e6b824---Put Your Records On</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52f1205e591943e89627b5a4511b24a0.jpg" length="21768" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jan 2023 21:54:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>Baby Nursery Rhymes - Twinkle Twinkle Little Star (15 plays)</title>
-      <link>https://www.last.fm/music/Baby+Nursery+Rhymes/_/Twinkle+Twinkle+Little+Star</link>
-      <guid isPermaLink="false">ddgromit-1674359144--Baby Nursery Rhymes---Twinkle Twinkle Little Star</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sat, 21 Jan 2023 22:45:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nancy Kopman - Goodbye, Goodbye (2 plays)</title>
-      <link>https://www.last.fm/music/Nancy+Kopman/_/Goodbye,+Goodbye</link>
-      <guid isPermaLink="false">ddgromit-1674359262--Nancy Kopman---Goodbye, Goodbye</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sat, 21 Jan 2023 22:47:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jan 2023 21:15:11 +0000</lastBuildDate>
     <item>
       <title>Mark Brymer - Baby Beluga (5 plays)</title>
       <link>https://www.last.fm/music/Mark+Brymer/_/Baby+Beluga</link>
@@ -357,6 +301,62 @@
       <guid isPermaLink="false">ddgromit-1674593264--2077273e-eaa1-4f49-903c-f286ededecb9---You Proof</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70289f063c4379f5787319fac19c423d.jpg" length="12859" type="image/jpeg"/>
       <pubDate>Tue, 24 Jan 2023 15:47:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Guetta - I'm Good (Blue) (1 play)</title>
+      <link>https://www.last.fm/music/David+Guetta/_/I%27m+Good+(Blue)</link>
+      <guid isPermaLink="false">ddgromit-1674593421--302bd7b9-d012-4360-897a-93b00c855680---I'm Good (Blue)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ec15e64f71801819f40a48d3bdfde4b.png" length="158339" type="image/png"/>
+      <pubDate>Tue, 24 Jan 2023 15:50:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bailey Zimmerman - Rock and a Hard Place (1 play)</title>
+      <link>https://www.last.fm/music/Bailey+Zimmerman/_/Rock+and+a+Hard+Place</link>
+      <guid isPermaLink="false">ddgromit-1674593596--Bailey Zimmerman---Rock and a Hard Place</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a209b644729ef7992a81f5ab3e245919.jpg" length="20702" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 15:53:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steve Lacy - Dark Red (1 play)</title>
+      <link>https://www.last.fm/music/Steve+Lacy/_/Dark+Red</link>
+      <guid isPermaLink="false">ddgromit-1674593804--b29020d6-5dbf-4c99-b16f-c009f8a712ff---Dark Red</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ddbcb76b0872091404a741e58b59562.png" length="128998" type="image/png"/>
+      <pubDate>Tue, 24 Jan 2023 15:56:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>SZA - Blind (1 play)</title>
+      <link>https://www.last.fm/music/SZA/_/Blind</link>
+      <guid isPermaLink="false">ddgromit-1674593977--272989c8-5535-492d-a25c-9f58803e027f---Blind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2cfb5bdf137f4d6293565205965750f.jpg" length="29207" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 15:59:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>OneRepublic - I Ain't Worried (3 plays)</title>
+      <link>https://www.last.fm/music/OneRepublic/_/I+Ain%27t+Worried</link>
+      <guid isPermaLink="false">ddgromit-1674594127--c33c2065-b1c3-4406-b066-d33a9e2ea71a---I Ain't Worried</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62de779063096a60553eb694b7cea101.png" length="167076" type="image/png"/>
+      <pubDate>Tue, 24 Jan 2023 16:02:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Carin Leon - Que Vuelvas (1 play)</title>
+      <link>https://www.last.fm/music/Carin+Leon/_/Que+Vuelvas</link>
+      <guid isPermaLink="false">ddgromit-1674594275--Carin Leon---Que Vuelvas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c8158cf9803c8b8e31ea32ec8a60c72.jpg" length="26446" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 16:04:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Taylor Swift - Lavender Haze (10 plays)</title>
+      <link>https://www.last.fm/music/Taylor+Swift/_/Lavender+Haze</link>
+      <guid isPermaLink="false">ddgromit-1674594445--20244d07-534f-4eff-b4d4-930878889970---Lavender Haze</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/444beba94015d0b031c74b73a1d9bd4e.jpg" length="14293" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 16:07:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bad Bunny - Tití Me Preguntó (1 play)</title>
+      <link>https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3</link>
+      <guid isPermaLink="false">ddgromit-1674594647--89aa5ecb-59ad-46f5-b3eb-2d424e941f19---Tití Me Preguntó</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3fc1caf14abbd6d7e3853e4fb4dfa3be.jpg" length="29500" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 16:10:47 -0500</pubDate>
     </item>
   </channel>
 </rss>
