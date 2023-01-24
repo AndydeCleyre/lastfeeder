@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jan 2023 21:38:50 +0000</lastBuildDate>
-    <item>
-      <title>Muffin Man - This Is the Way (7 plays)</title>
-      <link>https://www.last.fm/music/Muffin+Man/_/This+Is+the+Way</link>
-      <guid isPermaLink="false">ddgromit-1674533724--Muffin Man---This Is the Way</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 23 Jan 2023 23:15:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jan 2023 21:52:34 +0000</lastBuildDate>
     <item>
       <title>Phoenix - After Midnight (2 plays)</title>
       <link>https://www.last.fm/music/Phoenix/_/After+Midnight</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1674595862--Arcángel---La Jumpa</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a457f1e47fe17169d52d4643036bb684.jpg" length="22290" type="image/jpeg"/>
       <pubDate>Tue, 24 Jan 2023 16:31:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>SZA - Good Days (2 plays)</title>
+      <link>https://www.last.fm/music/SZA/_/Good+Days</link>
+      <guid isPermaLink="false">ddgromit-1674596118--272989c8-5535-492d-a25c-9f58803e027f---Good Days</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2cfb5bdf137f4d6293565205965750f.jpg" length="29207" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 16:35:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
