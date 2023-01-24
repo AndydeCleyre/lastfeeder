@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jan 2023 04:52:31 +0000</lastBuildDate>
-    <item>
-      <title>Kayo Dot - The Manifold Curiosity (50 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/The+Manifold+Curiosity</link>
-      <guid isPermaLink="false">Frippertron-1674457274--3979eee5-c72a-4b0a-9191-a0243881250a---The Manifold Curiosity</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82e2f759f1332f9429a8ae2654ba194c.png" length="122529" type="image/png"/>
-      <pubDate>Mon, 23 Jan 2023 02:01:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kayo Dot - Symmetrical Arizona (75 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/Symmetrical+Arizona</link>
-      <guid isPermaLink="false">Frippertron-1674461858--3979eee5-c72a-4b0a-9191-a0243881250a---Symmetrical Arizona</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jan 2023 03:17:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jan 2023 05:15:56 +0000</lastBuildDate>
     <item>
       <title>Genesis - The Musical Box (78 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/The+Musical+Box</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674535682--72c090b6-a68e-4cb9-b330-85278681a714---Fear Is A Man's Best Friend</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dd658db01724d6fa87a9f007b2e1202.jpg" length="11970" type="image/jpeg"/>
       <pubDate>Mon, 23 Jan 2023 23:48:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mr. Bungle - Squeeze Me Macaroni (44 plays)</title>
+      <link>https://www.last.fm/music/Mr.+Bungle/_/Squeeze+Me+Macaroni</link>
+      <guid isPermaLink="false">Frippertron-1674536035--277e21a9-2d64-452d-96c4-2d23a7af5891---Squeeze Me Macaroni</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c707dcaf2abbc6561b5b808a531510aa.jpg" length="29079" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jan 2023 23:53:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Aura on an Asylum Wall (56 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Aura+on+an+Asylum+Wall</link>
+      <guid isPermaLink="false">Frippertron-1674536335--3979eee5-c72a-4b0a-9191-a0243881250a---Aura on an Asylum Wall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jan 2023 23:58:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
