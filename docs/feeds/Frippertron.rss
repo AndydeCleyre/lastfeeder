@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jan 2023 05:37:22 +0000</lastBuildDate>
-    <item>
-      <title>Kayo Dot - Library Subterranean (9 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/Library+Subterranean</link>
-      <guid isPermaLink="false">Frippertron-1674548644--3979eee5-c72a-4b0a-9191-a0243881250a---Library Subterranean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c6e2fbc108545cbc5471f962e6b855a.png" length="114843" type="image/png"/>
-      <pubDate>Tue, 24 Jan 2023 03:24:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jan 2023 05:52:19 +0000</lastBuildDate>
     <item>
       <title>Kayo Dot - A Pitcher of Summer (108 plays)</title>
       <link>https://www.last.fm/music/Kayo+Dot/_/A+Pitcher+of+Summer</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1674624656--John Cale---Story of Blood</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ca962b00d818b52d591065d5797b76e.jpg" length="17018" type="image/jpeg"/>
       <pubDate>Wed, 25 Jan 2023 00:30:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bill Dixon - Metamorphosis (1 play)</title>
+      <link>https://www.last.fm/music/Bill+Dixon/_/Metamorphosis</link>
+      <guid isPermaLink="false">Frippertron-1674625110--Bill Dixon---Metamorphosis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e47aadf718a6432dcea3a8b3540ebbb.jpg" length="14348" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jan 2023 00:38:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
