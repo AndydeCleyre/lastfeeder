@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jan 2023 10:18:43 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Islands (67 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Islands</link>
-      <guid isPermaLink="false">Frippertron-1674560070--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Islands</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 24 Jan 2023 06:34:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Easy Money (167 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Easy+Money</link>
-      <guid isPermaLink="false">Frippertron-1674560659--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Easy Money</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 24 Jan 2023 06:44:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jan 2023 10:38:36 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Radical Action II (6 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Radical+Action+II</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674641041--3979eee5-c72a-4b0a-9191-a0243881250a---Symmetrical Arizona</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
       <pubDate>Wed, 25 Jan 2023 05:04:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - The Useless Ladder/___ On Limpid Form (Intro)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/The+Useless+Ladder%2F___+On+Limpid+Form+(Intro)</link>
+      <guid isPermaLink="false">Frippertron-1674641706--Kayo Dot---The Useless Ladder/___ On Limpid Form (Intro)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cedda600e7924304bb4c6d0a3c934a6c.png" length="6918" type="image/png"/>
+      <pubDate>Wed, 25 Jan 2023 05:15:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - ___ On Limpid Form (22 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/___+On+Limpid+Form</link>
+      <guid isPermaLink="false">Frippertron-1674642268--3979eee5-c72a-4b0a-9191-a0243881250a---___ On Limpid Form</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jan 2023 05:24:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
