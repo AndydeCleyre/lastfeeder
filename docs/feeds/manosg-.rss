@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jan 2023 18:52:35 +0000</lastBuildDate>
-    <item>
-      <title>Blackmore's Night - Nur eine Minute (9 plays)</title>
-      <link>https://www.last.fm/music/Blackmore%27s+Night/_/Nur+eine+Minute</link>
-      <guid isPermaLink="false">manosg--1674497555--aeee5fe5-38f5-41bc-8ab8-9f9aa23e4f68---Nur eine Minute</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42c9598cf8c14f4e9ce68e00b9273e47.jpg" length="35215" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jan 2023 13:12:35 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kiko Loureiro - Choro De Criança (1 play)</title>
-      <link>https://www.last.fm/music/Kiko+Loureiro/_/Choro+De+Crian%C3%A7a</link>
-      <guid isPermaLink="false">manosg--1674497623--9c889c79-f903-4f0d-8e1c-1d3a78f864d8---Choro De Criança</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/322c55ac786f2941fe0396c8023a114a.jpg" length="25926" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jan 2023 13:13:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jan 2023 07:53:13 +0000</lastBuildDate>
     <item>
       <title>Rainbow - Vielleicht Das Nachster Mal (7 plays)</title>
       <link>https://www.last.fm/music/Rainbow/_/Vielleicht+Das+Nachster+Mal</link>
@@ -163,7 +149,7 @@
       <pubDate>Tue, 24 Jan 2023 03:49:33 -0500</pubDate>
     </item>
     <item>
-      <title>Djevel - Naa Skrider Natten Sort (1 play)</title>
+      <title>Djevel - Naa Skrider Natten Sort (2 plays)</title>
       <link>https://www.last.fm/music/Djevel/_/Naa+Skrider+Natten+Sort</link>
       <guid isPermaLink="false">manosg--1674550501--a1ae582c-25a9-49dd-be91-ebe0b90eee93---Naa Skrider Natten Sort</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fbaab749f4f44d9f6e2b13491582c10.jpg" length="12629" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1674585848--Marillion---Lavender - 2017 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/437d8c7c3500753be13a7cc0fc554051.jpg" length="24203" type="image/jpeg"/>
       <pubDate>Tue, 24 Jan 2023 13:44:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Marillion - Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel / Misplaced Rendezvous / Windswept Thumb - 2017 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Marillion/_/Bitter+Suite:+Brief+Encounter+%2F+Lost+Weekend+%2F+Blue+Angel+%2F+Misplaced+Rendezvous+%2F+Windswept+Thumb+-+2017+Remaster</link>
+      <guid isPermaLink="false">manosg--1674585995--Marillion---Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel / Misplaced Rendezvous / Windswept Thumb - 2017 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/437d8c7c3500753be13a7cc0fc554051.jpg" length="24203" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 13:46:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Djevel - Naa Skrider Natten Sort (2 plays)</title>
+      <link>https://www.last.fm/music/Djevel/_/Naa+Skrider+Natten+Sort</link>
+      <guid isPermaLink="false">manosg--1674626844--a1ae582c-25a9-49dd-be91-ebe0b90eee93---Naa Skrider Natten Sort</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fbaab749f4f44d9f6e2b13491582c10.jpg" length="12629" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jan 2023 01:07:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
