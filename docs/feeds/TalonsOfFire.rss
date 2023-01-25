@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jan 2023 18:21:04 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - An Ending (Ascent) - Remastered 2005 (2 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/An+Ending+(Ascent)+-+Remastered+2005</link>
-      <guid isPermaLink="false">TalonsOfFire-1674345556--Brian Eno---An Ending (Ascent) - Remastered 2005</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eaf9f7fd75ce49119930971e4d92dbae.jpg" length="32357" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jan 2023 18:59:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lights Out Asia - Only What You Take With You (2 plays)</title>
-      <link>https://www.last.fm/music/Lights+Out+Asia/_/Only+What+You+Take+With+You</link>
-      <guid isPermaLink="false">TalonsOfFire-1674345556--77c3dbaa-3181-4343-b325-431517fad5f3---Only What You Take With You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b1466a0191245e69841abe453536005.png" length="177197" type="image/png"/>
-      <pubDate>Sat, 21 Jan 2023 18:59:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>Swallow the Sun - Silent Towers (4 plays)</title>
-      <link>https://www.last.fm/music/Swallow+the+Sun/_/Silent+Towers</link>
-      <guid isPermaLink="false">TalonsOfFire-1674352375--0f6df3f2-01f5-4d9a-a047-a76c907d7b66---Silent Towers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55bbfe52ac2b466bbb4e774890d1cbdf.png" length="171886" type="image/png"/>
-      <pubDate>Sat, 21 Jan 2023 20:52:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jan 2023 18:40:16 +0000</lastBuildDate>
     <item>
       <title>Hammock - Still Secrets Remaining (4 plays)</title>
       <link>https://www.last.fm/music/Hammock/_/Still+Secrets+Remaining</link>
@@ -170,11 +149,18 @@
       <pubDate>Mon, 23 Jan 2023 11:22:38 -0500</pubDate>
     </item>
     <item>
-      <title>Felt - Primitive Painters (5 plays)</title>
+      <title>Felt - Primitive Painters (6 plays)</title>
       <link>https://www.last.fm/music/Felt/_/Primitive+Painters</link>
       <guid isPermaLink="false">TalonsOfFire-1674491405--44b30a06-9c31-4aac-92ba-edaeb0fcd9b9---Primitive Painters</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bfac4243dbe2424bb415210106d25732.jpg" length="20644" type="image/jpeg"/>
       <pubDate>Mon, 23 Jan 2023 11:30:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Felt - Primitive Painters (6 plays)</title>
+      <link>https://www.last.fm/music/Felt/_/Primitive+Painters</link>
+      <guid isPermaLink="false">TalonsOfFire-1674491778--44b30a06-9c31-4aac-92ba-edaeb0fcd9b9---Primitive Painters</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350cf1331cee2f6434b2cf373e10b43c.jpg" length="21930" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jan 2023 11:36:18 -0500</pubDate>
     </item>
     <item>
       <title>Autumn's Grey Solace - A Brighter Light (5 plays)</title>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1674670380--719db6b1-0d91-458c-8d18-875ec44105bf---Words With The Shaman - Part 3 (Awakening (Songs From The Treetops))</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb9ffab41a7344f7a13bda7b4ce46257.png" length="190311" type="image/png"/>
       <pubDate>Wed, 25 Jan 2023 13:13:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Massive Attack - Pray for Rain (5 plays)</title>
+      <link>https://www.last.fm/music/Massive+Attack/_/Pray+for+Rain</link>
+      <guid isPermaLink="false">TalonsOfFire-1674670968--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Pray for Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f14b07aa16be4462b63da652b53a7803.png" length="170641" type="image/png"/>
+      <pubDate>Wed, 25 Jan 2023 13:22:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mojave 3 - Bluebird of Happiness (2 plays)</title>
+      <link>https://www.last.fm/music/Mojave+3/_/Bluebird+of+Happiness</link>
+      <guid isPermaLink="false">TalonsOfFire-1674671448--abf74786-2f3e-47e0-ae68-69a55c13909a---Bluebird of Happiness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f64876db7dc74f778e05c070dd307fb9.png" length="212282" type="image/png"/>
+      <pubDate>Wed, 25 Jan 2023 13:30:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
