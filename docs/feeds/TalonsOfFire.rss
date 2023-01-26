@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jan 2023 16:44:59 +0000</lastBuildDate>
-    <item>
-      <title>David Gilmour - A Pocketful of Stones (8 plays)</title>
-      <link>https://www.last.fm/music/David+Gilmour/_/A+Pocketful+of+Stones</link>
-      <guid isPermaLink="false">TalonsOfFire-1674410186--1dce970e-34bc-48b2-ab51-48d87544a4c2---A Pocketful of Stones</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/171d52c829b344998354553d336e1bed.png" length="148091" type="image/png"/>
-      <pubDate>Sun, 22 Jan 2023 12:56:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz - Dracula (1 play)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/Dracula</link>
-      <guid isPermaLink="false">TalonsOfFire-1674410660--e21857d5-3256-4547-afb3-4b6ded592596---Dracula</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86fc45f14a789e9fee32a99ea9036d3d.png" length="83302" type="image/png"/>
-      <pubDate>Sun, 22 Jan 2023 13:04:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jan 2023 16:57:00 +0000</lastBuildDate>
     <item>
       <title>Massive Attack - What Your Soul Sings (9 plays)</title>
       <link>https://www.last.fm/music/Massive+Attack/_/What+Your+Soul+Sings</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1674750668--Riverside---Big Tech Brother</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/149f80c7cdfc2985a4b5f72db35d0c4d.jpg" length="26384" type="image/jpeg"/>
       <pubDate>Thu, 26 Jan 2023 11:31:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Riverside - Post-Truth (2 plays)</title>
+      <link>https://www.last.fm/music/Riverside/_/Post-Truth</link>
+      <guid isPermaLink="false">TalonsOfFire-1674751072--Riverside---Post-Truth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/149f80c7cdfc2985a4b5f72db35d0c4d.jpg" length="26384" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jan 2023 11:37:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Riverside - The Place Where I Belong (2 plays)</title>
+      <link>https://www.last.fm/music/Riverside/_/The+Place+Where+I+Belong</link>
+      <guid isPermaLink="false">TalonsOfFire-1674751520--Riverside---The Place Where I Belong</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/149f80c7cdfc2985a4b5f72db35d0c4d.jpg" length="26384" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jan 2023 11:45:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
