@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jan 2023 04:21:43 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Time (90 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Time</link>
-      <guid isPermaLink="false">Frippertron-1674621924--5441c29d-3602-4898-b1a1-b77fa23b8e50---Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
-      <pubDate>Tue, 24 Jan 2023 23:45:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>John Cale - Chicken Shit (29 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Chicken+Shit</link>
-      <guid isPermaLink="false">Frippertron-1674622250--72c090b6-a68e-4cb9-b330-85278681a714---Chicken Shit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bb7ec4cfa164d26be8769e576f03f51.jpg" length="37014" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jan 2023 23:50:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jan 2023 04:40:58 +0000</lastBuildDate>
     <item>
       <title>John Cale - Memphis (43 plays)</title>
       <link>https://www.last.fm/music/John+Cale/_/Memphis</link>
@@ -275,14 +261,14 @@
       <pubDate>Wed, 25 Jan 2023 05:48:35 -0500</pubDate>
     </item>
     <item>
-      <title>Genesis - Stagnation (19 plays)</title>
+      <title>Genesis - Stagnation (20 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Stagnation</link>
       <guid isPermaLink="false">Frippertron-1674645544--60aa2510-4ab1-4e50-9267-30a15700dc1c---Stagnation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a4f0bed2eeb46ea97f20fda573d7419.jpg" length="31184" type="image/jpeg"/>
       <pubDate>Wed, 25 Jan 2023 06:19:04 -0500</pubDate>
     </item>
     <item>
-      <title>Genesis - Watcher of the Skies (92 plays)</title>
+      <title>Genesis - Watcher of the Skies (93 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Watcher+of+the+Skies</link>
       <guid isPermaLink="false">Frippertron-1674646106--60aa2510-4ab1-4e50-9267-30a15700dc1c---Watcher of the Skies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674705924--3979eee5-c72a-4b0a-9191-a0243881250a---___ On Limpid Form</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
       <pubDate>Wed, 25 Jan 2023 23:05:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Watcher of the Skies (93 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Watcher+of+the+Skies</link>
+      <guid isPermaLink="false">Frippertron-1674706970--60aa2510-4ab1-4e50-9267-30a15700dc1c---Watcher of the Skies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
+      <pubDate>Wed, 25 Jan 2023 23:22:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Stagnation (20 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Stagnation</link>
+      <guid isPermaLink="false">Frippertron-1674707444--60aa2510-4ab1-4e50-9267-30a15700dc1c---Stagnation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a4f0bed2eeb46ea97f20fda573d7419.jpg" length="31184" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jan 2023 23:30:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
