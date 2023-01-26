@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jan 2023 07:16:46 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - The Howler (29 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/The+Howler</link>
-      <guid isPermaLink="false">Frippertron-1674638037--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Howler</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 25 Jan 2023 04:13:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Red (125 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Red</link>
-      <guid isPermaLink="false">Frippertron-1674638323--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Red</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 25 Jan 2023 04:18:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jan 2023 08:22:11 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Fallen Angel (89 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Fallen+Angel</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674716017--60aa2510-4ab1-4e50-9267-30a15700dc1c---Ripples</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
       <pubDate>Thu, 26 Jan 2023 01:53:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Blood on the Rooftops (68 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Blood+on+the+Rooftops</link>
+      <guid isPermaLink="false">Frippertron-1674716531--60aa2510-4ab1-4e50-9267-30a15700dc1c---Blood on the Rooftops</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8825bb16c376478bc7fd8b88be8b3b93.png" length="125092" type="image/png"/>
+      <pubDate>Thu, 26 Jan 2023 02:02:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - One for the Vine (73 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/One+for+the+Vine</link>
+      <guid isPermaLink="false">Frippertron-1674720701--60aa2510-4ab1-4e50-9267-30a15700dc1c---One for the Vine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8825bb16c376478bc7fd8b88be8b3b93.png" length="125092" type="image/png"/>
+      <pubDate>Thu, 26 Jan 2023 03:11:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
