@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jan 2023 04:52:42 +0000</lastBuildDate>
-    <item>
-      <title>Robert Fripp - Breathless (24 plays)</title>
-      <link>https://www.last.fm/music/Robert+Fripp/_/Breathless</link>
-      <guid isPermaLink="false">Frippertron-1674715509--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Breathless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e8867761e1b4b697d826b8156154ac6.jpg" length="23712" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jan 2023 01:45:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Robert Fripp - Disengage (39 plays)</title>
-      <link>https://www.last.fm/music/Robert+Fripp/_/Disengage</link>
-      <guid isPermaLink="false">Frippertron-1674715795--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Disengage</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e8867761e1b4b697d826b8156154ac6.jpg" length="23712" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jan 2023 01:49:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Jan 2023 05:16:16 +0000</lastBuildDate>
     <item>
       <title>Genesis - Ripples (118 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Ripples</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674794594--86809b51-cbe2-45f1-804a-e66eed635dea---O Superman</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12e36132d24a11357ffc964e8a5a56ca.png" length="141788" type="image/png"/>
       <pubDate>Thu, 26 Jan 2023 23:43:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Funny Ways (18 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Funny+Ways</link>
+      <guid isPermaLink="false">Frippertron-1674795125--f795c501-1c41-4be2-bc2a-875eba75aa31---Funny Ways</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff768ce2e6bf181de04ce3684eab07ff.png" length="160763" type="image/png"/>
+      <pubDate>Thu, 26 Jan 2023 23:52:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Talk Talk - Ascension Day (25 plays)</title>
+      <link>https://www.last.fm/music/Talk+Talk/_/Ascension+Day</link>
+      <guid isPermaLink="false">Frippertron-1674795637--a74f43e4-50c4-4b19-a2ce-c05ce9bccb03---Ascension Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85748de6718876bc3fd9c8c218d8b2fa.png" length="168717" type="image/png"/>
+      <pubDate>Fri, 27 Jan 2023 00:00:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
