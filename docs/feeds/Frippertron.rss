@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jan 2023 04:40:44 +0000</lastBuildDate>
-    <item>
-      <title>John Cale - Hedda Gabler (15 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Hedda+Gabler</link>
-      <guid isPermaLink="false">Frippertron-1674714803--72c090b6-a68e-4cb9-b330-85278681a714---Hedda Gabler</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bb7ec4cfa164d26be8769e576f03f51.jpg" length="37014" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jan 2023 01:33:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>John Cale - Jack the Ripper (13 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Jack+the+Ripper</link>
-      <guid isPermaLink="false">Frippertron-1674715297--72c090b6-a68e-4cb9-b330-85278681a714---Jack the Ripper</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bb7ec4cfa164d26be8769e576f03f51.jpg" length="37014" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jan 2023 01:41:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Jan 2023 04:52:42 +0000</lastBuildDate>
     <item>
       <title>Robert Fripp - Breathless (24 plays)</title>
       <link>https://www.last.fm/music/Robert+Fripp/_/Breathless</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1674793800--60aa2510-4ab1-4e50-9267-30a15700dc1c---Ripples</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
       <pubDate>Thu, 26 Jan 2023 23:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Laurie Anderson - From the Air (22 plays)</title>
+      <link>https://www.last.fm/music/Laurie+Anderson/_/From+the+Air</link>
+      <guid isPermaLink="false">Frippertron-1674794318--86809b51-cbe2-45f1-804a-e66eed635dea---From the Air</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12e36132d24a11357ffc964e8a5a56ca.png" length="141788" type="image/png"/>
+      <pubDate>Thu, 26 Jan 2023 23:38:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Laurie Anderson - O Superman (6 plays)</title>
+      <link>https://www.last.fm/music/Laurie+Anderson/_/O+Superman</link>
+      <guid isPermaLink="false">Frippertron-1674794594--86809b51-cbe2-45f1-804a-e66eed635dea---O Superman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12e36132d24a11357ffc964e8a5a56ca.png" length="141788" type="image/png"/>
+      <pubDate>Thu, 26 Jan 2023 23:43:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
