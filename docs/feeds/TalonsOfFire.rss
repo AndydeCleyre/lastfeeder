@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jan 2023 21:39:07 +0000</lastBuildDate>
-    <item>
-      <title>Tame Impala - Runway, Houses, City, Clouds (13 plays)</title>
-      <link>https://www.last.fm/music/Tame+Impala/_/Runway,+Houses,+City,+Clouds</link>
-      <guid isPermaLink="false">TalonsOfFire-1674427163--63aa26c3-d59b-4da4-84ac-716b54f1ef4d---Runway, Houses, City, Clouds</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25baad6ad48e4459a97bd54790cd0026.png" length="233054" type="image/png"/>
-      <pubDate>Sun, 22 Jan 2023 17:39:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Dear Hunter - Cascade (7 plays)</title>
-      <link>https://www.last.fm/music/The+Dear+Hunter/_/Cascade</link>
-      <guid isPermaLink="false">TalonsOfFire-1674427597--75f30e15-549a-440d-b9b9-3d08daadef9d---Cascade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98e9decfb4bdd4a8692542d25d82464c.png" length="197249" type="image/png"/>
-      <pubDate>Sun, 22 Jan 2023 17:46:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Jan 2023 19:25:59 +0000</lastBuildDate>
     <item>
       <title>Tame Impala - Runway, Houses, City, Clouds (13 plays)</title>
       <link>https://www.last.fm/music/Tame+Impala/_/Runway,+Houses,+City,+Clouds</link>
@@ -75,6 +61,7 @@
       <title>Felt - Primitive Painters (6 plays)</title>
       <link>https://www.last.fm/music/Felt/_/Primitive+Painters</link>
       <guid isPermaLink="false">TalonsOfFire-1674491778--44b30a06-9c31-4aac-92ba-edaeb0fcd9b9---Primitive Painters</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350cf1331cee2f6434b2cf373e10b43c.jpg" length="21930" type="image/jpeg"/>
       <pubDate>Mon, 23 Jan 2023 11:36:18 -0500</pubDate>
     </item>
     <item>
@@ -235,12 +222,14 @@
       <title>The National - Green Gloves (17 plays)</title>
       <link>https://www.last.fm/music/The+National/_/Green+Gloves</link>
       <guid isPermaLink="false">TalonsOfFire-1674510201--664c3e0e-42d8-48c1-b209-1efca19c0325---Green Gloves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89ccafdd1ea584b59eff9ff43944e35b.jpg" length="14650" type="image/jpeg"/>
       <pubDate>Mon, 23 Jan 2023 16:43:21 -0500</pubDate>
     </item>
     <item>
       <title>The National - Guest Room (17 plays)</title>
       <link>https://www.last.fm/music/The+National/_/Guest+Room</link>
       <guid isPermaLink="false">TalonsOfFire-1674510420--664c3e0e-42d8-48c1-b209-1efca19c0325---Guest Room</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89ccafdd1ea584b59eff9ff43944e35b.jpg" length="14650" type="image/jpeg"/>
       <pubDate>Mon, 23 Jan 2023 16:47:00 -0500</pubDate>
     </item>
     <item>
@@ -354,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1674768430--Riverside---Together Again</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/149f80c7cdfc2985a4b5f72db35d0c4d.jpg" length="26384" type="image/jpeg"/>
       <pubDate>Thu, 26 Jan 2023 16:27:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Riverside - Acid Rain (5 plays)</title>
+      <link>https://www.last.fm/music/Riverside/_/Acid+Rain</link>
+      <guid isPermaLink="false">TalonsOfFire-1674846802--Riverside---Acid Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3db62b54f5a5b877d30a27bc576b7b98.jpg" length="23860" type="image/jpeg"/>
+      <pubDate>Fri, 27 Jan 2023 14:13:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Riverside - Vale of Tears (5 plays)</title>
+      <link>https://www.last.fm/music/Riverside/_/Vale+of+Tears</link>
+      <guid isPermaLink="false">TalonsOfFire-1674847131--Riverside---Vale of Tears</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3db62b54f5a5b877d30a27bc576b7b98.jpg" length="23860" type="image/jpeg"/>
+      <pubDate>Fri, 27 Jan 2023 14:18:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
