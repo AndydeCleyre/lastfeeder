@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jan 2023 08:52:20 +0000</lastBuildDate>
-    <item>
-      <title>Firienholt - Tedd Deireádh (1 play)</title>
-      <link>https://www.last.fm/music/Firienholt/_/Tedd+Deire%C3%A1dh</link>
-      <guid isPermaLink="false">manosg--1674813894--f9b685d0-6ff5-4bdc-b5a1-01d175be4ed6---Tedd Deireádh</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2633ed19ea077f08f88ac26a05a57040.jpg" length="24288" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jan 2023 05:04:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Jan 2023 11:25:28 +0000</lastBuildDate>
     <item>
       <title>Uli Jon Roth - Sky Overture (9 plays)</title>
       <link>https://www.last.fm/music/Uli+Jon+Roth/_/Sky+Overture</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1674895389--8a75ce0d-1df3-47cc-b076-ce2f4e8250f0---The Iceberg</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a23bd3543674571c5271bcab3be2af8.jpg" length="36789" type="image/jpeg"/>
       <pubDate>Sat, 28 Jan 2023 03:43:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ice-T - Lethal Weapon (1 play)</title>
+      <link>https://www.last.fm/music/Ice-T/_/Lethal+Weapon</link>
+      <guid isPermaLink="false">manosg--1674895649--8a75ce0d-1df3-47cc-b076-ce2f4e8250f0---Lethal Weapon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a23bd3543674571c5271bcab3be2af8.jpg" length="36789" type="image/jpeg"/>
+      <pubDate>Sat, 28 Jan 2023 03:47:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
