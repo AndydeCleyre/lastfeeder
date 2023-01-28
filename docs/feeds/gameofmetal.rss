@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jan 2023 02:35:23 +0000</lastBuildDate>
-    <item>
-      <title>Miley Cyrus - Flowers (11 plays)</title>
-      <link>https://www.last.fm/music/Miley+Cyrus/_/Flowers</link>
-      <guid isPermaLink="false">gameofmetal-1674592125--7e9bd05a-117f-4cce-87bc-e011527a8b18---Flowers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0c2c98a6a2e3e3ca2ca647e70fbf5b7.jpg" length="11027" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jan 2023 15:28:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sadie Jean - Locksmith (28 plays)</title>
-      <link>https://www.last.fm/music/Sadie+Jean/_/Locksmith</link>
-      <guid isPermaLink="false">gameofmetal-1674592326--9f27e7aa-8a3c-41b5-9ebb-829b0d5131d5---Locksmith</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c589552079d653c2c0b34b4b7e5cc78c.jpg" length="14222" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jan 2023 15:32:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Jan 2023 18:20:27 +0000</lastBuildDate>
     <item>
       <title>Selena Gomez - Lose You to Love Me (1 play)</title>
       <link>https://www.last.fm/music/Selena+Gomez/_/Lose+You+to+Love+Me</link>
@@ -58,11 +44,18 @@
       <pubDate>Tue, 24 Jan 2023 15:45:32 -0500</pubDate>
     </item>
     <item>
-      <title>Sleep Token - The Summoning (9 plays)</title>
+      <title>Sleep Token - The Summoning (10 plays)</title>
       <link>https://www.last.fm/music/Sleep+Token/_/The+Summoning</link>
       <guid isPermaLink="false">gameofmetal-1674611857--775ad383-ac2d-479a-af9d-b561442cb749---The Summoning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b0fb6dbba6f752c8d36482f63ca80e1.jpg" length="14882" type="image/jpeg"/>
       <pubDate>Tue, 24 Jan 2023 20:57:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sleep Token - The Summoning (10 plays)</title>
+      <link>https://www.last.fm/music/Sleep+Token/_/The+Summoning</link>
+      <guid isPermaLink="false">gameofmetal-1674612400--775ad383-ac2d-479a-af9d-b561442cb749---The Summoning</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b0fb6dbba6f752c8d36482f63ca80e1.jpg" length="14882" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jan 2023 21:06:40 -0500</pubDate>
     </item>
     <item>
       <title>Sleep Token - Chokehold (16 plays)</title>
@@ -149,7 +142,7 @@
       <pubDate>Thu, 26 Jan 2023 12:45:54 -0500</pubDate>
     </item>
     <item>
-      <title>Raining Jane - Love Is a Battlefield (5 plays)</title>
+      <title>Raining Jane - Love Is a Battlefield (6 plays)</title>
       <link>https://www.last.fm/music/Raining+Jane/_/Love+Is+a+Battlefield</link>
       <guid isPermaLink="false">gameofmetal-1674778106--Raining Jane---Love Is a Battlefield</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd1d618e7bf5485bbabf5049fe2db800.jpg" length="15570" type="image/jpeg"/>
@@ -233,7 +226,7 @@
       <pubDate>Fri, 27 Jan 2023 10:52:04 -0500</pubDate>
     </item>
     <item>
-      <title>Sleep Token - The Summoning (9 plays)</title>
+      <title>Sleep Token - The Summoning (10 plays)</title>
       <link>https://www.last.fm/music/Sleep+Token/_/The+Summoning</link>
       <guid isPermaLink="false">gameofmetal-1674837496--775ad383-ac2d-479a-af9d-b561442cb749---The Summoning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b0fb6dbba6f752c8d36482f63ca80e1.jpg" length="14882" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1674870817--d9a9b6aa-c5c5-40dc-95ec-0bff029245c0---Without Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01e89f65589f8816e44ede15708c1918.jpg" length="17805" type="image/jpeg"/>
       <pubDate>Fri, 27 Jan 2023 20:53:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Raining Jane - Love Is a Battlefield (6 plays)</title>
+      <link>https://www.last.fm/music/Raining+Jane/_/Love+Is+a+Battlefield</link>
+      <guid isPermaLink="false">gameofmetal-1674928577--Raining Jane---Love Is a Battlefield</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd1d618e7bf5485bbabf5049fe2db800.jpg" length="15570" type="image/jpeg"/>
+      <pubDate>Sat, 28 Jan 2023 12:56:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
