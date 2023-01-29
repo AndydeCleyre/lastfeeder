@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jan 2023 18:38:26 +0000</lastBuildDate>
-    <item>
-      <title>Ice-T - This One's for Me (1 play)</title>
-      <link>https://www.last.fm/music/Ice-T/_/This+One%27s+for+Me</link>
-      <guid isPermaLink="false">manosg--1674906164--8a75ce0d-1df3-47cc-b076-ce2f4e8250f0---This One's for Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a23bd3543674571c5271bcab3be2af8.jpg" length="36789" type="image/jpeg"/>
-      <pubDate>Sat, 28 Jan 2023 06:42:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ice-T - The Hunted Child (1 play)</title>
-      <link>https://www.last.fm/music/Ice-T/_/The+Hunted+Child</link>
-      <guid isPermaLink="false">manosg--1674906448--8a75ce0d-1df3-47cc-b076-ce2f4e8250f0---The Hunted Child</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a23bd3543674571c5271bcab3be2af8.jpg" length="36789" type="image/jpeg"/>
-      <pubDate>Sat, 28 Jan 2023 06:47:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Jan 2023 18:52:17 +0000</lastBuildDate>
     <item>
       <title>Ice-T - What Ya Wanna Do? (1 play)</title>
       <link>https://www.last.fm/music/Ice-T/_/What+Ya+Wanna+Do%3F</link>
@@ -327,6 +313,7 @@
       <title>Snoop Dogg - Nuthin but a G'Thang (1 play)</title>
       <link>https://www.last.fm/music/Snoop+Dogg/_/Nuthin+but+a+G%27Thang</link>
       <guid isPermaLink="false">manosg--1675013204--f90e8b26-9e52-4669-a5c9-e28529c47894---Nuthin but a G'Thang</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e764561cdb4ac9b8da7112b11d7ea87f.jpg" length="39538" type="image/jpeg"/>
       <pubDate>Sun, 29 Jan 2023 12:26:44 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">manosg--1675017208--cfbc0924-0035-4d6c-8197-f024653af823---It Ain't Hard to Tell</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8dce63c224a643b78b39caeb27aadf8b.png" length="185285" type="image/png"/>
       <pubDate>Sun, 29 Jan 2023 13:33:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Eminem - Bad Guy (1 play)</title>
+      <link>https://www.last.fm/music/Eminem/_/Bad+Guy</link>
+      <guid isPermaLink="false">manosg--1675017481--b95ce3ff-3d05-4e87-9e01-c97b66af13d4---Bad Guy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b3ee9d493ca4c99ccdacdbf003c047b.png" length="218226" type="image/png"/>
+      <pubDate>Sun, 29 Jan 2023 13:38:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Eminem - Parking Lot - Skit (1 play)</title>
+      <link>https://www.last.fm/music/Eminem/_/Parking+Lot+-+Skit</link>
+      <guid isPermaLink="false">manosg--1675017917--Eminem---Parking Lot - Skit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b3ee9d493ca4c99ccdacdbf003c047b.png" length="218226" type="image/png"/>
+      <pubDate>Sun, 29 Jan 2023 13:45:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
