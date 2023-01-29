@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jan 2023 09:38:00 +0000</lastBuildDate>
-    <item>
-      <title>New Order - Ceremony (1 play)</title>
-      <link>https://www.last.fm/music/New+Order/_/Ceremony</link>
-      <guid isPermaLink="false">rockijosh-1674931106--f1106b17-dcbb-45f6-b938-199ccfab50cc---Ceremony</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a50955c73be3cb3b0a644d615c06290d.jpg" length="6445" type="image/jpeg"/>
-      <pubDate>Sat, 28 Jan 2023 13:38:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pixies - Monkey Gone to Heaven (1 play)</title>
-      <link>https://www.last.fm/music/Pixies/_/Monkey+Gone+to+Heaven</link>
-      <guid isPermaLink="false">rockijosh-1674931282--b6b2bb8d-54a9-491f-9607-7b546023b433---Monkey Gone to Heaven</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/baafa02626d54475c412e80c6b121193.jpg" length="28136" type="image/jpeg"/>
-      <pubDate>Sat, 28 Jan 2023 13:41:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Talking Heads - Burning Down the House - 2005 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Talking+Heads/_/Burning+Down+the+House+-+2005+Remaster</link>
-      <guid isPermaLink="false">rockijosh-1674931524--Talking Heads---Burning Down the House - 2005 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a5a233caa1e1cf512aee91d6f5e16d5f.jpg" length="25214" type="image/jpeg"/>
-      <pubDate>Sat, 28 Jan 2023 13:45:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>The B-52's - Give Me Back My Man (1 play)</title>
-      <link>https://www.last.fm/music/The+B-52%27s/_/Give+Me+Back+My+Man</link>
-      <guid isPermaLink="false">rockijosh-1674931766--The B-52's---Give Me Back My Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0aa01a2e59466ecba8657e93b9037b4d.png" length="109529" type="image/png"/>
-      <pubDate>Sat, 28 Jan 2023 13:49:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Jan 2023 09:52:44 +0000</lastBuildDate>
     <item>
       <title>Paul Simon - 50 Ways to Leave Your Lover (1 play)</title>
       <link>https://www.last.fm/music/Paul+Simon/_/50+Ways+to+Leave+Your+Lover</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">rockijosh-1674984755--8da127cc-c432-418f-b356-ef36210d82ac---BETTER</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c97645bdad71afe6aa9cca91e73acec2.jpg" length="28155" type="image/jpeg"/>
       <pubDate>Sun, 29 Jan 2023 04:32:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>TWICE - Good at Love (1 play)</title>
+      <link>https://www.last.fm/music/TWICE/_/Good+at+Love</link>
+      <guid isPermaLink="false">rockijosh-1674984979--8da127cc-c432-418f-b356-ef36210d82ac---Good at Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c97645bdad71afe6aa9cca91e73acec2.jpg" length="28155" type="image/jpeg"/>
+      <pubDate>Sun, 29 Jan 2023 04:36:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>TWICE - Fanfare (4 plays)</title>
+      <link>https://www.last.fm/music/TWICE/_/Fanfare</link>
+      <guid isPermaLink="false">rockijosh-1674985211--8da127cc-c432-418f-b356-ef36210d82ac---Fanfare</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c97645bdad71afe6aa9cca91e73acec2.jpg" length="28155" type="image/jpeg"/>
+      <pubDate>Sun, 29 Jan 2023 04:40:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>TWICE - Kura Kura (1 play)</title>
+      <link>https://www.last.fm/music/TWICE/_/Kura+Kura</link>
+      <guid isPermaLink="false">rockijosh-1674985430--8da127cc-c432-418f-b356-ef36210d82ac---Kura Kura</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c97645bdad71afe6aa9cca91e73acec2.jpg" length="28155" type="image/jpeg"/>
+      <pubDate>Sun, 29 Jan 2023 04:43:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>TWICE - Four-leaf Clover (1 play)</title>
+      <link>https://www.last.fm/music/TWICE/_/Four-leaf+Clover</link>
+      <guid isPermaLink="false">rockijosh-1674985658--8da127cc-c432-418f-b356-ef36210d82ac---Four-leaf Clover</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c97645bdad71afe6aa9cca91e73acec2.jpg" length="28155" type="image/jpeg"/>
+      <pubDate>Sun, 29 Jan 2023 04:47:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
