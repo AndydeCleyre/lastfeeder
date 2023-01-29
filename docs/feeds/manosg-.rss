@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jan 2023 17:52:23 +0000</lastBuildDate>
-    <item>
-      <title>Ice-T - Black 'n' Decker (1 play)</title>
-      <link>https://www.last.fm/music/Ice-T/_/Black+%27n%27+Decker</link>
-      <guid isPermaLink="false">manosg--1674905860--8a75ce0d-1df3-47cc-b076-ce2f4e8250f0---Black 'n' Decker</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a23bd3543674571c5271bcab3be2af8.jpg" length="36789" type="image/jpeg"/>
-      <pubDate>Sat, 28 Jan 2023 06:37:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ice-T - Hit the Deck (1 play)</title>
-      <link>https://www.last.fm/music/Ice-T/_/Hit+the+Deck</link>
-      <guid isPermaLink="false">manosg--1674905937--8a75ce0d-1df3-47cc-b076-ce2f4e8250f0---Hit the Deck</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a23bd3543674571c5271bcab3be2af8.jpg" length="36789" type="image/jpeg"/>
-      <pubDate>Sat, 28 Jan 2023 06:38:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Jan 2023 18:38:26 +0000</lastBuildDate>
     <item>
       <title>Ice-T - This One's for Me (1 play)</title>
       <link>https://www.last.fm/music/Ice-T/_/This+One%27s+for+Me</link>
@@ -215,6 +201,7 @@
       <title>Afrika Bambaataa - They Made A Mistake (1 play)</title>
       <link>https://www.last.fm/music/Afrika+Bambaataa/_/They+Made+A+Mistake</link>
       <guid isPermaLink="false">manosg--1674992902--fe3503fb-146f-4d68-a591-a7e5798c321f---They Made A Mistake</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78857da94d1b4dbbb45ab3d042314e68.jpg" length="25762" type="image/jpeg"/>
       <pubDate>Sun, 29 Jan 2023 06:48:22 -0500</pubDate>
     </item>
     <item>
@@ -340,7 +327,6 @@
       <title>Snoop Dogg - Nuthin but a G'Thang (1 play)</title>
       <link>https://www.last.fm/music/Snoop+Dogg/_/Nuthin+but+a+G%27Thang</link>
       <guid isPermaLink="false">manosg--1675013204--f90e8b26-9e52-4669-a5c9-e28529c47894---Nuthin but a G'Thang</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e764561cdb4ac9b8da7112b11d7ea87f.jpg" length="39538" type="image/jpeg"/>
       <pubDate>Sun, 29 Jan 2023 12:26:44 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +342,20 @@
       <guid isPermaLink="false">manosg--1675013988--1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2---It Was A Good Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70b566924acf46b1c659c737c8dfada7.png" length="215285" type="image/png"/>
       <pubDate>Sun, 29 Jan 2023 12:39:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dr. Dre - Forgot About Dre (1 play)</title>
+      <link>https://www.last.fm/music/Dr.+Dre/_/Forgot+About+Dre</link>
+      <guid isPermaLink="false">manosg--1675014250--5f6ab597-f57a-40da-be9e-adad48708203---Forgot About Dre</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8a6417d7c1d30ed4a211bdceb0e8cf9.jpg" length="4924" type="image/jpeg"/>
+      <pubDate>Sun, 29 Jan 2023 12:44:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nas - It Ain't Hard to Tell (1 play)</title>
+      <link>https://www.last.fm/music/Nas/_/It+Ain%27t+Hard+to+Tell</link>
+      <guid isPermaLink="false">manosg--1675017208--cfbc0924-0035-4d6c-8197-f024653af823---It Ain't Hard to Tell</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8dce63c224a643b78b39caeb27aadf8b.png" length="185285" type="image/png"/>
+      <pubDate>Sun, 29 Jan 2023 13:33:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
