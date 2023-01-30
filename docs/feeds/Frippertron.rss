@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Jan 2023 04:40:36 +0000</lastBuildDate>
-    <item>
-      <title>Slowdive - Rutti (39 plays)</title>
-      <link>https://www.last.fm/music/Slowdive/_/Rutti</link>
-      <guid isPermaLink="false">Frippertron-1674800847--a16371b9-7d36-497a-a9d4-42b0a0440c5e---Rutti</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17ebb43f28ab48318e2937bd8915f96c.png" length="14162" type="image/png"/>
-      <pubDate>Fri, 27 Jan 2023 01:27:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jan 2023 04:52:44 +0000</lastBuildDate>
     <item>
       <title>Slowdive - Crazy for You (39 plays)</title>
       <link>https://www.last.fm/music/Slowdive/_/Crazy+for+You</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1675053307--490bde43-5edb-4a93-b3b3-7a0465fd8909---Torn Curtain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7f76fcb56c94a51ca3eefed472e88b4.jpg" length="21505" type="image/jpeg"/>
       <pubDate>Sun, 29 Jan 2023 23:35:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Marathon (33 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Marathon</link>
+      <guid isPermaLink="false">Frippertron-1675053749--3979eee5-c72a-4b0a-9191-a0243881250a---Marathon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82e2f759f1332f9429a8ae2654ba194c.png" length="122529" type="image/png"/>
+      <pubDate>Sun, 29 Jan 2023 23:42:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
