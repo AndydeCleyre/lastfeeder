@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Jan 2023 04:52:44 +0000</lastBuildDate>
-    <item>
-      <title>Slowdive - Crazy for You (39 plays)</title>
-      <link>https://www.last.fm/music/Slowdive/_/Crazy+for+You</link>
-      <guid isPermaLink="false">Frippertron-1674801454--a16371b9-7d36-497a-a9d4-42b0a0440c5e---Crazy for You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17ebb43f28ab48318e2937bd8915f96c.png" length="14162" type="image/png"/>
-      <pubDate>Fri, 27 Jan 2023 01:37:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Sound - I Can't Escape Myself (38 plays)</title>
-      <link>https://www.last.fm/music/The+Sound/_/I+Can%27t+Escape+Myself</link>
-      <guid isPermaLink="false">Frippertron-1674801834--b2c36d47-e5e3-4ac8-a967-10e0265d3fff---I Can't Escape Myself</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ab0b4ce16f44414c4eb8eb8ab1c48d7.png" length="155370" type="image/png"/>
-      <pubDate>Fri, 27 Jan 2023 01:43:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jan 2023 05:16:53 +0000</lastBuildDate>
     <item>
       <title>The Sound - Heartland (40 plays)</title>
       <link>https://www.last.fm/music/The+Sound/_/Heartland</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1675053749--3979eee5-c72a-4b0a-9191-a0243881250a---Marathon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82e2f759f1332f9429a8ae2654ba194c.png" length="122529" type="image/png"/>
       <pubDate>Sun, 29 Jan 2023 23:42:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - A Pitcher of Summer (111 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/A+Pitcher+of+Summer</link>
+      <guid isPermaLink="false">Frippertron-1675054365--3979eee5-c72a-4b0a-9191-a0243881250a---A Pitcher of Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82e2f759f1332f9429a8ae2654ba194c.png" length="122529" type="image/png"/>
+      <pubDate>Sun, 29 Jan 2023 23:52:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - The Manifold Curiosity (53 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/The+Manifold+Curiosity</link>
+      <guid isPermaLink="false">Frippertron-1675054717--3979eee5-c72a-4b0a-9191-a0243881250a---The Manifold Curiosity</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82e2f759f1332f9429a8ae2654ba194c.png" length="122529" type="image/png"/>
+      <pubDate>Sun, 29 Jan 2023 23:58:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
