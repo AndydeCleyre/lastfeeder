@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Jan 2023 19:26:30 +0000</lastBuildDate>
-    <item>
-      <title>The National - City Middle (14 plays)</title>
-      <link>https://www.last.fm/music/The+National/_/City+Middle</link>
-      <guid isPermaLink="false">TalonsOfFire-1674673678--664c3e0e-42d8-48c1-b209-1efca19c0325---City Middle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e442034b94c5573f7dc855fd87d62351.jpg" length="17882" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jan 2023 14:07:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jan 2023 21:52:26 +0000</lastBuildDate>
     <item>
       <title>Riverside - Friend or Foe? (2 plays)</title>
       <link>https://www.last.fm/music/Riverside/_/Friend+or+Foe%3F</link>
@@ -327,12 +320,14 @@
       <title>Steve Hackett - Loch Lomond (1 play)</title>
       <link>https://www.last.fm/music/Steve+Hackett/_/Loch+Lomond</link>
       <guid isPermaLink="false">TalonsOfFire-1675104880--f4eb8346-052d-4a5c-8393-cba3aeadb4d9---Loch Lomond</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c3e0181253b4b049396b4e91a5061c2.jpg" length="14408" type="image/jpeg"/>
       <pubDate>Mon, 30 Jan 2023 13:54:40 -0500</pubDate>
     </item>
     <item>
       <title>Thrice - My Soul (6 plays)</title>
       <link>https://www.last.fm/music/Thrice/_/My+Soul</link>
       <guid isPermaLink="false">TalonsOfFire-1675105299--244afcb7-fa9a-49b1-9aa6-0149512d1c52---My Soul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fed70ff83979a95b1b0c923266420bc.jpg" length="24022" type="image/jpeg"/>
       <pubDate>Mon, 30 Jan 2023 14:01:39 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1675106049--169c4c28-858e-497b-81a4-8bc15e0026ea---Where We Would Be</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b847f04c21b17e07bf43052eb796b8d.jpg" length="18451" type="image/jpeg"/>
       <pubDate>Mon, 30 Jan 2023 14:14:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sufjan Stevens - Holland (12 plays)</title>
+      <link>https://www.last.fm/music/Sufjan+Stevens/_/Holland</link>
+      <guid isPermaLink="false">TalonsOfFire-1675109366--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Holland</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/813e5b07239db7393de316fc04a6653e.jpg" length="26079" type="image/jpeg"/>
+      <pubDate>Mon, 30 Jan 2023 15:09:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
