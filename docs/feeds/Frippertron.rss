@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 06:53:12 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Teenage Wildlife (195 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Teenage+Wildlife</link>
-      <guid isPermaLink="false">Frippertron-1675074406--5441c29d-3602-4898-b1a1-b77fa23b8e50---Teenage Wildlife</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jan 2023 05:26:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Jan 2023 07:16:28 +0000</lastBuildDate>
     <item>
       <title>Television - Marquee Moon (146 plays)</title>
       <link>https://www.last.fm/music/Television/_/Marquee+Moon</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1675147332--3979eee5-c72a-4b0a-9191-a0243881250a---___ On Limpid Form</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
       <pubDate>Tue, 31 Jan 2023 01:42:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Amaranth the Peddler (12 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Amaranth+the+Peddler</link>
+      <guid isPermaLink="false">Frippertron-1675148443--3979eee5-c72a-4b0a-9191-a0243881250a---Amaranth the Peddler</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
+      <pubDate>Tue, 31 Jan 2023 02:00:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
