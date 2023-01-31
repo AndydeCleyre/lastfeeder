@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 11:26:33 +0000</lastBuildDate>
-    <item>
-      <title>야야 킴 - Secret (1 play)</title>
-      <link>https://www.last.fm/music/%EC%95%BC%EC%95%BC+%ED%82%B4/_/Secret</link>
-      <guid isPermaLink="false">Frippertron-1675140866--야야 킴---Secret</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 30 Jan 2023 23:54:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Jan 2023 11:38:23 +0000</lastBuildDate>
     <item>
       <title>야야 킴 - fate (1 play)</title>
       <link>https://www.last.fm/music/%EC%95%BC%EC%95%BC+%ED%82%B4/_/fate</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1675163942--719db6b1-0d91-458c-8d18-875ec44105bf---Silver Moon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c467ec626bf640c69ac572178cc9f97a.png" length="230221" type="image/png"/>
       <pubDate>Tue, 31 Jan 2023 06:19:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van Halen - Runnin' With the Devil (18 plays)</title>
+      <link>https://www.last.fm/music/Van+Halen/_/Runnin%27+With+the+Devil</link>
+      <guid isPermaLink="false">Frippertron-1675164336--b665b768-0d83-4363-950c-31ed39317c15---Runnin' With the Devil</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f280b5f42db4963c9b357fd8034ddc8.png" length="103319" type="image/png"/>
+      <pubDate>Tue, 31 Jan 2023 06:25:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
