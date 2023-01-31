@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 03:29:46 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - The Musical Box (79 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Musical+Box</link>
-      <guid isPermaLink="false">Frippertron-1675057700--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Musical Box</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
-      <pubDate>Mon, 30 Jan 2023 00:48:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - The Return of the Giant Hogweed (24 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Return+of+the+Giant+Hogweed</link>
-      <guid isPermaLink="false">Frippertron-1675058327--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Return of the Giant Hogweed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
-      <pubDate>Mon, 30 Jan 2023 00:58:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Camel - Freefall (21 plays)</title>
-      <link>https://www.last.fm/music/Camel/_/Freefall</link>
-      <guid isPermaLink="false">Frippertron-1675058850--a55d6b66-0897-4840-9894-7b140d78513a---Freefall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/700010ff7fd44b7899bbcdb38749f9fd.png" length="181639" type="image/png"/>
-      <pubDate>Mon, 30 Jan 2023 01:07:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Jan 2023 03:41:12 +0000</lastBuildDate>
     <item>
       <title>The Knife - Networking (24 plays)</title>
       <link>https://www.last.fm/music/The+Knife/_/Networking</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1675135482--e01c3376-15fa-40d7-b747-5f219bdefdd7---Kid Charlemagne</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
       <pubDate>Mon, 30 Jan 2023 22:24:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Sign In Stranger (38 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Sign+In+Stranger</link>
+      <guid isPermaLink="false">Frippertron-1675135755--e01c3376-15fa-40d7-b747-5f219bdefdd7---Sign In Stranger</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
+      <pubDate>Mon, 30 Jan 2023 22:29:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Green Earrings (20 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Green+Earrings</link>
+      <guid isPermaLink="false">Frippertron-1675136011--e01c3376-15fa-40d7-b747-5f219bdefdd7---Green Earrings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
+      <pubDate>Mon, 30 Jan 2023 22:33:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Haitian Divorce (23 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Haitian+Divorce</link>
+      <guid isPermaLink="false">Frippertron-1675136258--e01c3376-15fa-40d7-b747-5f219bdefdd7---Haitian Divorce</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
+      <pubDate>Mon, 30 Jan 2023 22:37:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
