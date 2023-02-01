@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 03:55:57 +0000</lastBuildDate>
-    <item>
-      <title>Lou Reed - Oh Jim (35 plays)</title>
-      <link>https://www.last.fm/music/Lou+Reed/_/Oh+Jim</link>
-      <guid isPermaLink="false">Frippertron-1675143789--9d1ebcfe-4c15-4d18-95d3-d919898638a1---Oh Jim</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95aae05a48e848be8ce3b4896ea9bfe4.png" length="181751" type="image/png"/>
-      <pubDate>Tue, 31 Jan 2023 00:43:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lou Reed - Caroline Says II (27 plays)</title>
-      <link>https://www.last.fm/music/Lou+Reed/_/Caroline+Says+II</link>
-      <guid isPermaLink="false">Frippertron-1675144107--9d1ebcfe-4c15-4d18-95d3-d919898638a1---Caroline Says II</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95aae05a48e848be8ce3b4896ea9bfe4.png" length="181751" type="image/png"/>
-      <pubDate>Tue, 31 Jan 2023 00:48:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lou Reed - The Kids (26 plays)</title>
-      <link>https://www.last.fm/music/Lou+Reed/_/The+Kids</link>
-      <guid isPermaLink="false">Frippertron-1675144363--9d1ebcfe-4c15-4d18-95d3-d919898638a1---The Kids</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95aae05a48e848be8ce3b4896ea9bfe4.png" length="181751" type="image/png"/>
-      <pubDate>Tue, 31 Jan 2023 00:52:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lou Reed - The Bed (27 plays)</title>
-      <link>https://www.last.fm/music/Lou+Reed/_/The+Bed</link>
-      <guid isPermaLink="false">Frippertron-1675144736--9d1ebcfe-4c15-4d18-95d3-d919898638a1---The Bed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95aae05a48e848be8ce3b4896ea9bfe4.png" length="181751" type="image/png"/>
-      <pubDate>Tue, 31 Jan 2023 00:58:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Feb 2023 04:22:40 +0000</lastBuildDate>
     <item>
       <title>Lou Reed - Sad Song (35 plays)</title>
       <link>https://www.last.fm/music/Lou+Reed/_/Sad+Song</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1675223264--60aa2510-4ab1-4e50-9267-30a15700dc1c---Entangled</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
       <pubDate>Tue, 31 Jan 2023 22:47:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Squonk (55 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Squonk</link>
+      <guid isPermaLink="false">Frippertron-1675223654--60aa2510-4ab1-4e50-9267-30a15700dc1c---Squonk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Tue, 31 Jan 2023 22:54:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Mad Man Moon (39 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Mad+Man+Moon</link>
+      <guid isPermaLink="false">Frippertron-1675224044--60aa2510-4ab1-4e50-9267-30a15700dc1c---Mad Man Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Tue, 31 Jan 2023 23:00:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Robbery, Assault and Battery (38 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Robbery,+Assault+and+Battery</link>
+      <guid isPermaLink="false">Frippertron-1675224499--60aa2510-4ab1-4e50-9267-30a15700dc1c---Robbery, Assault and Battery</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Tue, 31 Jan 2023 23:08:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ripples (120 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
+      <guid isPermaLink="false">Frippertron-1675224879--60aa2510-4ab1-4e50-9267-30a15700dc1c---Ripples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Tue, 31 Jan 2023 23:14:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
