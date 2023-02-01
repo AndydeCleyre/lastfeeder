@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 18:53:07 +0000</lastBuildDate>
-    <item>
-      <title>Eminem - Drug Ballad (1 play)</title>
-      <link>https://www.last.fm/music/Eminem/_/Drug+Ballad</link>
-      <guid isPermaLink="false">manosg--1675074955--b95ce3ff-3d05-4e87-9e01-c97b66af13d4---Drug Ballad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1406b7a57db54b889f3910064609650a.jpg" length="17869" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jan 2023 05:35:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>Eminem - Amityville (1 play)</title>
-      <link>https://www.last.fm/music/Eminem/_/Amityville</link>
-      <guid isPermaLink="false">manosg--1675075333--b95ce3ff-3d05-4e87-9e01-c97b66af13d4---Amityville</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1406b7a57db54b889f3910064609650a.jpg" length="17869" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jan 2023 05:42:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>Eminem - Bitch Please II (1 play)</title>
-      <link>https://www.last.fm/music/Eminem/_/Bitch+Please+II</link>
-      <guid isPermaLink="false">manosg--1675075587--b95ce3ff-3d05-4e87-9e01-c97b66af13d4---Bitch Please II</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1406b7a57db54b889f3910064609650a.jpg" length="17869" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jan 2023 05:46:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>Eminem - Kim (1 play)</title>
-      <link>https://www.last.fm/music/Eminem/_/Kim</link>
-      <guid isPermaLink="false">manosg--1675078653--b95ce3ff-3d05-4e87-9e01-c97b66af13d4---Kim</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1406b7a57db54b889f3910064609650a.jpg" length="17869" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jan 2023 06:37:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Feb 2023 08:41:11 +0000</lastBuildDate>
     <item>
       <title>Eminem - Under The Influence (1 play)</title>
       <link>https://www.last.fm/music/Eminem/_/Under+The+Influence</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">manosg--1675190503--7c7f850e-65ca-48ca-899a-cabe2a2cc783---The Way I Feel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04ee8030b0ad4b2882e99616d8648c54.jpg" length="28782" type="image/jpeg"/>
       <pubDate>Tue, 31 Jan 2023 13:41:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leatherwolf - Too Much (1 play)</title>
+      <link>https://www.last.fm/music/Leatherwolf/_/Too+Much</link>
+      <guid isPermaLink="false">manosg--1675191140--7c7f850e-65ca-48ca-899a-cabe2a2cc783---Too Much</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04ee8030b0ad4b2882e99616d8648c54.jpg" length="28782" type="image/jpeg"/>
+      <pubDate>Tue, 31 Jan 2023 13:52:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leatherwolf - Lonely Road (1 play)</title>
+      <link>https://www.last.fm/music/Leatherwolf/_/Lonely+Road</link>
+      <guid isPermaLink="false">manosg--1675240037--7c7f850e-65ca-48ca-899a-cabe2a2cc783---Lonely Road</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04ee8030b0ad4b2882e99616d8648c54.jpg" length="28782" type="image/jpeg"/>
+      <pubDate>Wed, 01 Feb 2023 03:27:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leatherwolf - Spirits in the Wind (1 play)</title>
+      <link>https://www.last.fm/music/Leatherwolf/_/Spirits+in+the+Wind</link>
+      <guid isPermaLink="false">manosg--1675240262--7c7f850e-65ca-48ca-899a-cabe2a2cc783---Spirits in the Wind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04ee8030b0ad4b2882e99616d8648c54.jpg" length="28782" type="image/jpeg"/>
+      <pubDate>Wed, 01 Feb 2023 03:31:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steeler - Abduction (2 plays)</title>
+      <link>https://www.last.fm/music/Steeler/_/Abduction</link>
+      <guid isPermaLink="false">manosg--1675240779--eb81961a-8260-4898-9a3b-724d3feb79d1---Abduction</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d526a9671ae1e9f9082a322a37167af2.jpg" length="29676" type="image/jpeg"/>
+      <pubDate>Wed, 01 Feb 2023 03:39:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
