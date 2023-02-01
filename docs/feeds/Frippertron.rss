@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 07:16:50 +0000</lastBuildDate>
-    <item>
-      <title>Gil Scott-Heron - Winter in America (12 plays)</title>
-      <link>https://www.last.fm/music/Gil+Scott-Heron/_/Winter+in+America</link>
-      <guid isPermaLink="false">Frippertron-1675161672--b5b89643-c488-4f39-a302-25cab31084a5---Winter in America</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9c4a7659f7d45c9a6318a8f8d85742e.jpg" length="24524" type="image/jpeg"/>
-      <pubDate>Tue, 31 Jan 2023 05:41:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Feb 2023 07:52:17 +0000</lastBuildDate>
     <item>
       <title>Gil Scott-Heron - We Almost Lost Detroit (49 plays)</title>
       <link>https://www.last.fm/music/Gil+Scott-Heron/_/We+Almost+Lost+Detroit</link>
@@ -352,11 +345,18 @@
       <pubDate>Wed, 01 Feb 2023 01:57:05 -0500</pubDate>
     </item>
     <item>
-      <title>Everything But the Girl - Each and Every One (93 plays)</title>
+      <title>Everything But the Girl - Each and Every One (94 plays)</title>
       <link>https://www.last.fm/music/Everything+But+the+Girl/_/Each+and+Every+One</link>
       <guid isPermaLink="false">Frippertron-1675234892--959cf5bf-ee29-4af6-a85a-0b480181d988---Each and Every One</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e98c28f4799f4b8bbff55d16ddc6b8bd.jpg" length="32092" type="image/jpeg"/>
       <pubDate>Wed, 01 Feb 2023 02:01:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Everything But the Girl - Each and Every One (94 plays)</title>
+      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Each+and+Every+One</link>
+      <guid isPermaLink="false">Frippertron-1675235060--959cf5bf-ee29-4af6-a85a-0b480181d988---Each and Every One</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e98c28f4799f4b8bbff55d16ddc6b8bd.jpg" length="32092" type="image/jpeg"/>
+      <pubDate>Wed, 01 Feb 2023 02:04:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
