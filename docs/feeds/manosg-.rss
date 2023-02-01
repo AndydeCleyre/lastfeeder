@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 18:41:13 +0000</lastBuildDate>
-    <item>
-      <title>Altan - Uncle Rat (1 play)</title>
-      <link>https://www.last.fm/music/Altan/_/Uncle+Rat</link>
-      <guid isPermaLink="false">manosg--1675154566--e6211cf7-272f-4431-bbd3-40c081b992d4---Uncle Rat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05ac649231023dbdd17213970c59dc1e.jpg" length="21093" type="image/jpeg"/>
-      <pubDate>Tue, 31 Jan 2023 03:42:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Leatherwolf - Wicked Ways (2 plays)</title>
-      <link>https://www.last.fm/music/Leatherwolf/_/Wicked+Ways</link>
-      <guid isPermaLink="false">manosg--1675184612--7c7f850e-65ca-48ca-899a-cabe2a2cc783---Wicked Ways</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04ee8030b0ad4b2882e99616d8648c54.jpg" length="28782" type="image/jpeg"/>
-      <pubDate>Tue, 31 Jan 2023 12:03:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Feb 2023 18:52:59 +0000</lastBuildDate>
     <item>
       <title>Leatherwolf - Street Ready (2 plays)</title>
       <link>https://www.last.fm/music/Leatherwolf/_/Street+Ready</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1675276514--8dca4a3c-ebd3-4911-b995-e4d8aa05544d---Deathride</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a89d64b14537cc49443ae440bc5c1747.jpg" length="23089" type="image/jpeg"/>
       <pubDate>Wed, 01 Feb 2023 13:35:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Love Gang - Meanstreak (1 play)</title>
+      <link>https://www.last.fm/music/Love+Gang/_/Meanstreak</link>
+      <guid isPermaLink="false">manosg--1675276796--8dca4a3c-ebd3-4911-b995-e4d8aa05544d---Meanstreak</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a89d64b14537cc49443ae440bc5c1747.jpg" length="23089" type="image/jpeg"/>
+      <pubDate>Wed, 01 Feb 2023 13:39:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Love Gang - Bad News (1 play)</title>
+      <link>https://www.last.fm/music/Love+Gang/_/Bad+News</link>
+      <guid isPermaLink="false">manosg--1675277229--8dca4a3c-ebd3-4911-b995-e4d8aa05544d---Bad News</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a89d64b14537cc49443ae440bc5c1747.jpg" length="23089" type="image/jpeg"/>
+      <pubDate>Wed, 01 Feb 2023 13:47:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
