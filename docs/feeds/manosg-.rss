@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Feb 2023 07:37:22 +0000</lastBuildDate>
-    <item>
-      <title>Leatherwolf - Thunder (2 plays)</title>
-      <link>https://www.last.fm/music/Leatherwolf/_/Thunder</link>
-      <guid isPermaLink="false">manosg--1675190275--7c7f850e-65ca-48ca-899a-cabe2a2cc783---Thunder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04ee8030b0ad4b2882e99616d8648c54.jpg" length="28782" type="image/jpeg"/>
-      <pubDate>Tue, 31 Jan 2023 13:37:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>Leatherwolf - The Way I Feel (2 plays)</title>
-      <link>https://www.last.fm/music/Leatherwolf/_/The+Way+I+Feel</link>
-      <guid isPermaLink="false">manosg--1675190503--7c7f850e-65ca-48ca-899a-cabe2a2cc783---The Way I Feel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04ee8030b0ad4b2882e99616d8648c54.jpg" length="28782" type="image/jpeg"/>
-      <pubDate>Tue, 31 Jan 2023 13:41:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Feb 2023 07:52:18 +0000</lastBuildDate>
     <item>
       <title>Leatherwolf - Too Much (2 plays)</title>
       <link>https://www.last.fm/music/Leatherwolf/_/Too+Much</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1675322909--e20747e7-55a4-452e-8766-7b985585082d---For Calvin (and His Next Two Hitch-Hikers)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0d5dbc9dfdec30d5c969d3cc9fa47e4.jpg" length="40961" type="image/jpeg"/>
       <pubDate>Thu, 02 Feb 2023 02:28:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Cletus Awreetus-Awrightus (2 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Cletus+Awreetus-Awrightus</link>
+      <guid isPermaLink="false">manosg--1675323305--e20747e7-55a4-452e-8766-7b985585082d---Cletus Awreetus-Awrightus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0d5dbc9dfdec30d5c969d3cc9fa47e4.jpg" length="40961" type="image/jpeg"/>
+      <pubDate>Thu, 02 Feb 2023 02:35:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Eat That Question (2 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Eat+That+Question</link>
+      <guid isPermaLink="false">manosg--1675323482--e20747e7-55a4-452e-8766-7b985585082d---Eat That Question</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0d5dbc9dfdec30d5c969d3cc9fa47e4.jpg" length="40961" type="image/jpeg"/>
+      <pubDate>Thu, 02 Feb 2023 02:38:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
