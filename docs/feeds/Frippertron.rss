@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Feb 2023 08:23:10 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - RF Announcement (23 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/RF+Announcement</link>
-      <guid isPermaLink="false">Frippertron-1675309541--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---RF Announcement</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 01 Feb 2023 22:45:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Book of Saturday (43 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Book+of+Saturday</link>
-      <guid isPermaLink="false">Frippertron-1675309611--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Book of Saturday</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 01 Feb 2023 22:46:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Feb 2023 08:41:35 +0000</lastBuildDate>
     <item>
       <title>Gil Scott-Heron - VILDGOLIA (DEAF, DUMB &amp; BLIND) (10 plays)</title>
       <link>https://www.last.fm/music/Gil+Scott-Heron/_/VILDGOLIA+(DEAF,+DUMB+&amp;+BLIND)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1675325561--490bde43-5edb-4a93-b3b3-7a0465fd8909---Little Johnny Jewel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 02 Feb 2023 03:12:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Television - Ain't That Nothin' (2 plays)</title>
+      <link>https://www.last.fm/music/Television/_/Ain%27t+That+Nothin%27</link>
+      <guid isPermaLink="false">Frippertron-1675326324--490bde43-5edb-4a93-b3b3-7a0465fd8909---Ain't That Nothin'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 02 Feb 2023 03:25:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Television - Friction (64 plays)</title>
+      <link>https://www.last.fm/music/Television/_/Friction</link>
+      <guid isPermaLink="false">Frippertron-1675326797--490bde43-5edb-4a93-b3b3-7a0465fd8909---Friction</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 02 Feb 2023 03:33:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
