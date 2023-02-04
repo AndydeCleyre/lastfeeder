@@ -7,19 +7,11 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Feb 2023 04:21:02 +0000</lastBuildDate>
-    <item>
-      <title>Old Dominion - One Man Band (7 plays)</title>
-      <link>https://www.last.fm/music/Old+Dominion/_/One+Man+Band</link>
-      <guid isPermaLink="false">gameofmetal-1675385572--a320c615-206f-452f-9a9b-13ea15f8c0eb---One Man Band</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c51a84e9b2992312939ff1c43c109afd.jpg" length="23426" type="image/jpeg"/>
-      <pubDate>Thu, 02 Feb 2023 19:52:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Feb 2023 23:52:19 +0000</lastBuildDate>
     <item>
       <title>Nelccia - Options (4 plays)</title>
       <link>https://www.last.fm/music/Nelccia/_/Options</link>
       <guid isPermaLink="false">gameofmetal-1675385759--Nelccia---Options</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8347fb0e6fb367bf1fd70e26a08e83ba.jpg" length="20007" type="image/jpeg"/>
       <pubDate>Thu, 02 Feb 2023 19:55:59 -0500</pubDate>
     </item>
     <item>
@@ -135,7 +127,7 @@
       <pubDate>Fri, 03 Feb 2023 12:12:52 -0500</pubDate>
     </item>
     <item>
-      <title>Northlane - Scarab (9 plays)</title>
+      <title>Northlane - Scarab (10 plays)</title>
       <link>https://www.last.fm/music/Northlane/_/Scarab</link>
       <guid isPermaLink="false">gameofmetal-1675444466--f4e44995-1890-42a0-a6c1-9185b71655fa---Scarab</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3f560a00a3f48199371661c3b70cc70.png" length="181597" type="image/png"/>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">gameofmetal-1675483351--f4e44995-1890-42a0-a6c1-9185b71655fa---Genesis</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3f560a00a3f48199371661c3b70cc70.png" length="181597" type="image/png"/>
       <pubDate>Fri, 03 Feb 2023 23:02:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Northlane - Scarab (10 plays)</title>
+      <link>https://www.last.fm/music/Northlane/_/Scarab</link>
+      <guid isPermaLink="false">gameofmetal-1675483445--f4e44995-1890-42a0-a6c1-9185b71655fa---Scarab</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3f560a00a3f48199371661c3b70cc70.png" length="181597" type="image/png"/>
+      <pubDate>Fri, 03 Feb 2023 23:04:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
