@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Feb 2023 13:28:12 +0000</lastBuildDate>
-    <item>
-      <title>Portishead - Roads (3 plays)</title>
-      <link>https://www.last.fm/music/Portishead/_/Roads</link>
-      <guid isPermaLink="false">Arcade1996-1675512747--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---Roads</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88602265f23149f5b1b65ee88c9fe457.jpg" length="10838" type="image/jpeg"/>
-      <pubDate>Sat, 04 Feb 2023 07:12:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Feb 2023 13:40:08 +0000</lastBuildDate>
     <item>
       <title>Portishead - Biscuit (4 plays)</title>
       <link>https://www.last.fm/music/Portishead/_/Biscuit</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1675603447--6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219---The One I Love</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d1c42362c624053c09a669121192cc7.png" length="75019" type="image/png"/>
       <pubDate>Sun, 05 Feb 2023 08:24:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bring Me the Horizon - medicine (11 plays)</title>
+      <link>https://www.last.fm/music/Bring+Me+the+Horizon/_/medicine</link>
+      <guid isPermaLink="false">Arcade1996-1675604129--074e3847-f67f-49f9-81f1-8c8cea147e8e---medicine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98ac0125284c3de2af1c0a6a1ddf301f.jpg" length="16363" type="image/jpeg"/>
+      <pubDate>Sun, 05 Feb 2023 08:35:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
