@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Feb 2023 16:24:49 +0000</lastBuildDate>
-    <item>
-      <title>Northlane - Worldeater (14 plays)</title>
-      <link>https://www.last.fm/music/Northlane/_/Worldeater</link>
-      <guid isPermaLink="false">gameofmetal-1675445493--f4e44995-1890-42a0-a6c1-9185b71655fa---Worldeater</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3f560a00a3f48199371661c3b70cc70.png" length="181597" type="image/png"/>
-      <pubDate>Fri, 03 Feb 2023 12:31:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Feb 2023 16:46:00 +0000</lastBuildDate>
     <item>
       <title>Northlane - Quantum Flux (13 plays)</title>
       <link>https://www.last.fm/music/Northlane/_/Quantum+Flux</link>
@@ -327,7 +320,6 @@
       <title>Sam Smith - Unholy (feat. Kim Petras) (26 plays)</title>
       <link>https://www.last.fm/music/Sam+Smith/_/Unholy+(feat.+Kim+Petras)</link>
       <guid isPermaLink="false">gameofmetal-1675698279--5a85c140-dcf9-4dd2-b2c8-aff0471549f3---Unholy (feat. Kim Petras)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b11feab3d5951f275dc5258774a3a0ea.jpg" length="13921" type="image/jpeg"/>
       <pubDate>Mon, 06 Feb 2023 10:44:39 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">gameofmetal-1675700158--Trespasser---The Great Debt-Strike I: A Pillar of Smoke</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2ffd1547bf3f35dee1edafda71a2c62.jpg" length="23303" type="image/jpeg"/>
       <pubDate>Mon, 06 Feb 2023 11:15:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Trespasser - The Honourable Thrall (1 play)</title>
+      <link>https://www.last.fm/music/Trespasser/_/The+Honourable+Thrall</link>
+      <guid isPermaLink="false">gameofmetal-1675700533--Trespasser---The Honourable Thrall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2ffd1547bf3f35dee1edafda71a2c62.jpg" length="23303" type="image/jpeg"/>
+      <pubDate>Mon, 06 Feb 2023 11:22:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
