@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Feb 2023 19:52:15 +0000</lastBuildDate>
-    <item>
-      <title>Riverside - Coda (6 plays)</title>
-      <link>https://www.last.fm/music/Riverside/_/Coda</link>
-      <guid isPermaLink="false">TalonsOfFire-1675201777--Riverside---Coda</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ae77c1bb44c6b3aba4fb0d83551493c.jpg" length="20602" type="image/jpeg"/>
-      <pubDate>Tue, 31 Jan 2023 16:49:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Feb 2023 20:19:20 +0000</lastBuildDate>
     <item>
       <title>Hammock - Release (1 play)</title>
       <link>https://www.last.fm/music/Hammock/_/Release</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1675712755--ccc7485d-52b8-4d11-820e-5fabe43ccf20---Treasure</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8efbf31678522e09a586376254e80d7.jpg" length="24523" type="image/jpeg"/>
       <pubDate>Mon, 06 Feb 2023 14:45:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Aphex Twin - #1 (4 plays)</title>
+      <link>https://www.last.fm/music/Aphex+Twin/_/%231</link>
+      <guid isPermaLink="false">TalonsOfFire-1675713106--f22942a1-6f70-4f48-866e-238cb2308fbd---#1</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27cbbe4e88884b81911699b88c2d5eca.png" length="164592" type="image/png"/>
+      <pubDate>Mon, 06 Feb 2023 14:51:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
