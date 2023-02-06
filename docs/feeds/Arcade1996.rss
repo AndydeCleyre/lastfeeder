@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Feb 2023 11:26:51 +0000</lastBuildDate>
-    <item>
-      <title>Doss - Strawberry (4 plays)</title>
-      <link>https://www.last.fm/music/Doss/_/Strawberry</link>
-      <guid isPermaLink="false">Arcade1996-1675592558--33c60988-ede6-4337-83e8-95825704d194---Strawberry</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9332affd8956f0e2889cf1d75a991b90.png" length="153629" type="image/png"/>
-      <pubDate>Sun, 05 Feb 2023 05:22:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Feb 2023 11:39:00 +0000</lastBuildDate>
     <item>
       <title>The Voidz - AlieNNatioN (3 plays)</title>
       <link>https://www.last.fm/music/The+Voidz/_/AlieNNatioN</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1675682528--f59c5520-5f46-4d2c-b2c4-822eabf53419---My December</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01aa4556b6916185ecd890dad8a42f47.jpg" length="28968" type="image/jpeg"/>
       <pubDate>Mon, 06 Feb 2023 06:22:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Chemical Brothers - Asleep From Day (1 play)</title>
+      <link>https://www.last.fm/music/The+Chemical+Brothers/_/Asleep+From+Day</link>
+      <guid isPermaLink="false">Arcade1996-1675683046--1946a82a-f927-40c2-8235-38d64f50d043---Asleep From Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1428ec66344849829440668951259baa.png" length="194547" type="image/png"/>
+      <pubDate>Mon, 06 Feb 2023 06:30:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
