@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Feb 2023 09:38:46 +0000</lastBuildDate>
-    <item>
-      <title>Yo La Tengo - Aselestine (2 plays)</title>
-      <link>https://www.last.fm/music/Yo+La+Tengo/_/Aselestine</link>
-      <guid isPermaLink="false">Frippertron-1675744133--3f542031-b054-454d-b57b-812fa2a81b11---Aselestine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82c49245effe3a22aa6807335ccab870.jpg" length="25362" type="image/jpeg"/>
-      <pubDate>Mon, 06 Feb 2023 23:28:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yo La Tengo - Until It Happens (2 plays)</title>
-      <link>https://www.last.fm/music/Yo+La+Tengo/_/Until+It+Happens</link>
-      <guid isPermaLink="false">Frippertron-1675744367--3f542031-b054-454d-b57b-812fa2a81b11---Until It Happens</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82c49245effe3a22aa6807335ccab870.jpg" length="25362" type="image/jpeg"/>
-      <pubDate>Mon, 06 Feb 2023 23:32:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Feb 2023 10:19:29 +0000</lastBuildDate>
     <item>
       <title>Yo La Tengo - Apology Letter (2 plays)</title>
       <link>https://www.last.fm/music/Yo+La+Tengo/_/Apology+Letter</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1675762340--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Breathless</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 07 Feb 2023 04:32:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Robert Fripp - Disengage (40 plays)</title>
+      <link>https://www.last.fm/music/Robert+Fripp/_/Disengage</link>
+      <guid isPermaLink="false">Frippertron-1675763499--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Disengage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 07 Feb 2023 04:51:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - The Gates of Delirium (52 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/The+Gates+of+Delirium</link>
+      <guid isPermaLink="false">Frippertron-1675763856--c1d4f2ba-cf39-460c-9528-6b827d3417a1---The Gates of Delirium</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
+      <pubDate>Tue, 07 Feb 2023 04:57:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
