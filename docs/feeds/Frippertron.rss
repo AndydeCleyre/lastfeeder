@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Feb 2023 10:19:29 +0000</lastBuildDate>
-    <item>
-      <title>Yo La Tengo - Apology Letter (2 plays)</title>
-      <link>https://www.last.fm/music/Yo+La+Tengo/_/Apology+Letter</link>
-      <guid isPermaLink="false">Frippertron-1675744565--3f542031-b054-454d-b57b-812fa2a81b11---Apology Letter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82c49245effe3a22aa6807335ccab870.jpg" length="25362" type="image/jpeg"/>
-      <pubDate>Mon, 06 Feb 2023 23:36:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yo La Tengo - Brain Capers (2 plays)</title>
-      <link>https://www.last.fm/music/Yo+La+Tengo/_/Brain+Capers</link>
-      <guid isPermaLink="false">Frippertron-1675744824--3f542031-b054-454d-b57b-812fa2a81b11---Brain Capers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82c49245effe3a22aa6807335ccab870.jpg" length="25362" type="image/jpeg"/>
-      <pubDate>Mon, 06 Feb 2023 23:40:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Feb 2023 10:39:17 +0000</lastBuildDate>
     <item>
       <title>Yo La Tengo - This Stupid World (2 plays)</title>
       <link>https://www.last.fm/music/Yo+La+Tengo/_/This+Stupid+World</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1675763856--c1d4f2ba-cf39-460c-9528-6b827d3417a1---The Gates of Delirium</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
       <pubDate>Tue, 07 Feb 2023 04:57:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Sound Chaser (49 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Sound+Chaser</link>
+      <guid isPermaLink="false">Frippertron-1675765168--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Sound Chaser</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
+      <pubDate>Tue, 07 Feb 2023 05:19:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - To Be Over (65 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/To+Be+Over</link>
+      <guid isPermaLink="false">Frippertron-1675765737--c1d4f2ba-cf39-460c-9528-6b827d3417a1---To Be Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
+      <pubDate>Tue, 07 Feb 2023 05:28:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
