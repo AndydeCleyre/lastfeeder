@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Feb 2023 05:16:26 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Stay (247 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
-      <guid isPermaLink="false">Frippertron-1675671627--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Mon, 06 Feb 2023 03:20:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Feb 2023 05:37:21 +0000</lastBuildDate>
     <item>
       <title>Gil Scott-Heron - Shut 'Um Down (1 play)</title>
       <link>https://www.last.fm/music/Gil+Scott-Heron/_/Shut+%27Um+Down</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1675746082--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Perpetual Change</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
       <pubDate>Tue, 07 Feb 2023 00:01:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Yours Is No Disgrace (42 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Yours+Is+No+Disgrace</link>
+      <guid isPermaLink="false">Frippertron-1675747541--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Yours Is No Disgrace</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
+      <pubDate>Tue, 07 Feb 2023 00:25:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
