@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Feb 2023 16:48:16 +0000</lastBuildDate>
-    <item>
-      <title>Northlane - Genesis (12 plays)</title>
-      <link>https://www.last.fm/music/Northlane/_/Genesis</link>
-      <guid isPermaLink="false">gameofmetal-1675483351--f4e44995-1890-42a0-a6c1-9185b71655fa---Genesis</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3f560a00a3f48199371661c3b70cc70.png" length="181597" type="image/png"/>
-      <pubDate>Fri, 03 Feb 2023 23:02:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Feb 2023 17:17:11 +0000</lastBuildDate>
     <item>
       <title>Northlane - Scarab (10 plays)</title>
       <link>https://www.last.fm/music/Northlane/_/Scarab</link>
@@ -222,7 +215,6 @@
       <title>Dua Lipa - Physical (7 plays)</title>
       <link>https://www.last.fm/music/Dua+Lipa/_/Physical</link>
       <guid isPermaLink="false">gameofmetal-1675704224--6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f---Physical</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2894a2fe8c099b5822bd89e0615476f9.jpg" length="19630" type="image/jpeg"/>
       <pubDate>Mon, 06 Feb 2023 12:23:44 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">gameofmetal-1675779466--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Silhouette</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9126820675ed1ac406f16dc2b5500db7.jpg" length="20808" type="image/jpeg"/>
       <pubDate>Tue, 07 Feb 2023 09:17:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thrice - Stare At The Sun (1 play)</title>
+      <link>https://www.last.fm/music/Thrice/_/Stare+At+The+Sun</link>
+      <guid isPermaLink="false">gameofmetal-1675788473--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Stare At The Sun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9126820675ed1ac406f16dc2b5500db7.jpg" length="20808" type="image/jpeg"/>
+      <pubDate>Tue, 07 Feb 2023 11:47:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
