@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 17:53:31 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - Bleak (2 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Bleak</link>
-      <guid isPermaLink="false">manosg--1675786938--c14b4180-dc87-481e-b17a-64e4150f90f6---Bleak</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81ceca769bf55c995c8f2d1fa01894d4.jpg" length="17719" type="image/jpeg"/>
-      <pubDate>Tue, 07 Feb 2023 11:22:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>Opeth - Harvest (4 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Harvest</link>
-      <guid isPermaLink="false">manosg--1675788409--c14b4180-dc87-481e-b17a-64e4150f90f6---Harvest</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81ceca769bf55c995c8f2d1fa01894d4.jpg" length="17719" type="image/jpeg"/>
-      <pubDate>Tue, 07 Feb 2023 11:46:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Feb 2023 18:23:18 +0000</lastBuildDate>
     <item>
       <title>Opeth - The Drapery Falls (4 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/The+Drapery+Falls</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1675877505--Ronnie Romero---A Light in the Black</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ead1e16125e479a0fb692492ab311c4.jpg" length="19075" type="image/jpeg"/>
       <pubDate>Wed, 08 Feb 2023 12:31:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ronnie Romero - Kind Hearted Light (1 play)</title>
+      <link>https://www.last.fm/music/Ronnie+Romero/_/Kind+Hearted+Light</link>
+      <guid isPermaLink="false">manosg--1675878030--Ronnie Romero---Kind Hearted Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ead1e16125e479a0fb692492ab311c4.jpg" length="19075" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 12:40:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ronnie Romero - You Don't Remember, I'll Never Forget (1 play)</title>
+      <link>https://www.last.fm/music/Ronnie+Romero/_/You+Don%27t+Remember,+I%27ll+Never+Forget</link>
+      <guid isPermaLink="false">manosg--1675879389--Ronnie Romero---You Don't Remember, I'll Never Forget</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ead1e16125e479a0fb692492ab311c4.jpg" length="19075" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 13:03:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
