@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 05:17:16 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - The World Awake (60 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/The+World+Awake</link>
-      <guid isPermaLink="false">Frippertron-1675757023--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The World Awake</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d8b06904529497fc944fa5350833521.png" length="131878" type="image/png"/>
-      <pubDate>Tue, 07 Feb 2023 03:03:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Prince - Christopher Tracy's Parade (36 plays)</title>
-      <link>https://www.last.fm/music/Prince/_/Christopher+Tracy%27s+Parade</link>
-      <guid isPermaLink="false">Frippertron-1675757319--070d193a-845c-479f-980e-bef15710653e---Christopher Tracy's Parade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebc8fc5ad74f9b8c783fb2d70fa23d2.jpg" length="18240" type="image/jpeg"/>
-      <pubDate>Tue, 07 Feb 2023 03:08:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Prince - New Position (34 plays)</title>
-      <link>https://www.last.fm/music/Prince/_/New+Position</link>
-      <guid isPermaLink="false">Frippertron-1675757450--070d193a-845c-479f-980e-bef15710653e---New Position</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebc8fc5ad74f9b8c783fb2d70fa23d2.jpg" length="18240" type="image/jpeg"/>
-      <pubDate>Tue, 07 Feb 2023 03:10:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Feb 2023 05:37:22 +0000</lastBuildDate>
     <item>
       <title>Prince - I Wonder U (34 plays)</title>
       <link>https://www.last.fm/music/Prince/_/I+Wonder+U</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1675832575--60aa2510-4ab1-4e50-9267-30a15700dc1c---Behind the Lines</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
       <pubDate>Wed, 08 Feb 2023 00:02:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Man of Our Times (36 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Man+of+Our+Times</link>
+      <guid isPermaLink="false">Frippertron-1675833601--60aa2510-4ab1-4e50-9267-30a15700dc1c---Man of Our Times</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 00:20:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yo La Tengo - Sinatra Drive Breakdown (3 plays)</title>
+      <link>https://www.last.fm/music/Yo+La+Tengo/_/Sinatra+Drive+Breakdown</link>
+      <guid isPermaLink="false">Frippertron-1675833969--3f542031-b054-454d-b57b-812fa2a81b11---Sinatra Drive Breakdown</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82c49245effe3a22aa6807335ccab870.jpg" length="25362" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 00:26:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yo La Tengo - Fallout (3 plays)</title>
+      <link>https://www.last.fm/music/Yo+La+Tengo/_/Fallout</link>
+      <guid isPermaLink="false">Frippertron-1675834414--3f542031-b054-454d-b57b-812fa2a81b11---Fallout</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82c49245effe3a22aa6807335ccab870.jpg" length="25362" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 00:33:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
