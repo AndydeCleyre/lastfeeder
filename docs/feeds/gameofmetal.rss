@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 15:19:52 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Speak to Me (1 play)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Speak+to+Me</link>
-      <guid isPermaLink="false">gameofmetal-1675800618--83d91898-7763-47d7-b03b-b92132375c47---Speak to Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d4bdd038cacbec705e269edb0fd38419.png" length="17165" type="image/png"/>
-      <pubDate>Tue, 07 Feb 2023 15:10:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Feb 2023 15:39:18 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Breathe (In the Air) (1 play)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Breathe+(In+the+Air)</link>
@@ -184,7 +177,7 @@
       <pubDate>Tue, 07 Feb 2023 17:16:35 -0500</pubDate>
     </item>
     <item>
-      <title>Birds in Row - Trompe L'oeil (1 play)</title>
+      <title>Birds in Row - Trompe L'oeil (2 plays)</title>
       <link>https://www.last.fm/music/Birds+in+Row/_/Trompe+L%27oeil</link>
       <guid isPermaLink="false">gameofmetal-1675808398--71fdb598-1967-435b-ab25-f4daad5e576b---Trompe L'oeil</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/421489e6e9ea370358e570d3d09af81a.jpg" length="19744" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1675867396--Toni Romiti---Switch Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf17ded55ff5dc2810ba82821acaad55.jpg" length="10240" type="image/jpeg"/>
       <pubDate>Wed, 08 Feb 2023 09:43:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Birds in Row - Trompe L'oeil (2 plays)</title>
+      <link>https://www.last.fm/music/Birds+in+Row/_/Trompe+L%27oeil</link>
+      <guid isPermaLink="false">gameofmetal-1675869126--71fdb598-1967-435b-ab25-f4daad5e576b---Trompe L'oeil</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/421489e6e9ea370358e570d3d09af81a.jpg" length="19744" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 10:12:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
