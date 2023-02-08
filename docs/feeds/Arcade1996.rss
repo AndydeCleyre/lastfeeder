@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 13:53:17 +0000</lastBuildDate>
-    <item>
-      <title>The Beta Band - The House Song (1 play)</title>
-      <link>https://www.last.fm/music/The+Beta+Band/_/The+House+Song</link>
-      <guid isPermaLink="false">Arcade1996-1675762127--0d82f0cd-107a-403f-a726-ac7287cbea65---The House Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3018b46544b6476194dedf7850e43381.png" length="149489" type="image/png"/>
-      <pubDate>Tue, 07 Feb 2023 04:28:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Feb 2023 14:16:54 +0000</lastBuildDate>
     <item>
       <title>The Beta Band - Monolith (1 play)</title>
       <link>https://www.last.fm/music/The+Beta+Band/_/Monolith</link>
@@ -198,7 +191,7 @@
       <pubDate>Tue, 07 Feb 2023 19:34:16 -0500</pubDate>
     </item>
     <item>
-      <title>slowthai - Selfish (2 plays)</title>
+      <title>slowthai - Selfish (3 plays)</title>
       <link>https://www.last.fm/music/slowthai/_/Selfish</link>
       <guid isPermaLink="false">Arcade1996-1675816582--333e76b4-9606-4fd3-bcb3-8e7660bb4d96---Selfish</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78f63c4ca6db1abd56a6b6177dd53853.jpg" length="16449" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1675864085--6a93cb2b-d33a-42fc-a41a-542e3a887ba6---AlieNNatioN</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c09bab634deffda398be3d01b9257245.jpg" length="34570" type="image/jpeg"/>
       <pubDate>Wed, 08 Feb 2023 08:48:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>slowthai - Selfish (3 plays)</title>
+      <link>https://www.last.fm/music/slowthai/_/Selfish</link>
+      <guid isPermaLink="false">Arcade1996-1675864365--333e76b4-9606-4fd3-bcb3-8e7660bb4d96---Selfish</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78f63c4ca6db1abd56a6b6177dd53853.jpg" length="16449" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 08:52:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
