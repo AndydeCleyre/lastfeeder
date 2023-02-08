@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 18:41:55 +0000</lastBuildDate>
-    <item>
-      <title>Alice in Chains - Nutshell (1 play)</title>
-      <link>https://www.last.fm/music/Alice+in+Chains/_/Nutshell</link>
-      <guid isPermaLink="false">gameofmetal-1675806336--4bd95eea-b9f6-4d70-a36c-cfea77431553---Nutshell</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1548e6e04cec4c7acc36e82bb1ed8533.png" length="143248" type="image/png"/>
-      <pubDate>Tue, 07 Feb 2023 16:45:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Eloy - Introduction (1 play)</title>
-      <link>https://www.last.fm/music/Eloy/_/Introduction</link>
-      <guid isPermaLink="false">gameofmetal-1675806596--bc154a90-890b-409e-b850-53ca299ab0d6---Introduction</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ce75d2dc4e1a599c6dea2c87b409853.jpg" length="26575" type="image/jpeg"/>
-      <pubDate>Tue, 07 Feb 2023 16:49:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Feb 2023 23:37:55 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Round and Around (1 play)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Round+and+Around</link>
@@ -219,7 +205,7 @@
       <pubDate>Tue, 07 Feb 2023 21:25:27 -0500</pubDate>
     </item>
     <item>
-      <title>Nickelback - San Quentin (18 plays)</title>
+      <title>Nickelback - San Quentin (19 plays)</title>
       <link>https://www.last.fm/music/Nickelback/_/San+Quentin</link>
       <guid isPermaLink="false">gameofmetal-1675866326--bc710bcf-8815-42cf-bad2-3f1d12246aeb---San Quentin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a0ca4b75f85ed09ed92ecc6437fc4cd.jpg" length="37480" type="image/jpeg"/>
@@ -313,6 +299,7 @@
       <title>Record Setter - Someplace (1 play)</title>
       <link>https://www.last.fm/music/Record+Setter/_/Someplace</link>
       <guid isPermaLink="false">gameofmetal-1675877970--703dd6f3-2705-4228-bb2e-ef42c17f98df---Someplace</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c01c7187b70e77586fad4bd9dc908cc5.jpg" length="19532" type="image/jpeg"/>
       <pubDate>Wed, 08 Feb 2023 12:39:30 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1675880503--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Hold Fast Hope</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac89c7f01f0e9089c3654f08150219b1.jpg" length="38237" type="image/jpeg"/>
       <pubDate>Wed, 08 Feb 2023 13:21:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thrice - Music Box (1 play)</title>
+      <link>https://www.last.fm/music/Thrice/_/Music+Box</link>
+      <guid isPermaLink="false">gameofmetal-1675880742--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Music Box</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac89c7f01f0e9089c3654f08150219b1.jpg" length="38237" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 13:25:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nickelback - San Quentin (19 plays)</title>
+      <link>https://www.last.fm/music/Nickelback/_/San+Quentin</link>
+      <guid isPermaLink="false">gameofmetal-1675899175--bc710bcf-8815-42cf-bad2-3f1d12246aeb---San Quentin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a0ca4b75f85ed09ed92ecc6437fc4cd.jpg" length="37480" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 18:32:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
