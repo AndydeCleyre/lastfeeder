@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 04:54:19 +0000</lastBuildDate>
-    <item>
-      <title>black midi - Talking Heads (90 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Talking+Heads</link>
-      <guid isPermaLink="false">Frippertron-1675756564--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Talking Heads</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 07 Feb 2023 02:56:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Alabama Song (73 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Alabama+Song</link>
-      <guid isPermaLink="false">Frippertron-1675756778--5441c29d-3602-4898-b1a1-b77fa23b8e50---Alabama Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c7da1cc9a615c01b1513426660faa39.jpg" length="18376" type="image/jpeg"/>
-      <pubDate>Tue, 07 Feb 2023 02:59:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Feb 2023 05:17:16 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - The World Awake (60 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/The+World+Awake</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1675831343--60aa2510-4ab1-4e50-9267-30a15700dc1c---Stagnation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a4f0bed2eeb46ea97f20fda573d7419.jpg" length="31184" type="image/jpeg"/>
       <pubDate>Tue, 07 Feb 2023 23:42:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - The Knife (39 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/The+Knife</link>
+      <guid isPermaLink="false">Frippertron-1675831889--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Knife</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a4f0bed2eeb46ea97f20fda573d7419.jpg" length="31184" type="image/jpeg"/>
+      <pubDate>Tue, 07 Feb 2023 23:51:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Behind the Lines (32 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Behind+the+Lines</link>
+      <guid isPermaLink="false">Frippertron-1675832575--60aa2510-4ab1-4e50-9267-30a15700dc1c---Behind the Lines</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 00:02:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
