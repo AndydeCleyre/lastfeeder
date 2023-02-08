@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 09:19:06 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - Willie the Pimp (3 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/Willie+the+Pimp</link>
-      <guid isPermaLink="false">manosg--1675697241--e20747e7-55a4-452e-8766-7b985585082d---Willie the Pimp</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557397c58f19a5a89a003056ab196692.jpg" length="22476" type="image/jpeg"/>
-      <pubDate>Mon, 06 Feb 2023 10:27:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Feb 2023 09:40:02 +0000</lastBuildDate>
     <item>
       <title>Frank Zappa - Son of Mr. Green Genes (3 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/Son+of+Mr.+Green+Genes</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1675847176--f1548c5b-329e-4036-921c-02213a04b525---Hurricane</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55781055eee8d4e45d36b4a46f186bde.jpg" length="21195" type="image/jpeg"/>
       <pubDate>Wed, 08 Feb 2023 04:06:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Uriah Heep - One Nation, One Sun (1 play)</title>
+      <link>https://www.last.fm/music/Uriah+Heep/_/One+Nation,+One+Sun</link>
+      <guid isPermaLink="false">manosg--1675847466--f1548c5b-329e-4036-921c-02213a04b525---One Nation, One Sun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55781055eee8d4e45d36b4a46f186bde.jpg" length="21195" type="image/jpeg"/>
+      <pubDate>Wed, 08 Feb 2023 04:11:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
