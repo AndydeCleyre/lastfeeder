@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Feb 2023 10:39:42 +0000</lastBuildDate>
-    <item>
-      <title>Yo La Tengo - Aselestine (4 plays)</title>
-      <link>https://www.last.fm/music/Yo+La+Tengo/_/Aselestine</link>
-      <guid isPermaLink="false">Frippertron-1675918781--3f542031-b054-454d-b57b-812fa2a81b11---Aselestine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82c49245effe3a22aa6807335ccab870.jpg" length="25362" type="image/jpeg"/>
-      <pubDate>Wed, 08 Feb 2023 23:59:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Feb 2023 10:52:43 +0000</lastBuildDate>
     <item>
       <title>Yo La Tengo - Until It Happens (4 plays)</title>
       <link>https://www.last.fm/music/Yo+La+Tengo/_/Until+It+Happens</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1675938865--5441c29d-3602-4898-b1a1-b77fa23b8e50---Because You're Young</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
       <pubDate>Thu, 09 Feb 2023 05:34:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - It's No Game (Part 2) (59 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/It%27s+No+Game+(Part+2)</link>
+      <guid isPermaLink="false">Frippertron-1675939162--5441c29d-3602-4898-b1a1-b77fa23b8e50---It's No Game (Part 2)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <pubDate>Thu, 09 Feb 2023 05:39:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
