@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Feb 2023 13:52:24 +0000</lastBuildDate>
-    <item>
-      <title>Birds in Row - Trompe L'oeil (2 plays)</title>
-      <link>https://www.last.fm/music/Birds+in+Row/_/Trompe+L%27oeil</link>
-      <guid isPermaLink="false">gameofmetal-1675808398--71fdb598-1967-435b-ab25-f4daad5e576b---Trompe L'oeil</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/421489e6e9ea370358e570d3d09af81a.jpg" length="19744" type="image/jpeg"/>
-      <pubDate>Tue, 07 Feb 2023 17:19:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>Birds in Row - Grisaille (2 plays)</title>
-      <link>https://www.last.fm/music/Birds+in+Row/_/Grisaille</link>
-      <guid isPermaLink="false">gameofmetal-1675808399--71fdb598-1967-435b-ab25-f4daad5e576b---Grisaille</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/421489e6e9ea370358e570d3d09af81a.jpg" length="19744" type="image/jpeg"/>
-      <pubDate>Tue, 07 Feb 2023 17:19:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sheryl Crow - If It Makes You Happy (5 plays)</title>
-      <link>https://www.last.fm/music/Sheryl+Crow/_/If+It+Makes+You+Happy</link>
-      <guid isPermaLink="false">gameofmetal-1675812250--80ccfede-c258-4575-a7ad-c982e9932e0f---If It Makes You Happy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/033e940fb93141d4a3be2d4cf6ec0567.png" length="151150" type="image/png"/>
-      <pubDate>Tue, 07 Feb 2023 18:24:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Feb 2023 14:17:47 +0000</lastBuildDate>
     <item>
       <title>Nickelback - Burn It To The Ground (19 plays)</title>
       <link>https://www.last.fm/music/Nickelback/_/Burn+It+To+The+Ground</link>
@@ -327,6 +306,7 @@
       <title>Lukas Graham - Lie (2 plays)</title>
       <link>https://www.last.fm/music/Lukas+Graham/_/Lie</link>
       <guid isPermaLink="false">gameofmetal-1675900055--124cec07-44f1-4a99-9aaa-96a5bb9ec0bd---Lie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8bc36c82df7726b9307f3c4c02d2105e.jpg" length="22446" type="image/jpeg"/>
       <pubDate>Wed, 08 Feb 2023 18:47:35 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">gameofmetal-1675914760--d044577e-aa22-43b7-ab29-cabee5f6643c---Land of the Upright Ones</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a98e0cddf5364c098721e76b43f7ccbc.png" length="203457" type="image/png"/>
       <pubDate>Wed, 08 Feb 2023 22:52:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thrice - Like Moths to Flame (1 play)</title>
+      <link>https://www.last.fm/music/Thrice/_/Like+Moths+to+Flame</link>
+      <guid isPermaLink="false">gameofmetal-1675950585--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Like Moths to Flame</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac89c7f01f0e9089c3654f08150219b1.jpg" length="38237" type="image/jpeg"/>
+      <pubDate>Thu, 09 Feb 2023 08:49:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thrice - Of Dust and Nations (1 play)</title>
+      <link>https://www.last.fm/music/Thrice/_/Of+Dust+and+Nations</link>
+      <guid isPermaLink="false">gameofmetal-1675950940--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Of Dust and Nations</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac89c7f01f0e9089c3654f08150219b1.jpg" length="38237" type="image/jpeg"/>
+      <pubDate>Thu, 09 Feb 2023 08:55:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thrice - Stand and Feel Your Worth (1 play)</title>
+      <link>https://www.last.fm/music/Thrice/_/Stand+and+Feel+Your+Worth</link>
+      <guid isPermaLink="false">gameofmetal-1675951175--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Stand and Feel Your Worth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac89c7f01f0e9089c3654f08150219b1.jpg" length="38237" type="image/jpeg"/>
+      <pubDate>Thu, 09 Feb 2023 08:59:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
