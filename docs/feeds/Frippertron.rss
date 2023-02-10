@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Feb 2023 06:24:21 +0000</lastBuildDate>
-    <item>
-      <title>坂本龍一 - 20220207 (1 play)</title>
-      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/20220207</link>
-      <guid isPermaLink="false">Frippertron-1675936004--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---20220207</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15f629221ab5e584fac4890f42902584.jpg" length="13347" type="image/jpeg"/>
-      <pubDate>Thu, 09 Feb 2023 04:46:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>坂本龍一 - 20220214 (1 play)</title>
-      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/20220214</link>
-      <guid isPermaLink="false">Frippertron-1675936428--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---20220214</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15f629221ab5e584fac4890f42902584.jpg" length="13347" type="image/jpeg"/>
-      <pubDate>Thu, 09 Feb 2023 04:53:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Feb 2023 06:43:56 +0000</lastBuildDate>
     <item>
       <title>坂本龍一 - 20220302 - sarabande (1 play)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/20220302+-+sarabande</link>
@@ -194,12 +180,14 @@
       <title>Rah Band - Perfumed Garden (with Scented Strings) (7 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Perfumed+Garden+(with+Scented+Strings)</link>
       <guid isPermaLink="false">Frippertron-1676002467--138f1987-bbb8-48b9-8d77-bf02576b0905---Perfumed Garden (with Scented Strings)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
       <pubDate>Thu, 09 Feb 2023 23:14:27 -0500</pubDate>
     </item>
     <item>
       <title>Rah Band - Sam The Samba Man (13 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
       <guid isPermaLink="false">Frippertron-1676002924--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
       <pubDate>Thu, 09 Feb 2023 23:22:04 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1676009946--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---The Flower Called Nowhere</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
       <pubDate>Fri, 10 Feb 2023 01:19:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Diagonals (10 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Diagonals</link>
+      <guid isPermaLink="false">Frippertron-1676010242--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Diagonals</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
+      <pubDate>Fri, 10 Feb 2023 01:24:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Refractions in the Plastic Pulse (14 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Refractions+in+the+Plastic+Pulse</link>
+      <guid isPermaLink="false">Frippertron-1676010567--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Refractions in the Plastic Pulse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
+      <pubDate>Fri, 10 Feb 2023 01:29:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
