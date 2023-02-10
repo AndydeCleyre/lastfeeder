@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Feb 2023 04:53:56 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Duchess (34 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Duchess</link>
-      <guid isPermaLink="false">Frippertron-1675929541--60aa2510-4ab1-4e50-9267-30a15700dc1c---Duchess</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
-      <pubDate>Thu, 09 Feb 2023 02:59:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Guide Vocal (28 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Guide+Vocal</link>
-      <guid isPermaLink="false">Frippertron-1675929945--60aa2510-4ab1-4e50-9267-30a15700dc1c---Guide Vocal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
-      <pubDate>Thu, 09 Feb 2023 03:05:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Feb 2023 05:17:18 +0000</lastBuildDate>
     <item>
       <title>Genesis - Turn It On Again (58 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Turn+It+On+Again</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1676004494--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Turn Blue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/382eeddf65de4173b9269242b8d60c9f.jpg" length="18748" type="image/jpeg"/>
       <pubDate>Thu, 09 Feb 2023 23:48:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iggy Pop - Sister Midnight (66 plays)</title>
+      <link>https://www.last.fm/music/Iggy+Pop/_/Sister+Midnight</link>
+      <guid isPermaLink="false">Frippertron-1676004915--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Sister Midnight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/382eeddf65de4173b9269242b8d60c9f.jpg" length="18748" type="image/jpeg"/>
+      <pubDate>Thu, 09 Feb 2023 23:55:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iggy Pop - I Need Somebody (6 plays)</title>
+      <link>https://www.last.fm/music/Iggy+Pop/_/I+Need+Somebody</link>
+      <guid isPermaLink="false">Frippertron-1676005162--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---I Need Somebody</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/382eeddf65de4173b9269242b8d60c9f.jpg" length="18748" type="image/jpeg"/>
+      <pubDate>Thu, 09 Feb 2023 23:59:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
