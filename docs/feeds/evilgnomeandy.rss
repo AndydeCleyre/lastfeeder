@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Feb 2023 23:17:03 +0000</lastBuildDate>
-    <item>
-      <title>Cake - Ruby Sees All (5 plays)</title>
-      <link>https://www.last.fm/music/Cake/_/Ruby+Sees+All</link>
-      <guid isPermaLink="false">evilgnomeandy-1676137712--e78260a0-bdce-4348-9542-cfad7b152cd8---Ruby Sees All</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1c684b4ee7846eaa747daaf855af920.png" length="152387" type="image/png"/>
-      <pubDate>Sat, 11 Feb 2023 12:48:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ringo Starr - Only You (And You Alone) (7 plays)</title>
-      <link>https://www.last.fm/music/Ringo+Starr/_/Only+You+(And+You+Alone)</link>
-      <guid isPermaLink="false">evilgnomeandy-1676137892--300c4c73-33ac-4255-9d57-4e32627f5e13---Only You (And You Alone)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d65a5fc3824404d8f06505c6c1861c8.jpg" length="23199" type="image/jpeg"/>
-      <pubDate>Sat, 11 Feb 2023 12:51:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anne Sofie von Otter - For No One (1 play)</title>
-      <link>https://www.last.fm/music/Anne+Sofie+von+Otter/_/For+No+One</link>
-      <guid isPermaLink="false">evilgnomeandy-1676138101--da7c775b-ea4e-4e5f-a9a4-878574ca2c75---For No One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8a463ed95844494813f5adab9fee302.jpg" length="16533" type="image/jpeg"/>
-      <pubDate>Sat, 11 Feb 2023 12:55:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Feb 2023 18:21:57 +0000</lastBuildDate>
     <item>
       <title>Johnny Cash - In My Life (30 plays)</title>
       <link>https://www.last.fm/music/Johnny+Cash/_/In+My+Life</link>
@@ -180,6 +159,7 @@
       <title>Ty Segall - Hello, Hi (4 plays)</title>
       <link>https://www.last.fm/music/Ty+Segall/_/Hello,+Hi</link>
       <guid isPermaLink="false">evilgnomeandy-1676152612--07a17571-81fc-4cf8-a634-98f0d926d313---Hello, Hi</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35c16a1d35f1b6f39f782a37b836fe76.jpg" length="38736" type="image/jpeg"/>
       <pubDate>Sat, 11 Feb 2023 16:56:52 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">evilgnomeandy-1676156936--The Kinks---You Really Got Me - Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/268e82ec2b354bb5cb22a89243acf196.jpg" length="18030" type="image/jpeg"/>
       <pubDate>Sat, 11 Feb 2023 18:08:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tears for Fears - Mad World (18 plays)</title>
+      <link>https://www.last.fm/music/Tears+for+Fears/_/Mad+World</link>
+      <guid isPermaLink="false">evilgnomeandy-1676225315--7c7f9c94-dee8-4903-892b-6cf44652e2de---Mad World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d545a96b5f21aa48f5cdead6fdb4e319.jpg" length="5542" type="image/jpeg"/>
+      <pubDate>Sun, 12 Feb 2023 13:08:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Talking Heads - And She Was (18 plays)</title>
+      <link>https://www.last.fm/music/Talking+Heads/_/And+She+Was</link>
+      <guid isPermaLink="false">evilgnomeandy-1676225488--a94a7155-c79d-4409-9fcf-220cb0e4dc3a---And She Was</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a37156fbac2e4f0ecf7c7cdd6d8848b2.jpg" length="43007" type="image/jpeg"/>
+      <pubDate>Sun, 12 Feb 2023 13:11:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Cure - In Between Days - 2006 Remaster (3 plays)</title>
+      <link>https://www.last.fm/music/The+Cure/_/In+Between+Days+-+2006+Remaster</link>
+      <guid isPermaLink="false">evilgnomeandy-1676225709--The Cure---In Between Days - 2006 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a84ef16556b6821768b0e3e10f97572.jpg" length="16682" type="image/jpeg"/>
+      <pubDate>Sun, 12 Feb 2023 13:15:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
