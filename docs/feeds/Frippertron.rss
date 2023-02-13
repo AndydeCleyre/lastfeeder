@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Feb 2023 04:42:00 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - I Saw The Light (219 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/I+Saw+The+Light</link>
-      <guid isPermaLink="false">Frippertron-1676017385--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---I Saw The Light</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e0cb27c868af52a6902552aac2a089a.jpg" length="35724" type="image/jpeg"/>
-      <pubDate>Fri, 10 Feb 2023 03:23:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Swans - Jim (43 plays)</title>
-      <link>https://www.last.fm/music/Swans/_/Jim</link>
-      <guid isPermaLink="false">Frippertron-1676017559--3285dc48-9505-469d-ad8a-bdf2d3dba632---Jim</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afb7e3a147674812de61cf82fcee4308.jpg" length="23388" type="image/jpeg"/>
-      <pubDate>Fri, 10 Feb 2023 03:25:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Swans - Volcano (55 plays)</title>
-      <link>https://www.last.fm/music/Swans/_/Volcano</link>
-      <guid isPermaLink="false">Frippertron-1676017979--3285dc48-9505-469d-ad8a-bdf2d3dba632---Volcano</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9081bc90695f4d03b1eb54a844bff459.jpg" length="12572" type="image/jpeg"/>
-      <pubDate>Fri, 10 Feb 2023 03:32:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Feb 2023 04:53:56 +0000</lastBuildDate>
     <item>
       <title>Everything But the Girl - Each and Every One (100 plays)</title>
       <link>https://www.last.fm/music/Everything+But+the+Girl/_/Each+and+Every+One</link>
@@ -135,7 +114,7 @@
       <pubDate>Fri, 10 Feb 2023 04:42:10 -0500</pubDate>
     </item>
     <item>
-      <title>Yo La Tengo - Aselestine</title>
+      <title>Yo La Tengo - Aselestine (5 plays)</title>
       <link>https://www.last.fm/music/Yo+La+Tengo/_/Aselestine</link>
       <guid isPermaLink="false">Frippertron-1676022422--3f542031-b054-454d-b57b-812fa2a81b11---Aselestine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82c49245effe3a22aa6807335ccab870.jpg" length="25362" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1676262937--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Reynardine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3dc94ccea8f32a31c6562cd613ff00d.png" length="140379" type="image/png"/>
       <pubDate>Sun, 12 Feb 2023 23:35:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Matty Groves (2 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Matty+Groves</link>
+      <guid isPermaLink="false">Frippertron-1676263213--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Matty Groves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3dc94ccea8f32a31c6562cd613ff00d.png" length="140379" type="image/png"/>
+      <pubDate>Sun, 12 Feb 2023 23:40:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Farewell, Farewell (2 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Farewell,+Farewell</link>
+      <guid isPermaLink="false">Frippertron-1676263705--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Farewell, Farewell</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3dc94ccea8f32a31c6562cd613ff00d.png" length="140379" type="image/png"/>
+      <pubDate>Sun, 12 Feb 2023 23:48:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - The Deserter (2 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/The+Deserter</link>
+      <guid isPermaLink="false">Frippertron-1676263867--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---The Deserter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3dc94ccea8f32a31c6562cd613ff00d.png" length="140379" type="image/png"/>
+      <pubDate>Sun, 12 Feb 2023 23:51:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
