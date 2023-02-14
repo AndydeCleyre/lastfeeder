@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Feb 2023 04:23:00 +0000</lastBuildDate>
-    <item>
-      <title>Be Bop Deluxe - Lights (1 play)</title>
-      <link>https://www.last.fm/music/Be+Bop+Deluxe/_/Lights</link>
-      <guid isPermaLink="false">Frippertron-1676271280--96742ec2-b733-4ac6-b493-7e056a43b357---Lights</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c678da7076855822d920c52b25d1f5d0.jpg" length="14919" type="image/jpeg"/>
-      <pubDate>Mon, 13 Feb 2023 01:54:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Both Ends Burning (43 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Both+Ends+Burning</link>
-      <guid isPermaLink="false">Frippertron-1676271542--331ce348-1b08-40b9-8ed7-0763b92bd003---Both Ends Burning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
-      <pubDate>Mon, 13 Feb 2023 01:59:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Stooges - Raw Power (106 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/Raw+Power</link>
-      <guid isPermaLink="false">Frippertron-1676276156--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Raw Power</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e54cae2905948c1ba6e58cdeffa65b4.jpg" length="26455" type="image/jpeg"/>
-      <pubDate>Mon, 13 Feb 2023 03:15:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Feb 2023 04:43:01 +0000</lastBuildDate>
     <item>
       <title>The Stooges - Head On (14 plays)</title>
       <link>https://www.last.fm/music/The+Stooges/_/Head+On</link>
@@ -107,7 +86,7 @@
       <pubDate>Mon, 13 Feb 2023 04:30:30 -0500</pubDate>
     </item>
     <item>
-      <title>Genesis - The Lady Lies (39 plays)</title>
+      <title>Genesis - The Lady Lies (40 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/The+Lady+Lies</link>
       <guid isPermaLink="false">Frippertron-1676280906--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Lady Lies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd680dff4a9949d792d4098a8ab68bb1.png" length="167335" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1676348391--747e5054-f50b-498c-bff3-85f7313aeb80---Carnal Question</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/13a85a9561f79e1d78748e3dec633521.jpg" length="15438" type="image/jpeg"/>
       <pubDate>Mon, 13 Feb 2023 23:19:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - River (9 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/River</link>
+      <guid isPermaLink="false">Frippertron-1676348557--f795c501-1c41-4be2-bc2a-875eba75aa31---River</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdbf28c4b6db4bfa80af31d5835ce943.jpg" length="26038" type="image/jpeg"/>
+      <pubDate>Mon, 13 Feb 2023 23:22:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - The Lady Lies (40 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/The+Lady+Lies</link>
+      <guid isPermaLink="false">Frippertron-1676348919--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Lady Lies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
+      <pubDate>Mon, 13 Feb 2023 23:28:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ripples (124 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
+      <guid isPermaLink="false">Frippertron-1676349292--60aa2510-4ab1-4e50-9267-30a15700dc1c---Ripples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
+      <pubDate>Mon, 13 Feb 2023 23:34:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
