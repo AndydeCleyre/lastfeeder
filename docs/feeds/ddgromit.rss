@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Feb 2023 22:17:48 +0000</lastBuildDate>
-    <item>
-      <title>John Mayer - I Guess I Just Feel Like (1 play)</title>
-      <link>https://www.last.fm/music/John+Mayer/_/I+Guess+I+Just+Feel+Like</link>
-      <guid isPermaLink="false">ddgromit-1675714327--144ef525-85e9-40c3-8335-02c32d0861f3---I Guess I Just Feel Like</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/032a5cfd9cd59e9f2e3893ea7b9117a2.jpg" length="17360" type="image/jpeg"/>
-      <pubDate>Mon, 06 Feb 2023 15:12:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>A Big Enough Sky - Sunset Sky (1 play)</title>
-      <link>https://www.last.fm/music/A+Big+Enough+Sky/_/Sunset+Sky</link>
-      <guid isPermaLink="false">ddgromit-1675714615--A Big Enough Sky---Sunset Sky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 06 Feb 2023 15:16:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Feb 2023 23:52:14 +0000</lastBuildDate>
     <item>
       <title>Chris Isaak - Wicked Game (7 plays)</title>
       <link>https://www.last.fm/music/Chris+Isaak/_/Wicked+Game</link>
@@ -114,11 +100,18 @@
       <pubDate>Tue, 07 Feb 2023 03:32:04 -0500</pubDate>
     </item>
     <item>
-      <title>Collin Hill - Lupin (1 play)</title>
+      <title>Collin Hill - Lupin (2 plays)</title>
       <link>https://www.last.fm/music/Collin+Hill/_/Lupin</link>
       <guid isPermaLink="false">ddgromit-1675758904--Collin Hill---Lupin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 07 Feb 2023 03:35:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Collin Hill - Lupin (2 plays)</title>
+      <link>https://www.last.fm/music/Collin+Hill/_/Lupin</link>
+      <guid isPermaLink="false">ddgromit-1675759089--Collin Hill---Lupin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 07 Feb 2023 03:38:09 -0500</pubDate>
     </item>
     <item>
       <title>Kirsten Agresta Copely - Toscana (1 play)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1676257105--ecb42480-bd27-484a-acab-4ef56de126d4---Lady-O - Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01f961287e2d4c20aaa5a63ce7321810.png" length="221149" type="image/png"/>
       <pubDate>Sun, 12 Feb 2023 21:58:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Taylor Swift - mirrorball (1 play)</title>
+      <link>https://www.last.fm/music/Taylor+Swift/_/mirrorball</link>
+      <guid isPermaLink="false">ddgromit-1676412967--20244d07-534f-4eff-b4d4-930878889970---mirrorball</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8da93ab6d8aa00384998fdae7451d92.jpg" length="28260" type="image/jpeg"/>
+      <pubDate>Tue, 14 Feb 2023 17:16:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
