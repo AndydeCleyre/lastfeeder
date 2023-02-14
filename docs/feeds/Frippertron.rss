@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Feb 2023 06:42:54 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Tempus Fugit (38 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Tempus+Fugit</link>
-      <guid isPermaLink="false">Frippertron-1676284472--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Tempus Fugit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d461aaea9d34c2a97ef2e398ebd5a78.png" length="179860" type="image/png"/>
-      <pubDate>Mon, 13 Feb 2023 05:34:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neon Indian - Dear Skorpio Magazine (16 plays)</title>
-      <link>https://www.last.fm/music/Neon+Indian/_/Dear+Skorpio+Magazine</link>
-      <guid isPermaLink="false">Frippertron-1676284795--e8238c02-1cf0-4a51-bfd0-cee93904d351---Dear Skorpio Magazine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c39bed15da3a6dcd6e9f82f26505cbca.jpg" length="20941" type="image/jpeg"/>
-      <pubDate>Mon, 13 Feb 2023 05:39:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Feb 2023 06:54:46 +0000</lastBuildDate>
     <item>
       <title>Neon Indian - C'est la Vie (Say the Casualties!) (28 plays)</title>
       <link>https://www.last.fm/music/Neon+Indian/_/C%27est+la+Vie+(Say+the+Casualties!)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1676356834--747e5054-f50b-498c-bff3-85f7313aeb80---One Night With You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98972418fb3dd3b985be7d075d12fb4a.jpg" length="18471" type="image/jpeg"/>
       <pubDate>Tue, 14 Feb 2023 01:40:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gino Vannelli - A Song And Dance (1 play)</title>
+      <link>https://www.last.fm/music/Gino+Vannelli/_/A+Song+And+Dance</link>
+      <guid isPermaLink="false">Frippertron-1676357097--747e5054-f50b-498c-bff3-85f7313aeb80---A Song And Dance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98972418fb3dd3b985be7d075d12fb4a.jpg" length="18471" type="image/jpeg"/>
+      <pubDate>Tue, 14 Feb 2023 01:44:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gino Vannelli - Black And Blue (1 play)</title>
+      <link>https://www.last.fm/music/Gino+Vannelli/_/Black+And+Blue</link>
+      <guid isPermaLink="false">Frippertron-1676357322--747e5054-f50b-498c-bff3-85f7313aeb80---Black And Blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98972418fb3dd3b985be7d075d12fb4a.jpg" length="18471" type="image/jpeg"/>
+      <pubDate>Tue, 14 Feb 2023 01:48:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
