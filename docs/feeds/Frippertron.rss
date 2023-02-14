@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Feb 2023 03:32:21 +0000</lastBuildDate>
-    <item>
-      <title>Be-Bop Deluxe - Love in Flames (1 play)</title>
-      <link>https://www.last.fm/music/Be-Bop+Deluxe/_/Love+in+Flames</link>
-      <guid isPermaLink="false">Frippertron-1676269376--Be-Bop Deluxe---Love in Flames</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c678da7076855822d920c52b25d1f5d0.jpg" length="14919" type="image/jpeg"/>
-      <pubDate>Mon, 13 Feb 2023 01:22:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Be-Bop Deluxe - Panic In The World (1 play)</title>
-      <link>https://www.last.fm/music/Be-Bop+Deluxe/_/Panic+In+The+World</link>
-      <guid isPermaLink="false">Frippertron-1676269628--Be-Bop Deluxe---Panic In The World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c678da7076855822d920c52b25d1f5d0.jpg" length="14919" type="image/jpeg"/>
-      <pubDate>Mon, 13 Feb 2023 01:27:08 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Feb 2023 03:52:20 +0000</lastBuildDate>
     <item>
       <title>Be-Bop Deluxe - Dangerous Stranger (1 play)</title>
       <link>https://www.last.fm/music/Be-Bop+Deluxe/_/Dangerous+Stranger</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1676345080--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Awaken</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a6c3bd53dc5bbd768075c67a1163665.png" length="222112" type="image/png"/>
       <pubDate>Mon, 13 Feb 2023 22:24:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Machine Messiah (26 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Machine+Messiah</link>
+      <guid isPermaLink="false">Frippertron-1676345483--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Machine Messiah</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d461aaea9d34c2a97ef2e398ebd5a78.png" length="179860" type="image/png"/>
+      <pubDate>Mon, 13 Feb 2023 22:31:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Into The Lens (26 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Into+The+Lens</link>
+      <guid isPermaLink="false">Frippertron-1676346113--c1d4f2ba-cf39-460c-9528-6b827d3417a1---Into The Lens</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d461aaea9d34c2a97ef2e398ebd5a78.png" length="179860" type="image/png"/>
+      <pubDate>Mon, 13 Feb 2023 22:41:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
