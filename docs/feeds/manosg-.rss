@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Feb 2023 07:38:06 +0000</lastBuildDate>
-    <item>
-      <title>Siena Root - Waiting for the Sun (1 play)</title>
-      <link>https://www.last.fm/music/Siena+Root/_/Waiting+for+the+Sun</link>
-      <guid isPermaLink="false">manosg--1676300880--9df132f4-e620-4135-ae4e-708d0f3734ab---Waiting for the Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/539fa7fb15664f899daec499735ac9f5.jpg" length="39833" type="image/jpeg"/>
-      <pubDate>Mon, 13 Feb 2023 10:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Siena Root - Time Will Tell (1 play)</title>
-      <link>https://www.last.fm/music/Siena+Root/_/Time+Will+Tell</link>
-      <guid isPermaLink="false">manosg--1676301232--9df132f4-e620-4135-ae4e-708d0f3734ab---Time Will Tell</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/539fa7fb15664f899daec499735ac9f5.jpg" length="39833" type="image/jpeg"/>
-      <pubDate>Mon, 13 Feb 2023 10:13:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Feb 2023 07:52:21 +0000</lastBuildDate>
     <item>
       <title>Siena Root - Almost There (1 play)</title>
       <link>https://www.last.fm/music/Siena+Root/_/Almost+There</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1676446075--Fredlös---Missväxt</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aefc40e7aa2ff13216488cdd9ee844c7.png" length="242492" type="image/png"/>
       <pubDate>Wed, 15 Feb 2023 02:27:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fredlös - Fredlös (1 play)</title>
+      <link>https://www.last.fm/music/Fredl%C3%B6s/_/Fredl%C3%B6s</link>
+      <guid isPermaLink="false">manosg--1676446485--Fredlös---Fredlös</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aefc40e7aa2ff13216488cdd9ee844c7.png" length="242492" type="image/png"/>
+      <pubDate>Wed, 15 Feb 2023 02:34:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fredlös - Uppror (1 play)</title>
+      <link>https://www.last.fm/music/Fredl%C3%B6s/_/Uppror</link>
+      <guid isPermaLink="false">manosg--1676446781--Fredlös---Uppror</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aefc40e7aa2ff13216488cdd9ee844c7.png" length="242492" type="image/png"/>
+      <pubDate>Wed, 15 Feb 2023 02:39:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
