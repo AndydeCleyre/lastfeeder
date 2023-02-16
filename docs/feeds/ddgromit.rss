@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 05:37:25 +0000</lastBuildDate>
-    <item>
-      <title>Ben Böhmer - Begin Again (1 play)</title>
-      <link>https://www.last.fm/music/Ben+B%C3%B6hmer/_/Begin+Again</link>
-      <guid isPermaLink="false">ddgromit-1675843493--e4f12dfc-1ee7-4250-8e24-549b6d46676d---Begin Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28e2b5fa7e76adc0901210932448b279.jpg" length="25862" type="image/jpeg"/>
-      <pubDate>Wed, 08 Feb 2023 03:04:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Feb 2023 05:52:18 +0000</lastBuildDate>
     <item>
       <title>mindchatter - Kerosene (2 plays)</title>
       <link>https://www.last.fm/music/mindchatter/_/Kerosene</link>
@@ -170,7 +163,7 @@
       <pubDate>Fri, 10 Feb 2023 19:21:31 -0500</pubDate>
     </item>
     <item>
-      <title>Milt Jackson - For Someone I Love (1 play)</title>
+      <title>Milt Jackson - For Someone I Love (2 plays)</title>
       <link>https://www.last.fm/music/Milt+Jackson/_/For+Someone+I+Love</link>
       <guid isPermaLink="false">ddgromit-1676186742--2e38e1de-2890-4620-8467-5b0bb4641cb9---For Someone I Love</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b34cb59bfbc9375877b9279badff67f.png" length="125936" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1676519491--Relaxing Music---Longer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 15 Feb 2023 22:51:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Milt Jackson - For Someone I Love (2 plays)</title>
+      <link>https://www.last.fm/music/Milt+Jackson/_/For+Someone+I+Love</link>
+      <guid isPermaLink="false">ddgromit-1676525816--2e38e1de-2890-4620-8467-5b0bb4641cb9---For Someone I Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b34cb59bfbc9375877b9279badff67f.png" length="125936" type="image/png"/>
+      <pubDate>Thu, 16 Feb 2023 00:36:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
