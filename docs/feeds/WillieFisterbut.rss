@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 19:14:19 +0000</lastBuildDate>
-    <item>
-      <title>Lotte - SO WIE ICH (10 plays)</title>
-      <link>https://www.last.fm/music/Lotte/_/SO+WIE+ICH</link>
-      <guid isPermaLink="false">WillieFisterbut-1676562997--4dcf0f12-3909-448a-8431-a6f2db9c0f53---SO WIE ICH</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24ac974e9ff0edf7fabf55892ffd842a.jpg" length="14999" type="image/jpeg"/>
-      <pubDate>Thu, 16 Feb 2023 10:56:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>Luna Obscura - Ex Caelis Oblatus (6 plays)</title>
-      <link>https://www.last.fm/music/Luna+Obscura/_/Ex+Caelis+Oblatus</link>
-      <guid isPermaLink="false">WillieFisterbut-1676563187--7475130a-60c0-4a48-93b4-51ca8bd95fa0---Ex Caelis Oblatus</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29eea4f0ed14b5e67101f2cf81b5bc7e.jpg" length="25983" type="image/jpeg"/>
-      <pubDate>Thu, 16 Feb 2023 10:59:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Feb 2023 19:26:16 +0000</lastBuildDate>
     <item>
       <title>Lotte - Woran Hältst Du Dich Fest, Wenn Alles Zerbricht (Pt. 2) (6 plays)</title>
       <link>https://www.last.fm/music/Lotte/_/Woran+H%C3%A4ltst+Du+Dich+Fest,+Wenn+Alles+Zerbricht+(Pt.+2)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">WillieFisterbut-1676574470--Sick/Sea---Master Splinter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf05ee99c7d64bf58d364ec58cb3e357.jpg" length="31828" type="image/jpeg"/>
       <pubDate>Thu, 16 Feb 2023 14:07:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sick/Sea - Mermaid (3 plays)</title>
+      <link>https://www.last.fm/music/Sick%2FSea/_/Mermaid</link>
+      <guid isPermaLink="false">WillieFisterbut-1676574712--Sick/Sea---Mermaid</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf05ee99c7d64bf58d364ec58cb3e357.jpg" length="31828" type="image/jpeg"/>
+      <pubDate>Thu, 16 Feb 2023 14:11:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sick/Sea - Blinked (3 plays)</title>
+      <link>https://www.last.fm/music/Sick%2FSea/_/Blinked</link>
+      <guid isPermaLink="false">WillieFisterbut-1676574873--Sick/Sea---Blinked</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf05ee99c7d64bf58d364ec58cb3e357.jpg" length="31828" type="image/jpeg"/>
+      <pubDate>Thu, 16 Feb 2023 14:14:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
