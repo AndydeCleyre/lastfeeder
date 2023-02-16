@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 18:41:27 +0000</lastBuildDate>
-    <item>
-      <title>Janis Joplin - Mercedes Benz (3 plays)</title>
-      <link>https://www.last.fm/music/Janis+Joplin/_/Mercedes+Benz</link>
-      <guid isPermaLink="false">manosg--1676392573--76c9a186-75bd-436a-85c0-823e3efddb7f---Mercedes Benz</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f2730574ea549a6c94ca05af6a8deaa.png" length="165650" type="image/png"/>
-      <pubDate>Tue, 14 Feb 2023 11:36:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>Janis Joplin - Trust Me (3 plays)</title>
-      <link>https://www.last.fm/music/Janis+Joplin/_/Trust+Me</link>
-      <guid isPermaLink="false">manosg--1676392681--76c9a186-75bd-436a-85c0-823e3efddb7f---Trust Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f2730574ea549a6c94ca05af6a8deaa.png" length="165650" type="image/png"/>
-      <pubDate>Tue, 14 Feb 2023 11:38:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Feb 2023 18:53:43 +0000</lastBuildDate>
     <item>
       <title>Janis Joplin - Get It While You Can (3 plays)</title>
       <link>https://www.last.fm/music/Janis+Joplin/_/Get+It+While+You+Can</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1676572028--Bonnie Raitt---Bluebird - 2008 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3f9f8294f55ed3b7f324c63bb96e5b7.jpg" length="20948" type="image/jpeg"/>
       <pubDate>Thu, 16 Feb 2023 13:27:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bonnie Raitt - Mighty Tight Woman - 2008 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Bonnie+Raitt/_/Mighty+Tight+Woman+-+2008+Remaster</link>
+      <guid isPermaLink="false">manosg--1676572237--Bonnie Raitt---Mighty Tight Woman - 2008 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3f9f8294f55ed3b7f324c63bb96e5b7.jpg" length="20948" type="image/jpeg"/>
+      <pubDate>Thu, 16 Feb 2023 13:30:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bonnie Raitt - Thank You - 2008 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Bonnie+Raitt/_/Thank+You+-+2008+Remaster</link>
+      <guid isPermaLink="false">manosg--1676573024--Bonnie Raitt---Thank You - 2008 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3f9f8294f55ed3b7f324c63bb96e5b7.jpg" length="20948" type="image/jpeg"/>
+      <pubDate>Thu, 16 Feb 2023 13:43:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
