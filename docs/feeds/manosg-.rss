@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 14:38:26 +0000</lastBuildDate>
-    <item>
-      <title>Janis Joplin - Move Over (3 plays)</title>
-      <link>https://www.last.fm/music/Janis+Joplin/_/Move+Over</link>
-      <guid isPermaLink="false">manosg--1676389578--76c9a186-75bd-436a-85c0-823e3efddb7f---Move Over</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f2730574ea549a6c94ca05af6a8deaa.png" length="165650" type="image/png"/>
-      <pubDate>Tue, 14 Feb 2023 10:46:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>Janis Joplin - Cry Baby (3 plays)</title>
-      <link>https://www.last.fm/music/Janis+Joplin/_/Cry+Baby</link>
-      <guid isPermaLink="false">manosg--1676389802--76c9a186-75bd-436a-85c0-823e3efddb7f---Cry Baby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f2730574ea549a6c94ca05af6a8deaa.png" length="165650" type="image/png"/>
-      <pubDate>Tue, 14 Feb 2023 10:50:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Feb 2023 16:48:56 +0000</lastBuildDate>
     <item>
       <title>Janis Joplin - A Woman Left Lonely (3 plays)</title>
       <link>https://www.last.fm/music/Janis+Joplin/_/A+Woman+Left+Lonely</link>
@@ -51,7 +37,7 @@
       <pubDate>Tue, 14 Feb 2023 11:09:00 -0500</pubDate>
     </item>
     <item>
-      <title>Janis Joplin - Me and Bobby McGee</title>
+      <title>Janis Joplin - Me and Bobby McGee (3 plays)</title>
       <link>https://www.last.fm/music/Janis+Joplin/_/Me+and+Bobby+McGee</link>
       <guid isPermaLink="false">manosg--1676392301--76c9a186-75bd-436a-85c0-823e3efddb7f---Me and Bobby McGee</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f2730574ea549a6c94ca05af6a8deaa.png" length="165650" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1676558143--e20747e7-55a4-452e-8766-7b985585082d---St. Alfonzo's Pancake Breakfast</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25efd75006f4c76ee777c671d8f0bb5e.jpg" length="21435" type="image/jpeg"/>
       <pubDate>Thu, 16 Feb 2023 09:35:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Father O'Blivion (4 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Father+O%27Blivion</link>
+      <guid isPermaLink="false">manosg--1676558253--e20747e7-55a4-452e-8766-7b985585082d---Father O'Blivion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25efd75006f4c76ee777c671d8f0bb5e.jpg" length="21435" type="image/jpeg"/>
+      <pubDate>Thu, 16 Feb 2023 09:37:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Cosmik Debris (4 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Cosmik+Debris</link>
+      <guid isPermaLink="false">manosg--1676565796--e20747e7-55a4-452e-8766-7b985585082d---Cosmik Debris</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25efd75006f4c76ee777c671d8f0bb5e.jpg" length="21435" type="image/jpeg"/>
+      <pubDate>Thu, 16 Feb 2023 11:43:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
