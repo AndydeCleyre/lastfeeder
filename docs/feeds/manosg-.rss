@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Feb 2023 15:39:09 +0000</lastBuildDate>
-    <item>
-      <title>Blues Pills - Black Smoke (8 plays)</title>
-      <link>https://www.last.fm/music/Blues+Pills/_/Black+Smoke</link>
-      <guid isPermaLink="false">manosg--1676535239--5f982ce1-ede9-4949-b0b4-e65dcfae787e---Black Smoke</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d389bd97c978cb619a771f4e9db9a33c.png" length="234858" type="image/png"/>
-      <pubDate>Thu, 16 Feb 2023 03:13:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Blues Pills - River (7 plays)</title>
-      <link>https://www.last.fm/music/Blues+Pills/_/River</link>
-      <guid isPermaLink="false">manosg--1676541554--5f982ce1-ede9-4949-b0b4-e65dcfae787e---River</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d389bd97c978cb619a771f4e9db9a33c.png" length="234858" type="image/png"/>
-      <pubDate>Thu, 16 Feb 2023 04:59:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Feb 2023 15:52:38 +0000</lastBuildDate>
     <item>
       <title>Blues Pills - No Hope Left For Me (7 plays)</title>
       <link>https://www.last.fm/music/Blues+Pills/_/No+Hope+Left+For+Me</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1676647934--Fredlös---Farsot</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aefc40e7aa2ff13216488cdd9ee844c7.png" length="242492" type="image/png"/>
       <pubDate>Fri, 17 Feb 2023 10:32:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fredlös - Missväxt (2 plays)</title>
+      <link>https://www.last.fm/music/Fredl%C3%B6s/_/Missv%C3%A4xt</link>
+      <guid isPermaLink="false">manosg--1676648307--Fredlös---Missväxt</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aefc40e7aa2ff13216488cdd9ee844c7.png" length="242492" type="image/png"/>
+      <pubDate>Fri, 17 Feb 2023 10:38:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fredlös - Fredlös (2 plays)</title>
+      <link>https://www.last.fm/music/Fredl%C3%B6s/_/Fredl%C3%B6s</link>
+      <guid isPermaLink="false">manosg--1676648717--Fredlös---Fredlös</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aefc40e7aa2ff13216488cdd9ee844c7.png" length="242492" type="image/png"/>
+      <pubDate>Fri, 17 Feb 2023 10:45:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
