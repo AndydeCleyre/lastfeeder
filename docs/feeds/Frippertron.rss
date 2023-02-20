@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Feb 2023 10:41:00 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - The Lady Lies (42 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Lady+Lies</link>
-      <guid isPermaLink="false">Frippertron-1676868891--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Lady Lies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sun, 19 Feb 2023 23:54:51 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - The Roadie's Smoke Story (1 play)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Roadie%27s+Smoke+Story</link>
-      <guid isPermaLink="false">Frippertron-1676869305--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Roadie's Smoke Story</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 20 Feb 2023 00:01:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Feb 2023 10:52:40 +0000</lastBuildDate>
     <item>
       <title>Genesis - Ripples (126 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Ripples</link>
@@ -226,14 +212,14 @@
       <pubDate>Mon, 20 Feb 2023 03:42:05 -0500</pubDate>
     </item>
     <item>
-      <title>Caroline Polachek - I Believe (5 plays)</title>
+      <title>Caroline Polachek - I Believe (6 plays)</title>
       <link>https://www.last.fm/music/Caroline+Polachek/_/I+Believe</link>
       <guid isPermaLink="false">Frippertron-1676882735--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---I Believe</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
       <pubDate>Mon, 20 Feb 2023 03:45:35 -0500</pubDate>
     </item>
     <item>
-      <title>Caroline Polachek - Fly to You (5 plays)</title>
+      <title>Caroline Polachek - Fly to You (6 plays)</title>
       <link>https://www.last.fm/music/Caroline+Polachek/_/Fly+to+You</link>
       <guid isPermaLink="false">Frippertron-1676882984--Caroline Polachek---Fly to You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1676889363--60aa2510-4ab1-4e50-9267-30a15700dc1c---Ripples</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
       <pubDate>Mon, 20 Feb 2023 05:36:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Caroline Polachek - I Believe (6 plays)</title>
+      <link>https://www.last.fm/music/Caroline+Polachek/_/I+Believe</link>
+      <guid isPermaLink="false">Frippertron-1676889962--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---I Believe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
+      <pubDate>Mon, 20 Feb 2023 05:46:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Caroline Polachek - Fly to You (6 plays)</title>
+      <link>https://www.last.fm/music/Caroline+Polachek/_/Fly+to+You</link>
+      <guid isPermaLink="false">Frippertron-1676890210--Caroline Polachek---Fly to You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
+      <pubDate>Mon, 20 Feb 2023 05:50:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
