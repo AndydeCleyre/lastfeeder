@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Feb 2023 17:16:44 +0000</lastBuildDate>
-    <item>
-      <title>Ellende - Ich Bin (3 plays)</title>
-      <link>https://www.last.fm/music/Ellende/_/Ich+Bin</link>
-      <guid isPermaLink="false">manosg--1676828802--bf94f1fb-7122-4131-b7df-f26210ad8ec3---Ich Bin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b3b9a260e4a3c2c033cc36973e09f92.jpg" length="22104" type="image/jpeg"/>
-      <pubDate>Sun, 19 Feb 2023 12:46:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Feb 2023 17:37:21 +0000</lastBuildDate>
     <item>
       <title>Ellende - Unsterblich (3 plays)</title>
       <link>https://www.last.fm/music/Ellende/_/Unsterblich</link>
@@ -65,7 +58,7 @@
       <pubDate>Mon, 20 Feb 2023 01:54:05 -0500</pubDate>
     </item>
     <item>
-      <title>Opeth - Closure (2 plays)</title>
+      <title>Opeth - Closure (3 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Closure</link>
       <guid isPermaLink="false">manosg--1676876397--c14b4180-dc87-481e-b17a-64e4150f90f6---Closure</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1676997693--c14b4180-dc87-481e-b17a-64e4150f90f6---Death Whispered a Lullaby</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
       <pubDate>Tue, 21 Feb 2023 11:41:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Opeth - Closure (3 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/Closure</link>
+      <guid isPermaLink="false">manosg--1676998051--c14b4180-dc87-481e-b17a-64e4150f90f6---Closure</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
+      <pubDate>Tue, 21 Feb 2023 11:47:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
