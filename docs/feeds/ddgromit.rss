@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Feb 2023 19:26:17 +0000</lastBuildDate>
-    <item>
-      <title>John Legend - Wild (feat. Gary Clark Jr.) (3 plays)</title>
-      <link>https://www.last.fm/music/John+Legend/_/Wild+(feat.+Gary+Clark+Jr.)</link>
-      <guid isPermaLink="false">ddgromit-1676573637--75a72702-a5ef-4513-bca5-c5b944903546---Wild (feat. Gary Clark Jr.)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43cc6a3e216d865156ff6c277b9448e5.jpg" length="20056" type="image/jpeg"/>
-      <pubDate>Thu, 16 Feb 2023 13:53:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Feb 2023 01:42:07 +0000</lastBuildDate>
     <item>
       <title>Adele - Easy on Me (6 plays)</title>
       <link>https://www.last.fm/music/Adele/_/Easy+on+Me</link>
@@ -313,6 +306,7 @@
       <title>Mt. Joy - Bathroom Light (7 plays)</title>
       <link>https://www.last.fm/music/Mt.+Joy/_/Bathroom+Light</link>
       <guid isPermaLink="false">ddgromit-1676595870--5bbf0f10-4355-42cb-9d08-6b777a8a300d---Bathroom Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6fe14891fc2c14a5b3549bb91da7ce50.jpg" length="50167" type="image/jpeg"/>
       <pubDate>Thu, 16 Feb 2023 20:04:30 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1676920736--184699cd-f489-463a-95c3-f2f72d6fd92a---Wittgenstein's Arm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1962418a1a24b1bcb2824d8e9e1abc5.png" length="192589" type="image/png"/>
       <pubDate>Mon, 20 Feb 2023 14:18:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Harry Styles - As It Was (4 plays)</title>
+      <link>https://www.last.fm/music/Harry+Styles/_/As+It+Was</link>
+      <guid isPermaLink="false">ddgromit-1676937284--7eb1ce54-a355-41f9-8d68-e018b096d427---As It Was</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg" length="11800" type="image/jpeg"/>
+      <pubDate>Mon, 20 Feb 2023 18:54:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
