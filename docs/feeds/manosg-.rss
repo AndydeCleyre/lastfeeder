@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Feb 2023 08:41:58 +0000</lastBuildDate>
-    <item>
-      <title>Ellende - Hand Aufs Herz (3 plays)</title>
-      <link>https://www.last.fm/music/Ellende/_/Hand+Aufs+Herz</link>
-      <guid isPermaLink="false">manosg--1676821107--bf94f1fb-7122-4131-b7df-f26210ad8ec3---Hand Aufs Herz</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b3b9a260e4a3c2c033cc36973e09f92.jpg" length="22104" type="image/jpeg"/>
-      <pubDate>Sun, 19 Feb 2023 10:38:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Feb 2023 10:40:24 +0000</lastBuildDate>
     <item>
       <title>Ellende - Someday (3 plays)</title>
       <link>https://www.last.fm/music/Ellende/_/Someday</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1676967904--c14b4180-dc87-481e-b17a-64e4150f90f6---For Absent Friends</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2799d1899f3147ff8e706827b47776ab.png" length="128214" type="image/png"/>
       <pubDate>Tue, 21 Feb 2023 03:25:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Opeth - Master's Apprentices (1 play)</title>
+      <link>https://www.last.fm/music/Opeth/_/Master%27s+Apprentices</link>
+      <guid isPermaLink="false">manosg--1676968042--c14b4180-dc87-481e-b17a-64e4150f90f6---Master's Apprentices</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2799d1899f3147ff8e706827b47776ab.png" length="128214" type="image/png"/>
+      <pubDate>Tue, 21 Feb 2023 03:27:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
