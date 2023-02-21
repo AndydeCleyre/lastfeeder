@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Feb 2023 06:53:16 +0000</lastBuildDate>
-    <item>
-      <title>Caroline Polachek - I Believe (7 plays)</title>
-      <link>https://www.last.fm/music/Caroline+Polachek/_/I+Believe</link>
-      <guid isPermaLink="false">Frippertron-1676889962--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---I Believe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
-      <pubDate>Mon, 20 Feb 2023 05:46:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Caroline Polachek - Fly to You (7 plays)</title>
-      <link>https://www.last.fm/music/Caroline+Polachek/_/Fly+to+You</link>
-      <guid isPermaLink="false">Frippertron-1676890210--Caroline Polachek---Fly to You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
-      <pubDate>Mon, 20 Feb 2023 05:50:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Feb 2023 07:17:09 +0000</lastBuildDate>
     <item>
       <title>Caroline Polachek - Sunset (7 plays)</title>
       <link>https://www.last.fm/music/Caroline+Polachek/_/Sunset</link>
@@ -30,7 +16,7 @@
       <pubDate>Mon, 20 Feb 2023 05:55:56 -0500</pubDate>
     </item>
     <item>
-      <title>King Crimson - The Great Deceiver (84 plays)</title>
+      <title>King Crimson - The Great Deceiver (85 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/The+Great+Deceiver</link>
       <guid isPermaLink="false">Frippertron-1676890738--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Great Deceiver</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1676962321--fc7376fe-1a6f-4414-b4a7-83f50ed59c92---Dead Man's Tetris (feat. Captain Murphy &amp; Snoop Dogg)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9715f15b9c7646f7c6bd919cb029fa7c.png" length="239419" type="image/png"/>
       <pubDate>Tue, 21 Feb 2023 01:52:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - The Great Deceiver (85 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/The+Great+Deceiver</link>
+      <guid isPermaLink="false">Frippertron-1676962520--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Great Deceiver</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 21 Feb 2023 01:55:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Lament (130 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Lament</link>
+      <guid isPermaLink="false">Frippertron-1676962762--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Lament</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 21 Feb 2023 01:59:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
