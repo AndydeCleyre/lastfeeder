@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Feb 2023 04:42:56 +0000</lastBuildDate>
-    <item>
-      <title>George Michael - Fastlove (29 plays)</title>
-      <link>https://www.last.fm/music/George+Michael/_/Fastlove</link>
-      <guid isPermaLink="false">Frippertron-1676973493--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Fastlove</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e87e3e8530f43d1c3963c63c4e1b75b.png" length="72803" type="image/png"/>
-      <pubDate>Tue, 21 Feb 2023 04:58:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Stooges - Loose (114 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/Loose</link>
-      <guid isPermaLink="false">Frippertron-1676973746--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Loose</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1bc149e960d80c3bd55e3920695b663.jpg" length="22393" type="image/jpeg"/>
-      <pubDate>Tue, 21 Feb 2023 05:02:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Feb 2023 04:54:41 +0000</lastBuildDate>
     <item>
       <title>The Stooges - Down On The Street (126 plays)</title>
       <link>https://www.last.fm/music/The+Stooges/_/Down+On+The+Street</link>
@@ -135,7 +121,7 @@
       <pubDate>Tue, 21 Feb 2023 06:11:05 -0500</pubDate>
     </item>
     <item>
-      <title>XTC - Helicopter (53 plays)</title>
+      <title>XTC - Helicopter (54 plays)</title>
       <link>https://www.last.fm/music/XTC/_/Helicopter</link>
       <guid isPermaLink="false">Frippertron-1676978119--97c86b2c-2765-46a2-aef8-76a7e24c430f---Helicopter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd53c193ea660e5f4bc11ea5093d99c8.jpg" length="21484" type="image/jpeg"/>
@@ -278,12 +264,14 @@
       <title>Hall &amp; Oates - Kiss on My List (25 plays)</title>
       <link>https://www.last.fm/music/Hall+&amp;+Oates/_/Kiss+on+My+List</link>
       <guid isPermaLink="false">Frippertron-1677037928--Hall &amp; Oates---Kiss on My List</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
       <pubDate>Tue, 21 Feb 2023 22:52:08 -0500</pubDate>
     </item>
     <item>
       <title>Hall &amp; Oates - You Make My Dreams (52 plays)</title>
       <link>https://www.last.fm/music/Hall+&amp;+Oates/_/You+Make+My+Dreams</link>
       <guid isPermaLink="false">Frippertron-1677038194--Hall &amp; Oates---You Make My Dreams</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
       <pubDate>Tue, 21 Feb 2023 22:56:34 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1677040850--97c86b2c-2765-46a2-aef8-76a7e24c430f---Meccanik Dancing (Oh We Go!)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 21 Feb 2023 23:40:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>XTC - Helicopter (54 plays)</title>
+      <link>https://www.last.fm/music/XTC/_/Helicopter</link>
+      <guid isPermaLink="false">Frippertron-1677041035--97c86b2c-2765-46a2-aef8-76a7e24c430f---Helicopter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd53c193ea660e5f4bc11ea5093d99c8.jpg" length="21484" type="image/jpeg"/>
+      <pubDate>Tue, 21 Feb 2023 23:43:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jockstrap - Greatest Hits (26 plays)</title>
+      <link>https://www.last.fm/music/Jockstrap/_/Greatest+Hits</link>
+      <guid isPermaLink="false">Frippertron-1677041322--e181e6b6-79dc-426a-b071-83a7fbe890ab---Greatest Hits</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3123c042fb257fe1851e25400203af.png" length="29979" type="image/png"/>
+      <pubDate>Tue, 21 Feb 2023 23:48:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
