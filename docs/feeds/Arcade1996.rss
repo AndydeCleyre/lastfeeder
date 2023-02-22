@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Feb 2023 14:17:08 +0000</lastBuildDate>
-    <item>
-      <title>The Lemon Twigs - Any Time Of Day (1 play)</title>
-      <link>https://www.last.fm/music/The+Lemon+Twigs/_/Any+Time+Of+Day</link>
-      <guid isPermaLink="false">Arcade1996-1676983157--f32d94e8-8d55-4ee2-9077-53d1c024a03b---Any Time Of Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d632737d98d6e13e13fb530f250ef575.png" length="162244" type="image/png"/>
-      <pubDate>Tue, 21 Feb 2023 07:39:17 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Feb 2023 14:38:29 +0000</lastBuildDate>
     <item>
       <title>Lana Del Rey - A&amp;W (1 play)</title>
       <link>https://www.last.fm/music/Lana+Del+Rey/_/A&amp;W</link>
@@ -135,7 +128,7 @@
       <pubDate>Tue, 21 Feb 2023 09:20:14 -0500</pubDate>
     </item>
     <item>
-      <title>Daniel Avery - Collapsing Sky (1 play)</title>
+      <title>Daniel Avery - Collapsing Sky (2 plays)</title>
       <link>https://www.last.fm/music/Daniel+Avery/_/Collapsing+Sky</link>
       <guid isPermaLink="false">Arcade1996-1676989298--3e7aa4a4-5b7e-46a3-a7ff-c57044fa1b64---Collapsing Sky</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2e60c6462be07c233beb93dfc613b50.jpg" length="15363" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1677075152--Daniel Avery---Ache</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2e60c6462be07c233beb93dfc613b50.jpg" length="15363" type="image/jpeg"/>
       <pubDate>Wed, 22 Feb 2023 09:12:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Daniel Avery - Collapsing Sky (2 plays)</title>
+      <link>https://www.last.fm/music/Daniel+Avery/_/Collapsing+Sky</link>
+      <guid isPermaLink="false">Arcade1996-1677075235--3e7aa4a4-5b7e-46a3-a7ff-c57044fa1b64---Collapsing Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2e60c6462be07c233beb93dfc613b50.jpg" length="15363" type="image/jpeg"/>
+      <pubDate>Wed, 22 Feb 2023 09:13:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
