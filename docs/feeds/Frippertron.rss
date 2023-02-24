@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Feb 2023 08:42:25 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Duke's End (26 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Duke%27s+End</link>
-      <guid isPermaLink="false">Frippertron-1677209908--60aa2510-4ab1-4e50-9267-30a15700dc1c---Duke's End</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
-      <pubDate>Thu, 23 Feb 2023 22:38:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - The Lady Lies (44 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Lady+Lies</link>
-      <guid isPermaLink="false">Frippertron-1677210037--60aa2510-4ab1-4e50-9267-30a15700dc1c---The Lady Lies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd680dff4a9949d792d4098a8ab68bb1.png" length="167335" type="image/png"/>
-      <pubDate>Thu, 23 Feb 2023 22:40:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Invisible Touch (18 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Invisible+Touch</link>
-      <guid isPermaLink="false">Frippertron-1677210393--60aa2510-4ab1-4e50-9267-30a15700dc1c---Invisible Touch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf202251fb7131f6dbc08be64d0a43c5.png" length="137052" type="image/png"/>
-      <pubDate>Thu, 23 Feb 2023 22:46:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Feb 2023 08:54:43 +0000</lastBuildDate>
     <item>
       <title>Genesis - Feeding the Fire (22 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Feeding+the+Fire</link>
@@ -205,7 +184,7 @@
       <pubDate>Fri, 24 Feb 2023 00:49:46 -0500</pubDate>
     </item>
     <item>
-      <title>Shame - The Fall of Paul (1 play)</title>
+      <title>Shame - The Fall of Paul</title>
       <link>https://www.last.fm/music/Shame/_/The+Fall+of+Paul</link>
       <guid isPermaLink="false">Frippertron-1677218084--3294b9ce-0bef-4080-8ae8-95bad1abd71c---The Fall of Paul</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9cfaf2e0c184d08450741227409a0d7.jpg" length="29519" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1677227559--60aa2510-4ab1-4e50-9267-30a15700dc1c---Mad Man Moon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
       <pubDate>Fri, 24 Feb 2023 03:32:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ripples (129 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
+      <guid isPermaLink="false">Frippertron-1677228014--60aa2510-4ab1-4e50-9267-30a15700dc1c---Ripples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Fri, 24 Feb 2023 03:40:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>SUGAR BABE - SHOW (24 plays)</title>
+      <link>https://www.last.fm/music/SUGAR+BABE/_/SHOW</link>
+      <guid isPermaLink="false">Frippertron-1677228527--08614e29-9470-4547-9d2c-d13287727173---SHOW</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad375c7964274ad09f8a8cc7b5596bef.png" length="101924" type="image/png"/>
+      <pubDate>Fri, 24 Feb 2023 03:48:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>SUGAR BABE - DOWN TOWN (24 plays)</title>
+      <link>https://www.last.fm/music/SUGAR+BABE/_/DOWN+TOWN</link>
+      <guid isPermaLink="false">Frippertron-1677228737--08614e29-9470-4547-9d2c-d13287727173---DOWN TOWN</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad375c7964274ad09f8a8cc7b5596bef.png" length="101924" type="image/png"/>
+      <pubDate>Fri, 24 Feb 2023 03:52:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
