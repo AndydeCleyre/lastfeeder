@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Feb 2023 13:52:20 +0000</lastBuildDate>
-    <item>
-      <title>Chicago - Stay The Night (1 play)</title>
-      <link>https://www.last.fm/music/Chicago/_/Stay+The+Night</link>
-      <guid isPermaLink="false">Arcade1996-1677380925--Chicago---Stay The Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b56aeaabbc51f42da2752aa17c7bd94b.png" length="257618" type="image/png"/>
-      <pubDate>Sat, 25 Feb 2023 22:08:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Feb 2023 14:15:47 +0000</lastBuildDate>
     <item>
       <title>Mike - World Market (Mo' Money) (1 play)</title>
       <link>https://www.last.fm/music/Mike/_/World+Market+(Mo%27+Money)</link>
@@ -352,11 +345,18 @@
       <pubDate>Sun, 26 Feb 2023 07:04:31 -0500</pubDate>
     </item>
     <item>
-      <title>Joe Jackson - Breaking Us In Two (1 play)</title>
+      <title>Joe Jackson - Breaking Us In Two (2 plays)</title>
       <link>https://www.last.fm/music/Joe+Jackson/_/Breaking+Us+In+Two</link>
       <guid isPermaLink="false">Arcade1996-1677413333--07f6d469-38f3-46da-9cfa-2f532422b84e---Breaking Us In Two</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
       <pubDate>Sun, 26 Feb 2023 07:08:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Joe Jackson - Breaking Us In Two (2 plays)</title>
+      <link>https://www.last.fm/music/Joe+Jackson/_/Breaking+Us+In+Two</link>
+      <guid isPermaLink="false">Arcade1996-1677419341--07f6d469-38f3-46da-9cfa-2f532422b84e---Breaking Us In Two</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
+      <pubDate>Sun, 26 Feb 2023 08:49:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
