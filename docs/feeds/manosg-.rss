@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Feb 2023 18:52:35 +0000</lastBuildDate>
-    <item>
-      <title>Nightstalker - Use (3 plays)</title>
-      <link>https://www.last.fm/music/Nightstalker/_/Use</link>
-      <guid isPermaLink="false">manosg--1677234864--97012ce5-7ad7-452d-8304-79d503db1b80---Use</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c46c4b61b7e10c35da6d18c9e4966b3.jpg" length="18466" type="image/jpeg"/>
-      <pubDate>Fri, 24 Feb 2023 05:34:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nightstalker - Brainmaker (8 plays)</title>
-      <link>https://www.last.fm/music/Nightstalker/_/Brainmaker</link>
-      <guid isPermaLink="false">manosg--1677235189--97012ce5-7ad7-452d-8304-79d503db1b80---Brainmaker</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c46c4b61b7e10c35da6d18c9e4966b3.jpg" length="18466" type="image/jpeg"/>
-      <pubDate>Fri, 24 Feb 2023 05:39:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Feb 2023 19:14:23 +0000</lastBuildDate>
     <item>
       <title>Nightstalker - U.F.O. (8 plays)</title>
       <link>https://www.last.fm/music/Nightstalker/_/U.F.O.</link>
@@ -327,7 +313,6 @@
       <title>Katatonia - Lethean (1 play)</title>
       <link>https://www.last.fm/music/Katatonia/_/Lethean</link>
       <guid isPermaLink="false">manosg--1677436486--61ed9c9c-79eb-4e8f-8015-bd599ac0ab49---Lethean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4607b958b873d0df4d916d2557961fe6.jpg" length="25889" type="image/jpeg"/>
       <pubDate>Sun, 26 Feb 2023 13:34:46 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">manosg--1677437237--Public Enemy---Incident At 66.6 FM - Instrumental</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3c29d3ad50b4d0da35eb6c95c5f1ef2.png" length="188069" type="image/png"/>
       <pubDate>Sun, 26 Feb 2023 13:47:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Public Enemy - Welcome to the Terrordome (1 play)</title>
+      <link>https://www.last.fm/music/Public+Enemy/_/Welcome+to+the+Terrordome</link>
+      <guid isPermaLink="false">manosg--1677437335--Public Enemy---Welcome to the Terrordome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3c29d3ad50b4d0da35eb6c95c5f1ef2.png" length="188069" type="image/png"/>
+      <pubDate>Sun, 26 Feb 2023 13:48:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Public Enemy - Meet the G That Killed Me (1 play)</title>
+      <link>https://www.last.fm/music/Public+Enemy/_/Meet+the+G+That+Killed+Me</link>
+      <guid isPermaLink="false">manosg--1677437696--Public Enemy---Meet the G That Killed Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3c29d3ad50b4d0da35eb6c95c5f1ef2.png" length="188069" type="image/png"/>
+      <pubDate>Sun, 26 Feb 2023 13:54:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
