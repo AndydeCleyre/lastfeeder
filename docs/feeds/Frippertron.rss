@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Feb 2023 08:43:56 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Celebration Day (76 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Celebration+Day</link>
-      <guid isPermaLink="false">Frippertron-1677496927--678d88b2-87b0-403b-b63d-5da7465aecc3---Celebration Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fceb2abf67048f9b63ea7bba5b440c3.jpg" length="23269" type="image/jpeg"/>
-      <pubDate>Mon, 27 Feb 2023 06:22:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Misty Mountain Hop (17 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Misty+Mountain+Hop</link>
-      <guid isPermaLink="false">Frippertron-1677497158--678d88b2-87b0-403b-b63d-5da7465aecc3---Misty Mountain Hop</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/718b2fde14544119c11584d68bf9bb81.png" length="53368" type="image/png"/>
-      <pubDate>Mon, 27 Feb 2023 06:25:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Feb 2023 08:55:27 +0000</lastBuildDate>
     <item>
       <title>Joy Division - Heart and Soul (32 plays)</title>
       <link>https://www.last.fm/music/Joy+Division/_/Heart+and+Soul</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1677573501--1b6bd9dc-c944-4937-94ec-b2276141fa36---Maria</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c760c7f1de77804575cb7521ce5e85e0.jpg" length="29805" type="image/jpeg"/>
       <pubDate>Tue, 28 Feb 2023 03:38:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Model/Actriz - Sleepless (2 plays)</title>
+      <link>https://www.last.fm/music/Model%2FActriz/_/Sleepless</link>
+      <guid isPermaLink="false">Frippertron-1677573711--1b6bd9dc-c944-4937-94ec-b2276141fa36---Sleepless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c760c7f1de77804575cb7521ce5e85e0.jpg" length="29805" type="image/jpeg"/>
+      <pubDate>Tue, 28 Feb 2023 03:41:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Model/Actriz - Sun In (2 plays)</title>
+      <link>https://www.last.fm/music/Model%2FActriz/_/Sun+In</link>
+      <guid isPermaLink="false">Frippertron-1677574118--1b6bd9dc-c944-4937-94ec-b2276141fa36---Sun In</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c760c7f1de77804575cb7521ce5e85e0.jpg" length="29805" type="image/jpeg"/>
+      <pubDate>Tue, 28 Feb 2023 03:48:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
