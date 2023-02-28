@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Feb 2023 13:34:53 +0000</lastBuildDate>
-    <item>
-      <title>Kreator - Midnight Sun (1 play)</title>
-      <link>https://www.last.fm/music/Kreator/_/Midnight+Sun</link>
-      <guid isPermaLink="false">manosg--1677496388--39822e8d-f24e-4f07-b51b-28b22e59fbdb---Midnight Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20fb27c7a358849f6f382448c9c3a01a.png" length="215872" type="image/png"/>
-      <pubDate>Mon, 27 Feb 2023 06:13:08 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Feb 2023 14:40:07 +0000</lastBuildDate>
     <item>
       <title>Kreator - Demonic Future (1 play)</title>
       <link>https://www.last.fm/music/Kreator/_/Demonic+Future</link>
@@ -44,7 +37,7 @@
       <pubDate>Mon, 27 Feb 2023 10:35:39 -0500</pubDate>
     </item>
     <item>
-      <title>Kreator - Golden Age (1 play)</title>
+      <title>Kreator - Golden Age (2 plays)</title>
       <link>https://www.last.fm/music/Kreator/_/Golden+Age</link>
       <guid isPermaLink="false">manosg--1677512553--39822e8d-f24e-4f07-b51b-28b22e59fbdb---Golden Age</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4d745996d673be34cc92563f6f0fe14.png" length="133971" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1677590655--Lamb of God---State of Unrest</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8cd98fc93eb2da7aa4f94ad76065d6c2.jpg" length="37159" type="image/jpeg"/>
       <pubDate>Tue, 28 Feb 2023 08:24:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Megadeth - Delivering the goods (1 play)</title>
+      <link>https://www.last.fm/music/Megadeth/_/Delivering+the+goods</link>
+      <guid isPermaLink="false">manosg--1677590859--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---Delivering the goods</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad43eeb367232e540d02ff7dd0177507.jpg" length="22598" type="image/jpeg"/>
+      <pubDate>Tue, 28 Feb 2023 08:27:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
