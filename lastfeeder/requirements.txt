@@ -1,6 +1,6 @@
 anyio==3.6.2
     # via httpcore
-babel==2.11.0
+babel==2.12.0
     # via delorean
 certifi==2022.12.7
     # via
@@ -31,9 +31,7 @@ python-dateutil==2.8.2
     #   delorean
     #   feedgen
 pytz==2022.7.1
-    # via
-    #   babel
-    #   delorean
+    # via delorean
 pytz-deprecation-shim==0.1.0.post0
     # via tzlocal
 rfc3986[idna2008]==1.5.0
