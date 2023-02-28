@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Feb 2023 13:11:08 +0000</lastBuildDate>
-    <item>
-      <title>Public Enemy - Bring the Noise (10 plays)</title>
-      <link>https://www.last.fm/music/Public+Enemy/_/Bring+the+Noise</link>
-      <guid isPermaLink="false">Arcade1996-1677490498--Public Enemy---Bring the Noise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e690b9c857917016b32e72291c38def.png" length="166932" type="image/png"/>
-      <pubDate>Mon, 27 Feb 2023 04:34:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>Public Enemy - Don't Believe the Hype (2 plays)</title>
-      <link>https://www.last.fm/music/Public+Enemy/_/Don%27t+Believe+the+Hype</link>
-      <guid isPermaLink="false">Arcade1996-1677490724--Public Enemy---Don't Believe the Hype</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e690b9c857917016b32e72291c38def.png" length="166932" type="image/png"/>
-      <pubDate>Mon, 27 Feb 2023 04:38:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Feb 2023 13:34:26 +0000</lastBuildDate>
     <item>
       <title>Public Enemy - Cold Lampin' With Flavor (1 play)</title>
       <link>https://www.last.fm/music/Public+Enemy/_/Cold+Lampin%27+With+Flavor</link>
@@ -233,14 +219,14 @@
       <pubDate>Mon, 27 Feb 2023 19:18:55 -0500</pubDate>
     </item>
     <item>
-      <title>Joe Jackson - Real Men (1 play)</title>
+      <title>Joe Jackson - Real Men (2 plays)</title>
       <link>https://www.last.fm/music/Joe+Jackson/_/Real+Men</link>
       <guid isPermaLink="false">Arcade1996-1677543903--07f6d469-38f3-46da-9cfa-2f532422b84e---Real Men</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
       <pubDate>Mon, 27 Feb 2023 19:25:03 -0500</pubDate>
     </item>
     <item>
-      <title>Joe Jackson - A Slow Song (1 play)</title>
+      <title>Joe Jackson - A Slow Song (2 plays)</title>
       <link>https://www.last.fm/music/Joe+Jackson/_/A+Slow+Song</link>
       <guid isPermaLink="false">Arcade1996-1677544179--07f6d469-38f3-46da-9cfa-2f532422b84e---A Slow Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1677589331--07f6d469-38f3-46da-9cfa-2f532422b84e---Cancer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
       <pubDate>Tue, 28 Feb 2023 08:02:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Joe Jackson - Real Men (2 plays)</title>
+      <link>https://www.last.fm/music/Joe+Jackson/_/Real+Men</link>
+      <guid isPermaLink="false">Arcade1996-1677589692--07f6d469-38f3-46da-9cfa-2f532422b84e---Real Men</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
+      <pubDate>Tue, 28 Feb 2023 08:08:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Joe Jackson - A Slow Song (2 plays)</title>
+      <link>https://www.last.fm/music/Joe+Jackson/_/A+Slow+Song</link>
+      <guid isPermaLink="false">Arcade1996-1677589935--07f6d469-38f3-46da-9cfa-2f532422b84e---A Slow Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
+      <pubDate>Tue, 28 Feb 2023 08:12:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
