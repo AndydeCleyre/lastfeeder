@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Mar 2023 18:55:27 +0000</lastBuildDate>
-    <item>
-      <title>Steel Panther - 1987 (1 play)</title>
-      <link>https://www.last.fm/music/Steel+Panther/_/1987</link>
-      <guid isPermaLink="false">manosg--1677567707--f82927e4-b905-4e3b-a82e-5184fbb68b29---1987</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/346f7d9eaed93e3d6f76eb34dbb65b4a.jpg" length="35475" type="image/jpeg"/>
-      <pubDate>Tue, 28 Feb 2023 02:01:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Mar 2023 19:15:47 +0000</lastBuildDate>
     <item>
       <title>Steel Panther - Teleporter (1 play)</title>
       <link>https://www.last.fm/music/Steel+Panther/_/Teleporter</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1677696020--Amorphis---Come the Spring - Bonus Track</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0be56102ab67e64ce824fd6b4017056b.jpg" length="34532" type="image/jpeg"/>
       <pubDate>Wed, 01 Mar 2023 13:40:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amorphis - Winter's Sleep - Bonus Track (1 play)</title>
+      <link>https://www.last.fm/music/Amorphis/_/Winter%27s+Sleep+-+Bonus+Track</link>
+      <guid isPermaLink="false">manosg--1677696228--Amorphis---Winter's Sleep - Bonus Track</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0be56102ab67e64ce824fd6b4017056b.jpg" length="34532" type="image/jpeg"/>
+      <pubDate>Wed, 01 Mar 2023 13:43:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
