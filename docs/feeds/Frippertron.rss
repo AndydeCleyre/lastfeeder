@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Mar 2023 08:42:35 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - For Your Life (23 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
-      <guid isPermaLink="false">Frippertron-1677641754--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
-      <pubDate>Tue, 28 Feb 2023 22:35:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Mar 2023 08:54:18 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Achilles Last Stand (44 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Achilles+Last+Stand</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1677659583--60aa2510-4ab1-4e50-9267-30a15700dc1c---Squonk</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 01 Mar 2023 03:33:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - One for the Vine (76 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/One+for+the+Vine</link>
+      <guid isPermaLink="false">Frippertron-1677660035--60aa2510-4ab1-4e50-9267-30a15700dc1c---One for the Vine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 01 Mar 2023 03:40:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
