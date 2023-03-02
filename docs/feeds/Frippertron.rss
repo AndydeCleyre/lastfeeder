@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Mar 2023 06:43:10 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Alabama Song (75 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Alabama+Song</link>
-      <guid isPermaLink="false">Frippertron-1677668984--5441c29d-3602-4898-b1a1-b77fa23b8e50---Alabama Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c7da1cc9a615c01b1513426660faa39.jpg" length="18376" type="image/jpeg"/>
-      <pubDate>Wed, 01 Mar 2023 06:09:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Cat People (Putting Out Fire) (38 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Cat+People+(Putting+Out+Fire)</link>
-      <guid isPermaLink="false">Frippertron-1677669218--5441c29d-3602-4898-b1a1-b77fa23b8e50---Cat People (Putting Out Fire)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c7da1cc9a615c01b1513426660faa39.jpg" length="18376" type="image/jpeg"/>
-      <pubDate>Wed, 01 Mar 2023 06:13:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Mar 2023 06:55:40 +0000</lastBuildDate>
     <item>
       <title>black midi - Speedway (136 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Speedway</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1677738665--e9403d9c-329b-4108-a26f-564159d441d9---Basketball Shoes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b221fa0cae008b5bb50f889e699b216.png" length="124101" type="image/png"/>
       <pubDate>Thu, 02 Mar 2023 01:31:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Mama (28 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Mama</link>
+      <guid isPermaLink="false">Frippertron-1677739469--60aa2510-4ab1-4e50-9267-30a15700dc1c---Mama</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 02 Mar 2023 01:44:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Your Own Special Way (17 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Your+Own+Special+Way</link>
+      <guid isPermaLink="false">Frippertron-1677739946--60aa2510-4ab1-4e50-9267-30a15700dc1c---Your Own Special Way</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 02 Mar 2023 01:52:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
