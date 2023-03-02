@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Mar 2023 03:27:00 +0000</lastBuildDate>
-    <item>
-      <title>Gorillaz - Clint Eastwood (12 plays)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/Clint+Eastwood</link>
-      <guid isPermaLink="false">Frippertron-1677651213--e21857d5-3256-4547-afb3-4b6ded592596---Clint Eastwood</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/487131c63dafa5ca8c8d4cdf7e490c7a.gif" length="803453" type="image/gif"/>
-      <pubDate>Wed, 01 Mar 2023 01:13:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz - Man Research (1 play)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/Man+Research</link>
-      <guid isPermaLink="false">Frippertron-1677651559--e21857d5-3256-4547-afb3-4b6ded592596---Man Research</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/487131c63dafa5ca8c8d4cdf7e490c7a.gif" length="803453" type="image/gif"/>
-      <pubDate>Wed, 01 Mar 2023 01:19:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz - Punk (3 plays)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/Punk</link>
-      <guid isPermaLink="false">Frippertron-1677651834--e21857d5-3256-4547-afb3-4b6ded592596---Punk</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/487131c63dafa5ca8c8d4cdf7e490c7a.gif" length="803453" type="image/gif"/>
-      <pubDate>Wed, 01 Mar 2023 01:23:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Mar 2023 03:44:07 +0000</lastBuildDate>
     <item>
       <title>Gorillaz - Sound Check (Gravity) (3 plays)</title>
       <link>https://www.last.fm/music/Gorillaz/_/Sound+Check+(Gravity)</link>
@@ -121,7 +100,7 @@
       <pubDate>Wed, 01 Mar 2023 03:11:42 -0500</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - Dancing Days (26 plays)</title>
+      <title>Led Zeppelin - Dancing Days (27 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Dancing+Days</link>
       <guid isPermaLink="false">Frippertron-1677658652--678d88b2-87b0-403b-b63d-5da7465aecc3---Dancing Days</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f08f246ebb14b629a024ab126dbc491.png" length="181349" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1677727501--678d88b2-87b0-403b-b63d-5da7465aecc3---Black Dog</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/718b2fde14544119c11584d68bf9bb81.png" length="53368" type="image/png"/>
       <pubDate>Wed, 01 Mar 2023 22:25:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Misty Mountain Hop (18 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Misty+Mountain+Hop</link>
+      <guid isPermaLink="false">Frippertron-1677727719--678d88b2-87b0-403b-b63d-5da7465aecc3---Misty Mountain Hop</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/718b2fde14544119c11584d68bf9bb81.png" length="53368" type="image/png"/>
+      <pubDate>Wed, 01 Mar 2023 22:28:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Since I've Been Loving You (66 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
+      <guid isPermaLink="false">Frippertron-1677728003--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/718b2fde14544119c11584d68bf9bb81.png" length="53368" type="image/png"/>
+      <pubDate>Wed, 01 Mar 2023 22:33:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Dancing Days (27 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Dancing+Days</link>
+      <guid isPermaLink="false">Frippertron-1677728518--678d88b2-87b0-403b-b63d-5da7465aecc3---Dancing Days</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f08f246ebb14b629a024ab126dbc491.png" length="181349" type="image/png"/>
+      <pubDate>Wed, 01 Mar 2023 22:41:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
