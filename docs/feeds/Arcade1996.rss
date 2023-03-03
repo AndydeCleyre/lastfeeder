@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Mar 2023 15:39:26 +0000</lastBuildDate>
-    <item>
-      <title>Young Nudy - Passion Fruit (3 plays)</title>
-      <link>https://www.last.fm/music/Young+Nudy/_/Passion+Fruit</link>
-      <guid isPermaLink="false">Arcade1996-1677750893--79c9b9a6-4b78-4738-8b81-95b066321ea9---Passion Fruit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f39fc98a67a9a330aa16a109d715f233.jpg" length="38690" type="image/jpeg"/>
-      <pubDate>Thu, 02 Mar 2023 04:54:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Tubs - Illusion pt. II (11 plays)</title>
-      <link>https://www.last.fm/music/The+Tubs/_/Illusion+pt.+II</link>
-      <guid isPermaLink="false">Arcade1996-1677751136--bf60afa3-31a4-4cfa-b9bd-8a7d6a37d256---Illusion pt. II</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4897a49dbf0568b701ced23b2acf5e0.jpg" length="31966" type="image/jpeg"/>
-      <pubDate>Thu, 02 Mar 2023 04:58:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Mar 2023 15:52:46 +0000</lastBuildDate>
     <item>
       <title>The Tubs - Two Person Love (5 plays)</title>
       <link>https://www.last.fm/music/The+Tubs/_/Two+Person+Love</link>
@@ -198,7 +184,7 @@
       <pubDate>Thu, 02 Mar 2023 19:38:57 -0500</pubDate>
     </item>
     <item>
-      <title>Mach-Hommy - Olajuwon (1 play)</title>
+      <title>Mach-Hommy - Olajuwon</title>
       <link>https://www.last.fm/music/Mach-Hommy/_/Olajuwon</link>
       <guid isPermaLink="false">Arcade1996-1677804115--Mach-Hommy---Olajuwon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8dbb816e68e34d1a725e57f3d9e1e028.jpg" length="23644" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1677857686--1b6bd9dc-c944-4937-94ec-b2276141fa36---Donkey Show</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c760c7f1de77804575cb7521ce5e85e0.jpg" length="29805" type="image/jpeg"/>
       <pubDate>Fri, 03 Mar 2023 10:34:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Model/Actriz - Mosquito (1 play)</title>
+      <link>https://www.last.fm/music/Model%2FActriz/_/Mosquito</link>
+      <guid isPermaLink="false">Arcade1996-1677857876--1b6bd9dc-c944-4937-94ec-b2276141fa36---Mosquito</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c760c7f1de77804575cb7521ce5e85e0.jpg" length="29805" type="image/jpeg"/>
+      <pubDate>Fri, 03 Mar 2023 10:37:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Model/Actriz - Crossing Guard (1 play)</title>
+      <link>https://www.last.fm/music/Model%2FActriz/_/Crossing+Guard</link>
+      <guid isPermaLink="false">Arcade1996-1677858070--1b6bd9dc-c944-4937-94ec-b2276141fa36---Crossing Guard</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c760c7f1de77804575cb7521ce5e85e0.jpg" length="29805" type="image/jpeg"/>
+      <pubDate>Fri, 03 Mar 2023 10:41:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
