@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Mar 2023 17:38:04 +0000</lastBuildDate>
-    <item>
-      <title>Katatonia - I Am Nothing (2 plays)</title>
-      <link>https://www.last.fm/music/Katatonia/_/I+Am+Nothing</link>
-      <guid isPermaLink="false">manosg--1677755756--61ed9c9c-79eb-4e8f-8015-bd599ac0ab49---I Am Nothing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a82ebcbbea18ec3ee75f4c1ae4ffbd8e.jpg" length="29298" type="image/jpeg"/>
-      <pubDate>Thu, 02 Mar 2023 06:15:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Mar 2023 17:52:21 +0000</lastBuildDate>
     <item>
       <title>Katatonia - In Death, a Song (1 play)</title>
       <link>https://www.last.fm/music/Katatonia/_/In+Death,+a+Song</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1677860496--The Abbey---Old Ones Prequel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f2b8f128667684afcdbe446aabbcc6e.jpg" length="28774" type="image/jpeg"/>
       <pubDate>Fri, 03 Mar 2023 11:21:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Abbey - Old Ones (1 play)</title>
+      <link>https://www.last.fm/music/The+Abbey/_/Old+Ones</link>
+      <guid isPermaLink="false">manosg--1677864803--The Abbey---Old Ones</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f2b8f128667684afcdbe446aabbcc6e.jpg" length="28774" type="image/jpeg"/>
+      <pubDate>Fri, 03 Mar 2023 12:33:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
