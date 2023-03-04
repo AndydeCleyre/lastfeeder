@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Mar 2023 13:29:43 +0000</lastBuildDate>
-    <item>
-      <title>slowthai - Falling (1 play)</title>
-      <link>https://www.last.fm/music/slowthai/_/Falling</link>
-      <guid isPermaLink="false">Arcade1996-1677855923--333e76b4-9606-4fd3-bcb3-8e7660bb4d96---Falling</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dea18db9a61d97affe9c31100a219cfe.jpg" length="16371" type="image/jpeg"/>
-      <pubDate>Fri, 03 Mar 2023 10:05:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Mar 2023 15:37:37 +0000</lastBuildDate>
     <item>
       <title>slowthai - Wotz Funny (1 play)</title>
       <link>https://www.last.fm/music/slowthai/_/Wotz+Funny</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1677936104--Christian Löffler---Haul - Radio Edit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99cb3828ab6f912986fbc46dba7a0f39.jpg" length="21314" type="image/jpeg"/>
       <pubDate>Sat, 04 Mar 2023 08:21:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Lightning Seeds - Lucky You (3 plays)</title>
+      <link>https://www.last.fm/music/The+Lightning+Seeds/_/Lucky+You</link>
+      <guid isPermaLink="false">Arcade1996-1677943023--1ba601a0-3401-4b28-8ddd-9af8203661e8---Lucky You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f68e7148bd33486fc842c6986aaec697.png" length="182380" type="image/png"/>
+      <pubDate>Sat, 04 Mar 2023 10:17:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
