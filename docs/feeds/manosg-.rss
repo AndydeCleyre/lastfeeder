@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Mar 2023 08:21:56 +0000</lastBuildDate>
-    <item>
-      <title>the abbey - Rat King (1 play)</title>
-      <link>https://www.last.fm/music/the+abbey/_/Rat+King</link>
-      <guid isPermaLink="false">manosg--1677844684--the abbey---Rat King</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f2b8f128667684afcdbe446aabbcc6e.jpg" length="28774" type="image/jpeg"/>
-      <pubDate>Fri, 03 Mar 2023 06:58:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Mar 2023 09:52:20 +0000</lastBuildDate>
     <item>
       <title>The Abbey - A Thousand Dead Witches (2 plays)</title>
       <link>https://www.last.fm/music/The+Abbey/_/A+Thousand+Dead+Witches</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1678002754--HamaSaari---Different Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 05 Mar 2023 02:52:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>HamaSaari - Crumbs (1 play)</title>
+      <link>https://www.last.fm/music/HamaSaari/_/Crumbs</link>
+      <guid isPermaLink="false">manosg--1678003203--HamaSaari---Crumbs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 05 Mar 2023 03:00:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
