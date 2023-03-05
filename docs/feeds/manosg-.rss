@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Mar 2023 11:52:18 +0000</lastBuildDate>
-    <item>
-      <title>the abbey - Widow's Will (2 plays)</title>
-      <link>https://www.last.fm/music/the+abbey/_/Widow%27s+Will</link>
-      <guid isPermaLink="false">manosg--1677859743--the abbey---Widow's Will</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f2b8f128667684afcdbe446aabbcc6e.jpg" length="28774" type="image/jpeg"/>
-      <pubDate>Fri, 03 Mar 2023 11:09:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Abbey - Queen of Pain (1 play)</title>
-      <link>https://www.last.fm/music/The+Abbey/_/Queen+of+Pain</link>
-      <guid isPermaLink="false">manosg--1677860023--The Abbey---Queen of Pain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f2b8f128667684afcdbe446aabbcc6e.jpg" length="28774" type="image/jpeg"/>
-      <pubDate>Fri, 03 Mar 2023 11:13:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Mar 2023 15:52:20 +0000</lastBuildDate>
     <item>
       <title>The Abbey - Old Ones Prequel (1 play)</title>
       <link>https://www.last.fm/music/The+Abbey/_/Old+Ones+Prequel</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1678011230--HamaSaari---Old Memories</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 05 Mar 2023 05:13:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>HamaSaari - Prognosis (1 play)</title>
+      <link>https://www.last.fm/music/HamaSaari/_/Prognosis</link>
+      <guid isPermaLink="false">manosg--1678016922--HamaSaari---Prognosis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 05 Mar 2023 06:48:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sacramentum - Fog's Kiss (1 play)</title>
+      <link>https://www.last.fm/music/Sacramentum/_/Fog%27s+Kiss</link>
+      <guid isPermaLink="false">manosg--1678031081--67673557-2310-41d3-83b9-e6e0cb1d65d5---Fog's Kiss</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43301a2798f0bececf8265d42099a684.png" length="231170" type="image/png"/>
+      <pubDate>Sun, 05 Mar 2023 10:44:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
