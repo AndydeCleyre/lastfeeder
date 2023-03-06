@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Mar 2023 11:37:31 +0000</lastBuildDate>
-    <item>
-      <title>XTC - Helicopter (56 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/Helicopter</link>
-      <guid isPermaLink="false">Frippertron-1678085107--97c86b2c-2765-46a2-aef8-76a7e24c430f---Helicopter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd53c193ea660e5f4bc11ea5093d99c8.jpg" length="21484" type="image/jpeg"/>
-      <pubDate>Mon, 06 Mar 2023 01:45:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Mar 2023 11:52:11 +0000</lastBuildDate>
     <item>
       <title>Genesis - The Lady Lies (46 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/The+Lady+Lies</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1678102169--678d88b2-87b0-403b-b63d-5da7465aecc3---In the Light</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
       <pubDate>Mon, 06 Mar 2023 06:29:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Wanton Song (32 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Wanton+Song</link>
+      <guid isPermaLink="false">Frippertron-1678102703--678d88b2-87b0-403b-b63d-5da7465aecc3---The Wanton Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
+      <pubDate>Mon, 06 Mar 2023 06:38:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
