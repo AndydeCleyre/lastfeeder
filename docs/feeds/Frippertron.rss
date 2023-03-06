@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Mar 2023 08:43:01 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Win (48 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Win</link>
-      <guid isPermaLink="false">Frippertron-1678072669--5441c29d-3602-4898-b1a1-b77fa23b8e50---Win</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Sun, 05 Mar 2023 22:17:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Right (53 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Right</link>
-      <guid isPermaLink="false">Frippertron-1678072969--5441c29d-3602-4898-b1a1-b77fa23b8e50---Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Sun, 05 Mar 2023 22:22:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Mar 2023 08:55:11 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Somebody Up There Likes Me (52 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1678090981--265c41ad-2e21-4c7a-9523-bb447906bc8c---lazy mood</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed92c2b594684821950f122a22a34d17.jpg" length="15641" type="image/jpeg"/>
       <pubDate>Mon, 06 Mar 2023 03:23:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Boo Williams - Old School Flavor (1 play)</title>
+      <link>https://www.last.fm/music/Boo+Williams/_/Old+School+Flavor</link>
+      <guid isPermaLink="false">Frippertron-1678092073--265c41ad-2e21-4c7a-9523-bb447906bc8c---Old School Flavor</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed92c2b594684821950f122a22a34d17.jpg" length="15641" type="image/jpeg"/>
+      <pubDate>Mon, 06 Mar 2023 03:41:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Boo Williams - Smokin' Acid (1 play)</title>
+      <link>https://www.last.fm/music/Boo+Williams/_/Smokin%27+Acid</link>
+      <guid isPermaLink="false">Frippertron-1678092534--265c41ad-2e21-4c7a-9523-bb447906bc8c---Smokin' Acid</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed92c2b594684821950f122a22a34d17.jpg" length="15641" type="image/jpeg"/>
+      <pubDate>Mon, 06 Mar 2023 03:48:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
