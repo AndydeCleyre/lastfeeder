@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Mar 2023 03:33:50 +0000</lastBuildDate>
-    <item>
-      <title>Boo Williams - Home Town Chicago (2 plays)</title>
-      <link>https://www.last.fm/music/Boo+Williams/_/Home+Town+Chicago</link>
-      <guid isPermaLink="false">Frippertron-1678089328--265c41ad-2e21-4c7a-9523-bb447906bc8c---Home Town Chicago</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed92c2b594684821950f122a22a34d17.jpg" length="15641" type="image/jpeg"/>
-      <pubDate>Mon, 06 Mar 2023 02:55:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Boo Williams - Devil Muzic (1 play)</title>
-      <link>https://www.last.fm/music/Boo+Williams/_/Devil+Muzic</link>
-      <guid isPermaLink="false">Frippertron-1678089765--265c41ad-2e21-4c7a-9523-bb447906bc8c---Devil Muzic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed92c2b594684821950f122a22a34d17.jpg" length="15641" type="image/jpeg"/>
-      <pubDate>Mon, 06 Mar 2023 03:02:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Boo Williams - Make Some Noise (1 play)</title>
-      <link>https://www.last.fm/music/Boo+Williams/_/Make+Some+Noise</link>
-      <guid isPermaLink="false">Frippertron-1678090193--265c41ad-2e21-4c7a-9523-bb447906bc8c---Make Some Noise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed92c2b594684821950f122a22a34d17.jpg" length="15641" type="image/jpeg"/>
-      <pubDate>Mon, 06 Mar 2023 03:09:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Mar 2023 03:52:15 +0000</lastBuildDate>
     <item>
       <title>Boo Williams - Snare Tappin (1 play)</title>
       <link>https://www.last.fm/music/Boo+Williams/_/Snare+Tappin</link>
@@ -100,7 +79,7 @@
       <pubDate>Mon, 06 Mar 2023 04:27:25 -0500</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - Misty Mountain Hop (19 plays)</title>
+      <title>Led Zeppelin - Misty Mountain Hop (20 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Misty+Mountain+Hop</link>
       <guid isPermaLink="false">Frippertron-1678095049--678d88b2-87b0-403b-b63d-5da7465aecc3---Misty Mountain Hop</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fceb2abf67048f9b63ea7bba5b440c3.jpg" length="23269" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1678159569--678d88b2-87b0-403b-b63d-5da7465aecc3---When the Levee Breaks</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
       <pubDate>Mon, 06 Mar 2023 22:26:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Misty Mountain Hop (20 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Misty+Mountain+Hop</link>
+      <guid isPermaLink="false">Frippertron-1678160001--678d88b2-87b0-403b-b63d-5da7465aecc3---Misty Mountain Hop</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
+      <pubDate>Mon, 06 Mar 2023 22:33:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Rock and Roll (43 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Rock+and+Roll</link>
+      <guid isPermaLink="false">Frippertron-1678160289--678d88b2-87b0-403b-b63d-5da7465aecc3---Rock and Roll</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
+      <pubDate>Mon, 06 Mar 2023 22:38:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Achilles Last Stand (45 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Achilles+Last+Stand</link>
+      <guid isPermaLink="false">Frippertron-1678160520--678d88b2-87b0-403b-b63d-5da7465aecc3---Achilles Last Stand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Mon, 06 Mar 2023 22:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
