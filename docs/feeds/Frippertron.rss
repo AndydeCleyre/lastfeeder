@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Mar 2023 08:43:15 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Kashmir (54 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Kashmir</link>
-      <guid isPermaLink="false">Frippertron-1678247795--678d88b2-87b0-403b-b63d-5da7465aecc3---Kashmir</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f94ed44346e3e8fef174cfd082a920d.jpg" length="23570" type="image/jpeg"/>
-      <pubDate>Tue, 07 Mar 2023 22:56:35 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Mar 2023 08:55:02 +0000</lastBuildDate>
     <item>
       <title>XTC - Paper and Iron (Notes and Coins) (9 plays)</title>
       <link>https://www.last.fm/music/XTC/_/Paper+and+Iron+(Notes+and+Coins)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1678264804--f2fc3767-1688-4a84-be35-38b7928a1fcc---New Town</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02ae4abc69fd4a39ca1dcde648510ddb.jpg" length="16299" type="image/jpeg"/>
       <pubDate>Wed, 08 Mar 2023 03:40:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Life Without Buildings - Sorrow (3 plays)</title>
+      <link>https://www.last.fm/music/Life+Without+Buildings/_/Sorrow</link>
+      <guid isPermaLink="false">Frippertron-1678265159--f2fc3767-1688-4a84-be35-38b7928a1fcc---Sorrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02ae4abc69fd4a39ca1dcde648510ddb.jpg" length="16299" type="image/jpeg"/>
+      <pubDate>Wed, 08 Mar 2023 03:45:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
