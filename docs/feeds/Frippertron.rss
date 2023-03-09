@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Mar 2023 08:24:40 +0000</lastBuildDate>
-    <item>
-      <title>Pulp - Glory Days (4 plays)</title>
-      <link>https://www.last.fm/music/Pulp/_/Glory+Days</link>
-      <guid isPermaLink="false">Frippertron-1678272676--76b2e842-5e85-4c97-ab62-d5bc315595b5---Glory Days</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cb465430c8141b9982944bd9e916e2b.png" length="138642" type="image/png"/>
-      <pubDate>Wed, 08 Mar 2023 05:51:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pulp - The Day After the Revolution (4 plays)</title>
-      <link>https://www.last.fm/music/Pulp/_/The+Day+After+the+Revolution</link>
-      <guid isPermaLink="false">Frippertron-1678272975--76b2e842-5e85-4c97-ab62-d5bc315595b5---The Day After the Revolution</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cb465430c8141b9982944bd9e916e2b.png" length="138642" type="image/png"/>
-      <pubDate>Wed, 08 Mar 2023 05:56:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - The World Awake (62 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/The+World+Awake</link>
-      <guid isPermaLink="false">Frippertron-1678273445--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The World Awake</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d8b06904529497fc944fa5350833521.png" length="131878" type="image/png"/>
-      <pubDate>Wed, 08 Mar 2023 06:04:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Grateful Dead - Dark Star (8 plays)</title>
-      <link>https://www.last.fm/music/Grateful+Dead/_/Dark+Star</link>
-      <guid isPermaLink="false">Frippertron-1678273580--6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6---Dark Star</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d3939a6977c6c7af88b8dc1914a3705.jpg" length="31433" type="image/jpeg"/>
-      <pubDate>Wed, 08 Mar 2023 06:06:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Mar 2023 08:44:18 +0000</lastBuildDate>
     <item>
       <title>Grateful Dead - Truckin' (4 plays)</title>
       <link>https://www.last.fm/music/Grateful+Dead/_/Truckin%27</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1678350059--e181e6b6-79dc-426a-b071-83a7fbe890ab---Angst</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3123c042fb257fe1851e25400203af.png" length="29979" type="image/png"/>
       <pubDate>Thu, 09 Mar 2023 03:20:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jockstrap - Debra (5 plays)</title>
+      <link>https://www.last.fm/music/Jockstrap/_/Debra</link>
+      <guid isPermaLink="false">Frippertron-1678350246--e181e6b6-79dc-426a-b071-83a7fbe890ab---Debra</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3123c042fb257fe1851e25400203af.png" length="29979" type="image/png"/>
+      <pubDate>Thu, 09 Mar 2023 03:24:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jockstrap - Glasgow (5 plays)</title>
+      <link>https://www.last.fm/music/Jockstrap/_/Glasgow</link>
+      <guid isPermaLink="false">Frippertron-1678350543--e181e6b6-79dc-426a-b071-83a7fbe890ab---Glasgow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3123c042fb257fe1851e25400203af.png" length="29979" type="image/png"/>
+      <pubDate>Thu, 09 Mar 2023 03:29:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jockstrap - Lancaster Court (5 plays)</title>
+      <link>https://www.last.fm/music/Jockstrap/_/Lancaster+Court</link>
+      <guid isPermaLink="false">Frippertron-1678350882--e181e6b6-79dc-426a-b071-83a7fbe890ab---Lancaster Court</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3123c042fb257fe1851e25400203af.png" length="29979" type="image/png"/>
+      <pubDate>Thu, 09 Mar 2023 03:34:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jockstrap - 50/50 (7 plays)</title>
+      <link>https://www.last.fm/music/Jockstrap/_/50%2F50</link>
+      <guid isPermaLink="false">Frippertron-1678351137--e181e6b6-79dc-426a-b071-83a7fbe890ab---50/50</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3123c042fb257fe1851e25400203af.png" length="29979" type="image/png"/>
+      <pubDate>Thu, 09 Mar 2023 03:38:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
