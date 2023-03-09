@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Mar 2023 01:43:19 +0000</lastBuildDate>
-    <item>
-      <title>Daniel Avery - London Island (1 play)</title>
-      <link>https://www.last.fm/music/Daniel+Avery/_/London+Island</link>
-      <guid isPermaLink="false">Arcade1996-1678243681--3e7aa4a4-5b7e-46a3-a7ff-c57044fa1b64---London Island</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb7c42b222013c086e0f97cf78f4d81e.jpg" length="6277" type="image/jpeg"/>
-      <pubDate>Tue, 07 Mar 2023 21:48:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Mar 2023 10:20:32 +0000</lastBuildDate>
     <item>
       <title>Daniel Avery - Naive Response (1 play)</title>
       <link>https://www.last.fm/music/Daniel+Avery/_/Naive+Response</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1678322425--4939695e-1f38-496f-978f-4ebf9ef13e9d---Rockets on the Battlefield</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9284ba11552c0e2bb7694c6756bd5840.jpg" length="28726" type="image/jpeg"/>
       <pubDate>Wed, 08 Mar 2023 19:40:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kool Keith - Livin' Astro (1 play)</title>
+      <link>https://www.last.fm/music/Kool+Keith/_/Livin%27+Astro</link>
+      <guid isPermaLink="false">Arcade1996-1678322691--4939695e-1f38-496f-978f-4ebf9ef13e9d---Livin' Astro</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9284ba11552c0e2bb7694c6756bd5840.jpg" length="28726" type="image/jpeg"/>
+      <pubDate>Wed, 08 Mar 2023 19:44:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
