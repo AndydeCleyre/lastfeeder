@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Mar 2023 20:52:58 +0000</lastBuildDate>
-    <item>
-      <title>The The - Kingdom Of Rain (2 plays)</title>
-      <link>https://www.last.fm/music/The+The/_/Kingdom+Of+Rain</link>
-      <guid isPermaLink="false">evilgnomeandy-1678142978--a7409219-a681-4072-adb2-5285106ce6f2---Kingdom Of Rain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d6b77f914ee45d5aeaaf62c12d274c9.png" length="140133" type="image/png"/>
-      <pubDate>Mon, 06 Mar 2023 17:49:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Bones Jugs - Dotty Dimples (13 plays)</title>
-      <link>https://www.last.fm/music/Bones+Jugs/_/Dotty+Dimples</link>
-      <guid isPermaLink="false">evilgnomeandy-1678143231--f655b883-0c47-4cc3-90b4-74be210379c2---Dotty Dimples</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 06 Mar 2023 17:53:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Mar 2023 21:15:19 +0000</lastBuildDate>
     <item>
       <title>Widespread Panic - Pickin' Up The Pieces (12 plays)</title>
       <link>https://www.last.fm/music/Widespread+Panic/_/Pickin%27+Up+The+Pieces</link>
@@ -110,6 +96,7 @@
       <title>Tubeway Army - Friends (1 play)</title>
       <link>https://www.last.fm/music/Tubeway+Army/_/Friends</link>
       <guid isPermaLink="false">evilgnomeandy-1678303207--fc0bd304-cfd4-4478-9224-3446134d57fe---Friends</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e67cf0ae446fd63d558fff02f3b66b97.png" length="22180" type="image/png"/>
       <pubDate>Wed, 08 Mar 2023 14:20:07 -0500</pubDate>
     </item>
     <item>
@@ -151,6 +138,7 @@
       <title>Cat Power - These Days (2 plays)</title>
       <link>https://www.last.fm/music/Cat+Power/_/These+Days</link>
       <guid isPermaLink="false">evilgnomeandy-1678318624--05755bf1-380c-487f-983f-d1a02401fa28---These Days</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a58151e006ee2c463bf8b7aaba325acd.jpg" length="31188" type="image/jpeg"/>
       <pubDate>Wed, 08 Mar 2023 18:37:04 -0500</pubDate>
     </item>
     <item>
@@ -164,6 +152,7 @@
       <title>Shannon &amp; The Clams - Year Of The Spider (10 plays)</title>
       <link>https://www.last.fm/music/Shannon+&amp;+The+Clams/_/Year+Of+The+Spider</link>
       <guid isPermaLink="false">evilgnomeandy-1678318957--Shannon &amp; The Clams---Year Of The Spider</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb22e1077ab30333a29083b9b312010a.jpg" length="35714" type="image/jpeg"/>
       <pubDate>Wed, 08 Mar 2023 18:42:37 -0500</pubDate>
     </item>
     <item>
@@ -354,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1678481338--2528e3ae-d657-4ec1-a94a-c6f4b423f920---Deep Water</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a474690a97fe730ff1a737f275fd734.jpg" length="21956" type="image/jpeg"/>
       <pubDate>Fri, 10 Mar 2023 15:48:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Rivingtons - Kickapoo Joy Juice (11 plays)</title>
+      <link>https://www.last.fm/music/The+Rivingtons/_/Kickapoo+Joy+Juice</link>
+      <guid isPermaLink="false">evilgnomeandy-1678481523--2528e3ae-d657-4ec1-a94a-c6f4b423f920---Kickapoo Joy Juice</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a474690a97fe730ff1a737f275fd734.jpg" length="21956" type="image/jpeg"/>
+      <pubDate>Fri, 10 Mar 2023 15:52:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Rivingtons - The Bird's the Word (9 plays)</title>
+      <link>https://www.last.fm/music/The+Rivingtons/_/The+Bird%27s+the+Word</link>
+      <guid isPermaLink="false">evilgnomeandy-1678481679--2528e3ae-d657-4ec1-a94a-c6f4b423f920---The Bird's the Word</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a474690a97fe730ff1a737f275fd734.jpg" length="21956" type="image/jpeg"/>
+      <pubDate>Fri, 10 Mar 2023 15:54:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
