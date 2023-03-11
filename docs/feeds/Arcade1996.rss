@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Mar 2023 03:37:39 +0000</lastBuildDate>
-    <item>
-      <title>Orbital - Dirty Rat (5 plays)</title>
-      <link>https://www.last.fm/music/Orbital/_/Dirty+Rat</link>
-      <guid isPermaLink="false">Arcade1996-1678445172--f3e2a7d9-c6bb-4848-95e5-04c0a1e2f511---Dirty Rat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c47513fd994949983d8da4cafcf4cfd3.jpg" length="28290" type="image/jpeg"/>
-      <pubDate>Fri, 10 Mar 2023 05:46:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Mar 2023 03:52:20 +0000</lastBuildDate>
     <item>
       <title>The Prodigy - Ibiza (1 play)</title>
       <link>https://www.last.fm/music/The+Prodigy/_/Ibiza</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1678505322--c464a09c-6e10-469b-82a1-0234b189790c---Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f08918480eccc531bbe42cc4d03c960c.jpg" length="20634" type="image/jpeg"/>
       <pubDate>Fri, 10 Mar 2023 22:28:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Catatonia - Road Rage (2 plays)</title>
+      <link>https://www.last.fm/music/Catatonia/_/Road+Rage</link>
+      <guid isPermaLink="false">Arcade1996-1678505650--095b2041-4975-4ba3-a92e-53fa3459107f---Road Rage</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74425459eb0a4ec4cecb47ee1b4f01d6.png" length="202281" type="image/png"/>
+      <pubDate>Fri, 10 Mar 2023 22:34:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
