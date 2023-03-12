@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Mar 2023 04:40:00 +0000</lastBuildDate>
-    <item>
-      <title>Orbital - Dirty Rat (5 plays)</title>
-      <link>https://www.last.fm/music/Orbital/_/Dirty+Rat</link>
-      <guid isPermaLink="false">Arcade1996-1678447486--f3e2a7d9-c6bb-4848-95e5-04c0a1e2f511---Dirty Rat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c47513fd994949983d8da4cafcf4cfd3.jpg" length="28290" type="image/jpeg"/>
-      <pubDate>Fri, 10 Mar 2023 06:24:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pearl Jam - Jeremy (6 plays)</title>
-      <link>https://www.last.fm/music/Pearl+Jam/_/Jeremy</link>
-      <guid isPermaLink="false">Arcade1996-1678455758--83b9cbe7-9857-49e2-ab8e-b57b01038103---Jeremy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dfa0959e9534f8dcfd24d5dc5110589.jpg" length="24768" type="image/jpeg"/>
-      <pubDate>Fri, 10 Mar 2023 08:42:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Mar 2023 04:52:29 +0000</lastBuildDate>
     <item>
       <title>Pearl Jam - Oceans (2 plays)</title>
       <link>https://www.last.fm/music/Pearl+Jam/_/Oceans</link>
@@ -215,6 +201,7 @@
       <title>Sleaford Mods - Tiswas (2 plays)</title>
       <link>https://www.last.fm/music/Sleaford+Mods/_/Tiswas</link>
       <guid isPermaLink="false">Arcade1996-1678502177--09d8290b-6ada-422f-8ce3-19349fb1c15d---Tiswas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e147879d66e4b66cb03a27e734ba84a.jpg" length="12890" type="image/jpeg"/>
       <pubDate>Fri, 10 Mar 2023 21:36:17 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1678595605--5fee3020-513b-48c2-b1f7-4681b01db0c6---Hiding</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62a7ece44cc817f60cb3aee900ee5f63.png" length="72149" type="image/png"/>
       <pubDate>Sat, 11 Mar 2023 23:33:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Florence + the Machine - Dog Days Are Over (1 play)</title>
+      <link>https://www.last.fm/music/Florence+%252B+the+Machine/_/Dog+Days+Are+Over</link>
+      <guid isPermaLink="false">Arcade1996-1678595837--5fee3020-513b-48c2-b1f7-4681b01db0c6---Dog Days Are Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ebdce45448c2864d22bce62f1ffa198.png" length="187703" type="image/png"/>
+      <pubDate>Sat, 11 Mar 2023 23:37:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Florence + the Machine - Breaking Down (1 play)</title>
+      <link>https://www.last.fm/music/Florence+%252B+the+Machine/_/Breaking+Down</link>
+      <guid isPermaLink="false">Arcade1996-1678596090--5fee3020-513b-48c2-b1f7-4681b01db0c6---Breaking Down</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f678deb0dce8487dc869545b1a3c7839.png" length="177721" type="image/png"/>
+      <pubDate>Sat, 11 Mar 2023 23:41:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
