@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Mar 2023 04:52:29 +0000</lastBuildDate>
-    <item>
-      <title>Pearl Jam - Oceans (2 plays)</title>
-      <link>https://www.last.fm/music/Pearl+Jam/_/Oceans</link>
-      <guid isPermaLink="false">Arcade1996-1678456074--83b9cbe7-9857-49e2-ab8e-b57b01038103---Oceans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dfa0959e9534f8dcfd24d5dc5110589.jpg" length="24768" type="image/jpeg"/>
-      <pubDate>Fri, 10 Mar 2023 08:47:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Mar 2023 08:52:31 +0000</lastBuildDate>
     <item>
       <title>Pearl Jam - Porch (2 plays)</title>
       <link>https://www.last.fm/music/Pearl+Jam/_/Porch</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1678596090--5fee3020-513b-48c2-b1f7-4681b01db0c6---Breaking Down</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f678deb0dce8487dc869545b1a3c7839.png" length="177721" type="image/png"/>
       <pubDate>Sat, 11 Mar 2023 23:41:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Florence + the Machine - Lover to Lover (1 play)</title>
+      <link>https://www.last.fm/music/Florence+%252B+the+Machine/_/Lover+to+Lover</link>
+      <guid isPermaLink="false">Arcade1996-1678596320--5fee3020-513b-48c2-b1f7-4681b01db0c6---Lover to Lover</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f678deb0dce8487dc869545b1a3c7839.png" length="177721" type="image/png"/>
+      <pubDate>Sat, 11 Mar 2023 23:45:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
