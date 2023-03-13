@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Mar 2023 07:52:48 +0000</lastBuildDate>
-    <item>
-      <title>Kaledon - The Eye of the Storm (1 play)</title>
-      <link>https://www.last.fm/music/Kaledon/_/The+Eye+of+the+Storm</link>
-      <guid isPermaLink="false">manosg--1678431810--555690ae-91fc-4b35-b7af-072d095d19f4---The Eye of the Storm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7926e90fe8478d3b854ad32b4018eb47.jpg" length="34054" type="image/jpeg"/>
-      <pubDate>Fri, 10 Mar 2023 02:03:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Mar 2023 09:52:52 +0000</lastBuildDate>
     <item>
       <title>Host - My Only Escape (3 plays)</title>
       <link>https://www.last.fm/music/Host/_/My+Only+Escape</link>
@@ -331,7 +324,7 @@
       <pubDate>Sun, 12 Mar 2023 07:49:41 -0400</pubDate>
     </item>
     <item>
-      <title>Opeth - Atonement (2 plays)</title>
+      <title>Opeth - Atonement (3 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Atonement</link>
       <guid isPermaLink="false">manosg--1678622373--c14b4180-dc87-481e-b17a-64e4150f90f6---Atonement</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dd7887ca697e85bc060a200a1d47eeb.jpg" length="17693" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1678693213--c14b4180-dc87-481e-b17a-64e4150f90f6---Beneath the Mire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dd7887ca697e85bc060a200a1d47eeb.jpg" length="17693" type="image/jpeg"/>
       <pubDate>Mon, 13 Mar 2023 03:40:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Opeth - Atonement (3 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/Atonement</link>
+      <guid isPermaLink="false">manosg--1678693690--c14b4180-dc87-481e-b17a-64e4150f90f6---Atonement</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dd7887ca697e85bc060a200a1d47eeb.jpg" length="17693" type="image/jpeg"/>
+      <pubDate>Mon, 13 Mar 2023 03:48:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
