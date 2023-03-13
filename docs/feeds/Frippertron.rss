@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Mar 2023 03:52:18 +0000</lastBuildDate>
-    <item>
-      <title>James Brown - It's A New Day, So Let A Man Come In (1 play)</title>
-      <link>https://www.last.fm/music/James+Brown/_/It%27s+A+New+Day,+So+Let+A+Man+Come+In</link>
-      <guid isPermaLink="false">Frippertron-1678440041--James Brown---It's A New Day, So Let A Man Come In</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71e2fb627a584108c104948d4b02d4d6.png" length="44116" type="image/png"/>
-      <pubDate>Fri, 10 Mar 2023 04:20:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Mar 2023 04:22:01 +0000</lastBuildDate>
     <item>
       <title>James Brown - Bewildered (2 plays)</title>
       <link>https://www.last.fm/music/James+Brown/_/Bewildered</link>
@@ -219,7 +212,7 @@
       <pubDate>Sun, 12 Mar 2023 16:17:58 -0400</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - No Quarter (61 plays)</title>
+      <title>Led Zeppelin - No Quarter (62 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/No+Quarter</link>
       <guid isPermaLink="false">Frippertron-1678652524--678d88b2-87b0-403b-b63d-5da7465aecc3---No Quarter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f94ed44346e3e8fef174cfd082a920d.jpg" length="23570" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1678678931--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Slow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
       <pubDate>Sun, 12 Mar 2023 23:42:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - No Quarter (62 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/No+Quarter</link>
+      <guid isPermaLink="false">Frippertron-1678679317--678d88b2-87b0-403b-b63d-5da7465aecc3---No Quarter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 12 Mar 2023 23:48:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
