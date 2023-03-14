@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Mar 2023 10:43:19 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - Death Whispered a Lullaby (5 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Death+Whispered+a+Lullaby</link>
-      <guid isPermaLink="false">manosg--1678606747--c14b4180-dc87-481e-b17a-64e4150f90f6---Death Whispered a Lullaby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Sun, 12 Mar 2023 03:39:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - Closure (5 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Closure</link>
-      <guid isPermaLink="false">manosg--1678607142--c14b4180-dc87-481e-b17a-64e4150f90f6---Closure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Sun, 12 Mar 2023 03:45:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Mar 2023 11:17:15 +0000</lastBuildDate>
     <item>
       <title>Opeth - Hope Leaves (4 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Hope+Leaves</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1678790201--Cathedral---Midnight Mountain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbb9973ab3cfc489108fb9e022d7e9a9.jpg" length="29873" type="image/jpeg"/>
       <pubDate>Tue, 14 Mar 2023 06:36:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cathedral - Fountain of Innocence (1 play)</title>
+      <link>https://www.last.fm/music/Cathedral/_/Fountain+of+Innocence</link>
+      <guid isPermaLink="false">manosg--1678790496--Cathedral---Fountain of Innocence</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbb9973ab3cfc489108fb9e022d7e9a9.jpg" length="29873" type="image/jpeg"/>
+      <pubDate>Tue, 14 Mar 2023 06:41:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cathedral - Grim Luxuria (1 play)</title>
+      <link>https://www.last.fm/music/Cathedral/_/Grim+Luxuria</link>
+      <guid isPermaLink="false">manosg--1678791437--Cathedral---Grim Luxuria</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbb9973ab3cfc489108fb9e022d7e9a9.jpg" length="29873" type="image/jpeg"/>
+      <pubDate>Tue, 14 Mar 2023 06:57:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
