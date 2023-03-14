@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Mar 2023 03:38:50 +0000</lastBuildDate>
-    <item>
-      <title>XTC - Limelight (1 play)</title>
-      <link>https://www.last.fm/music/XTC/_/Limelight</link>
-      <guid isPermaLink="false">Frippertron-1678693017--97c86b2c-2765-46a2-aef8-76a7e24c430f---Limelight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd53c193ea660e5f4bc11ea5093d99c8.jpg" length="21484" type="image/jpeg"/>
-      <pubDate>Mon, 13 Mar 2023 03:36:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Mar 2023 03:52:27 +0000</lastBuildDate>
     <item>
       <title>Sophie Ellis-Bextor - Take Me Home (A Girl Like Me) (6 plays)</title>
       <link>https://www.last.fm/music/Sophie+Ellis-Bextor/_/Take+Me+Home+(A+Girl+Like+Me)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1678764809--678d88b2-87b0-403b-b63d-5da7465aecc3---In My Time of Dying</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 13 Mar 2023 23:33:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Song Remains the Same (118 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1678765604--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 13 Mar 2023 23:46:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
