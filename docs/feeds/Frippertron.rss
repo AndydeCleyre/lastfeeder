@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Mar 2023 05:52:43 +0000</lastBuildDate>
-    <item>
-      <title>Duster - Gold Dust (4 plays)</title>
-      <link>https://www.last.fm/music/Duster/_/Gold+Dust</link>
-      <guid isPermaLink="false">Frippertron-1678698014--Duster---Gold Dust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9784060f3c1518a1528e77dea2d2a888.jpg" length="37459" type="image/jpeg"/>
-      <pubDate>Mon, 13 Mar 2023 05:00:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Mar 2023 07:17:54 +0000</lastBuildDate>
     <item>
       <title>Duster - Topical Solution (4 plays)</title>
       <link>https://www.last.fm/music/Duster/_/Topical+Solution</link>
@@ -226,7 +219,7 @@
       <pubDate>Mon, 13 Mar 2023 22:42:29 -0400</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - Stairway to Heaven (29 plays)</title>
+      <title>Led Zeppelin - Stairway to Heaven (30 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Stairway+to+Heaven</link>
       <guid isPermaLink="false">Frippertron-1678761988--678d88b2-87b0-403b-b63d-5da7465aecc3---Stairway to Heaven</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1678772523--678d88b2-87b0-403b-b63d-5da7465aecc3---Dazed and Confused</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 14 Mar 2023 01:42:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Stairway to Heaven (30 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Stairway+to+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1678773768--678d88b2-87b0-403b-b63d-5da7465aecc3---Stairway to Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 14 Mar 2023 02:02:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
