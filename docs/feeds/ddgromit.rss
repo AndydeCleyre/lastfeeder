@@ -7,16 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Mar 2023 01:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2023 22:37:33 +0000</lastBuildDate>
     <item>
-      <title>MorMor - Chasing Ghosts (1 play)</title>
-      <link>https://www.last.fm/music/MorMor/_/Chasing+Ghosts</link>
-      <guid isPermaLink="false">ddgromit-1678746336--8c92e1b3-727b-49de-b624-28e09c345ff8---Chasing Ghosts</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f3d56a4d892730978399f36e503cb86.jpg" length="6370" type="image/jpeg"/>
-      <pubDate>Mon, 13 Mar 2023 18:25:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jordan Rakei - Borderline (1 play)</title>
+      <title>Jordan Rakei - Borderline</title>
       <link>https://www.last.fm/music/Jordan+Rakei/_/Borderline</link>
       <guid isPermaLink="false">ddgromit-1678746570--812c46e5-3d65-4e80-ada8-269450c5621b---Borderline</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/932ef4bcc7113b38bf7119e76272d051.jpg" length="14221" type="image/jpeg"/>
@@ -208,7 +201,6 @@
       <title>Winston Surfshirt - I Want You (To Be My Woman) [feat. DOPE LEMON] (2 plays)</title>
       <link>https://www.last.fm/music/Winston+Surfshirt/_/I+Want+You+(To+Be+My+Woman)+%5Bfeat.+DOPE+LEMON%5D</link>
       <guid isPermaLink="false">ddgromit-1678824619--Winston Surfshirt---I Want You (To Be My Woman) [feat. DOPE LEMON]</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53cbbb26a482cb0ea37b7bf087c6dfac.jpg" length="16383" type="image/jpeg"/>
       <pubDate>Tue, 14 Mar 2023 16:10:19 -0400</pubDate>
     </item>
     <item>
@@ -334,7 +326,6 @@
       <title>James Blake - Before (7 plays)</title>
       <link>https://www.last.fm/music/James+Blake/_/Before</link>
       <guid isPermaLink="false">ddgromit-1678837539--8dc08b1f-e393-4f85-a5dd-300f7693a8b8---Before</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c58afbc3d942f6d972b705d4ce77749.jpg" length="16264" type="image/jpeg"/>
       <pubDate>Tue, 14 Mar 2023 19:45:39 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +348,13 @@
       <guid isPermaLink="false">ddgromit-1678838254--aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634---People Everywhere (Still Alive)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/846faf6966ea715e2bd8be1afd00a4f3.jpg" length="15482" type="image/jpeg"/>
       <pubDate>Tue, 14 Mar 2023 19:57:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nick Hakim - Vertigo (2 plays)</title>
+      <link>https://www.last.fm/music/Nick+Hakim/_/Vertigo</link>
+      <guid isPermaLink="false">ddgromit-1678838414--21e8f8ef-00d2-4748-be00-451f1f5dfcaa---Vertigo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93b7e32ad27bf6d3941e59703f82ab18.jpg" length="16033" type="image/jpeg"/>
+      <pubDate>Tue, 14 Mar 2023 20:00:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
