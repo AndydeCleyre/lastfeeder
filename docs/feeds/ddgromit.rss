@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Mar 2023 23:52:30 +0000</lastBuildDate>
-    <item>
-      <title>Khruangbin - Two Fish and an Elephant (8 plays)</title>
-      <link>https://www.last.fm/music/Khruangbin/_/Two+Fish+and+an+Elephant</link>
-      <guid isPermaLink="false">ddgromit-1678745642--aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634---Two Fish and an Elephant</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/846faf6966ea715e2bd8be1afd00a4f3.jpg" length="15482" type="image/jpeg"/>
-      <pubDate>Mon, 13 Mar 2023 18:14:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Franc Moody - Move Me (2 plays)</title>
-      <link>https://www.last.fm/music/Franc+Moody/_/Move+Me</link>
-      <guid isPermaLink="false">ddgromit-1678745856--Franc Moody---Move Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2360a489dce79cdc11ec583112f7a8e5.jpg" length="10736" type="image/jpeg"/>
-      <pubDate>Mon, 13 Mar 2023 18:17:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joesef - Just Come Home With Me Tonight (1 play)</title>
-      <link>https://www.last.fm/music/Joesef/_/Just+Come+Home+With+Me+Tonight</link>
-      <guid isPermaLink="false">ddgromit-1678746088--a5417f85-a2ef-4112-bc86-ddc7f415422f---Just Come Home With Me Tonight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1721627a0223897ed22dec061dbd3af1.png" length="168044" type="image/png"/>
-      <pubDate>Mon, 13 Mar 2023 18:21:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Mar 2023 01:26:38 +0000</lastBuildDate>
     <item>
       <title>MorMor - Chasing Ghosts (1 play)</title>
       <link>https://www.last.fm/music/MorMor/_/Chasing+Ghosts</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1678837539--8dc08b1f-e393-4f85-a5dd-300f7693a8b8---Before</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c58afbc3d942f6d972b705d4ce77749.jpg" length="16264" type="image/jpeg"/>
       <pubDate>Tue, 14 Mar 2023 19:45:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Common Saints - Dreams (8 plays)</title>
+      <link>https://www.last.fm/music/Common+Saints/_/Dreams</link>
+      <guid isPermaLink="false">ddgromit-1678837828--d24b9904-3b7e-49b4-849a-8c56a283d4f4---Dreams</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b192a434a1edf4ae8746345a8d88dad.jpg" length="34004" type="image/jpeg"/>
+      <pubDate>Tue, 14 Mar 2023 19:50:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>mindchatter - It's Been You (8 plays)</title>
+      <link>https://www.last.fm/music/mindchatter/_/It%27s+Been+You</link>
+      <guid isPermaLink="false">ddgromit-1678838060--mindchatter---It's Been You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6096a6e70f327d675e9f76f57c875a7a.jpg" length="12705" type="image/jpeg"/>
+      <pubDate>Tue, 14 Mar 2023 19:54:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Khruangbin - People Everywhere (Still Alive) (7 plays)</title>
+      <link>https://www.last.fm/music/Khruangbin/_/People+Everywhere+(Still+Alive)</link>
+      <guid isPermaLink="false">ddgromit-1678838254--aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634---People Everywhere (Still Alive)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/846faf6966ea715e2bd8be1afd00a4f3.jpg" length="15482" type="image/jpeg"/>
+      <pubDate>Tue, 14 Mar 2023 19:57:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
