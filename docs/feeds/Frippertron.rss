@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Mar 2023 16:28:25 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Cindy Tells Me (34 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Cindy+Tells+Me</link>
-      <guid isPermaLink="false">Frippertron-1678952165--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Cindy Tells Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e89c8997eb8cc31f6b4c5cdddead3419.png" length="223108" type="image/png"/>
-      <pubDate>Thu, 16 Mar 2023 03:36:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Mar 2023 16:51:21 +0000</lastBuildDate>
     <item>
       <title>Brian Eno - Driving Me Backwards (35 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/Driving+Me+Backwards</link>
@@ -355,8 +348,13 @@
       <title>Millie Jackson - Summer (The First Time) (2 plays)</title>
       <link>https://www.last.fm/music/Millie+Jackson/_/Summer+(The+First+Time)</link>
       <guid isPermaLink="false">Frippertron-1678983198--50e7cc0b-a74e-44b1-a22f-3cd9361d82dd---Summer (The First Time)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d6ce597d174713c702b326cece8fb7.jpg" length="42432" type="image/jpeg"/>
       <pubDate>Thu, 16 Mar 2023 12:13:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Brown - It's a Man's Man's Man's World (7 plays)</title>
+      <link>https://www.last.fm/music/James+Brown/_/It%27s+a+Man%27s+Man%27s+Man%27s+World</link>
+      <guid isPermaLink="false">Frippertron-1678983776--James Brown---It's a Man's Man's Man's World</guid>
+      <pubDate>Thu, 16 Mar 2023 12:22:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
