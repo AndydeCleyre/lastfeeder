@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Mar 2023 09:18:13 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - The Rain Song (87 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Rain+Song</link>
-      <guid isPermaLink="false">Frippertron-1679019822--678d88b2-87b0-403b-b63d-5da7465aecc3---The Rain Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
-      <pubDate>Thu, 16 Mar 2023 22:23:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Houses of the Holy (35 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Houses+of+the+Holy</link>
-      <guid isPermaLink="false">Frippertron-1679020282--678d88b2-87b0-403b-b63d-5da7465aecc3---Houses of the Holy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Thu, 16 Mar 2023 22:31:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Mar 2023 09:37:48 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Dancing Days (32 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Dancing+Days</link>
@@ -86,7 +72,7 @@
       <pubDate>Thu, 16 Mar 2023 23:23:36 -0400</pubDate>
     </item>
     <item>
-      <title>Isaac Hayes - (They Long to Be) Close to You (2 plays)</title>
+      <title>Isaac Hayes - (They Long to Be) Close to You (3 plays)</title>
       <link>https://www.last.fm/music/Isaac+Hayes/_/(They+Long+to+Be)+Close+to+You</link>
       <guid isPermaLink="false">Frippertron-1679023726--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---(They Long to Be) Close to You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb9dd2d55dd1a1a34970c7b25c5f0a83.png" length="150722" type="image/png"/>
@@ -331,7 +317,7 @@
       <pubDate>Fri, 17 Mar 2023 04:20:57 -0400</pubDate>
     </item>
     <item>
-      <title>Isaac Hayes - Walk on By (2 plays)</title>
+      <title>Isaac Hayes - Walk on By (3 plays)</title>
       <link>https://www.last.fm/music/Isaac+Hayes/_/Walk+on+By</link>
       <guid isPermaLink="false">Frippertron-1679041734--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Walk on By</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dedfe0d199ea42bfc2f76945f500c0e9.png" length="196574" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1679043352--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---By the Time I Get to Phoenix</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dedfe0d199ea42bfc2f76945f500c0e9.png" length="196574" type="image/png"/>
       <pubDate>Fri, 17 Mar 2023 04:55:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Isaac Hayes - Walk on By (3 plays)</title>
+      <link>https://www.last.fm/music/Isaac+Hayes/_/Walk+on+By</link>
+      <guid isPermaLink="false">Frippertron-1679044739--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Walk on By</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dedfe0d199ea42bfc2f76945f500c0e9.png" length="196574" type="image/png"/>
+      <pubDate>Fri, 17 Mar 2023 05:18:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Isaac Hayes - (They Long to Be) Close to You (3 plays)</title>
+      <link>https://www.last.fm/music/Isaac+Hayes/_/(They+Long+to+Be)+Close+to+You</link>
+      <guid isPermaLink="false">Frippertron-1679045512--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---(They Long to Be) Close to You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb9dd2d55dd1a1a34970c7b25c5f0a83.png" length="150722" type="image/png"/>
+      <pubDate>Fri, 17 Mar 2023 05:31:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
