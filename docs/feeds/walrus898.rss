@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Mar 2023 18:52:30 +0000</lastBuildDate>
-    <item>
-      <title>watergh0st - Apathy (1 play)</title>
-      <link>https://www.last.fm/music/watergh0st/_/Apathy</link>
-      <guid isPermaLink="false">walrus898-1678765025--watergh0st---Apathy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/486e20b8e22caaaf87846862912a9703.jpg" length="8060" type="image/jpeg"/>
-      <pubDate>Mon, 13 Mar 2023 23:37:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Remember Sports - Leap Day (1 play)</title>
-      <link>https://www.last.fm/music/Remember+Sports/_/Leap+Day</link>
-      <guid isPermaLink="false">walrus898-1678765239--ed84e235-0dd9-41c8-b9be-1e5cfc1198c4---Leap Day</guid>
-      <pubDate>Mon, 13 Mar 2023 23:40:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Mar 2023 19:13:25 +0000</lastBuildDate>
     <item>
       <title>Jaguar Sun - One Day (1 play)</title>
       <link>https://www.last.fm/music/Jaguar+Sun/_/One+Day</link>
@@ -123,6 +110,7 @@
       <title>Sam Evian - Easy To Love (3 plays)</title>
       <link>https://www.last.fm/music/Sam+Evian/_/Easy+To+Love</link>
       <guid isPermaLink="false">walrus898-1678768490--ad2b62da-3451-48b4-97f5-9670ae10e29a---Easy To Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e41c61ad7f18354f1ac80019c8ea5850.jpg" length="15833" type="image/jpeg"/>
       <pubDate>Tue, 14 Mar 2023 00:34:50 -0400</pubDate>
     </item>
     <item>
@@ -220,6 +208,7 @@
       <title>The Veils - Cradle Song (1 play)</title>
       <link>https://www.last.fm/music/The+Veils/_/Cradle+Song</link>
       <guid isPermaLink="false">walrus898-1678886682--The Veils---Cradle Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a9a45d5b603af8facf0aa2ba6a7717e.png" length="39462" type="image/png"/>
       <pubDate>Wed, 15 Mar 2023 09:24:42 -0400</pubDate>
     </item>
     <item>
@@ -349,11 +338,25 @@
       <pubDate>Sat, 18 Mar 2023 14:45:33 -0400</pubDate>
     </item>
     <item>
-      <title>Magdalena Bay - You Lose! (22 plays)</title>
+      <title>Magdalena Bay - You Lose! (23 plays)</title>
       <link>https://www.last.fm/music/Magdalena+Bay/_/You+Lose!</link>
       <guid isPermaLink="false">walrus898-1679165344--68c261d5-48c8-4ea9-9466-9fc908dc79bb---You Lose!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1b18f7dd5f2b262a96288bfa2330ad2.jpg" length="23399" type="image/jpeg"/>
       <pubDate>Sat, 18 Mar 2023 14:49:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Magdalena Bay - Something For 2 (17 plays)</title>
+      <link>https://www.last.fm/music/Magdalena+Bay/_/Something+For+2</link>
+      <guid isPermaLink="false">walrus898-1679165547--68c261d5-48c8-4ea9-9466-9fc908dc79bb---Something For 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1b18f7dd5f2b262a96288bfa2330ad2.jpg" length="23399" type="image/jpeg"/>
+      <pubDate>Sat, 18 Mar 2023 14:52:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Magdalena Bay - You Lose! (23 plays)</title>
+      <link>https://www.last.fm/music/Magdalena+Bay/_/You+Lose!</link>
+      <guid isPermaLink="false">walrus898-1679165793--68c261d5-48c8-4ea9-9466-9fc908dc79bb---You Lose!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1b18f7dd5f2b262a96288bfa2330ad2.jpg" length="23399" type="image/jpeg"/>
+      <pubDate>Sat, 18 Mar 2023 14:56:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
