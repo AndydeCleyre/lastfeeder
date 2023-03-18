@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Mar 2023 06:52:18 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - The Lotus Eater (1 play)</title>
-      <link>https://www.last.fm/music/Opeth/_/The+Lotus+Eater</link>
-      <guid isPermaLink="false">manosg--1678866597--c14b4180-dc87-481e-b17a-64e4150f90f6---The Lotus Eater</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de3930320a84597985f35cfec1a7170.jpg" length="10831" type="image/jpeg"/>
-      <pubDate>Wed, 15 Mar 2023 03:49:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - Burden (2 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Burden</link>
-      <guid isPermaLink="false">manosg--1678867128--c14b4180-dc87-481e-b17a-64e4150f90f6---Burden</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de3930320a84597985f35cfec1a7170.jpg" length="10831" type="image/jpeg"/>
-      <pubDate>Wed, 15 Mar 2023 03:58:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - Porcelain Heart (1 play)</title>
-      <link>https://www.last.fm/music/Opeth/_/Porcelain+Heart</link>
-      <guid isPermaLink="false">manosg--1678867662--c14b4180-dc87-481e-b17a-64e4150f90f6---Porcelain Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de3930320a84597985f35cfec1a7170.jpg" length="10831" type="image/jpeg"/>
-      <pubDate>Wed, 15 Mar 2023 04:07:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - Hessian Peel (1 play)</title>
-      <link>https://www.last.fm/music/Opeth/_/Hessian+Peel</link>
-      <guid isPermaLink="false">manosg--1678868143--c14b4180-dc87-481e-b17a-64e4150f90f6---Hessian Peel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de3930320a84597985f35cfec1a7170.jpg" length="10831" type="image/jpeg"/>
-      <pubDate>Wed, 15 Mar 2023 04:15:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Mar 2023 07:15:18 +0000</lastBuildDate>
     <item>
       <title>Opeth - Hex Omega (1 play)</title>
       <link>https://www.last.fm/music/Opeth/_/Hex+Omega</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">manosg--1679121936--a71533db-17f0-4c37-87de-6fe6453e75a2---Obsidian</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3622a666ebb594a609695d275955d507.jpg" length="28521" type="image/jpeg"/>
       <pubDate>Sat, 18 Mar 2023 02:45:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Night Demon - Beyond The Grave (1 play)</title>
+      <link>https://www.last.fm/music/Night+Demon/_/Beyond+The+Grave</link>
+      <guid isPermaLink="false">manosg--1679122173--a71533db-17f0-4c37-87de-6fe6453e75a2---Beyond The Grave</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3622a666ebb594a609695d275955d507.jpg" length="28521" type="image/jpeg"/>
+      <pubDate>Sat, 18 Mar 2023 02:49:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Night Demon - Rebirth (1 play)</title>
+      <link>https://www.last.fm/music/Night+Demon/_/Rebirth</link>
+      <guid isPermaLink="false">manosg--1679122844--a71533db-17f0-4c37-87de-6fe6453e75a2---Rebirth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3622a666ebb594a609695d275955d507.jpg" length="28521" type="image/jpeg"/>
+      <pubDate>Sat, 18 Mar 2023 03:00:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Night Demon - Escape From Beyond (1 play)</title>
+      <link>https://www.last.fm/music/Night+Demon/_/Escape+From+Beyond</link>
+      <guid isPermaLink="false">manosg--1679123059--a71533db-17f0-4c37-87de-6fe6453e75a2---Escape From Beyond</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3622a666ebb594a609695d275955d507.jpg" length="28521" type="image/jpeg"/>
+      <pubDate>Sat, 18 Mar 2023 03:04:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Night Demon - A Wake (1 play)</title>
+      <link>https://www.last.fm/music/Night+Demon/_/A+Wake</link>
+      <guid isPermaLink="false">manosg--1679123287--a71533db-17f0-4c37-87de-6fe6453e75a2---A Wake</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3622a666ebb594a609695d275955d507.jpg" length="28521" type="image/jpeg"/>
+      <pubDate>Sat, 18 Mar 2023 03:08:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
