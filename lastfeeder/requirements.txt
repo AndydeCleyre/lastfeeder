@@ -47,7 +47,7 @@ structlog==22.3.0
     # via -r requirements.in
 tzdata==2022.7
     # via pytz-deprecation-shim
-tzlocal==4.2
+tzlocal==4.3
     # via delorean
 wrapt==1.15.0
     # via -r requirements.in
