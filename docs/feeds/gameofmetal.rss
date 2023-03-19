@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Mar 2023 01:25:26 +0000</lastBuildDate>
-    <item>
-      <title>Parmalee - Take My Name (16 plays)</title>
-      <link>https://www.last.fm/music/Parmalee/_/Take+My+Name</link>
-      <guid isPermaLink="false">gameofmetal-1679087174--66980f96-2716-48e6-88c2-cbbb81b8e888---Take My Name</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1e7668a99da71b00d15040547331c2e.jpg" length="20528" type="image/jpeg"/>
-      <pubDate>Fri, 17 Mar 2023 17:06:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Mar 2023 23:17:22 +0000</lastBuildDate>
     <item>
       <title>Camila Cabello - Living Proof (5 plays)</title>
       <link>https://www.last.fm/music/Camila+Cabello/_/Living+Proof</link>
@@ -30,7 +23,7 @@
       <pubDate>Fri, 17 Mar 2023 17:12:06 -0400</pubDate>
     </item>
     <item>
-      <title>Kim Petras - Can't Do Better (13 plays)</title>
+      <title>Kim Petras - Can't Do Better (14 plays)</title>
       <link>https://www.last.fm/music/Kim+Petras/_/Can%27t+Do+Better</link>
       <guid isPermaLink="false">gameofmetal-1679087790--54fc0558-12b5-4854-9d57-9441bcd73a72---Can't Do Better</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3fb8808c77abe76d0941f06e1be74b8.jpg" length="13387" type="image/jpeg"/>
@@ -306,7 +299,6 @@
       <title>Will Post - Wonderlust (6 plays)</title>
       <link>https://www.last.fm/music/Will+Post/_/Wonderlust</link>
       <guid isPermaLink="false">gameofmetal-1679096476--72e83f33-8588-4f98-963d-0c9a1ed4f254---Wonderlust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f918b8b6095750a8e99e2471cd5e1b30.jpg" length="17406" type="image/jpeg"/>
       <pubDate>Fri, 17 Mar 2023 19:41:16 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">gameofmetal-1679097876--f4d5cc07-3bc9-4836-9b15-88a08359bc63---Hurts 2B Human (feat. Khalid)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b947c334b463df05194ed7210d719d31.png" length="187151" type="image/png"/>
       <pubDate>Fri, 17 Mar 2023 20:04:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kim Petras - Can't Do Better (14 plays)</title>
+      <link>https://www.last.fm/music/Kim+Petras/_/Can%27t+Do+Better</link>
+      <guid isPermaLink="false">gameofmetal-1679267641--54fc0558-12b5-4854-9d57-9441bcd73a72---Can't Do Better</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3fb8808c77abe76d0941f06e1be74b8.jpg" length="13387" type="image/jpeg"/>
+      <pubDate>Sun, 19 Mar 2023 19:14:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
