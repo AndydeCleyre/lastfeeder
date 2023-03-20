@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Mar 2023 06:23:41 +0000</lastBuildDate>
-    <item>
-      <title>James Brown - I Don't Mind (12 plays)</title>
-      <link>https://www.last.fm/music/James+Brown/_/I+Don%27t+Mind</link>
-      <guid isPermaLink="false">Frippertron-1679081267--James Brown---I Don't Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a733e87bfededb75967d7aae9a2fb8a9.jpg" length="19063" type="image/jpeg"/>
-      <pubDate>Fri, 17 Mar 2023 15:27:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>James Brown - It's a Man's Man's Man's World (13 plays)</title>
-      <link>https://www.last.fm/music/James+Brown/_/It%27s+a+Man%27s+Man%27s+Man%27s+World</link>
-      <guid isPermaLink="false">Frippertron-1679081439--James Brown---It's a Man's Man's Man's World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a733e87bfededb75967d7aae9a2fb8a9.jpg" length="19063" type="image/jpeg"/>
-      <pubDate>Fri, 17 Mar 2023 15:30:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Mar 2023 07:16:56 +0000</lastBuildDate>
     <item>
       <title>James Brown - I Got You (I Feel Good) (1 play)</title>
       <link>https://www.last.fm/music/James+Brown/_/I+Got+You+(I+Feel+Good)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1679292167--1131e5da-dfdf-46c9-b6ff-b7ac552c2a3c---Gyroscope</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c211c337a6b942e0a7302b4d89545f0e.png" length="114831" type="image/png"/>
       <pubDate>Mon, 20 Mar 2023 02:02:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Dismemberment Plan - A Life of Possibilities (43 plays)</title>
+      <link>https://www.last.fm/music/The+Dismemberment+Plan/_/A+Life+of+Possibilities</link>
+      <guid isPermaLink="false">Frippertron-1679295864--1131e5da-dfdf-46c9-b6ff-b7ac552c2a3c---A Life of Possibilities</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c211c337a6b942e0a7302b4d89545f0e.png" length="114831" type="image/png"/>
+      <pubDate>Mon, 20 Mar 2023 03:04:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - When the Levee Breaks (18 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/When+the+Levee+Breaks</link>
+      <guid isPermaLink="false">Frippertron-1679296181--678d88b2-87b0-403b-b63d-5da7465aecc3---When the Levee Breaks</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
+      <pubDate>Mon, 20 Mar 2023 03:09:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
