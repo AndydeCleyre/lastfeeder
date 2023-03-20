@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Mar 2023 09:19:11 +0000</lastBuildDate>
-    <item>
-      <title>Lana Del Rey - Dealer (1 play)</title>
-      <link>https://www.last.fm/music/Lana+Del+Rey/_/Dealer</link>
-      <guid isPermaLink="false">manosg--1679126175--b7539c32-53e7-4908-bda3-81449c367da6---Dealer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68a5cc50ed4aad0786cecfc72dd78af3.jpg" length="20611" type="image/jpeg"/>
-      <pubDate>Sat, 18 Mar 2023 03:56:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lana Del Rey - Thunder (1 play)</title>
-      <link>https://www.last.fm/music/Lana+Del+Rey/_/Thunder</link>
-      <guid isPermaLink="false">manosg--1679126450--b7539c32-53e7-4908-bda3-81449c367da6---Thunder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68a5cc50ed4aad0786cecfc72dd78af3.jpg" length="20611" type="image/jpeg"/>
-      <pubDate>Sat, 18 Mar 2023 04:00:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Mar 2023 10:20:40 +0000</lastBuildDate>
     <item>
       <title>Lana Del Rey - Wildflower Wildfire (1 play)</title>
       <link>https://www.last.fm/music/Lana+Del+Rey/_/Wildflower+Wildfire</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1679303046--c14b4180-dc87-481e-b17a-64e4150f90f6---The Baying of the Hounds</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dd7887ca697e85bc060a200a1d47eeb.jpg" length="17693" type="image/jpeg"/>
       <pubDate>Mon, 20 Mar 2023 05:04:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Opeth - Beneath the Mire (4 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/Beneath+the+Mire</link>
+      <guid isPermaLink="false">manosg--1679303868--c14b4180-dc87-481e-b17a-64e4150f90f6---Beneath the Mire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dd7887ca697e85bc060a200a1d47eeb.jpg" length="17693" type="image/jpeg"/>
+      <pubDate>Mon, 20 Mar 2023 05:17:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Opeth - Atonement (4 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/Atonement</link>
+      <guid isPermaLink="false">manosg--1679307151--c14b4180-dc87-481e-b17a-64e4150f90f6---Atonement</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dd7887ca697e85bc060a200a1d47eeb.jpg" length="17693" type="image/jpeg"/>
+      <pubDate>Mon, 20 Mar 2023 06:12:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
