@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Mar 2023 07:16:56 +0000</lastBuildDate>
-    <item>
-      <title>James Brown - I Got You (I Feel Good) (1 play)</title>
-      <link>https://www.last.fm/music/James+Brown/_/I+Got+You+(I+Feel+Good)</link>
-      <guid isPermaLink="false">Frippertron-1679081796--James Brown---I Got You (I Feel Good)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a733e87bfededb75967d7aae9a2fb8a9.jpg" length="19063" type="image/jpeg"/>
-      <pubDate>Fri, 17 Mar 2023 15:36:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>James Brown - It's a Man's Man's Man's World (13 plays)</title>
-      <link>https://www.last.fm/music/James+Brown/_/It%27s+a+Man%27s+Man%27s+Man%27s+World</link>
-      <guid isPermaLink="false">Frippertron-1679081964--James Brown---It's a Man's Man's Man's World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a733e87bfededb75967d7aae9a2fb8a9.jpg" length="19063" type="image/jpeg"/>
-      <pubDate>Fri, 17 Mar 2023 15:39:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Mar 2023 07:37:31 +0000</lastBuildDate>
     <item>
       <title>James Brown - Bring It Up (Hipster's Avenue) (2 plays)</title>
       <link>https://www.last.fm/music/James+Brown/_/Bring+It+Up+(Hipster%27s+Avenue)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1679296181--678d88b2-87b0-403b-b63d-5da7465aecc3---When the Levee Breaks</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
       <pubDate>Mon, 20 Mar 2023 03:09:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - One Horse Town (74 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/One+Horse+Town</link>
+      <guid isPermaLink="false">Frippertron-1679296677--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---One Horse Town</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
+      <pubDate>Mon, 20 Mar 2023 03:17:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Crazy Water (100 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Crazy+Water</link>
+      <guid isPermaLink="false">Frippertron-1679297606--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Crazy Water</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
+      <pubDate>Mon, 20 Mar 2023 03:33:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
