@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 17:52:38 +0000</lastBuildDate>
-    <item>
-      <title>Blackfield - Christenings (8 plays)</title>
-      <link>https://www.last.fm/music/Blackfield/_/Christenings</link>
-      <guid isPermaLink="false">TalonsOfFire-1679001708--8e67406d-de61-4e6b-a2a1-5a3725484527---Christenings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aae636b25ecdd1819da378ea82bff6ad.jpg" length="29352" type="image/jpeg"/>
-      <pubDate>Thu, 16 Mar 2023 17:21:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Haruka Nakamura - 夕べの祈り (4 plays)</title>
-      <link>https://www.last.fm/music/Haruka+Nakamura/_/%E5%A4%95%E3%81%B9%E3%81%AE%E7%A5%88%E3%82%8A</link>
-      <guid isPermaLink="false">TalonsOfFire-1679001999--ffcb192d-4dd8-4c92-b387-f1e711a8ffb8---夕べの祈り</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aaa26e0d5e514b34b0472f9ed5146fea.png" length="100947" type="image/png"/>
-      <pubDate>Thu, 16 Mar 2023 17:26:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Mar 2023 18:22:19 +0000</lastBuildDate>
     <item>
       <title>Phoebe Bridgers - Chinese Satellite (6 plays)</title>
       <link>https://www.last.fm/music/Phoebe+Bridgers/_/Chinese+Satellite</link>
@@ -177,11 +163,18 @@
       <pubDate>Fri, 17 Mar 2023 14:09:10 -0400</pubDate>
     </item>
     <item>
-      <title>Devin Townsend Project - Fly (9 plays)</title>
+      <title>Devin Townsend Project - Fly (10 plays)</title>
       <link>https://www.last.fm/music/Devin+Townsend+Project/_/Fly</link>
       <guid isPermaLink="false">TalonsOfFire-1679076550--b00cb756-0259-4a50-bbcb-ad22186c5518---Fly</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8355dbb0fa2f47e9aad538df26fdf9d7.png" length="176808" type="image/png"/>
       <pubDate>Fri, 17 Mar 2023 14:09:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Devin Townsend Project - Fly (10 plays)</title>
+      <link>https://www.last.fm/music/Devin+Townsend+Project/_/Fly</link>
+      <guid isPermaLink="false">TalonsOfFire-1679076805--b00cb756-0259-4a50-bbcb-ad22186c5518---Fly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8355dbb0fa2f47e9aad538df26fdf9d7.png" length="176808" type="image/png"/>
+      <pubDate>Fri, 17 Mar 2023 14:13:25 -0400</pubDate>
     </item>
     <item>
       <title>Warpaint - Shadows (3 plays)</title>
@@ -271,6 +264,7 @@
       <title>Riverside - Driven to Destruction (6 plays)</title>
       <link>https://www.last.fm/music/Riverside/_/Driven+to+Destruction</link>
       <guid isPermaLink="false">TalonsOfFire-1679335603--Riverside---Driven to Destruction</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6284a64cafb141fd801730f49166f683.jpg" length="17056" type="image/jpeg"/>
       <pubDate>Mon, 20 Mar 2023 14:06:43 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1679420783--6d7b7cd4-254b-4c25-83f6-dd20f98ceacd---Us And The Rest</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6476d5e8da94fbfec64ffa74f09ac7ca.jpg" length="9932" type="image/jpeg"/>
       <pubDate>Tue, 21 Mar 2023 13:46:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>M83 - Earth To Sea (1 play)</title>
+      <link>https://www.last.fm/music/M83/_/Earth+To+Sea</link>
+      <guid isPermaLink="false">TalonsOfFire-1679421114--6d7b7cd4-254b-4c25-83f6-dd20f98ceacd---Earth To Sea</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6476d5e8da94fbfec64ffa74f09ac7ca.jpg" length="9932" type="image/jpeg"/>
+      <pubDate>Tue, 21 Mar 2023 13:51:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
