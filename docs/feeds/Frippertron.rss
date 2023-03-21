@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 02:44:48 +0000</lastBuildDate>
-    <item>
-      <title>James Brown - I Got The Feelin' (3 plays)</title>
-      <link>https://www.last.fm/music/James+Brown/_/I+Got+The+Feelin%27</link>
-      <guid isPermaLink="false">Frippertron-1679289132--James Brown---I Got The Feelin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a733e87bfededb75967d7aae9a2fb8a9.jpg" length="19063" type="image/jpeg"/>
-      <pubDate>Mon, 20 Mar 2023 01:12:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>James Brown - Say It Loud, I'm Black and I'm Proud (1 play)</title>
-      <link>https://www.last.fm/music/James+Brown/_/Say+It+Loud,+I%27m+Black+and+I%27m+Proud</link>
-      <guid isPermaLink="false">Frippertron-1679289298--James Brown---Say It Loud, I'm Black and I'm Proud</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a733e87bfededb75967d7aae9a2fb8a9.jpg" length="19063" type="image/jpeg"/>
-      <pubDate>Mon, 20 Mar 2023 01:14:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Mar 2023 02:56:32 +0000</lastBuildDate>
     <item>
       <title>James Brown - Get Up (I Feel Like Being A) Sex Machine (10 plays)</title>
       <link>https://www.last.fm/music/James+Brown/_/Get+Up+(I+Feel+Like+Being+A)+Sex+Machine</link>
@@ -268,7 +254,7 @@
       <pubDate>Mon, 20 Mar 2023 05:33:29 -0400</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - For Your Life (25 plays)</title>
+      <title>Led Zeppelin - For Your Life (26 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
       <guid isPermaLink="false">Frippertron-1679305042--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1679366215--678d88b2-87b0-403b-b63d-5da7465aecc3---In the Light</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
       <pubDate>Mon, 20 Mar 2023 22:36:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Down by the Seaside (31 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Down+by+the+Seaside</link>
+      <guid isPermaLink="false">Frippertron-1679366744--678d88b2-87b0-403b-b63d-5da7465aecc3---Down by the Seaside</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
+      <pubDate>Mon, 20 Mar 2023 22:45:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - For Your Life (26 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
+      <guid isPermaLink="false">Frippertron-1679367074--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Mon, 20 Mar 2023 22:51:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
