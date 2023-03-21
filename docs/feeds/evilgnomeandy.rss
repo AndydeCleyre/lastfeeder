@@ -7,7 +7,14 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 16:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2023 17:15:38 +0000</lastBuildDate>
+    <item>
+      <title>Dave Rawlings Machine - Ruby (13 plays)</title>
+      <link>https://www.last.fm/music/Dave+Rawlings+Machine/_/Ruby</link>
+      <guid isPermaLink="false">evilgnomeandy-1678578886--e44e57a8-c8fb-4497-b926-81d56c4dd527---Ruby</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f33fd6ec252f96a96d4b785c1cc6c720.jpg" length="25856" type="image/jpeg"/>
+      <pubDate>Sat, 11 Mar 2023 18:54:46 -0500</pubDate>
+    </item>
     <item>
       <title>Caspar Babypants - Undo Your Mind (16 plays)</title>
       <link>https://www.last.fm/music/Caspar+Babypants/_/Undo+Your+Mind</link>
@@ -124,6 +131,7 @@
       <title>Taggy Matcher - Rapper's Delight - Dub Version (31 plays)</title>
       <link>https://www.last.fm/music/Taggy+Matcher/_/Rapper%27s+Delight+-+Dub+Version</link>
       <guid isPermaLink="false">evilgnomeandy-1678916819--Taggy Matcher---Rapper's Delight - Dub Version</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd8908a369ff45c174431b30c99fb130.jpg" length="19566" type="image/jpeg"/>
       <pubDate>Wed, 15 Mar 2023 17:46:59 -0400</pubDate>
     </item>
     <item>
@@ -349,13 +357,6 @@
       <guid isPermaLink="false">evilgnomeandy-1679183272--ccce2053-7007-4c36-b1e7-f8fcf5023a12---Come On Eileen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cf0a0b11c0bd4608ac391e9fa0038204.png" length="212270" type="image/png"/>
       <pubDate>Sat, 18 Mar 2023 19:47:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Mates of State - Now (1 play)</title>
-      <link>https://www.last.fm/music/Mates+of+State/_/Now</link>
-      <guid isPermaLink="false">evilgnomeandy-1679417202--e9c97fdb-9fa0-4955-9a6c-1c43e1ac3f64---Now</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3e51738cee44ee287c34f05f9c89d5a.png" length="143355" type="image/png"/>
-      <pubDate>Tue, 21 Mar 2023 12:46:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
