@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 19:13:29 +0000</lastBuildDate>
-    <item>
-      <title>Moglii - Fantasy (1 play)</title>
-      <link>https://www.last.fm/music/Moglii/_/Fantasy</link>
-      <guid isPermaLink="false">rockijosh-1679410828--f84067d3-2058-4c0a-b7d6-6a89d168d70f---Fantasy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9d83c4ccb4a773d152e19efd49eccd2.jpg" length="23132" type="image/jpeg"/>
-      <pubDate>Tue, 21 Mar 2023 11:00:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Moglii - Varykino (1 play)</title>
-      <link>https://www.last.fm/music/Moglii/_/Varykino</link>
-      <guid isPermaLink="false">rockijosh-1679411045--f84067d3-2058-4c0a-b7d6-6a89d168d70f---Varykino</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9d83c4ccb4a773d152e19efd49eccd2.jpg" length="23132" type="image/jpeg"/>
-      <pubDate>Tue, 21 Mar 2023 11:04:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Moglii - Faces (1 play)</title>
-      <link>https://www.last.fm/music/Moglii/_/Faces</link>
-      <guid isPermaLink="false">rockijosh-1679411158--f84067d3-2058-4c0a-b7d6-6a89d168d70f---Faces</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9d83c4ccb4a773d152e19efd49eccd2.jpg" length="23132" type="image/jpeg"/>
-      <pubDate>Tue, 21 Mar 2023 11:05:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Mar 2023 19:25:29 +0000</lastBuildDate>
     <item>
       <title>Moglii - More &amp; More (1 play)</title>
       <link>https://www.last.fm/music/Moglii/_/More+&amp;+More</link>
@@ -313,7 +292,6 @@
       <title>Moglii - Away from Me (2 plays)</title>
       <link>https://www.last.fm/music/Moglii/_/Away+from+Me</link>
       <guid isPermaLink="false">rockijosh-1679424499--f84067d3-2058-4c0a-b7d6-6a89d168d70f---Away from Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e911d68e00b6a5a9c3394859dd43eb5b.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Tue, 21 Mar 2023 14:48:19 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">rockijosh-1679425675--f84067d3-2058-4c0a-b7d6-6a89d168d70f---High</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0346d43b8dcc1307beb62cc5674dc5af.jpg" length="26585" type="image/jpeg"/>
       <pubDate>Tue, 21 Mar 2023 15:07:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Moglii - Same (1 play)</title>
+      <link>https://www.last.fm/music/Moglii/_/Same</link>
+      <guid isPermaLink="false">rockijosh-1679425894--f84067d3-2058-4c0a-b7d6-6a89d168d70f---Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0346d43b8dcc1307beb62cc5674dc5af.jpg" length="26585" type="image/jpeg"/>
+      <pubDate>Tue, 21 Mar 2023 15:11:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Luke Combs - 5 Leaf Clover (1 play)</title>
+      <link>https://www.last.fm/music/Luke+Combs/_/5+Leaf+Clover</link>
+      <guid isPermaLink="false">rockijosh-1679426196--c20ee61f-071f-4e65-9c81-45ee931a54ce---5 Leaf Clover</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7cf5e614081b5d8c210c1b571d9c8180.png" length="115819" type="image/png"/>
+      <pubDate>Tue, 21 Mar 2023 15:16:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>100 gecs - Dumbest Girl Alive (1 play)</title>
+      <link>https://www.last.fm/music/100+gecs/_/Dumbest+Girl+Alive</link>
+      <guid isPermaLink="false">rockijosh-1679426408--d6d45dda-2377-4faa-947b-e071efa085c0---Dumbest Girl Alive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb9f1b72089584f998c5f8260517951b.jpg" length="20761" type="image/jpeg"/>
+      <pubDate>Tue, 21 Mar 2023 15:20:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
