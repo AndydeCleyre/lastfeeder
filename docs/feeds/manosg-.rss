@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 17:40:07 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - Ending Credits (4 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Ending+Credits</link>
-      <guid isPermaLink="false">manosg--1679301714--c14b4180-dc87-481e-b17a-64e4150f90f6---Ending Credits</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Mon, 20 Mar 2023 04:41:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - Weakness (4 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Weakness</link>
-      <guid isPermaLink="false">manosg--1679301930--c14b4180-dc87-481e-b17a-64e4150f90f6---Weakness</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Mon, 20 Mar 2023 04:45:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Mar 2023 17:53:11 +0000</lastBuildDate>
     <item>
       <title>Opeth - Ghost of Perdition (4 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Ghost+of+Perdition</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1679419696--DoomSword---Woden’s Reign</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cd1ce3f566528808a253ab4209fe655.png" length="155237" type="image/png"/>
       <pubDate>Tue, 21 Mar 2023 13:28:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>DoomSword - Deathbringer (2 plays)</title>
+      <link>https://www.last.fm/music/DoomSword/_/Deathbringer</link>
+      <guid isPermaLink="false">manosg--1679420118--779a6b10-0eec-4bcc-8fb7-eb54e9888d23---Deathbringer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cd1ce3f566528808a253ab4209fe655.png" length="155237" type="image/png"/>
+      <pubDate>Tue, 21 Mar 2023 13:35:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>DoomSword - The Siege (2 plays)</title>
+      <link>https://www.last.fm/music/DoomSword/_/The+Siege</link>
+      <guid isPermaLink="false">manosg--1679420585--779a6b10-0eec-4bcc-8fb7-eb54e9888d23---The Siege</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cd1ce3f566528808a253ab4209fe655.png" length="155237" type="image/png"/>
+      <pubDate>Tue, 21 Mar 2023 13:43:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
