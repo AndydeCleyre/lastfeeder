@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 17:15:04 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - Closure (6 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Closure</link>
-      <guid isPermaLink="false">manosg--1679300601--c14b4180-dc87-481e-b17a-64e4150f90f6---Closure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Mon, 20 Mar 2023 04:23:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Mar 2023 17:27:29 +0000</lastBuildDate>
     <item>
       <title>Opeth - Hope Leaves (5 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Hope+Leaves</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1679418584--779a6b10-0eec-4bcc-8fb7-eb54e9888d23---Resound the Horn: Odin's Hail</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5fb97748ff10e03a6546aee0a289ddc.jpg" length="22014" type="image/jpeg"/>
       <pubDate>Tue, 21 Mar 2023 13:09:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>DoomSword - Heathen Assault (2 plays)</title>
+      <link>https://www.last.fm/music/DoomSword/_/Heathen+Assault</link>
+      <guid isPermaLink="false">manosg--1679418848--779a6b10-0eec-4bcc-8fb7-eb54e9888d23---Heathen Assault</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cd1ce3f566528808a253ab4209fe655.png" length="155237" type="image/png"/>
+      <pubDate>Tue, 21 Mar 2023 13:14:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
