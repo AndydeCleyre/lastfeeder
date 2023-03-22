@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 18:53:28 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - Beneath the Mire (4 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Beneath+the+Mire</link>
-      <guid isPermaLink="false">manosg--1679303868--c14b4180-dc87-481e-b17a-64e4150f90f6---Beneath the Mire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dd7887ca697e85bc060a200a1d47eeb.jpg" length="17693" type="image/jpeg"/>
-      <pubDate>Mon, 20 Mar 2023 05:17:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - Atonement (4 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Atonement</link>
-      <guid isPermaLink="false">manosg--1679307151--c14b4180-dc87-481e-b17a-64e4150f90f6---Atonement</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dd7887ca697e85bc060a200a1d47eeb.jpg" length="17693" type="image/jpeg"/>
-      <pubDate>Mon, 20 Mar 2023 06:12:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - Reverie / Harlequin Forest (3 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Reverie+%2F+Harlequin+Forest</link>
-      <guid isPermaLink="false">manosg--1679307542--c14b4180-dc87-481e-b17a-64e4150f90f6---Reverie / Harlequin Forest</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5dd7887ca697e85bc060a200a1d47eeb.jpg" length="17693" type="image/jpeg"/>
-      <pubDate>Mon, 20 Mar 2023 06:19:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Mar 2023 06:52:24 +0000</lastBuildDate>
     <item>
       <title>Opeth - Hours of Wealth (3 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Hours+of+Wealth</link>
@@ -352,11 +331,32 @@
       <pubDate>Tue, 21 Mar 2023 13:51:26 -0400</pubDate>
     </item>
     <item>
-      <title>DoomSword - My Name Will Live On (2 plays)</title>
+      <title>DoomSword - My Name Will Live On (3 plays)</title>
       <link>https://www.last.fm/music/DoomSword/_/My+Name+Will+Live+On</link>
       <guid isPermaLink="false">manosg--1679421589--779a6b10-0eec-4bcc-8fb7-eb54e9888d23---My Name Will Live On</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cd1ce3f566528808a253ab4209fe655.png" length="155237" type="image/png"/>
       <pubDate>Tue, 21 Mar 2023 13:59:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Crimson Glory - Azrael (1 play)</title>
+      <link>https://www.last.fm/music/Crimson+Glory/_/Azrael</link>
+      <guid isPermaLink="false">manosg--1679424005--83560efc-3ead-446a-9652-02476a5f18c3---Azrael</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae55cc4b91e8053eeabf035f458a12c2.jpg" length="26425" type="image/jpeg"/>
+      <pubDate>Tue, 21 Mar 2023 14:40:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>DoomSword - My Name Will Live On (3 plays)</title>
+      <link>https://www.last.fm/music/DoomSword/_/My+Name+Will+Live+On</link>
+      <guid isPermaLink="false">manosg--1679424006--779a6b10-0eec-4bcc-8fb7-eb54e9888d23---My Name Will Live On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cd1ce3f566528808a253ab4209fe655.png" length="155237" type="image/png"/>
+      <pubDate>Tue, 21 Mar 2023 14:40:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Crimson Glory - Where Dragons Rule (7 plays)</title>
+      <link>https://www.last.fm/music/Crimson+Glory/_/Where+Dragons+Rule</link>
+      <guid isPermaLink="false">manosg--1679467580--83560efc-3ead-446a-9652-02476a5f18c3---Where Dragons Rule</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af84195fb59241c1bb35e015393cae5a.jpg" length="26044" type="image/jpeg"/>
+      <pubDate>Wed, 22 Mar 2023 02:46:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
