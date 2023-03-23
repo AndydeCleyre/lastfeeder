@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Mar 2023 06:22:06 +0000</lastBuildDate>
-    <item>
-      <title>Gentle Giant - I Lost My Head (22 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/I+Lost+My+Head</link>
-      <guid isPermaLink="false">Frippertron-1679479976--f795c501-1c41-4be2-bc2a-875eba75aa31---I Lost My Head</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88e9d8f495f646488979addbbb6cedee.jpg" length="24946" type="image/jpeg"/>
-      <pubDate>Wed, 22 Mar 2023 06:12:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gentle Giant - Another Show (5 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/Another+Show</link>
-      <guid isPermaLink="false">Frippertron-1679480376--f795c501-1c41-4be2-bc2a-875eba75aa31---Another Show</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88e9d8f495f646488979addbbb6cedee.jpg" length="24946" type="image/jpeg"/>
-      <pubDate>Wed, 22 Mar 2023 06:19:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Mar 2023 06:52:22 +0000</lastBuildDate>
     <item>
       <title>Gentle Giant - Empty City (3 plays)</title>
       <link>https://www.last.fm/music/Gentle+Giant/_/Empty+City</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1679551005--8538e728-ca0b-4321-b7e5-cff6565dd4c0---Sweetest Perfection</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ce426273e3e42afc2cda381a14912b0.png" length="43638" type="image/png"/>
       <pubDate>Thu, 23 Mar 2023 01:56:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Crunge (41 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Crunge</link>
+      <guid isPermaLink="false">Frippertron-1679553951--678d88b2-87b0-403b-b63d-5da7465aecc3---The Crunge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
+      <pubDate>Thu, 23 Mar 2023 02:45:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Song Remains the Same (120 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1679554150--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
+      <pubDate>Thu, 23 Mar 2023 02:49:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
