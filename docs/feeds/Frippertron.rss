@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Mar 2023 05:27:53 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Joe the Lion (61 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Joe+the+Lion</link>
-      <guid isPermaLink="false">Frippertron-1679478136--5441c29d-3602-4898-b1a1-b77fa23b8e50---Joe the Lion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Wed, 22 Mar 2023 05:42:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - "Heroes" (115 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/%22Heroes%22</link>
-      <guid isPermaLink="false">Frippertron-1679478328--5441c29d-3602-4898-b1a1-b77fa23b8e50---"Heroes"</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Wed, 22 Mar 2023 05:45:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Mar 2023 05:39:39 +0000</lastBuildDate>
     <item>
       <title>David Sylvian - Forbidden Colours (312 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Forbidden+Colours</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1679549133--08614e29-9470-4547-9d2c-d13287727173---DOWN TOWN</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad375c7964274ad09f8a8cc7b5596bef.png" length="101924" type="image/png"/>
       <pubDate>Thu, 23 Mar 2023 01:25:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - The World Awake (64 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/The+World+Awake</link>
+      <guid isPermaLink="false">Frippertron-1679549389--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The World Awake</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d8b06904529497fc944fa5350833521.png" length="131878" type="image/png"/>
+      <pubDate>Thu, 23 Mar 2023 01:29:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Life Of Surprises (53 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Life+Of+Surprises</link>
+      <guid isPermaLink="false">Frippertron-1679549655--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Life Of Surprises</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d8b06904529497fc944fa5350833521.png" length="131878" type="image/png"/>
+      <pubDate>Thu, 23 Mar 2023 01:34:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
