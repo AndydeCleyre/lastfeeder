@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Mar 2023 18:39:44 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - Good Grief (2 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Good+Grief</link>
-      <guid isPermaLink="false">manosg--1679476554--67f66c07-6e61-4026-ade5-7e782fad3a5d---Good Grief</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80cebe520d504911bd24d1daaba6b167.png" length="196678" type="image/png"/>
-      <pubDate>Wed, 22 Mar 2023 05:15:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Foo Fighters - Oh, George (2 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Oh,+George</link>
-      <guid isPermaLink="false">manosg--1679476791--67f66c07-6e61-4026-ade5-7e782fad3a5d---Oh, George</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80cebe520d504911bd24d1daaba6b167.png" length="196678" type="image/png"/>
-      <pubDate>Wed, 22 Mar 2023 05:19:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Foo Fighters - For All the Cows (2 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/For+All+the+Cows</link>
-      <guid isPermaLink="false">manosg--1679478963--67f66c07-6e61-4026-ade5-7e782fad3a5d---For All the Cows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80cebe520d504911bd24d1daaba6b167.png" length="196678" type="image/png"/>
-      <pubDate>Wed, 22 Mar 2023 05:56:03 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Mar 2023 06:52:19 +0000</lastBuildDate>
     <item>
       <title>Foo Fighters - X-Static (2 plays)</title>
       <link>https://www.last.fm/music/Foo+Fighters/_/X-Static</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1679592550--The Gathering---the big sleep - live</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2a0152132ae4af5a0cb4b5bec543220.jpg" length="24258" type="image/jpeg"/>
       <pubDate>Thu, 23 Mar 2023 13:29:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Gathering - On Most Surfaces - Live (1 play)</title>
+      <link>https://www.last.fm/music/The+Gathering/_/On+Most+Surfaces+-+Live</link>
+      <guid isPermaLink="false">manosg--1679639980--The Gathering---On Most Surfaces - Live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2a0152132ae4af5a0cb4b5bec543220.jpg" length="24258" type="image/jpeg"/>
+      <pubDate>Fri, 24 Mar 2023 02:39:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lana Del Rey - The Grants (1 play)</title>
+      <link>https://www.last.fm/music/Lana+Del+Rey/_/The+Grants</link>
+      <guid isPermaLink="false">manosg--1679640105--b7539c32-53e7-4908-bda3-81449c367da6---The Grants</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e7cf82af5e97d8697759218b3ae3798.jpg" length="17656" type="image/jpeg"/>
+      <pubDate>Fri, 24 Mar 2023 02:41:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lana Del Rey - Did you know that there's a tunnel under Ocean Blvd (1 play)</title>
+      <link>https://www.last.fm/music/Lana+Del+Rey/_/Did+you+know+that+there%27s+a+tunnel+under+Ocean+Blvd</link>
+      <guid isPermaLink="false">manosg--1679640401--b7539c32-53e7-4908-bda3-81449c367da6---Did you know that there's a tunnel under Ocean Blvd</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e7cf82af5e97d8697759218b3ae3798.jpg" length="17656" type="image/jpeg"/>
+      <pubDate>Fri, 24 Mar 2023 02:46:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
