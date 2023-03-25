@@ -7,18 +7,11 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Mar 2023 08:38:30 +0000</lastBuildDate>
-    <item>
-      <title>JPEGMAFIA - STEPPA PIG (1 play)</title>
-      <link>https://www.last.fm/music/JPEGMAFIA/_/STEPPA+PIG</link>
-      <guid isPermaLink="false">Arcade1996-1679579736--JPEGMAFIA---STEPPA PIG</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf81cd536efbe76e3b8bd540a651d5b5.jpg" length="27607" type="image/jpeg"/>
-      <pubDate>Thu, 23 Mar 2023 09:55:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Mar 2023 11:24:49 +0000</lastBuildDate>
     <item>
       <title>JPEGMAFIA - Scaring The Hoes (4 plays)</title>
       <link>https://www.last.fm/music/JPEGMAFIA/_/Scaring+The+Hoes</link>
-      <guid isPermaLink="false">Arcade1996-1679579944--JPEGMAFIA---Scaring The Hoes</guid>
+      <guid isPermaLink="false">Arcade1996-1679579944--c42e60f4-4520-4954-b6e4-82bbdf532c11---Scaring The Hoes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf81cd536efbe76e3b8bd540a651d5b5.jpg" length="27607" type="image/jpeg"/>
       <pubDate>Thu, 23 Mar 2023 09:59:04 -0400</pubDate>
     </item>
@@ -116,7 +109,7 @@
     <item>
       <title>03 Greedo - Buss Me A Script (1 play)</title>
       <link>https://www.last.fm/music/03+Greedo/_/Buss+Me+A+Script</link>
-      <guid isPermaLink="false">Arcade1996-1679617698--03 Greedo---Buss Me A Script</guid>
+      <guid isPermaLink="false">Arcade1996-1679617698--66c0ac71-339a-44a5-a549-66d305b61fce---Buss Me A Script</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b77695ed16980ce29baf0bb00ce0a9.jpg" length="25926" type="image/jpeg"/>
       <pubDate>Thu, 23 Mar 2023 20:28:18 -0400</pubDate>
     </item>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1679732425--Black Country, New Road---I Won’t Always Love You - Live at Bush Hall</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73a09ce78b38c58b16e876eda5cf4fe5.jpg" length="11827" type="image/jpeg"/>
       <pubDate>Sat, 25 Mar 2023 04:20:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Country, New Road - Across the Pond Friend - Live at Bush Hall (1 play)</title>
+      <link>https://www.last.fm/music/Black+Country,+New+Road/_/Across+the+Pond+Friend+-+Live+at+Bush+Hall</link>
+      <guid isPermaLink="false">Arcade1996-1679732676--Black Country, New Road---Across the Pond Friend - Live at Bush Hall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73a09ce78b38c58b16e876eda5cf4fe5.jpg" length="11827" type="image/jpeg"/>
+      <pubDate>Sat, 25 Mar 2023 04:24:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
