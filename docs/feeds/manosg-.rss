@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Mar 2023 15:38:43 +0000</lastBuildDate>
-    <item>
-      <title>Lana Del Rey - Peppers (feat. Tommy Genesis) (1 play)</title>
-      <link>https://www.last.fm/music/Lana+Del+Rey/_/Peppers+(feat.+Tommy+Genesis)</link>
-      <guid isPermaLink="false">manosg--1679649329--Lana Del Rey---Peppers (feat. Tommy Genesis)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9205f75960999a17999e4f2cbd8db435.png" length="131976" type="image/png"/>
-      <pubDate>Fri, 24 Mar 2023 05:15:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Mar 2023 15:52:14 +0000</lastBuildDate>
     <item>
       <title>Lana Del Rey - Taco Truck x VB (1 play)</title>
       <link>https://www.last.fm/music/Lana+Del+Rey/_/Taco+Truck+x+VB</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1679931072--The Gathering---my electricity - live</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2a0152132ae4af5a0cb4b5bec543220.jpg" length="24258" type="image/jpeg"/>
       <pubDate>Mon, 27 Mar 2023 11:31:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Gathering - sand and mercury - live (1 play)</title>
+      <link>https://www.last.fm/music/The+Gathering/_/sand+and+mercury+-+live</link>
+      <guid isPermaLink="false">manosg--1679931283--The Gathering---sand and mercury - live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2a0152132ae4af5a0cb4b5bec543220.jpg" length="24258" type="image/jpeg"/>
+      <pubDate>Mon, 27 Mar 2023 11:34:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
