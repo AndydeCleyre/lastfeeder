@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Mar 2023 10:38:48 +0000</lastBuildDate>
-    <item>
-      <title>Cruachan - The Dead (1 play)</title>
-      <link>https://www.last.fm/music/Cruachan/_/The+Dead</link>
-      <guid isPermaLink="false">manosg--1679851321--bc9e5155-c3b9-4e68-8d73-6ff12a15edbe---The Dead</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddcc83f75b075cd6a796e8b7a55094e6.jpg" length="38762" type="image/jpeg"/>
-      <pubDate>Sun, 26 Mar 2023 13:22:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Smoulder - Ilian of Garathorm (5 plays)</title>
-      <link>https://www.last.fm/music/Smoulder/_/Ilian+of+Garathorm</link>
-      <guid isPermaLink="false">manosg--1679896511--45e0e1a6-d574-4fa4-ae10-bb7652c5138d---Ilian of Garathorm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/034518164592f7a56be06f8140cbf651.jpg" length="26310" type="image/jpeg"/>
-      <pubDate>Mon, 27 Mar 2023 01:55:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Mar 2023 10:52:35 +0000</lastBuildDate>
     <item>
       <title>Smoulder - The Sword Woman (8 plays)</title>
       <link>https://www.last.fm/music/Smoulder/_/The+Sword+Woman</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1679999449--d45641da-371c-430e-8907-6086590ab282---Dúlamán</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffb8e21992bdafe7946804846cbfd992.jpg" length="21108" type="image/jpeg"/>
       <pubDate>Tue, 28 Mar 2023 06:30:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Clannad - Cumha Eoghain Rua Uí Néill (1 play)</title>
+      <link>https://www.last.fm/music/Clannad/_/Cumha+Eoghain+Rua+U%C3%AD+N%C3%A9ill</link>
+      <guid isPermaLink="false">manosg--1679999724--d45641da-371c-430e-8907-6086590ab282---Cumha Eoghain Rua Uí Néill</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffb8e21992bdafe7946804846cbfd992.jpg" length="21108" type="image/jpeg"/>
+      <pubDate>Tue, 28 Mar 2023 06:35:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Clannad - Two Sisters (1 play)</title>
+      <link>https://www.last.fm/music/Clannad/_/Two+Sisters</link>
+      <guid isPermaLink="false">manosg--1680000130--d45641da-371c-430e-8907-6086590ab282---Two Sisters</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffb8e21992bdafe7946804846cbfd992.jpg" length="21108" type="image/jpeg"/>
+      <pubDate>Tue, 28 Mar 2023 06:42:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
