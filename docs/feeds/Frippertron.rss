@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Mar 2023 07:37:17 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - She Sells (66 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/She+Sells</link>
-      <guid isPermaLink="false">Frippertron-1679970087--331ce348-1b08-40b9-8ed7-0763b92bd003---She Sells</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
-      <pubDate>Mon, 27 Mar 2023 22:21:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Mar 2023 07:52:41 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - Casanova (56 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Casanova</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1679988019--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Arrow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 28 Mar 2023 03:20:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Lemmings (35 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Lemmings</link>
+      <guid isPermaLink="false">Frippertron-1679988701--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 28 Mar 2023 03:31:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
