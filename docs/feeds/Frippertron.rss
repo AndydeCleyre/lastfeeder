@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Mar 2023 06:22:25 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Virginia Plain (137 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Virginia+Plain</link>
-      <guid isPermaLink="false">Frippertron-1679998566--331ce348-1b08-40b9-8ed7-0763b92bd003---Virginia Plain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
-      <pubDate>Tue, 28 Mar 2023 06:16:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Re-Make/Re-Model (85 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Re-Make%2FRe-Model</link>
-      <guid isPermaLink="false">Frippertron-1679998747--331ce348-1b08-40b9-8ed7-0763b92bd003---Re-Make/Re-Model</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
-      <pubDate>Tue, 28 Mar 2023 06:19:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Mar 2023 07:16:21 +0000</lastBuildDate>
     <item>
       <title>Ivan Lins - Não Tem Perdão (28 plays)</title>
       <link>https://www.last.fm/music/Ivan+Lins/_/N%C3%A3o+Tem+Perd%C3%A3o</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1680069914--588dea29-eea3-456b-a815-3ee04f75c8e7---What a Fool Believes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cded33b7ac26492184feeec2d07d0231.png" length="181063" type="image/png"/>
       <pubDate>Wed, 29 Mar 2023 02:05:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>山下達郎 - LOVE SPACE (42 plays)</title>
+      <link>https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/LOVE+SPACE</link>
+      <guid isPermaLink="false">Frippertron-1680073674--ad62391d-ab7e-4ac9-9ce8-3704bc6746bb---LOVE SPACE</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55a5a8f6a858848614246cd61494cebd.jpg" length="32405" type="image/jpeg"/>
+      <pubDate>Wed, 29 Mar 2023 03:07:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>山下達郎 - いつか (13 plays)</title>
+      <link>https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%84%E3%81%A4%E3%81%8B</link>
+      <guid isPermaLink="false">Frippertron-1680073950--ad62391d-ab7e-4ac9-9ce8-3704bc6746bb---いつか</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/423a28b9ddb64c99cceabbe232757876.jpg" length="15744" type="image/jpeg"/>
+      <pubDate>Wed, 29 Mar 2023 03:12:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
