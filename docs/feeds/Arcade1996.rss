@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Mar 2023 13:31:54 +0000</lastBuildDate>
-    <item>
-      <title>Oingo Boingo - Dead Man's Party (12 plays)</title>
-      <link>https://www.last.fm/music/Oingo+Boingo/_/Dead+Man%27s+Party</link>
-      <guid isPermaLink="false">Arcade1996-1679962160--166bc1cb-a2b7-412d-bcd5-5f439d2cf5f1---Dead Man's Party</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dde13d9d5d0f8db3a16ab6301a236f9.jpg" length="42966" type="image/jpeg"/>
-      <pubDate>Mon, 27 Mar 2023 20:09:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Mar 2023 13:52:22 +0000</lastBuildDate>
     <item>
       <title>Lonnie Holley - I Am A Part Of The Wonder (8 plays)</title>
       <link>https://www.last.fm/music/Lonnie+Holley/_/I+Am+A+Part+Of+The+Wonder</link>
@@ -275,7 +268,7 @@
       <pubDate>Tue, 28 Mar 2023 20:20:01 -0400</pubDate>
     </item>
     <item>
-      <title>UNKLE - Be There (8 plays)</title>
+      <title>UNKLE - Be There (9 plays)</title>
       <link>https://www.last.fm/music/UNKLE/_/Be+There</link>
       <guid isPermaLink="false">Arcade1996-1680049399--6648391e-7890-4f6c-b939-976f215195d3---Be There</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17cf6e73d91b9b30e9cb806d4ba539ea.jpg" length="32823" type="image/jpeg"/>
@@ -306,6 +299,7 @@
       <title>Lonnie Holley - I Am A Part Of The Wonder (8 plays)</title>
       <link>https://www.last.fm/music/Lonnie+Holley/_/I+Am+A+Part+Of+The+Wonder</link>
       <guid isPermaLink="false">Arcade1996-1680093835--Lonnie Holley---I Am A Part Of The Wonder</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb441f90d0eb2ed840132140c210870d.png" length="174508" type="image/png"/>
       <pubDate>Wed, 29 Mar 2023 08:43:55 -0400</pubDate>
     </item>
     <item>
@@ -319,6 +313,7 @@
       <title>MC Tunes - The Only Rhyme That Bites (7 plays)</title>
       <link>https://www.last.fm/music/MC+Tunes/_/The+Only+Rhyme+That+Bites</link>
       <guid isPermaLink="false">Arcade1996-1680094685--66405420-3e2a-40d6-b369-8acf439bc353---The Only Rhyme That Bites</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44b56107d181405da44cf99a7f2a088e.jpg" length="36782" type="image/jpeg"/>
       <pubDate>Wed, 29 Mar 2023 08:58:05 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1680096235--1ba601a0-3401-4b28-8ddd-9af8203661e8---Lucky You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f68e7148bd33486fc842c6986aaec697.png" length="182380" type="image/png"/>
       <pubDate>Wed, 29 Mar 2023 09:23:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKLE - Be There (9 plays)</title>
+      <link>https://www.last.fm/music/UNKLE/_/Be+There</link>
+      <guid isPermaLink="false">Arcade1996-1680097420--6648391e-7890-4f6c-b939-976f215195d3---Be There</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17cf6e73d91b9b30e9cb806d4ba539ea.jpg" length="32823" type="image/jpeg"/>
+      <pubDate>Wed, 29 Mar 2023 09:43:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
