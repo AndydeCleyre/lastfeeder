@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Mar 2023 06:40:42 +0000</lastBuildDate>
-    <item>
-      <title>The Gathering - strange machines - live (1 play)</title>
-      <link>https://www.last.fm/music/The+Gathering/_/strange+machines+-+live</link>
-      <guid isPermaLink="false">manosg--1679930277--The Gathering---strange machines - live</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2a0152132ae4af5a0cb4b5bec543220.jpg" length="24258" type="image/jpeg"/>
-      <pubDate>Mon, 27 Mar 2023 11:17:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Gathering - nighttime birds - live (1 play)</title>
-      <link>https://www.last.fm/music/The+Gathering/_/nighttime+birds+-+live</link>
-      <guid isPermaLink="false">manosg--1679930662--The Gathering---nighttime birds - live</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2a0152132ae4af5a0cb4b5bec543220.jpg" length="24258" type="image/jpeg"/>
-      <pubDate>Mon, 27 Mar 2023 11:24:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Mar 2023 06:52:26 +0000</lastBuildDate>
     <item>
       <title>The Gathering - my electricity - live (1 play)</title>
       <link>https://www.last.fm/music/The+Gathering/_/my+electricity+-+live</link>
@@ -268,14 +254,14 @@
       <pubDate>Tue, 28 Mar 2023 11:36:43 -0400</pubDate>
     </item>
     <item>
-      <title>Shores of Null - The Last Flower (1 play)</title>
+      <title>Shores of Null - The Last Flower (2 plays)</title>
       <link>https://www.last.fm/music/Shores+of+Null/_/The+Last+Flower</link>
       <guid isPermaLink="false">manosg--1680018112--a2e60b17-960e-4e9c-8194-681b39d5613e---The Last Flower</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4646b3ce4bf318aed5baaf5d8e8173c6.jpg" length="8549" type="image/jpeg"/>
       <pubDate>Tue, 28 Mar 2023 11:41:52 -0400</pubDate>
     </item>
     <item>
-      <title>Shores of Null - Darkness Won't Take Me (1 play)</title>
+      <title>Shores of Null - Darkness Won't Take Me (2 plays)</title>
       <link>https://www.last.fm/music/Shores+of+Null/_/Darkness+Won%27t+Take+Me</link>
       <guid isPermaLink="false">manosg--1680018411--a2e60b17-960e-4e9c-8194-681b39d5613e---Darkness Won't Take Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4646b3ce4bf318aed5baaf5d8e8173c6.jpg" length="8549" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1680071511--a2e60b17-960e-4e9c-8194-681b39d5613e---Destination Woe</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4646b3ce4bf318aed5baaf5d8e8173c6.jpg" length="8549" type="image/jpeg"/>
       <pubDate>Wed, 29 Mar 2023 02:31:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Shores of Null - The Last Flower (2 plays)</title>
+      <link>https://www.last.fm/music/Shores+of+Null/_/The+Last+Flower</link>
+      <guid isPermaLink="false">manosg--1680071804--a2e60b17-960e-4e9c-8194-681b39d5613e---The Last Flower</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4646b3ce4bf318aed5baaf5d8e8173c6.jpg" length="8549" type="image/jpeg"/>
+      <pubDate>Wed, 29 Mar 2023 02:36:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Shores of Null - Darkness Won't Take Me (2 plays)</title>
+      <link>https://www.last.fm/music/Shores+of+Null/_/Darkness+Won%27t+Take+Me</link>
+      <guid isPermaLink="false">manosg--1680072429--a2e60b17-960e-4e9c-8194-681b39d5613e---Darkness Won't Take Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4646b3ce4bf318aed5baaf5d8e8173c6.jpg" length="8549" type="image/jpeg"/>
+      <pubDate>Wed, 29 Mar 2023 02:47:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
