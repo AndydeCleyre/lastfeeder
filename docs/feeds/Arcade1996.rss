@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Mar 2023 09:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Yves Tumor - Echolalia (22 plays)</title>
-      <link>https://www.last.fm/music/Yves+Tumor/_/Echolalia</link>
-      <guid isPermaLink="false">Arcade1996-1679998599--b675f327-4738-4af4-bb83-1adb0003f2d3---Echolalia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbe5afb95fe9e91a830a3a669e5ae992.jpg" length="12146" type="image/jpeg"/>
-      <pubDate>Tue, 28 Mar 2023 06:16:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>Zack Fox - triflin' (29 plays)</title>
-      <link>https://www.last.fm/music/Zack+Fox/_/triflin%27</link>
-      <guid isPermaLink="false">Arcade1996-1679998965--09a91c31-d6fb-4356-9d2f-ca9c8ce6de37---triflin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/39c840b9d8484090a155aa25280a73f3.jpg" length="24041" type="image/jpeg"/>
-      <pubDate>Tue, 28 Mar 2023 06:22:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Inspiral Carpets - Two Worlds Collide (9 plays)</title>
-      <link>https://www.last.fm/music/Inspiral+Carpets/_/Two+Worlds+Collide</link>
-      <guid isPermaLink="false">Arcade1996-1680002228--03c2e506-e8bb-4bd6-9693-5aa97c8eea1c---Two Worlds Collide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db73c36dc94649e9c9f4a2a0a87ac103.png" length="212423" type="image/png"/>
-      <pubDate>Tue, 28 Mar 2023 07:17:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joe Jackson - Another World (13 plays)</title>
-      <link>https://www.last.fm/music/Joe+Jackson/_/Another+World</link>
-      <guid isPermaLink="false">Arcade1996-1680003630--07f6d469-38f3-46da-9cfa-2f532422b84e---Another World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
-      <pubDate>Tue, 28 Mar 2023 07:40:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joe Jackson - Chinatown (6 plays)</title>
-      <link>https://www.last.fm/music/Joe+Jackson/_/Chinatown</link>
-      <guid isPermaLink="false">Arcade1996-1680004129--07f6d469-38f3-46da-9cfa-2f532422b84e---Chinatown</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
-      <pubDate>Tue, 28 Mar 2023 07:48:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joe Jackson - T.V. Age (4 plays)</title>
-      <link>https://www.last.fm/music/Joe+Jackson/_/T.V.+Age</link>
-      <guid isPermaLink="false">Arcade1996-1680004363--07f6d469-38f3-46da-9cfa-2f532422b84e---T.V. Age</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
-      <pubDate>Tue, 28 Mar 2023 07:52:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joe Jackson - Target (4 plays)</title>
-      <link>https://www.last.fm/music/Joe+Jackson/_/Target</link>
-      <guid isPermaLink="false">Arcade1996-1680004592--07f6d469-38f3-46da-9cfa-2f532422b84e---Target</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
-      <pubDate>Tue, 28 Mar 2023 07:56:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joe Jackson - Steppin' Out (8 plays)</title>
-      <link>https://www.last.fm/music/Joe+Jackson/_/Steppin%27+Out</link>
-      <guid isPermaLink="false">Arcade1996-1680004855--07f6d469-38f3-46da-9cfa-2f532422b84e---Steppin' Out</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
-      <pubDate>Tue, 28 Mar 2023 08:00:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joe Jackson - Breaking Us In Two (5 plays)</title>
-      <link>https://www.last.fm/music/Joe+Jackson/_/Breaking+Us+In+Two</link>
-      <guid isPermaLink="false">Arcade1996-1680005726--07f6d469-38f3-46da-9cfa-2f532422b84e---Breaking Us In Two</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d9b5b1398e4de9cd08097edb3357c1.jpg" length="13248" type="image/jpeg"/>
-      <pubDate>Tue, 28 Mar 2023 08:15:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Mar 2023 12:34:59 +0000</lastBuildDate>
     <item>
       <title>Oingo Boingo - Dead Man's Party (13 plays)</title>
       <link>https://www.last.fm/music/Oingo+Boingo/_/Dead+Man%27s+Party</link>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">Arcade1996-1680169030--2b87e134-b4a3-48d8-afac-9501d4c6e931---Sweet Harmony</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49e171b74a01c8b43f07cbdd13392886.jpg" length="11843" type="image/jpeg"/>
       <pubDate>Thu, 30 Mar 2023 05:37:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Madvillain - Accordion (13 plays)</title>
+      <link>https://www.last.fm/music/Madvillain/_/Accordion</link>
+      <guid isPermaLink="false">Arcade1996-1680169331--4e024037-14b7-4aea-99ad-c6ace63b9620---Accordion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/893fce336634c600b2bab31de7bbc9bd.jpg" length="15636" type="image/jpeg"/>
+      <pubDate>Thu, 30 Mar 2023 05:42:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Navy Blue - The Medium (1 play)</title>
+      <link>https://www.last.fm/music/Navy+Blue/_/The+Medium</link>
+      <guid isPermaLink="false">Arcade1996-1680178248--304c731f-ea4f-407c-b4fc-65131b1b2b37---The Medium</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/340faa3f2f2eca1173cdfb5b85545274.jpg" length="13340" type="image/jpeg"/>
+      <pubDate>Thu, 30 Mar 2023 08:10:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Navy Blue - Chosen (1 play)</title>
+      <link>https://www.last.fm/music/Navy+Blue/_/Chosen</link>
+      <guid isPermaLink="false">Arcade1996-1680178382--304c731f-ea4f-407c-b4fc-65131b1b2b37---Chosen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/340faa3f2f2eca1173cdfb5b85545274.jpg" length="13340" type="image/jpeg"/>
+      <pubDate>Thu, 30 Mar 2023 08:13:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Navy Blue - The One (1 play)</title>
+      <link>https://www.last.fm/music/Navy+Blue/_/The+One</link>
+      <guid isPermaLink="false">Arcade1996-1680178516--304c731f-ea4f-407c-b4fc-65131b1b2b37---The One</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/340faa3f2f2eca1173cdfb5b85545274.jpg" length="13340" type="image/jpeg"/>
+      <pubDate>Thu, 30 Mar 2023 08:15:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Navy Blue - To Fall In Love (feat. Budgie) (1 play)</title>
+      <link>https://www.last.fm/music/Navy+Blue/_/To+Fall+In+Love+(feat.+Budgie)</link>
+      <guid isPermaLink="false">Arcade1996-1680178665--304c731f-ea4f-407c-b4fc-65131b1b2b37---To Fall In Love (feat. Budgie)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/340faa3f2f2eca1173cdfb5b85545274.jpg" length="13340" type="image/jpeg"/>
+      <pubDate>Thu, 30 Mar 2023 08:17:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Navy Blue - Life's Terms (feat. Zeroh) (1 play)</title>
+      <link>https://www.last.fm/music/Navy+Blue/_/Life%27s+Terms+(feat.+Zeroh)</link>
+      <guid isPermaLink="false">Arcade1996-1680178841--304c731f-ea4f-407c-b4fc-65131b1b2b37---Life's Terms (feat. Zeroh)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/340faa3f2f2eca1173cdfb5b85545274.jpg" length="13340" type="image/jpeg"/>
+      <pubDate>Thu, 30 Mar 2023 08:20:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Navy Blue - Phases (1 play)</title>
+      <link>https://www.last.fm/music/Navy+Blue/_/Phases</link>
+      <guid isPermaLink="false">Arcade1996-1680179063--304c731f-ea4f-407c-b4fc-65131b1b2b37---Phases</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/340faa3f2f2eca1173cdfb5b85545274.jpg" length="13340" type="image/jpeg"/>
+      <pubDate>Thu, 30 Mar 2023 08:24:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Navy Blue - Kill Switch (1 play)</title>
+      <link>https://www.last.fm/music/Navy+Blue/_/Kill+Switch</link>
+      <guid isPermaLink="false">Arcade1996-1680179138--304c731f-ea4f-407c-b4fc-65131b1b2b37---Kill Switch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/340faa3f2f2eca1173cdfb5b85545274.jpg" length="13340" type="image/jpeg"/>
+      <pubDate>Thu, 30 Mar 2023 08:25:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Navy Blue - Window to the Soul (feat. Kelly Moonstone) (1 play)</title>
+      <link>https://www.last.fm/music/Navy+Blue/_/Window+to+the+Soul+(feat.+Kelly+Moonstone)</link>
+      <guid isPermaLink="false">Arcade1996-1680179338--304c731f-ea4f-407c-b4fc-65131b1b2b37---Window to the Soul (feat. Kelly Moonstone)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/340faa3f2f2eca1173cdfb5b85545274.jpg" length="13340" type="image/jpeg"/>
+      <pubDate>Thu, 30 Mar 2023 08:28:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
