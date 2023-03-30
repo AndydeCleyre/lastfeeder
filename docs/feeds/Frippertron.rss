@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Mar 2023 10:38:06 +0000</lastBuildDate>
-    <item>
-      <title>Steve Hackett - Star of Sirius (42 plays)</title>
-      <link>https://www.last.fm/music/Steve+Hackett/_/Star+of+Sirius</link>
-      <guid isPermaLink="false">Frippertron-1680154521--f4eb8346-052d-4a5c-8393-cba3aeadb4d9---Star of Sirius</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a07e9790b84342c3c237ff8d2f3d3927.jpg" length="22661" type="image/jpeg"/>
-      <pubDate>Thu, 30 Mar 2023 01:35:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Mar 2023 19:12:12 +0000</lastBuildDate>
     <item>
       <title>Steve Hackett - The Lovers (14 plays)</title>
       <link>https://www.last.fm/music/Steve+Hackett/_/The+Lovers</link>
@@ -341,7 +334,6 @@
       <title>The Jam - Girl on the Phone (13 plays)</title>
       <link>https://www.last.fm/music/The+Jam/_/Girl+on+the+Phone</link>
       <guid isPermaLink="false">Frippertron-1680171883--5493b1c7-53f8-4156-a4ee-1eec07bc977b---Girl on the Phone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd4527482549a7edc0b6b561a9308056.png" length="191616" type="image/png"/>
       <pubDate>Thu, 30 Mar 2023 06:24:43 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">Frippertron-1680172273--Destroyer---A Light Travels Down the Catwalk</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/940cb0e9cd76aeb346deee5d361e6f1b.png" length="56784" type="image/png"/>
       <pubDate>Thu, 30 Mar 2023 06:31:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - I Am the Sun (7 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/I+Am+the+Sun</link>
+      <guid isPermaLink="false">Frippertron-1680203420--3285dc48-9505-469d-ad8a-bdf2d3dba632---I Am the Sun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98852724fd97f5bb90b681f0af0e64cf.png" length="107374" type="image/png"/>
+      <pubDate>Thu, 30 Mar 2023 15:10:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
