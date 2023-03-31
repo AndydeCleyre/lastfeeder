@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Mar 2023 05:52:20 +0000</lastBuildDate>
-    <item>
-      <title>black midi - bmbmbm (147 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/bmbmbm</link>
-      <guid isPermaLink="false">Frippertron-1680169422--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---bmbmbm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a33696e9e7e4e838b4050ced65372a3.jpg" length="27178" type="image/jpeg"/>
-      <pubDate>Thu, 30 Mar 2023 05:43:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Mar 2023 06:22:18 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - Editions of You (65 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1680241449--3285dc48-9505-469d-ad8a-bdf2d3dba632---How They Suffer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9081bc90695f4d03b1eb54a844bff459.jpg" length="12572" type="image/jpeg"/>
       <pubDate>Fri, 31 Mar 2023 01:44:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - Animus (31 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Animus</link>
+      <guid isPermaLink="false">Frippertron-1680241804--3285dc48-9505-469d-ad8a-bdf2d3dba632---Animus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9081bc90695f4d03b1eb54a844bff459.jpg" length="12572" type="image/jpeg"/>
+      <pubDate>Fri, 31 Mar 2023 01:50:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
