@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Mar 2023 21:24:09 +0000</lastBuildDate>
-    <item>
-      <title>Moksi - Tidalwave (1 play)</title>
-      <link>https://www.last.fm/music/Moksi/_/Tidalwave</link>
-      <guid isPermaLink="false">rockijosh-1680286767--112adf9e-c511-4d52-bc3d-fc2bafa442ca---Tidalwave</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e3aa1e4aa373362f611029d6f8df7ff.jpg" length="21587" type="image/jpeg"/>
-      <pubDate>Fri, 31 Mar 2023 14:19:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Mar 2023 21:37:25 +0000</lastBuildDate>
     <item>
       <title>RÜFÜS DU SOL - Eyes (1 play)</title>
       <link>https://www.last.fm/music/R%C3%9CF%C3%9CS+DU+SOL/_/Eyes</link>
@@ -37,7 +30,7 @@
       <pubDate>Fri, 31 Mar 2023 14:30:28 -0400</pubDate>
     </item>
     <item>
-      <title>Elderbrook - Inner Light (1 play)</title>
+      <title>Elderbrook - Inner Light (2 plays)</title>
       <link>https://www.last.fm/music/Elderbrook/_/Inner+Light</link>
       <guid isPermaLink="false">rockijosh-1680287659--25835693-a126-478a-944e-1303ae7a2551---Inner Light</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42dcfe1ba460b6e2648455300ab95e0b.jpg" length="11958" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1680297504--070d3e4b-8559-4fd4-af63-4535ed1f69c9---Clouds</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4657b1d7db9a0b5568faac8a9b0319f.jpg" length="9843" type="image/jpeg"/>
       <pubDate>Fri, 31 Mar 2023 17:18:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elderbrook - Inner Light (2 plays)</title>
+      <link>https://www.last.fm/music/Elderbrook/_/Inner+Light</link>
+      <guid isPermaLink="false">rockijosh-1680297664--25835693-a126-478a-944e-1303ae7a2551---Inner Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42dcfe1ba460b6e2648455300ab95e0b.jpg" length="11958" type="image/jpeg"/>
+      <pubDate>Fri, 31 Mar 2023 17:21:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
