@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Mar 2023 06:22:18 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Editions of You (65 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
-      <guid isPermaLink="false">Frippertron-1680169746--331ce348-1b08-40b9-8ed7-0763b92bd003---Editions of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Thu, 30 Mar 2023 05:49:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - In Every Dream Home a Heartache (49 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/In+Every+Dream+Home+a+Heartache</link>
-      <guid isPermaLink="false">Frippertron-1680169977--331ce348-1b08-40b9-8ed7-0763b92bd003---In Every Dream Home a Heartache</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Thu, 30 Mar 2023 05:52:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Mar 2023 07:15:48 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - For Your Pleasure (21 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/For+Your+Pleasure</link>
@@ -240,7 +226,7 @@
       <pubDate>Thu, 30 Mar 2023 23:52:49 -0400</pubDate>
     </item>
     <item>
-      <title>XTC - Paper and Iron (Notes and Coins) (14 plays)</title>
+      <title>XTC - Paper and Iron (Notes and Coins)</title>
       <link>https://www.last.fm/music/XTC/_/Paper+and+Iron+(Notes+and+Coins)</link>
       <guid isPermaLink="false">Frippertron-1680235177--97c86b2c-2765-46a2-aef8-76a7e24c430f---Paper and Iron (Notes and Coins)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8836d10c699527cf57fe719308a93b47.png" length="210965" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1680241804--3285dc48-9505-469d-ad8a-bdf2d3dba632---Animus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9081bc90695f4d03b1eb54a844bff459.jpg" length="12572" type="image/jpeg"/>
       <pubDate>Fri, 31 Mar 2023 01:50:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - Red Velvet Wound (8 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Red+Velvet+Wound</link>
+      <guid isPermaLink="false">Frippertron-1680242449--3285dc48-9505-469d-ad8a-bdf2d3dba632---Red Velvet Wound</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9081bc90695f4d03b1eb54a844bff459.jpg" length="12572" type="image/jpeg"/>
+      <pubDate>Fri, 31 Mar 2023 02:00:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - The Sound (10 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/The+Sound</link>
+      <guid isPermaLink="false">Frippertron-1680246179--3285dc48-9505-469d-ad8a-bdf2d3dba632---The Sound</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9081bc90695f4d03b1eb54a844bff459.jpg" length="12572" type="image/jpeg"/>
+      <pubDate>Fri, 31 Mar 2023 03:02:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
