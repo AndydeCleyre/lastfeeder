@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Mar 2023 14:37:22 +0000</lastBuildDate>
-    <item>
-      <title>Elysion - This Time (1 play)</title>
-      <link>https://www.last.fm/music/Elysion/_/This+Time</link>
-      <guid isPermaLink="false">manosg--1680099592--98aa0066-0afb-4afc-b6c7-947e9145ea9a---This Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f3d697fa795b7155816873ac907e66a.jpg" length="21143" type="image/jpeg"/>
-      <pubDate>Wed, 29 Mar 2023 10:19:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Mar 2023 14:52:54 +0000</lastBuildDate>
     <item>
       <title>Elysion - Brand new Me (1 play)</title>
       <link>https://www.last.fm/music/Elysion/_/Brand+new+Me</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1680272861--c14b4180-dc87-481e-b17a-64e4150f90f6---Prologue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c48d23c53fae7c3d7a74453f2f84143.jpg" length="18259" type="image/jpeg"/>
       <pubDate>Fri, 31 Mar 2023 10:27:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Opeth - April Ethereal (4 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/April+Ethereal</link>
+      <guid isPermaLink="false">manosg--1680272921--c14b4180-dc87-481e-b17a-64e4150f90f6---April Ethereal</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c48d23c53fae7c3d7a74453f2f84143.jpg" length="18259" type="image/jpeg"/>
+      <pubDate>Fri, 31 Mar 2023 10:28:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
