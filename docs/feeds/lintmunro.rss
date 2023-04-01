@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Apr 2023 17:52:12 +0000</lastBuildDate>
-    <item>
-      <title>Gorod - The Orb - Remix (2 plays)</title>
-      <link>https://www.last.fm/music/Gorod/_/The+Orb+-+Remix</link>
-      <guid isPermaLink="false">lintmunro-1679086458--Gorod---The Orb - Remix</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee1ba0121c82c719b4193622ef4bcd40.jpg" length="26193" type="image/jpeg"/>
-      <pubDate>Fri, 17 Mar 2023 16:54:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Apr 2023 19:52:16 +0000</lastBuildDate>
     <item>
       <title>Gorod - Breeding Silence - Remix (2 plays)</title>
       <link>https://www.last.fm/music/Gorod/_/Breeding+Silence+-+Remix</link>
@@ -226,7 +219,7 @@
       <pubDate>Wed, 29 Mar 2023 21:20:48 -0400</pubDate>
     </item>
     <item>
-      <title>Skourge - Torrential Torment (1 play)</title>
+      <title>Skourge - Torrential Torment (2 plays)</title>
       <link>https://www.last.fm/music/Skourge/_/Torrential+Torment</link>
       <guid isPermaLink="false">lintmunro-1680300200--c92a4c00-c265-4f18-964c-43bd9a223641---Torrential Torment</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4422518c04c3c6198f7eecc498aa91e2.jpg" length="51623" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">lintmunro-1680370916--8c25d9cd-9f3c-4154-bf18-335e8ba19897---Senescence</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61f54c9c58162adb97c5d0d52caacca4.jpg" length="8549" type="image/jpeg"/>
       <pubDate>Sat, 01 Apr 2023 13:41:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Skourge - Torrential Torment (2 plays)</title>
+      <link>https://www.last.fm/music/Skourge/_/Torrential+Torment</link>
+      <guid isPermaLink="false">lintmunro-1680377998--c92a4c00-c265-4f18-964c-43bd9a223641---Torrential Torment</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4422518c04c3c6198f7eecc498aa91e2.jpg" length="51623" type="image/jpeg"/>
+      <pubDate>Sat, 01 Apr 2023 15:39:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
