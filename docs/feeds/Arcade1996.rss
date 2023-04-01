@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Apr 2023 03:37:46 +0000</lastBuildDate>
-    <item>
-      <title>Oingo Boingo - Only A Lad (30 plays)</title>
-      <link>https://www.last.fm/music/Oingo+Boingo/_/Only+A+Lad</link>
-      <guid isPermaLink="false">Arcade1996-1680223842--166bc1cb-a2b7-412d-bcd5-5f439d2cf5f1---Only A Lad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8ce43169ad8753d28bb02eb7fba06b4.jpg" length="25427" type="image/jpeg"/>
-      <pubDate>Thu, 30 Mar 2023 20:50:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Apr 2023 05:15:32 +0000</lastBuildDate>
     <item>
       <title>6ix9ine - BILLY (22 plays)</title>
       <link>https://www.last.fm/music/6ix9ine/_/BILLY</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1680319879--a9b2d360-0ebc-47d9-9870-a7e7b225b365---CACTI</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab07502b10187f38b735618d8b203688.jpg" length="15955" type="image/jpeg"/>
       <pubDate>Fri, 31 Mar 2023 23:31:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Billy Nomates - Saboteur Forcefield (1 play)</title>
+      <link>https://www.last.fm/music/Billy+Nomates/_/Saboteur+Forcefield</link>
+      <guid isPermaLink="false">Arcade1996-1680320117--a9b2d360-0ebc-47d9-9870-a7e7b225b365---Saboteur Forcefield</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab07502b10187f38b735618d8b203688.jpg" length="15955" type="image/jpeg"/>
+      <pubDate>Fri, 31 Mar 2023 23:35:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
