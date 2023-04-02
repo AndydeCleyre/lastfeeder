@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Apr 2023 15:56:33 +0000</lastBuildDate>
-    <item>
-      <title>Jelly Roll Morton - Sweet Jazz Music (3 plays)</title>
-      <link>https://www.last.fm/music/Jelly+Roll+Morton/_/Sweet+Jazz+Music</link>
-      <guid isPermaLink="false">evilgnomeandy-1679787923--3d094919-071f-4070-95dc-e1f350e4a5f3---Sweet Jazz Music</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sat, 25 Mar 2023 19:45:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Doris Day - Blue Skies (1 play)</title>
-      <link>https://www.last.fm/music/Doris+Day/_/Blue+Skies</link>
-      <guid isPermaLink="false">evilgnomeandy-1679788031--3db5dfb1-1b91-4038-8268-ae04d15b6a3e---Blue Skies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e05583b8d04483bc809a3127ccfdb3a.jpg" length="29361" type="image/jpeg"/>
-      <pubDate>Sat, 25 Mar 2023 19:47:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Apr 2023 16:20:03 +0000</lastBuildDate>
     <item>
       <title>Cab Calloway - Moon Glow (3 plays)</title>
       <link>https://www.last.fm/music/Cab+Calloway/_/Moon+Glow</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1680369120--a506f761-2c22-4b2f-8a94-bd748c2c8f75---Song Against Sex</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36624d58d60c2571e52257f3243f253c.jpg" length="29825" type="image/jpeg"/>
       <pubDate>Sat, 01 Apr 2023 13:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Built to Spill - Twin Falls (1 play)</title>
+      <link>https://www.last.fm/music/Built+to+Spill/_/Twin+Falls</link>
+      <guid isPermaLink="false">evilgnomeandy-1680369341--3ac482b8-1494-4071-a0e9-f192f9d2c2b0---Twin Falls</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0567674343af0fffb5adf4e7b7b9f8a6.jpg" length="5866" type="image/jpeg"/>
+      <pubDate>Sat, 01 Apr 2023 13:15:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ernest Ranglin - Bourbon Street Skank (18 plays)</title>
+      <link>https://www.last.fm/music/Ernest+Ranglin/_/Bourbon+Street+Skank</link>
+      <guid isPermaLink="false">evilgnomeandy-1680451840--924203bb-da5f-4bd0-9630-c753c7cb9774---Bourbon Street Skank</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f841f3cb026c4b3e97f52c0d51b9f286.jpg" length="22237" type="image/jpeg"/>
+      <pubDate>Sun, 02 Apr 2023 12:10:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
