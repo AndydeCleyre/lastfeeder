@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Apr 2023 02:44:22 +0000</lastBuildDate>
-    <item>
-      <title>Foretoken - His Riastrad (1 play)</title>
-      <link>https://www.last.fm/music/Foretoken/_/His+Riastrad</link>
-      <guid isPermaLink="false">lintmunro-1679865188--4418acee-8de2-4813-a4b0-0daa8b3716f7---His Riastrad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28a436455b2b842181597abafcdeb8d1.jpg" length="19027" type="image/jpeg"/>
-      <pubDate>Sun, 26 Mar 2023 17:13:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Night Demon - Prelude (1 play)</title>
-      <link>https://www.last.fm/music/Night+Demon/_/Prelude</link>
-      <guid isPermaLink="false">lintmunro-1680136954--a71533db-17f0-4c37-87de-6fe6453e75a2---Prelude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b03b0c7cffa40dbf6a8b5fbf663aa9a.jpg" length="27771" type="image/jpeg"/>
-      <pubDate>Wed, 29 Mar 2023 20:42:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Night Demon - Outsider (1 play)</title>
-      <link>https://www.last.fm/music/Night+Demon/_/Outsider</link>
-      <guid isPermaLink="false">lintmunro-1680137091--a71533db-17f0-4c37-87de-6fe6453e75a2---Outsider</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b03b0c7cffa40dbf6a8b5fbf663aa9a.jpg" length="27771" type="image/jpeg"/>
-      <pubDate>Wed, 29 Mar 2023 20:44:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Apr 2023 02:56:07 +0000</lastBuildDate>
     <item>
       <title>Night Demon - Obsidian (1 play)</title>
       <link>https://www.last.fm/music/Night+Demon/_/Obsidian</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">lintmunro-1680402993--bca63b5d-a28c-4937-a8f4-e3f2d95426e1---Tadow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/854240dce7843c4b4c3ff1390b66dadb.jpg" length="23903" type="image/jpeg"/>
       <pubDate>Sat, 01 Apr 2023 22:36:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Greentea Peng - Downers (1 play)</title>
+      <link>https://www.last.fm/music/Greentea+Peng/_/Downers</link>
+      <guid isPermaLink="false">lintmunro-1680403295--2443a94a-03a6-4f0e-a369-ecda74af1c9f---Downers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11ff8e25a81e321b5f51d5034b81e3b7.jpg" length="12471" type="image/jpeg"/>
+      <pubDate>Sat, 01 Apr 2023 22:41:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fatima - Westside (10 plays)</title>
+      <link>https://www.last.fm/music/Fatima/_/Westside</link>
+      <guid isPermaLink="false">lintmunro-1680403514--Fatima---Westside</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cc15a486648bb658dae46aa25e0ac55.jpg" length="18107" type="image/jpeg"/>
+      <pubDate>Sat, 01 Apr 2023 22:45:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>BADBADNOTGOOD - In Your Eyes (4 plays)</title>
+      <link>https://www.last.fm/music/BADBADNOTGOOD/_/In+Your+Eyes</link>
+      <guid isPermaLink="false">lintmunro-1680403777--754294d5-d7d2-4ea2-8184-1dcaaf55a56f---In Your Eyes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee6a03301fe2bfc3f5f75645e49a2c5c.jpg" length="22501" type="image/jpeg"/>
+      <pubDate>Sat, 01 Apr 2023 22:49:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
