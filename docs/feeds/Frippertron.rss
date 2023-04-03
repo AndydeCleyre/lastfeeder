@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 05:15:05 +0000</lastBuildDate>
-    <item>
-      <title>Electric Light Orchestra - Telephone Line (57 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Telephone+Line</link>
-      <guid isPermaLink="false">Frippertron-1680254604--0c502791-4ee9-4c5f-9696-0602b721ff3b---Telephone Line</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
-      <pubDate>Fri, 31 Mar 2023 05:23:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - Rockaria! (48 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Rockaria!</link>
-      <guid isPermaLink="false">Frippertron-1680254886--0c502791-4ee9-4c5f-9696-0602b721ff3b---Rockaria!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
-      <pubDate>Fri, 31 Mar 2023 05:28:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Apr 2023 05:27:05 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Livin' Thing (44 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Livin%27+Thing</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1680498579--d62842be-03d8-414b-a8d6-36f4b3b563ed---Black Foliage (Itself)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cfed53f93f0407082f24f3902ec196c.jpg" length="28115" type="image/jpeg"/>
       <pubDate>Mon, 03 Apr 2023 01:09:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Olivia Tremor Control - The Sylvan Screen (12 plays)</title>
+      <link>https://www.last.fm/music/The+Olivia+Tremor+Control/_/The+Sylvan+Screen</link>
+      <guid isPermaLink="false">Frippertron-1680498757--d62842be-03d8-414b-a8d6-36f4b3b563ed---The Sylvan Screen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cfed53f93f0407082f24f3902ec196c.jpg" length="28115" type="image/jpeg"/>
+      <pubDate>Mon, 03 Apr 2023 01:12:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Olivia Tremor Control - The Bark And Below It (11 plays)</title>
+      <link>https://www.last.fm/music/The+Olivia+Tremor+Control/_/The+Bark+And+Below+It</link>
+      <guid isPermaLink="false">Frippertron-1680499127--d62842be-03d8-414b-a8d6-36f4b3b563ed---The Bark And Below It</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cfed53f93f0407082f24f3902ec196c.jpg" length="28115" type="image/jpeg"/>
+      <pubDate>Mon, 03 Apr 2023 01:18:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
