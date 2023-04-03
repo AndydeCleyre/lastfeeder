@@ -7,30 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 16:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 16:53:29 +0000</lastBuildDate>
     <item>
-      <title>alt-J - Something Good (2 plays)</title>
-      <link>https://www.last.fm/music/alt-J/_/Something+Good</link>
-      <guid isPermaLink="false">rockijosh-1680529162--fc7bbf00-fbaa-4736-986b-b3ac0266ca9b---Something Good</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a701bd388c95415ac140405686cdd0af.png" length="232660" type="image/png"/>
-      <pubDate>Mon, 03 Apr 2023 09:39:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Two Door Cinema Club - What You Know (1 play)</title>
-      <link>https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know</link>
-      <guid isPermaLink="false">rockijosh-1680529400--6f1de078-6684-4792-820d-2ffad64c15ed---What You Know</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa9e02325be944cab8e4392f1948f5e0.png" length="189140" type="image/png"/>
-      <pubDate>Mon, 03 Apr 2023 09:43:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>Glass Animals - Youth (2 plays)</title>
-      <link>https://www.last.fm/music/Glass+Animals/_/Youth</link>
-      <guid isPermaLink="false">rockijosh-1680529593--20395131-fbde-43ce-b141-b700cfdae99c---Youth</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg" length="30655" type="image/jpeg"/>
-      <pubDate>Mon, 03 Apr 2023 09:46:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Temper Trap - Sweet Disposition (2 plays)</title>
+      <title>The Temper Trap - Sweet Disposition (3 plays)</title>
       <link>https://www.last.fm/music/The+Temper+Trap/_/Sweet+Disposition</link>
       <guid isPermaLink="false">rockijosh-1680529824--bb6eaced-69dd-4636-829f-9f987acc4fc3---Sweet Disposition</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65012e1ca8374dd5cdeddb8fa90a1919.jpg" length="7740" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">rockijosh-1680539772--fc7bbf00-fbaa-4736-986b-b3ac0266ca9b---Something Good</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a701bd388c95415ac140405686cdd0af.png" length="232660" type="image/png"/>
       <pubDate>Mon, 03 Apr 2023 12:36:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Two Door Cinema Club - What You Know (2 plays)</title>
+      <link>https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know</link>
+      <guid isPermaLink="false">rockijosh-1680539990--6f1de078-6684-4792-820d-2ffad64c15ed---What You Know</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa9e02325be944cab8e4392f1948f5e0.png" length="189140" type="image/png"/>
+      <pubDate>Mon, 03 Apr 2023 12:39:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Glass Animals - Youth (3 plays)</title>
+      <link>https://www.last.fm/music/Glass+Animals/_/Youth</link>
+      <guid isPermaLink="false">rockijosh-1680540182--20395131-fbde-43ce-b141-b700cfdae99c---Youth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05646a91f163b15d9f08642bbe170abf.jpg" length="30655" type="image/jpeg"/>
+      <pubDate>Mon, 03 Apr 2023 12:43:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Temper Trap - Sweet Disposition (3 plays)</title>
+      <link>https://www.last.fm/music/The+Temper+Trap/_/Sweet+Disposition</link>
+      <guid isPermaLink="false">rockijosh-1680540414--bb6eaced-69dd-4636-829f-9f987acc4fc3---Sweet Disposition</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65012e1ca8374dd5cdeddb8fa90a1919.jpg" length="7740" type="image/jpeg"/>
+      <pubDate>Mon, 03 Apr 2023 12:46:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
