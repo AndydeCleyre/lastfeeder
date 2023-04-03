@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 01:19:16 +0000</lastBuildDate>
-    <item>
-      <title>Lil Pump - Esskeetit (25 plays)</title>
-      <link>https://www.last.fm/music/Lil+Pump/_/Esskeetit</link>
-      <guid isPermaLink="false">Arcade1996-1680276198--65a01fd2-35fb-4817-90d5-ab5506b21161---Esskeetit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c68fb39f75465d21b8d58eb09070080.jpg" length="24470" type="image/jpeg"/>
-      <pubDate>Fri, 31 Mar 2023 11:23:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Apr 2023 07:39:36 +0000</lastBuildDate>
     <item>
       <title>Rinse - Back Into Your Arms (34 plays)</title>
       <link>https://www.last.fm/music/Rinse/_/Back+Into+Your+Arms</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1680482422--Ryuichi Sakamoto---Forbidden Colors</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d30f0cf86f774a96331723da1951085a.jpg" length="22545" type="image/jpeg"/>
       <pubDate>Sun, 02 Apr 2023 20:40:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Larry June - Orange Village (1 play)</title>
+      <link>https://www.last.fm/music/Larry+June/_/Orange+Village</link>
+      <guid isPermaLink="false">Arcade1996-1680482705--20d49152-11a2-4e55-8251-0d11dc6424fa---Orange Village</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa50276184bffd62b32653950a3f959c.jpg" length="25515" type="image/jpeg"/>
+      <pubDate>Sun, 02 Apr 2023 20:45:05 -0400</pubDate>
     </item>
   </channel>
 </rss>

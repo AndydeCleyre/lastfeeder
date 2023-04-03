@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 07:27:41 +0000</lastBuildDate>
-    <item>
-      <title>Yellow Magic Orchestra - Pure Jam (12 plays)</title>
-      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Pure+Jam</link>
-      <guid isPermaLink="false">Frippertron-1680488788--ac5af671-1df0-4312-8b7b-e61992ecc883---Pure Jam</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ab63ee7ee5643c7c37b46cc5c609861.png" length="140376" type="image/png"/>
-      <pubDate>Sun, 02 Apr 2023 22:26:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Apr 2023 07:40:13 +0000</lastBuildDate>
     <item>
       <title>Yellow Magic Orchestra - Behind the Mask (76 plays)</title>
       <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Behind+the+Mask</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1680506430--0c502791-4ee9-4c5f-9696-0602b721ff3b---In Old England Town (Boogie No. 2)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3a211adce8954e9eb0551a0f70f9d9f5.jpg" length="18103" type="image/jpeg"/>
       <pubDate>Mon, 03 Apr 2023 03:20:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Electric Light Orchestra - Kuiama (45 plays)</title>
+      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Kuiama</link>
+      <guid isPermaLink="false">Frippertron-1680506844--0c502791-4ee9-4c5f-9696-0602b721ff3b---Kuiama</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3a211adce8954e9eb0551a0f70f9d9f5.jpg" length="18103" type="image/jpeg"/>
+      <pubDate>Mon, 03 Apr 2023 03:27:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
