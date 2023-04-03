@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 09:17:38 +0000</lastBuildDate>
-    <item>
-      <title>Skyclad - The Present Imperfect (1 play)</title>
-      <link>https://www.last.fm/music/Skyclad/_/The+Present+Imperfect</link>
-      <guid isPermaLink="false">manosg--1680253601--8fe90664-ee90-4b18-b4e9-9b7cf02807bd---The Present Imperfect</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4e5870ef6807ec54a377a7c67ca7b54.jpg" length="36124" type="image/jpeg"/>
-      <pubDate>Fri, 31 Mar 2023 05:06:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Skyclad - Dance of the Dandy Hound (1 play)</title>
-      <link>https://www.last.fm/music/Skyclad/_/Dance+of+the+Dandy+Hound</link>
-      <guid isPermaLink="false">manosg--1680253844--Skyclad---Dance of the Dandy Hound</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4e5870ef6807ec54a377a7c67ca7b54.jpg" length="36124" type="image/jpeg"/>
-      <pubDate>Fri, 31 Mar 2023 05:10:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Apr 2023 11:52:39 +0000</lastBuildDate>
     <item>
       <title>Opeth - Prologue (6 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Prologue</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1680512106--Gojira---Ocean Planet</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a9f1a24a07ee6031ee76f0bdc175625.jpg" length="15539" type="image/jpeg"/>
       <pubDate>Mon, 03 Apr 2023 04:55:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Omen - Death Rider (4 plays)</title>
+      <link>https://www.last.fm/music/Omen/_/Death+Rider</link>
+      <guid isPermaLink="false">manosg--1680512503--Omen---Death Rider</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0fcf611e97724a83cadd494391badef1.png" length="240981" type="image/png"/>
+      <pubDate>Mon, 03 Apr 2023 05:01:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Omen - The Axeman (4 plays)</title>
+      <link>https://www.last.fm/music/Omen/_/The+Axeman</link>
+      <guid isPermaLink="false">manosg--1680522272--Omen---The Axeman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0fcf611e97724a83cadd494391badef1.png" length="240981" type="image/png"/>
+      <pubDate>Mon, 03 Apr 2023 07:44:32 -0400</pubDate>
     </item>
   </channel>
 </rss>

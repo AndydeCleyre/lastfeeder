@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 11:37:52 +0000</lastBuildDate>
-    <item>
-      <title>John Summit - Where You Are (5 plays)</title>
-      <link>https://www.last.fm/music/John+Summit/_/Where+You+Are</link>
-      <guid isPermaLink="false">rockijosh-1680294228--2547c5e3-314c-4332-981d-f18c902a4086---Where You Are</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fddb5bd436fbdf1f28b633ca49cc331.jpg" length="22023" type="image/jpeg"/>
-      <pubDate>Fri, 31 Mar 2023 16:23:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Apr 2023 11:52:15 +0000</lastBuildDate>
     <item>
       <title>Fred again.. - Marea (We’ve Lost Dancing) (3 plays)</title>
       <link>https://www.last.fm/music/Fred+again../_/Marea+(We%E2%80%99ve+Lost+Dancing)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1680521595--16456fed-c9f2-4adf-b6ea-97b648c474d2---For the Jeers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d374bfc8feefd1db26042100661cc13a.jpg" length="40803" type="image/jpeg"/>
       <pubDate>Mon, 03 Apr 2023 07:33:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dance Gavin Dance - Ember (1 play)</title>
+      <link>https://www.last.fm/music/Dance+Gavin+Dance/_/Ember</link>
+      <guid isPermaLink="false">rockijosh-1680521847--16456fed-c9f2-4adf-b6ea-97b648c474d2---Ember</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d374bfc8feefd1db26042100661cc13a.jpg" length="40803" type="image/jpeg"/>
+      <pubDate>Mon, 03 Apr 2023 07:37:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
