@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 13:52:30 +0000</lastBuildDate>
-    <item>
-      <title>Tricky - Hell Is Round the Corner (1 play)</title>
-      <link>https://www.last.fm/music/Tricky/_/Hell+Is+Round+the+Corner</link>
-      <guid isPermaLink="false">Arcade1996-1680327092--5bf64d94-efd9-4334-96fd-e6197b0b02b8---Hell Is Round the Corner</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bed0148e9b939048f7bb408384e0feaa.jpg" length="25604" type="image/jpeg"/>
-      <pubDate>Sat, 01 Apr 2023 01:31:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Morcheeba - The Sea (1 play)</title>
-      <link>https://www.last.fm/music/Morcheeba/_/The+Sea</link>
-      <guid isPermaLink="false">Arcade1996-1680331850--067102ea-9519-4622-9077-57ca4164cfbb---The Sea</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47a7272cf2d41fcc944b48e320541b80.png" length="173149" type="image/png"/>
-      <pubDate>Sat, 01 Apr 2023 02:50:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Apr 2023 14:15:38 +0000</lastBuildDate>
     <item>
       <title>Single Gun Theory - Fall (2 plays)</title>
       <link>https://www.last.fm/music/Single+Gun+Theory/_/Fall</link>
@@ -205,7 +191,7 @@
       <pubDate>Mon, 03 Apr 2023 04:01:35 -0400</pubDate>
     </item>
     <item>
-      <title>Larry June - Barragán Lighting (1 play)</title>
+      <title>Larry June - Barragán Lighting</title>
       <link>https://www.last.fm/music/Larry+June/_/Barrag%C3%A1n+Lighting</link>
       <guid isPermaLink="false">Arcade1996-1680509095--20d49152-11a2-4e55-8251-0d11dc6424fa---Barragán Lighting</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa50276184bffd62b32653950a3f959c.jpg" length="25515" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1680529524--Ryuichi Sakamoto---Forbidden Colors</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d30f0cf86f774a96331723da1951085a.jpg" length="22545" type="image/jpeg"/>
       <pubDate>Mon, 03 Apr 2023 09:45:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ryuichi Sakamoto - solari (1 play)</title>
+      <link>https://www.last.fm/music/Ryuichi+Sakamoto/_/solari</link>
+      <guid isPermaLink="false">Arcade1996-1680529806--Ryuichi Sakamoto---solari</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55d6f4c3b8fcc6196fc747e436abb185.jpg" length="14697" type="image/jpeg"/>
+      <pubDate>Mon, 03 Apr 2023 09:50:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ryuichi Sakamoto - Journey (1 play)</title>
+      <link>https://www.last.fm/music/Ryuichi+Sakamoto/_/Journey</link>
+      <guid isPermaLink="false">Arcade1996-1680530038--Ryuichi Sakamoto---Journey</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d13c16b876109253d4413aca3253397.jpg" length="17537" type="image/jpeg"/>
+      <pubDate>Mon, 03 Apr 2023 09:53:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
