@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 05:27:30 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Hots on for Nowhere (19 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Hots+on+for+Nowhere</link>
-      <guid isPermaLink="false">Frippertron-1680601485--678d88b2-87b0-403b-b63d-5da7465aecc3---Hots on for Nowhere</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
-      <pubDate>Tue, 04 Apr 2023 05:44:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Tea for One (23 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Tea+for+One</link>
-      <guid isPermaLink="false">Frippertron-1680601772--678d88b2-87b0-403b-b63d-5da7465aecc3---Tea for One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
-      <pubDate>Tue, 04 Apr 2023 05:49:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Apr 2023 05:39:17 +0000</lastBuildDate>
     <item>
       <title>Metro - Criminal World (48 plays)</title>
       <link>https://www.last.fm/music/Metro/_/Criminal+World</link>
@@ -177,7 +163,7 @@
       <pubDate>Tue, 04 Apr 2023 23:03:49 -0400</pubDate>
     </item>
     <item>
-      <title>坂本龍一 - Tibetan Dance (25 plays)</title>
+      <title>坂本龍一 - Tibetan Dance (26 plays)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Tibetan+Dance</link>
       <guid isPermaLink="false">Frippertron-1680664408--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Tibetan Dance</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3fa7ac516e2248079e08194e25f97cc8.png" length="93556" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1680672198--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---The Sheltering Sky</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/438ca7d8bf824085920eb0010d1e44b3.png" length="187063" type="image/png"/>
       <pubDate>Wed, 05 Apr 2023 01:23:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Tong Poo (46 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Tong+Poo</link>
+      <guid isPermaLink="false">Frippertron-1680672424--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Tong Poo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/438ca7d8bf824085920eb0010d1e44b3.png" length="187063" type="image/png"/>
+      <pubDate>Wed, 05 Apr 2023 01:27:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Tibetan Dance (26 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Tibetan+Dance</link>
+      <guid isPermaLink="false">Frippertron-1680672804--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Tibetan Dance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/438ca7d8bf824085920eb0010d1e44b3.png" length="187063" type="image/png"/>
+      <pubDate>Wed, 05 Apr 2023 01:33:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
