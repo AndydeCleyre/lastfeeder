@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 06:21:20 +0000</lastBuildDate>
-    <item>
-      <title>Yellow Magic Orchestra - Rydeen (47 plays)</title>
-      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Rydeen</link>
-      <guid isPermaLink="false">Frippertron-1680603723--ac5af671-1df0-4312-8b7b-e61992ecc883---Rydeen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c426776c314dd574ffc44146749c4835.jpg" length="21832" type="image/jpeg"/>
-      <pubDate>Tue, 04 Apr 2023 06:22:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yellow Magic Orchestra - Behind the Mask (77 plays)</title>
-      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Behind+the+Mask</link>
-      <guid isPermaLink="false">Frippertron-1680604017--ac5af671-1df0-4312-8b7b-e61992ecc883---Behind the Mask</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c426776c314dd574ffc44146749c4835.jpg" length="21832" type="image/jpeg"/>
-      <pubDate>Tue, 04 Apr 2023 06:26:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Apr 2023 07:16:12 +0000</lastBuildDate>
     <item>
       <title>Yellow Magic Orchestra - Day Tripper (60 plays)</title>
       <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Day+Tripper</link>
@@ -219,7 +205,7 @@
       <pubDate>Wed, 05 Apr 2023 00:26:42 -0400</pubDate>
     </item>
     <item>
-      <title>坂本龍一 - Heartbeat (1 play)</title>
+      <title>坂本龍一 - Heartbeat (2 plays)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Heartbeat</link>
       <guid isPermaLink="false">Frippertron-1680669046--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Heartbeat</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/438ca7d8bf824085920eb0010d1e44b3.png" length="187063" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1680674278--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Sayonara</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/438ca7d8bf824085920eb0010d1e44b3.png" length="187063" type="image/png"/>
       <pubDate>Wed, 05 Apr 2023 01:57:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Calling From Tokyo (2 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Calling+From+Tokyo</link>
+      <guid isPermaLink="false">Frippertron-1680678129--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Calling From Tokyo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/438ca7d8bf824085920eb0010d1e44b3.png" length="187063" type="image/png"/>
+      <pubDate>Wed, 05 Apr 2023 03:02:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Heartbeat (2 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Heartbeat</link>
+      <guid isPermaLink="false">Frippertron-1680678439--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Heartbeat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/438ca7d8bf824085920eb0010d1e44b3.png" length="187063" type="image/png"/>
+      <pubDate>Wed, 05 Apr 2023 03:07:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
