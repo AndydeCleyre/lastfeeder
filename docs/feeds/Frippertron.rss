@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 08:40:31 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Royal Orleans (22 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Royal+Orleans</link>
-      <guid isPermaLink="false">Frippertron-1680663650--678d88b2-87b0-403b-b63d-5da7465aecc3---Royal Orleans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
-      <pubDate>Tue, 04 Apr 2023 23:00:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Apr 2023 08:52:12 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Nobody's Fault but Mine (21 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Nobody%27s+Fault+but+Mine</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1680683435--cb69e1f1-bc76-4df5-93c9-cf97dd8a3b5c---Go Long</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f863cceffcb45c692e648f11fce5160.png" length="152351" type="image/png"/>
       <pubDate>Wed, 05 Apr 2023 04:30:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Joanna Newsom - Occident (3 plays)</title>
+      <link>https://www.last.fm/music/Joanna+Newsom/_/Occident</link>
+      <guid isPermaLink="false">Frippertron-1680684558--cb69e1f1-bc76-4df5-93c9-cf97dd8a3b5c---Occident</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f863cceffcb45c692e648f11fce5160.png" length="152351" type="image/png"/>
+      <pubDate>Wed, 05 Apr 2023 04:49:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
