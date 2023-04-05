@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 13:36:32 +0000</lastBuildDate>
-    <item>
-      <title>Blackbriar - Walking Over My Grave (6 plays)</title>
-      <link>https://www.last.fm/music/Blackbriar/_/Walking+Over+My+Grave</link>
-      <guid isPermaLink="false">WillieFisterbut-1680559978--737e886f-a1e4-49ac-a229-0ed5a72e5e45---Walking Over My Grave</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71f5c53959209f2ff03f55dc9f145171.jpg" length="44943" type="image/jpeg"/>
-      <pubDate>Mon, 03 Apr 2023 18:12:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Blackbriar - Snow White and Rose Red (feat. Ulli Perhonen) (3 plays)</title>
-      <link>https://www.last.fm/music/Blackbriar/_/Snow+White+and+Rose+Red+(feat.+Ulli+Perhonen)</link>
-      <guid isPermaLink="false">WillieFisterbut-1680560259--737e886f-a1e4-49ac-a229-0ed5a72e5e45---Snow White and Rose Red (feat. Ulli Perhonen)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76b46800bb0d8066e0208ebf437f471e.jpg" length="43218" type="image/jpeg"/>
-      <pubDate>Mon, 03 Apr 2023 18:17:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Apr 2023 13:53:40 +0000</lastBuildDate>
     <item>
       <title>Blackbriar - I'd Rather Burn (3 plays)</title>
       <link>https://www.last.fm/music/Blackbriar/_/I%27d+Rather+Burn</link>
@@ -72,7 +58,7 @@
       <pubDate>Tue, 04 Apr 2023 11:10:19 -0400</pubDate>
     </item>
     <item>
-      <title>Blackbriar - Deadly Nightshade (1 play)</title>
+      <title>Blackbriar - Deadly Nightshade</title>
       <link>https://www.last.fm/music/Blackbriar/_/Deadly+Nightshade</link>
       <guid isPermaLink="false">WillieFisterbut-1680621261--737e886f-a1e4-49ac-a229-0ed5a72e5e45---Deadly Nightshade</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65bafe859266703bc8b432f90c0ce86b.jpg" length="43298" type="image/jpeg"/>
@@ -352,11 +338,25 @@
       <pubDate>Wed, 05 Apr 2023 08:24:16 -0400</pubDate>
     </item>
     <item>
-      <title>White Lion - When the Children Cry (5 plays)</title>
+      <title>White Lion - When the Children Cry</title>
       <link>https://www.last.fm/music/White+Lion/_/When+the+Children+Cry</link>
       <guid isPermaLink="false">WillieFisterbut-1680701316--4fe426de-9c86-46d5-bbab-239f5e7344bf---When the Children Cry</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f3511ceab4acf295e312637b5fca22c.png" length="114183" type="image/png"/>
       <pubDate>Wed, 05 Apr 2023 09:28:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Thrice - Music Box (25 plays)</title>
+      <link>https://www.last.fm/music/Thrice/_/Music+Box</link>
+      <guid isPermaLink="false">WillieFisterbut-1680701578--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Music Box</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac89c7f01f0e9089c3654f08150219b1.jpg" length="38237" type="image/jpeg"/>
+      <pubDate>Wed, 05 Apr 2023 09:32:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Strapping Young Lad - Cod Metal King (13 plays)</title>
+      <link>https://www.last.fm/music/Strapping+Young+Lad/_/Cod+Metal+King</link>
+      <guid isPermaLink="false">WillieFisterbut-1680701864--584b72a4-45f7-46ce-b440-e9ee579d71c4---Cod Metal King</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 05 Apr 2023 09:37:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
