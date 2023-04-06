@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Apr 2023 04:20:06 +0000</lastBuildDate>
-    <item>
-      <title>Joanna Newsom - Jackrabbits (3 plays)</title>
-      <link>https://www.last.fm/music/Joanna+Newsom/_/Jackrabbits</link>
-      <guid isPermaLink="false">Frippertron-1680683177--cb69e1f1-bc76-4df5-93c9-cf97dd8a3b5c---Jackrabbits</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f863cceffcb45c692e648f11fce5160.png" length="152351" type="image/png"/>
-      <pubDate>Wed, 05 Apr 2023 04:26:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joanna Newsom - Go Long (3 plays)</title>
-      <link>https://www.last.fm/music/Joanna+Newsom/_/Go+Long</link>
-      <guid isPermaLink="false">Frippertron-1680683435--cb69e1f1-bc76-4df5-93c9-cf97dd8a3b5c---Go Long</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f863cceffcb45c692e648f11fce5160.png" length="152351" type="image/png"/>
-      <pubDate>Wed, 05 Apr 2023 04:30:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joanna Newsom - Occident (3 plays)</title>
-      <link>https://www.last.fm/music/Joanna+Newsom/_/Occident</link>
-      <guid isPermaLink="false">Frippertron-1680684558--cb69e1f1-bc76-4df5-93c9-cf97dd8a3b5c---Occident</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f863cceffcb45c692e648f11fce5160.png" length="152351" type="image/png"/>
-      <pubDate>Wed, 05 Apr 2023 04:49:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Apr 2023 04:38:15 +0000</lastBuildDate>
     <item>
       <title>Joanna Newsom - Soft as Chalk (3 plays)</title>
       <link>https://www.last.fm/music/Joanna+Newsom/_/Soft+as+Chalk</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1680753664--a94a7155-c79d-4409-9fcf-220cb0e4dc3a---Making Flippy Floppy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90bba62b69e784f77daa41d94ad2eef6.jpg" length="18176" type="image/jpeg"/>
       <pubDate>Thu, 06 Apr 2023 00:01:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Metro - Criminal World (49 plays)</title>
+      <link>https://www.last.fm/music/Metro/_/Criminal+World</link>
+      <guid isPermaLink="false">Frippertron-1680754977--ea13db11-d664-4e06-86dd-41a2beb13f33---Criminal World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb331b51f48ba649396d1e54a0ec77e2.jpg" length="20826" type="image/jpeg"/>
+      <pubDate>Thu, 06 Apr 2023 00:22:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Metro - Precious (22 plays)</title>
+      <link>https://www.last.fm/music/Metro/_/Precious</link>
+      <guid isPermaLink="false">Frippertron-1680755306--ea13db11-d664-4e06-86dd-41a2beb13f33---Precious</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb331b51f48ba649396d1e54a0ec77e2.jpg" length="20826" type="image/jpeg"/>
+      <pubDate>Thu, 06 Apr 2023 00:28:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Metro - Mono Messiah (31 plays)</title>
+      <link>https://www.last.fm/music/Metro/_/Mono+Messiah</link>
+      <guid isPermaLink="false">Frippertron-1680755528--ea13db11-d664-4e06-86dd-41a2beb13f33---Mono Messiah</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb331b51f48ba649396d1e54a0ec77e2.jpg" length="20826" type="image/jpeg"/>
+      <pubDate>Thu, 06 Apr 2023 00:32:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
