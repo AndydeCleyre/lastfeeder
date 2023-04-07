@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Apr 2023 17:27:41 +0000</lastBuildDate>
-    <item>
-      <title>Yvette Young - A Map, a String, a Light (2 plays)</title>
-      <link>https://www.last.fm/music/Yvette+Young/_/A+Map,+a+String,+a+Light</link>
-      <guid isPermaLink="false">TalonsOfFire-1680557485--d34a9e4b-a785-493c-b6a1-1616a0f5f8cc---A Map, a String, a Light</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c4a626c3ea5bcebb149e6fd481d7a67.jpg" length="29434" type="image/jpeg"/>
-      <pubDate>Mon, 03 Apr 2023 17:31:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thrice - Scavengers (2 plays)</title>
-      <link>https://www.last.fm/music/Thrice/_/Scavengers</link>
-      <guid isPermaLink="false">TalonsOfFire-1680558089--244afcb7-fa9a-49b1-9aa6-0149512d1c52---Scavengers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2945e1982656b25e634980b291ca767c.jpg" length="33429" type="image/jpeg"/>
-      <pubDate>Mon, 03 Apr 2023 17:41:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Apr 2023 20:16:27 +0000</lastBuildDate>
     <item>
       <title>If These Trees Could Talk - The First Fire (1 play)</title>
       <link>https://www.last.fm/music/If+These+Trees+Could+Talk/_/The+First+Fire</link>
@@ -184,7 +170,7 @@
       <pubDate>Tue, 04 Apr 2023 17:29:02 -0400</pubDate>
     </item>
     <item>
-      <title>Ulver - Eos (20 plays)</title>
+      <title>Ulver - Eos</title>
       <link>https://www.last.fm/music/Ulver/_/Eos</link>
       <guid isPermaLink="false">TalonsOfFire-1680644025--7d209631-ccb8-4a87-8516-64abe4c22dba---Eos</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/937e3396777059c22705cfcb5414ac06.jpg" length="13816" type="image/jpeg"/>
@@ -236,7 +222,7 @@
       <title>Creepers - Stuck (3 plays)</title>
       <link>https://www.last.fm/music/Creepers/_/Stuck</link>
       <guid isPermaLink="false">TalonsOfFire-1680650676--c3a15012-fefd-4058-9bdd-9bd70fdbda2b---Stuck</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e959d96868243b8c348681e851267cc.jpg" length="0" type="text/html; charset=UTF-8"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e959d96868243b8c348681e851267cc.jpg" length="24763" type="image/jpeg"/>
       <pubDate>Tue, 04 Apr 2023 19:24:36 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1680887477--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Mezzanine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
       <pubDate>Fri, 07 Apr 2023 13:11:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Massive Attack - Group Four (7 plays)</title>
+      <link>https://www.last.fm/music/Massive+Attack/_/Group+Four</link>
+      <guid isPermaLink="false">TalonsOfFire-1680887834--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Group Four</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
+      <pubDate>Fri, 07 Apr 2023 13:17:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Massive Attack - (Exchange) (3 plays)</title>
+      <link>https://www.last.fm/music/Massive+Attack/_/(Exchange)</link>
+      <guid isPermaLink="false">TalonsOfFire-1680897942--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---(Exchange)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
+      <pubDate>Fri, 07 Apr 2023 16:05:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
