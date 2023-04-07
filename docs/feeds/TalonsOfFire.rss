@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 02:25:24 +0000</lastBuildDate>
-    <item>
-      <title>Thom Yorke - That's How Horses Are (4 plays)</title>
-      <link>https://www.last.fm/music/Thom+Yorke/_/That%27s+How+Horses+Are</link>
-      <guid isPermaLink="false">TalonsOfFire-1680553848--8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b---That's How Horses Are</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fb3eaad9828706e76b6d0fcd6805732.jpg" length="16995" type="image/jpeg"/>
-      <pubDate>Mon, 03 Apr 2023 16:30:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Anathema - Lost Control (6 plays)</title>
-      <link>https://www.last.fm/music/Anathema/_/Lost+Control</link>
-      <guid isPermaLink="false">TalonsOfFire-1680554722--20aa23e3-3532-42ca-acf6-e8c2e9df2688---Lost Control</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4bdecac46f69443ba0507fe2f99d8893.png" length="134545" type="image/png"/>
-      <pubDate>Mon, 03 Apr 2023 16:45:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Anathema - Balance - Remastered (3 plays)</title>
-      <link>https://www.last.fm/music/Anathema/_/Balance+-+Remastered</link>
-      <guid isPermaLink="false">TalonsOfFire-1680555071--20aa23e3-3532-42ca-acf6-e8c2e9df2688---Balance - Remastered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9deb7bba8677ff10343e54f083e418fd.jpg" length="12537" type="image/jpeg"/>
-      <pubDate>Mon, 03 Apr 2023 16:51:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Apr 2023 16:40:39 +0000</lastBuildDate>
     <item>
       <title>Paul Buchanan - Mid Air (5 plays)</title>
       <link>https://www.last.fm/music/Paul+Buchanan/_/Mid+Air</link>
@@ -306,7 +285,6 @@
       <title>Creepers - Stuck (3 plays)</title>
       <link>https://www.last.fm/music/Creepers/_/Stuck</link>
       <guid isPermaLink="false">TalonsOfFire-1680650676--c3a15012-fefd-4058-9bdd-9bd70fdbda2b---Stuck</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e959d96868243b8c348681e851267cc.jpg" length="24763" type="image/jpeg"/>
       <pubDate>Tue, 04 Apr 2023 19:24:36 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">TalonsOfFire-1680659004--7c7f9c94-dee8-4903-892b-6cf44652e2de---Brian Wilson Said</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3730895d6ce46f0a46ba653b163a4be.png" length="88809" type="image/png"/>
       <pubDate>Tue, 04 Apr 2023 21:43:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dead Can Dance - Don't Fade Away - Live Remastered (2 plays)</title>
+      <link>https://www.last.fm/music/Dead+Can+Dance/_/Don%27t+Fade+Away+-+Live+Remastered</link>
+      <guid isPermaLink="false">TalonsOfFire-1680721309--Dead Can Dance---Don't Fade Away - Live Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/09d363e73def49dd88892e9379eb6b0b.jpg" length="14324" type="image/jpeg"/>
+      <pubDate>Wed, 05 Apr 2023 15:01:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Massive Attack - Angel (12 plays)</title>
+      <link>https://www.last.fm/music/Massive+Attack/_/Angel</link>
+      <guid isPermaLink="false">TalonsOfFire-1680884754--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Angel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
+      <pubDate>Fri, 07 Apr 2023 12:25:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Massive Attack - Risingson (7 plays)</title>
+      <link>https://www.last.fm/music/Massive+Attack/_/Risingson</link>
+      <guid isPermaLink="false">TalonsOfFire-1680885134--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Risingson</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1b2eab14337cbe47cc473b422625788.jpg" length="23182" type="image/jpeg"/>
+      <pubDate>Fri, 07 Apr 2023 12:32:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
