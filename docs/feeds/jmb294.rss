@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/jmb294.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 12:41:35 +0000</lastBuildDate>
-    <item>
-      <title>Jamie Isaac - Maybe (1 play)</title>
-      <link>https://www.last.fm/music/Jamie+Isaac/_/Maybe</link>
-      <guid isPermaLink="false">jmb294-1525813299--503db56b-30dc-4fe5-a2c8-9579ea643c81---Maybe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e647d2b13f067a2371f8f7825019d62.jpg" length="11676" type="image/jpeg"/>
-      <pubDate>Tue, 08 May 2018 17:01:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Apr 2023 13:17:09 +0000</lastBuildDate>
     <item>
       <title>Jonathan Jeremiah - Good Day (1 play)</title>
       <link>https://www.last.fm/music/Jonathan+Jeremiah/_/Good+Day</link>
@@ -26,6 +19,7 @@
       <title>Emotional Oranges - Motion (1 play)</title>
       <link>https://www.last.fm/music/Emotional+Oranges/_/Motion</link>
       <guid isPermaLink="false">jmb294-1525813760--32909c01-abae-49c1-8744-b872a24d6d38---Motion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7380f2663646059df39aeea1d50a533c.jpg" length="21758" type="image/jpeg"/>
       <pubDate>Tue, 08 May 2018 17:09:20 -0400</pubDate>
     </item>
     <item>
@@ -67,6 +61,7 @@
       <title>uSSSy - Dune (1 play)</title>
       <link>https://www.last.fm/music/uSSSy/_/Dune</link>
       <guid isPermaLink="false">jmb294-1525816678--78c035c5-54b3-47d5-8253-1981945f271a---Dune</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0976fda83b11704f3a55fcb87d2ad212.jpg" length="8074" type="image/jpeg"/>
       <pubDate>Tue, 08 May 2018 17:57:58 -0400</pubDate>
     </item>
     <item>
@@ -266,7 +261,7 @@
       <pubDate>Sun, 02 Apr 2023 10:39:44 -0400</pubDate>
     </item>
     <item>
-      <title>Tau - Nismo pali na dno</title>
+      <title>Tau - Nismo pali na dno (1 play)</title>
       <link>https://www.last.fm/music/Tau/_/Nismo+pali+na+dno</link>
       <guid isPermaLink="false">jmb294-1680446494--9c6212c5-270a-455d-8c3a-c8918db1e126---Nismo pali na dno</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">jmb294-1680447643--Mare Ge---Nikad vise to</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 02 Apr 2023 11:00:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ernesto Pedrosa - Tokyo Night (1 play)</title>
+      <link>https://www.last.fm/music/Ernesto+Pedrosa/_/Tokyo+Night</link>
+      <guid isPermaLink="false">jmb294-1680959763--Ernesto Pedrosa---Tokyo Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 08 Apr 2023 09:16:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
