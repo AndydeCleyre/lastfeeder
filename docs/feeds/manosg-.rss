@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Apr 2023 11:13:36 +0000</lastBuildDate>
-    <item>
-      <title>Paul Gilbert - Bach Partita In Dm (1 play)</title>
-      <link>https://www.last.fm/music/Paul+Gilbert/_/Bach+Partita+In+Dm</link>
-      <guid isPermaLink="false">manosg--1680865824--453321a7-3a77-47b0-8125-7bd385f3a730---Bach Partita In Dm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7032a3ca45274b0da39eed4699597ab2.jpg" length="28038" type="image/jpeg"/>
-      <pubDate>Fri, 07 Apr 2023 07:10:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Paul Gilbert - Neon Knights (2 plays)</title>
-      <link>https://www.last.fm/music/Paul+Gilbert/_/Neon+Knights</link>
-      <guid isPermaLink="false">manosg--1680877859--453321a7-3a77-47b0-8125-7bd385f3a730---Neon Knights</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ae1d14e78425f8357c1e11594fb95fc.jpg" length="29220" type="image/jpeg"/>
-      <pubDate>Fri, 07 Apr 2023 10:30:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Apr 2023 11:25:30 +0000</lastBuildDate>
     <item>
       <title>Paul Gilbert - Kill the King (2 plays)</title>
       <link>https://www.last.fm/music/Paul+Gilbert/_/Kill+the+King</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1681124773--ea0f2a37-7007-4217-a812-396227f5013a---Odyssey</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49663522cd3652371e0186545e87e6d4.png" length="132821" type="image/png"/>
       <pubDate>Mon, 10 Apr 2023 07:06:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kyuss - Conan Troutman (3 plays)</title>
+      <link>https://www.last.fm/music/Kyuss/_/Conan+Troutman</link>
+      <guid isPermaLink="false">manosg--1681125040--ea0f2a37-7007-4217-a812-396227f5013a---Conan Troutman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49663522cd3652371e0186545e87e6d4.png" length="132821" type="image/png"/>
+      <pubDate>Mon, 10 Apr 2023 07:10:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kyuss - N.O. (3 plays)</title>
+      <link>https://www.last.fm/music/Kyuss/_/N.O.</link>
+      <guid isPermaLink="false">manosg--1681125454--ea0f2a37-7007-4217-a812-396227f5013a---N.O.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49663522cd3652371e0186545e87e6d4.png" length="132821" type="image/png"/>
+      <pubDate>Mon, 10 Apr 2023 07:17:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
