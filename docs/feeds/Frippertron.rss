@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Apr 2023 21:37:48 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - The Wanton Song (41 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Wanton+Song</link>
-      <guid isPermaLink="false">Frippertron-1680847197--678d88b2-87b0-403b-b63d-5da7465aecc3---The Wanton Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 07 Apr 2023 01:59:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Apr 2023 02:14:55 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Shangri-La (55 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Shangri-La</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1681076117--5a988ed5-a36b-4af2-9157-0bd09ca9d99c---Rock 'n' Roll</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/807e0741e3301dc9ac8faf4eed06e8d8.jpg" length="27195" type="image/jpeg"/>
       <pubDate>Sun, 09 Apr 2023 17:35:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alice Cooper - Under My Wheels (16 plays)</title>
+      <link>https://www.last.fm/music/Alice+Cooper/_/Under+My+Wheels</link>
+      <guid isPermaLink="false">Frippertron-1681092679--ee58c59f-8e7f-4430-b8ca-236c4d3745ae---Under My Wheels</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb50a7897358ae9567652a718bfa7e9.png" length="145240" type="image/png"/>
+      <pubDate>Sun, 09 Apr 2023 22:11:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
