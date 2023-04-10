@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Apr 2023 10:37:22 +0000</lastBuildDate>
-    <item>
-      <title>Paul Gilbert - Starstruck (2 plays)</title>
-      <link>https://www.last.fm/music/Paul+Gilbert/_/Starstruck</link>
-      <guid isPermaLink="false">manosg--1680864213--453321a7-3a77-47b0-8125-7bd385f3a730---Starstruck</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ae1d14e78425f8357c1e11594fb95fc.jpg" length="29220" type="image/jpeg"/>
-      <pubDate>Fri, 07 Apr 2023 06:43:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Apr 2023 10:52:13 +0000</lastBuildDate>
     <item>
       <title>Paul Gilbert - The Last in Line (2 plays)</title>
       <link>https://www.last.fm/music/Paul+Gilbert/_/The+Last+in+Line</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1681122505--ea0f2a37-7007-4217-a812-396227f5013a---Asteroid</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49663522cd3652371e0186545e87e6d4.png" length="132821" type="image/png"/>
       <pubDate>Mon, 10 Apr 2023 06:28:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kyuss - Supa Scoopa and Mighty Scoop (4 plays)</title>
+      <link>https://www.last.fm/music/Kyuss/_/Supa+Scoopa+and+Mighty+Scoop</link>
+      <guid isPermaLink="false">manosg--1681122794--ea0f2a37-7007-4217-a812-396227f5013a---Supa Scoopa and Mighty Scoop</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49663522cd3652371e0186545e87e6d4.png" length="132821" type="image/png"/>
+      <pubDate>Mon, 10 Apr 2023 06:33:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
