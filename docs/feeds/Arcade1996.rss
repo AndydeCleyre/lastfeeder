@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Apr 2023 13:22:49 +0000</lastBuildDate>
-    <item>
-      <title>Meat Puppets - Mirage (1 play)</title>
-      <link>https://www.last.fm/music/Meat+Puppets/_/Mirage</link>
-      <guid isPermaLink="false">Arcade1996-1681052951--3df040ee-2b8b-446b-937a-3f86f4b2cabf---Mirage</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e64684706f0240869e210515898d4659.png" length="245245" type="image/png"/>
-      <pubDate>Sun, 09 Apr 2023 11:09:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ben Kweller - No Reason (1 play)</title>
-      <link>https://www.last.fm/music/Ben+Kweller/_/No+Reason</link>
-      <guid isPermaLink="false">Arcade1996-1681053173--ff9deaae-da4f-42b7-a19e-36fedd3fc706---No Reason</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df3f603b65dd4ff0ba0c85920abd6e45.jpg" length="19938" type="image/jpeg"/>
-      <pubDate>Sun, 09 Apr 2023 11:12:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Apr 2023 14:27:10 +0000</lastBuildDate>
     <item>
       <title>Floating Room - Shimanchu (1 play)</title>
       <link>https://www.last.fm/music/Floating+Room/_/Shimanchu</link>
@@ -124,6 +110,7 @@
       <title>KayCyy - MOTOWN (1 play)</title>
       <link>https://www.last.fm/music/KayCyy/_/MOTOWN</link>
       <guid isPermaLink="false">Arcade1996-1681090007--KayCyy---MOTOWN</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1dcf3b49452065c76a81830a16ddbc0.jpg" length="33946" type="image/jpeg"/>
       <pubDate>Sun, 09 Apr 2023 21:26:47 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1681132762--Ryuichi Sakamoto---The Fight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08c5bbe432ca57a98c78afbfc10b437c.jpg" length="22972" type="image/jpeg"/>
       <pubDate>Mon, 10 Apr 2023 09:19:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ryuichi Sakamoto - Father Christmas (4 plays)</title>
+      <link>https://www.last.fm/music/Ryuichi+Sakamoto/_/Father+Christmas</link>
+      <guid isPermaLink="false">Arcade1996-1681132852--Ryuichi Sakamoto---Father Christmas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08c5bbe432ca57a98c78afbfc10b437c.jpg" length="22972" type="image/jpeg"/>
+      <pubDate>Mon, 10 Apr 2023 09:20:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ryuichi Sakamoto - Assembly (4 plays)</title>
+      <link>https://www.last.fm/music/Ryuichi+Sakamoto/_/Assembly</link>
+      <guid isPermaLink="false">Arcade1996-1681136601--Ryuichi Sakamoto---Assembly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08c5bbe432ca57a98c78afbfc10b437c.jpg" length="22972" type="image/jpeg"/>
+      <pubDate>Mon, 10 Apr 2023 10:23:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
