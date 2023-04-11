@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 05:15:04 +0000</lastBuildDate>
-    <item>
-      <title>Honeyglaze - Half Past (3 plays)</title>
-      <link>https://www.last.fm/music/Honeyglaze/_/Half+Past</link>
-      <guid isPermaLink="false">Frippertron-1681119857--Honeyglaze---Half Past</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/353c00aa354dc8d1dab2dc3605dba3c6.jpg" length="27502" type="image/jpeg"/>
-      <pubDate>Mon, 10 Apr 2023 05:44:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Honeyglaze - Deep Murky Water (3 plays)</title>
-      <link>https://www.last.fm/music/Honeyglaze/_/Deep+Murky+Water</link>
-      <guid isPermaLink="false">Frippertron-1681120015--Honeyglaze---Deep Murky Water</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/353c00aa354dc8d1dab2dc3605dba3c6.jpg" length="27502" type="image/jpeg"/>
-      <pubDate>Mon, 10 Apr 2023 05:46:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Apr 2023 05:27:38 +0000</lastBuildDate>
     <item>
       <title>Honeyglaze - Young Looking (3 plays)</title>
       <link>https://www.last.fm/music/Honeyglaze/_/Young+Looking</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1681189945--Admiral Angry---Circling the Drain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
       <pubDate>Tue, 11 Apr 2023 01:12:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Admiral Angry - Kill Yourself (6 plays)</title>
+      <link>https://www.last.fm/music/Admiral+Angry/_/Kill+Yourself</link>
+      <guid isPermaLink="false">Frippertron-1681190256--Admiral Angry---Kill Yourself</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 01:17:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Admiral Angry - Plastic Bath (4 plays)</title>
+      <link>https://www.last.fm/music/Admiral+Angry/_/Plastic+Bath</link>
+      <guid isPermaLink="false">Frippertron-1681190632--Admiral Angry---Plastic Bath</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 01:23:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
