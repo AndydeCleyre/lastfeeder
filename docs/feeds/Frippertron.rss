@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 05:27:38 +0000</lastBuildDate>
-    <item>
-      <title>Honeyglaze - Young Looking (3 plays)</title>
-      <link>https://www.last.fm/music/Honeyglaze/_/Young+Looking</link>
-      <guid isPermaLink="false">Frippertron-1681120201--Honeyglaze---Young Looking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/353c00aa354dc8d1dab2dc3605dba3c6.jpg" length="27502" type="image/jpeg"/>
-      <pubDate>Mon, 10 Apr 2023 05:50:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Honeyglaze - Souvenir (3 plays)</title>
-      <link>https://www.last.fm/music/Honeyglaze/_/Souvenir</link>
-      <guid isPermaLink="false">Frippertron-1681120358--Honeyglaze---Souvenir</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/353c00aa354dc8d1dab2dc3605dba3c6.jpg" length="27502" type="image/jpeg"/>
-      <pubDate>Mon, 10 Apr 2023 05:52:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Apr 2023 05:53:08 +0000</lastBuildDate>
     <item>
       <title>Honeyglaze - Childish Things (4 plays)</title>
       <link>https://www.last.fm/music/Honeyglaze/_/Childish+Things</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1681190632--Admiral Angry---Plastic Bath</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
       <pubDate>Tue, 11 Apr 2023 01:23:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Admiral Angry - Blow Down (3 plays)</title>
+      <link>https://www.last.fm/music/Admiral+Angry/_/Blow+Down</link>
+      <guid isPermaLink="false">Frippertron-1681191828--Admiral Angry---Blow Down</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 01:43:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Admiral Angry - Android (3 plays)</title>
+      <link>https://www.last.fm/music/Admiral+Angry/_/Android</link>
+      <guid isPermaLink="false">Frippertron-1681192205--Admiral Angry---Android</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 01:50:05 -0400</pubDate>
     </item>
   </channel>
 </rss>

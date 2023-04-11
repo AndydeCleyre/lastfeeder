@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Apr 2023 17:52:31 +0000</lastBuildDate>
-    <item>
-      <title>Slayer - Tormentor (2 plays)</title>
-      <link>https://www.last.fm/music/Slayer/_/Tormentor</link>
-      <guid isPermaLink="false">manosg--1681035890--bdacc37b-8633-4bf8-9dd5-4662ee651aec---Tormentor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1300963833066a410b75427ed1fb29b0.jpg" length="27816" type="image/jpeg"/>
-      <pubDate>Sun, 09 Apr 2023 06:24:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Slayer - The Final Command (2 plays)</title>
-      <link>https://www.last.fm/music/Slayer/_/The+Final+Command</link>
-      <guid isPermaLink="false">manosg--1681036209--bdacc37b-8633-4bf8-9dd5-4662ee651aec---The Final Command</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1300963833066a410b75427ed1fb29b0.jpg" length="27816" type="image/jpeg"/>
-      <pubDate>Sun, 09 Apr 2023 06:30:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Apr 2023 05:52:19 +0000</lastBuildDate>
     <item>
       <title>Slayer - Crionics (1 play)</title>
       <link>https://www.last.fm/music/Slayer/_/Crionics</link>
@@ -261,7 +247,7 @@
       <pubDate>Mon, 10 Apr 2023 11:09:15 -0400</pubDate>
     </item>
     <item>
-      <title>S.O.D. Stormtroopers Of Death - March of the S.O.D. / Sargent "D" (Live in Tokyo) (1 play)</title>
+      <title>S.O.D. Stormtroopers Of Death - March of the S.O.D. / Sargent "D" (Live in Tokyo) (2 plays)</title>
       <link>https://www.last.fm/music/S.O.D.+Stormtroopers+Of+Death/_/March+of+the+S.O.D.+%2F+Sargent+%22D%22+(Live+in+Tokyo)</link>
       <guid isPermaLink="false">manosg--1681139423--S.O.D. Stormtroopers Of Death---March of the S.O.D. / Sargent "D" (Live in Tokyo)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e9af8f4b79f42004f224f8d6b43aa4ee.jpg" length="34607" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1681148451--Lost Horizon---The Quickening</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84e6b480c5193ccbe7b08fa544f17254.png" length="241557" type="image/png"/>
       <pubDate>Mon, 10 Apr 2023 13:40:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>S.O.D. Stormtroopers Of Death - March of the S.O.D. / Sargent "D" (Live in Tokyo) (2 plays)</title>
+      <link>https://www.last.fm/music/S.O.D.+Stormtroopers+Of+Death/_/March+of+the+S.O.D.+%2F+Sargent+%22D%22+(Live+in+Tokyo)</link>
+      <guid isPermaLink="false">manosg--1681191975--S.O.D. Stormtroopers Of Death---March of the S.O.D. / Sargent "D" (Live in Tokyo)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e9af8f4b79f42004f224f8d6b43aa4ee.jpg" length="34607" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 01:46:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lost Horizon - Heart of Storm (1 play)</title>
+      <link>https://www.last.fm/music/Lost+Horizon/_/Heart+of+Storm</link>
+      <guid isPermaLink="false">manosg--1681191975--Lost Horizon---Heart of Storm</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84e6b480c5193ccbe7b08fa544f17254.png" length="241557" type="image/png"/>
+      <pubDate>Tue, 11 Apr 2023 01:46:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
