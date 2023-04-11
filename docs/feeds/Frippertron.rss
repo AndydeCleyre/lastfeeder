@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 08:21:12 +0000</lastBuildDate>
-    <item>
-      <title>Honeyglaze - Childish Things (4 plays)</title>
-      <link>https://www.last.fm/music/Honeyglaze/_/Childish+Things</link>
-      <guid isPermaLink="false">Frippertron-1681180958--Honeyglaze---Childish Things</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/353c00aa354dc8d1dab2dc3605dba3c6.jpg" length="27502" type="image/jpeg"/>
-      <pubDate>Mon, 10 Apr 2023 22:42:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Ten Years Gone (51 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Ten+Years+Gone</link>
-      <guid isPermaLink="false">Frippertron-1681181317--678d88b2-87b0-403b-b63d-5da7465aecc3---Ten Years Gone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Mon, 10 Apr 2023 22:48:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Apr 2023 08:38:58 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - The Wanton Song (42 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/The+Wanton+Song</link>
@@ -205,7 +191,7 @@
       <pubDate>Tue, 11 Apr 2023 00:54:47 -0400</pubDate>
     </item>
     <item>
-      <title>HMLTD - Lay Me Down</title>
+      <title>HMLTD - Lay Me Down (1 play)</title>
       <link>https://www.last.fm/music/HMLTD/_/Lay+Me+Down</link>
       <guid isPermaLink="false">Frippertron-1681189326--507a63d3-2efb-4657-958c-bc9457131f01---Lay Me Down</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e91999d8748ad6a2489c70cfab9af8a.jpg" length="11974" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1681201019--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Wuthering Heights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1598d47c04e9afe58c21c5ea9ade25da.jpg" length="16351" type="image/jpeg"/>
       <pubDate>Tue, 11 Apr 2023 04:16:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Replica (23 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Replica</link>
+      <guid isPermaLink="false">Frippertron-1681201444--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Replica</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1598d47c04e9afe58c21c5ea9ade25da.jpg" length="16351" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 04:24:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - El Mar Mediterrani (23 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/El+Mar+Mediterrani</link>
+      <guid isPermaLink="false">Frippertron-1681201737--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---El Mar Mediterrani</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1598d47c04e9afe58c21c5ea9ade25da.jpg" length="16351" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 04:28:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
