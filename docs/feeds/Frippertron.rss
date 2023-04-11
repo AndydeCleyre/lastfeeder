@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 08:38:58 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - The Wanton Song (42 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Wanton+Song</link>
-      <guid isPermaLink="false">Frippertron-1681181719--678d88b2-87b0-403b-b63d-5da7465aecc3---The Wanton Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Mon, 10 Apr 2023 22:55:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Apr 2023 08:52:23 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Trampled Under Foot (44 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Trampled+Under+Foot</link>
@@ -317,7 +310,7 @@
       <pubDate>Tue, 11 Apr 2023 03:52:33 -0400</pubDate>
     </item>
     <item>
-      <title>David Sylvian - Forbidden Colours (323 plays)</title>
+      <title>David Sylvian - Forbidden Colours (324 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Forbidden+Colours</link>
       <guid isPermaLink="false">Frippertron-1681199881--719db6b1-0d91-458c-8d18-875ec44105bf---Forbidden Colours</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1681201737--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---El Mar Mediterrani</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1598d47c04e9afe58c21c5ea9ade25da.jpg" length="16351" type="image/jpeg"/>
       <pubDate>Tue, 11 Apr 2023 04:28:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - Forbidden Colours (324 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/Forbidden+Colours</link>
+      <guid isPermaLink="false">Frippertron-1681202828--719db6b1-0d91-458c-8d18-875ec44105bf---Forbidden Colours</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6643fe918794698be831a436d10c810.png" length="67260" type="image/png"/>
+      <pubDate>Tue, 11 Apr 2023 04:47:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
