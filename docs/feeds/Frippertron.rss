@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 05:53:08 +0000</lastBuildDate>
-    <item>
-      <title>Honeyglaze - Childish Things (4 plays)</title>
-      <link>https://www.last.fm/music/Honeyglaze/_/Childish+Things</link>
-      <guid isPermaLink="false">Frippertron-1681120566--Honeyglaze---Childish Things</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/353c00aa354dc8d1dab2dc3605dba3c6.jpg" length="27502" type="image/jpeg"/>
-      <pubDate>Mon, 10 Apr 2023 05:56:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Deerhunter - Desire Lines (22 plays)</title>
-      <link>https://www.last.fm/music/Deerhunter/_/Desire+Lines</link>
-      <guid isPermaLink="false">Frippertron-1681120981--4f416ed7-dda2-45de-a6f1-b986e861cf4b---Desire Lines</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70a35c54fb2d4b75b0febce9614ccf6d.png" length="101547" type="image/png"/>
-      <pubDate>Mon, 10 Apr 2023 06:03:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Apr 2023 06:21:32 +0000</lastBuildDate>
     <item>
       <title>David Sylvian - Forbidden Colours (322 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Forbidden+Colours</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1681192205--Admiral Angry---Android</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
       <pubDate>Tue, 11 Apr 2023 01:50:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Admiral Angry - Specimen On (3 plays)</title>
+      <link>https://www.last.fm/music/Admiral+Angry/_/Specimen+On</link>
+      <guid isPermaLink="false">Frippertron-1681192526--Admiral Angry---Specimen On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 01:55:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Admiral Angry - Bug Vomit (3 plays)</title>
+      <link>https://www.last.fm/music/Admiral+Angry/_/Bug+Vomit</link>
+      <guid isPermaLink="false">Frippertron-1681192631--Admiral Angry---Bug Vomit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 01:57:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
