@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 13:02:15 +0000</lastBuildDate>
-    <item>
-      <title>Laura Stevenson - Life Is Long (98 plays)</title>
-      <link>https://www.last.fm/music/Laura+Stevenson/_/Life+Is+Long</link>
-      <guid isPermaLink="false">rockijosh-1681046816--70b166d1-b511-49f1-ad15-8b94603515d5---Life Is Long</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c808cbcb5cc8a77dee499bc1b321e82.jpg" length="18039" type="image/jpeg"/>
-      <pubDate>Sun, 09 Apr 2023 09:26:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Laura Stevenson - Tom Sawyer / You Know Where You Can Find Me (20 plays)</title>
-      <link>https://www.last.fm/music/Laura+Stevenson/_/Tom+Sawyer+%2F+You+Know+Where+You+Can+Find+Me</link>
-      <guid isPermaLink="false">rockijosh-1681047017--70b166d1-b511-49f1-ad15-8b94603515d5---Tom Sawyer / You Know Where You Can Find Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c808cbcb5cc8a77dee499bc1b321e82.jpg" length="18039" type="image/jpeg"/>
-      <pubDate>Sun, 09 Apr 2023 09:30:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Apr 2023 13:29:13 +0000</lastBuildDate>
     <item>
       <title>Fresh - Nervous Energy (1 play)</title>
       <link>https://www.last.fm/music/Fresh/_/Nervous+Energy</link>
@@ -121,7 +107,7 @@
       <pubDate>Sun, 09 Apr 2023 15:58:39 -0400</pubDate>
     </item>
     <item>
-      <title>Bring Me the Horizon - MANTRA (39 plays)</title>
+      <title>Bring Me the Horizon - MANTRA (40 plays)</title>
       <link>https://www.last.fm/music/Bring+Me+the+Horizon/_/MANTRA</link>
       <guid isPermaLink="false">rockijosh-1681070486--074e3847-f67f-49f9-81f1-8c8cea147e8e---MANTRA</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98ac0125284c3de2af1c0a6a1ddf301f.jpg" length="16363" type="image/jpeg"/>
@@ -149,7 +135,7 @@
       <pubDate>Sun, 09 Apr 2023 16:11:11 -0400</pubDate>
     </item>
     <item>
-      <title>Neko Case - The Pharoahs (61 plays)</title>
+      <title>Neko Case - The Pharoahs (62 plays)</title>
       <link>https://www.last.fm/music/Neko+Case/_/The+Pharoahs</link>
       <guid isPermaLink="false">rockijosh-1681071302--e13d2935-8c42-4c0a-96d7-654062acf106---The Pharoahs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33a265b8601f47c4a4f1b94beb3ddc0a.png" length="159484" type="image/png"/>
@@ -338,6 +324,13 @@
       <pubDate>Tue, 11 Apr 2023 08:41:41 -0400</pubDate>
     </item>
     <item>
+      <title>Bring Me the Horizon - MANTRA (40 plays)</title>
+      <link>https://www.last.fm/music/Bring+Me+the+Horizon/_/MANTRA</link>
+      <guid isPermaLink="false">rockijosh-1681217303--074e3847-f67f-49f9-81f1-8c8cea147e8e---MANTRA</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98ac0125284c3de2af1c0a6a1ddf301f.jpg" length="16363" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 08:48:23 -0400</pubDate>
+    </item>
+    <item>
       <title>Gerry Cinnamon - Sometimes (68 plays)</title>
       <link>https://www.last.fm/music/Gerry+Cinnamon/_/Sometimes</link>
       <guid isPermaLink="false">rockijosh-1681217303--f5bbb328-6990-45ff-bb42-0dcb97d47ddf---Sometimes</guid>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1681217655--arm's length---Object Permanence</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7239cc4f2c5673c2a0ec24ab5d903fbe.png" length="207605" type="image/png"/>
       <pubDate>Tue, 11 Apr 2023 08:54:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Neko Case - The Pharoahs (62 plays)</title>
+      <link>https://www.last.fm/music/Neko+Case/_/The+Pharoahs</link>
+      <guid isPermaLink="false">rockijosh-1681218554--e13d2935-8c42-4c0a-96d7-654062acf106---The Pharoahs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33a265b8601f47c4a4f1b94beb3ddc0a.png" length="159484" type="image/png"/>
+      <pubDate>Tue, 11 Apr 2023 09:09:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
