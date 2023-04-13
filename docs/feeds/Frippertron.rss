@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Apr 2023 05:40:26 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Summer (90 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Summer</link>
-      <guid isPermaLink="false">Frippertron-1681293779--66f8692c-966d-4dfb-a2ed-babf51241922---Summer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Wed, 12 Apr 2023 06:02:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Apr 2023 05:52:29 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Stay (250 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1681364142--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Doctor Jimmy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
       <pubDate>Thu, 13 Apr 2023 01:35:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Who - The Rock (19 plays)</title>
+      <link>https://www.last.fm/music/The+Who/_/The+Rock</link>
+      <guid isPermaLink="false">Frippertron-1681364660--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---The Rock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
+      <pubDate>Thu, 13 Apr 2023 01:44:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
