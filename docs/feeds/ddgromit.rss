@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 23:37:35 +0000</lastBuildDate>
-    <item>
-      <title>Myd - The Sun (4 plays)</title>
-      <link>https://www.last.fm/music/Myd/_/The+Sun</link>
-      <guid isPermaLink="false">ddgromit-1681151273--c61f03df-e3e4-4466-ba08-508383696b83---The Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57aa1c5a6a2743a05ec0ad7cf746bfc9.jpg" length="18839" type="image/jpeg"/>
-      <pubDate>Mon, 10 Apr 2023 14:27:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>ÜM - Lost in Paradise (1 play)</title>
-      <link>https://www.last.fm/music/%C3%9CM/_/Lost+in+Paradise</link>
-      <guid isPermaLink="false">ddgromit-1681151480--ÜM---Lost in Paradise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d75477772e384faa4d494c002893b241.jpg" length="20095" type="image/jpeg"/>
-      <pubDate>Mon, 10 Apr 2023 14:31:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Apr 2023 06:38:16 +0000</lastBuildDate>
     <item>
       <title>Stereoclip - Sunset Drive (1 play)</title>
       <link>https://www.last.fm/music/Stereoclip/_/Sunset+Drive</link>
@@ -247,7 +233,7 @@
       <pubDate>Tue, 11 Apr 2023 14:08:44 -0400</pubDate>
     </item>
     <item>
-      <title>Clem Beatz - Paper Plane (4 plays)</title>
+      <title>Clem Beatz - Paper Plane (5 plays)</title>
       <link>https://www.last.fm/music/Clem+Beatz/_/Paper+Plane</link>
       <guid isPermaLink="false">ddgromit-1681236621--Clem Beatz---Paper Plane</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb704180f9954b35cdae8260428b901b.jpg" length="14818" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1681255728--d5d5ba92-4bd4-4975-9806-99339eed3046---Eensy Weensy Spider</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28ded749f8de497697f6babdbb2f3c17.jpg" length="26064" type="image/jpeg"/>
       <pubDate>Tue, 11 Apr 2023 19:28:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Raffi - Frère Jacques (2 plays)</title>
+      <link>https://www.last.fm/music/Raffi/_/Fr%C3%A8re+Jacques</link>
+      <guid isPermaLink="false">ddgromit-1681256357--d5d5ba92-4bd4-4975-9806-99339eed3046---Frère Jacques</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d80a75fa78a4f018c9dba252f59a290.jpg" length="17897" type="image/jpeg"/>
+      <pubDate>Tue, 11 Apr 2023 19:39:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Clem Beatz - Paper Plane (5 plays)</title>
+      <link>https://www.last.fm/music/Clem+Beatz/_/Paper+Plane</link>
+      <guid isPermaLink="false">ddgromit-1681367464--Clem Beatz---Paper Plane</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb704180f9954b35cdae8260428b901b.jpg" length="14818" type="image/jpeg"/>
+      <pubDate>Thu, 13 Apr 2023 02:31:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
