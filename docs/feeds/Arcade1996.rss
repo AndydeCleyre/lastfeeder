@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Apr 2023 14:41:13 +0000</lastBuildDate>
-    <item>
-      <title>Oingo Boingo - Dead Man's Party (16 plays)</title>
-      <link>https://www.last.fm/music/Oingo+Boingo/_/Dead+Man%27s+Party</link>
-      <guid isPermaLink="false">Arcade1996-1681298234--166bc1cb-a2b7-412d-bcd5-5f439d2cf5f1---Dead Man's Party</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dde13d9d5d0f8db3a16ab6301a236f9.jpg" length="42966" type="image/jpeg"/>
-      <pubDate>Wed, 12 Apr 2023 07:17:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>How to Dress Well - Nonkilling 3 | The Anteroom | False Skull 1 (19 plays)</title>
-      <link>https://www.last.fm/music/How+to+Dress+Well/_/Nonkilling+3+%7C+The+Anteroom+%7C+False+Skull+1</link>
-      <guid isPermaLink="false">Arcade1996-1681298620--50a5520c-454a-4d5d-ab74-d442b58e7304---Nonkilling 3 | The Anteroom | False Skull 1</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27685fbb4f1848eebc824031bc772b27.jpg" length="32162" type="image/jpeg"/>
-      <pubDate>Wed, 12 Apr 2023 07:23:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Apr 2023 14:52:20 +0000</lastBuildDate>
     <item>
       <title>Orbital - Dirty Rat (12 plays)</title>
       <link>https://www.last.fm/music/Orbital/_/Dirty+Rat</link>
@@ -47,12 +33,14 @@
       <title>Jesus Piece - Silver Lining (2 plays)</title>
       <link>https://www.last.fm/music/Jesus+Piece/_/Silver+Lining</link>
       <guid isPermaLink="false">Arcade1996-1681346991--5272ad9e-a205-4d58-a088-2de06d6b0fbc---Silver Lining</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43c3b542cfae69290278b55ba3ebce89.jpg" length="20098" type="image/jpeg"/>
       <pubDate>Wed, 12 Apr 2023 20:49:51 -0400</pubDate>
     </item>
     <item>
       <title>Jesus Piece - II (1 play)</title>
       <link>https://www.last.fm/music/Jesus+Piece/_/II</link>
       <guid isPermaLink="false">Arcade1996-1681347226--5272ad9e-a205-4d58-a088-2de06d6b0fbc---II</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/625f10565ea566cc68ab946b32f6cf14.jpg" length="23486" type="image/jpeg"/>
       <pubDate>Wed, 12 Apr 2023 20:53:46 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1681367225--Eartheater---Solid Liquid Gas - Kiri VIP</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8f965f3d7b790479f63726f9c10189e.jpg" length="10319" type="image/jpeg"/>
       <pubDate>Thu, 13 Apr 2023 02:27:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Floating Points - Movement 1 (1 play)</title>
+      <link>https://www.last.fm/music/Floating+Points/_/Movement+1</link>
+      <guid isPermaLink="false">Arcade1996-1681396690--Floating Points---Movement 1</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e834b2176d7592462feb0a5dd583a206.jpg" length="17869" type="image/jpeg"/>
+      <pubDate>Thu, 13 Apr 2023 10:38:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Floating Points - Movement 2 (1 play)</title>
+      <link>https://www.last.fm/music/Floating+Points/_/Movement+2</link>
+      <guid isPermaLink="false">Arcade1996-1681397106--69d9c5ba-7bba-4cb7-ab32-8ccc48ad4f97---Movement 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e834b2176d7592462feb0a5dd583a206.jpg" length="17869" type="image/jpeg"/>
+      <pubDate>Thu, 13 Apr 2023 10:45:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
