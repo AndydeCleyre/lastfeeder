@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Apr 2023 14:15:07 +0000</lastBuildDate>
-    <item>
-      <title>AC/DC - The Jack (9 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/The+Jack</link>
-      <guid isPermaLink="false">manosg--1681312690--66c662b6-6e2f-4930-8610-912e24c63ed1---The Jack</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
-      <pubDate>Wed, 12 Apr 2023 11:18:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>AC/DC - Live Wire (11 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/Live+Wire</link>
-      <guid isPermaLink="false">manosg--1681317256--66c662b6-6e2f-4930-8610-912e24c63ed1---Live Wire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
-      <pubDate>Wed, 12 Apr 2023 12:34:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>AC/DC - T.N.T. (8 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/T.N.T.</link>
-      <guid isPermaLink="false">manosg--1681317613--66c662b6-6e2f-4930-8610-912e24c63ed1---T.N.T.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
-      <pubDate>Wed, 12 Apr 2023 12:40:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Apr 2023 14:29:18 +0000</lastBuildDate>
     <item>
       <title>AC/DC - Can I Sit Next to You Girl (9 plays)</title>
       <link>https://www.last.fm/music/AC%2FDC/_/Can+I+Sit+Next+to+You+Girl</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1681388797--ac15222f-fb8a-4d2b-b4da-bde1c19f0a9f---Mentally Yours</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/761ddaab035a32a22a97ed29b01fb385.jpg" length="31979" type="image/jpeg"/>
       <pubDate>Thu, 13 Apr 2023 08:26:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Savatage - Summer's Rain (7 plays)</title>
+      <link>https://www.last.fm/music/Savatage/_/Summer%27s+Rain</link>
+      <guid isPermaLink="false">manosg--1681395146--ac15222f-fb8a-4d2b-b4da-bde1c19f0a9f---Summer's Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/761ddaab035a32a22a97ed29b01fb385.jpg" length="31979" type="image/jpeg"/>
+      <pubDate>Thu, 13 Apr 2023 10:12:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Savatage - Thorazine Shuffle (3 plays)</title>
+      <link>https://www.last.fm/music/Savatage/_/Thorazine+Shuffle</link>
+      <guid isPermaLink="false">manosg--1681395443--ac15222f-fb8a-4d2b-b4da-bde1c19f0a9f---Thorazine Shuffle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/761ddaab035a32a22a97ed29b01fb385.jpg" length="31979" type="image/jpeg"/>
+      <pubDate>Thu, 13 Apr 2023 10:17:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Savatage - Alone you breathe - acoustic Version (1 play)</title>
+      <link>https://www.last.fm/music/Savatage/_/Alone+you+breathe+-+acoustic+Version</link>
+      <guid isPermaLink="false">manosg--1681395726--Savatage---Alone you breathe - acoustic Version</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/761ddaab035a32a22a97ed29b01fb385.jpg" length="31979" type="image/jpeg"/>
+      <pubDate>Thu, 13 Apr 2023 10:22:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
