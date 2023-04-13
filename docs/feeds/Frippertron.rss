@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Apr 2023 10:52:47 +0000</lastBuildDate>
-    <item>
-      <title>The Who - The Real Me (52 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/The+Real+Me</link>
-      <guid isPermaLink="false">Frippertron-1681271990--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---The Real Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Tue, 11 Apr 2023 23:59:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Apr 2023 02:21:55 +0000</lastBuildDate>
     <item>
       <title>The Who - I've Had Enough (33 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/I%27ve+Had+Enough</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1681296531--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Slow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a33696e9e7e4e838b4050ced65372a3.jpg" length="27178" type="image/jpeg"/>
       <pubDate>Wed, 12 Apr 2023 06:48:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Station to Station (92 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Station+to+Station</link>
+      <guid isPermaLink="false">Frippertron-1681351834--5441c29d-3602-4898-b1a1-b77fa23b8e50---Station to Station</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
+      <pubDate>Wed, 12 Apr 2023 22:10:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
