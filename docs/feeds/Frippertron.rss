@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Apr 2023 09:37:54 +0000</lastBuildDate>
-    <item>
-      <title>The Who - Cut My Hair (39 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/Cut+My+Hair</link>
-      <guid isPermaLink="false">Frippertron-1681360431--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Cut My Hair</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Thu, 13 Apr 2023 00:33:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Who - The Punk and the Godfather (28 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/The+Punk+and+the+Godfather</link>
-      <guid isPermaLink="false">Frippertron-1681360657--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---The Punk and the Godfather</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Thu, 13 Apr 2023 00:37:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Apr 2023 09:52:21 +0000</lastBuildDate>
     <item>
       <title>The Who - I'm One (19 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/I%27m+One</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1681378326--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Bolerish</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/645b4662e2fa4e0e9719e7baa4e270dd.png" length="29856" type="image/png"/>
       <pubDate>Thu, 13 Apr 2023 05:32:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Amore (49 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Amore</link>
+      <guid isPermaLink="false">Frippertron-1681378637--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Amore</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/645b4662e2fa4e0e9719e7baa4e270dd.png" length="29856" type="image/png"/>
+      <pubDate>Thu, 13 Apr 2023 05:37:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - The Sheltering Sky (59 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/The+Sheltering+Sky</link>
+      <guid isPermaLink="false">Frippertron-1681378949--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---The Sheltering Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/645b4662e2fa4e0e9719e7baa4e270dd.png" length="29856" type="image/png"/>
+      <pubDate>Thu, 13 Apr 2023 05:42:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
