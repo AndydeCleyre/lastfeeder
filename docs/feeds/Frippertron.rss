@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Apr 2023 07:39:33 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Carouselambra (12 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Carouselambra</link>
-      <guid isPermaLink="false">Frippertron-1681438622--678d88b2-87b0-403b-b63d-5da7465aecc3---Carouselambra</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f652e76b8db42e59279db8a6c3d697d.png" length="195734" type="image/png"/>
-      <pubDate>Thu, 13 Apr 2023 22:17:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - Laredo Tornado (67 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Laredo+Tornado</link>
-      <guid isPermaLink="false">Frippertron-1681439258--0c502791-4ee9-4c5f-9696-0602b721ff3b---Laredo Tornado</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9cd7032dd2ac443b8ca0cbf42eee794d.jpg" length="20987" type="image/jpeg"/>
-      <pubDate>Thu, 13 Apr 2023 22:27:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Apr 2023 07:52:18 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Poor Boy (The Greenwood) (50 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Poor+Boy+(The+Greenwood)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1681457273--a5b263e3-069f-46a2-9955-326d39392dd2---Installation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3034ee2c8527c66d28509eaf48e1d161.jpg" length="13677" type="image/jpeg"/>
       <pubDate>Fri, 14 Apr 2023 03:27:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Akufen - Skidoos (1 play)</title>
+      <link>https://www.last.fm/music/Akufen/_/Skidoos</link>
+      <guid isPermaLink="false">Frippertron-1681457760--a5b263e3-069f-46a2-9955-326d39392dd2---Skidoos</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3034ee2c8527c66d28509eaf48e1d161.jpg" length="13677" type="image/jpeg"/>
+      <pubDate>Fri, 14 Apr 2023 03:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Akufen - Deck the House (1 play)</title>
+      <link>https://www.last.fm/music/Akufen/_/Deck+the+House</link>
+      <guid isPermaLink="false">Frippertron-1681458300--a5b263e3-069f-46a2-9955-326d39392dd2---Deck the House</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3034ee2c8527c66d28509eaf48e1d161.jpg" length="13677" type="image/jpeg"/>
+      <pubDate>Fri, 14 Apr 2023 03:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
