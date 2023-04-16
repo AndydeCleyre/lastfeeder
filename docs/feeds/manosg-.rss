@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Apr 2023 11:12:46 +0000</lastBuildDate>
-    <item>
-      <title>The Police - Miss Gradenko (1 play)</title>
-      <link>https://www.last.fm/music/The+Police/_/Miss+Gradenko</link>
-      <guid isPermaLink="false">manosg--1681455701--9e0e2b01-41db-4008-bd8b-988977d6019a---Miss Gradenko</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/186d8f509e10fafc3493fc2ae7852a64.jpg" length="29751" type="image/jpeg"/>
-      <pubDate>Fri, 14 Apr 2023 03:01:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Apr 2023 12:52:27 +0000</lastBuildDate>
     <item>
       <title>Fever Dog - We Want Action (1 play)</title>
       <link>https://www.last.fm/music/Fever+Dog/_/We+Want+Action</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1681642315--66c662b6-6e2f-4930-8610-912e24c63ed1---Ride On</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5429eee7b4c447e09c844bd5003386c6.png" length="196790" type="image/png"/>
       <pubDate>Sun, 16 Apr 2023 06:51:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>AC/DC - Squealer (2 plays)</title>
+      <link>https://www.last.fm/music/AC%2FDC/_/Squealer</link>
+      <guid isPermaLink="false">manosg--1681642667--66c662b6-6e2f-4930-8610-912e24c63ed1---Squealer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5429eee7b4c447e09c844bd5003386c6.png" length="196790" type="image/png"/>
+      <pubDate>Sun, 16 Apr 2023 06:57:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
