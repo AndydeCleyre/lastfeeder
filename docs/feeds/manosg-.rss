@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Apr 2023 05:52:38 +0000</lastBuildDate>
-    <item>
-      <title>Metallica - Room of Mirrors (1 play)</title>
-      <link>https://www.last.fm/music/Metallica/_/Room+of+Mirrors</link>
-      <guid isPermaLink="false">manosg--1681467572--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Room of Mirrors</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eece449073df3d429183cd4ff7c82428.jpg" length="25876" type="image/jpeg"/>
-      <pubDate>Fri, 14 Apr 2023 06:19:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Metallica - Inamorata (1 play)</title>
-      <link>https://www.last.fm/music/Metallica/_/Inamorata</link>
-      <guid isPermaLink="false">manosg--1681467905--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Inamorata</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eece449073df3d429183cd4ff7c82428.jpg" length="25876" type="image/jpeg"/>
-      <pubDate>Fri, 14 Apr 2023 06:25:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Apr 2023 06:39:43 +0000</lastBuildDate>
     <item>
       <title>Metallica - Shadows Follow (2 plays)</title>
       <link>https://www.last.fm/music/Metallica/_/Shadows+Follow</link>
@@ -357,6 +343,19 @@
       <guid isPermaLink="false">manosg--1681709739--Venom---Angel Dust - Lead Weight Version</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a446b8e654549b7b18c8323b03f5962.jpg" length="27476" type="image/jpeg"/>
       <pubDate>Mon, 17 Apr 2023 01:35:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Triumpher - Journey/Europa Victrix (1 play)</title>
+      <link>https://www.last.fm/music/Triumpher/_/Journey%2FEuropa+Victrix</link>
+      <guid isPermaLink="false">manosg--1681709969--c488227f-d251-449d-aa3d-9165e398cc14---Journey/Europa Victrix</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ec5de681b4cfdf2b62b926d7c98e05c.jpg" length="18543" type="image/jpeg"/>
+      <pubDate>Mon, 17 Apr 2023 01:39:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Triumpher - The Thunderer (1 play)</title>
+      <link>https://www.last.fm/music/Triumpher/_/The+Thunderer</link>
+      <guid isPermaLink="false">manosg--1681712827--c488227f-d251-449d-aa3d-9165e398cc14---The Thunderer</guid>
+      <pubDate>Mon, 17 Apr 2023 02:27:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
