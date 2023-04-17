@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Apr 2023 05:37:15 +0000</lastBuildDate>
-    <item>
-      <title>Metallica - Too Far Gone? (1 play)</title>
-      <link>https://www.last.fm/music/Metallica/_/Too+Far+Gone%3F</link>
-      <guid isPermaLink="false">manosg--1681467296--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Too Far Gone?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eece449073df3d429183cd4ff7c82428.jpg" length="25876" type="image/jpeg"/>
-      <pubDate>Fri, 14 Apr 2023 06:14:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Apr 2023 05:52:38 +0000</lastBuildDate>
     <item>
       <title>Metallica - Room of Mirrors (1 play)</title>
       <link>https://www.last.fm/music/Metallica/_/Room+of+Mirrors</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1681666192--c0c6cc32-35ca-4dd3-b1ed-4d0a6e60598d---Red Light Fever</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a446b8e654549b7b18c8323b03f5962.jpg" length="27476" type="image/jpeg"/>
       <pubDate>Sun, 16 Apr 2023 13:29:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Venom - Angel Dust - Lead Weight Version (1 play)</title>
+      <link>https://www.last.fm/music/Venom/_/Angel+Dust+-+Lead+Weight+Version</link>
+      <guid isPermaLink="false">manosg--1681709739--Venom---Angel Dust - Lead Weight Version</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a446b8e654549b7b18c8323b03f5962.jpg" length="27476" type="image/jpeg"/>
+      <pubDate>Mon, 17 Apr 2023 01:35:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
