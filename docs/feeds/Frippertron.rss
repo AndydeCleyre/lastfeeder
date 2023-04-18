@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Apr 2023 20:18:32 +0000</lastBuildDate>
-    <item>
-      <title>Electric Light Orchestra - Summer and Lightning (25 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Summer+and+Lightning</link>
-      <guid isPermaLink="false">Frippertron-1681719030--0c502791-4ee9-4c5f-9696-0602b721ff3b---Summer and Lightning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png" length="171902" type="image/png"/>
-      <pubDate>Mon, 17 Apr 2023 04:10:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Apr 2023 20:38:04 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Mr. Blue Sky (25 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1681848331--0c502791-4ee9-4c5f-9696-0602b721ff3b---Turn to Stone</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png" length="171902" type="image/png"/>
       <pubDate>Tue, 18 Apr 2023 16:05:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rich Kids - Strange One (1 play)</title>
+      <link>https://www.last.fm/music/Rich+Kids/_/Strange+One</link>
+      <guid isPermaLink="false">Frippertron-1681849895--ccc29026-8d98-4d9d-b979-3ae973f19c0a---Strange One</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe4fe3b3fab443d9a1fa4c1ef1609bc4.jpg" length="24410" type="image/jpeg"/>
+      <pubDate>Tue, 18 Apr 2023 16:31:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
