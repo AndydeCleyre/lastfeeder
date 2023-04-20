@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Apr 2023 22:28:38 +0000</lastBuildDate>
-    <item>
-      <title>Caroline Polachek - Hopedrunk Everasking (10 plays)</title>
-      <link>https://www.last.fm/music/Caroline+Polachek/_/Hopedrunk+Everasking</link>
-      <guid isPermaLink="false">Frippertron-1681931597--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Hopedrunk Everasking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
-      <pubDate>Wed, 19 Apr 2023 15:13:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Caroline Polachek - Butterfly Net (10 plays)</title>
-      <link>https://www.last.fm/music/Caroline+Polachek/_/Butterfly+Net</link>
-      <guid isPermaLink="false">Frippertron-1681931800--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Butterfly Net</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
-      <pubDate>Wed, 19 Apr 2023 15:16:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Apr 2023 22:40:33 +0000</lastBuildDate>
     <item>
       <title>Caroline Polachek - Smoke (10 plays)</title>
       <link>https://www.last.fm/music/Caroline+Polachek/_/Smoke</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1682029161--a4e31e59-e662-4cf4-bd4f-d7bf712bc21f---The Cuckoo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5779614cb7bc4d668e3a220ec0fbd93e.jpg" length="24319" type="image/jpeg"/>
       <pubDate>Thu, 20 Apr 2023 18:19:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Pentangle - House Carpenter (1 play)</title>
+      <link>https://www.last.fm/music/The+Pentangle/_/House+Carpenter</link>
+      <guid isPermaLink="false">Frippertron-1682029432--a4e31e59-e662-4cf4-bd4f-d7bf712bc21f---House Carpenter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5779614cb7bc4d668e3a220ec0fbd93e.jpg" length="24319" type="image/jpeg"/>
+      <pubDate>Thu, 20 Apr 2023 18:23:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Fatima Mansions - Blues For Ceausescu (15 plays)</title>
+      <link>https://www.last.fm/music/The+Fatima+Mansions/_/Blues+For+Ceausescu</link>
+      <guid isPermaLink="false">Frippertron-1682029839--d29658ea-c7d1-45a1-b272-9628a06c28e9---Blues For Ceausescu</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef728684cfd42c8016de2fbb6a928fa8.jpg" length="29915" type="image/jpeg"/>
+      <pubDate>Thu, 20 Apr 2023 18:30:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
