@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Apr 2023 17:38:31 +0000</lastBuildDate>
-    <item>
-      <title>Herrick &amp; Hooley - Sun (8 plays)</title>
-      <link>https://www.last.fm/music/Herrick+&amp;+Hooley/_/Sun</link>
-      <guid isPermaLink="false">lintmunro-1680404592--f7230ef9-92c6-45bc-a955-0b415b2b854c---Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/433a59c72beb2b71c3ea4632faf054bb.jpg" length="16444" type="image/jpeg"/>
-      <pubDate>Sat, 01 Apr 2023 23:03:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yussef Dayes - For My Ladies (4 plays)</title>
-      <link>https://www.last.fm/music/Yussef+Dayes/_/For+My+Ladies</link>
-      <guid isPermaLink="false">lintmunro-1680404869--Yussef Dayes---For My Ladies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67efd7bafa3c327f1dbb8f3e854b2932.jpg" length="15173" type="image/jpeg"/>
-      <pubDate>Sat, 01 Apr 2023 23:07:49 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Apr 2023 15:38:03 +0000</lastBuildDate>
     <item>
       <title>Herrick &amp; Hooley - Sun (8 plays)</title>
       <link>https://www.last.fm/music/Herrick+&amp;+Hooley/_/Sun</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1682011360--8f0f0094-dba4-45c4-943c-97ff0052d271---Imposing Hammers of Cold Sorcery</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6002e863d77bb4c34080dac5cbf79ee8.jpg" length="29776" type="image/jpeg"/>
       <pubDate>Thu, 20 Apr 2023 13:22:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>High Command - Fortified By Bloodshed (2 plays)</title>
+      <link>https://www.last.fm/music/High+Command/_/Fortified+By+Bloodshed</link>
+      <guid isPermaLink="false">lintmunro-1682012382--8f0f0094-dba4-45c4-943c-97ff0052d271---Fortified By Bloodshed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6002e863d77bb4c34080dac5cbf79ee8.jpg" length="29776" type="image/jpeg"/>
+      <pubDate>Thu, 20 Apr 2023 13:39:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>High Command - Omniscient Flail of Infamy (1 play)</title>
+      <link>https://www.last.fm/music/High+Command/_/Omniscient+Flail+of+Infamy</link>
+      <guid isPermaLink="false">lintmunro-1682012383--8f0f0094-dba4-45c4-943c-97ff0052d271---Omniscient Flail of Infamy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6002e863d77bb4c34080dac5cbf79ee8.jpg" length="29776" type="image/jpeg"/>
+      <pubDate>Thu, 20 Apr 2023 13:39:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
