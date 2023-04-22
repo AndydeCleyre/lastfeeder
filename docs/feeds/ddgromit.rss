@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Apr 2023 15:16:38 +0000</lastBuildDate>
-    <item>
-      <title>Aiiso - Autumn Leaves (1 play)</title>
-      <link>https://www.last.fm/music/Aiiso/_/Autumn+Leaves</link>
-      <guid isPermaLink="false">ddgromit-1681841434--Aiiso---Autumn Leaves</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/83a800ec558dd400cd0c1884376cf722.jpg" length="17155" type="image/jpeg"/>
-      <pubDate>Tue, 18 Apr 2023 14:10:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Nuage - Flares (1 play)</title>
-      <link>https://www.last.fm/music/Nuage/_/Flares</link>
-      <guid isPermaLink="false">ddgromit-1681841683--805cdd09-5979-481b-8875-e19be3a819b3---Flares</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e5132ce462e4c83900ae56246556692.jpg" length="14420" type="image/jpeg"/>
-      <pubDate>Tue, 18 Apr 2023 14:14:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Apr 2023 01:20:37 +0000</lastBuildDate>
     <item>
       <title>Eagles &amp; Butterflies - The Last Dance - Synthapella (2 plays)</title>
       <link>https://www.last.fm/music/Eagles+&amp;+Butterflies/_/The+Last+Dance+-+Synthapella</link>
@@ -47,6 +33,7 @@
       <title>Fluida - A Self and a Mind (1 play)</title>
       <link>https://www.last.fm/music/Fluida/_/A+Self+and+a+Mind</link>
       <guid isPermaLink="false">ddgromit-1681842592--6f3c0ee4-b646-41d7-aacb-074ea44a166c---A Self and a Mind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9aaa33a9f67ab10efb39585fef6149f0.jpg" length="14662" type="image/jpeg"/>
       <pubDate>Tue, 18 Apr 2023 14:29:52 -0400</pubDate>
     </item>
     <item>
@@ -351,11 +338,25 @@
       <pubDate>Thu, 20 Apr 2023 19:39:43 -0400</pubDate>
     </item>
     <item>
-      <title>Maggie Rogers - Light On (3 plays)</title>
+      <title>Maggie Rogers - Light On (4 plays)</title>
       <link>https://www.last.fm/music/Maggie+Rogers/_/Light+On</link>
       <guid isPermaLink="false">ddgromit-1682034206--dde26295-8cd4-474c-8740-3edb801b2776---Light On</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cd218ed72b381a255794be47d4a8dac.jpg" length="18921" type="image/jpeg"/>
       <pubDate>Thu, 20 Apr 2023 19:43:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Maroon 5 - Sugar (1 play)</title>
+      <link>https://www.last.fm/music/Maroon+5/_/Sugar</link>
+      <guid isPermaLink="false">ddgromit-1682089235--0ab49580-c84f-44d4-875f-d83760ea2cfe---Sugar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9dcbbb2587be11cca47d21f0619b49df.jpg" length="17416" type="image/jpeg"/>
+      <pubDate>Fri, 21 Apr 2023 11:00:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Maggie Rogers - Light On (4 plays)</title>
+      <link>https://www.last.fm/music/Maggie+Rogers/_/Light+On</link>
+      <guid isPermaLink="false">ddgromit-1682123508--dde26295-8cd4-474c-8740-3edb801b2776---Light On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cd218ed72b381a255794be47d4a8dac.jpg" length="18921" type="image/jpeg"/>
+      <pubDate>Fri, 21 Apr 2023 20:31:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
