@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Apr 2023 14:52:45 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - Hex Omega (2 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Hex+Omega</link>
-      <guid isPermaLink="false">manosg--1681986400--c14b4180-dc87-481e-b17a-64e4150f90f6---Hex Omega</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/542562c33a374b57cb1b780a7ea21d65.png" length="82083" type="image/png"/>
-      <pubDate>Thu, 20 Apr 2023 06:26:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - Windowpane (10 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Windowpane</link>
-      <guid isPermaLink="false">manosg--1681986838--c14b4180-dc87-481e-b17a-64e4150f90f6---Windowpane</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Thu, 20 Apr 2023 06:33:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Apr 2023 05:28:06 +0000</lastBuildDate>
     <item>
       <title>Opeth - In My Time of Need (10 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/In+My+Time+of+Need</link>
@@ -282,7 +268,7 @@
       <pubDate>Fri, 21 Apr 2023 06:21:44 -0400</pubDate>
     </item>
     <item>
-      <title>Rose City Band - Chasing Rainbows (1 play)</title>
+      <title>Rose City Band - Chasing Rainbows (2 plays)</title>
       <link>https://www.last.fm/music/Rose+City+Band/_/Chasing+Rainbows</link>
       <guid isPermaLink="false">manosg--1682072617--5c0fd749-09f8-4ece-b489-364fa10fe202---Chasing Rainbows</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/690c20b64116bb37b8799c67e3364d3f.png" length="176629" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1682087972--45e0e1a6-d574-4fa4-ae10-bb7652c5138d---The Talisman and the Blade</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e5b1ff0fcd8a98b7bcc9939b190dfba.jpg" length="26123" type="image/jpeg"/>
       <pubDate>Fri, 21 Apr 2023 10:39:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Smoulder - Midnight in the Mirror World (1 play)</title>
+      <link>https://www.last.fm/music/Smoulder/_/Midnight+in+the+Mirror+World</link>
+      <guid isPermaLink="false">manosg--1682088260--45e0e1a6-d574-4fa4-ae10-bb7652c5138d---Midnight in the Mirror World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e5b1ff0fcd8a98b7bcc9939b190dfba.jpg" length="26123" type="image/jpeg"/>
+      <pubDate>Fri, 21 Apr 2023 10:44:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rose City Band - Chasing Rainbows (2 plays)</title>
+      <link>https://www.last.fm/music/Rose+City+Band/_/Chasing+Rainbows</link>
+      <guid isPermaLink="false">manosg--1682140828--5c0fd749-09f8-4ece-b489-364fa10fe202---Chasing Rainbows</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/690c20b64116bb37b8799c67e3364d3f.png" length="176629" type="image/png"/>
+      <pubDate>Sat, 22 Apr 2023 01:20:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
