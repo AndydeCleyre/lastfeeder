@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Apr 2023 05:39:23 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - Hope Leaves (7 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Hope+Leaves</link>
-      <guid isPermaLink="false">manosg--1682005241--c14b4180-dc87-481e-b17a-64e4150f90f6---Hope Leaves</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Thu, 20 Apr 2023 11:40:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - To Rid the Disease (6 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/To+Rid+the+Disease</link>
-      <guid isPermaLink="false">manosg--1682005508--c14b4180-dc87-481e-b17a-64e4150f90f6---To Rid the Disease</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c974cc0caf0beec33bdb9f9392683d30.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Thu, 20 Apr 2023 11:45:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Apr 2023 05:52:12 +0000</lastBuildDate>
     <item>
       <title>Opeth - Ending Credits (6 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Ending+Credits</link>
@@ -177,7 +163,7 @@
       <pubDate>Fri, 21 Apr 2023 03:23:16 -0400</pubDate>
     </item>
     <item>
-      <title>Tanith - Falling Wizard</title>
+      <title>Tanith - Falling Wizard (1 play)</title>
       <link>https://www.last.fm/music/Tanith/_/Falling+Wizard</link>
       <guid isPermaLink="false">manosg--1682062089--Tanith---Falling Wizard</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53e8e5e4ec2a015e5f6dba8e37151721.jpg" length="26994" type="image/jpeg"/>
@@ -275,14 +261,14 @@
       <pubDate>Fri, 21 Apr 2023 06:35:27 -0400</pubDate>
     </item>
     <item>
-      <title>Rose City Band - Saturday's Gone (1 play)</title>
+      <title>Rose City Band - Saturday's Gone (2 plays)</title>
       <link>https://www.last.fm/music/Rose+City+Band/_/Saturday%27s+Gone</link>
       <guid isPermaLink="false">manosg--1682073814--5c0fd749-09f8-4ece-b489-364fa10fe202---Saturday's Gone</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/690c20b64116bb37b8799c67e3364d3f.png" length="176629" type="image/png"/>
       <pubDate>Fri, 21 Apr 2023 06:43:34 -0400</pubDate>
     </item>
     <item>
-      <title>Rose City Band - Mariposa (1 play)</title>
+      <title>Rose City Band - Mariposa (2 plays)</title>
       <link>https://www.last.fm/music/Rose+City+Band/_/Mariposa</link>
       <guid isPermaLink="false">manosg--1682074023--5c0fd749-09f8-4ece-b489-364fa10fe202---Mariposa</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/690c20b64116bb37b8799c67e3364d3f.png" length="176629" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1682141535--5c0fd749-09f8-4ece-b489-364fa10fe202---Porch Boogie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/690c20b64116bb37b8799c67e3364d3f.png" length="176629" type="image/png"/>
       <pubDate>Sat, 22 Apr 2023 01:32:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rose City Band - Saturday's Gone (2 plays)</title>
+      <link>https://www.last.fm/music/Rose+City+Band/_/Saturday%27s+Gone</link>
+      <guid isPermaLink="false">manosg--1682141950--5c0fd749-09f8-4ece-b489-364fa10fe202---Saturday's Gone</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/690c20b64116bb37b8799c67e3364d3f.png" length="176629" type="image/png"/>
+      <pubDate>Sat, 22 Apr 2023 01:39:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rose City Band - Mariposa (2 plays)</title>
+      <link>https://www.last.fm/music/Rose+City+Band/_/Mariposa</link>
+      <guid isPermaLink="false">manosg--1682142158--5c0fd749-09f8-4ece-b489-364fa10fe202---Mariposa</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/690c20b64116bb37b8799c67e3364d3f.png" length="176629" type="image/png"/>
+      <pubDate>Sat, 22 Apr 2023 01:42:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
