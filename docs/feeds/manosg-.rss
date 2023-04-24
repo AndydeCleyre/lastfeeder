@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Apr 2023 12:32:57 +0000</lastBuildDate>
-    <item>
-      <title>Michael Rault - New Day Tonight (1 play)</title>
-      <link>https://www.last.fm/music/Michael+Rault/_/New+Day+Tonight</link>
-      <guid isPermaLink="false">manosg--1682249576--48b30961-f656-4dc8-a100-60404311b606---New Day Tonight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d9e45224871be939acabdea8ae8f4af.jpg" length="18467" type="image/jpeg"/>
-      <pubDate>Sun, 23 Apr 2023 07:32:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>color green - Blizzed Out (1 play)</title>
-      <link>https://www.last.fm/music/color+green/_/Blizzed+Out</link>
-      <guid isPermaLink="false">manosg--1682249753--1951caa6-cb19-4492-8abb-c4e138ac1e98---Blizzed Out</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/570c86a40583bfc68a08b0ebd590caf3.jpg" length="30873" type="image/jpeg"/>
-      <pubDate>Sun, 23 Apr 2023 07:35:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Apr 2023 14:29:01 +0000</lastBuildDate>
     <item>
       <title>Psychic Ills - Mixed Up Mind (1 play)</title>
       <link>https://www.last.fm/music/Psychic+Ills/_/Mixed+Up+Mind</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1682339169--959cf5bf-ee29-4af6-a85a-0b480181d988---Rollercoaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/174023ae838bc886acc44163bc14a8b2.jpg" length="21107" type="image/jpeg"/>
       <pubDate>Mon, 24 Apr 2023 08:26:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Metallica - Fixxxer (3 plays)</title>
+      <link>https://www.last.fm/music/Metallica/_/Fixxxer</link>
+      <guid isPermaLink="false">manosg--1682345608--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Fixxxer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe8459ee7bc8b4be77c9f2eac5f2fee9.png" length="125764" type="image/png"/>
+      <pubDate>Mon, 24 Apr 2023 10:13:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Metallica - Fuel (3 plays)</title>
+      <link>https://www.last.fm/music/Metallica/_/Fuel</link>
+      <guid isPermaLink="false">manosg--1682346107--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Fuel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe8459ee7bc8b4be77c9f2eac5f2fee9.png" length="125764" type="image/png"/>
+      <pubDate>Mon, 24 Apr 2023 10:21:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
