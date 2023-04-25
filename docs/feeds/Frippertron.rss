@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 05:37:37 +0000</lastBuildDate>
-    <item>
-      <title>Caroline Polachek - Welcome to My Island (12 plays)</title>
-      <link>https://www.last.fm/music/Caroline+Polachek/_/Welcome+to+My+Island</link>
-      <guid isPermaLink="false">Frippertron-1682327120--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Welcome to My Island</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 05:05:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Apr 2023 05:52:20 +0000</lastBuildDate>
     <item>
       <title>Caroline Polachek - Pretty in Possible (13 plays)</title>
       <link>https://www.last.fm/music/Caroline+Polachek/_/Pretty+in+Possible</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1682400784--678d88b2-87b0-403b-b63d-5da7465aecc3---Guitar Solo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
       <pubDate>Tue, 25 Apr 2023 01:33:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Achilles Last Stand (48 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Achilles+Last+Stand</link>
+      <guid isPermaLink="false">Frippertron-1682401394--678d88b2-87b0-403b-b63d-5da7465aecc3---Achilles Last Stand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
+      <pubDate>Tue, 25 Apr 2023 01:43:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
