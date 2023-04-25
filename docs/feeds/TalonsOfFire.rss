@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 20:37:21 +0000</lastBuildDate>
-    <item>
-      <title>John Frusciante - Wishing (3 plays)</title>
-      <link>https://www.last.fm/music/John+Frusciante/_/Wishing</link>
-      <guid isPermaLink="false">TalonsOfFire-1682088011--f1571db1-c672-4a54-a2cf-aaa329f26f0b---Wishing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9669e560278ad4d7539205c795a4ce1.jpg" length="20839" type="image/jpeg"/>
-      <pubDate>Fri, 21 Apr 2023 10:40:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>John Frusciante - The Days Have Turned (2 plays)</title>
-      <link>https://www.last.fm/music/John+Frusciante/_/The+Days+Have+Turned</link>
-      <guid isPermaLink="false">TalonsOfFire-1682090726--f1571db1-c672-4a54-a2cf-aaa329f26f0b---The Days Have Turned</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9669e560278ad4d7539205c795a4ce1.jpg" length="20839" type="image/jpeg"/>
-      <pubDate>Fri, 21 Apr 2023 11:25:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Apr 2023 20:52:11 +0000</lastBuildDate>
     <item>
       <title>John Frusciante - Helical (5 plays)</title>
       <link>https://www.last.fm/music/John+Frusciante/_/Helical</link>
@@ -324,7 +310,7 @@
       <pubDate>Tue, 25 Apr 2023 16:09:28 -0400</pubDate>
     </item>
     <item>
-      <title>Red Hot Chili Peppers - Hey</title>
+      <title>Red Hot Chili Peppers - Hey (5 plays)</title>
       <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Hey</link>
       <guid isPermaLink="false">TalonsOfFire-1682453665--8bfac288-ccc5-448d-9573-c33ea2aa5c30---Hey</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb7d1a6c6e5240c48159d08b17ea022b.png" length="180254" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1682454825--8bfac288-ccc5-448d-9573-c33ea2aa5c30---Readymade</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb7d1a6c6e5240c48159d08b17ea022b.png" length="180254" type="image/png"/>
       <pubDate>Tue, 25 Apr 2023 16:33:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Red Hot Chili Peppers - If (3 plays)</title>
+      <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/If</link>
+      <guid isPermaLink="false">TalonsOfFire-1682455058--8bfac288-ccc5-448d-9573-c33ea2aa5c30---If</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb7d1a6c6e5240c48159d08b17ea022b.png" length="180254" type="image/png"/>
+      <pubDate>Tue, 25 Apr 2023 16:37:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Red Hot Chili Peppers - Animal Bar (5 plays)</title>
+      <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Animal+Bar</link>
+      <guid isPermaLink="false">TalonsOfFire-1682455242--8bfac288-ccc5-448d-9573-c33ea2aa5c30---Animal Bar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb7d1a6c6e5240c48159d08b17ea022b.png" length="180254" type="image/png"/>
+      <pubDate>Tue, 25 Apr 2023 16:40:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
