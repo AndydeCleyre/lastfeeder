@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 04:19:51 +0000</lastBuildDate>
-    <item>
-      <title>Queen - We Will Rock You (fast) (35 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/We+Will+Rock+You+(fast)</link>
-      <guid isPermaLink="false">Frippertron-1682323732--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---We Will Rock You (fast)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 04:08:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Brighton Rock (69 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Brighton+Rock</link>
-      <guid isPermaLink="false">Frippertron-1682323932--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Brighton Rock</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 04:12:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Apr 2023 04:38:21 +0000</lastBuildDate>
     <item>
       <title>Queen - Somebody to Love (62 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Somebody+to+Love</link>
@@ -345,7 +331,7 @@
       <pubDate>Mon, 24 Apr 2023 23:38:26 -0400</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - No Quarter (70 plays)</title>
+      <title>Led Zeppelin - No Quarter (71 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/No+Quarter</link>
       <guid isPermaLink="false">Frippertron-1682394500--678d88b2-87b0-403b-b63d-5da7465aecc3---No Quarter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1682395538--0f3f7357-73d3-42a3-81a5-b359bc4e8a56---One Last Taste of Heaven</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6f3352aea274709ea64a49b84f02484.jpg" length="42764" type="image/jpeg"/>
       <pubDate>Tue, 25 Apr 2023 00:05:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - No Quarter (71 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/No+Quarter</link>
+      <guid isPermaLink="false">Frippertron-1682396729--678d88b2-87b0-403b-b63d-5da7465aecc3---No Quarter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
+      <pubDate>Tue, 25 Apr 2023 00:25:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Ten Years Gone (53 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Ten+Years+Gone</link>
+      <guid isPermaLink="false">Frippertron-1682396978--678d88b2-87b0-403b-b63d-5da7465aecc3---Ten Years Gone</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
+      <pubDate>Tue, 25 Apr 2023 00:29:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
