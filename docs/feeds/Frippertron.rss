@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 04:38:21 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Somebody to Love (62 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Somebody+to+Love</link>
-      <guid isPermaLink="false">Frippertron-1682324155--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Somebody to Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 04:15:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Staying Power (70 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Staying+Power</link>
-      <guid isPermaLink="false">Frippertron-1682324530--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Staying Power</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
-      <pubDate>Mon, 24 Apr 2023 04:22:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Apr 2023 04:52:49 +0000</lastBuildDate>
     <item>
       <title>Manic Street Preachers - Faster (65 plays)</title>
       <link>https://www.last.fm/music/Manic+Street+Preachers/_/Faster</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1682396978--678d88b2-87b0-403b-b63d-5da7465aecc3---Ten Years Gone</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
       <pubDate>Tue, 25 Apr 2023 00:29:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Battle of Evermore (6 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Battle+of+Evermore</link>
+      <guid isPermaLink="false">Frippertron-1682397608--678d88b2-87b0-403b-b63d-5da7465aecc3---The Battle of Evermore</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
+      <pubDate>Tue, 25 Apr 2023 00:40:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Going to California (7 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Going+to+California</link>
+      <guid isPermaLink="false">Frippertron-1682398043--678d88b2-87b0-403b-b63d-5da7465aecc3---Going to California</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
+      <pubDate>Tue, 25 Apr 2023 00:47:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
