@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 07:52:27 +0000</lastBuildDate>
-    <item>
-      <title>Caroline Polachek - Billions (12 plays)</title>
-      <link>https://www.last.fm/music/Caroline+Polachek/_/Billions</link>
-      <guid isPermaLink="false">Frippertron-1682329573--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Billions</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 05:46:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Island Girl (21 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Island+Girl</link>
-      <guid isPermaLink="false">Frippertron-1682329915--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Island Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26248132e33d85cb29bbd81cf0bef6a8.jpg" length="24656" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 05:51:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Apr 2023 08:20:53 +0000</lastBuildDate>
     <item>
       <title>Elton John - Grow Some Funk Of Your Own (18 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Grow+Some+Funk+Of+Your+Own</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1682408593--8353f93f-163e-48c2-bb75-9f18987a3d46---Close to the Edge</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee7d192fb14b6ccb57676f75b889fc.png" length="181338" type="image/png"/>
       <pubDate>Tue, 25 Apr 2023 03:43:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Siberian Khatru (84 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Siberian+Khatru</link>
+      <guid isPermaLink="false">Frippertron-1682409707--8353f93f-163e-48c2-bb75-9f18987a3d46---Siberian Khatru</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee7d192fb14b6ccb57676f75b889fc.png" length="181338" type="image/png"/>
+      <pubDate>Tue, 25 Apr 2023 04:01:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Sound Chaser (53 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Sound+Chaser</link>
+      <guid isPermaLink="false">Frippertron-1682410262--8353f93f-163e-48c2-bb75-9f18987a3d46---Sound Chaser</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
+      <pubDate>Tue, 25 Apr 2023 04:11:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
