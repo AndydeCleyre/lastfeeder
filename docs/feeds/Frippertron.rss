@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 09:16:55 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - The Wide-Eyed And Laughing (30 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/The+Wide-Eyed+And+Laughing</link>
-      <guid isPermaLink="false">Frippertron-1682389318--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---The Wide-Eyed And Laughing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 22:21:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Out Of The Blue (13 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Out+Of+The+Blue</link>
-      <guid isPermaLink="false">Frippertron-1682389527--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Out Of The Blue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 22:25:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Apr 2023 09:37:36 +0000</lastBuildDate>
     <item>
       <title>Elton John - Idol (35 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Idol</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1682413469--badda5cf-f2c5-4dc2-b3d3-07467bdf0f71---Alone Together</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28b061399426d168f4dbfb599ba86ca4.jpg" length="19549" type="image/jpeg"/>
       <pubDate>Tue, 25 Apr 2023 05:04:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eric Dolphy - Muses for Richard Davis (1 play)</title>
+      <link>https://www.last.fm/music/Eric+Dolphy/_/Muses+for+Richard+Davis</link>
+      <guid isPermaLink="false">Frippertron-1682414288--badda5cf-f2c5-4dc2-b3d3-07467bdf0f71---Muses for Richard Davis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28b061399426d168f4dbfb599ba86ca4.jpg" length="19549" type="image/jpeg"/>
+      <pubDate>Tue, 25 Apr 2023 05:18:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eric Dolphy - Iron Man (2 plays)</title>
+      <link>https://www.last.fm/music/Eric+Dolphy/_/Iron+Man</link>
+      <guid isPermaLink="false">Frippertron-1682414914--badda5cf-f2c5-4dc2-b3d3-07467bdf0f71---Iron Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28b061399426d168f4dbfb599ba86ca4.jpg" length="19549" type="image/jpeg"/>
+      <pubDate>Tue, 25 Apr 2023 05:28:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
