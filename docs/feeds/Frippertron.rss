@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 05:15:40 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - The Width of a Circle (66 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Width+of+a+Circle</link>
-      <guid isPermaLink="false">Frippertron-1682326097--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Width of a Circle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
-      <pubDate>Mon, 24 Apr 2023 04:48:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - All the Madmen (39 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/All+the+Madmen</link>
-      <guid isPermaLink="false">Frippertron-1682326590--5441c29d-3602-4898-b1a1-b77fa23b8e50---All the Madmen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
-      <pubDate>Mon, 24 Apr 2023 04:56:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Apr 2023 05:37:37 +0000</lastBuildDate>
     <item>
       <title>Caroline Polachek - Welcome to My Island (12 plays)</title>
       <link>https://www.last.fm/music/Caroline+Polachek/_/Welcome+to+My+Island</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1682399141--678d88b2-87b0-403b-b63d-5da7465aecc3---Kashmir</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
       <pubDate>Tue, 25 Apr 2023 01:05:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Moby Dick (11 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Moby+Dick</link>
+      <guid isPermaLink="false">Frippertron-1682399710--678d88b2-87b0-403b-b63d-5da7465aecc3---Moby Dick</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
+      <pubDate>Tue, 25 Apr 2023 01:15:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Guitar Solo (2 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Guitar+Solo</link>
+      <guid isPermaLink="false">Frippertron-1682400784--678d88b2-87b0-403b-b63d-5da7465aecc3---Guitar Solo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
+      <pubDate>Tue, 25 Apr 2023 01:33:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
