@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 14:28:49 +0000</lastBuildDate>
-    <item>
-      <title>Van Morrison - Wild Night (1 play)</title>
-      <link>https://www.last.fm/music/Van+Morrison/_/Wild+Night</link>
-      <guid isPermaLink="false">rockijosh-1682448307--a41ac10f-0a56-4672-9161-b83f9b223559---Wild Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c083f4fc63c995de5e7135e79afa242.jpg" length="18160" type="image/jpeg"/>
-      <pubDate>Tue, 25 Apr 2023 14:45:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>Traveling Wilburys - Margarita (1 play)</title>
-      <link>https://www.last.fm/music/Traveling+Wilburys/_/Margarita</link>
-      <guid isPermaLink="false">rockijosh-1682448521--4387b544-e4d0-4f18-b74e-d4a5ba1582ab---Margarita</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73f70dd6acee19dd35ded66bbe1a3f0c.jpg" length="31976" type="image/jpeg"/>
-      <pubDate>Tue, 25 Apr 2023 14:48:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Apr 2023 14:40:35 +0000</lastBuildDate>
     <item>
       <title>Fleetwood Mac - Rhiannon (1 play)</title>
       <link>https://www.last.fm/music/Fleetwood+Mac/_/Rhiannon</link>
@@ -327,6 +313,7 @@
       <title>Young the Giant - Heat of the Summer (1 play)</title>
       <link>https://www.last.fm/music/Young+the+Giant/_/Heat+of+the+Summer</link>
       <guid isPermaLink="false">rockijosh-1682518168--7fe96b15-5608-430e-ad25-77a01353c5d9---Heat of the Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7854d459270ee0f7494c5b0619b6706.jpg" length="15647" type="image/jpeg"/>
       <pubDate>Wed, 26 Apr 2023 10:09:28 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1682519048--63aa26c3-d59b-4da4-84ac-716b54f1ef4d---The Less I Know the Better</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg" length="43574" type="image/jpeg"/>
       <pubDate>Wed, 26 Apr 2023 10:24:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>TV on the Radio - Happy Idiot (96 plays)</title>
+      <link>https://www.last.fm/music/TV+on+the+Radio/_/Happy+Idiot</link>
+      <guid isPermaLink="false">rockijosh-1682519265--eb872766-98f6-453d-883f-2ae908a18315---Happy Idiot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c65846824e3f41ccc18b98e927ff18f6.png" length="140396" type="image/png"/>
+      <pubDate>Wed, 26 Apr 2023 10:27:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>alt-J - Deadcrush (1 play)</title>
+      <link>https://www.last.fm/music/alt-J/_/Deadcrush</link>
+      <guid isPermaLink="false">rockijosh-1682519485--fc7bbf00-fbaa-4736-986b-b3ac0266ca9b---Deadcrush</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6259a0d6ec6bfcb4c6cda530ae90231.jpg" length="11943" type="image/jpeg"/>
+      <pubDate>Wed, 26 Apr 2023 10:31:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
