@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 21:52:28 +0000</lastBuildDate>
-    <item>
-      <title>Lilyisthatyou - FMRN (2 plays)</title>
-      <link>https://www.last.fm/music/Lilyisthatyou/_/FMRN</link>
-      <guid isPermaLink="false">gameofmetal-1682523288--Lilyisthatyou---FMRN</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7dfdc60884e4122ee3ce72a312380cfb.jpg" length="27985" type="image/jpeg"/>
-      <pubDate>Wed, 26 Apr 2023 11:34:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Apr 2023 23:37:38 +0000</lastBuildDate>
     <item>
       <title>Coi Leray - Players (29 plays)</title>
       <link>https://www.last.fm/music/Coi+Leray/_/Players</link>
@@ -352,11 +345,18 @@
       <pubDate>Thu, 27 Apr 2023 14:54:12 -0400</pubDate>
     </item>
     <item>
-      <title>Post Malone - Wow. (1 play)</title>
+      <title>Post Malone - Wow. (2 plays)</title>
       <link>https://www.last.fm/music/Post+Malone/_/Wow.</link>
       <guid isPermaLink="false">gameofmetal-1682631660--b1e26560-60e5-4236-bbdb-9aa5a8d5ee19---Wow.</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e899091e712461db7a42528f88070059.jpg" length="9699" type="image/jpeg"/>
       <pubDate>Thu, 27 Apr 2023 17:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Post Malone - Wow. (2 plays)</title>
+      <link>https://www.last.fm/music/Post+Malone/_/Wow.</link>
+      <guid isPermaLink="false">gameofmetal-1682631818--b1e26560-60e5-4236-bbdb-9aa5a8d5ee19---Wow.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e899091e712461db7a42528f88070059.jpg" length="9699" type="image/jpeg"/>
+      <pubDate>Thu, 27 Apr 2023 17:43:38 -0400</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 22:14:26 +0000</lastBuildDate>
-    <item>
-      <title>PVRIS - Heaven (23 plays)</title>
-      <link>https://www.last.fm/music/PVRIS/_/Heaven</link>
-      <guid isPermaLink="false">WillieFisterbut-1682362046--de210c9e-fbf6-4827-987f-dd8885f5d890---Heaven</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f691f214e60e6b4574a2770c8ec87c03.jpg" length="7147" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 14:47:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>Amy Shark - Psycho (feat. Mark Hoppus) (23 plays)</title>
-      <link>https://www.last.fm/music/Amy+Shark/_/Psycho+(feat.+Mark+Hoppus)</link>
-      <guid isPermaLink="false">WillieFisterbut-1682362253--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---Psycho (feat. Mark Hoppus)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8943cecaa7e2ebe1cc77b3b42827a2d5.jpg" length="10883" type="image/jpeg"/>
-      <pubDate>Mon, 24 Apr 2023 14:50:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Apr 2023 23:38:02 +0000</lastBuildDate>
     <item>
       <title>Echosmith - Cool Kids (24 plays)</title>
       <link>https://www.last.fm/music/Echosmith/_/Cool+Kids</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">WillieFisterbut-1682633465--62533682-e61c-47a6-b9d7-1811e987d571---Rose Bouquets</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f4ddb81f7682fcc5fe096090a08b3bb.png" length="126360" type="image/png"/>
       <pubDate>Thu, 27 Apr 2023 18:11:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Graveworm - A Dreaming Beauty (15 plays)</title>
+      <link>https://www.last.fm/music/Graveworm/_/A+Dreaming+Beauty</link>
+      <guid isPermaLink="false">WillieFisterbut-1682638033--ad3eb8ea-f541-4e3a-b550-7900bdc4992b---A Dreaming Beauty</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 27 Apr 2023 19:27:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Graveworm - Nocturnal Hymns (14 plays)</title>
+      <link>https://www.last.fm/music/Graveworm/_/Nocturnal+Hymns</link>
+      <guid isPermaLink="false">WillieFisterbut-1682638114--ad3eb8ea-f541-4e3a-b550-7900bdc4992b---Nocturnal Hymns</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 27 Apr 2023 19:28:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
