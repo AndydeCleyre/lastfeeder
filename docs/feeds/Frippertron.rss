@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 04:37:48 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Legal Boys (37 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Legal+Boys</link>
-      <guid isPermaLink="false">Frippertron-1682495149--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Legal Boys</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61bb942d52b4348c0d5356151a03d11f.jpg" length="28585" type="image/jpeg"/>
-      <pubDate>Wed, 26 Apr 2023 03:45:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Blue Eyes (27 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Blue+Eyes</link>
-      <guid isPermaLink="false">Frippertron-1682495340--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Blue Eyes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61bb942d52b4348c0d5356151a03d11f.jpg" length="28585" type="image/jpeg"/>
-      <pubDate>Wed, 26 Apr 2023 03:49:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Apr 2023 04:52:28 +0000</lastBuildDate>
     <item>
       <title>Elton John - Where Have All The Good Times Gone? (21 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Where+Have+All+The+Good+Times+Gone%3F</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1682569821--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Last Thing You Should Do</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
       <pubDate>Thu, 27 Apr 2023 00:30:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Aberinkula (1 play)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
+      <guid isPermaLink="false">Frippertron-1682570246--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Thu, 27 Apr 2023 00:37:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Metatron (1 play)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
+      <guid isPermaLink="false">Frippertron-1682570592--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Thu, 27 Apr 2023 00:43:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
