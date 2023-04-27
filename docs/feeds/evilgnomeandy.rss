@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 01:21:52 +0000</lastBuildDate>
-    <item>
-      <title>Sugar Ray - Stand and Deliver (10 plays)</title>
-      <link>https://www.last.fm/music/Sugar+Ray/_/Stand+and+Deliver</link>
-      <guid isPermaLink="false">evilgnomeandy-1681860102--9968756b-d504-4c90-a184-776ba1dd32ea---Stand and Deliver</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e48bbe208e0d4b5fcb693190e72d1e57.jpg" length="25285" type="image/jpeg"/>
-      <pubDate>Tue, 18 Apr 2023 19:21:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Apr 2023 15:52:40 +0000</lastBuildDate>
     <item>
       <title>Cake - Sick of You (5 plays)</title>
       <link>https://www.last.fm/music/Cake/_/Sick+of+You</link>
@@ -226,7 +219,7 @@
       <pubDate>Wed, 26 Apr 2023 16:39:00 -0400</pubDate>
     </item>
     <item>
-      <title>The Story Pirates - All 8 Unicorns (1 play)</title>
+      <title>The Story Pirates - All 8 Unicorns (2 plays)</title>
       <link>https://www.last.fm/music/The+Story+Pirates/_/All+8+Unicorns</link>
       <guid isPermaLink="false">evilgnomeandy-1682541788--The Story Pirates---All 8 Unicorns</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1682556313--The Story Pirates---Cats Sit On You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 26 Apr 2023 20:45:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Story Pirates - All 8 Unicorns (2 plays)</title>
+      <link>https://www.last.fm/music/The+Story+Pirates/_/All+8+Unicorns</link>
+      <guid isPermaLink="false">evilgnomeandy-1682556675--The Story Pirates---All 8 Unicorns</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 26 Apr 2023 20:51:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
