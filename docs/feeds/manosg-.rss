@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 10:52:46 +0000</lastBuildDate>
-    <item>
-      <title>Phil Collins - The West Side - 2016 Remaster (6 plays)</title>
-      <link>https://www.last.fm/music/Phil+Collins/_/The+West+Side+-+2016+Remaster</link>
-      <guid isPermaLink="false">manosg--1682577664--Phil Collins---The West Side - 2016 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f40a603633e2808b2c9e9493cdb737da.jpg" length="11879" type="image/jpeg"/>
-      <pubDate>Thu, 27 Apr 2023 02:41:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Phil Collins - Why Can't It Wait 'Til Morning - 2016 Remaster (4 plays)</title>
-      <link>https://www.last.fm/music/Phil+Collins/_/Why+Can%27t+It+Wait+%27Til+Morning+-+2016+Remaster</link>
-      <guid isPermaLink="false">manosg--1682577967--Phil Collins---Why Can't It Wait 'Til Morning - 2016 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f40a603633e2808b2c9e9493cdb737da.jpg" length="11879" type="image/jpeg"/>
-      <pubDate>Thu, 27 Apr 2023 02:46:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Apr 2023 11:13:20 +0000</lastBuildDate>
     <item>
       <title>Phil Collins - I Don't Care Anymore - Live 1982 (2 plays)</title>
       <link>https://www.last.fm/music/Phil+Collins/_/I+Don%27t+Care+Anymore+-+Live+1982</link>
@@ -198,7 +184,7 @@
       <pubDate>Thu, 27 Apr 2023 13:19:31 -0400</pubDate>
     </item>
     <item>
-      <title>Thin Lizzy - Freedom Song (4 plays)</title>
+      <title>Thin Lizzy - Freedom Song</title>
       <link>https://www.last.fm/music/Thin+Lizzy/_/Freedom+Song</link>
       <guid isPermaLink="false">manosg--1682616230--6a726ac6-019e-455c-8bbb-571a77bed52e---Freedom Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b35d7c28a7b48f91e01a0e5bd60499.jpg" length="27226" type="image/jpeg"/>
@@ -275,14 +261,14 @@
       <pubDate>Fri, 28 Apr 2023 03:29:26 -0400</pubDate>
     </item>
     <item>
-      <title>Elvenking - Bride of Night (1 play)</title>
+      <title>Elvenking - Bride of Night (2 plays)</title>
       <link>https://www.last.fm/music/Elvenking/_/Bride+of+Night</link>
       <guid isPermaLink="false">manosg--1682667625--3d6bbeb7-f90e-4d10-b440-e153c0d10b53---Bride of Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae133ac925eb41412527c006a07e86fd.jpg" length="28264" type="image/jpeg"/>
       <pubDate>Fri, 28 Apr 2023 03:40:25 -0400</pubDate>
     </item>
     <item>
-      <title>Elvenking - Herdchant (1 play)</title>
+      <title>Elvenking - Herdchant (2 plays)</title>
       <link>https://www.last.fm/music/Elvenking/_/Herdchant</link>
       <guid isPermaLink="false">manosg--1682667858--3d6bbeb7-f90e-4d10-b440-e153c0d10b53---Herdchant</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae133ac925eb41412527c006a07e86fd.jpg" length="28264" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1682674388--3d6bbeb7-f90e-4d10-b440-e153c0d10b53---The Hanging Tree</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae133ac925eb41412527c006a07e86fd.jpg" length="28264" type="image/jpeg"/>
       <pubDate>Fri, 28 Apr 2023 05:33:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elvenking - Bride of Night (2 plays)</title>
+      <link>https://www.last.fm/music/Elvenking/_/Bride+of+Night</link>
+      <guid isPermaLink="false">manosg--1682679028--3d6bbeb7-f90e-4d10-b440-e153c0d10b53---Bride of Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae133ac925eb41412527c006a07e86fd.jpg" length="28264" type="image/jpeg"/>
+      <pubDate>Fri, 28 Apr 2023 06:50:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elvenking - Herdchant (2 plays)</title>
+      <link>https://www.last.fm/music/Elvenking/_/Herdchant</link>
+      <guid isPermaLink="false">manosg--1682679263--3d6bbeb7-f90e-4d10-b440-e153c0d10b53---Herdchant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae133ac925eb41412527c006a07e86fd.jpg" length="28264" type="image/jpeg"/>
+      <pubDate>Fri, 28 Apr 2023 06:54:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
