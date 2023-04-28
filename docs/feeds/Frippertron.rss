@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 07:15:09 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Liar (77 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Liar</link>
-      <guid isPermaLink="false">Frippertron-1682589001--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Liar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
-      <pubDate>Thu, 27 Apr 2023 05:50:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Apr 2023 07:27:23 +0000</lastBuildDate>
     <item>
       <title>Queen - The Night Comes Down (36 plays)</title>
       <link>https://www.last.fm/music/Queen/_/The+Night+Comes+Down</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1682665837--b343730d-a34e-44d5-9191-a83f00231716---So Many Dreams</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82bb20ae0fb78b5aa61ab22524824a0e.jpg" length="17915" type="image/jpeg"/>
       <pubDate>Fri, 28 Apr 2023 03:10:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Guy Called Gerald - Alita's Dream (1 play)</title>
+      <link>https://www.last.fm/music/A+Guy+Called+Gerald/_/Alita%27s+Dream</link>
+      <guid isPermaLink="false">Frippertron-1682666242--b343730d-a34e-44d5-9191-a83f00231716---Alita's Dream</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82bb20ae0fb78b5aa61ab22524824a0e.jpg" length="17915" type="image/jpeg"/>
+      <pubDate>Fri, 28 Apr 2023 03:17:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
