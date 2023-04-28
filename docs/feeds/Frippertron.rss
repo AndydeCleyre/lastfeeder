@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 05:28:09 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Ghost Town Blues (13 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Ghost+Town+Blues</link>
-      <guid isPermaLink="false">Frippertron-1682586711--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Ghost Town Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/195e793d22dc7ff3dbc739ee65063229.png" length="159791" type="image/png"/>
-      <pubDate>Thu, 27 Apr 2023 05:11:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Elegance (13 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Elegance</link>
-      <guid isPermaLink="false">Frippertron-1682586916--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Elegance</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/195e793d22dc7ff3dbc739ee65063229.png" length="159791" type="image/png"/>
-      <pubDate>Thu, 27 Apr 2023 05:15:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Apr 2023 05:39:47 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Technique (11 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Technique</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1682659476--Renaissance---On The Frontier</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00fb687b1a4c2697d67b6c1d3f3abb87.png" length="233476" type="image/png"/>
       <pubDate>Fri, 28 Apr 2023 01:24:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Renaissance - Carpet Of The Sun (1 play)</title>
+      <link>https://www.last.fm/music/Renaissance/_/Carpet+Of+The+Sun</link>
+      <guid isPermaLink="false">Frippertron-1682659776--Renaissance---Carpet Of The Sun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00fb687b1a4c2697d67b6c1d3f3abb87.png" length="233476" type="image/png"/>
+      <pubDate>Fri, 28 Apr 2023 01:29:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Renaissance - At The Harbour (1 play)</title>
+      <link>https://www.last.fm/music/Renaissance/_/At+The+Harbour</link>
+      <guid isPermaLink="false">Frippertron-1682659994--Renaissance---At The Harbour</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00fb687b1a4c2697d67b6c1d3f3abb87.png" length="233476" type="image/png"/>
+      <pubDate>Fri, 28 Apr 2023 01:33:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
