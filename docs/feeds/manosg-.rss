@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 17:13:16 +0000</lastBuildDate>
-    <item>
-      <title>Thin Lizzy - Rosalie (6 plays)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/Rosalie</link>
-      <guid isPermaLink="false">manosg--1682605607--6a726ac6-019e-455c-8bbb-571a77bed52e---Rosalie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b35d7c28a7b48f91e01a0e5bd60499.jpg" length="27226" type="image/jpeg"/>
-      <pubDate>Thu, 27 Apr 2023 10:26:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thin Lizzy - For Those Who Love to Live (5 plays)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/For+Those+Who+Love+to+Live</link>
-      <guid isPermaLink="false">manosg--1682605784--6a726ac6-019e-455c-8bbb-571a77bed52e---For Those Who Love to Live</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b35d7c28a7b48f91e01a0e5bd60499.jpg" length="27226" type="image/jpeg"/>
-      <pubDate>Thu, 27 Apr 2023 10:29:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thin Lizzy - Suicide (6 plays)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/Suicide</link>
-      <guid isPermaLink="false">manosg--1682608536--6a726ac6-019e-455c-8bbb-571a77bed52e---Suicide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b35d7c28a7b48f91e01a0e5bd60499.jpg" length="27226" type="image/jpeg"/>
-      <pubDate>Thu, 27 Apr 2023 11:15:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Apr 2023 17:52:22 +0000</lastBuildDate>
     <item>
       <title>SACRED OUTCRY - The Voyage (1 play)</title>
       <link>https://www.last.fm/music/SACRED+OUTCRY/_/The+Voyage</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1682787913--959cf5bf-ee29-4af6-a85a-0b480181d988---Troubled Mind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/174023ae838bc886acc44163bc14a8b2.jpg" length="21107" type="image/jpeg"/>
       <pubDate>Sat, 29 Apr 2023 13:05:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Everything But the Girl - I Don't Understand Anything (2 plays)</title>
+      <link>https://www.last.fm/music/Everything+But+the+Girl/_/I+Don%27t+Understand+Anything</link>
+      <guid isPermaLink="false">manosg--1682788131--959cf5bf-ee29-4af6-a85a-0b480181d988---I Don't Understand Anything</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/174023ae838bc886acc44163bc14a8b2.jpg" length="21107" type="image/jpeg"/>
+      <pubDate>Sat, 29 Apr 2023 13:08:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Everything But the Girl - Walking to You (2 plays)</title>
+      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Walking+to+You</link>
+      <guid isPermaLink="false">manosg--1682790121--959cf5bf-ee29-4af6-a85a-0b480181d988---Walking to You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/174023ae838bc886acc44163bc14a8b2.jpg" length="21107" type="image/jpeg"/>
+      <pubDate>Sat, 29 Apr 2023 13:42:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Everything But the Girl - Get Me (2 plays)</title>
+      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Get+Me</link>
+      <guid isPermaLink="false">manosg--1682790331--959cf5bf-ee29-4af6-a85a-0b480181d988---Get Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/174023ae838bc886acc44163bc14a8b2.jpg" length="21107" type="image/jpeg"/>
+      <pubDate>Sat, 29 Apr 2023 13:45:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
