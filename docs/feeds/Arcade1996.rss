@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 May 2023 10:52:16 +0000</lastBuildDate>
-    <item>
-      <title>Tyler, the Creator - LEMONHEAD (feat. 42 Dugg) (20 plays)</title>
-      <link>https://www.last.fm/music/Tyler,+the+Creator/_/LEMONHEAD+(feat.+42+Dugg)</link>
-      <guid isPermaLink="false">Arcade1996-1682767476--f6beac20-5dfe-4d1f-ae02-0b0a740aafd6---LEMONHEAD (feat. 42 Dugg)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8bed6cc4a2f68d3bb2228fbe6654b887.gif" length="980580" type="image/gif"/>
-      <pubDate>Sat, 29 Apr 2023 07:24:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Daughtry - It's Not Over (1 play)</title>
-      <link>https://www.last.fm/music/Daughtry/_/It%27s+Not+Over</link>
-      <guid isPermaLink="false">Arcade1996-1682767509--21e3292e-dac8-4609-b57d-402f926aa41f---It's Not Over</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28926f035afa400ea1fb16b5b686b45c.png" length="156509" type="image/png"/>
-      <pubDate>Sat, 29 Apr 2023 07:25:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 May 2023 11:25:26 +0000</lastBuildDate>
     <item>
       <title>Linkin Park - Somewhere I Belong (1 play)</title>
       <link>https://www.last.fm/music/Linkin+Park/_/Somewhere+I+Belong</link>
@@ -334,6 +320,7 @@
       <title>Money - A Cocaine Christmas And An Alcoholic's New Year (1 play)</title>
       <link>https://www.last.fm/music/Money/_/A+Cocaine+Christmas+And+An+Alcoholic%27s+New+Year</link>
       <guid isPermaLink="false">Arcade1996-1682901997--Money---A Cocaine Christmas And An Alcoholic's New Year</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5370b50f203217f2e8e9306ba42c0b9.jpg" length="9438" type="image/jpeg"/>
       <pubDate>Sun, 30 Apr 2023 20:46:37 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1682938117--El Michels Affair---I'm Still Somehow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4855c60cc3ba5068390eac3d3ae3fb06.jpg" length="23996" type="image/jpeg"/>
       <pubDate>Mon, 01 May 2023 06:48:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>El Michels Affair - Hollow Way (4 plays)</title>
+      <link>https://www.last.fm/music/El+Michels+Affair/_/Hollow+Way</link>
+      <guid isPermaLink="false">Arcade1996-1682938242--El Michels Affair---Hollow Way</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4855c60cc3ba5068390eac3d3ae3fb06.jpg" length="23996" type="image/jpeg"/>
+      <pubDate>Mon, 01 May 2023 06:50:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>El Michels Affair - Protocol (4 plays)</title>
+      <link>https://www.last.fm/music/El+Michels+Affair/_/Protocol</link>
+      <guid isPermaLink="false">Arcade1996-1682938387--El Michels Affair---Protocol</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4855c60cc3ba5068390eac3d3ae3fb06.jpg" length="23996" type="image/jpeg"/>
+      <pubDate>Mon, 01 May 2023 06:53:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
