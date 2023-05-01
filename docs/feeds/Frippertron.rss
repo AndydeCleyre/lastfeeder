@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 May 2023 07:27:30 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - See Emily Play (21 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/See+Emily+Play</link>
-      <guid isPermaLink="false">Frippertron-1682678338--83d91898-7763-47d7-b03b-b92132375c47---See Emily Play</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/495b50731f724667968bbe9ba8a921e7.png" length="180533" type="image/png"/>
-      <pubDate>Fri, 28 Apr 2023 06:38:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Carouselambra (13 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Carouselambra</link>
-      <guid isPermaLink="false">Frippertron-1682907059--678d88b2-87b0-403b-b63d-5da7465aecc3---Carouselambra</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f652e76b8db42e59279db8a6c3d697d.png" length="195734" type="image/png"/>
-      <pubDate>Sun, 30 Apr 2023 22:10:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 May 2023 07:39:26 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Fool in the Rain (15 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Fool+in+the+Rain</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1682925839--7d6fa35a-5bd1-4379-bb26-4ffa8c561e0e---Fire in the Head</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
       <pubDate>Mon, 01 May 2023 03:23:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Morgan - The Right (33 plays)</title>
+      <link>https://www.last.fm/music/Morgan/_/The+Right</link>
+      <guid isPermaLink="false">Frippertron-1682926146--7d6fa35a-5bd1-4379-bb26-4ffa8c561e0e---The Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
+      <pubDate>Mon, 01 May 2023 03:29:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Walker Brothers - The Electrician (77 plays)</title>
+      <link>https://www.last.fm/music/The+Walker+Brothers/_/The+Electrician</link>
+      <guid isPermaLink="false">Frippertron-1682926434--720df570-c435-4be5-a755-357d9fd98bc8---The Electrician</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3682788971fa96bb1878454d9ffb55e7.jpg" length="16777" type="image/jpeg"/>
+      <pubDate>Mon, 01 May 2023 03:33:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
