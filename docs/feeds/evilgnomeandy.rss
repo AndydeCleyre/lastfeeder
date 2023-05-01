@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 May 2023 19:12:54 +0000</lastBuildDate>
-    <item>
-      <title>Floating Action - 50 Lashes (32 plays)</title>
-      <link>https://www.last.fm/music/Floating+Action/_/50+Lashes</link>
-      <guid isPermaLink="false">evilgnomeandy-1681945774--accb532b-bdc7-4153-b730-7b52d9f40562---50 Lashes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48d114ddaa78400899cfef5c7fc6b3aa.png" length="134190" type="image/png"/>
-      <pubDate>Wed, 19 Apr 2023 19:09:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 May 2023 23:17:48 +0000</lastBuildDate>
     <item>
       <title>The Association - Along Comes Mary (42 plays)</title>
       <link>https://www.last.fm/music/The+Association/_/Along+Comes+Mary</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1682968151--592a3b6d-c42b-4567-99c9-ecf63bd66499---The Things I Used To Do</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/070059360f56412fc1fc3ddf38ad08f9.png" length="153252" type="image/png"/>
       <pubDate>Mon, 01 May 2023 15:09:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jimi Hendrix - Angel (6 plays)</title>
+      <link>https://www.last.fm/music/Jimi+Hendrix/_/Angel</link>
+      <guid isPermaLink="false">evilgnomeandy-1682968313--06fb1c8b-566e-4cb2-985b-b467c90781d4---Angel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10b97248ca2c7d6cac05899e899a4e57.jpg" length="30203" type="image/jpeg"/>
+      <pubDate>Mon, 01 May 2023 15:11:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
