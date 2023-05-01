@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 May 2023 03:18:47 +0000</lastBuildDate>
-    <item>
-      <title>Graveworm - In Honour of the Fallen (6 plays)</title>
-      <link>https://www.last.fm/music/Graveworm/_/In+Honour+of+the+Fallen</link>
-      <guid isPermaLink="false">WillieFisterbut-1682643281--ad3eb8ea-f541-4e3a-b550-7900bdc4992b---In Honour of the Fallen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e36c663480bccd7d961823c2be88687.jpg" length="29089" type="image/jpeg"/>
-      <pubDate>Thu, 27 Apr 2023 20:54:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 May 2023 03:37:39 +0000</lastBuildDate>
     <item>
       <title>Graveworm - Wrath of Gods (6 plays)</title>
       <link>https://www.last.fm/music/Graveworm/_/Wrath+of+Gods</link>
@@ -355,8 +348,13 @@
       <title>Ray Alder - Passengers</title>
       <link>https://www.last.fm/music/Ray+Alder/_/Passengers</link>
       <guid isPermaLink="false">WillieFisterbut-1682910578--Ray Alder---Passengers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5b680eaab41b69db28cd7cbdccb20b9.jpg" length="6819" type="image/jpeg"/>
       <pubDate>Sun, 30 Apr 2023 23:09:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ray Alder - Changes</title>
+      <link>https://www.last.fm/music/Ray+Alder/_/Changes</link>
+      <guid isPermaLink="false">WillieFisterbut-1682910931--Ray Alder---Changes</guid>
+      <pubDate>Sun, 30 Apr 2023 23:15:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
