@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 May 2023 09:52:44 +0000</lastBuildDate>
-    <item>
-      <title>Rose City Band - Moonlight Highway (5 plays)</title>
-      <link>https://www.last.fm/music/Rose+City+Band/_/Moonlight+Highway</link>
-      <guid isPermaLink="false">manosg--1682930274--5c0fd749-09f8-4ece-b489-364fa10fe202---Moonlight Highway</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/690c20b64116bb37b8799c67e3364d3f.png" length="176629" type="image/png"/>
-      <pubDate>Mon, 01 May 2023 04:37:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 May 2023 13:52:18 +0000</lastBuildDate>
     <item>
       <title>Rose City Band - El Rio (5 plays)</title>
       <link>https://www.last.fm/music/Rose+City+Band/_/El+Rio</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1683020140--ece57992-dc2e-4f67-a269-fa43626c1a3d---Wolf Unchained</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eac544016671658818e2b5ff146e879a.jpg" length="36911" type="image/jpeg"/>
       <pubDate>Tue, 02 May 2023 05:35:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jethro Tull - The Perfect One (1 play)</title>
+      <link>https://www.last.fm/music/Jethro+Tull/_/The+Perfect+One</link>
+      <guid isPermaLink="false">manosg--1683020441--ece57992-dc2e-4f67-a269-fa43626c1a3d---The Perfect One</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eac544016671658818e2b5ff146e879a.jpg" length="36911" type="image/jpeg"/>
+      <pubDate>Tue, 02 May 2023 05:40:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
