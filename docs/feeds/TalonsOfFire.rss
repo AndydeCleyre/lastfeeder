@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 May 2023 14:40:31 +0000</lastBuildDate>
-    <item>
-      <title>Everything But the Girl - No One Knows We’re Dancing (1 play)</title>
-      <link>https://www.last.fm/music/Everything+But+the+Girl/_/No+One+Knows+We%E2%80%99re+Dancing</link>
-      <guid isPermaLink="false">TalonsOfFire-1682694094--959cf5bf-ee29-4af6-a85a-0b480181d988---No One Knows We’re Dancing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2eb7e57cb4dd2a69c9f7f6a84b0f206b.jpg" length="27761" type="image/jpeg"/>
-      <pubDate>Fri, 28 Apr 2023 11:01:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Everything But the Girl - Lost (1 play)</title>
-      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Lost</link>
-      <guid isPermaLink="false">TalonsOfFire-1682694430--959cf5bf-ee29-4af6-a85a-0b480181d988---Lost</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2eb7e57cb4dd2a69c9f7f6a84b0f206b.jpg" length="27761" type="image/jpeg"/>
-      <pubDate>Fri, 28 Apr 2023 11:07:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 May 2023 15:18:40 +0000</lastBuildDate>
     <item>
       <title>Everything But the Girl - Forever (2 plays)</title>
       <link>https://www.last.fm/music/Everything+But+the+Girl/_/Forever</link>
@@ -355,7 +341,22 @@
       <title>Grouper - Thanksgiving Song (4 plays)</title>
       <link>https://www.last.fm/music/Grouper/_/Thanksgiving+Song</link>
       <guid isPermaLink="false">TalonsOfFire-1683037712--7e571e09-887e-4544-b993-eb75e7837ec1---Thanksgiving Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2516df8800965606be1ee7bcdb7b112d.png" length="69560" type="image/png"/>
       <pubDate>Tue, 02 May 2023 10:28:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Porcupine Tree - Phase II (1 play)</title>
+      <link>https://www.last.fm/music/Porcupine+Tree/_/Phase+II</link>
+      <guid isPermaLink="false">TalonsOfFire-1683037926--169c4c28-858e-497b-81a4-8bc15e0026ea---Phase II</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f9607b989e29d4b7a9d7d180eaaba31.jpg" length="24455" type="image/jpeg"/>
+      <pubDate>Tue, 02 May 2023 10:32:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ryuichi Sakamoto - Forbidden Colors (1 play)</title>
+      <link>https://www.last.fm/music/Ryuichi+Sakamoto/_/Forbidden+Colors</link>
+      <guid isPermaLink="false">TalonsOfFire-1683039212--Ryuichi Sakamoto---Forbidden Colors</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc331c6d167d9bb3aac7bf62f8338981.jpg" length="20225" type="image/jpeg"/>
+      <pubDate>Tue, 02 May 2023 10:53:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
