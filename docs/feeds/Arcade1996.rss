@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 May 2023 13:27:56 +0000</lastBuildDate>
-    <item>
-      <title>The Weeknd - Double Fantasy (with Future) (1 play)</title>
-      <link>https://www.last.fm/music/The+Weeknd/_/Double+Fantasy+(with+Future)</link>
-      <guid isPermaLink="false">Arcade1996-1682947304--The Weeknd---Double Fantasy (with Future)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44b27c561c82b2e326915f5bf4afce87.jpg" length="17725" type="image/jpeg"/>
-      <pubDate>Mon, 01 May 2023 09:21:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Godley &amp; Creme - Cry (2 plays)</title>
-      <link>https://www.last.fm/music/Godley+&amp;+Creme/_/Cry</link>
-      <guid isPermaLink="false">Arcade1996-1682947572--6f874502-c86b-4d53-a371-3c18829531b9---Cry</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/047a90fbbf45af5d5f1bdbe178180835.jpg" length="17113" type="image/jpeg"/>
-      <pubDate>Mon, 01 May 2023 09:26:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 May 2023 13:39:52 +0000</lastBuildDate>
     <item>
       <title>Joan Armatrading - Down To Zero (3 plays)</title>
       <link>https://www.last.fm/music/Joan+Armatrading/_/Down+To+Zero</link>
@@ -58,7 +44,7 @@
       <pubDate>Mon, 01 May 2023 09:48:40 -0400</pubDate>
     </item>
     <item>
-      <title>Joan Armatrading - Love And Affection (2 plays)</title>
+      <title>Joan Armatrading - Love And Affection (3 plays)</title>
       <link>https://www.last.fm/music/Joan+Armatrading/_/Love+And+Affection</link>
       <guid isPermaLink="false">Arcade1996-1682986595--fa598e78-5cc5-4a8b-a3b5-63934d4712c7---Love And Affection</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/128d9d3e0d89e2e7d6281394043aca6a.jpg" length="18914" type="image/jpeg"/>
@@ -184,7 +170,7 @@
       <pubDate>Tue, 02 May 2023 06:27:37 -0400</pubDate>
     </item>
     <item>
-      <title>Joan Armatrading - Love And Affection (2 plays)</title>
+      <title>Joan Armatrading - Love And Affection (3 plays)</title>
       <link>https://www.last.fm/music/Joan+Armatrading/_/Love+And+Affection</link>
       <guid isPermaLink="false">Arcade1996-1683023519--fa598e78-5cc5-4a8b-a3b5-63934d4712c7---Love And Affection</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/128d9d3e0d89e2e7d6281394043aca6a.jpg" length="18914" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1683033348--fa598e78-5cc5-4a8b-a3b5-63934d4712c7---Help Yourself</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/128d9d3e0d89e2e7d6281394043aca6a.jpg" length="18914" type="image/jpeg"/>
       <pubDate>Tue, 02 May 2023 09:15:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Joan Armatrading - Water With The Wine (1 play)</title>
+      <link>https://www.last.fm/music/Joan+Armatrading/_/Water+With+The+Wine</link>
+      <guid isPermaLink="false">Arcade1996-1683033688--fa598e78-5cc5-4a8b-a3b5-63934d4712c7---Water With The Wine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/128d9d3e0d89e2e7d6281394043aca6a.jpg" length="18914" type="image/jpeg"/>
+      <pubDate>Tue, 02 May 2023 09:21:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Joan Armatrading - Love And Affection (3 plays)</title>
+      <link>https://www.last.fm/music/Joan+Armatrading/_/Love+And+Affection</link>
+      <guid isPermaLink="false">Arcade1996-1683034366--fa598e78-5cc5-4a8b-a3b5-63934d4712c7---Love And Affection</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/128d9d3e0d89e2e7d6281394043aca6a.jpg" length="18914" type="image/jpeg"/>
+      <pubDate>Tue, 02 May 2023 09:32:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
