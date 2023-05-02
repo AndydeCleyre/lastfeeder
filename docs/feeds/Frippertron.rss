@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 May 2023 04:38:14 +0000</lastBuildDate>
-    <item>
-      <title>The Unicorns - Sea Ghost (2 plays)</title>
-      <link>https://www.last.fm/music/The+Unicorns/_/Sea+Ghost</link>
-      <guid isPermaLink="false">Frippertron-1682955728--603c5f9f-492a-4f21-9d6f-1642a5dbea2d---Sea Ghost</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c744ffba71e35d0a17395642c56cad46.png" length="225892" type="image/png"/>
-      <pubDate>Mon, 01 May 2023 11:42:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Unicorns - Jellybones (2 plays)</title>
-      <link>https://www.last.fm/music/The+Unicorns/_/Jellybones</link>
-      <guid isPermaLink="false">Frippertron-1682955954--603c5f9f-492a-4f21-9d6f-1642a5dbea2d---Jellybones</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c744ffba71e35d0a17395642c56cad46.png" length="225892" type="image/png"/>
-      <pubDate>Mon, 01 May 2023 11:45:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 May 2023 04:52:22 +0000</lastBuildDate>
     <item>
       <title>The Unicorns - The Clap (2 plays)</title>
       <link>https://www.last.fm/music/The+Unicorns/_/The+Clap</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1683001910--6bf6b3f0-3388-481f-8ae8-4023e1a76d70---Music Take Me Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/951e3f5bbd8038b9c82d0b6932cab1c1.jpg" length="18869" type="image/jpeg"/>
       <pubDate>Tue, 02 May 2023 00:31:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Rock and Roll (51 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Rock+and+Roll</link>
+      <guid isPermaLink="false">Frippertron-1683002425--678d88b2-87b0-403b-b63d-5da7465aecc3---Rock and Roll</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 02 May 2023 00:40:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Sick Again (62 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Sick+Again</link>
+      <guid isPermaLink="false">Frippertron-1683002650--678d88b2-87b0-403b-b63d-5da7465aecc3---Sick Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 02 May 2023 00:44:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
