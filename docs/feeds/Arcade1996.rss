@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 May 2023 13:00:26 +0000</lastBuildDate>
-    <item>
-      <title>Jenny Hval - Freedom (1 play)</title>
-      <link>https://www.last.fm/music/Jenny+Hval/_/Freedom</link>
-      <guid isPermaLink="false">Arcade1996-1683022831--25dc9640-7ee2-47e0-8c00-fa8e0fc28086---Freedom</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68a2a6fcb844d9a41514f1f81f13377c.jpg" length="22355" type="image/jpeg"/>
-      <pubDate>Tue, 02 May 2023 06:20:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 May 2023 13:23:21 +0000</lastBuildDate>
     <item>
       <title>Jenny Hval - The Revolution Will Not Be Owned (1 play)</title>
       <link>https://www.last.fm/music/Jenny+Hval/_/The+Revolution+Will+Not+Be+Owned</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1683118368--5882e375-503f-4bd2-89b1-967e0bfcb199---Baby</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113da4eb7c936ca11b0b312738cc2852.jpg" length="25366" type="image/jpeg"/>
       <pubDate>Wed, 03 May 2023 08:52:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Talk Talk - Myrrhman (29 plays)</title>
+      <link>https://www.last.fm/music/Talk+Talk/_/Myrrhman</link>
+      <guid isPermaLink="false">Arcade1996-1683118820--a74f43e4-50c4-4b19-a2ce-c05ce9bccb03---Myrrhman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85748de6718876bc3fd9c8c218d8b2fa.png" length="168717" type="image/png"/>
+      <pubDate>Wed, 03 May 2023 09:00:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
