@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 May 2023 08:37:18 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - The Song Remains the Same (135 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
-      <guid isPermaLink="false">Frippertron-1683080962--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 02 May 2023 22:29:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - No Quarter (74 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/No+Quarter</link>
-      <guid isPermaLink="false">Frippertron-1683081290--678d88b2-87b0-403b-b63d-5da7465aecc3---No Quarter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 02 May 2023 22:34:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 May 2023 08:52:23 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Whole Lotta Love (46 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Whole+Lotta+Love</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1683102718--1e47567e-5192-43b9-af98-75e4998f9e52---On My Way</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47aa13007017ea4b69d2d7c0237015bd.jpg" length="8770" type="image/jpeg"/>
       <pubDate>Wed, 03 May 2023 04:31:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mr. Fingers - Empty (1 play)</title>
+      <link>https://www.last.fm/music/Mr.+Fingers/_/Empty</link>
+      <guid isPermaLink="false">Frippertron-1683103023--1e47567e-5192-43b9-af98-75e4998f9e52---Empty</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47aa13007017ea4b69d2d7c0237015bd.jpg" length="8770" type="image/jpeg"/>
+      <pubDate>Wed, 03 May 2023 04:37:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mr. Fingers - Survivor (1 play)</title>
+      <link>https://www.last.fm/music/Mr.+Fingers/_/Survivor</link>
+      <guid isPermaLink="false">Frippertron-1683103346--1e47567e-5192-43b9-af98-75e4998f9e52---Survivor</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47aa13007017ea4b69d2d7c0237015bd.jpg" length="8770" type="image/jpeg"/>
+      <pubDate>Wed, 03 May 2023 04:42:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
