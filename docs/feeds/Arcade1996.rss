@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 May 2023 13:39:46 +0000</lastBuildDate>
-    <item>
-      <title>Joan Armatrading - Save Me (1 play)</title>
-      <link>https://www.last.fm/music/Joan+Armatrading/_/Save+Me</link>
-      <guid isPermaLink="false">Arcade1996-1683034643--fa598e78-5cc5-4a8b-a3b5-63934d4712c7---Save Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/128d9d3e0d89e2e7d6281394043aca6a.jpg" length="18914" type="image/jpeg"/>
-      <pubDate>Tue, 02 May 2023 09:37:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joan Armatrading - Join The Boys (1 play)</title>
-      <link>https://www.last.fm/music/Joan+Armatrading/_/Join+The+Boys</link>
-      <guid isPermaLink="false">Arcade1996-1683034860--fa598e78-5cc5-4a8b-a3b5-63934d4712c7---Join The Boys</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/128d9d3e0d89e2e7d6281394043aca6a.jpg" length="18914" type="image/jpeg"/>
-      <pubDate>Tue, 02 May 2023 09:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joan Armatrading - People (1 play)</title>
-      <link>https://www.last.fm/music/Joan+Armatrading/_/People</link>
-      <guid isPermaLink="false">Arcade1996-1683035465--fa598e78-5cc5-4a8b-a3b5-63934d4712c7---People</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/128d9d3e0d89e2e7d6281394043aca6a.jpg" length="18914" type="image/jpeg"/>
-      <pubDate>Tue, 02 May 2023 09:51:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 May 2023 13:52:44 +0000</lastBuildDate>
     <item>
       <title>Joan Armatrading - Somebody Who Loves You (1 play)</title>
       <link>https://www.last.fm/music/Joan+Armatrading/_/Somebody+Who+Loves+You</link>
@@ -334,6 +313,7 @@
       <title>Bobby Goldsboro - Watching Scotty Grow (1 play)</title>
       <link>https://www.last.fm/music/Bobby+Goldsboro/_/Watching+Scotty+Grow</link>
       <guid isPermaLink="false">Arcade1996-1683206502--a85c70af-90e4-4a7c-83b1-e1bd567d7d2f---Watching Scotty Grow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ea5b9ebea545829eec74bf270de71d2.jpg" length="34168" type="image/jpeg"/>
       <pubDate>Thu, 04 May 2023 09:21:42 -0400</pubDate>
     </item>
     <item>
@@ -351,11 +331,32 @@
       <pubDate>Thu, 04 May 2023 09:31:01 -0400</pubDate>
     </item>
     <item>
-      <title>Tom Petty and The Heartbreakers - The Waiting (1 play)</title>
+      <title>Tom Petty and The Heartbreakers - The Waiting (2 plays)</title>
       <link>https://www.last.fm/music/Tom+Petty+and+The+Heartbreakers/_/The+Waiting</link>
       <guid isPermaLink="false">Arcade1996-1683207247--f93dbc64-6f08-4033-bcc7-8a0bb4689849---The Waiting</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd9f59c340c3064ae020fcdaac16cf74.png" length="201355" type="image/png"/>
       <pubDate>Thu, 04 May 2023 09:34:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Taylor - How Sweet It Is (To Be Loved by You) (1 play)</title>
+      <link>https://www.last.fm/music/James+Taylor/_/How+Sweet+It+Is+(To+Be+Loved+by+You)</link>
+      <guid isPermaLink="false">Arcade1996-1683207489--James Taylor---How Sweet It Is (To Be Loved by You)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0f0fb2660fb427cc22691a3c87c2c64.png" length="60374" type="image/png"/>
+      <pubDate>Thu, 04 May 2023 09:38:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tom Petty and The Heartbreakers - The Waiting (2 plays)</title>
+      <link>https://www.last.fm/music/Tom+Petty+and+The+Heartbreakers/_/The+Waiting</link>
+      <guid isPermaLink="false">Arcade1996-1683207705--f93dbc64-6f08-4033-bcc7-8a0bb4689849---The Waiting</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd9f59c340c3064ae020fcdaac16cf74.png" length="201355" type="image/png"/>
+      <pubDate>Thu, 04 May 2023 09:41:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Taylor - Mexico (1 play)</title>
+      <link>https://www.last.fm/music/James+Taylor/_/Mexico</link>
+      <guid isPermaLink="false">Arcade1996-1683207944--James Taylor---Mexico</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0f0fb2660fb427cc22691a3c87c2c64.png" length="60374" type="image/png"/>
+      <pubDate>Thu, 04 May 2023 09:45:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
