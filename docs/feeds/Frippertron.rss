@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 May 2023 03:17:40 +0000</lastBuildDate>
-    <item>
-      <title>The Millennium - Blight (3 plays)</title>
-      <link>https://www.last.fm/music/The+Millennium/_/Blight</link>
-      <guid isPermaLink="false">Frippertron-1683179387--2ba70e66-ec59-4083-89bb-60ec67e624b8---Blight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6ab7c9761afa0cee77f2f5b2654aab8.jpg" length="35966" type="image/jpeg"/>
-      <pubDate>Thu, 04 May 2023 01:49:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>George Michael - Fastlove (31 plays)</title>
-      <link>https://www.last.fm/music/George+Michael/_/Fastlove</link>
-      <guid isPermaLink="false">Frippertron-1683179562--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Fastlove</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e87e3e8530f43d1c3963c63c4e1b75b.png" length="72803" type="image/png"/>
-      <pubDate>Thu, 04 May 2023 01:52:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Sheer Heart Attack (75 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Sheer+Heart+Attack</link>
-      <guid isPermaLink="false">Frippertron-1683179907--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Sheer Heart Attack</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2220b5d920e64379b920b1a2e29b4950.png" length="211756" type="image/png"/>
-      <pubDate>Thu, 04 May 2023 01:58:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 May 2023 03:37:21 +0000</lastBuildDate>
     <item>
       <title>Isaac Hayes - Never Gonna Give You Up (16 plays)</title>
       <link>https://www.last.fm/music/Isaac+Hayes/_/Never+Gonna+Give+You+Up</link>
@@ -268,7 +247,7 @@
       <pubDate>Thu, 04 May 2023 06:08:43 -0400</pubDate>
     </item>
     <item>
-      <title>The Enid - Mayday Galliard (221 plays)</title>
+      <title>The Enid - Mayday Galliard (222 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
       <guid isPermaLink="false">Frippertron-1683195431--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1683256334--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Modern Times Rock 'n' Roll</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fb6dafb0fe843b2c3fb2bacdaed3cc5.png" length="67039" type="image/png"/>
       <pubDate>Thu, 04 May 2023 23:12:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Liar (78 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Liar</link>
+      <guid isPermaLink="false">Frippertron-1683256497--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Liar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fb6dafb0fe843b2c3fb2bacdaed3cc5.png" length="67039" type="image/png"/>
+      <pubDate>Thu, 04 May 2023 23:14:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - It's a Hard Life (43 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/It%27s+a+Hard+Life</link>
+      <guid isPermaLink="false">Frippertron-1683257137--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---It's a Hard Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
+      <pubDate>Thu, 04 May 2023 23:25:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Mayday Galliard (222 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
+      <guid isPermaLink="false">Frippertron-1683257406--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
+      <pubDate>Thu, 04 May 2023 23:30:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
