@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 May 2023 10:52:25 +0000</lastBuildDate>
-    <item>
-      <title>R. Stevie Moore - Norway (1 play)</title>
-      <link>https://www.last.fm/music/R.+Stevie+Moore/_/Norway</link>
-      <guid isPermaLink="false">Arcade1996-1683074526--6ac67c73-2833-4af3-b2e7-3bec5a7e3f85---Norway</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df7765c2b6134e9db56199374312daf0.jpg" length="23679" type="image/jpeg"/>
-      <pubDate>Tue, 02 May 2023 20:42:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 May 2023 11:13:10 +0000</lastBuildDate>
     <item>
       <title>Tyler, the Creator - IGOR'S THEME (11 plays)</title>
       <link>https://www.last.fm/music/Tyler,+the+Creator/_/IGOR%27S+THEME</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1683370010--Linkin Park---Somewhere I Belong</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3ab7d7e3155d3779e4997f5f23d0ef.jpg" length="14525" type="image/jpeg"/>
       <pubDate>Sat, 06 May 2023 06:46:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Linkin Park - From the Inside (1 play)</title>
+      <link>https://www.last.fm/music/Linkin+Park/_/From+the+Inside</link>
+      <guid isPermaLink="false">Arcade1996-1683370223--Linkin Park---From the Inside</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3ab7d7e3155d3779e4997f5f23d0ef.jpg" length="14525" type="image/jpeg"/>
+      <pubDate>Sat, 06 May 2023 06:50:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
