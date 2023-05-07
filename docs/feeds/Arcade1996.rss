@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 May 2023 14:13:40 +0000</lastBuildDate>
-    <item>
-      <title>Fred again.. - Follow (1 play)</title>
-      <link>https://www.last.fm/music/Fred+again../_/Follow</link>
-      <guid isPermaLink="false">Arcade1996-1683390878--Fred again..---Follow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b836e54b74f6558936c5192908f24d57.png" length="104069" type="image/png"/>
-      <pubDate>Sat, 06 May 2023 12:34:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Grian Chatten - Fairlies (4 plays)</title>
-      <link>https://www.last.fm/music/Grian+Chatten/_/Fairlies</link>
-      <guid isPermaLink="false">Arcade1996-1683428173--Grian Chatten---Fairlies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c29d02c98c7a993f8226506384c9f961.png" length="100743" type="image/png"/>
-      <pubDate>Sat, 06 May 2023 22:56:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Grian Chatten - The Score (4 plays)</title>
-      <link>https://www.last.fm/music/Grian+Chatten/_/The+Score</link>
-      <guid isPermaLink="false">Arcade1996-1683428427--Grian Chatten---The Score</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c29d02c98c7a993f8226506384c9f961.png" length="100743" type="image/png"/>
-      <pubDate>Sat, 06 May 2023 23:00:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 May 2023 14:25:56 +0000</lastBuildDate>
     <item>
       <title>Fred again.. - Baby Again.. (6 plays)</title>
       <link>https://www.last.fm/music/Fred+again../_/Baby+Again..</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Arcade1996-1683468081--7441014f-f8f5-494f-81db-ff166fbc078d---Boy's a liar Pt. 2</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29499797f2bd56535cf6a345392ccd77.jpg" length="26941" type="image/jpeg"/>
       <pubDate>Sun, 07 May 2023 10:01:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kesha - Fine Line (1 play)</title>
+      <link>https://www.last.fm/music/Kesha/_/Fine+Line</link>
+      <guid isPermaLink="false">Arcade1996-1683468212--Kesha---Fine Line</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12efe528e962e5cae0ca052f499b1402.jpg" length="16254" type="image/jpeg"/>
+      <pubDate>Sun, 07 May 2023 10:03:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kesha - Eat The Acid (1 play)</title>
+      <link>https://www.last.fm/music/Kesha/_/Eat+The+Acid</link>
+      <guid isPermaLink="false">Arcade1996-1683469022--Kesha---Eat The Acid</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12efe528e962e5cae0ca052f499b1402.jpg" length="16254" type="image/jpeg"/>
+      <pubDate>Sun, 07 May 2023 10:17:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nourished by Time - Workers Interlude (1 play)</title>
+      <link>https://www.last.fm/music/Nourished+by+Time/_/Workers+Interlude</link>
+      <guid isPermaLink="false">Arcade1996-1683469264--Nourished by Time---Workers Interlude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58e28f777c217fe07d07da6a14903b27.jpg" length="21556" type="image/jpeg"/>
+      <pubDate>Sun, 07 May 2023 10:21:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
