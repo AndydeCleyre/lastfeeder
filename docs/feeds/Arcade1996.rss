@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 May 2023 16:38:55 +0000</lastBuildDate>
-    <item>
-      <title>ZSELA - Noise (1 play)</title>
-      <link>https://www.last.fm/music/ZSELA/_/Noise</link>
-      <guid isPermaLink="false">Arcade1996-1683197593--47766183-f038-4876-8a0c-6c8c9b57e1ca---Noise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/589fa3ff6ceb96291647fb6cd2b17a4c.jpg" length="11448" type="image/jpeg"/>
-      <pubDate>Thu, 04 May 2023 06:53:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 May 2023 01:26:14 +0000</lastBuildDate>
     <item>
       <title>The Cleaners From Venus - Corridor of Dreams (1 play)</title>
       <link>https://www.last.fm/music/The+Cleaners+From+Venus/_/Corridor+of+Dreams</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1683390441--Fred again..---Radio</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b836e54b74f6558936c5192908f24d57.png" length="104069" type="image/png"/>
       <pubDate>Sat, 06 May 2023 12:27:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fred again.. - Follow (1 play)</title>
+      <link>https://www.last.fm/music/Fred+again../_/Follow</link>
+      <guid isPermaLink="false">Arcade1996-1683390878--Fred again..---Follow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b836e54b74f6558936c5192908f24d57.png" length="104069" type="image/png"/>
+      <pubDate>Sat, 06 May 2023 12:34:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
