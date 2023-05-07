@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 May 2023 03:52:12 +0000</lastBuildDate>
-    <item>
-      <title>The Lemon Twigs - In My Head (5 plays)</title>
-      <link>https://www.last.fm/music/The+Lemon+Twigs/_/In+My+Head</link>
-      <guid isPermaLink="false">Arcade1996-1683332904--f32d94e8-8d55-4ee2-9077-53d1c024a03b---In My Head</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d0f9c63d31d831108783ecbd46af76b.jpg" length="27972" type="image/jpeg"/>
-      <pubDate>Fri, 05 May 2023 20:28:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 May 2023 09:52:22 +0000</lastBuildDate>
     <item>
       <title>The Lemon Twigs - Corner Of My Eye (5 plays)</title>
       <link>https://www.last.fm/music/The+Lemon+Twigs/_/Corner+Of+My+Eye</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1683430794--Conway the Machine---Brick Fare</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a071574a79817497150f8a81526044f9.jpg" length="26976" type="image/jpeg"/>
       <pubDate>Sat, 06 May 2023 23:39:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Conway the Machine - Brooklyn Chop House (1 play)</title>
+      <link>https://www.last.fm/music/Conway+the+Machine/_/Brooklyn+Chop+House</link>
+      <guid isPermaLink="false">Arcade1996-1683431073--Conway the Machine---Brooklyn Chop House</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a071574a79817497150f8a81526044f9.jpg" length="26976" type="image/jpeg"/>
+      <pubDate>Sat, 06 May 2023 23:44:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
