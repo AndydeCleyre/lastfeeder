@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 May 2023 06:52:21 +0000</lastBuildDate>
-    <item>
-      <title>Elysion - Don't Say A Word (1 play)</title>
-      <link>https://www.last.fm/music/Elysion/_/Don%27t+Say+A+Word</link>
-      <guid isPermaLink="false">manosg--1683207192--98aa0066-0afb-4afc-b6c7-947e9145ea9a---Don't Say A Word</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac99e9f82a824aceb6df88d8f8e302e8.png" length="131093" type="image/png"/>
-      <pubDate>Thu, 04 May 2023 09:33:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Murder of My Sweet - Fallen (1 play)</title>
-      <link>https://www.last.fm/music/The+Murder+of+My+Sweet/_/Fallen</link>
-      <guid isPermaLink="false">manosg--1683207429--c5f00895-403b-4a22-970d-ff04d5d4f6a2---Fallen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc648798792246ffa86eedd06d247fc1.jpg" length="19022" type="image/jpeg"/>
-      <pubDate>Thu, 04 May 2023 09:37:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 May 2023 07:13:59 +0000</lastBuildDate>
     <item>
       <title>Golden Earring - Candy's Going Bad (1 play)</title>
       <link>https://www.last.fm/music/Golden+Earring/_/Candy%27s+Going+Bad</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1683395750--1b6ce503-df5f-45d5-86cf-54740c30042f---Angélique</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbdb6bc04ec046e6ada4a3b41feaf022.png" length="164124" type="image/png"/>
       <pubDate>Sat, 06 May 2023 13:55:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Theatre of Tragedy - Aoede (13 plays)</title>
+      <link>https://www.last.fm/music/Theatre+of+Tragedy/_/Aoede</link>
+      <guid isPermaLink="false">manosg--1683442178--1b6ce503-df5f-45d5-86cf-54740c30042f---Aoede</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbdb6bc04ec046e6ada4a3b41feaf022.png" length="164124" type="image/png"/>
+      <pubDate>Sun, 07 May 2023 02:49:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Theatre of Tragedy - Siren (13 plays)</title>
+      <link>https://www.last.fm/music/Theatre+of+Tragedy/_/Siren</link>
+      <guid isPermaLink="false">manosg--1683442721--1b6ce503-df5f-45d5-86cf-54740c30042f---Siren</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbdb6bc04ec046e6ada4a3b41feaf022.png" length="164124" type="image/png"/>
+      <pubDate>Sun, 07 May 2023 02:58:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
