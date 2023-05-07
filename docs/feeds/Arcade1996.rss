@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 May 2023 13:52:21 +0000</lastBuildDate>
-    <item>
-      <title>Fred again.. - Secret (1 play)</title>
-      <link>https://www.last.fm/music/Fred+again../_/Secret</link>
-      <guid isPermaLink="false">Arcade1996-1683390136--Fred again..---Secret</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b836e54b74f6558936c5192908f24d57.png" length="104069" type="image/png"/>
-      <pubDate>Sat, 06 May 2023 12:22:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fred again.. - Radio (1 play)</title>
-      <link>https://www.last.fm/music/Fred+again../_/Radio</link>
-      <guid isPermaLink="false">Arcade1996-1683390441--Fred again..---Radio</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b836e54b74f6558936c5192908f24d57.png" length="104069" type="image/png"/>
-      <pubDate>Sat, 06 May 2023 12:27:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 May 2023 14:13:40 +0000</lastBuildDate>
     <item>
       <title>Fred again.. - Follow (1 play)</title>
       <link>https://www.last.fm/music/Fred+again../_/Follow</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1683466955--Nourished by Time---Rain Water Promise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58e28f777c217fe07d07da6a14903b27.jpg" length="21556" type="image/jpeg"/>
       <pubDate>Sun, 07 May 2023 09:42:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nourished by Time - Soap Party (1 play)</title>
+      <link>https://www.last.fm/music/Nourished+by+Time/_/Soap+Party</link>
+      <guid isPermaLink="false">Arcade1996-1683467262--Nourished by Time---Soap Party</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58e28f777c217fe07d07da6a14903b27.jpg" length="21556" type="image/jpeg"/>
+      <pubDate>Sun, 07 May 2023 09:47:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>PinkPantheress - Boy's a liar Pt. 2 (5 plays)</title>
+      <link>https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2</link>
+      <guid isPermaLink="false">Arcade1996-1683468081--7441014f-f8f5-494f-81db-ff166fbc078d---Boy's a liar Pt. 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29499797f2bd56535cf6a345392ccd77.jpg" length="26941" type="image/jpeg"/>
+      <pubDate>Sun, 07 May 2023 10:01:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
