@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 May 2023 06:21:50 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - White Summer/Black Mountain Side (4 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/White+Summer%2FBlack+Mountain+Side</link>
-      <guid isPermaLink="false">Frippertron-1683279165--678d88b2-87b0-403b-b63d-5da7465aecc3---White Summer/Black Mountain Side</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa93c8c6156b4a8383c78422da79269e.jpg" length="20329" type="image/jpeg"/>
-      <pubDate>Fri, 05 May 2023 05:32:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>10cc - Une Nuit a Paris (6 plays)</title>
-      <link>https://www.last.fm/music/10cc/_/Une+Nuit+a+Paris</link>
-      <guid isPermaLink="false">Frippertron-1683279515--10cc---Une Nuit a Paris</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f396b05bd71041b8c1c6dd7660bdd61a.png" length="247190" type="image/png"/>
-      <pubDate>Fri, 05 May 2023 05:38:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 May 2023 07:15:50 +0000</lastBuildDate>
     <item>
       <title>10cc - I'm Not in Love (8 plays)</title>
       <link>https://www.last.fm/music/10cc/_/I%27m+Not+in+Love</link>
@@ -86,7 +72,7 @@
       <pubDate>Sun, 07 May 2023 22:27:06 -0400</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - Since I've Been Loving You (76 plays)</title>
+      <title>Led Zeppelin - Since I've Been Loving You (77 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
       <guid isPermaLink="false">Frippertron-1683513483--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -352,11 +338,25 @@
       <pubDate>Mon, 08 May 2023 01:49:54 -0400</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - Since I've Been Loving You (76 plays)</title>
+      <title>Led Zeppelin - Since I've Been Loving You (77 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
       <guid isPermaLink="false">Frippertron-1683525495--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3cb674a14343c183d4a7abc9b2a080.png" length="180119" type="image/png"/>
       <pubDate>Mon, 08 May 2023 01:58:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Since I've Been Loving You (77 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
+      <guid isPermaLink="false">Frippertron-1683525939--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3cb674a14343c183d4a7abc9b2a080.png" length="180119" type="image/png"/>
+      <pubDate>Mon, 08 May 2023 02:05:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bee Gees - Love You Inside Out (13 plays)</title>
+      <link>https://www.last.fm/music/Bee+Gees/_/Love+You+Inside+Out</link>
+      <guid isPermaLink="false">Frippertron-1683529857--bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810---Love You Inside Out</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d2aa2e3fb2f45c4a4c22738729fb8bd.png" length="126265" type="image/png"/>
+      <pubDate>Mon, 08 May 2023 03:10:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
