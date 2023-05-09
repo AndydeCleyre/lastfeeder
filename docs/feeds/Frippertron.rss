@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 May 2023 17:27:03 +0000</lastBuildDate>
-    <item>
-      <title>The Dismemberment Plan - Secret Curse (2 plays)</title>
-      <link>https://www.last.fm/music/The+Dismemberment+Plan/_/Secret+Curse</link>
-      <guid isPermaLink="false">Frippertron-1683624556--1131e5da-dfdf-46c9-b6ff-b7ac552c2a3c---Secret Curse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0423a914eed44766a3218bd78f27aaa7.png" length="180656" type="image/png"/>
-      <pubDate>Tue, 09 May 2023 05:29:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Dismemberment Plan - Automatic (2 plays)</title>
-      <link>https://www.last.fm/music/The+Dismemberment+Plan/_/Automatic</link>
-      <guid isPermaLink="false">Frippertron-1683624728--1131e5da-dfdf-46c9-b6ff-b7ac552c2a3c---Automatic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0423a914eed44766a3218bd78f27aaa7.png" length="180656" type="image/png"/>
-      <pubDate>Tue, 09 May 2023 05:32:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 May 2023 17:39:08 +0000</lastBuildDate>
     <item>
       <title>The Dismemberment Plan - Following Through (2 plays)</title>
       <link>https://www.last.fm/music/The+Dismemberment+Plan/_/Following+Through</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1683652651--7b05d6fe-91e8-4cb9-a401-2a13b1578716---Saboten</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa81a48aee4206f1fd0595dbc224640a.jpg" length="9435" type="image/jpeg"/>
       <pubDate>Tue, 09 May 2023 13:17:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>LFO - LFO (2 plays)</title>
+      <link>https://www.last.fm/music/LFO/_/LFO</link>
+      <guid isPermaLink="false">Frippertron-1683653167--LFO---LFO</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4245587f183e4da2b45c2c3d3bf1782e.jpg" length="7814" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 13:26:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>LFO - Simon from Sydney (2 plays)</title>
+      <link>https://www.last.fm/music/LFO/_/Simon+from+Sydney</link>
+      <guid isPermaLink="false">Frippertron-1683653370--LFO---Simon from Sydney</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4245587f183e4da2b45c2c3d3bf1782e.jpg" length="7814" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 13:29:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
