@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 May 2023 14:52:57 +0000</lastBuildDate>
-    <item>
-      <title>Gospel - S.R.O. (1 play)</title>
-      <link>https://www.last.fm/music/Gospel/_/S.R.O.</link>
-      <guid isPermaLink="false">Frippertron-1683617671--6162ff92-07b0-4ae0-867b-6e0dc13b0e1f---S.R.O.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5504f4454fc8629b29ea46c513167b0.jpg" length="20690" type="image/jpeg"/>
-      <pubDate>Tue, 09 May 2023 03:34:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 May 2023 15:17:08 +0000</lastBuildDate>
     <item>
       <title>Gospel - Tango (1 play)</title>
       <link>https://www.last.fm/music/Gospel/_/Tango</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1683643433--9e414497-23b7-4ab7-9ec6-8ea9864c9e87---流行</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d8c1986e40bdfc976a14c6600967aa3.jpg" length="11330" type="image/jpeg"/>
       <pubDate>Tue, 09 May 2023 10:43:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>椎名林檎 - 労働者 (2 plays)</title>
+      <link>https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/_/%E5%8A%B4%E5%83%8D%E8%80%85</link>
+      <guid isPermaLink="false">Frippertron-1683643692--9e414497-23b7-4ab7-9ec6-8ea9864c9e87---労働者</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d8c1986e40bdfc976a14c6600967aa3.jpg" length="11330" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 10:48:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
