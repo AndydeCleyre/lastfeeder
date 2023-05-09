@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 May 2023 07:26:59 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Who Can I Be Now? (47 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Who+Can+I+Be+Now%3F</link>
-      <guid isPermaLink="false">Frippertron-1683538477--5441c29d-3602-4898-b1a1-b77fa23b8e50---Who Can I Be Now?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bb8b933396a67eec030f11caf6ec646.jpg" length="17984" type="image/jpeg"/>
-      <pubDate>Mon, 08 May 2023 05:34:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Fame (173 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Fame</link>
-      <guid isPermaLink="false">Frippertron-1683538761--5441c29d-3602-4898-b1a1-b77fa23b8e50---Fame</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 08 May 2023 05:39:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 May 2023 07:38:10 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Cygnet Committee (43 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Cygnet+Committee</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1683617097--6162ff92-07b0-4ae0-867b-6e0dc13b0e1f---Deerghost</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5504f4454fc8629b29ea46c513167b0.jpg" length="20690" type="image/jpeg"/>
       <pubDate>Tue, 09 May 2023 03:24:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gospel - Hyper (1 play)</title>
+      <link>https://www.last.fm/music/Gospel/_/Hyper</link>
+      <guid isPermaLink="false">Frippertron-1683617304--6162ff92-07b0-4ae0-867b-6e0dc13b0e1f---Hyper</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5504f4454fc8629b29ea46c513167b0.jpg" length="20690" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 03:28:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gospel - S.R.O. (1 play)</title>
+      <link>https://www.last.fm/music/Gospel/_/S.R.O.</link>
+      <guid isPermaLink="false">Frippertron-1683617671--6162ff92-07b0-4ae0-867b-6e0dc13b0e1f---S.R.O.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5504f4454fc8629b29ea46c513167b0.jpg" length="20690" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 03:34:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
