@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 May 2023 10:37:52 +0000</lastBuildDate>
-    <item>
-      <title>Golden Earring - The Loner (1 play)</title>
-      <link>https://www.last.fm/music/Golden+Earring/_/The+Loner</link>
-      <guid isPermaLink="false">manosg--1683308991--75336c3d-2833-46cb-8037-b835cd7d646d---The Loner</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0435789369211f67c853e4ff0f37876a.jpg" length="29620" type="image/jpeg"/>
-      <pubDate>Fri, 05 May 2023 13:49:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 May 2023 10:52:18 +0000</lastBuildDate>
     <item>
       <title>Golden Earring - This Is the Time of the Year (1 play)</title>
       <link>https://www.last.fm/music/Golden+Earring/_/This+Is+the+Time+of+the+Year</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1683628337--Century---Distant Mirror</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/566fe0435d4d61e2b7dff6096b3c9be4.jpg" length="23555" type="image/jpeg"/>
       <pubDate>Tue, 09 May 2023 06:32:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Century - Breakthrough (1 play)</title>
+      <link>https://www.last.fm/music/Century/_/Breakthrough</link>
+      <guid isPermaLink="false">manosg--1683628622--Century---Breakthrough</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/566fe0435d4d61e2b7dff6096b3c9be4.jpg" length="23555" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 06:37:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
