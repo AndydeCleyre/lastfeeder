@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 May 2023 07:38:10 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Cygnet Committee (43 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Cygnet+Committee</link>
-      <guid isPermaLink="false">Frippertron-1683539137--5441c29d-3602-4898-b1a1-b77fa23b8e50---Cygnet Committee</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3a0ee1a624f7943329b1b0eaabda1de.jpg" length="26682" type="image/jpeg"/>
-      <pubDate>Mon, 08 May 2023 05:45:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Since I've Been Loving You (81 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
-      <guid isPermaLink="false">Frippertron-1683539744--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 08 May 2023 05:55:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 May 2023 07:52:24 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Stairway to Heaven (37 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Stairway+to+Heaven</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1683617671--6162ff92-07b0-4ae0-867b-6e0dc13b0e1f---S.R.O.</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5504f4454fc8629b29ea46c513167b0.jpg" length="20690" type="image/jpeg"/>
       <pubDate>Tue, 09 May 2023 03:34:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gospel - Tango (1 play)</title>
+      <link>https://www.last.fm/music/Gospel/_/Tango</link>
+      <guid isPermaLink="false">Frippertron-1683618034--6162ff92-07b0-4ae0-867b-6e0dc13b0e1f---Tango</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5504f4454fc8629b29ea46c513167b0.jpg" length="20690" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 03:40:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gospel - White Spaces (1 play)</title>
+      <link>https://www.last.fm/music/Gospel/_/White+Spaces</link>
+      <guid isPermaLink="false">Frippertron-1683618371--6162ff92-07b0-4ae0-867b-6e0dc13b0e1f---White Spaces</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5504f4454fc8629b29ea46c513167b0.jpg" length="20690" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 03:46:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
