@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 May 2023 05:52:30 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Young Americans (68 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Young+Americans</link>
-      <guid isPermaLink="false">Frippertron-1683536508--5441c29d-3602-4898-b1a1-b77fa23b8e50---Young Americans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 08 May 2023 05:01:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Win (49 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Win</link>
-      <guid isPermaLink="false">Frippertron-1683536822--5441c29d-3602-4898-b1a1-b77fa23b8e50---Win</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 08 May 2023 05:07:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 May 2023 06:22:01 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Right (56 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Right</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1683611291--72c090b6-a68e-4cb9-b330-85278681a714---Helen Of Troy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dd658db01724d6fa87a9f007b2e1202.jpg" length="11970" type="image/jpeg"/>
       <pubDate>Tue, 09 May 2023 01:48:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>MC5 - Sister Anne (21 plays)</title>
+      <link>https://www.last.fm/music/MC5/_/Sister+Anne</link>
+      <guid isPermaLink="false">Frippertron-1683611575--08b736bb-1c82-40b4-8b0b-49e2182a067a---Sister Anne</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3471a9d19c34f8aa287528ae46aa456.jpg" length="28194" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 01:52:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>MC5 - Skunk (Sonicly Speaking) (14 plays)</title>
+      <link>https://www.last.fm/music/MC5/_/Skunk+(Sonicly+Speaking)</link>
+      <guid isPermaLink="false">Frippertron-1683611960--08b736bb-1c82-40b4-8b0b-49e2182a067a---Skunk (Sonicly Speaking)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3471a9d19c34f8aa287528ae46aa456.jpg" length="28194" type="image/jpeg"/>
+      <pubDate>Tue, 09 May 2023 01:59:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
