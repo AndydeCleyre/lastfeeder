@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 May 2023 09:52:43 +0000</lastBuildDate>
-    <item>
-      <title>Dave Bixby - Drug Song (11 plays)</title>
-      <link>https://www.last.fm/music/Dave+Bixby/_/Drug+Song</link>
-      <guid isPermaLink="false">Frippertron-1683690400--f6417c61-0220-48bd-b835-d1735395ca69---Drug Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b019b3c9a4174ed0ce7946d2c5bd3146.png" length="72484" type="image/png"/>
-      <pubDate>Tue, 09 May 2023 23:46:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 May 2023 10:37:33 +0000</lastBuildDate>
     <item>
       <title>Portishead - Magic Doors (40 plays)</title>
       <link>https://www.last.fm/music/Portishead/_/Magic+Doors</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1683711464--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Wed, 10 May 2023 05:37:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Minutemen - Corona (36 plays)</title>
+      <link>https://www.last.fm/music/Minutemen/_/Corona</link>
+      <guid isPermaLink="false">Frippertron-1683713988--d4ad0149-d8ae-4105-8009-0221fce9ff35---Corona</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8879f81513ea2f1bc32e2f493f1eaa7f.jpg" length="22059" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 06:19:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
