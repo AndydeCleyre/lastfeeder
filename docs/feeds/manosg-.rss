@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 May 2023 14:16:40 +0000</lastBuildDate>
-    <item>
-      <title>Theatre of Tragedy - City of Light - Remastered (1 play)</title>
-      <link>https://www.last.fm/music/Theatre+of+Tragedy/_/City+of+Light+-+Remastered</link>
-      <guid isPermaLink="false">manosg--1683633403--Theatre of Tragedy---City of Light - Remastered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3745c4f69281a1630371c9c524779a5b.jpg" length="21477" type="image/jpeg"/>
-      <pubDate>Tue, 09 May 2023 07:56:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>Theatre of Tragedy - Fragment - Remastered (1 play)</title>
-      <link>https://www.last.fm/music/Theatre+of+Tragedy/_/Fragment+-+Remastered</link>
-      <guid isPermaLink="false">manosg--1683633716--Theatre of Tragedy---Fragment - Remastered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3745c4f69281a1630371c9c524779a5b.jpg" length="21477" type="image/jpeg"/>
-      <pubDate>Tue, 09 May 2023 08:01:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Haunt - Hit And Run (2 plays)</title>
-      <link>https://www.last.fm/music/Haunt/_/Hit+And+Run</link>
-      <guid isPermaLink="false">manosg--1683647425--b1121c41-ba5e-4210-887e-62f2466ae3c9---Hit And Run</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1237d33a9fcd5b4dff10fa976a76e87d.jpg" length="26952" type="image/jpeg"/>
-      <pubDate>Tue, 09 May 2023 11:50:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Haunt - Golden Arm (2 plays)</title>
-      <link>https://www.last.fm/music/Haunt/_/Golden+Arm</link>
-      <guid isPermaLink="false">manosg--1683647646--b1121c41-ba5e-4210-887e-62f2466ae3c9---Golden Arm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1237d33a9fcd5b4dff10fa976a76e87d.jpg" length="26952" type="image/jpeg"/>
-      <pubDate>Tue, 09 May 2023 11:54:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 May 2023 14:45:22 +0000</lastBuildDate>
     <item>
       <title>Haunt - Piece By Piece (1 play)</title>
       <link>https://www.last.fm/music/Haunt/_/Piece+By+Piece</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">manosg--1683727666--Michael Krumins---Red soul</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 10 May 2023 10:07:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yossi Sassi - Drive (1 play)</title>
+      <link>https://www.last.fm/music/Yossi+Sassi/_/Drive</link>
+      <guid isPermaLink="false">manosg--1683728252--bc42cfc1-776b-447b-8156-060da9df712f---Drive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f35b825e6d264a8baa79c0383dd4b087.jpg" length="27021" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 10:17:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yossi Sassi - Fields of Sunrise (1 play)</title>
+      <link>https://www.last.fm/music/Yossi+Sassi/_/Fields+of+Sunrise</link>
+      <guid isPermaLink="false">manosg--1683728631--bc42cfc1-776b-447b-8156-060da9df712f---Fields of Sunrise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f35b825e6d264a8baa79c0383dd4b087.jpg" length="27021" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 10:23:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yossi Sassi - The Calling: Rush Hour (1 play)</title>
+      <link>https://www.last.fm/music/Yossi+Sassi/_/The+Calling:+Rush+Hour</link>
+      <guid isPermaLink="false">manosg--1683728937--bc42cfc1-776b-447b-8156-060da9df712f---The Calling: Rush Hour</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f35b825e6d264a8baa79c0383dd4b087.jpg" length="27021" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 10:28:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Buena Vista Social Club - Chan Chan (2 plays)</title>
+      <link>https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan</link>
+      <guid isPermaLink="false">manosg--1683729235--2a85ecff-41e9-4be1-aca6-c87054a4c334---Chan Chan</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7cca22966906be978ef06b1db481bd87.jpg" length="18770" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 10:33:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
