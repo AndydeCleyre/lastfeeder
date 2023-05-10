@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 May 2023 09:37:45 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Fool (76 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Fool</link>
-      <guid isPermaLink="false">Frippertron-1683690075--66f8692c-966d-4dfb-a2ed-babf51241922---Fool</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
-      <pubDate>Tue, 09 May 2023 23:41:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 May 2023 09:52:43 +0000</lastBuildDate>
     <item>
       <title>Dave Bixby - Drug Song (11 plays)</title>
       <link>https://www.last.fm/music/Dave+Bixby/_/Drug+Song</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1683710672--20883363-1ea4-4d72-ad72-c0e767038f3e---Miranda That Ghost Just Isn't Holy Anymore</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Wed, 10 May 2023 05:24:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cassandra Gemini (5 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cassandra+Gemini</link>
+      <guid isPermaLink="false">Frippertron-1683711464--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 05:37:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
