@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 May 2023 16:25:19 +0000</lastBuildDate>
-    <item>
-      <title>Earth, Wind &amp; Fire - Boogie Wonderland (1 play)</title>
-      <link>https://www.last.fm/music/Earth,+Wind+&amp;+Fire/_/Boogie+Wonderland</link>
-      <guid isPermaLink="false">manosg--1683701560--535afeda-2538-435d-9dd1-5e10be586774---Boogie Wonderland</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fabc9e9539ea41457034e6458a507c21.jpg" length="24599" type="image/jpeg"/>
-      <pubDate>Wed, 10 May 2023 02:52:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 May 2023 16:43:14 +0000</lastBuildDate>
     <item>
       <title>Earth, Wind &amp; Fire - Star (1 play)</title>
       <link>https://www.last.fm/music/Earth,+Wind+&amp;+Fire/_/Star</link>
@@ -187,6 +180,7 @@
       <title>Jef Martens - Half Forgotten Phrase (1 play)</title>
       <link>https://www.last.fm/music/Jef+Martens/_/Half+Forgotten+Phrase</link>
       <guid isPermaLink="false">manosg--1683726341--f7c89557-82fc-418b-8eec-ab222c2ed558---Half Forgotten Phrase</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/271c289c5766c1f3f5d34c0be3654d7f.jpg" length="21582" type="image/jpeg"/>
       <pubDate>Wed, 10 May 2023 09:45:41 -0400</pubDate>
     </item>
     <item>
@@ -333,7 +327,6 @@
       <title>Manu Chao - La Primavera (1 play)</title>
       <link>https://www.last.fm/music/Manu+Chao/_/La+Primavera</link>
       <guid isPermaLink="false">manosg--1683734240--7570a0dd-5a67-401b-b19a-261eee01a284---La Primavera</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58dbbbf964b684afdeb6d6cbe9560ab7.jpg" length="35005" type="image/jpeg"/>
       <pubDate>Wed, 10 May 2023 11:57:20 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">manosg--1683735267--Black Sabbath---Children of the Sea - 2009 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7fe23d91242d5aa97020733ab7864c05.jpg" length="22649" type="image/jpeg"/>
       <pubDate>Wed, 10 May 2023 12:14:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Sabbath - Lady Evil - 2009 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Black+Sabbath/_/Lady+Evil+-+2009+Remaster</link>
+      <guid isPermaLink="false">manosg--1683735606--Black Sabbath---Lady Evil - 2009 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7fe23d91242d5aa97020733ab7864c05.jpg" length="22649" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 12:20:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
