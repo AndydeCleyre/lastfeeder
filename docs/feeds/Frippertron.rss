@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 May 2023 03:37:30 +0000</lastBuildDate>
-    <item>
-      <title>Jeromes Dream - The Future of Memory (1 play)</title>
-      <link>https://www.last.fm/music/Jeromes+Dream/_/The+Future+of+Memory</link>
-      <guid isPermaLink="false">Frippertron-1683707325--1b52a2f1-31bf-4360-8c4f-459a340dad98---The Future of Memory</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24570c82639dabd274bbdf6baa0d9bd5.jpg" length="6705" type="image/jpeg"/>
-      <pubDate>Wed, 10 May 2023 04:28:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jeromes Dream - Often Oceans (1 play)</title>
-      <link>https://www.last.fm/music/Jeromes+Dream/_/Often+Oceans</link>
-      <guid isPermaLink="false">Frippertron-1683707450--1b52a2f1-31bf-4360-8c4f-459a340dad98---Often Oceans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24570c82639dabd274bbdf6baa0d9bd5.jpg" length="6705" type="image/jpeg"/>
-      <pubDate>Wed, 10 May 2023 04:30:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jeromes Dream - The Last Water Pearl (1 play)</title>
-      <link>https://www.last.fm/music/Jeromes+Dream/_/The+Last+Water+Pearl</link>
-      <guid isPermaLink="false">Frippertron-1683707572--1b52a2f1-31bf-4360-8c4f-459a340dad98---The Last Water Pearl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24570c82639dabd274bbdf6baa0d9bd5.jpg" length="6705" type="image/jpeg"/>
-      <pubDate>Wed, 10 May 2023 04:32:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 May 2023 03:52:28 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Frances The Mute (4 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Frances+The+Mute</link>
@@ -96,6 +75,7 @@
       <title>椎名林檎 - 茎 (122 plays)</title>
       <link>https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/_/%E8%8C%8E</link>
       <guid isPermaLink="false">Frippertron-1683721226--9e414497-23b7-4ab7-9ec6-8ea9864c9e87---茎</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d679776bbb29e19d9bddeff56a42bf8.png" length="115690" type="image/png"/>
       <pubDate>Wed, 10 May 2023 08:20:26 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1683776102--72c090b6-a68e-4cb9-b330-85278681a714---Memphis</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bb7ec4cfa164d26be8769e576f03f51.jpg" length="37014" type="image/jpeg"/>
       <pubDate>Wed, 10 May 2023 23:35:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Despair (66 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Despair</link>
+      <guid isPermaLink="false">Frippertron-1683776426--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Despair</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 10 May 2023 23:40:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - Mary's Prayer (14 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/Mary%27s+Prayer</link>
+      <guid isPermaLink="false">Frippertron-1683776638--06cae8a2-622f-4033-a13e-f965c5289ecc---Mary's Prayer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68028226b6d69fc761054818c83c9a8a.jpg" length="9781" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 23:43:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans Way - Soul Train (41 plays)</title>
+      <link>https://www.last.fm/music/Swans+Way/_/Soul+Train</link>
+      <guid isPermaLink="false">Frippertron-1683776874--45d9f04f-b6c8-4d01-9e02-0071b29302df---Soul Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47a9ee59b8d24813b2a0bd40a95cd31d.jpg" length="23852" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 23:47:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
