@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 May 2023 02:44:03 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - For Your Life (40 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
-      <guid isPermaLink="false">Frippertron-1683703833--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
-      <pubDate>Wed, 10 May 2023 03:30:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - In the Light (56 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/In+the+Light</link>
-      <guid isPermaLink="false">Frippertron-1683704236--678d88b2-87b0-403b-b63d-5da7465aecc3---In the Light</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Wed, 10 May 2023 03:37:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 May 2023 02:56:24 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Down by the Seaside (35 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Down+by+the+Seaside</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1683772736--f37c537b-3557-4031-bfd6-ab63ced32854---Clockwork Creep</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bdedd85d4fe46d3a8cd5ef508a9c58a.jpg" length="21331" type="image/jpeg"/>
       <pubDate>Wed, 10 May 2023 22:38:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>10cc - Somewhere In Hollywood (6 plays)</title>
+      <link>https://www.last.fm/music/10cc/_/Somewhere+In+Hollywood</link>
+      <guid isPermaLink="false">Frippertron-1683772945--f37c537b-3557-4031-bfd6-ab63ced32854---Somewhere In Hollywood</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bdedd85d4fe46d3a8cd5ef508a9c58a.jpg" length="21331" type="image/jpeg"/>
+      <pubDate>Wed, 10 May 2023 22:42:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>10cc - Life Is A Minestrone (11 plays)</title>
+      <link>https://www.last.fm/music/10cc/_/Life+Is+A+Minestrone</link>
+      <guid isPermaLink="false">Frippertron-1683773414--f37c537b-3557-4031-bfd6-ab63ced32854---Life Is A Minestrone</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f396b05bd71041b8c1c6dd7660bdd61a.png" length="247190" type="image/png"/>
+      <pubDate>Wed, 10 May 2023 22:50:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
