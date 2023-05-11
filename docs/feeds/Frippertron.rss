@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 May 2023 10:37:34 +0000</lastBuildDate>
-    <item>
-      <title>Seal - I'm Alive (2 plays)</title>
-      <link>https://www.last.fm/music/Seal/_/I%27m+Alive</link>
-      <guid isPermaLink="false">Frippertron-1683783312--f053ae01-dae6-4aae-9883-e8c279fdbef4---I'm Alive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a5472642c0d026167ca8dad6fccf5c9e.jpg" length="8340" type="image/jpeg"/>
-      <pubDate>Thu, 11 May 2023 01:35:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 May 2023 15:17:43 +0000</lastBuildDate>
     <item>
       <title>Seal - Bring It On (reprise) (2 plays)</title>
       <link>https://www.last.fm/music/Seal/_/Bring+It+On+(reprise)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1683800729--7d4de20c-74b7-4c76-9f6d-ea6dba85439d---Got the Bug</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 11 May 2023 06:25:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Phil Ochs - Tape From California (6 plays)</title>
+      <link>https://www.last.fm/music/Phil+Ochs/_/Tape+From+California</link>
+      <guid isPermaLink="false">Frippertron-1683817635--80cd255d-995c-47f1-a5bc-cc34669a37a0---Tape From California</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a2ee04b863fcbe55be5ee57de954916.jpg" length="23042" type="image/jpeg"/>
+      <pubDate>Thu, 11 May 2023 11:07:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
