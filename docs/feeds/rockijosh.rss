@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 May 2023 17:26:29 +0000</lastBuildDate>
-    <item>
-      <title>Traveling Wilburys - End of the Line (2 plays)</title>
-      <link>https://www.last.fm/music/Traveling+Wilburys/_/End+of+the+Line</link>
-      <guid isPermaLink="false">rockijosh-1683815074--4387b544-e4d0-4f18-b74e-d4a5ba1582ab---End of the Line</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73f70dd6acee19dd35ded66bbe1a3f0c.jpg" length="31976" type="image/jpeg"/>
-      <pubDate>Thu, 11 May 2023 10:24:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fleetwood Mac - Landslide (1 play)</title>
-      <link>https://www.last.fm/music/Fleetwood+Mac/_/Landslide</link>
-      <guid isPermaLink="false">rockijosh-1683815284--Fleetwood Mac---Landslide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbb59d139daa49ce8aa3ab43733805a4.png" length="100305" type="image/png"/>
-      <pubDate>Thu, 11 May 2023 10:28:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tom Petty - Yer So Bad (1 play)</title>
-      <link>https://www.last.fm/music/Tom+Petty/_/Yer+So+Bad</link>
-      <guid isPermaLink="false">rockijosh-1683815484--5ca3f318-d028-4151-ac73-78e2b2d6cdcc---Yer So Bad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f3191269c11225e7280bdd43c87f5d0.jpg" length="18392" type="image/jpeg"/>
-      <pubDate>Thu, 11 May 2023 10:31:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 May 2023 17:38:35 +0000</lastBuildDate>
     <item>
       <title>Creedence Clearwater Revival - Up Around the Bend (97 plays)</title>
       <link>https://www.last.fm/music/Creedence+Clearwater+Revival/_/Up+Around+the+Bend</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">rockijosh-1683825697--Paul McCartney---Maybe I’m Amazed - 2011 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/37148de4594287d0a1affe7da089f470.jpg" length="17398" type="image/jpeg"/>
       <pubDate>Thu, 11 May 2023 13:21:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Traveling Wilburys - End of the Line (3 plays)</title>
+      <link>https://www.last.fm/music/Traveling+Wilburys/_/End+of+the+Line</link>
+      <guid isPermaLink="false">rockijosh-1683825927--4387b544-e4d0-4f18-b74e-d4a5ba1582ab---End of the Line</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73f70dd6acee19dd35ded66bbe1a3f0c.jpg" length="31976" type="image/jpeg"/>
+      <pubDate>Thu, 11 May 2023 13:25:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fleetwood Mac - Landslide (2 plays)</title>
+      <link>https://www.last.fm/music/Fleetwood+Mac/_/Landslide</link>
+      <guid isPermaLink="false">rockijosh-1683826137--Fleetwood Mac---Landslide</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbb59d139daa49ce8aa3ab43733805a4.png" length="100305" type="image/png"/>
+      <pubDate>Thu, 11 May 2023 13:28:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tom Petty - Yer So Bad (2 plays)</title>
+      <link>https://www.last.fm/music/Tom+Petty/_/Yer+So+Bad</link>
+      <guid isPermaLink="false">rockijosh-1683826337--5ca3f318-d028-4151-ac73-78e2b2d6cdcc---Yer So Bad</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f3191269c11225e7280bdd43c87f5d0.jpg" length="18392" type="image/jpeg"/>
+      <pubDate>Thu, 11 May 2023 13:32:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
