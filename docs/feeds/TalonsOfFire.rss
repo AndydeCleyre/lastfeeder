@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 May 2023 19:12:30 +0000</lastBuildDate>
-    <item>
-      <title>Helios - Hollie (2 plays)</title>
-      <link>https://www.last.fm/music/Helios/_/Hollie</link>
-      <guid isPermaLink="false">TalonsOfFire-1683645523--Helios---Hollie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/232b695cc3434eba950ec39dcaef8707.png" length="176426" type="image/png"/>
-      <pubDate>Tue, 09 May 2023 11:18:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>Intronaut - Above (9 plays)</title>
-      <link>https://www.last.fm/music/Intronaut/_/Above</link>
-      <guid isPermaLink="false">TalonsOfFire-1683654701--1f40816c-9b2a-4a79-85e0-842b4841f930---Above</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/200fbd3bd3a9f634979c3a4d328c2591.jpg" length="36519" type="image/jpeg"/>
-      <pubDate>Tue, 09 May 2023 13:51:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 May 2023 19:25:11 +0000</lastBuildDate>
     <item>
       <title>Intronaut - Miasma (10 plays)</title>
       <link>https://www.last.fm/music/Intronaut/_/Miasma</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1683832103--Isis---Temporal</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7462415abdc11e6e278c9f91c426a6b.jpg" length="19989" type="image/jpeg"/>
       <pubDate>Thu, 11 May 2023 15:08:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Isis - Way Through Woven Branches (7 plays)</title>
+      <link>https://www.last.fm/music/Isis/_/Way+Through+Woven+Branches</link>
+      <guid isPermaLink="false">TalonsOfFire-1683832226--Isis---Way Through Woven Branches</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7462415abdc11e6e278c9f91c426a6b.jpg" length="19989" type="image/jpeg"/>
+      <pubDate>Thu, 11 May 2023 15:10:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Isis - Pliable Foe (4 plays)</title>
+      <link>https://www.last.fm/music/Isis/_/Pliable+Foe</link>
+      <guid isPermaLink="false">TalonsOfFire-1683832566--Isis---Pliable Foe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7462415abdc11e6e278c9f91c426a6b.jpg" length="19989" type="image/jpeg"/>
+      <pubDate>Thu, 11 May 2023 15:16:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
