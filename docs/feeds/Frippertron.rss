@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 May 2023 22:40:25 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Fool in the Rain (16 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Fool+in+the+Rain</link>
-      <guid isPermaLink="false">Frippertron-1683799653--678d88b2-87b0-403b-b63d-5da7465aecc3---Fool in the Rain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f652e76b8db42e59279db8a6c3d697d.png" length="195734" type="image/png"/>
-      <pubDate>Thu, 11 May 2023 06:07:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 May 2023 22:52:22 +0000</lastBuildDate>
     <item>
       <title>Cool McCool - world turns round (2 plays)</title>
       <link>https://www.last.fm/music/Cool+McCool/_/world+turns+round</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1683930629--678d88b2-87b0-403b-b63d-5da7465aecc3---In the Light</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
       <pubDate>Fri, 12 May 2023 18:30:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - For Your Life (41 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
+      <guid isPermaLink="false">Frippertron-1683931154--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Fri, 12 May 2023 18:39:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
