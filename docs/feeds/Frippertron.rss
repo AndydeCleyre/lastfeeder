@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 May 2023 22:28:15 +0000</lastBuildDate>
-    <item>
-      <title>At the Drive-In - Cosmonaut (1 play)</title>
-      <link>https://www.last.fm/music/At+the+Drive-In/_/Cosmonaut</link>
-      <guid isPermaLink="false">Frippertron-1683799114--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Cosmonaut</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/509a00756d5997721dc13f1578339f04.png" length="179176" type="image/png"/>
-      <pubDate>Thu, 11 May 2023 05:58:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>At the Drive-In - Non-Zero Possibility (1 play)</title>
-      <link>https://www.last.fm/music/At+the+Drive-In/_/Non-Zero+Possibility</link>
-      <guid isPermaLink="false">Frippertron-1683799319--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Non-Zero Possibility</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/509a00756d5997721dc13f1578339f04.png" length="179176" type="image/png"/>
-      <pubDate>Thu, 11 May 2023 06:01:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 May 2023 22:40:25 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Fool in the Rain (16 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Fool+in+the+Rain</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1683930059--678d88b2-87b0-403b-b63d-5da7465aecc3---Heartbreaker</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79eb7925a57079641e698093417efde7.jpg" length="23319" type="image/jpeg"/>
       <pubDate>Fri, 12 May 2023 18:20:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Down by the Seaside (36 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Down+by+the+Seaside</link>
+      <guid isPermaLink="false">Frippertron-1683930316--678d88b2-87b0-403b-b63d-5da7465aecc3---Down by the Seaside</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
+      <pubDate>Fri, 12 May 2023 18:25:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - In the Light (57 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/In+the+Light</link>
+      <guid isPermaLink="false">Frippertron-1683930629--678d88b2-87b0-403b-b63d-5da7465aecc3---In the Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
+      <pubDate>Fri, 12 May 2023 18:30:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
