@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 May 2023 15:26:29 +0000</lastBuildDate>
-    <item>
-      <title>Queens of the Stone Age - Song For The Dead (1 play)</title>
-      <link>https://www.last.fm/music/Queens+of+the+Stone+Age/_/Song+For+The+Dead</link>
-      <guid isPermaLink="false">Arcade1996-1683873732--7dc8f5bd-9d0b-4087-9f73-dc164950bbd8---Song For The Dead</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1319ef46e1da47f5c7dd7afdfb11aa53.jpg" length="13717" type="image/jpeg"/>
-      <pubDate>Fri, 12 May 2023 02:42:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queens of the Stone Age - The Sky Is Fallin' (1 play)</title>
-      <link>https://www.last.fm/music/Queens+of+the+Stone+Age/_/The+Sky+Is+Fallin%27</link>
-      <guid isPermaLink="false">Arcade1996-1683874084--7dc8f5bd-9d0b-4087-9f73-dc164950bbd8---The Sky Is Fallin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1319ef46e1da47f5c7dd7afdfb11aa53.jpg" length="13717" type="image/jpeg"/>
-      <pubDate>Fri, 12 May 2023 02:48:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queens of the Stone Age - Six Shooter (1 play)</title>
-      <link>https://www.last.fm/music/Queens+of+the+Stone+Age/_/Six+Shooter</link>
-      <guid isPermaLink="false">Arcade1996-1683874460--7dc8f5bd-9d0b-4087-9f73-dc164950bbd8---Six Shooter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1319ef46e1da47f5c7dd7afdfb11aa53.jpg" length="13717" type="image/jpeg"/>
-      <pubDate>Fri, 12 May 2023 02:54:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 May 2023 15:38:23 +0000</lastBuildDate>
     <item>
       <title>Queens of the Stone Age - Hanging Tree (1 play)</title>
       <link>https://www.last.fm/music/Queens+of+the+Stone+Age/_/Hanging+Tree</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Arcade1996-1683990996--The Drones---Nail It Down</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aeb6a2b11a23bc619ca289c1b45246da.jpg" length="19789" type="image/jpeg"/>
       <pubDate>Sat, 13 May 2023 11:16:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Drones - The Minotaur (1 play)</title>
+      <link>https://www.last.fm/music/The+Drones/_/The+Minotaur</link>
+      <guid isPermaLink="false">Arcade1996-1683991409--The Drones---The Minotaur</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aeb6a2b11a23bc619ca289c1b45246da.jpg" length="19789" type="image/jpeg"/>
+      <pubDate>Sat, 13 May 2023 11:23:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Drones - The Drifting Housewife (1 play)</title>
+      <link>https://www.last.fm/music/The+Drones/_/The+Drifting+Housewife</link>
+      <guid isPermaLink="false">Arcade1996-1683991615--The Drones---The Drifting Housewife</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aeb6a2b11a23bc619ca289c1b45246da.jpg" length="19789" type="image/jpeg"/>
+      <pubDate>Sat, 13 May 2023 11:26:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Drones - I Am a Supercargo (1 play)</title>
+      <link>https://www.last.fm/music/The+Drones/_/I+Am+a+Supercargo</link>
+      <guid isPermaLink="false">Arcade1996-1683991855--The Drones---I Am a Supercargo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aeb6a2b11a23bc619ca289c1b45246da.jpg" length="19789" type="image/jpeg"/>
+      <pubDate>Sat, 13 May 2023 11:30:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
