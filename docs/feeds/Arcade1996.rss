@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 May 2023 05:27:06 +0000</lastBuildDate>
-    <item>
-      <title>Jimmy Barnes - Too Much Ain't Enough Love (3 plays)</title>
-      <link>https://www.last.fm/music/Jimmy+Barnes/_/Too+Much+Ain%27t+Enough+Love</link>
-      <guid isPermaLink="false">Arcade1996-1683906445--acaacdc4-194e-45ae-9959-c8e83e3120b2---Too Much Ain't Enough Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c813685ed57591cdd112161ec117a26.jpg" length="26262" type="image/jpeg"/>
-      <pubDate>Fri, 12 May 2023 11:47:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>You Am I - Berlin Chair (13 plays)</title>
-      <link>https://www.last.fm/music/You+Am+I/_/Berlin+Chair</link>
-      <guid isPermaLink="false">Arcade1996-1683906730--b1865773-6b30-40e4-87bb-906bcbc45f91---Berlin Chair</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729e330cc4696931636a03319d0124e5.jpg" length="15547" type="image/jpeg"/>
-      <pubDate>Fri, 12 May 2023 11:52:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>Everything But the Girl - No One Knows We’re Dancing (9 plays)</title>
-      <link>https://www.last.fm/music/Everything+But+the+Girl/_/No+One+Knows+We%E2%80%99re+Dancing</link>
-      <guid isPermaLink="false">Arcade1996-1683906885--959cf5bf-ee29-4af6-a85a-0b480181d988---No One Knows We’re Dancing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2eb7e57cb4dd2a69c9f7f6a84b0f206b.jpg" length="27761" type="image/jpeg"/>
-      <pubDate>Fri, 12 May 2023 11:54:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Grian Chatten - The Score (5 plays)</title>
-      <link>https://www.last.fm/music/Grian+Chatten/_/The+Score</link>
-      <guid isPermaLink="false">Arcade1996-1683907134--Grian Chatten---The Score</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c29d02c98c7a993f8226506384c9f961.png" length="100743" type="image/png"/>
-      <pubDate>Fri, 12 May 2023 11:58:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 May 2023 05:39:20 +0000</lastBuildDate>
     <item>
       <title>James Taylor - Fire and Rain (10 plays)</title>
       <link>https://www.last.fm/music/James+Taylor/_/Fire+and+Rain</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Arcade1996-1684041587--Lust for Youth---Giorgia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1e6ab6a5675ee18ed05cd8d00f80370.jpg" length="25414" type="image/jpeg"/>
       <pubDate>Sun, 14 May 2023 01:19:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Richard Thompson - Crawl Back (Under My Stone) (1 play)</title>
+      <link>https://www.last.fm/music/Richard+Thompson/_/Crawl+Back+(Under+My+Stone)</link>
+      <guid isPermaLink="false">Arcade1996-1684041873--ecfeacaf-0399-470f-8207-d1c646569fd0---Crawl Back (Under My Stone)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d092fa87e224018b5839b1e10e83ece.jpg" length="22566" type="image/jpeg"/>
+      <pubDate>Sun, 14 May 2023 01:24:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Richard Thompson - Sibella (1 play)</title>
+      <link>https://www.last.fm/music/Richard+Thompson/_/Sibella</link>
+      <guid isPermaLink="false">Arcade1996-1684042112--ecfeacaf-0399-470f-8207-d1c646569fd0---Sibella</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d092fa87e224018b5839b1e10e83ece.jpg" length="22566" type="image/jpeg"/>
+      <pubDate>Sun, 14 May 2023 01:28:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Richard Thompson - Ghosts in the Maze (1 play)</title>
+      <link>https://www.last.fm/music/Richard+Thompson/_/Ghosts+in+the+Maze</link>
+      <guid isPermaLink="false">Arcade1996-1684042367--ecfeacaf-0399-470f-8207-d1c646569fd0---Ghosts in the Maze</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6cfbea83467964248e1b8c034603294.png" length="167814" type="image/png"/>
+      <pubDate>Sun, 14 May 2023 01:32:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Buddy Miller - Wedding Bells (1 play)</title>
+      <link>https://www.last.fm/music/Buddy+Miller/_/Wedding+Bells</link>
+      <guid isPermaLink="false">Arcade1996-1684042460--Buddy Miller---Wedding Bells</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c617654afe82a7f0fe11858941f2bc5a.jpg" length="26411" type="image/jpeg"/>
+      <pubDate>Sun, 14 May 2023 01:34:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
