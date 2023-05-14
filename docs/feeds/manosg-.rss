@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 May 2023 08:18:23 +0000</lastBuildDate>
-    <item>
-      <title>Thin Lizzy - Sha La La (1 play)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/Sha+La+La</link>
-      <guid isPermaLink="false">manosg--1683789843--6a726ac6-019e-455c-8bbb-571a77bed52e---Sha La La</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acb636d45dec45d063a49276008507f9.jpg" length="28574" type="image/jpeg"/>
-      <pubDate>Thu, 11 May 2023 03:24:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thin Lizzy - Dear Heart (1 play)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/Dear+Heart</link>
-      <guid isPermaLink="false">manosg--1683790088--6a726ac6-019e-455c-8bbb-571a77bed52e---Dear Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acb636d45dec45d063a49276008507f9.jpg" length="28574" type="image/jpeg"/>
-      <pubDate>Thu, 11 May 2023 03:28:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 May 2023 10:15:39 +0000</lastBuildDate>
     <item>
       <title>Saxon - Princess of the Night - 2009 Remaster (1 play)</title>
       <link>https://www.last.fm/music/Saxon/_/Princess+of+the+Night+-+2009+Remaster</link>
@@ -275,7 +261,7 @@
       <pubDate>Sun, 14 May 2023 03:09:48 -0400</pubDate>
     </item>
     <item>
-      <title>Blood Ceremony - The Hellfire Club (1 play)</title>
+      <title>Blood Ceremony - The Hellfire Club (2 plays)</title>
       <link>https://www.last.fm/music/Blood+Ceremony/_/The+Hellfire+Club</link>
       <guid isPermaLink="false">manosg--1684048248--697645c4-c8c6-4e21-a52d-ff60453b6482---The Hellfire Club</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b27c5ba291175fa52e6f122c6750aaae.jpg" length="27518" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1684051251--b22f7fa7-227d-4d12-be1a-603b2f1960fb---Wait to Die</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e72ee2a33bc2e721dd48d3cc2cfdd002.jpg" length="26821" type="image/jpeg"/>
       <pubDate>Sun, 14 May 2023 04:00:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Smoulder - Spellforger (2 plays)</title>
+      <link>https://www.last.fm/music/Smoulder/_/Spellforger</link>
+      <guid isPermaLink="false">manosg--1684051455--45e0e1a6-d574-4fa4-ae10-bb7652c5138d---Spellforger</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e5b1ff0fcd8a98b7bcc9939b190dfba.jpg" length="26123" type="image/jpeg"/>
+      <pubDate>Sun, 14 May 2023 04:04:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Blood Ceremony - The Hellfire Club (2 plays)</title>
+      <link>https://www.last.fm/music/Blood+Ceremony/_/The+Hellfire+Club</link>
+      <guid isPermaLink="false">manosg--1684059017--697645c4-c8c6-4e21-a52d-ff60453b6482---The Hellfire Club</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b27c5ba291175fa52e6f122c6750aaae.jpg" length="27518" type="image/jpeg"/>
+      <pubDate>Sun, 14 May 2023 06:10:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
