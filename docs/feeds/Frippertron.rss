@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 May 2023 10:18:03 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Fool in the Rain (17 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Fool+in+the+Rain</link>
-      <guid isPermaLink="false">Frippertron-1684121322--678d88b2-87b0-403b-b63d-5da7465aecc3---Fool in the Rain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f652e76b8db42e59279db8a6c3d697d.png" length="195734" type="image/png"/>
-      <pubDate>Sun, 14 May 2023 23:28:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ivan Lins - Não Tem Perdão (29 plays)</title>
-      <link>https://www.last.fm/music/Ivan+Lins/_/N%C3%A3o+Tem+Perd%C3%A3o</link>
-      <guid isPermaLink="false">Frippertron-1684121705--2f31098d-1258-4f8f-af5f-95815b02f2d2---Não Tem Perdão</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e57a941e22a58c942e0db84672331426.jpg" length="16448" type="image/jpeg"/>
-      <pubDate>Sun, 14 May 2023 23:35:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 May 2023 10:38:20 +0000</lastBuildDate>
     <item>
       <title>Ivan Lins - Abre Alas (121 plays)</title>
       <link>https://www.last.fm/music/Ivan+Lins/_/Abre+Alas</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1684144885--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 15 May 2023 06:01:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Astronomy Domine (35 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Astronomy+Domine</link>
+      <guid isPermaLink="false">Frippertron-1684145847--83d91898-7763-47d7-b03b-b92132375c47---Astronomy Domine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4db1b8ef3cabd86e40a3f30b6597927.jpg" length="31882" type="image/jpeg"/>
+      <pubDate>Mon, 15 May 2023 06:17:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - See Emily Play (22 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/See+Emily+Play</link>
+      <guid isPermaLink="false">Frippertron-1684146158--83d91898-7763-47d7-b03b-b92132375c47---See Emily Play</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/495b50731f724667968bbe9ba8a921e7.png" length="180533" type="image/png"/>
+      <pubDate>Mon, 15 May 2023 06:22:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
