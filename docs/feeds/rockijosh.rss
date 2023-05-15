@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 May 2023 14:52:43 +0000</lastBuildDate>
-    <item>
-      <title>Billy Joel - Movin' Out (Anthony's Song) (49 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/Movin%27+Out+(Anthony%27s+Song)</link>
-      <guid isPermaLink="false">rockijosh-1684073126--64b94289-9474-4d43-8c93-918ccc1920d1---Movin' Out (Anthony's Song)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/124d18bbd0eb42f8941431733c5e8783.png" length="125029" type="image/png"/>
-      <pubDate>Sun, 14 May 2023 10:05:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>Billy Joel - New York State Of Mind (18 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind</link>
-      <guid isPermaLink="false">rockijosh-1684073339--64b94289-9474-4d43-8c93-918ccc1920d1---New York State Of Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6056294021058eaee7ceafc184d297d2.jpg" length="28891" type="image/jpeg"/>
-      <pubDate>Sun, 14 May 2023 10:08:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 May 2023 15:17:12 +0000</lastBuildDate>
     <item>
       <title>Billy Joel - Summer, Highland Falls - Live at Shea Stadium, Queens, NY - July 2008 (1 play)</title>
       <link>https://www.last.fm/music/Billy+Joel/_/Summer,+Highland+Falls+-+Live+at+Shea+Stadium,+Queens,+NY+-+July+2008</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1684162278--dcdde3aa-1d73-4c02-9e89-c5e8d3929eac---inferno</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41cd6a2761f9753d13dffe406347822a.jpg" length="19213" type="image/jpeg"/>
       <pubDate>Mon, 15 May 2023 10:51:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Zara Larsson - Love Me Land (1 play)</title>
+      <link>https://www.last.fm/music/Zara+Larsson/_/Love+Me+Land</link>
+      <guid isPermaLink="false">rockijosh-1684162338--134e6410-6954-45d1-bd4a-0f2d2ad5471d---Love Me Land</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6fa8b4eb43b135594c71f9f6bd2e1fe.jpg" length="20745" type="image/jpeg"/>
+      <pubDate>Mon, 15 May 2023 10:52:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ava Max - Ghost (1 play)</title>
+      <link>https://www.last.fm/music/Ava+Max/_/Ghost</link>
+      <guid isPermaLink="false">rockijosh-1684162499--add5f522-25df-41c4-815e-0ca9f60b83e4---Ghost</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca85d3f90d082056adfcf56b82056bd6.jpg" length="31624" type="image/jpeg"/>
+      <pubDate>Mon, 15 May 2023 10:54:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
