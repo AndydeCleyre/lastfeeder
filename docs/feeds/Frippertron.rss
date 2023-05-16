@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 May 2023 10:38:20 +0000</lastBuildDate>
-    <item>
-      <title>Ivan Lins - Abre Alas (121 plays)</title>
-      <link>https://www.last.fm/music/Ivan+Lins/_/Abre+Alas</link>
-      <guid isPermaLink="false">Frippertron-1684121930--2f31098d-1258-4f8f-af5f-95815b02f2d2---Abre Alas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e57a941e22a58c942e0db84672331426.jpg" length="16448" type="image/jpeg"/>
-      <pubDate>Sun, 14 May 2023 23:38:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ivan Lins - Somos todos iguais nesta noite (é o circo de novo) (125 plays)</title>
-      <link>https://www.last.fm/music/Ivan+Lins/_/Somos+todos+iguais+nesta+noite+(%C3%A9+o+circo+de+novo)</link>
-      <guid isPermaLink="false">Frippertron-1684122120--2f31098d-1258-4f8f-af5f-95815b02f2d2---Somos todos iguais nesta noite (é o circo de novo)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ef82d3e285162a2551ab11ecf79b1ef.jpg" length="27139" type="image/jpeg"/>
-      <pubDate>Sun, 14 May 2023 23:42:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 May 2023 02:24:53 +0000</lastBuildDate>
     <item>
       <title>Phil Ochs - Cross My Heart (70 plays)</title>
       <link>https://www.last.fm/music/Phil+Ochs/_/Cross+My+Heart</link>
@@ -170,7 +156,7 @@
       <pubDate>Mon, 15 May 2023 03:05:09 -0400</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - For Your Life (42 plays)</title>
+      <title>Led Zeppelin - For Your Life (43 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
       <guid isPermaLink="false">Frippertron-1684134941--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1684146158--83d91898-7763-47d7-b03b-b92132375c47---See Emily Play</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/495b50731f724667968bbe9ba8a921e7.png" length="180533" type="image/png"/>
       <pubDate>Mon, 15 May 2023 06:22:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - For Your Life (43 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
+      <guid isPermaLink="false">Frippertron-1684203314--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Mon, 15 May 2023 22:15:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Royal Orleans (30 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Royal+Orleans</link>
+      <guid isPermaLink="false">Frippertron-1684203700--678d88b2-87b0-403b-b63d-5da7465aecc3---Royal Orleans</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Mon, 15 May 2023 22:21:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
