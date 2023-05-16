@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 May 2023 05:27:30 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Astronomy Domine (36 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Astronomy+Domine</link>
-      <guid isPermaLink="false">Frippertron-1684145847--83d91898-7763-47d7-b03b-b92132375c47---Astronomy Domine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4db1b8ef3cabd86e40a3f30b6597927.jpg" length="31882" type="image/jpeg"/>
-      <pubDate>Mon, 15 May 2023 06:17:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - See Emily Play (22 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/See+Emily+Play</link>
-      <guid isPermaLink="false">Frippertron-1684146158--83d91898-7763-47d7-b03b-b92132375c47---See Emily Play</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/495b50731f724667968bbe9ba8a921e7.png" length="180533" type="image/png"/>
-      <pubDate>Mon, 15 May 2023 06:22:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 May 2023 05:39:31 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - For Your Life (43 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1684214274--Flash---Lifetime</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3615ac2268bf2750d2a3478ab84c33b6.jpg" length="20402" type="image/jpeg"/>
       <pubDate>Tue, 16 May 2023 01:17:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Come September - Here Comes Heaven (44 plays)</title>
+      <link>https://www.last.fm/music/Come+September/_/Here+Comes+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1684214919--Come September---Here Comes Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4459de5933e469dc697196ed1ea31d0.jpg" length="17216" type="image/jpeg"/>
+      <pubDate>Tue, 16 May 2023 01:28:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Polaris - Hey Sandy (5 plays)</title>
+      <link>https://www.last.fm/music/Polaris/_/Hey+Sandy</link>
+      <guid isPermaLink="false">Frippertron-1684215315--Polaris---Hey Sandy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3feb5057e6fbe640b7a5fd7d81e40cc3.jpg" length="18165" type="image/jpeg"/>
+      <pubDate>Tue, 16 May 2023 01:35:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
