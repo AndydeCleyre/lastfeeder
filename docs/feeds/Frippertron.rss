@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 May 2023 07:14:34 +0000</lastBuildDate>
-    <item>
-      <title>Everything But the Girl - Each and Every One (108 plays)</title>
-      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Each+and+Every+One</link>
-      <guid isPermaLink="false">Frippertron-1684228314--959cf5bf-ee29-4af6-a85a-0b480181d988---Each and Every One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e98c28f4799f4b8bbff55d16ddc6b8bd.jpg" length="32092" type="image/jpeg"/>
-      <pubDate>Tue, 16 May 2023 05:11:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Phil Ochs - Cross My Heart (71 plays)</title>
-      <link>https://www.last.fm/music/Phil+Ochs/_/Cross+My+Heart</link>
-      <guid isPermaLink="false">Frippertron-1684228709--80cd255d-995c-47f1-a5bc-cc34669a37a0---Cross My Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cac702d0c3fe4616eab5281d0eb8fcb7.jpg" length="17125" type="image/jpeg"/>
-      <pubDate>Tue, 16 May 2023 05:18:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 May 2023 07:26:31 +0000</lastBuildDate>
     <item>
       <title>Phil Ochs - Flower Lady (36 plays)</title>
       <link>https://www.last.fm/music/Phil+Ochs/_/Flower+Lady</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1684307203--678d88b2-87b0-403b-b63d-5da7465aecc3---Trampled Under Foot</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 17 May 2023 03:06:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Simon Bookish - The Flood (1 play)</title>
+      <link>https://www.last.fm/music/Simon+Bookish/_/The+Flood</link>
+      <guid isPermaLink="false">Frippertron-1684307823--20a41297-e27d-4c98-95c3-471b05327c3e---The Flood</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56e4d273d2eb90146f043362235feae3.jpg" length="30409" type="image/jpeg"/>
+      <pubDate>Wed, 17 May 2023 03:17:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Simon Bookish - Dumb Terminal (1 play)</title>
+      <link>https://www.last.fm/music/Simon+Bookish/_/Dumb+Terminal</link>
+      <guid isPermaLink="false">Frippertron-1684308067--20a41297-e27d-4c98-95c3-471b05327c3e---Dumb Terminal</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56e4d273d2eb90146f043362235feae3.jpg" length="30409" type="image/jpeg"/>
+      <pubDate>Wed, 17 May 2023 03:21:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
