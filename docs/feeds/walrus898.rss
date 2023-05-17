@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 May 2023 22:28:08 +0000</lastBuildDate>
-    <item>
-      <title>Boyish - Legs (5 plays)</title>
-      <link>https://www.last.fm/music/Boyish/_/Legs</link>
-      <guid isPermaLink="false">walrus898-1684095726--fffff303-61b4-4383-8e25-283360985822---Legs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db330b10b4346707645dddfff5b6d081.jpg" length="31988" type="image/jpeg"/>
-      <pubDate>Sun, 14 May 2023 16:22:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Beauty Queen - This Time Around (5 plays)</title>
-      <link>https://www.last.fm/music/Beauty+Queen/_/This+Time+Around</link>
-      <guid isPermaLink="false">walrus898-1684095726--Beauty Queen---This Time Around</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d24c2a38d9c7fc88284b2ecac66b6ead.jpg" length="20181" type="image/jpeg"/>
-      <pubDate>Sun, 14 May 2023 16:22:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 May 2023 22:52:12 +0000</lastBuildDate>
     <item>
       <title>Boyish - Legs (5 plays)</title>
       <link>https://www.last.fm/music/Boyish/_/Legs</link>
@@ -352,11 +338,24 @@
       <pubDate>Wed, 17 May 2023 12:35:31 -0400</pubDate>
     </item>
     <item>
+      <title>Squirrel Flower - Your Love (1 play)</title>
+      <link>https://www.last.fm/music/Squirrel+Flower/_/Your+Love</link>
+      <guid isPermaLink="false">walrus898-1684362461--cf1021a4-ba16-4563-b4c2-e40aaf1802f6---Your Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb87ed2852657ceab1ee8928821ce224.png" length="132706" type="image/png"/>
+      <pubDate>Wed, 17 May 2023 18:27:41 -0400</pubDate>
+    </item>
+    <item>
       <title>Ghost Orchard - jessamine (1 play)</title>
       <link>https://www.last.fm/music/Ghost+Orchard/_/jessamine</link>
       <guid isPermaLink="false">walrus898-1684362461--5fa4b412-35c0-4d35-9d08-62393cf23c08---jessamine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc24fd0e495b233705e943c0bc377e8c.jpg" length="5832" type="image/jpeg"/>
       <pubDate>Wed, 17 May 2023 18:27:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenci - Vanishing Coin (1 play)</title>
+      <link>https://www.last.fm/music/Tenci/_/Vanishing+Coin</link>
+      <guid isPermaLink="false">walrus898-1684363152--Tenci---Vanishing Coin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28a78fe03746f8a748f61e63068ff6a8.jpg" length="24167" type="image/jpeg"/>
+      <pubDate>Wed, 17 May 2023 18:39:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
