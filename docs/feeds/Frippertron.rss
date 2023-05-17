@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 May 2023 10:17:24 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Boogie With Stu (11 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Boogie+With+Stu</link>
-      <guid isPermaLink="false">Frippertron-1684293633--678d88b2-87b0-403b-b63d-5da7465aecc3---Boogie With Stu</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Tue, 16 May 2023 23:20:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 May 2023 10:37:23 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Black Country Woman (24 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Black+Country+Woman</link>
@@ -58,7 +51,7 @@
       <pubDate>Wed, 17 May 2023 00:00:08 -0400</pubDate>
     </item>
     <item>
-      <title>The Enid - Mayday Galliard (227 plays)</title>
+      <title>The Enid - Mayday Galliard (228 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
       <guid isPermaLink="false">Frippertron-1684297524--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1684317892--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
       <pubDate>Wed, 17 May 2023 06:04:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Mayday Galliard (228 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
+      <guid isPermaLink="false">Frippertron-1684318892--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
+      <pubDate>Wed, 17 May 2023 06:21:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
