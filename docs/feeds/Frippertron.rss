@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 May 2023 06:21:29 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Albion Fair (60 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
-      <guid isPermaLink="false">Frippertron-1684317892--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Wed, 17 May 2023 06:04:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 May 2023 06:52:18 +0000</lastBuildDate>
     <item>
       <title>The Enid - Mayday Galliard (228 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
@@ -352,11 +345,18 @@
       <pubDate>Thu, 18 May 2023 01:55:48 -0400</pubDate>
     </item>
     <item>
-      <title>Admiral Angry - Sex With a Stranger (51 plays)</title>
+      <title>Admiral Angry - Sex With a Stranger (52 plays)</title>
       <link>https://www.last.fm/music/Admiral+Angry/_/Sex+With+a+Stranger</link>
       <guid isPermaLink="false">Frippertron-1684389593--Admiral Angry---Sex With a Stranger</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
       <pubDate>Thu, 18 May 2023 01:59:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Admiral Angry - Sex With a Stranger (52 plays)</title>
+      <link>https://www.last.fm/music/Admiral+Angry/_/Sex+With+a+Stranger</link>
+      <guid isPermaLink="false">Frippertron-1684389823--Admiral Angry---Sex With a Stranger</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
+      <pubDate>Thu, 18 May 2023 02:03:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
