@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 May 2023 10:52:30 +0000</lastBuildDate>
-    <item>
-      <title>Sophie Ellis-Bextor - Is It Any Wonder (2 plays)</title>
-      <link>https://www.last.fm/music/Sophie+Ellis-Bextor/_/Is+It+Any+Wonder</link>
-      <guid isPermaLink="false">Frippertron-1684389078--c4b87e45-c07a-460f-9c58-8d15328e2964---Is It Any Wonder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e657aee4d46a5c7f02bea08052fe9e4c.png" length="111954" type="image/png"/>
-      <pubDate>Thu, 18 May 2023 01:51:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sophie Ellis-Bextor - Everything Falls Into Place (2 plays)</title>
-      <link>https://www.last.fm/music/Sophie+Ellis-Bextor/_/Everything+Falls+Into+Place</link>
-      <guid isPermaLink="false">Frippertron-1684389348--c4b87e45-c07a-460f-9c58-8d15328e2964---Everything Falls Into Place</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e657aee4d46a5c7f02bea08052fe9e4c.png" length="111954" type="image/png"/>
-      <pubDate>Thu, 18 May 2023 01:55:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Admiral Angry - Sex With a Stranger (52 plays)</title>
-      <link>https://www.last.fm/music/Admiral+Angry/_/Sex+With+a+Stranger</link>
-      <guid isPermaLink="false">Frippertron-1684389593--Admiral Angry---Sex With a Stranger</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
-      <pubDate>Thu, 18 May 2023 01:59:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Admiral Angry - Sex With a Stranger (52 plays)</title>
-      <link>https://www.last.fm/music/Admiral+Angry/_/Sex+With+a+Stranger</link>
-      <guid isPermaLink="false">Frippertron-1684389823--Admiral Angry---Sex With a Stranger</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b424091b1e041cd35583adc08ee57119.jpg" length="19565" type="image/jpeg"/>
-      <pubDate>Thu, 18 May 2023 02:03:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 May 2023 11:12:51 +0000</lastBuildDate>
     <item>
       <title>Henry Cow - War (119 plays)</title>
       <link>https://www.last.fm/music/Henry+Cow/_/War</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1684406944--65aac2dc-216c-4b1a-8501-45567c901c0e---Up Front</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95bca30ae96862ac46b4430846b8ab86.jpg" length="34283" type="image/jpeg"/>
       <pubDate>Thu, 18 May 2023 06:49:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wipers - Let's Go Away (2 plays)</title>
+      <link>https://www.last.fm/music/Wipers/_/Let%27s+Go+Away</link>
+      <guid isPermaLink="false">Frippertron-1684407135--65aac2dc-216c-4b1a-8501-45567c901c0e---Let's Go Away</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95bca30ae96862ac46b4430846b8ab86.jpg" length="34283" type="image/jpeg"/>
+      <pubDate>Thu, 18 May 2023 06:52:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wipers - Is This Real? (2 plays)</title>
+      <link>https://www.last.fm/music/Wipers/_/Is+This+Real%3F</link>
+      <guid isPermaLink="false">Frippertron-1684407250--65aac2dc-216c-4b1a-8501-45567c901c0e---Is This Real?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95bca30ae96862ac46b4430846b8ab86.jpg" length="34283" type="image/jpeg"/>
+      <pubDate>Thu, 18 May 2023 06:54:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wipers - Tragedy (2 plays)</title>
+      <link>https://www.last.fm/music/Wipers/_/Tragedy</link>
+      <guid isPermaLink="false">Frippertron-1684407414--65aac2dc-216c-4b1a-8501-45567c901c0e---Tragedy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95bca30ae96862ac46b4430846b8ab86.jpg" length="34283" type="image/jpeg"/>
+      <pubDate>Thu, 18 May 2023 06:56:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wipers - Alien Boy (2 plays)</title>
+      <link>https://www.last.fm/music/Wipers/_/Alien+Boy</link>
+      <guid isPermaLink="false">Frippertron-1684407540--65aac2dc-216c-4b1a-8501-45567c901c0e---Alien Boy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95bca30ae96862ac46b4430846b8ab86.jpg" length="34283" type="image/jpeg"/>
+      <pubDate>Thu, 18 May 2023 06:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
