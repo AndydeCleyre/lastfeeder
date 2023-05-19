@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 04:37:15 +0000</lastBuildDate>
-    <item>
-      <title>James Blake - I Am Sold (3 plays)</title>
-      <link>https://www.last.fm/music/James+Blake/_/I+Am+Sold</link>
-      <guid isPermaLink="false">Frippertron-1684400576--8dc08b1f-e393-4f85-a5dd-300f7693a8b8---I Am Sold</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35071298781ffa59c5dcac373186428f.jpg" length="14378" type="image/jpeg"/>
-      <pubDate>Thu, 18 May 2023 05:02:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 04:52:21 +0000</lastBuildDate>
     <item>
       <title>James Blake - Life Round Here (3 plays)</title>
       <link>https://www.last.fm/music/James+Blake/_/Life+Round+Here</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1684470777--6ba2f6ce-50be-47df-b5a3-298ef032f476---War</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8b4094668d9e43eb290ec3e5728958f.jpg" length="22439" type="image/jpeg"/>
       <pubDate>Fri, 19 May 2023 00:32:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Henry Cow - Living in the Heart of the Beast (68 plays)</title>
+      <link>https://www.last.fm/music/Henry+Cow/_/Living+in+the+Heart+of+the+Beast</link>
+      <guid isPermaLink="false">Frippertron-1684470928--6ba2f6ce-50be-47df-b5a3-298ef032f476---Living in the Heart of the Beast</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8b4094668d9e43eb290ec3e5728958f.jpg" length="22439" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 00:35:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
