@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 06:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Since I've Been Loving You (95 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
-      <guid isPermaLink="false">Frippertron-1684403949--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 18 May 2023 05:59:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - The Song Remains the Same (142 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
-      <guid isPermaLink="false">Frippertron-1684404464--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 18 May 2023 06:07:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 07:14:26 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - The Rain Song (98 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/The+Rain+Song</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1684476048--65aac2dc-216c-4b1a-8501-45567c901c0e---Youth of America</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32b4b1538a24a131d9af5920cf418a9f.jpg" length="24444" type="image/jpeg"/>
       <pubDate>Fri, 19 May 2023 02:00:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Frances The Mute (8 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Frances+The+Mute</link>
+      <guid isPermaLink="false">Frippertron-1684479176--20883363-1ea4-4d72-ad72-c0e767038f3e---Frances The Mute</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 02:52:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cygnus....Vismund Cygnus (7 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
+      <guid isPermaLink="false">Frippertron-1684480053--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 03:07:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
