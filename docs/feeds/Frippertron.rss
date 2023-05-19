@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 05:52:20 +0000</lastBuildDate>
-    <item>
-      <title>James Blake - Every Day I Ran (2 plays)</title>
-      <link>https://www.last.fm/music/James+Blake/_/Every+Day+I+Ran</link>
-      <guid isPermaLink="false">Frippertron-1684402667--8dc08b1f-e393-4f85-a5dd-300f7693a8b8---Every Day I Ran</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35071298781ffa59c5dcac373186428f.jpg" length="14378" type="image/jpeg"/>
-      <pubDate>Thu, 18 May 2023 05:37:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Achilles Last Stand (54 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Achilles+Last+Stand</link>
-      <guid isPermaLink="false">Frippertron-1684402898--678d88b2-87b0-403b-b63d-5da7465aecc3---Achilles Last Stand</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
-      <pubDate>Thu, 18 May 2023 05:41:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 06:20:33 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - For Your Life (44 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1684475197--65aac2dc-216c-4b1a-8501-45567c901c0e---Pushing the Extreme</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32b4b1538a24a131d9af5920cf418a9f.jpg" length="24444" type="image/jpeg"/>
       <pubDate>Fri, 19 May 2023 01:46:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wipers - When It's Over (4 plays)</title>
+      <link>https://www.last.fm/music/Wipers/_/When+It%27s+Over</link>
+      <guid isPermaLink="false">Frippertron-1684475393--65aac2dc-216c-4b1a-8501-45567c901c0e---When It's Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32b4b1538a24a131d9af5920cf418a9f.jpg" length="24444" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 01:49:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wipers - No Fair (5 plays)</title>
+      <link>https://www.last.fm/music/Wipers/_/No+Fair</link>
+      <guid isPermaLink="false">Frippertron-1684475780--65aac2dc-216c-4b1a-8501-45567c901c0e---No Fair</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32b4b1538a24a131d9af5920cf418a9f.jpg" length="24444" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 01:56:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
