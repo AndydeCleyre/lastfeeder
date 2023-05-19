@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 09:27:33 +0000</lastBuildDate>
-    <item>
-      <title>10cc - Sand In My Face (21 plays)</title>
-      <link>https://www.last.fm/music/10cc/_/Sand+In+My+Face</link>
-      <guid isPermaLink="false">Frippertron-1684464099--f37c537b-3557-4031-bfd6-ab63ced32854---Sand In My Face</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6392f29da02b853193c46b6718886abe.jpg" length="10374" type="image/jpeg"/>
-      <pubDate>Thu, 18 May 2023 22:41:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 09:39:13 +0000</lastBuildDate>
     <item>
       <title>10cc - The Dean And I (13 plays)</title>
       <link>https://www.last.fm/music/10cc/_/The+Dean+And+I</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1684487727--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
       <pubDate>Fri, 19 May 2023 05:15:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Mayday Galliard (229 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
+      <guid isPermaLink="false">Frippertron-1684488724--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 05:32:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
