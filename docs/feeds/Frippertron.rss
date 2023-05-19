@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 09:15:47 +0000</lastBuildDate>
-    <item>
-      <title>U.K. - Time To Kill (33 plays)</title>
-      <link>https://www.last.fm/music/U.K./_/Time+To+Kill</link>
-      <guid isPermaLink="false">Frippertron-1684463770--U.K.---Time To Kill</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/813f3846426bef4c35d54c07546374a7.png" length="131403" type="image/png"/>
-      <pubDate>Thu, 18 May 2023 22:36:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 09:27:33 +0000</lastBuildDate>
     <item>
       <title>10cc - Sand In My Face (21 plays)</title>
       <link>https://www.last.fm/music/10cc/_/Sand+In+My+Face</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1684487389--66f8692c-966d-4dfb-a2ed-babf51241922---The Lovers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
       <pubDate>Fri, 19 May 2023 05:09:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Albion Fair (61 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
+      <guid isPermaLink="false">Frippertron-1684487727--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 05:15:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
