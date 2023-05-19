@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 07:14:26 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - The Rain Song (98 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Rain+Song</link>
-      <guid isPermaLink="false">Frippertron-1684404785--678d88b2-87b0-403b-b63d-5da7465aecc3---The Rain Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 18 May 2023 06:13:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Miracle Goodnight (27 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Miracle+Goodnight</link>
-      <guid isPermaLink="false">Frippertron-1684405336--5441c29d-3602-4898-b1a1-b77fa23b8e50---Miracle Goodnight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b3ff296ade87980c7bb9d6aede6fc16.png" length="194085" type="image/png"/>
-      <pubDate>Thu, 18 May 2023 06:22:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 07:26:28 +0000</lastBuildDate>
     <item>
       <title>Rah Band - Messages From The Stars (16 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Messages+From+The+Stars</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1684480053--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Fri, 19 May 2023 03:07:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - The Widow (6 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/The+Widow</link>
+      <guid isPermaLink="false">Frippertron-1684480637--20883363-1ea4-4d72-ad72-c0e767038f3e---The Widow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 03:17:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - L'Via L'Viaquezł (4 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/L%27Via+L%27Viaquez%C5%82</link>
+      <guid isPermaLink="false">Frippertron-1684480842--The Mars Volta---L'Via L'Viaquezł</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 03:20:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
