@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 06:20:33 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - For Your Life (44 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
-      <guid isPermaLink="false">Frippertron-1684403530--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
-      <pubDate>Thu, 18 May 2023 05:52:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 May 2023 06:52:17 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Since I've Been Loving You (95 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1684475780--65aac2dc-216c-4b1a-8501-45567c901c0e---No Fair</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32b4b1538a24a131d9af5920cf418a9f.jpg" length="24444" type="image/jpeg"/>
       <pubDate>Fri, 19 May 2023 01:56:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wipers - Youth of America (4 plays)</title>
+      <link>https://www.last.fm/music/Wipers/_/Youth+of+America</link>
+      <guid isPermaLink="false">Frippertron-1684476048--65aac2dc-216c-4b1a-8501-45567c901c0e---Youth of America</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32b4b1538a24a131d9af5920cf418a9f.jpg" length="24444" type="image/jpeg"/>
+      <pubDate>Fri, 19 May 2023 02:00:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
