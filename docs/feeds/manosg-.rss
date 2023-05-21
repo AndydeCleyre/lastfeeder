@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 May 2023 10:15:44 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Never A Time - 2007 Digital Remaster (2 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Never+A+Time+-+2007+Digital+Remaster</link>
-      <guid isPermaLink="false">manosg--1684319356--Genesis---Never A Time - 2007 Digital Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1330ff2ab6164abf94dbb8828616a5ad.png" length="122490" type="image/png"/>
-      <pubDate>Wed, 17 May 2023 06:29:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Dreaming While You Sleep - 2007 Digital Remaster (4 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Dreaming+While+You+Sleep+-+2007+Digital+Remaster</link>
-      <guid isPermaLink="false">manosg--1684319793--Genesis---Dreaming While You Sleep - 2007 Digital Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1330ff2ab6164abf94dbb8828616a5ad.png" length="122490" type="image/png"/>
-      <pubDate>Wed, 17 May 2023 06:36:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 09:14:31 +0000</lastBuildDate>
     <item>
       <title>Genesis - Tell Me Why - 2007 Digital Remaster (3 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Tell+Me+Why+-+2007+Digital+Remaster</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1684569367--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Fire in the Sky - Live; 1999 Remastered Version</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/51287e1c8cbe7197bb4970c4a5068714.jpg" length="8768" type="image/jpeg"/>
       <pubDate>Sat, 20 May 2023 03:56:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Saxon - Machine Gun - Live; 1999 Remastered Version (1 play)</title>
+      <link>https://www.last.fm/music/Saxon/_/Machine+Gun+-+Live;+1999+Remastered+Version</link>
+      <guid isPermaLink="false">manosg--1684576338--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Machine Gun - Live; 1999 Remastered Version</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/51287e1c8cbe7197bb4970c4a5068714.jpg" length="8768" type="image/jpeg"/>
+      <pubDate>Sat, 20 May 2023 05:52:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Battle Born - Wind Caller (1 play)</title>
+      <link>https://www.last.fm/music/Battle+Born/_/Wind+Caller</link>
+      <guid isPermaLink="false">manosg--1684660015--d68f8d6f-22c2-4555-8f1b-7302f8617571---Wind Caller</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/655f2772bdfc937e7253710325341524.jpg" length="38213" type="image/jpeg"/>
+      <pubDate>Sun, 21 May 2023 05:06:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
