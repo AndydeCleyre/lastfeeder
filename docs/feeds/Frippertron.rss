@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 May 2023 10:37:27 +0000</lastBuildDate>
-    <item>
-      <title>10cc - Somewhere In Hollywood (8 plays)</title>
-      <link>https://www.last.fm/music/10cc/_/Somewhere+In+Hollywood</link>
-      <guid isPermaLink="false">Frippertron-1684465068--f37c537b-3557-4031-bfd6-ab63ced32854---Somewhere In Hollywood</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bdedd85d4fe46d3a8cd5ef508a9c58a.jpg" length="21331" type="image/jpeg"/>
-      <pubDate>Thu, 18 May 2023 22:57:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cem Karaca - Safinaz (1 play)</title>
-      <link>https://www.last.fm/music/Cem+Karaca/_/Safinaz</link>
-      <guid isPermaLink="false">Frippertron-1684465347--802247cc-77a2-4671-a02d-ad25bf90e23c---Safinaz</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54c1ea2d3e84a0f0958938f29c8d93a1.jpg" length="19693" type="image/jpeg"/>
-      <pubDate>Thu, 18 May 2023 23:02:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 May 2023 02:28:49 +0000</lastBuildDate>
     <item>
       <title>Cem Karaca - Kara (1 play)</title>
       <link>https://www.last.fm/music/Cem+Karaca/_/Kara</link>
@@ -247,7 +233,7 @@
       <pubDate>Fri, 19 May 2023 04:13:34 -0400</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - For Your Life (45 plays)</title>
+      <title>Led Zeppelin - For Your Life (46 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
       <guid isPermaLink="false">Frippertron-1684484538--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1684492108--21d177ba-3d51-461e-9b3f-ad9a80b419dc---In the Street (single mix)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd0484a9bc44cc5af76687cb2e7e78d6.png" length="91940" type="image/png"/>
       <pubDate>Fri, 19 May 2023 06:28:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - For Your Life (46 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
+      <guid isPermaLink="false">Frippertron-1684721393--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Sun, 21 May 2023 22:09:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>U.K. - Danger Money (24 plays)</title>
+      <link>https://www.last.fm/music/U.K./_/Danger+Money</link>
+      <guid isPermaLink="false">Frippertron-1684721968--U.K.---Danger Money</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f0af2981dfc002b0c5ee97faf1f0e85.png" length="204913" type="image/png"/>
+      <pubDate>Sun, 21 May 2023 22:19:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
