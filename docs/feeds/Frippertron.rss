@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 May 2023 09:37:39 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Everydays (15 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Everydays</link>
-      <guid isPermaLink="false">Frippertron-1684724870--8353f93f-163e-48c2-bb75-9f18987a3d46---Everydays</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2635348da5194f0db687d5606b62b2dd.jpg" length="18081" type="image/jpeg"/>
-      <pubDate>Sun, 21 May 2023 23:07:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 May 2023 09:52:43 +0000</lastBuildDate>
     <item>
       <title>Yes - Astral Traveller (14 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Astral+Traveller</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1684748062--233fc3f3-6de2-465c-985e-e721dbabbace---Untitled</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4604bf7087824182b22e3e55fc525d75.png" length="165505" type="image/png"/>
       <pubDate>Mon, 22 May 2023 05:34:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fugazi - Full Disclosure (12 plays)</title>
+      <link>https://www.last.fm/music/Fugazi/_/Full+Disclosure</link>
+      <guid isPermaLink="false">Frippertron-1684748783--233fc3f3-6de2-465c-985e-e721dbabbace---Full Disclosure</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4604bf7087824182b22e3e55fc525d75.png" length="165505" type="image/png"/>
+      <pubDate>Mon, 22 May 2023 05:46:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
