@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 May 2023 05:15:35 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - In My Time of Dying (50 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/In+My+Time+of+Dying</link>
-      <guid isPermaLink="false">Frippertron-1684740402--678d88b2-87b0-403b-b63d-5da7465aecc3---In My Time of Dying</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 22 May 2023 03:26:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 May 2023 05:28:17 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Since I've Been Loving You (96 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
@@ -205,7 +198,7 @@
       <pubDate>Mon, 22 May 2023 06:32:58 -0400</pubDate>
     </item>
     <item>
-      <title>きのこ帝国 - 夜が明けたら (1 play)</title>
+      <title>きのこ帝国 - 夜が明けたら (2 plays)</title>
       <link>https://www.last.fm/music/%E3%81%8D%E3%81%AE%E3%81%93%E5%B8%9D%E5%9B%BD/_/%E5%A4%9C%E3%81%8C%E6%98%8E%E3%81%91%E3%81%9F%E3%82%89</link>
       <guid isPermaLink="false">Frippertron-1684751922--きのこ帝国---夜が明けたら</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b87d8c13b85ed4e24ab952a985ab2a6.jpg" length="7717" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1684818696--きのこ帝国---The SEA</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b87d8c13b85ed4e24ab952a985ab2a6.jpg" length="7717" type="image/jpeg"/>
       <pubDate>Tue, 23 May 2023 01:11:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>きのこ帝国 - 夜が明けたら (2 plays)</title>
+      <link>https://www.last.fm/music/%E3%81%8D%E3%81%AE%E3%81%93%E5%B8%9D%E5%9B%BD/_/%E5%A4%9C%E3%81%8C%E6%98%8E%E3%81%91%E3%81%9F%E3%82%89</link>
+      <guid isPermaLink="false">Frippertron-1684819040--きのこ帝国---夜が明けたら</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b87d8c13b85ed4e24ab952a985ab2a6.jpg" length="7717" type="image/jpeg"/>
+      <pubDate>Tue, 23 May 2023 01:17:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
