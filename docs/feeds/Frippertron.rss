@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 May 2023 05:39:37 +0000</lastBuildDate>
-    <item>
-      <title>The Stranglers - Mean to Me (1 play)</title>
-      <link>https://www.last.fm/music/The+Stranglers/_/Mean+to+Me</link>
-      <guid isPermaLink="false">Frippertron-1685003231--a96d82a0-cdca-40bf-b4c8-3d7ec178d85b---Mean to Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6a651a83fa6e2f66ea7bba1ad8c1778.jpg" length="12129" type="image/jpeg"/>
-      <pubDate>Thu, 25 May 2023 04:27:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Stranglers - Walk on By (1 play)</title>
-      <link>https://www.last.fm/music/The+Stranglers/_/Walk+on+By</link>
-      <guid isPermaLink="false">Frippertron-1685003348--a96d82a0-cdca-40bf-b4c8-3d7ec178d85b---Walk on By</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6a651a83fa6e2f66ea7bba1ad8c1778.jpg" length="12129" type="image/jpeg"/>
-      <pubDate>Thu, 25 May 2023 04:29:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 May 2023 05:52:27 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Rock and Roll (55 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Rock+and+Roll</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1685078732--6d901c2e-ccf3-4b46-ab0b-cdc2b1d50197---The Dream</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d51a7b8d9024cd585e747a8c4d6e88f.jpg" length="7466" type="image/jpeg"/>
       <pubDate>Fri, 26 May 2023 01:25:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rah Band - Sam The Samba Man (20 plays)</title>
+      <link>https://www.last.fm/music/Rah+Band/_/Sam+The+Samba+Man</link>
+      <guid isPermaLink="false">Frippertron-1685079788--138f1987-bbb8-48b9-8d77-bf02576b0905---Sam The Samba Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
+      <pubDate>Fri, 26 May 2023 01:43:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rah Band - Messages From The Stars (17 plays)</title>
+      <link>https://www.last.fm/music/Rah+Band/_/Messages+From+The+Stars</link>
+      <guid isPermaLink="false">Frippertron-1685080035--138f1987-bbb8-48b9-8d77-bf02576b0905---Messages From The Stars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
+      <pubDate>Fri, 26 May 2023 01:47:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
