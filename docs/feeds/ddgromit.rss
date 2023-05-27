@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 May 2023 15:38:53 +0000</lastBuildDate>
-    <item>
-      <title>Nicholas Britell - Adagio in C Minor (5 plays)</title>
-      <link>https://www.last.fm/music/Nicholas+Britell/_/Adagio+in+C+Minor</link>
-      <guid isPermaLink="false">ddgromit-1685139422--afa80039-cd8a-47ae-947e-538df896586f---Adagio in C Minor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3632f908484dddd409c248761ce4944.jpg" length="26764" type="image/jpeg"/>
-      <pubDate>Fri, 26 May 2023 18:17:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 May 2023 15:52:35 +0000</lastBuildDate>
     <item>
       <title>Hoagy Carmichael - Stardust (1 play)</title>
       <link>https://www.last.fm/music/Hoagy+Carmichael/_/Stardust</link>
@@ -170,7 +163,7 @@
       <pubDate>Fri, 26 May 2023 20:59:06 -0400</pubDate>
     </item>
     <item>
-      <title>Super Simple Songs - Hello Hello! (2 plays)</title>
+      <title>Super Simple Songs - Hello Hello! (3 plays)</title>
       <link>https://www.last.fm/music/Super+Simple+Songs/_/Hello+Hello!</link>
       <guid isPermaLink="false">ddgromit-1685149227--Super Simple Songs---Hello Hello!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81cde1377c90ad085baa09bd6dcfbee6.jpg" length="21570" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1685201804--d5d5ba92-4bd4-4975-9806-99339eed3046---Oats and Beans and Barley</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24ec55558fcc4c2cae7242119563a70d.jpg" length="19879" type="image/jpeg"/>
       <pubDate>Sat, 27 May 2023 11:36:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Super Simple Songs - Hello Hello! (3 plays)</title>
+      <link>https://www.last.fm/music/Super+Simple+Songs/_/Hello+Hello!</link>
+      <guid isPermaLink="false">ddgromit-1685201889--Super Simple Songs---Hello Hello!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81cde1377c90ad085baa09bd6dcfbee6.jpg" length="21570" type="image/jpeg"/>
+      <pubDate>Sat, 27 May 2023 11:38:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
