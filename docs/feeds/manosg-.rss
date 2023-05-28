@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 May 2023 08:18:37 +0000</lastBuildDate>
-    <item>
-      <title>Meat Loaf - Let It Be (1 play)</title>
-      <link>https://www.last.fm/music/Meat+Loaf/_/Let+It+Be</link>
-      <guid isPermaLink="false">manosg--1684914521--b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1---Let It Be</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6087ac1aa4f342d8a8451f123a2264ea.jpg" length="26616" type="image/jpeg"/>
-      <pubDate>Wed, 24 May 2023 03:48:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Meat Loaf - Oh What A Beautiful Mornin' (1 play)</title>
-      <link>https://www.last.fm/music/Meat+Loaf/_/Oh+What+A+Beautiful+Mornin%27</link>
-      <guid isPermaLink="false">manosg--1684914668--b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1---Oh What A Beautiful Mornin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6087ac1aa4f342d8a8451f123a2264ea.jpg" length="26616" type="image/jpeg"/>
-      <pubDate>Wed, 24 May 2023 03:51:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 May 2023 09:15:51 +0000</lastBuildDate>
     <item>
       <title>Meat Loaf - Is Nothing Sacred - Full Version (1 play)</title>
       <link>https://www.last.fm/music/Meat+Loaf/_/Is+Nothing+Sacred+-+Full+Version</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1685260790--9072df14-b61e-42e2-b4f4-6bbb7fdb5586---You Can't Stop Me Loving You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94efc85257836699f78e5ab13be8a551.jpg" length="25453" type="image/jpeg"/>
       <pubDate>Sun, 28 May 2023 03:59:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wings of Steel - Liar in Love (2 plays)</title>
+      <link>https://www.last.fm/music/Wings+of+Steel/_/Liar+in+Love</link>
+      <guid isPermaLink="false">manosg--1685260811--be8d7d34-d8bf-40e7-a073-6940b9d200c7---Liar in Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f34bb152c4d28c9e0e46ff79d0d56493.jpg" length="30693" type="image/jpeg"/>
+      <pubDate>Sun, 28 May 2023 04:00:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wings of Steel - Fall in Line (2 plays)</title>
+      <link>https://www.last.fm/music/Wings+of+Steel/_/Fall+in+Line</link>
+      <guid isPermaLink="false">manosg--1685263983--be8d7d34-d8bf-40e7-a073-6940b9d200c7---Fall in Line</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f34bb152c4d28c9e0e46ff79d0d56493.jpg" length="30693" type="image/jpeg"/>
+      <pubDate>Sun, 28 May 2023 04:53:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
