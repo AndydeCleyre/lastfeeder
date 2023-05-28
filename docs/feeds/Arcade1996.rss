@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 May 2023 14:13:03 +0000</lastBuildDate>
-    <item>
-      <title>George Clanton - Justify Your Life (1 play)</title>
-      <link>https://www.last.fm/music/George+Clanton/_/Justify+Your+Life</link>
-      <guid isPermaLink="false">Arcade1996-1685197792--9abcc01c-dcf1-4d74-bc55-d81922157956---Justify Your Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb74dc337c95821e1c2ce2f6b28a85f.jpg" length="15274" type="image/jpeg"/>
-      <pubDate>Sat, 27 May 2023 10:29:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>George Clanton - I Been Young (10 plays)</title>
-      <link>https://www.last.fm/music/George+Clanton/_/I+Been+Young</link>
-      <guid isPermaLink="false">Arcade1996-1685198092--9abcc01c-dcf1-4d74-bc55-d81922157956---I Been Young</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb74dc337c95821e1c2ce2f6b28a85f.jpg" length="15274" type="image/jpeg"/>
-      <pubDate>Sat, 27 May 2023 10:34:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 May 2023 14:38:28 +0000</lastBuildDate>
     <item>
       <title>The Sundays - Summertime (37 plays)</title>
       <link>https://www.last.fm/music/The+Sundays/_/Summertime</link>
@@ -310,7 +296,7 @@
       <pubDate>Sun, 28 May 2023 06:44:10 -0400</pubDate>
     </item>
     <item>
-      <title>10,000 Maniacs - Candy Everybody Wants (39 plays)</title>
+      <title>10,000 Maniacs - Candy Everybody Wants</title>
       <link>https://www.last.fm/music/10,000+Maniacs/_/Candy+Everybody+Wants</link>
       <guid isPermaLink="false">Arcade1996-1685277537--b9a06530-1241-4162-836f-7b8e79deaa58---Candy Everybody Wants</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2387db9014ca438baf201a51df702f62.jpg" length="37512" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1685282519--69158f97-4c07-4c4e-baf8-4e4ab1ed666e---Ready Lets Go</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c1511b79b6a4a86d55fdd36ea9b3b5.jpg" length="22308" type="image/jpeg"/>
       <pubDate>Sun, 28 May 2023 10:01:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boards of Canada - Music Is Math (3 plays)</title>
+      <link>https://www.last.fm/music/Boards+of+Canada/_/Music+Is+Math</link>
+      <guid isPermaLink="false">Arcade1996-1685282577--69158f97-4c07-4c4e-baf8-4e4ab1ed666e---Music Is Math</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c1511b79b6a4a86d55fdd36ea9b3b5.jpg" length="22308" type="image/jpeg"/>
+      <pubDate>Sun, 28 May 2023 10:02:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boards of Canada - Beware the Friendly Stranger (3 plays)</title>
+      <link>https://www.last.fm/music/Boards+of+Canada/_/Beware+the+Friendly+Stranger</link>
+      <guid isPermaLink="false">Arcade1996-1685284609--69158f97-4c07-4c4e-baf8-4e4ab1ed666e---Beware the Friendly Stranger</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c1511b79b6a4a86d55fdd36ea9b3b5.jpg" length="22308" type="image/jpeg"/>
+      <pubDate>Sun, 28 May 2023 10:36:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
