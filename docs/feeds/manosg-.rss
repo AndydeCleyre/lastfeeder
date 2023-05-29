@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 14:27:38 +0000</lastBuildDate>
-    <item>
-      <title>Immortal - Nordlandihr (1 play)</title>
-      <link>https://www.last.fm/music/Immortal/_/Nordlandihr</link>
-      <guid isPermaLink="false">manosg--1685116171--b863cf80-19c6-4a87-8e42-6cff7ac8f18f---Nordlandihr</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b740996e2b628b4f2c8f3cadd1accea2.jpg" length="33733" type="image/jpeg"/>
-      <pubDate>Fri, 26 May 2023 11:49:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Immortal - Immortal (1 play)</title>
-      <link>https://www.last.fm/music/Immortal/_/Immortal</link>
-      <guid isPermaLink="false">manosg--1685120726--b863cf80-19c6-4a87-8e42-6cff7ac8f18f---Immortal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b740996e2b628b4f2c8f3cadd1accea2.jpg" length="33733" type="image/jpeg"/>
-      <pubDate>Fri, 26 May 2023 13:05:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 14:39:05 +0000</lastBuildDate>
     <item>
       <title>Immortal - Blashyrkh My Throne (1 play)</title>
       <link>https://www.last.fm/music/Immortal/_/Blashyrkh+My+Throne</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1685369811--65314b12-0e08-43fa-ba33-baaa7b874c15---Alexandra Leaving - Live in Dublin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
       <pubDate>Mon, 29 May 2023 10:16:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - I'm Your Man - Live in Dublin (6 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/I%27m+Your+Man+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1685370301--65314b12-0e08-43fa-ba33-baaa7b874c15---I'm Your Man - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Mon, 29 May 2023 10:25:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Recitation w/ N.L. - Live in Dublin (5 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Recitation+w%2F+N.L.+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1685370659--65314b12-0e08-43fa-ba33-baaa7b874c15---Recitation w/ N.L. - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Mon, 29 May 2023 10:30:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
