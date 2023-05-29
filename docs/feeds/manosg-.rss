@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 08:20:45 +0000</lastBuildDate>
-    <item>
-      <title>Cloak - Black Flame Eternal (1 play)</title>
-      <link>https://www.last.fm/music/Cloak/_/Black+Flame+Eternal</link>
-      <guid isPermaLink="false">manosg--1685111708--5a9a858d-f105-4fb2-b34e-7aa9d3c0a665---Black Flame Eternal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9223ba2533da3ac39c1b799360f60e1.jpg" length="26748" type="image/jpeg"/>
-      <pubDate>Fri, 26 May 2023 10:35:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ninkharsag - The Lord of Death and Midnight (1 play)</title>
-      <link>https://www.last.fm/music/Ninkharsag/_/The+Lord+of+Death+and+Midnight</link>
-      <guid isPermaLink="false">manosg--1685112421--174d015e-234b-4313-afc3-4cd4a937c1b6---The Lord of Death and Midnight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d3bd6214f4b86843d2194d48a8dff75.jpg" length="30623" type="image/jpeg"/>
-      <pubDate>Fri, 26 May 2023 10:47:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 08:37:22 +0000</lastBuildDate>
     <item>
       <title>Cloak - March Of The Adversary (1 play)</title>
       <link>https://www.last.fm/music/Cloak/_/March+Of+The+Adversary</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1685347722--65314b12-0e08-43fa-ba33-baaa7b874c15---Lover Lover Lover - Live in Dublin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
       <pubDate>Mon, 29 May 2023 04:08:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Anthem - Live in Dublin (5 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Anthem+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1685348385--65314b12-0e08-43fa-ba33-baaa7b874c15---Anthem - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Mon, 29 May 2023 04:19:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Tower of Song - Live in Dublin (4 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Tower+of+Song+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1685348876--65314b12-0e08-43fa-ba33-baaa7b874c15---Tower of Song - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Mon, 29 May 2023 04:27:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
