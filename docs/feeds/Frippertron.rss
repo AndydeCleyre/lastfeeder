@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 11:13:07 +0000</lastBuildDate>
-    <item>
-      <title>Peter Gabriel - No Self Control (55 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/No+Self+Control</link>
-      <guid isPermaLink="false">Frippertron-1685090211--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---No Self Control</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c2515f47b46d147c028f1f1decf4cb2.png" length="145670" type="image/png"/>
-      <pubDate>Fri, 26 May 2023 04:36:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 11:37:22 +0000</lastBuildDate>
     <item>
       <title>Peter Gabriel - Start (73 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/Start</link>
@@ -149,7 +142,7 @@
       <pubDate>Fri, 26 May 2023 06:52:05 -0400</pubDate>
     </item>
     <item>
-      <title>Gracious - Super Nova (1 play)</title>
+      <title>Gracious - Super Nova (2 plays)</title>
       <link>https://www.last.fm/music/Gracious/_/Super+Nova</link>
       <guid isPermaLink="false">Frippertron-1685186686--6d901c2e-ccf3-4b46-ab0b-cdc2b1d50197---Super Nova</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0617f0f765b4cab9de16c8158227fd4.jpg" length="15099" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1685357955--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---The I of Hurricane Sue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d1bd73c7a054d34b7907ec4c80ef939.png" length="187093" type="image/png"/>
       <pubDate>Mon, 29 May 2023 06:59:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gracious - Super Nova (2 plays)</title>
+      <link>https://www.last.fm/music/Gracious/_/Super+Nova</link>
+      <guid isPermaLink="false">Frippertron-1685358597--6d901c2e-ccf3-4b46-ab0b-cdc2b1d50197---Super Nova</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0617f0f765b4cab9de16c8158227fd4.jpg" length="15099" type="image/jpeg"/>
+      <pubDate>Mon, 29 May 2023 07:09:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
