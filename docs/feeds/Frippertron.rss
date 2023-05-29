@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 10:52:16 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - The Song Remains the Same (145 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
-      <guid isPermaLink="false">Frippertron-1685089529--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 26 May 2023 04:25:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - Intruder (42 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/Intruder</link>
-      <guid isPermaLink="false">Frippertron-1685089859--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Intruder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c2515f47b46d147c028f1f1decf4cb2.png" length="145670" type="image/png"/>
-      <pubDate>Fri, 26 May 2023 04:30:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 11:13:07 +0000</lastBuildDate>
     <item>
       <title>Peter Gabriel - No Self Control (55 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/No+Self+Control</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1685356881--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---Hobo Ho</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d1bd73c7a054d34b7907ec4c80ef939.png" length="187093" type="image/png"/>
       <pubDate>Mon, 29 May 2023 06:41:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Charles Mingus - The Chill of Death (9 plays)</title>
+      <link>https://www.last.fm/music/Charles+Mingus/_/The+Chill+of+Death</link>
+      <guid isPermaLink="false">Frippertron-1685357492--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---The Chill of Death</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d1bd73c7a054d34b7907ec4c80ef939.png" length="187093" type="image/png"/>
+      <pubDate>Mon, 29 May 2023 06:51:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Charles Mingus - The I of Hurricane Sue (8 plays)</title>
+      <link>https://www.last.fm/music/Charles+Mingus/_/The+I+of+Hurricane+Sue</link>
+      <guid isPermaLink="false">Frippertron-1685357955--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---The I of Hurricane Sue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d1bd73c7a054d34b7907ec4c80ef939.png" length="187093" type="image/png"/>
+      <pubDate>Mon, 29 May 2023 06:59:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
