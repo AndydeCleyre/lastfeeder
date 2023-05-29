@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 07:15:30 +0000</lastBuildDate>
-    <item>
-      <title>Cloak - Eye of the Abyss (1 play)</title>
-      <link>https://www.last.fm/music/Cloak/_/Eye+of+the+Abyss</link>
-      <guid isPermaLink="false">manosg--1685110767--5a9a858d-f105-4fb2-b34e-7aa9d3c0a665---Eye of the Abyss</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9223ba2533da3ac39c1b799360f60e1.jpg" length="26748" type="image/jpeg"/>
-      <pubDate>Fri, 26 May 2023 10:19:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 May 2023 07:39:27 +0000</lastBuildDate>
     <item>
       <title>Cloak - The Holy Dark (1 play)</title>
       <link>https://www.last.fm/music/Cloak/_/The+Holy+Dark</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1685343431--65314b12-0e08-43fa-ba33-baaa7b874c15---Darkness - Live in Dublin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
       <pubDate>Mon, 29 May 2023 02:57:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Amen - Live in Dublin (4 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Amen+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1685343799--65314b12-0e08-43fa-ba33-baaa7b874c15---Amen - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Mon, 29 May 2023 03:03:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
