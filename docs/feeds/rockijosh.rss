@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 May 2023 14:40:27 +0000</lastBuildDate>
-    <item>
-      <title>Charlotte Cardin - Dirty Dirty (85 plays)</title>
-      <link>https://www.last.fm/music/Charlotte+Cardin/_/Dirty+Dirty</link>
-      <guid isPermaLink="false">rockijosh-1685309208--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Dirty Dirty</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a65aba7f05156350056a8045b19fb802.jpg" length="10921" type="image/jpeg"/>
-      <pubDate>Sun, 28 May 2023 17:26:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Laura Stevenson - Torch Song (179 plays)</title>
-      <link>https://www.last.fm/music/Laura+Stevenson/_/Torch+Song</link>
-      <guid isPermaLink="false">rockijosh-1685309408--70b166d1-b511-49f1-ad15-8b94603515d5---Torch Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c808cbcb5cc8a77dee499bc1b321e82.jpg" length="18039" type="image/jpeg"/>
-      <pubDate>Sun, 28 May 2023 17:30:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Christine and the Queens - 5 dollars (37 plays)</title>
-      <link>https://www.last.fm/music/Christine+and+the+Queens/_/5+dollars</link>
-      <guid isPermaLink="false">rockijosh-1685309586--9c90ffbf-b137-4dee-bfcc-b8010787840d---5 dollars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e77f72324d2304989caf5bb7fd25fd36.png" length="209695" type="image/png"/>
-      <pubDate>Sun, 28 May 2023 17:33:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 May 2023 14:52:22 +0000</lastBuildDate>
     <item>
       <title>Foxy Shazam - Killin' It (30 plays)</title>
       <link>https://www.last.fm/music/Foxy+Shazam/_/Killin%27+It</link>
@@ -121,7 +100,7 @@
       <pubDate>Sun, 28 May 2023 18:17:09 -0400</pubDate>
     </item>
     <item>
-      <title>Hwa Sa - Maria (32 plays)</title>
+      <title>Hwa Sa - Maria (33 plays)</title>
       <link>https://www.last.fm/music/Hwa+Sa/_/Maria</link>
       <guid isPermaLink="false">rockijosh-1685312404--9c750319-8267-493a-aaaf-305e1c6bcc21---Maria</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bdd143e05d008d995b82d3d894d2206.jpg" length="15838" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">rockijosh-1685457254--ab459f5a-33c2-4458-bc9e-4f7be5c80584---Turning Teeth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29f437b1f1de94c3d90dbf66cfadd8e9.jpg" length="16443" type="image/jpeg"/>
       <pubDate>Tue, 30 May 2023 10:34:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kiiara - Numb (feat. DeathbyRomy &amp; PVRIS) (40 plays)</title>
+      <link>https://www.last.fm/music/Kiiara/_/Numb+(feat.+DeathbyRomy+&amp;+PVRIS)</link>
+      <guid isPermaLink="false">rockijosh-1685457532--dbc26631-5e61-4ba2-84ff-e1423a1c288a---Numb (feat. DeathbyRomy &amp; PVRIS)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47f235422204624c57504ca7406e1797.jpg" length="11285" type="image/jpeg"/>
+      <pubDate>Tue, 30 May 2023 10:38:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hwa Sa - Maria (33 plays)</title>
+      <link>https://www.last.fm/music/Hwa+Sa/_/Maria</link>
+      <guid isPermaLink="false">rockijosh-1685457735--9c750319-8267-493a-aaaf-305e1c6bcc21---Maria</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bdd143e05d008d995b82d3d894d2206.jpg" length="15838" type="image/jpeg"/>
+      <pubDate>Tue, 30 May 2023 10:42:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>League of Legends - Take Over (30 plays)</title>
+      <link>https://www.last.fm/music/League+of+Legends/_/Take+Over</link>
+      <guid isPermaLink="false">rockijosh-1685457935--0976dbd8-e7fe-4161-9a49-58c57f7a7787---Take Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/77dcf6eb785551dd0a6b0392091ff174.jpg" length="26841" type="image/jpeg"/>
+      <pubDate>Tue, 30 May 2023 10:45:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
