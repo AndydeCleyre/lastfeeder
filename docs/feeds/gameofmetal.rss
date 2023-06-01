@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 21:14:16 +0000</lastBuildDate>
-    <item>
-      <title>Taylor Swift - Enchanted (6 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Enchanted</link>
-      <guid isPermaLink="false">gameofmetal-1685563266--20244d07-534f-4eff-b4d4-930878889970---Enchanted</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c8dfb38e557fc2f7ba387554c4295ae.jpg" length="28269" type="image/jpeg"/>
-      <pubDate>Wed, 31 May 2023 16:01:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jun 2023 21:25:26 +0000</lastBuildDate>
     <item>
       <title>Metallica - Room of Mirrors (1 play)</title>
       <link>https://www.last.fm/music/Metallica/_/Room+of+Mirrors</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1685653642--3fb418fa-3c6e-412a-9218-12adb0408192---Become the Ocean</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b88c38629d584c5db69db6f56cc40f30.png" length="214605" type="image/png"/>
       <pubDate>Thu, 01 Jun 2023 17:07:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Neurosis - Aeon (4 plays)</title>
+      <link>https://www.last.fm/music/Neurosis/_/Aeon</link>
+      <guid isPermaLink="false">gameofmetal-1685653728--3fb418fa-3c6e-412a-9218-12adb0408192---Aeon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b88c38629d584c5db69db6f56cc40f30.png" length="214605" type="image/png"/>
+      <pubDate>Thu, 01 Jun 2023 17:08:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
