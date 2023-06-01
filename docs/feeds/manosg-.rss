@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 09:37:12 +0000</lastBuildDate>
-    <item>
-      <title>Thin Lizzy - Romeo and the Lonely Girl (6 plays)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/Romeo+and+the+Lonely+Girl</link>
-      <guid isPermaLink="false">manosg--1685513952--6a726ac6-019e-455c-8bbb-571a77bed52e---Romeo and the Lonely Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05e9133255ec45efb025c2889a101635.png" length="222083" type="image/png"/>
-      <pubDate>Wed, 31 May 2023 02:19:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jun 2023 09:52:23 +0000</lastBuildDate>
     <item>
       <title>Thin Lizzy - Warriors (4 plays)</title>
       <link>https://www.last.fm/music/Thin+Lizzy/_/Warriors</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1685611072--Black Sabbath---Turn Up the Night - 2009 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f6702a5b87fe4dafcdc19ef88fa59b45.png" length="246344" type="image/png"/>
       <pubDate>Thu, 01 Jun 2023 05:17:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Sabbath - Voodoo - 2009 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Black+Sabbath/_/Voodoo+-+2009+Remaster</link>
+      <guid isPermaLink="false">manosg--1685611311--Black Sabbath---Voodoo - 2009 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f6702a5b87fe4dafcdc19ef88fa59b45.png" length="246344" type="image/png"/>
+      <pubDate>Thu, 01 Jun 2023 05:21:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
