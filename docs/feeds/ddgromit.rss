@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 13:40:16 +0000</lastBuildDate>
-    <item>
-      <title>Paul Sabin - Prototype (3 plays)</title>
-      <link>https://www.last.fm/music/Paul+Sabin/_/Prototype</link>
-      <guid isPermaLink="false">ddgromit-1685473409--8ccd3de4-d077-4f96-ad00-4667948b7860---Prototype</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b7130de23dae01f98c34842062c0545.jpg" length="17998" type="image/jpeg"/>
-      <pubDate>Tue, 30 May 2023 15:03:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 15:26:43 +0000</lastBuildDate>
     <item>
       <title>Triomphe - Place de l'étoile (8 plays)</title>
       <link>https://www.last.fm/music/Triomphe/_/Place+de+l%27%C3%A9toile</link>
@@ -324,7 +317,7 @@
       <pubDate>Sat, 03 Jun 2023 16:47:16 -0400</pubDate>
     </item>
     <item>
-      <title>Raffi - Wheels on the Bus</title>
+      <title>Raffi - Wheels on the Bus (7 plays)</title>
       <link>https://www.last.fm/music/Raffi/_/Wheels+on+the+Bus</link>
       <guid isPermaLink="false">ddgromit-1685825295--d5d5ba92-4bd4-4975-9806-99339eed3046---Wheels on the Bus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/351423c7772b46159d9f425738419989.jpg" length="17269" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1685849710--3630fff3-52fc-4e97-ab01-d68fd88e4135---Lights and Sounds</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca81944b1db74042bd1a3c1ad8c37cd6.jpg" length="23930" type="image/jpeg"/>
       <pubDate>Sat, 03 Jun 2023 23:35:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yellowcard - For You, and Your Denial (1 play)</title>
+      <link>https://www.last.fm/music/Yellowcard/_/For+You,+and+Your+Denial</link>
+      <guid isPermaLink="false">ddgromit-1685849887--3630fff3-52fc-4e97-ab01-d68fd88e4135---For You, and Your Denial</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b70aac0986d408aa1a0f50ca6e5c11b.jpg" length="23999" type="image/jpeg"/>
+      <pubDate>Sat, 03 Jun 2023 23:38:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
