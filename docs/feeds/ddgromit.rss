@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 03:33:22 +0000</lastBuildDate>
-    <item>
-      <title>Les Gordon - Okayama (1 play)</title>
-      <link>https://www.last.fm/music/Les+Gordon/_/Okayama</link>
-      <guid isPermaLink="false">ddgromit-1685473162--02e5ab4c-7391-4614-ab0f-961b155c5887---Okayama</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 30 May 2023 14:59:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Blaze - Interlude (5 plays)</title>
-      <link>https://www.last.fm/music/The+Blaze/_/Interlude</link>
-      <guid isPermaLink="false">ddgromit-1685473325--d18a2838-05fa-4e4e-bbb5-284a4cfb13f5---Interlude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b240f5d90efba5a55b80fff807f5e7e.jpg" length="21965" type="image/jpeg"/>
-      <pubDate>Tue, 30 May 2023 15:02:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 03:52:17 +0000</lastBuildDate>
     <item>
       <title>Paul Sabin - Prototype (3 plays)</title>
       <link>https://www.last.fm/music/Paul+Sabin/_/Prototype</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1685825489--d5d5ba92-4bd4-4975-9806-99339eed3046---Eensy Weensy Spider</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28ded749f8de497697f6babdbb2f3c17.jpg" length="26064" type="image/jpeg"/>
       <pubDate>Sat, 03 Jun 2023 16:51:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yellowcard - Ocean Avenue (5 plays)</title>
+      <link>https://www.last.fm/music/Yellowcard/_/Ocean+Avenue</link>
+      <guid isPermaLink="false">ddgromit-1685849510--3630fff3-52fc-4e97-ab01-d68fd88e4135---Ocean Avenue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b24302cfb804914c9cc2ee0834d7d47.png" length="138770" type="image/png"/>
+      <pubDate>Sat, 03 Jun 2023 23:31:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yellowcard - Lights and Sounds (1 play)</title>
+      <link>https://www.last.fm/music/Yellowcard/_/Lights+and+Sounds</link>
+      <guid isPermaLink="false">ddgromit-1685849710--3630fff3-52fc-4e97-ab01-d68fd88e4135---Lights and Sounds</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca81944b1db74042bd1a3c1ad8c37cd6.jpg" length="23930" type="image/jpeg"/>
+      <pubDate>Sat, 03 Jun 2023 23:35:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
