@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jun 2023 06:37:25 +0000</lastBuildDate>
-    <item>
-      <title>Thin Lizzy - Renegade (2 plays)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/Renegade</link>
-      <guid isPermaLink="false">manosg--1685702347--6a726ac6-019e-455c-8bbb-571a77bed52e---Renegade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11255bb7891026b1d852a0ff9ce07cc7.png" length="151517" type="image/png"/>
-      <pubDate>Fri, 02 Jun 2023 06:39:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jun 2023 06:52:20 +0000</lastBuildDate>
     <item>
       <title>Thin Lizzy - The Pressure Will Blow (2 plays)</title>
       <link>https://www.last.fm/music/Thin+Lizzy/_/The+Pressure+Will+Blow</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1685860210--65314b12-0e08-43fa-ba33-baaa7b874c15---Sisters of Mercy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg" length="10226" type="image/jpeg"/>
       <pubDate>Sun, 04 Jun 2023 02:30:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - So Long, Marianne (5 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/So+Long,+Marianne</link>
+      <guid isPermaLink="false">manosg--1685860425--65314b12-0e08-43fa-ba33-baaa7b874c15---So Long, Marianne</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg" length="10226" type="image/jpeg"/>
+      <pubDate>Sun, 04 Jun 2023 02:33:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
