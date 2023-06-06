@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jun 2023 09:37:22 +0000</lastBuildDate>
-    <item>
-      <title>Isaac Hayes - Use Me (1 play)</title>
-      <link>https://www.last.fm/music/Isaac+Hayes/_/Use+Me</link>
-      <guid isPermaLink="false">Frippertron-1686023146--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Use Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f7daa6a9e85c69d5fe8148cc90e8c57.jpg" length="24240" type="image/jpeg"/>
-      <pubDate>Mon, 05 Jun 2023 23:45:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Isaac Hayes - Do Your Thing (1 play)</title>
-      <link>https://www.last.fm/music/Isaac+Hayes/_/Do+Your+Thing</link>
-      <guid isPermaLink="false">Frippertron-1686023515--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Do Your Thing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f7daa6a9e85c69d5fe8148cc90e8c57.jpg" length="24240" type="image/jpeg"/>
-      <pubDate>Mon, 05 Jun 2023 23:51:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jun 2023 09:52:34 +0000</lastBuildDate>
     <item>
       <title>Isaac Hayes - Theme From "The Men" (1 play)</title>
       <link>https://www.last.fm/music/Isaac+Hayes/_/Theme+From+%22The+Men%22</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1686043808--3285dc48-9505-469d-ad8a-bdf2d3dba632---Unforming</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61558dd94b04e008d5db4f89cc7bf8c2.jpg" length="7285" type="image/jpeg"/>
       <pubDate>Tue, 06 Jun 2023 05:30:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - Ebbing (2 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Ebbing</link>
+      <guid isPermaLink="false">Frippertron-1686044165--3285dc48-9505-469d-ad8a-bdf2d3dba632---Ebbing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61558dd94b04e008d5db4f89cc7bf8c2.jpg" length="7285" type="image/jpeg"/>
+      <pubDate>Tue, 06 Jun 2023 05:36:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - No More Of This (2 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/No+More+Of+This</link>
+      <guid isPermaLink="false">Frippertron-1686044831--3285dc48-9505-469d-ad8a-bdf2d3dba632---No More Of This</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61558dd94b04e008d5db4f89cc7bf8c2.jpg" length="7285" type="image/jpeg"/>
+      <pubDate>Tue, 06 Jun 2023 05:47:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
