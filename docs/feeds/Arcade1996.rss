@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 13:40:12 +0000</lastBuildDate>
-    <item>
-      <title>Turnstile - BLACKOUT (6 plays)</title>
-      <link>https://www.last.fm/music/Turnstile/_/BLACKOUT</link>
-      <guid isPermaLink="false">Arcade1996-1686103635--7b748dac-f5ce-45a7-9b95-c1d8b5b013ed---BLACKOUT</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9bbf56b7df22d8044b0102c3ef12183a.jpg" length="7696" type="image/jpeg"/>
-      <pubDate>Tue, 06 Jun 2023 22:07:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Jun 2023 13:53:16 +0000</lastBuildDate>
     <item>
       <title>KayCyy - OKAY! (Prod. Gesaffelstein) (14 plays)</title>
       <link>https://www.last.fm/music/KayCyy/_/OKAY!+(Prod.+Gesaffelstein)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1686231259--Coil---Fire of the Mind - Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94386922c8c241ff93afb2c74fb05e95.jpg" length="9487" type="image/jpeg"/>
       <pubDate>Thu, 08 Jun 2023 09:34:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coil - Manunkind (3 plays)</title>
+      <link>https://www.last.fm/music/Coil/_/Manunkind</link>
+      <guid isPermaLink="false">Arcade1996-1686231573--Coil---Manunkind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adc56e8f5dbaba0f6907386195ce4b1c.jpg" length="18931" type="image/jpeg"/>
+      <pubDate>Thu, 08 Jun 2023 09:39:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
