@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 14:40:17 +0000</lastBuildDate>
-    <item>
-      <title>Jenny Hval - Year of Love (12 plays)</title>
-      <link>https://www.last.fm/music/Jenny+Hval/_/Year+of+Love</link>
-      <guid isPermaLink="false">Arcade1996-1686104162--25dc9640-7ee2-47e0-8c00-fa8e0fc28086---Year of Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68a2a6fcb844d9a41514f1f81f13377c.jpg" length="22355" type="image/jpeg"/>
-      <pubDate>Tue, 06 Jun 2023 22:16:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Avalon Emerson - Astrology Poisoning (1 play)</title>
-      <link>https://www.last.fm/music/Avalon+Emerson/_/Astrology+Poisoning</link>
-      <guid isPermaLink="false">Arcade1996-1686133868--f91ec397-c4be-4672-8faa-2d2983682b1c---Astrology Poisoning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0b5b8aef9f2a04a92734116575a6671.jpg" length="21861" type="image/jpeg"/>
-      <pubDate>Wed, 07 Jun 2023 06:31:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Jun 2023 14:52:20 +0000</lastBuildDate>
     <item>
       <title>Poison Ruïn - Resurrection II (1 play)</title>
       <link>https://www.last.fm/music/Poison+Ru%C3%AFn/_/Resurrection+II</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1686231658--Coil---Tripe Sun - Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94386922c8c241ff93afb2c74fb05e95.jpg" length="9487" type="image/jpeg"/>
       <pubDate>Thu, 08 Jun 2023 09:40:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coil - Ostia (The Death of Pasolini) (1 play)</title>
+      <link>https://www.last.fm/music/Coil/_/Ostia+(The+Death+of+Pasolini)</link>
+      <guid isPermaLink="false">Arcade1996-1686234873--Coil---Ostia (The Death of Pasolini)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03e952d2e071697708aa5c25cd62eff5.png" length="139393" type="image/png"/>
+      <pubDate>Thu, 08 Jun 2023 10:34:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coil - The Snow (1 play)</title>
+      <link>https://www.last.fm/music/Coil/_/The+Snow</link>
+      <guid isPermaLink="false">Arcade1996-1686235255--Coil---The Snow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc2e0d8c5f0954f7b9d19e8d40af6feb.jpg" length="42323" type="image/jpeg"/>
+      <pubDate>Thu, 08 Jun 2023 10:40:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
