@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jun 2023 22:39:41 +0000</lastBuildDate>
-    <item>
-      <title>Valentina Cy - Wind (1 play)</title>
-      <link>https://www.last.fm/music/Valentina+Cy/_/Wind</link>
-      <guid isPermaLink="false">rockijosh-1686359765--Valentina Cy---Wind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45825e2baccc373a78747196ff001ab5.jpg" length="26481" type="image/jpeg"/>
-      <pubDate>Fri, 09 Jun 2023 21:16:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Charlotte Cardin - 99 Nights (7 plays)</title>
-      <link>https://www.last.fm/music/Charlotte+Cardin/_/99+Nights</link>
-      <guid isPermaLink="false">rockijosh-1686360176--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---99 Nights</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/daa73bf50042413fd91d1873b95d2419.jpg" length="16041" type="image/jpeg"/>
-      <pubDate>Fri, 09 Jun 2023 21:22:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Charlotte Cardin - Confetti (24 plays)</title>
-      <link>https://www.last.fm/music/Charlotte+Cardin/_/Confetti</link>
-      <guid isPermaLink="false">rockijosh-1686360176--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Confetti</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/daa73bf50042413fd91d1873b95d2419.jpg" length="16041" type="image/jpeg"/>
-      <pubDate>Fri, 09 Jun 2023 21:22:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Charlotte Cardin - Looping (8 plays)</title>
-      <link>https://www.last.fm/music/Charlotte+Cardin/_/Looping</link>
-      <guid isPermaLink="false">rockijosh-1686360360--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Looping</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/daa73bf50042413fd91d1873b95d2419.jpg" length="16041" type="image/jpeg"/>
-      <pubDate>Fri, 09 Jun 2023 21:26:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jun 2023 22:52:24 +0000</lastBuildDate>
     <item>
       <title>Charlotte Cardin - Confetti (VF) (4 plays)</title>
       <link>https://www.last.fm/music/Charlotte+Cardin/_/Confetti+(VF)</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">rockijosh-1686436288--70b166d1-b511-49f1-ad15-8b94603515d5---L-Dopa</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a4c1b32d8174e25ce721e3208f406a6.png" length="89191" type="image/png"/>
       <pubDate>Sat, 10 Jun 2023 18:31:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Laura Stevenson - The Wheel (100 plays)</title>
+      <link>https://www.last.fm/music/Laura+Stevenson/_/The+Wheel</link>
+      <guid isPermaLink="false">rockijosh-1686436658--70b166d1-b511-49f1-ad15-8b94603515d5---The Wheel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a4c1b32d8174e25ce721e3208f406a6.png" length="89191" type="image/png"/>
+      <pubDate>Sat, 10 Jun 2023 18:37:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Laura Stevenson - Dermatillomania (45 plays)</title>
+      <link>https://www.last.fm/music/Laura+Stevenson/_/Dermatillomania</link>
+      <guid isPermaLink="false">rockijosh-1686436920--70b166d1-b511-49f1-ad15-8b94603515d5---Dermatillomania</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea0b33159724b37386d993d1f8976f48.jpg" length="13271" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jun 2023 18:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hop Along - Waitress (100 plays)</title>
+      <link>https://www.last.fm/music/Hop+Along/_/Waitress</link>
+      <guid isPermaLink="false">rockijosh-1686437070--91640d9b-b077-4271-9fb7-84f3ea543f24---Waitress</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01f6872bae2174f1a98170fe0ba3e2ca.jpg" length="19866" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jun 2023 18:44:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ratboy - AOID (1 play)</title>
+      <link>https://www.last.fm/music/Ratboy/_/AOID</link>
+      <guid isPermaLink="false">rockijosh-1686437284--423a85de-66ba-4113-abdc-ba2678ee89ba---AOID</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d44a68f0a92317c6f839eb7b95fdaefd.jpg" length="32831" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jun 2023 18:48:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
