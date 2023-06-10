@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jun 2023 13:17:20 +0000</lastBuildDate>
-    <item>
-      <title>Lainey Wilson - Grease (32 plays)</title>
-      <link>https://www.last.fm/music/Lainey+Wilson/_/Grease</link>
-      <guid isPermaLink="false">gameofmetal-1686354082--a6e613d6-ff65-4972-beff-303a1b10ab05---Grease</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fe8f8103e271e193b0842bc6db50ff8.png" length="125954" type="image/png"/>
-      <pubDate>Fri, 09 Jun 2023 19:41:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ying Yang Twins - Say I Yi Yi (7 plays)</title>
-      <link>https://www.last.fm/music/Ying+Yang+Twins/_/Say+I+Yi+Yi</link>
-      <guid isPermaLink="false">gameofmetal-1686354268--2e80ba15-ec0f-4bd4-b263-7e0671f38255---Say I Yi Yi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c84181cae1cb36b9d62f5c4635428218.jpg" length="28545" type="image/jpeg"/>
-      <pubDate>Fri, 09 Jun 2023 19:44:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jun 2023 15:38:50 +0000</lastBuildDate>
     <item>
       <title>Sonya Isaacs - Battlefield (4 plays)</title>
       <link>https://www.last.fm/music/Sonya+Isaacs/_/Battlefield</link>
@@ -278,7 +264,6 @@
       <title>Priscilla Block - Wish You Were the Whiskey (17 plays)</title>
       <link>https://www.last.fm/music/Priscilla+Block/_/Wish+You+Were+the+Whiskey</link>
       <guid isPermaLink="false">gameofmetal-1686362437--39c0b99a-7e0e-42c7-94e2-14dc7c99a019---Wish You Were the Whiskey</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2adb3612663fafba86407c0850023f22.png" length="148952" type="image/png"/>
       <pubDate>Fri, 09 Jun 2023 22:00:37 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">gameofmetal-1686402548--0dd3b052-3169-4b24-9327-b59d16c3de63---Vomitchrist (2022 Remastered Version)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d410541d2757607bd6ce01038767259.jpg" length="35221" type="image/jpeg"/>
       <pubDate>Sat, 10 Jun 2023 09:09:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dead Congregation - Lucid Curse (2022 Remastered Version) (1 play)</title>
+      <link>https://www.last.fm/music/Dead+Congregation/_/Lucid+Curse+(2022+Remastered+Version)</link>
+      <guid isPermaLink="false">gameofmetal-1686410966--0dd3b052-3169-4b24-9327-b59d16c3de63---Lucid Curse (2022 Remastered Version)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d410541d2757607bd6ce01038767259.jpg" length="35221" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jun 2023 11:29:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dead Congregation - Only Ashes Remain (7 plays)</title>
+      <link>https://www.last.fm/music/Dead+Congregation/_/Only+Ashes+Remain</link>
+      <guid isPermaLink="false">gameofmetal-1686410967--0dd3b052-3169-4b24-9327-b59d16c3de63---Only Ashes Remain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c0a37f2fbc095e40134e946e048e1e.jpg" length="26039" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jun 2023 11:29:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
