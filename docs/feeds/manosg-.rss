@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jun 2023 16:21:43 +0000</lastBuildDate>
-    <item>
-      <title>Steve Vai - Here &amp; Now (3 plays)</title>
-      <link>https://www.last.fm/music/Steve+Vai/_/Here+&amp;+Now</link>
-      <guid isPermaLink="false">manosg--1686548791--5e7ccd92-6277-451a-aab9-1efd587c50f3---Here &amp; Now</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e21f47105fbe451f8138dc1e30c32941.png" length="229097" type="image/png"/>
-      <pubDate>Mon, 12 Jun 2023 01:46:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steve Vai - In My Dreams With You (2 plays)</title>
-      <link>https://www.last.fm/music/Steve+Vai/_/In+My+Dreams+With+You</link>
-      <guid isPermaLink="false">manosg--1686549079--5e7ccd92-6277-451a-aab9-1efd587c50f3---In My Dreams With You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e21f47105fbe451f8138dc1e30c32941.png" length="229097" type="image/png"/>
-      <pubDate>Mon, 12 Jun 2023 01:51:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jun 2023 17:52:21 +0000</lastBuildDate>
     <item>
       <title>Steve Vai - Liberty (3 plays)</title>
       <link>https://www.last.fm/music/Steve+Vai/_/Liberty</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1686585266--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---Loner</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8cbc244551596b441d0dc4bbd1151761.jpg" length="18996" type="image/jpeg"/>
       <pubDate>Mon, 12 Jun 2023 11:54:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Saattue (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Saattue</link>
+      <guid isPermaLink="false">manosg--1686587347--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Saattue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Mon, 12 Jun 2023 12:29:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Kesävihanta (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Kes%C3%A4vihanta</link>
+      <guid isPermaLink="false">manosg--1686591871--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Kesävihanta</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Mon, 12 Jun 2023 13:44:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
