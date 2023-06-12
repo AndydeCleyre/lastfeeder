@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jun 2023 10:38:15 +0000</lastBuildDate>
-    <item>
-      <title>Squid - Devil's Den (4 plays)</title>
-      <link>https://www.last.fm/music/Squid/_/Devil%27s+Den</link>
-      <guid isPermaLink="false">Frippertron-1686543840--5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45---Devil's Den</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
-      <pubDate>Mon, 12 Jun 2023 00:24:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jun 2023 10:52:39 +0000</lastBuildDate>
     <item>
       <title>Squid - If You Had Seen The Bull's Swimming Attempts You Would Have Stayed Away (4 plays)</title>
       <link>https://www.last.fm/music/Squid/_/If+You+Had+Seen+The+Bull%27s+Swimming+Attempts+You+Would+Have+Stayed+Away</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1686565893--Sparks---La Dolce Vita</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20446a1d7ea9b6a965e32f63341a3a0f.jpg" length="14515" type="image/jpeg"/>
       <pubDate>Mon, 12 Jun 2023 06:31:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - The Number One Song in Heaven (83 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/The+Number+One+Song+in+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1686566259--Sparks---The Number One Song in Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20446a1d7ea9b6a965e32f63341a3a0f.jpg" length="14515" type="image/jpeg"/>
+      <pubDate>Mon, 12 Jun 2023 06:37:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
