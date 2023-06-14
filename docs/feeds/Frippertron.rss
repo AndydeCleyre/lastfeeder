@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jun 2023 03:37:25 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Princes of the Universe (11 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Princes+of+the+Universe</link>
-      <guid isPermaLink="false">Frippertron-1686640428--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Princes of the Universe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4c38c817e5142f2a865f087d11c4894.png" length="208957" type="image/png"/>
-      <pubDate>Tue, 13 Jun 2023 03:13:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Squid - Swing (In A Dream) (6 plays)</title>
-      <link>https://www.last.fm/music/Squid/_/Swing+(In+A+Dream)</link>
-      <guid isPermaLink="false">Frippertron-1686640660--5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45---Swing (In A Dream)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
-      <pubDate>Tue, 13 Jun 2023 03:17:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jun 2023 03:52:33 +0000</lastBuildDate>
     <item>
       <title>Squid - Narrator (18 plays)</title>
       <link>https://www.last.fm/music/Squid/_/Narrator</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1686713532--b904d624-9e05-4398-8f4f-88fbcf022f79---You're My Baby</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4adf6e72e94c4a91855b039438f44912.png" length="156285" type="image/png"/>
       <pubDate>Tue, 13 Jun 2023 23:32:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Barry White - Hard To Believe That I Found You (1 play)</title>
+      <link>https://www.last.fm/music/Barry+White/_/Hard+To+Believe+That+I+Found+You</link>
+      <guid isPermaLink="false">Frippertron-1686714087--b904d624-9e05-4398-8f4f-88fbcf022f79---Hard To Believe That I Found You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4adf6e72e94c4a91855b039438f44912.png" length="156285" type="image/png"/>
+      <pubDate>Tue, 13 Jun 2023 23:41:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Barry White - Never Never Gonna Give Ya Up (1 play)</title>
+      <link>https://www.last.fm/music/Barry+White/_/Never+Never+Gonna+Give+Ya+Up</link>
+      <guid isPermaLink="false">Frippertron-1686714512--b904d624-9e05-4398-8f4f-88fbcf022f79---Never Never Gonna Give Ya Up</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4adf6e72e94c4a91855b039438f44912.png" length="156285" type="image/png"/>
+      <pubDate>Tue, 13 Jun 2023 23:48:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
