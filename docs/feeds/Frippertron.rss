@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jun 2023 07:26:40 +0000</lastBuildDate>
-    <item>
-      <title>The O'Jays - For the Love of Money (3 plays)</title>
-      <link>https://www.last.fm/music/The+O%27Jays/_/For+the+Love+of+Money</link>
-      <guid isPermaLink="false">Frippertron-1686708795--8153c6ef-026c-481f-b081-974f2c948d9f---For the Love of Money</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d807122e17d672e3762e067367c3d098.jpg" length="20239" type="image/jpeg"/>
-      <pubDate>Tue, 13 Jun 2023 22:13:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gino Vannelli - Fly Into This Night (13 plays)</title>
-      <link>https://www.last.fm/music/Gino+Vannelli/_/Fly+Into+This+Night</link>
-      <guid isPermaLink="false">Frippertron-1686709289--747e5054-f50b-498c-bff3-85f7313aeb80---Fly Into This Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/13a85a9561f79e1d78748e3dec633521.jpg" length="15438" type="image/jpeg"/>
-      <pubDate>Tue, 13 Jun 2023 22:21:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jun 2023 07:38:36 +0000</lastBuildDate>
     <item>
       <title>Gino Vannelli - Prelude To The War (31 plays)</title>
       <link>https://www.last.fm/music/Gino+Vannelli/_/Prelude+To+The+War</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1686727162--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
       <pubDate>Wed, 14 Jun 2023 03:19:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Royal Orleans (32 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Royal+Orleans</link>
+      <guid isPermaLink="false">Frippertron-1686727548--678d88b2-87b0-403b-b63d-5da7465aecc3---Royal Orleans</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Wed, 14 Jun 2023 03:25:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Nobody's Fault but Mine (29 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Nobody%27s+Fault+but+Mine</link>
+      <guid isPermaLink="false">Frippertron-1686727729--678d88b2-87b0-403b-b63d-5da7465aecc3---Nobody's Fault but Mine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Wed, 14 Jun 2023 03:28:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
