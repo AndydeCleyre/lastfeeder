@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jun 2023 02:55:12 +0000</lastBuildDate>
-    <item>
-      <title>Glassjaw - You Think You're (John Fucking Lennon) (60 plays)</title>
-      <link>https://www.last.fm/music/Glassjaw/_/You+Think+You%27re+(John+Fucking+Lennon)</link>
-      <guid isPermaLink="false">Frippertron-1686635952--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---You Think You're (John Fucking Lennon)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
-      <pubDate>Tue, 13 Jun 2023 01:59:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Lions In My Own Garden (Exit Someone) (76 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Lions+In+My+Own+Garden+(Exit+Someone)</link>
-      <guid isPermaLink="false">Frippertron-1686636201--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Lions In My Own Garden (Exit Someone)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04a3151d01710068b0c2f4af4011bdc4.jpg" length="22107" type="image/jpeg"/>
-      <pubDate>Tue, 13 Jun 2023 02:03:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Death on Two Legs (Dedicated to...) (36 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Death+on+Two+Legs+(Dedicated+to...)</link>
-      <guid isPermaLink="false">Frippertron-1686639182--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Death on Two Legs (Dedicated to...)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d36a1f8075da4df6bb835b2f7eac1547.png" length="77758" type="image/png"/>
-      <pubDate>Tue, 13 Jun 2023 02:53:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jun 2023 03:16:58 +0000</lastBuildDate>
     <item>
       <title>Queen - The Prophet's Song (34 plays)</title>
       <link>https://www.last.fm/music/Queen/_/The+Prophet%27s+Song</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1686710892--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---Any Old Time Will Do</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/943f8e408aa94287a6b9b80580f2ba6e.jpg" length="33314" type="image/jpeg"/>
       <pubDate>Tue, 13 Jun 2023 22:48:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Get on Down Home (2 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Get+on+Down+Home</link>
+      <guid isPermaLink="false">Frippertron-1686711154--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---Get on Down Home</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/943f8e408aa94287a6b9b80580f2ba6e.jpg" length="33314" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jun 2023 22:52:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wizzard - Gotta Crush (About You) (3 plays)</title>
+      <link>https://www.last.fm/music/Wizzard/_/Gotta+Crush+(About+You)</link>
+      <guid isPermaLink="false">Frippertron-1686711654--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Gotta Crush (About You)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a45b75946338a2a120b54aca770c006.jpg" length="24083" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jun 2023 23:00:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wizzard - Meet Me at the Jailhouse (14 plays)</title>
+      <link>https://www.last.fm/music/Wizzard/_/Meet+Me+at+the+Jailhouse</link>
+      <guid isPermaLink="false">Frippertron-1686711873--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Meet Me at the Jailhouse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a45b75946338a2a120b54aca770c006.jpg" length="24083" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jun 2023 23:04:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
