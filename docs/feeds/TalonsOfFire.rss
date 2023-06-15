@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 22:15:06 +0000</lastBuildDate>
-    <item>
-      <title>Haavard - Snøhetta (3 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Sn%C3%B8hetta</link>
-      <guid isPermaLink="false">TalonsOfFire-1686073904--Haavard---Snøhetta</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Tue, 06 Jun 2023 13:51:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Smile - Skrting on the Surface (6 plays)</title>
-      <link>https://www.last.fm/music/The+Smile/_/Skrting+on+the+Surface</link>
-      <guid isPermaLink="false">TalonsOfFire-1686073904--9055fca5-69bc-4d47-b569-ab2012a19565---Skrting on the Surface</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68280042a09a02810dcd0a927efd65d8.jpg" length="37192" type="image/jpeg"/>
-      <pubDate>Tue, 06 Jun 2023 13:51:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jun 2023 22:28:28 +0000</lastBuildDate>
     <item>
       <title>Haavard - Snøhetta (3 plays)</title>
       <link>https://www.last.fm/music/Haavard/_/Sn%C3%B8hetta</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1686862485--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Elokuun linnut</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
       <pubDate>Thu, 15 Jun 2023 16:54:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Sydämes on tiel (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Syd%C3%A4mes+on+tiel</link>
+      <guid isPermaLink="false">TalonsOfFire-1686867010--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Sydämes on tiel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Thu, 15 Jun 2023 18:10:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Veden elein (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Veden+elein</link>
+      <guid isPermaLink="false">TalonsOfFire-1686867333--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Veden elein</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Thu, 15 Jun 2023 18:15:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
