@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 20:37:22 +0000</lastBuildDate>
-    <item>
-      <title>Ghost Brigade - In the Woods (3 plays)</title>
-      <link>https://www.last.fm/music/Ghost+Brigade/_/In+the+Woods</link>
-      <guid isPermaLink="false">TalonsOfFire-1686073032--d78c32f2-fdfb-427a-88d1-4051a96afd07---In the Woods</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c87c8e5e7d9433292b3df38ddb3abd2.png" length="161734" type="image/png"/>
-      <pubDate>Tue, 06 Jun 2023 13:37:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ghost Brigade - In the Woods (3 plays)</title>
-      <link>https://www.last.fm/music/Ghost+Brigade/_/In+the+Woods</link>
-      <guid isPermaLink="false">TalonsOfFire-1686073290--d78c32f2-fdfb-427a-88d1-4051a96afd07---In the Woods</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c87c8e5e7d9433292b3df38ddb3abd2.png" length="161734" type="image/png"/>
-      <pubDate>Tue, 06 Jun 2023 13:41:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>IO Echo - Stalemate (4 plays)</title>
-      <link>https://www.last.fm/music/IO+Echo/_/Stalemate</link>
-      <guid isPermaLink="false">TalonsOfFire-1686073290--8f3b2e5b-04d9-4391-b7a3-51363a05eaa4---Stalemate</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9816b1c903644468bb35e642e40da3a6.png" length="145817" type="image/png"/>
-      <pubDate>Tue, 06 Jun 2023 13:41:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jun 2023 20:52:28 +0000</lastBuildDate>
     <item>
       <title>The Smile - Skrting on the Surface (6 plays)</title>
       <link>https://www.last.fm/music/The+Smile/_/Skrting+on+the+Surface</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">TalonsOfFire-1686861104--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Rintamaan</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
       <pubDate>Thu, 15 Jun 2023 16:31:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Rannankukka (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Rannankukka</link>
+      <guid isPermaLink="false">TalonsOfFire-1686861318--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Rannankukka</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Thu, 15 Jun 2023 16:35:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Laineinen (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Laineinen</link>
+      <guid isPermaLink="false">TalonsOfFire-1686861557--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Laineinen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Thu, 15 Jun 2023 16:39:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Hele (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Hele</link>
+      <guid isPermaLink="false">TalonsOfFire-1686861733--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Hele</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Thu, 15 Jun 2023 16:42:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
