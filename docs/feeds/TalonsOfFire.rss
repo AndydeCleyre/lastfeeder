@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 21:14:06 +0000</lastBuildDate>
-    <item>
-      <title>IO Echo - Stalemate (4 plays)</title>
-      <link>https://www.last.fm/music/IO+Echo/_/Stalemate</link>
-      <guid isPermaLink="false">TalonsOfFire-1686073572--8f3b2e5b-04d9-4391-b7a3-51363a05eaa4---Stalemate</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9816b1c903644468bb35e642e40da3a6.png" length="145817" type="image/png"/>
-      <pubDate>Tue, 06 Jun 2023 13:46:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jun 2023 22:15:06 +0000</lastBuildDate>
     <item>
       <title>Haavard - Snøhetta (3 plays)</title>
       <link>https://www.last.fm/music/Haavard/_/Sn%C3%B8hetta</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1686862180--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Ulapoi</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
       <pubDate>Thu, 15 Jun 2023 16:49:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Elokuun linnut (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Elokuun+linnut</link>
+      <guid isPermaLink="false">TalonsOfFire-1686862485--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Elokuun linnut</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Thu, 15 Jun 2023 16:54:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
