@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 14:40:17 +0000</lastBuildDate>
-    <item>
-      <title>Wednesday - Chosen to Deserve (3 plays)</title>
-      <link>https://www.last.fm/music/Wednesday/_/Chosen+to+Deserve</link>
-      <guid isPermaLink="false">Arcade1996-1686746385--9833b455-0da2-40b5-8e63-37816c910604---Chosen to Deserve</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb31ce83e7d4ab4457e10809c4e2066e.jpg" length="24305" type="image/jpeg"/>
-      <pubDate>Wed, 14 Jun 2023 08:39:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wednesday - Bath County (4 plays)</title>
-      <link>https://www.last.fm/music/Wednesday/_/Bath+County</link>
-      <guid isPermaLink="false">Arcade1996-1686746575--9833b455-0da2-40b5-8e63-37816c910604---Bath County</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb31ce83e7d4ab4457e10809c4e2066e.jpg" length="24305" type="image/jpeg"/>
-      <pubDate>Wed, 14 Jun 2023 08:42:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jun 2023 14:53:09 +0000</lastBuildDate>
     <item>
       <title>Wednesday - Quarry (3 plays)</title>
       <link>https://www.last.fm/music/Wednesday/_/Quarry</link>
@@ -121,14 +107,14 @@
       <pubDate>Wed, 14 Jun 2023 21:34:04 -0400</pubDate>
     </item>
     <item>
-      <title>Squid - Devil’s Den (2 plays)</title>
+      <title>Squid - Devil’s Den (3 plays)</title>
       <link>https://www.last.fm/music/Squid/_/Devil%E2%80%99s+Den</link>
       <guid isPermaLink="false">Arcade1996-1686793029--Squid---Devil’s Den</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
       <pubDate>Wed, 14 Jun 2023 21:37:09 -0400</pubDate>
     </item>
     <item>
-      <title>Squid - Siphon Song (2 plays)</title>
+      <title>Squid - Siphon Song (3 plays)</title>
       <link>https://www.last.fm/music/Squid/_/Siphon+Song</link>
       <guid isPermaLink="false">Arcade1996-1686793389--Squid---Siphon Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
@@ -177,14 +163,14 @@
       <pubDate>Thu, 15 Jun 2023 06:56:22 -0400</pubDate>
     </item>
     <item>
-      <title>Squid - Devil’s Den (2 plays)</title>
+      <title>Squid - Devil’s Den (3 plays)</title>
       <link>https://www.last.fm/music/Squid/_/Devil%E2%80%99s+Den</link>
       <guid isPermaLink="false">Arcade1996-1686826768--Squid---Devil’s Den</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
       <pubDate>Thu, 15 Jun 2023 06:59:28 -0400</pubDate>
     </item>
     <item>
-      <title>Squid - Siphon Song (2 plays)</title>
+      <title>Squid - Siphon Song (3 plays)</title>
       <link>https://www.last.fm/music/Squid/_/Siphon+Song</link>
       <guid isPermaLink="false">Arcade1996-1686827126--Squid---Siphon Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1686926002--Squid---Swing (In A Dream)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
       <pubDate>Fri, 16 Jun 2023 10:33:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Squid - Devil’s Den (3 plays)</title>
+      <link>https://www.last.fm/music/Squid/_/Devil%E2%80%99s+Den</link>
+      <guid isPermaLink="false">Arcade1996-1686926270--Squid---Devil’s Den</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
+      <pubDate>Fri, 16 Jun 2023 10:37:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Squid - Siphon Song (3 plays)</title>
+      <link>https://www.last.fm/music/Squid/_/Siphon+Song</link>
+      <guid isPermaLink="false">Arcade1996-1686926455--Squid---Siphon Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
+      <pubDate>Fri, 16 Jun 2023 10:40:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
