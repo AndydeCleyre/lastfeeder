@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 17:14:19 +0000</lastBuildDate>
-    <item>
-      <title>Röyksopp - Just Wanted to Know (2 plays)</title>
-      <link>https://www.last.fm/music/R%C3%B6yksopp/_/Just+Wanted+to+Know</link>
-      <guid isPermaLink="false">ddgromit-1686867402--1c70a3fc-fa3c-4be1-8b55-c3192db8a884---Just Wanted to Know</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0efb1930271b7cffee8a927a9cb1180.png" length="49960" type="image/png"/>
-      <pubDate>Thu, 15 Jun 2023 18:16:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Of Norway - The Point At The End Of Infinity (1 play)</title>
-      <link>https://www.last.fm/music/Of+Norway/_/The+Point+At+The+End+Of+Infinity</link>
-      <guid isPermaLink="false">ddgromit-1686867615--a62800c8-6417-4f89-8649-a9baf9fec294---The Point At The End Of Infinity</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a9de5851b1a0e4fe228ba4547b39267.jpg" length="32310" type="image/jpeg"/>
-      <pubDate>Thu, 15 Jun 2023 18:20:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Melkeveien - Moonie (1 play)</title>
-      <link>https://www.last.fm/music/Melkeveien/_/Moonie</link>
-      <guid isPermaLink="false">ddgromit-1686867975--Melkeveien---Moonie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 15 Jun 2023 18:26:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jun 2023 17:26:59 +0000</lastBuildDate>
     <item>
       <title>Orions Belte - how long is... cold pizza good for (3 plays)</title>
       <link>https://www.last.fm/music/Orions+Belte/_/how+long+is...+cold+pizza+good+for</link>
@@ -54,6 +33,7 @@
       <title>Ka2 - ut i rommet (2 plays)</title>
       <link>https://www.last.fm/music/Ka2/_/ut+i+rommet</link>
       <guid isPermaLink="false">ddgromit-1686869421--Ka2---ut i rommet</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/574a27c4c213510e875c7dedc7c8d449.jpg" length="34892" type="image/jpeg"/>
       <pubDate>Thu, 15 Jun 2023 18:50:21 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1686935245--d8b15d32-609e-44a6-bff1-65c4df53a9f1---People Everyday - Metamorphosis Mix</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a486b5634aa808cafca83182da69473d.jpg" length="25341" type="image/jpeg"/>
       <pubDate>Fri, 16 Jun 2023 13:07:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Roots - You Got Me (6 plays)</title>
+      <link>https://www.last.fm/music/The+Roots/_/You+Got+Me</link>
+      <guid isPermaLink="false">ddgromit-1686935501--80b3cf5e-18fe-4c59-98c7-e5bb87210710---You Got Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7d9e3a699f342289b388fccad51ddf7.png" length="115542" type="image/png"/>
+      <pubDate>Fri, 16 Jun 2023 13:11:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Digable Planets - Rebirth of Slick (Cool Like Dat) (6 plays)</title>
+      <link>https://www.last.fm/music/Digable+Planets/_/Rebirth+of+Slick+(Cool+Like+Dat)</link>
+      <guid isPermaLink="false">ddgromit-1686935750--ff44f779-74ab-48f8-aac3-39ebe8f7c18e---Rebirth of Slick (Cool Like Dat)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ea7d23c60d5faabda3e37ecc7317d4.png" length="179565" type="image/png"/>
+      <pubDate>Fri, 16 Jun 2023 13:15:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Skee-Lo - I Wish (2 plays)</title>
+      <link>https://www.last.fm/music/Skee-Lo/_/I+Wish</link>
+      <guid isPermaLink="false">ddgromit-1686935950--9341a67c-4f0c-43c2-9ec4-c222d2cb97f3---I Wish</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85cbe32735f00c6b12f7793970c89edf.png" length="185079" type="image/png"/>
+      <pubDate>Fri, 16 Jun 2023 13:19:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
