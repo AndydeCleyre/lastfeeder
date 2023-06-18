@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jun 2023 18:37:17 +0000</lastBuildDate>
-    <item>
-      <title>Varathron - Unholy Funeral (1 play)</title>
-      <link>https://www.last.fm/music/Varathron/_/Unholy+Funeral</link>
-      <guid isPermaLink="false">gameofmetal-1687047001--fe54b9df-01d8-4126-a2e9-df47dda9a18a---Unholy Funeral</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80d79c36de6b48c94f3592ccd03865cb.jpg" length="31162" type="image/jpeg"/>
-      <pubDate>Sat, 17 Jun 2023 20:10:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jun 2023 18:52:10 +0000</lastBuildDate>
     <item>
       <title>Varathron - Tenebrous (2 plays)</title>
       <link>https://www.last.fm/music/Varathron/_/Tenebrous</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1687112946--Portal---Grail</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8ea9194a8baad0768d19e68136df3cb.jpg" length="7815" type="image/jpeg"/>
       <pubDate>Sun, 18 Jun 2023 14:29:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Portal - Weptune (1 play)</title>
+      <link>https://www.last.fm/music/Portal/_/Weptune</link>
+      <guid isPermaLink="false">gameofmetal-1687113250--Portal---Weptune</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8ea9194a8baad0768d19e68136df3cb.jpg" length="7815" type="image/jpeg"/>
+      <pubDate>Sun, 18 Jun 2023 14:34:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
