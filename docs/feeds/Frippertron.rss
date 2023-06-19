@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jun 2023 03:19:04 +0000</lastBuildDate>
-    <item>
-      <title>Barry White - Never Never Gonna Give Ya Up (3 plays)</title>
-      <link>https://www.last.fm/music/Barry+White/_/Never+Never+Gonna+Give+Ya+Up</link>
-      <guid isPermaLink="false">Frippertron-1686813337--b904d624-9e05-4398-8f4f-88fbcf022f79---Never Never Gonna Give Ya Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4adf6e72e94c4a91855b039438f44912.png" length="156285" type="image/png"/>
-      <pubDate>Thu, 15 Jun 2023 03:15:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Curtis Mayfield - Pusherman (2 plays)</title>
-      <link>https://www.last.fm/music/Curtis+Mayfield/_/Pusherman</link>
-      <guid isPermaLink="false">Frippertron-1686813813--4dca4bb2-23ba-4103-97e6-5810311db33a---Pusherman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a847ccbf704a0aca17d38f02f11dae.png" length="166128" type="image/png"/>
-      <pubDate>Thu, 15 Jun 2023 03:23:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jun 2023 03:37:32 +0000</lastBuildDate>
     <item>
       <title>Curtis Mayfield - No Thing On Me (3 plays)</title>
       <link>https://www.last.fm/music/Curtis+Mayfield/_/No+Thing+On+Me</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1687144188--Roy Wood---Life Is Wonderful</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
       <pubDate>Sun, 18 Jun 2023 23:09:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Waitin' At This Door (2 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Waitin%27+At+This+Door</link>
+      <guid isPermaLink="false">Frippertron-1687144706--Roy Wood---Waitin' At This Door</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
+      <pubDate>Sun, 18 Jun 2023 23:18:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Another Wrong Night (1 play)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Another+Wrong+Night</link>
+      <guid isPermaLink="false">Frippertron-1687145055--Roy Wood---Another Wrong Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
+      <pubDate>Sun, 18 Jun 2023 23:24:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
