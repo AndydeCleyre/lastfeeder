@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 08:52:14 +0000</lastBuildDate>
-    <item>
-      <title>Leonard Cohen - Everybody Knows (13 plays)</title>
-      <link>https://www.last.fm/music/Leonard+Cohen/_/Everybody+Knows</link>
-      <guid isPermaLink="false">manosg--1686822244--65314b12-0e08-43fa-ba33-baaa7b874c15---Everybody Knows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db27b63a95a1e2e5b373d3f5c041498c.jpg" length="15805" type="image/jpeg"/>
-      <pubDate>Thu, 15 Jun 2023 05:44:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 09:15:44 +0000</lastBuildDate>
     <item>
       <title>Leonard Cohen - I'm Your Man (8 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/I%27m+Your+Man</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1687250432--67a3c576-3dba-4e2b-b6f7-3fb3a458ec5c---Dirty Lung</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a13422afefc8679e2303f5abac66d35.jpg" length="38274" type="image/jpeg"/>
       <pubDate>Tue, 20 Jun 2023 04:40:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Green Yeti - Kerosene (1 play)</title>
+      <link>https://www.last.fm/music/Green+Yeti/_/Kerosene</link>
+      <guid isPermaLink="false">manosg--1687250886--67a3c576-3dba-4e2b-b6f7-3fb3a458ec5c---Kerosene</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a13422afefc8679e2303f5abac66d35.jpg" length="38274" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jun 2023 04:48:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
