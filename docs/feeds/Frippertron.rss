@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 04:19:13 +0000</lastBuildDate>
-    <item>
-      <title>The Delfonics - Over &amp; Over (1 play)</title>
-      <link>https://www.last.fm/music/The+Delfonics/_/Over+&amp;+Over</link>
-      <guid isPermaLink="false">Frippertron-1687164215--cfe0dee4-4409-46e3-bbf2-edac88971132---Over &amp; Over</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb40de4ce8504d278cd21a32c2915e44.jpg" length="14469" type="image/jpeg"/>
-      <pubDate>Mon, 19 Jun 2023 04:43:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Delfonics - Think About Me (1 play)</title>
-      <link>https://www.last.fm/music/The+Delfonics/_/Think+About+Me</link>
-      <guid isPermaLink="false">Frippertron-1687164406--cfe0dee4-4409-46e3-bbf2-edac88971132---Think About Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb40de4ce8504d278cd21a32c2915e44.jpg" length="14469" type="image/jpeg"/>
-      <pubDate>Mon, 19 Jun 2023 04:46:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 04:37:24 +0000</lastBuildDate>
     <item>
       <title>The Delfonics - I Gave To You (1 play)</title>
       <link>https://www.last.fm/music/The+Delfonics/_/I+Gave+To+You</link>
@@ -135,7 +121,7 @@
       <pubDate>Mon, 19 Jun 2023 06:07:38 -0400</pubDate>
     </item>
     <item>
-      <title>Sparks - Girl from Germany (19 plays)</title>
+      <title>Sparks - Girl from Germany (20 plays)</title>
       <link>https://www.last.fm/music/Sparks/_/Girl+from+Germany</link>
       <guid isPermaLink="false">Frippertron-1687169559--Sparks---Girl from Germany</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/401b7f99b1b6f40c22f9e6835ed5da12.jpg" length="20219" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1687233702--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---You Think You're (John Fucking Lennon)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
       <pubDate>Tue, 20 Jun 2023 00:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Girl from Germany (20 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/Girl+from+Germany</link>
+      <guid isPermaLink="false">Frippertron-1687235305--Sparks---Girl from Germany</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/401b7f99b1b6f40c22f9e6835ed5da12.jpg" length="20219" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jun 2023 00:28:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Beaver O'Lindy (19 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/Beaver+O%27Lindy</link>
+      <guid isPermaLink="false">Frippertron-1687235515--Sparks---Beaver O'Lindy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/401b7f99b1b6f40c22f9e6835ed5da12.jpg" length="20219" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jun 2023 00:31:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
