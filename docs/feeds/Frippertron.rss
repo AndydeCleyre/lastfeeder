@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 10:17:24 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Mayday Galliard (Bridal Dance) (110 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard+(Bridal+Dance)</link>
-      <guid isPermaLink="false">Frippertron-1687241141--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard (Bridal Dance)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdad40b121e34a66ca339257d0137ddb.jpg" length="31255" type="image/jpeg"/>
-      <pubDate>Tue, 20 Jun 2023 02:05:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Jessica (80 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Jessica</link>
-      <guid isPermaLink="false">Frippertron-1687241544--66f8692c-966d-4dfb-a2ed-babf51241922---Jessica</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7beb227235314766b790c34a39b87261.jpg" length="24491" type="image/jpeg"/>
-      <pubDate>Tue, 20 Jun 2023 02:12:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Jessica (80 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Jessica</link>
-      <guid isPermaLink="false">Frippertron-1687241800--66f8692c-966d-4dfb-a2ed-babf51241922---Jessica</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7beb227235314766b790c34a39b87261.jpg" length="24491" type="image/jpeg"/>
-      <pubDate>Tue, 20 Jun 2023 02:16:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 10:37:40 +0000</lastBuildDate>
     <item>
       <title>The Enid - Raindown (170 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Raindown</link>
@@ -37,7 +16,7 @@
       <pubDate>Tue, 20 Jun 2023 03:03:01 -0400</pubDate>
     </item>
     <item>
-      <title>Roy Wood - Life Is Wonderful (9 plays)</title>
+      <title>Roy Wood - Life Is Wonderful (10 plays)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
       <guid isPermaLink="false">Frippertron-1687244925--Roy Wood---Life Is Wonderful</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1687256095--4051f6bf-6a59-4d23-bd8b-2fddb1389dc0---End of the Show</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcbfa24117974cbeccb63ffce723e7c4.png" length="146011" type="image/png"/>
       <pubDate>Tue, 20 Jun 2023 06:14:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Barry White - Can't Get Enough Of Your Love, Babe (2 plays)</title>
+      <link>https://www.last.fm/music/Barry+White/_/Can%27t+Get+Enough+Of+Your+Love,+Babe</link>
+      <guid isPermaLink="false">Frippertron-1687256344--b904d624-9e05-4398-8f4f-88fbcf022f79---Can't Get Enough Of Your Love, Babe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b8e5468b72b4c0db007d648b64fe19e.jpg" length="27115" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jun 2023 06:19:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Barry White - You're the First, the Last, My Everything (1 play)</title>
+      <link>https://www.last.fm/music/Barry+White/_/You%27re+the+First,+the+Last,+My+Everything</link>
+      <guid isPermaLink="false">Frippertron-1687256620--b904d624-9e05-4398-8f4f-88fbcf022f79---You're the First, the Last, My Everything</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b8e5468b72b4c0db007d648b64fe19e.jpg" length="27115" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jun 2023 06:23:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Life Is Wonderful (10 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
+      <guid isPermaLink="false">Frippertron-1687256852--Roy Wood---Life Is Wonderful</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
+      <pubDate>Tue, 20 Jun 2023 06:27:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
