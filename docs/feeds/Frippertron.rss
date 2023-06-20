@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 05:37:34 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Don't Stop Me Now (27 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Don%27t+Stop+Me+Now</link>
-      <guid isPermaLink="false">Frippertron-1687170042--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Don't Stop Me Now</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6682a933a9814d48bf1307e7a99cd655.png" length="138305" type="image/png"/>
-      <pubDate>Mon, 19 Jun 2023 06:20:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - More of That Jazz (11 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/More+of+That+Jazz</link>
-      <guid isPermaLink="false">Frippertron-1687170253--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---More of That Jazz</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6682a933a9814d48bf1307e7a99cd655.png" length="138305" type="image/png"/>
-      <pubDate>Mon, 19 Jun 2023 06:24:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jerry Butler - Never Give You Up (5 plays)</title>
-      <link>https://www.last.fm/music/Jerry+Butler/_/Never+Give+You+Up</link>
-      <guid isPermaLink="false">Frippertron-1687170522--7bef2432-6f1a-41fc-af1a-0e4e67646dad---Never Give You Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bd83a11ac1cd8d7080d311c58034189.jpg" length="20648" type="image/jpeg"/>
-      <pubDate>Mon, 19 Jun 2023 06:28:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roy Wood - Any Old Time Will Do (4 plays)</title>
-      <link>https://www.last.fm/music/Roy+Wood/_/Any+Old+Time+Will+Do</link>
-      <guid isPermaLink="false">Frippertron-1687226892--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---Any Old Time Will Do</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/943f8e408aa94287a6b9b80580f2ba6e.jpg" length="33314" type="image/jpeg"/>
-      <pubDate>Mon, 19 Jun 2023 22:08:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jun 2023 05:52:13 +0000</lastBuildDate>
     <item>
       <title>Roy Wood - Get on Down Home (4 plays)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/Get+on+Down+Home</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1687239287--Sparks---Screwed Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/055b49ea6d004a8ce2e6fa4c6aa269f3.jpg" length="19254" type="image/jpeg"/>
       <pubDate>Tue, 20 Jun 2023 01:34:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - White Women (2 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/White+Women</link>
+      <guid isPermaLink="false">Frippertron-1687239548--Sparks---White Women</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/055b49ea6d004a8ce2e6fa4c6aa269f3.jpg" length="19254" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jun 2023 01:39:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - I Like Girls (2 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/I+Like+Girls</link>
+      <guid isPermaLink="false">Frippertron-1687239752--Sparks---I Like Girls</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/055b49ea6d004a8ce2e6fa4c6aa269f3.jpg" length="19254" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jun 2023 01:42:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Tearing the Place Apart (1 play)</title>
+      <link>https://www.last.fm/music/Sparks/_/Tearing+the+Place+Apart</link>
+      <guid isPermaLink="false">Frippertron-1687239934--Sparks---Tearing the Place Apart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/055b49ea6d004a8ce2e6fa4c6aa269f3.jpg" length="19254" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jun 2023 01:45:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Barry White - Can't Get Enough Of Your Love, Babe (1 play)</title>
+      <link>https://www.last.fm/music/Barry+White/_/Can%27t+Get+Enough+Of+Your+Love,+Babe</link>
+      <guid isPermaLink="false">Frippertron-1687240163--b904d624-9e05-4398-8f4f-88fbcf022f79---Can't Get Enough Of Your Love, Babe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b8e5468b72b4c0db007d648b64fe19e.jpg" length="27115" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jun 2023 01:49:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
