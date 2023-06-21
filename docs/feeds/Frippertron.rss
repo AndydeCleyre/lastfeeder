@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jun 2023 07:38:53 +0000</lastBuildDate>
-    <item>
-      <title>Lou Ragland - The Next World (1 play)</title>
-      <link>https://www.last.fm/music/Lou+Ragland/_/The+Next+World</link>
-      <guid isPermaLink="false">Frippertron-1687279157--fce9fc3b-fc26-42a2-a9ed-285077ccf203---The Next World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69bd8f041bd90a6b8471f963a3b07197.jpg" length="32172" type="image/jpeg"/>
-      <pubDate>Tue, 20 Jun 2023 12:39:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roberta Flack - Killing Me Softly With His Song (1 play)</title>
-      <link>https://www.last.fm/music/Roberta+Flack/_/Killing+Me+Softly+With+His+Song</link>
-      <guid isPermaLink="false">Frippertron-1687279501--5298bbcb-7330-49bf-a780-2d757f10a20a---Killing Me Softly With His Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56063622bc6cdeedbe4c472697e267ec.png" length="160294" type="image/png"/>
-      <pubDate>Tue, 20 Jun 2023 12:45:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roberta Flack - Jesse (1 play)</title>
-      <link>https://www.last.fm/music/Roberta+Flack/_/Jesse</link>
-      <guid isPermaLink="false">Frippertron-1687279791--5298bbcb-7330-49bf-a780-2d757f10a20a---Jesse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56063622bc6cdeedbe4c472697e267ec.png" length="160294" type="image/png"/>
-      <pubDate>Tue, 20 Jun 2023 12:49:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Jun 2023 07:52:28 +0000</lastBuildDate>
     <item>
       <title>Jerry Butler - Never Give You Up (6 plays)</title>
       <link>https://www.last.fm/music/Jerry+Butler/_/Never+Give+You+Up</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1687332620--66f8692c-966d-4dfb-a2ed-babf51241922---Chaldean Crossing</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
       <pubDate>Wed, 21 Jun 2023 03:30:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - The Lovers (97 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/The+Lovers</link>
+      <guid isPermaLink="false">Frippertron-1687333146--66f8692c-966d-4dfb-a2ed-babf51241922---The Lovers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
+      <pubDate>Wed, 21 Jun 2023 03:39:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Nimrod (11 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Nimrod</link>
+      <guid isPermaLink="false">Frippertron-1687333467--66f8692c-966d-4dfb-a2ed-babf51241922---Nimrod</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
+      <pubDate>Wed, 21 Jun 2023 03:44:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Albion Fair (62 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
+      <guid isPermaLink="false">Frippertron-1687333637--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
+      <pubDate>Wed, 21 Jun 2023 03:47:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
