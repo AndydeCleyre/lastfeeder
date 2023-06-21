@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jun 2023 15:53:10 +0000</lastBuildDate>
-    <item>
-      <title>Nelly - Lil Bit (5 plays)</title>
-      <link>https://www.last.fm/music/Nelly/_/Lil+Bit</link>
-      <guid isPermaLink="false">gameofmetal-1687287976--811900b2-68fc-4d41-8bad-69b7a1f4d628---Lil Bit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41a1f940f26f065177bf57eabe785c6f.png" length="160420" type="image/png"/>
-      <pubDate>Tue, 20 Jun 2023 15:06:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ellie Goulding - Sixteen (5 plays)</title>
-      <link>https://www.last.fm/music/Ellie+Goulding/_/Sixteen</link>
-      <guid isPermaLink="false">gameofmetal-1687288172--33ca19f4-18c8-4411-98df-ac23890ce9f5---Sixteen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f54d6eb958cc2e9789cc5e2dda29d1b3.jpg" length="37138" type="image/jpeg"/>
-      <pubDate>Tue, 20 Jun 2023 15:09:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Jun 2023 17:52:13 +0000</lastBuildDate>
     <item>
       <title>Khalid - Right Back (3 plays)</title>
       <link>https://www.last.fm/music/Khalid/_/Right+Back</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1687361729--20244d07-534f-4eff-b4d4-930878889970---All Too Well</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26231d970024c9fc9256af185959b0d6.jpg" length="16800" type="image/jpeg"/>
       <pubDate>Wed, 21 Jun 2023 11:35:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chris Stapleton - Traveller (1 play)</title>
+      <link>https://www.last.fm/music/Chris+Stapleton/_/Traveller</link>
+      <guid isPermaLink="false">gameofmetal-1687369452--71d58182-aa37-4c04-b21a-efe46ea0f221---Traveller</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2eec0e4218908c908edfb20c80ed2e3.png" length="143919" type="image/png"/>
+      <pubDate>Wed, 21 Jun 2023 13:44:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chris Stapleton - Fire Away (1 play)</title>
+      <link>https://www.last.fm/music/Chris+Stapleton/_/Fire+Away</link>
+      <guid isPermaLink="false">gameofmetal-1687369683--71d58182-aa37-4c04-b21a-efe46ea0f221---Fire Away</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2eec0e4218908c908edfb20c80ed2e3.png" length="143919" type="image/png"/>
+      <pubDate>Wed, 21 Jun 2023 13:48:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
