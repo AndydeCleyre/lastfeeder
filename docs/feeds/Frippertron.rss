@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jun 2023 07:15:22 +0000</lastBuildDate>
-    <item>
-      <title>Roy Wood - Life Is Wonderful (15 plays)</title>
-      <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
-      <guid isPermaLink="false">Frippertron-1687278528--Roy Wood---Life Is Wonderful</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
-      <pubDate>Tue, 20 Jun 2023 12:28:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Jun 2023 07:26:53 +0000</lastBuildDate>
     <item>
       <title>Roy Wood - On The Road Again (1 play)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/On+The+Road+Again</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1687331377--66f8692c-966d-4dfb-a2ed-babf51241922---O Salome</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017073b2445e401daebeae96368f1365.jpg" length="20967" type="image/jpeg"/>
       <pubDate>Wed, 21 Jun 2023 03:09:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Childe Roland (41 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Childe+Roland</link>
+      <guid isPermaLink="false">Frippertron-1687332186--66f8692c-966d-4dfb-a2ed-babf51241922---Childe Roland</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
+      <pubDate>Wed, 21 Jun 2023 03:23:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
