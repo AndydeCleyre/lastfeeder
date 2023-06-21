@@ -22,7 +22,7 @@ packaging==23.1
     # via black
 pathspec==0.11.1
     # via black
-platformdirs==3.6.0
+platformdirs==3.7.0
     # via black
 requests==2.31.0
     # via flit
