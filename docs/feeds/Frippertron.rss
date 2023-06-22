@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jun 2023 04:18:56 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - One And The Many (15 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/One+And+The+Many</link>
-      <guid isPermaLink="false">Frippertron-1687334625--66f8692c-966d-4dfb-a2ed-babf51241922---One And The Many</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Wed, 21 Jun 2023 04:03:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Mayday Galliard (237 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
-      <guid isPermaLink="false">Frippertron-1687335250--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Wed, 21 Jun 2023 04:14:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>Rah Band - Messages From The Stars (18 plays)</title>
-      <link>https://www.last.fm/music/Rah+Band/_/Messages+From+The+Stars</link>
-      <guid isPermaLink="false">Frippertron-1687335719--138f1987-bbb8-48b9-8d77-bf02576b0905---Messages From The Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
-      <pubDate>Wed, 21 Jun 2023 04:21:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jun 2023 04:37:30 +0000</lastBuildDate>
     <item>
       <title>Rah Band - Roll Me Down to Rio (6 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Roll+Me+Down+to+Rio</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1687406462--Sparks---La Dolce Vita</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20446a1d7ea9b6a965e32f63341a3a0f.jpg" length="14515" type="image/jpeg"/>
       <pubDate>Thu, 22 Jun 2023 00:01:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alexander O'Neal - Intro (1 play)</title>
+      <link>https://www.last.fm/music/Alexander+O%27Neal/_/Intro</link>
+      <guid isPermaLink="false">Frippertron-1687407917--fc4af92a-1aa8-4f35-9aea-29b2ecbe0779---Intro</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ecd8ee414a47a0490e5873ebb23719b.png" length="179546" type="image/png"/>
+      <pubDate>Thu, 22 Jun 2023 00:25:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alexander O'Neal - (What Can I Say) To Make You Love Me (1 play)</title>
+      <link>https://www.last.fm/music/Alexander+O%27Neal/_/(What+Can+I+Say)+To+Make+You+Love+Me</link>
+      <guid isPermaLink="false">Frippertron-1687407952--fc4af92a-1aa8-4f35-9aea-29b2ecbe0779---(What Can I Say) To Make You Love Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ecd8ee414a47a0490e5873ebb23719b.png" length="179546" type="image/png"/>
+      <pubDate>Thu, 22 Jun 2023 00:25:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Big Boy (12 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/Big+Boy</link>
+      <guid isPermaLink="false">Frippertron-1687408428--Sparks---Big Boy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/055b49ea6d004a8ce2e6fa4c6aa269f3.jpg" length="19254" type="image/jpeg"/>
+      <pubDate>Thu, 22 Jun 2023 00:33:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
