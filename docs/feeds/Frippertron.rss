@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 04:41:18 +0000</lastBuildDate>
-    <item>
-      <title>Eddie Kendricks - Just Memories (1 play)</title>
-      <link>https://www.last.fm/music/Eddie+Kendricks/_/Just+Memories</link>
-      <guid isPermaLink="false">Frippertron-1687420648--cf3ea6e9-c856-4737-a988-6b64cc9f2bf2---Just Memories</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d064df44d1f1234e9a6ad8b2637bed7b.jpg" length="15599" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jun 2023 03:57:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Wizzard - Meet Me at the Jailhouse (16 plays)</title>
-      <link>https://www.last.fm/music/Wizzard/_/Meet+Me+at+the+Jailhouse</link>
-      <guid isPermaLink="false">Frippertron-1687421005--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Meet Me at the Jailhouse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a45b75946338a2a120b54aca770c006.jpg" length="24083" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jun 2023 04:03:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jun 2023 04:53:23 +0000</lastBuildDate>
     <item>
       <title>Roy Wood - Any Old Time Will Do (7 plays)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/Any+Old+Time+Will+Do</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1687495108--Sparks---I Married a Martian</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434f52cffb06c0aaa4ad2838d0ece782.jpg" length="18939" type="image/jpeg"/>
       <pubDate>Fri, 23 Jun 2023 00:38:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - The Willys (3 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/The+Willys</link>
+      <guid isPermaLink="false">Frippertron-1687495409--Sparks---The Willys</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434f52cffb06c0aaa4ad2838d0ece782.jpg" length="18939" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jun 2023 00:43:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Don't Shoot Me (2 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/Don%27t+Shoot+Me</link>
+      <guid isPermaLink="false">Frippertron-1687495651--Sparks---Don't Shoot Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434f52cffb06c0aaa4ad2838d0ece782.jpg" length="18939" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jun 2023 00:47:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
