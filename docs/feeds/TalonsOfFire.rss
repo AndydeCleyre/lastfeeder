@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 20:19:28 +0000</lastBuildDate>
-    <item>
-      <title>Ainulindalë - By The Shore (2 plays)</title>
-      <link>https://www.last.fm/music/Ainulindal%C3%AB/_/By+The+Shore</link>
-      <guid isPermaLink="false">TalonsOfFire-1687440433--72ddf0eb-66ab-41d6-b995-7e03dab99bb4---By The Shore</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e9dbbe78f9f47bbc73441583dc48b9c.jpg" length="12647" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jun 2023 09:27:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Nest - Courting (3 plays)</title>
-      <link>https://www.last.fm/music/Nest/_/Courting</link>
-      <guid isPermaLink="false">TalonsOfFire-1687440729--a2b1a5f6-92d2-4039-8e55-47360a77957e---Courting</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jun 2023 09:32:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jun 2023 20:52:12 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Revontulet (2 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Revontulet</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1687551211--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Katve</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/743a883fb2cf4cf5cc07f776abe3fe38.png" length="74057" type="image/png"/>
       <pubDate>Fri, 23 Jun 2023 16:13:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Häie (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/H%C3%A4ie</link>
+      <guid isPermaLink="false">TalonsOfFire-1687551379--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Häie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d490734de747889de29c06dc509a4442.jpg" length="16013" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jun 2023 16:16:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Ciwenkierto (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Ciwenkierto</link>
+      <guid isPermaLink="false">TalonsOfFire-1687553170--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Ciwenkierto</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d490734de747889de29c06dc509a4442.jpg" length="16013" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jun 2023 16:46:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
