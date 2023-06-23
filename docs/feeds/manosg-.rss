@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 07:38:19 +0000</lastBuildDate>
-    <item>
-      <title>Queensrÿche - Walk in the Shadows (3 plays)</title>
-      <link>https://www.last.fm/music/Queensr%C3%BFche/_/Walk+in+the+Shadows</link>
-      <guid isPermaLink="false">manosg--1687108781--deeea939-7f89-4762-b09f-79269cd70d3b---Walk in the Shadows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f63cb5043c282ccf7122763a7ac21a0a.jpg" length="34549" type="image/jpeg"/>
-      <pubDate>Sun, 18 Jun 2023 13:19:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queensrÿche - I Dream In Infrared - Remastered (2 plays)</title>
-      <link>https://www.last.fm/music/Queensr%C3%BFche/_/I+Dream+In+Infrared+-+Remastered</link>
-      <guid isPermaLink="false">manosg--1687109015--Queensrÿche---I Dream In Infrared - Remastered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f63cb5043c282ccf7122763a7ac21a0a.jpg" length="34549" type="image/jpeg"/>
-      <pubDate>Sun, 18 Jun 2023 13:23:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jun 2023 07:52:42 +0000</lastBuildDate>
     <item>
       <title>Queensrÿche - The Whisper - Remastered (2 plays)</title>
       <link>https://www.last.fm/music/Queensr%C3%BFche/_/The+Whisper+-+Remastered</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1687505589--785e0891-9dd6-402d-9d3a-2458f5008974---Ghost From The Future</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41ed42e4ad80bd07bc688109f49a5902.jpg" length="27127" type="image/jpeg"/>
       <pubDate>Fri, 23 Jun 2023 03:33:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stray Gods - The Other Side Of The Mirror (1 play)</title>
+      <link>https://www.last.fm/music/Stray+Gods/_/The+Other+Side+Of+The+Mirror</link>
+      <guid isPermaLink="false">manosg--1687505838--785e0891-9dd6-402d-9d3a-2458f5008974---The Other Side Of The Mirror</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41ed42e4ad80bd07bc688109f49a5902.jpg" length="27127" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jun 2023 03:37:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stray Gods - The Sign (1 play)</title>
+      <link>https://www.last.fm/music/Stray+Gods/_/The+Sign</link>
+      <guid isPermaLink="false">manosg--1687506244--785e0891-9dd6-402d-9d3a-2458f5008974---The Sign</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41ed42e4ad80bd07bc688109f49a5902.jpg" length="27127" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jun 2023 03:44:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
