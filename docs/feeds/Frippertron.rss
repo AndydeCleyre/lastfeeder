@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jun 2023 08:40:51 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Houses of the Holy (44 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Houses+of+the+Holy</link>
-      <guid isPermaLink="false">Frippertron-1687488662--678d88b2-87b0-403b-b63d-5da7465aecc3---Houses of the Holy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Thu, 22 Jun 2023 22:51:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jun 2023 08:53:01 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - The Ocean (21 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/The+Ocean</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1687509253--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Arrow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
       <pubDate>Fri, 23 Jun 2023 04:34:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - The Sleepwalkers (23 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
+      <guid isPermaLink="false">Frippertron-1687509853--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
+      <pubDate>Fri, 23 Jun 2023 04:44:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
