@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 14:37:46 +0000</lastBuildDate>
-    <item>
-      <title>Tenhi - Varis Eloinen (2 plays)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Varis+Eloinen</link>
-      <guid isPermaLink="false">TalonsOfFire-1687463938--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Varis Eloinen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/743a883fb2cf4cf5cc07f776abe3fe38.png" length="74057" type="image/png"/>
-      <pubDate>Thu, 22 Jun 2023 15:58:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tenhi - Paluu Joelle (2 plays)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Paluu+Joelle</link>
-      <guid isPermaLink="false">TalonsOfFire-1687464273--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Paluu Joelle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/408b6414b383477fc7f37cad1b311609.jpg" length="9788" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jun 2023 16:04:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 16:43:38 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Sateen Soutu (2 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Sateen+Soutu</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1687616420--d14da7df-80bc-48fb-ab15-81db998b1c45---Walden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sat, 24 Jun 2023 10:20:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Haavard - Sørgemarsj (2 plays)</title>
+      <link>https://www.last.fm/music/Haavard/_/S%C3%B8rgemarsj</link>
+      <guid isPermaLink="false">TalonsOfFire-1687616801--Haavard---Sørgemarsj</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jun 2023 10:26:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Haavard - Niende Mars (2 plays)</title>
+      <link>https://www.last.fm/music/Haavard/_/Niende+Mars</link>
+      <guid isPermaLink="false">TalonsOfFire-1687624085--Haavard---Niende Mars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jun 2023 12:28:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
