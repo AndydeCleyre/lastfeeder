@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 23:17:39 +0000</lastBuildDate>
-    <item>
-      <title>Tenhi - Katve (2 plays)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Katve</link>
-      <guid isPermaLink="false">TalonsOfFire-1687551211--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Katve</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/743a883fb2cf4cf5cc07f776abe3fe38.png" length="74057" type="image/png"/>
-      <pubDate>Fri, 23 Jun 2023 16:13:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tenhi - Häie (1 play)</title>
-      <link>https://www.last.fm/music/Tenhi/_/H%C3%A4ie</link>
-      <guid isPermaLink="false">TalonsOfFire-1687551379--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Häie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d490734de747889de29c06dc509a4442.jpg" length="16013" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jun 2023 16:16:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 23:37:54 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Ciwenkierto (1 play)</title>
       <link>https://www.last.fm/music/Tenhi/_/Ciwenkierto</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1687647268--182430af-bc1c-4028-b2c8-37d77e0df225---Raivo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
       <pubDate>Sat, 24 Jun 2023 18:54:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Hauta (2 plays)</title>
+      <link>https://www.last.fm/music/Kauan/_/Hauta</link>
+      <guid isPermaLink="false">TalonsOfFire-1687647665--182430af-bc1c-4028-b2c8-37d77e0df225---Hauta</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jun 2023 19:01:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Valveuni (1 play)</title>
+      <link>https://www.last.fm/music/Kauan/_/Valveuni</link>
+      <guid isPermaLink="false">TalonsOfFire-1687648828--182430af-bc1c-4028-b2c8-37d77e0df225---Valveuni</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c5162c3500d6214ae88b7c024e97e2.jpg" length="20770" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jun 2023 19:20:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
