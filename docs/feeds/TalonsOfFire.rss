@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 14:15:44 +0000</lastBuildDate>
-    <item>
-      <title>Neun Welten - svartalfheim (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/svartalfheim</link>
-      <guid isPermaLink="false">TalonsOfFire-1687463216--d14da7df-80bc-48fb-ab15-81db998b1c45---svartalfheim</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jun 2023 15:46:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Haavard - Printemps (2 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Printemps</link>
-      <guid isPermaLink="false">TalonsOfFire-1687463350--Haavard---Printemps</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jun 2023 15:49:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dead Can Dance - Windfall - Remastered (2 plays)</title>
-      <link>https://www.last.fm/music/Dead+Can+Dance/_/Windfall+-+Remastered</link>
-      <guid isPermaLink="false">TalonsOfFire-1687463726--Dead Can Dance---Windfall - Remastered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d27eae4b258ac9d4fbf470a7a4174c4.png" length="126541" type="image/png"/>
-      <pubDate>Thu, 22 Jun 2023 15:55:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jun 2023 14:37:46 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Varis Eloinen (2 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Varis+Eloinen</link>
@@ -240,6 +219,13 @@
       <pubDate>Fri, 23 Jun 2023 20:10:24 -0400</pubDate>
     </item>
     <item>
+      <title>Kauan - Lapsenmuisto (7 plays)</title>
+      <link>https://www.last.fm/music/Kauan/_/Lapsenmuisto</link>
+      <guid isPermaLink="false">TalonsOfFire-1687569927--182430af-bc1c-4028-b2c8-37d77e0df225---Lapsenmuisto</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b44dfde133bafa07c45b07b3b1458607.jpg" length="4863" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jun 2023 21:25:27 -0400</pubDate>
+    </item>
+    <item>
       <title>Tenhi - Tuuli varista (1 play)</title>
       <link>https://www.last.fm/music/Tenhi/_/Tuuli+varista</link>
       <guid isPermaLink="false">TalonsOfFire-1687569945--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Tuuli varista</guid>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1687615403--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Haaksi</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/408b6414b383477fc7f37cad1b311609.jpg" length="9788" type="image/jpeg"/>
       <pubDate>Sat, 24 Jun 2023 10:03:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kauan - lahja (2 plays)</title>
+      <link>https://www.last.fm/music/Kauan/_/lahja</link>
+      <guid isPermaLink="false">TalonsOfFire-1687615817--182430af-bc1c-4028-b2c8-37d77e0df225---lahja</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b44dfde133bafa07c45b07b3b1458607.jpg" length="4863" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jun 2023 10:10:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Neun Welten - Walden (1 play)</title>
+      <link>https://www.last.fm/music/Neun+Welten/_/Walden</link>
+      <guid isPermaLink="false">TalonsOfFire-1687616420--d14da7df-80bc-48fb-ab15-81db998b1c45---Walden</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jun 2023 10:20:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
