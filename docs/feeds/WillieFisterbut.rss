@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jun 2023 12:35:54 +0000</lastBuildDate>
-    <item>
-      <title>Fear Factory - Difference Engine (9 plays)</title>
-      <link>https://www.last.fm/music/Fear+Factory/_/Difference+Engine</link>
-      <guid isPermaLink="false">WillieFisterbut-1687645632--c17f08f4-2542-46fb-97f3-3202d60c225a---Difference Engine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f42518c68b6e38596ae14b8a71bb9fd5.jpg" length="24779" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jun 2023 18:27:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jun 2023 16:43:27 +0000</lastBuildDate>
     <item>
       <title>Fear Factory - Disassemble (12 plays)</title>
       <link>https://www.last.fm/music/Fear+Factory/_/Disassemble</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">WillieFisterbut-1687663606--High Priest---Down in the Dark</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c428cdc7da7939184a7aeab70ff7c7e.jpg" length="21506" type="image/jpeg"/>
       <pubDate>Sat, 24 Jun 2023 23:26:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>High Priest - Universe (1 play)</title>
+      <link>https://www.last.fm/music/High+Priest/_/Universe</link>
+      <guid isPermaLink="false">WillieFisterbut-1687710828--High Priest---Universe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c428cdc7da7939184a7aeab70ff7c7e.jpg" length="21506" type="image/jpeg"/>
+      <pubDate>Sun, 25 Jun 2023 12:33:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
