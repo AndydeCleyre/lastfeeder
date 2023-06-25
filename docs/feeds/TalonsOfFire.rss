@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jun 2023 01:59:51 +0000</lastBuildDate>
-    <item>
-      <title>Kauan - Poissa (2 plays)</title>
-      <link>https://www.last.fm/music/Kauan/_/Poissa</link>
-      <guid isPermaLink="false">TalonsOfFire-1687555250--182430af-bc1c-4028-b2c8-37d77e0df225---Poissa</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b44dfde133bafa07c45b07b3b1458607.jpg" length="4863" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jun 2023 17:20:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tenhi - Soutu (2 plays)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Soutu</link>
-      <guid isPermaLink="false">TalonsOfFire-1687556188--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Soutu</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96c227063b4c77a6be9d7b430e2f9275.jpg" length="9840" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jun 2023 17:36:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tenhi - Salain (2 plays)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Salain</link>
-      <guid isPermaLink="false">TalonsOfFire-1687557038--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Salain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90c918c31b64a020b7dab16c46e86e2a.jpg" length="10158" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jun 2023 17:50:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jun 2023 20:38:20 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Keväin (3 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Kev%C3%A4in</link>
@@ -163,11 +142,18 @@
       <pubDate>Fri, 23 Jun 2023 22:15:47 -0400</pubDate>
     </item>
     <item>
-      <title>Tenhi - Sarastuskävijä (2 plays)</title>
+      <title>Tenhi - Sarastuskävijä (3 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Sarastusk%C3%A4vij%C3%A4</link>
       <guid isPermaLink="false">TalonsOfFire-1687573895--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Sarastuskävijä</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90c918c31b64a020b7dab16c46e86e2a.jpg" length="10158" type="image/jpeg"/>
       <pubDate>Fri, 23 Jun 2023 22:31:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Sarastuskävijä (3 plays)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Sarastusk%C3%A4vij%C3%A4</link>
+      <guid isPermaLink="false">TalonsOfFire-1687574633--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Sarastuskävijä</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90c918c31b64a020b7dab16c46e86e2a.jpg" length="10158" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jun 2023 22:43:53 -0400</pubDate>
     </item>
     <item>
       <title>Tenhi - Sarahdus (1 play)</title>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1687650904--182430af-bc1c-4028-b2c8-37d77e0df225---Föhn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c5162c3500d6214ae88b7c024e97e2.jpg" length="20770" type="image/jpeg"/>
       <pubDate>Sat, 24 Jun 2023 19:55:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Saattue (2 plays)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Saattue</link>
+      <guid isPermaLink="false">TalonsOfFire-1687724552--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Saattue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Sun, 25 Jun 2023 16:22:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Kesävihanta (2 plays)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Kes%C3%A4vihanta</link>
+      <guid isPermaLink="false">TalonsOfFire-1687724964--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Kesävihanta</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Sun, 25 Jun 2023 16:29:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
