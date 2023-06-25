@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jun 2023 17:52:40 +0000</lastBuildDate>
-    <item>
-      <title>aespa - Illusion (5 plays)</title>
-      <link>https://www.last.fm/music/aespa/_/Illusion</link>
-      <guid isPermaLink="false">rockijosh-1687655388--b51c672b-85e0-48fe-8648-470a2422229f---Illusion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72189e02274754c1a05c36fb4d428ba5.jpg" length="22693" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jun 2023 21:09:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>aespa - Spicy (4 plays)</title>
-      <link>https://www.last.fm/music/aespa/_/Spicy</link>
-      <guid isPermaLink="false">rockijosh-1687655583--b51c672b-85e0-48fe-8648-470a2422229f---Spicy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b96f9008abaa1134b17b8752abc3f78.jpg" length="28567" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jun 2023 21:13:03 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jun 2023 18:22:13 +0000</lastBuildDate>
     <item>
       <title>Red Velvet - Beautiful Christmas (2 plays)</title>
       <link>https://www.last.fm/music/Red+Velvet/_/Beautiful+Christmas</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1687715121--bbc5b66b-d037-4f26-aecf-0b129e7f876a---The Middle</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f6bed4795106f6a5ace9295accf4493.jpg" length="23106" type="image/jpeg"/>
       <pubDate>Sun, 25 Jun 2023 13:45:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jimmy Eat World - Your House (8 plays)</title>
+      <link>https://www.last.fm/music/Jimmy+Eat+World/_/Your+House</link>
+      <guid isPermaLink="false">rockijosh-1687715286--bbc5b66b-d037-4f26-aecf-0b129e7f876a---Your House</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f6bed4795106f6a5ace9295accf4493.jpg" length="23106" type="image/jpeg"/>
+      <pubDate>Sun, 25 Jun 2023 13:48:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jimmy Eat World - Sweetness (76 plays)</title>
+      <link>https://www.last.fm/music/Jimmy+Eat+World/_/Sweetness</link>
+      <guid isPermaLink="false">rockijosh-1687715573--bbc5b66b-d037-4f26-aecf-0b129e7f876a---Sweetness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f6bed4795106f6a5ace9295accf4493.jpg" length="23106" type="image/jpeg"/>
+      <pubDate>Sun, 25 Jun 2023 13:52:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
