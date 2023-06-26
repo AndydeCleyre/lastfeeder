@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jun 2023 07:18:41 +0000</lastBuildDate>
-    <item>
-      <title>Blue Magic - Sideshow (2 plays)</title>
-      <link>https://www.last.fm/music/Blue+Magic/_/Sideshow</link>
-      <guid isPermaLink="false">Frippertron-1687745990--367498bf-4cb2-4627-987d-f27b2e9d178f---Sideshow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef258b9ad276430c871a36033f6e3af1.jpg" length="20309" type="image/jpeg"/>
-      <pubDate>Sun, 25 Jun 2023 22:19:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Blue Magic - Look Me Up (2 plays)</title>
-      <link>https://www.last.fm/music/Blue+Magic/_/Look+Me+Up</link>
-      <guid isPermaLink="false">Frippertron-1687746244--367498bf-4cb2-4627-987d-f27b2e9d178f---Look Me Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef258b9ad276430c871a36033f6e3af1.jpg" length="20309" type="image/jpeg"/>
-      <pubDate>Sun, 25 Jun 2023 22:24:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jun 2023 07:37:32 +0000</lastBuildDate>
     <item>
       <title>Blue Magic - Welcome To The Club (6 plays)</title>
       <link>https://www.last.fm/music/Blue+Magic/_/Welcome+To+The+Club</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1687763714--Squid---If You Had Seen The Bull's Swimming Attempts You Would Have Stayed Away</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
       <pubDate>Mon, 26 Jun 2023 03:15:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Lemmings (36 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Lemmings</link>
+      <guid isPermaLink="false">Frippertron-1687764097--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
+      <pubDate>Mon, 26 Jun 2023 03:21:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Man-Erg (52 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Man-Erg</link>
+      <guid isPermaLink="false">Frippertron-1687764799--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Man-Erg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
+      <pubDate>Mon, 26 Jun 2023 03:33:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
