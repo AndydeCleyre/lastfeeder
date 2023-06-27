@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 18:40:54 +0000</lastBuildDate>
-    <item>
-      <title>Haavard - Sørgemarsj (2 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/S%C3%B8rgemarsj</link>
-      <guid isPermaLink="false">TalonsOfFire-1687616801--Haavard---Sørgemarsj</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jun 2023 10:26:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Haavard - Niende Mars (2 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Niende+Mars</link>
-      <guid isPermaLink="false">TalonsOfFire-1687624085--Haavard---Niende Mars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jun 2023 12:28:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jun 2023 18:52:48 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Siniset Runot (2 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Siniset+Runot</link>
@@ -58,7 +44,7 @@
       <pubDate>Sat, 24 Jun 2023 14:46:07 -0400</pubDate>
     </item>
     <item>
-      <title>Kauan - Ote</title>
+      <title>Kauan - Ote (2 plays)</title>
       <link>https://www.last.fm/music/Kauan/_/Ote</link>
       <guid isPermaLink="false">TalonsOfFire-1687640075--182430af-bc1c-4028-b2c8-37d77e0df225---Ote</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
@@ -352,11 +338,25 @@
       <pubDate>Tue, 27 Jun 2023 14:15:59 -0400</pubDate>
     </item>
     <item>
-      <title>Kauan - Siiville Nousu (Instrumental) (1 play)</title>
+      <title>Kauan - Siiville Nousu (Instrumental) (2 plays)</title>
       <link>https://www.last.fm/music/Kauan/_/Siiville+Nousu+(Instrumental)</link>
       <guid isPermaLink="false">TalonsOfFire-1687890205--182430af-bc1c-4028-b2c8-37d77e0df225---Siiville Nousu (Instrumental)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21fa949ba39e12d3867e43e7c47a0563.jpg" length="6308" type="image/jpeg"/>
       <pubDate>Tue, 27 Jun 2023 14:23:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Siiville Nousu (Instrumental) (2 plays)</title>
+      <link>https://www.last.fm/music/Kauan/_/Siiville+Nousu+(Instrumental)</link>
+      <guid isPermaLink="false">TalonsOfFire-1687890679--182430af-bc1c-4028-b2c8-37d77e0df225---Siiville Nousu (Instrumental)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21fa949ba39e12d3867e43e7c47a0563.jpg" length="6308" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jun 2023 14:31:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Lahja (Instrumental)</title>
+      <link>https://www.last.fm/music/Kauan/_/Lahja+(Instrumental)</link>
+      <guid isPermaLink="false">TalonsOfFire-1687891329--182430af-bc1c-4028-b2c8-37d77e0df225---Lahja (Instrumental)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21fa949ba39e12d3867e43e7c47a0563.jpg" length="6308" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jun 2023 14:42:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
