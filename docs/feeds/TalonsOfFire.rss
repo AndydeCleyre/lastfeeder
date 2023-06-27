@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 18:52:48 +0000</lastBuildDate>
-    <item>
-      <title>Tenhi - Siniset Runot (2 plays)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Siniset+Runot</link>
-      <guid isPermaLink="false">TalonsOfFire-1687624497--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Siniset Runot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/408b6414b383477fc7f37cad1b311609.jpg" length="9788" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jun 2023 12:34:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jun 2023 19:14:24 +0000</lastBuildDate>
     <item>
       <title>Ulver - Utreise (11 plays)</title>
       <link>https://www.last.fm/music/Ulver/_/Utreise</link>
@@ -352,11 +345,18 @@
       <pubDate>Tue, 27 Jun 2023 14:31:19 -0400</pubDate>
     </item>
     <item>
-      <title>Kauan - Lahja (Instrumental)</title>
+      <title>Kauan - Lahja (Instrumental) (1 play)</title>
       <link>https://www.last.fm/music/Kauan/_/Lahja+(Instrumental)</link>
       <guid isPermaLink="false">TalonsOfFire-1687891329--182430af-bc1c-4028-b2c8-37d77e0df225---Lahja (Instrumental)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21fa949ba39e12d3867e43e7c47a0563.jpg" length="6308" type="image/jpeg"/>
       <pubDate>Tue, 27 Jun 2023 14:42:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Nainen (Instrumental) (1 play)</title>
+      <link>https://www.last.fm/music/Kauan/_/Nainen+(Instrumental)</link>
+      <guid isPermaLink="false">TalonsOfFire-1687891960--182430af-bc1c-4028-b2c8-37d77e0df225---Nainen (Instrumental)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21fa949ba39e12d3867e43e7c47a0563.jpg" length="6308" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jun 2023 14:52:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
