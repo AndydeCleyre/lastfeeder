@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 14:17:02 +0000</lastBuildDate>
-    <item>
-      <title>Kauan - Nainen (3 plays)</title>
-      <link>https://www.last.fm/music/Kauan/_/Nainen</link>
-      <guid isPermaLink="false">TalonsOfFire-1687572260--182430af-bc1c-4028-b2c8-37d77e0df225---Nainen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b44dfde133bafa07c45b07b3b1458607.jpg" length="4863" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jun 2023 22:04:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>Haavard - Eastwood (2 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Eastwood</link>
-      <guid isPermaLink="false">TalonsOfFire-1687572564--Haavard---Eastwood</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jun 2023 22:09:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tenhi - Luo varjo (1 play)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Luo+varjo</link>
-      <guid isPermaLink="false">TalonsOfFire-1687572947--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Luo varjo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d490734de747889de29c06dc509a4442.jpg" length="16013" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jun 2023 22:15:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jun 2023 14:38:39 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Sarastuskävijä (2 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Sarastusk%C3%A4vij%C3%A4</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">TalonsOfFire-1687874976--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Hiensynty</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ca5103036b845fc94554588a53a8261.jpg" length="17470" type="image/jpeg"/>
       <pubDate>Tue, 27 Jun 2023 10:09:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Läheltä (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/L%C3%A4helt%C3%A4</link>
+      <guid isPermaLink="false">TalonsOfFire-1687875349--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Läheltä</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ca5103036b845fc94554588a53a8261.jpg" length="17470" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jun 2023 10:15:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Tuulennostatus (1 play)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Tuulennostatus</link>
+      <guid isPermaLink="false">TalonsOfFire-1687875774--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Tuulennostatus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c117927c4d541b3916bd842fbb73560.jpg" length="8640" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jun 2023 10:22:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Akva (7 plays)</title>
+      <link>https://www.last.fm/music/Kauan/_/Akva</link>
+      <guid isPermaLink="false">TalonsOfFire-1687875922--182430af-bc1c-4028-b2c8-37d77e0df225---Akva</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4823cdd7acba5475ae6b3b81cde57323.png" length="220173" type="image/png"/>
+      <pubDate>Tue, 27 Jun 2023 10:25:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
