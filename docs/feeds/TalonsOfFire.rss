@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 19:14:24 +0000</lastBuildDate>
-    <item>
-      <title>Ulver - Utreise (11 plays)</title>
-      <link>https://www.last.fm/music/Ulver/_/Utreise</link>
-      <guid isPermaLink="false">TalonsOfFire-1687626605--7d209631-ccb8-4a87-8516-64abe4c22dba---Utreise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f3071be2f834907e211218f32d2783d.jpg" length="35243" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jun 2023 13:10:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tenhi - Suortuva (2 plays)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Suortuva</link>
-      <guid isPermaLink="false">TalonsOfFire-1687626818--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Suortuva</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/743a883fb2cf4cf5cc07f776abe3fe38.png" length="74057" type="image/png"/>
-      <pubDate>Sat, 24 Jun 2023 13:13:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jun 2023 19:26:14 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Laule (1 play)</title>
       <link>https://www.last.fm/music/Tenhi/_/Laule</link>
@@ -93,11 +79,18 @@
       <pubDate>Sat, 24 Jun 2023 18:24:51 -0400</pubDate>
     </item>
     <item>
-      <title>Kauan - Raivo (2 plays)</title>
+      <title>Kauan - Raivo (3 plays)</title>
       <link>https://www.last.fm/music/Kauan/_/Raivo</link>
       <guid isPermaLink="false">TalonsOfFire-1687647268--182430af-bc1c-4028-b2c8-37d77e0df225---Raivo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
       <pubDate>Sat, 24 Jun 2023 18:54:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Raivo (3 plays)</title>
+      <link>https://www.last.fm/music/Kauan/_/Raivo</link>
+      <guid isPermaLink="false">TalonsOfFire-1687647663--182430af-bc1c-4028-b2c8-37d77e0df225---Raivo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ef178834592fb929978f4e9fdc3ace.jpg" length="14726" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jun 2023 19:01:03 -0400</pubDate>
     </item>
     <item>
       <title>Kauan - Hauta (2 plays)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1687891960--182430af-bc1c-4028-b2c8-37d77e0df225---Nainen (Instrumental)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21fa949ba39e12d3867e43e7c47a0563.jpg" length="6308" type="image/jpeg"/>
       <pubDate>Tue, 27 Jun 2023 14:52:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kauan - Sateen Huuhtoma (Instrumental) (1 play)</title>
+      <link>https://www.last.fm/music/Kauan/_/Sateen+Huuhtoma+(Instrumental)</link>
+      <guid isPermaLink="false">TalonsOfFire-1687893128--182430af-bc1c-4028-b2c8-37d77e0df225---Sateen Huuhtoma (Instrumental)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21fa949ba39e12d3867e43e7c47a0563.jpg" length="6308" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jun 2023 15:12:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
