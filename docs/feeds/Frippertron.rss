@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 03:52:25 +0000</lastBuildDate>
-    <item>
-      <title>Barry White - You're the First, the Last, My Everything (5 plays)</title>
-      <link>https://www.last.fm/music/Barry+White/_/You%27re+the+First,+the+Last,+My+Everything</link>
-      <guid isPermaLink="false">Frippertron-1687762473--b904d624-9e05-4398-8f4f-88fbcf022f79---You're the First, the Last, My Everything</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b8e5468b72b4c0db007d648b64fe19e.jpg" length="27115" type="image/jpeg"/>
-      <pubDate>Mon, 26 Jun 2023 02:54:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jun 2023 04:22:06 +0000</lastBuildDate>
     <item>
       <title>Barry White - Never Never Gonna Give Ya Up (7 plays)</title>
       <link>https://www.last.fm/music/Barry+White/_/Never+Never+Gonna+Give+Ya+Up</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1687837572--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ascending Forth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
       <pubDate>Mon, 26 Jun 2023 23:46:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Fallen Angel (92 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Fallen+Angel</link>
+      <guid isPermaLink="false">Frippertron-1687838203--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Fallen Angel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 26 Jun 2023 23:56:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
