@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jun 2023 04:41:05 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - You Don't Have to Camp Around (66 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/You+Don%27t+Have+to+Camp+Around</link>
-      <guid isPermaLink="false">Frippertron-1687855248--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---You Don't Have to Camp Around</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58a0b35dae94252478938e42d6afbc94.jpg" length="44490" type="image/jpeg"/>
-      <pubDate>Tue, 27 Jun 2023 04:40:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Todd Rundgren - Flamingo (105 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Flamingo</link>
-      <guid isPermaLink="false">Frippertron-1687855315--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Flamingo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58a0b35dae94252478938e42d6afbc94.jpg" length="44490" type="image/jpeg"/>
-      <pubDate>Tue, 27 Jun 2023 04:41:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jun 2023 04:53:06 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Zen Archer (155 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Zen+Archer</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1687926632--4ef24a03-45e8-40b3-b780-955bec848555---Be For Real</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f53f1dce79db4df2cd641477703b9f3d.jpg" length="19841" type="image/jpeg"/>
       <pubDate>Wed, 28 Jun 2023 00:30:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Dick Around (1 play)</title>
+      <link>https://www.last.fm/music/Sparks/_/Dick+Around</link>
+      <guid isPermaLink="false">Frippertron-1687927139--Sparks---Dick Around</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03ca12b4566a483789d91d254e49edc7.png" length="160443" type="image/png"/>
+      <pubDate>Wed, 28 Jun 2023 00:38:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Perfume (1 play)</title>
+      <link>https://www.last.fm/music/Sparks/_/Perfume</link>
+      <guid isPermaLink="false">Frippertron-1687927535--Sparks---Perfume</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03ca12b4566a483789d91d254e49edc7.png" length="160443" type="image/png"/>
+      <pubDate>Wed, 28 Jun 2023 00:45:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
