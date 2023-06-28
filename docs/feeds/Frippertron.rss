@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jun 2023 08:23:19 +0000</lastBuildDate>
-    <item>
-      <title>Sparks - Veronica Lake (4 plays)</title>
-      <link>https://www.last.fm/music/Sparks/_/Veronica+Lake</link>
-      <guid isPermaLink="false">Frippertron-1687919842--Sparks---Veronica Lake</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e6c910e23cd6bfa4973e9398d0a2f3.jpg" length="19296" type="image/jpeg"/>
-      <pubDate>Tue, 27 Jun 2023 22:37:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sparks - Nothing Is as Good as They Say It Is (4 plays)</title>
-      <link>https://www.last.fm/music/Sparks/_/Nothing+Is+as+Good+as+They+Say+It+Is</link>
-      <guid isPermaLink="false">Frippertron-1687920026--Sparks---Nothing Is as Good as They Say It Is</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91e6c910e23cd6bfa4973e9398d0a2f3.jpg" length="19296" type="image/jpeg"/>
-      <pubDate>Tue, 27 Jun 2023 22:40:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jun 2023 08:41:01 +0000</lastBuildDate>
     <item>
       <title>Sparks - Escalator (4 plays)</title>
       <link>https://www.last.fm/music/Sparks/_/Escalator</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1687940340--Genesis---Entangled</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
       <pubDate>Wed, 28 Jun 2023 04:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Squonk (59 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Squonk</link>
+      <guid isPermaLink="false">Frippertron-1687940729--Genesis---Squonk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Wed, 28 Jun 2023 04:25:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Mad Man Moon (44 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Mad+Man+Moon</link>
+      <guid isPermaLink="false">Frippertron-1687941120--Genesis---Mad Man Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee97a7c0e884ca6cc0da389481fafe8.png" length="163979" type="image/png"/>
+      <pubDate>Wed, 28 Jun 2023 04:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
