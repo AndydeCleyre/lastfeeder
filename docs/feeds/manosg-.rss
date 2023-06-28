@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jun 2023 11:15:04 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Your Gold Teeth (2 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Your+Gold+Teeth</link>
-      <guid isPermaLink="false">manosg--1687769325--e01c3376-15fa-40d7-b747-5f219bdefdd7---Your Gold Teeth</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
-      <pubDate>Mon, 26 Jun 2023 04:48:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Show Biz Kids (2 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Show+Biz+Kids</link>
-      <guid isPermaLink="false">manosg--1687769743--e01c3376-15fa-40d7-b747-5f219bdefdd7---Show Biz Kids</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
-      <pubDate>Mon, 26 Jun 2023 04:55:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jun 2023 11:39:00 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - My Old School (2 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/My+Old+School</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1687949281--MDXX---Decimation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9346796934a5f4123e7ff1055a413d.jpg" length="10240" type="image/jpeg"/>
       <pubDate>Wed, 28 Jun 2023 06:48:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>MDXX - Interlude (1 play)</title>
+      <link>https://www.last.fm/music/MDXX/_/Interlude</link>
+      <guid isPermaLink="false">manosg--1687949577--MDXX---Interlude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9346796934a5f4123e7ff1055a413d.jpg" length="10240" type="image/jpeg"/>
+      <pubDate>Wed, 28 Jun 2023 06:52:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>MDXX - Submission (1 play)</title>
+      <link>https://www.last.fm/music/MDXX/_/Submission</link>
+      <guid isPermaLink="false">manosg--1687951933--MDXX---Submission</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9346796934a5f4123e7ff1055a413d.jpg" length="10240" type="image/jpeg"/>
+      <pubDate>Wed, 28 Jun 2023 07:32:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
