@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jun 2023 10:40:36 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Bodhisattva (2 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Bodhisattva</link>
-      <guid isPermaLink="false">manosg--1687761676--e01c3376-15fa-40d7-b747-5f219bdefdd7---Bodhisattva</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
-      <pubDate>Mon, 26 Jun 2023 02:41:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Razor Boy (3 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Razor+Boy</link>
-      <guid isPermaLink="false">manosg--1687763303--e01c3376-15fa-40d7-b747-5f219bdefdd7---Razor Boy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
-      <pubDate>Mon, 26 Jun 2023 03:08:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jun 2023 10:52:42 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - The Boston Rag (2 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/The+Boston+Rag</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1687948355--MDXX---Gasbreather</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9346796934a5f4123e7ff1055a413d.jpg" length="10240" type="image/jpeg"/>
       <pubDate>Wed, 28 Jun 2023 06:32:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>MDXX - Oblivion (1 play)</title>
+      <link>https://www.last.fm/music/MDXX/_/Oblivion</link>
+      <guid isPermaLink="false">manosg--1687948707--MDXX---Oblivion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9346796934a5f4123e7ff1055a413d.jpg" length="10240" type="image/jpeg"/>
+      <pubDate>Wed, 28 Jun 2023 06:38:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>MDXX - Enforcer (1 play)</title>
+      <link>https://www.last.fm/music/MDXX/_/Enforcer</link>
+      <guid isPermaLink="false">manosg--1687948966--MDXX---Enforcer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a9346796934a5f4123e7ff1055a413d.jpg" length="10240" type="image/jpeg"/>
+      <pubDate>Wed, 28 Jun 2023 06:42:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
