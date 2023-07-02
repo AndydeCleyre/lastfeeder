@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 12:33:58 +0000</lastBuildDate>
-    <item>
-      <title>Evereve - Spleen (18 plays)</title>
-      <link>https://www.last.fm/music/Evereve/_/Spleen</link>
-      <guid isPermaLink="false">WillieFisterbut-1688144140--a062327d-628f-46c2-9ec9-78340be3b283---Spleen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c81b6c141dae44f69bf64671a034440e.png" length="175950" type="image/png"/>
-      <pubDate>Fri, 30 Jun 2023 12:55:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Evereve - Kolyma (20 plays)</title>
-      <link>https://www.last.fm/music/Evereve/_/Kolyma</link>
-      <guid isPermaLink="false">WillieFisterbut-1688144355--a062327d-628f-46c2-9ec9-78340be3b283---Kolyma</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1891be6f5ea1a5e300e35058f83fcadb.jpg" length="32709" type="image/jpeg"/>
-      <pubDate>Fri, 30 Jun 2023 12:59:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jul 2023 14:29:25 +0000</lastBuildDate>
     <item>
       <title>Delacey - Dandelions (1 play)</title>
       <link>https://www.last.fm/music/Delacey/_/Dandelions</link>
@@ -145,10 +131,11 @@
       <title>The Cure - Jupiter Crash (live) (1 play)</title>
       <link>https://www.last.fm/music/The+Cure/_/Jupiter+Crash+(live)</link>
       <guid isPermaLink="false">WillieFisterbut-1688166159--69ee3720-a7cb-4402-b48d-a02c366f2bcf---Jupiter Crash (live)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a4a0508525d83e06a5a01fe415c5bc7.jpg" length="15910" type="image/jpeg"/>
       <pubDate>Fri, 30 Jun 2023 19:02:39 -0400</pubDate>
     </item>
     <item>
-      <title>Blackbriar - Cicada (1 play)</title>
+      <title>Blackbriar - Cicada (2 plays)</title>
       <link>https://www.last.fm/music/Blackbriar/_/Cicada</link>
       <guid isPermaLink="false">WillieFisterbut-1688219499--737e886f-a1e4-49ac-a229-0ed5a72e5e45---Cicada</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f782c7fd215947d801fbd613cffacdb.png" length="162015" type="image/png"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">WillieFisterbut-1688242248--f0eed6bf-9b1b-4454-8595-ef9d990883d8---The Dreamer and his Dream</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5809a6da6aaf1683f95f582fdb601b3.jpg" length="15963" type="image/jpeg"/>
       <pubDate>Sat, 01 Jul 2023 16:10:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Anchoret - Until The Sun Illuminates (2 plays)</title>
+      <link>https://www.last.fm/music/The+Anchoret/_/Until+The+Sun+Illuminates</link>
+      <guid isPermaLink="false">WillieFisterbut-1688307093--The Anchoret---Until The Sun Illuminates</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b1bb52f69721b4701b5cfc91591a970.jpg" length="20399" type="image/jpeg"/>
+      <pubDate>Sun, 02 Jul 2023 10:11:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Blackbriar - Cicada (2 plays)</title>
+      <link>https://www.last.fm/music/Blackbriar/_/Cicada</link>
+      <guid isPermaLink="false">WillieFisterbut-1688307748--737e886f-a1e4-49ac-a229-0ed5a72e5e45---Cicada</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f782c7fd215947d801fbd613cffacdb.png" length="162015" type="image/png"/>
+      <pubDate>Sun, 02 Jul 2023 10:22:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
