@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jul 2023 19:14:03 +0000</lastBuildDate>
-    <item>
-      <title>Queen - We Are the Champions (29 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/We+Are+the+Champions</link>
-      <guid isPermaLink="false">Frippertron-1688103428--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---We Are the Champions</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 30 Jun 2023 01:37:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - God Save the Queen (31 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/God+Save+the+Queen</link>
-      <guid isPermaLink="false">Frippertron-1688103643--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---God Save the Queen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 30 Jun 2023 01:40:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jul 2023 19:25:36 +0000</lastBuildDate>
     <item>
       <title>Squid - Swing (In A Dream) (20 plays)</title>
       <link>https://www.last.fm/music/Squid/_/Swing+(In+A+Dream)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1688325003--da247416-48ef-4f40-a855-3d5526a35190---Come Down in Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8443cff2395d558757209c1e5c9bc0f.jpg" length="22573" type="image/jpeg"/>
       <pubDate>Sun, 02 Jul 2023 15:10:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Radka Toneff &amp; Steve Dobrogosz - My Funny Valentine (1 play)</title>
+      <link>https://www.last.fm/music/Radka+Toneff+&amp;+Steve+Dobrogosz/_/My+Funny+Valentine</link>
+      <guid isPermaLink="false">Frippertron-1688325277--da247416-48ef-4f40-a855-3d5526a35190---My Funny Valentine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8443cff2395d558757209c1e5c9bc0f.jpg" length="22573" type="image/jpeg"/>
+      <pubDate>Sun, 02 Jul 2023 15:14:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stylistics - People Make The World Go Round (1 play)</title>
+      <link>https://www.last.fm/music/The+Stylistics/_/People+Make+The+World+Go+Round</link>
+      <guid isPermaLink="false">Frippertron-1688325626--b3edafa8-0a78-40b9-9404-c6fc1920d2be---People Make The World Go Round</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ec7a2c77a1e680c1fc8dc80b23bb550a.jpg" length="32820" type="image/jpeg"/>
+      <pubDate>Sun, 02 Jul 2023 15:20:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
