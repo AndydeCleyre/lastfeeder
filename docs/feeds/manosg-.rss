@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jul 2023 07:37:36 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Sign In Stranger (6 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Sign+In+Stranger</link>
-      <guid isPermaLink="false">manosg--1688121285--e01c3376-15fa-40d7-b747-5f219bdefdd7---Sign In Stranger</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
-      <pubDate>Fri, 30 Jun 2023 06:34:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - The Fez (6 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/The+Fez</link>
-      <guid isPermaLink="false">manosg--1688121549--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Fez</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
-      <pubDate>Fri, 30 Jun 2023 06:39:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Green Earrings (6 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Green+Earrings</link>
-      <guid isPermaLink="false">manosg--1688121792--e01c3376-15fa-40d7-b747-5f219bdefdd7---Green Earrings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
-      <pubDate>Fri, 30 Jun 2023 06:43:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jul 2023 07:52:23 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Haitian Divorce (6 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Haitian+Divorce</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1688369479--57961a97-3796-4bf7-9f02-a985a8979ae9---Lawman</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de33f758cc9b4854c813cc975e57cb35.png" length="191339" type="image/png"/>
       <pubDate>Mon, 03 Jul 2023 03:31:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Motörhead - Sweet Revenge (6 plays)</title>
+      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Sweet+Revenge</link>
+      <guid isPermaLink="false">manosg--1688369726--57961a97-3796-4bf7-9f02-a985a8979ae9---Sweet Revenge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de33f758cc9b4854c813cc975e57cb35.png" length="191339" type="image/png"/>
+      <pubDate>Mon, 03 Jul 2023 03:35:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Motörhead - Sharpshooter (6 plays)</title>
+      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Sharpshooter</link>
+      <guid isPermaLink="false">manosg--1688370110--57961a97-3796-4bf7-9f02-a985a8979ae9---Sharpshooter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de33f758cc9b4854c813cc975e57cb35.png" length="191339" type="image/png"/>
+      <pubDate>Mon, 03 Jul 2023 03:41:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Motörhead - Poison (6 plays)</title>
+      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Poison</link>
+      <guid isPermaLink="false">manosg--1688370309--57961a97-3796-4bf7-9f02-a985a8979ae9---Poison</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de33f758cc9b4854c813cc975e57cb35.png" length="191339" type="image/png"/>
+      <pubDate>Mon, 03 Jul 2023 03:45:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
