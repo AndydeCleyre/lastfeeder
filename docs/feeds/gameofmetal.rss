@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jul 2023 15:38:31 +0000</lastBuildDate>
-    <item>
-      <title>State Champs - Act Like That (8 plays)</title>
-      <link>https://www.last.fm/music/State+Champs/_/Act+Like+That</link>
-      <guid isPermaLink="false">gameofmetal-1688248844--e2e9df76-a950-4b8b-b3d1-981624470657---Act Like That</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c6c5ad9cfda58f99fbe3d12298c17f8.jpg" length="33721" type="image/jpeg"/>
-      <pubDate>Sat, 01 Jul 2023 18:00:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ghost Bath - Golden Number (6 plays)</title>
-      <link>https://www.last.fm/music/Ghost+Bath/_/Golden+Number</link>
-      <guid isPermaLink="false">gameofmetal-1688249393--b9b1d6e0-2920-4d21-bdeb-546a032d7dd7---Golden Number</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d8fa1ac6dec4183c19a033ee3ac2647.png" length="92364" type="image/png"/>
-      <pubDate>Sat, 01 Jul 2023 18:09:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dayseeker - Waking Is Rising (6 plays)</title>
-      <link>https://www.last.fm/music/Dayseeker/_/Waking+Is+Rising</link>
-      <guid isPermaLink="false">gameofmetal-1688249673--d9a9b6aa-c5c5-40dc-95ec-0bff029245c0---Waking Is Rising</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f241c49ae9ff907fc553217fc4d8f8d1.jpg" length="15705" type="image/jpeg"/>
-      <pubDate>Sat, 01 Jul 2023 18:14:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jul 2023 15:52:12 +0000</lastBuildDate>
     <item>
       <title>Dayseeker - Dreamstate (43 plays)</title>
       <link>https://www.last.fm/music/Dayseeker/_/Dreamstate</link>
@@ -310,7 +289,7 @@
       <pubDate>Mon, 03 Jul 2023 21:45:06 -0400</pubDate>
     </item>
     <item>
-      <title>Lainey Wilson - Heart Like a Truck (19 plays)</title>
+      <title>Lainey Wilson - Heart Like a Truck (20 plays)</title>
       <link>https://www.last.fm/music/Lainey+Wilson/_/Heart+Like+a+Truck</link>
       <guid isPermaLink="false">gameofmetal-1688481049--a6e613d6-ff65-4972-beff-303a1b10ab05---Heart Like a Truck</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fe8f8103e271e193b0842bc6db50ff8.png" length="125954" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">gameofmetal-1688484679--779d1126-e48c-43f2-8b51-005f3b116d7e---Penthouse</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0565e1d32bdc8621a3893988ee38d6bd.jpg" length="13647" type="image/jpeg"/>
       <pubDate>Tue, 04 Jul 2023 11:31:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gretchen Wilson - Redneck Woman (4 plays)</title>
+      <link>https://www.last.fm/music/Gretchen+Wilson/_/Redneck+Woman</link>
+      <guid isPermaLink="false">gameofmetal-1688485083--11d9fc14-e6ac-4c50-81e7-062dd82566ce---Redneck Woman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43b3439fdd4a40cec010a363bc94bc4d.jpg" length="27562" type="image/jpeg"/>
+      <pubDate>Tue, 04 Jul 2023 11:38:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lainey Wilson - Heart Like a Truck (20 plays)</title>
+      <link>https://www.last.fm/music/Lainey+Wilson/_/Heart+Like+a+Truck</link>
+      <guid isPermaLink="false">gameofmetal-1688485095--a6e613d6-ff65-4972-beff-303a1b10ab05---Heart Like a Truck</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fe8f8103e271e193b0842bc6db50ff8.png" length="125954" type="image/png"/>
+      <pubDate>Tue, 04 Jul 2023 11:38:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Khalid - Paradise (3 plays)</title>
+      <link>https://www.last.fm/music/Khalid/_/Paradise</link>
+      <guid isPermaLink="false">gameofmetal-1688485664--28737730-ec70-4da5-89c5-77ac13c5c34d---Paradise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20536b4149df70b97dca0e6374a608a3.jpg" length="18809" type="image/jpeg"/>
+      <pubDate>Tue, 04 Jul 2023 11:47:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
