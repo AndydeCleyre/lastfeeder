@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 18:22:06 +0000</lastBuildDate>
-    <item>
-      <title>Sigur Rós - Mór (3 plays)</title>
-      <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/M%C3%B3r</link>
-      <guid isPermaLink="false">TalonsOfFire-1687962384--f6f2326f-6b25-4170-b89d-e235b25508e8---Mór</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d07b423b5075165cbc723376475e078.jpg" length="12773" type="image/jpeg"/>
-      <pubDate>Wed, 28 Jun 2023 10:26:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sigur Rós - Klettur (3 plays)</title>
-      <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/Klettur</link>
-      <guid isPermaLink="false">TalonsOfFire-1687962384--f6f2326f-6b25-4170-b89d-e235b25508e8---Klettur</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d07b423b5075165cbc723376475e078.jpg" length="12773" type="image/jpeg"/>
-      <pubDate>Wed, 28 Jun 2023 10:26:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jul 2023 18:52:41 +0000</lastBuildDate>
     <item>
       <title>Sigur Rós - Mór (3 plays)</title>
       <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/M%C3%B3r</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1688667098--4bd95eea-b9f6-4d70-a36c-cfea77431553---Choke</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/053e076d94934bcba4bcb620cdd97915.jpg" length="8314" type="image/jpeg"/>
       <pubDate>Thu, 06 Jul 2023 14:11:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alice in Chains - All Secrets Known (2 plays)</title>
+      <link>https://www.last.fm/music/Alice+in+Chains/_/All+Secrets+Known</link>
+      <guid isPermaLink="false">TalonsOfFire-1688668848--4bd95eea-b9f6-4d70-a36c-cfea77431553---All Secrets Known</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b2d281a99b648a0a9fb38bfffd68817.png" length="149793" type="image/png"/>
+      <pubDate>Thu, 06 Jul 2023 14:40:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alice in Chains - Check My Brain (5 plays)</title>
+      <link>https://www.last.fm/music/Alice+in+Chains/_/Check+My+Brain</link>
+      <guid isPermaLink="false">TalonsOfFire-1688669129--4bd95eea-b9f6-4d70-a36c-cfea77431553---Check My Brain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b2d281a99b648a0a9fb38bfffd68817.png" length="149793" type="image/png"/>
+      <pubDate>Thu, 06 Jul 2023 14:45:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
