@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 15:19:54 +0000</lastBuildDate>
-    <item>
-      <title>Paul McCartney - 3 Legs - Remastered 2012 (2 plays)</title>
-      <link>https://www.last.fm/music/Paul+McCartney/_/3+Legs+-+Remastered+2012</link>
-      <guid isPermaLink="false">manosg--1688544758--Paul McCartney---3 Legs - Remastered 2012</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56a3dc32cdceee45a49b20cf5a97313a.jpg" length="35538" type="image/jpeg"/>
-      <pubDate>Wed, 05 Jul 2023 04:12:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Paul McCartney - Ram On - Remastered 2012 (5 plays)</title>
-      <link>https://www.last.fm/music/Paul+McCartney/_/Ram+On+-+Remastered+2012</link>
-      <guid isPermaLink="false">manosg--1688544908--Paul McCartney---Ram On - Remastered 2012</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56a3dc32cdceee45a49b20cf5a97313a.jpg" length="35538" type="image/jpeg"/>
-      <pubDate>Wed, 05 Jul 2023 04:15:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jul 2023 16:25:38 +0000</lastBuildDate>
     <item>
       <title>Paul McCartney - Dear Boy - 2012 Remaster (2 plays)</title>
       <link>https://www.last.fm/music/Paul+McCartney/_/Dear+Boy+-+2012+Remaster</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1688655822--938df0a0-c650-4cf8-9b23-5ad8a5cb4805---Darkstalker</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4896034934247629945a381ee87a02a.png" length="173853" type="image/png"/>
       <pubDate>Thu, 06 Jul 2023 11:03:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bohren &amp; der Club of Gore - Nightwolf (1 play)</title>
+      <link>https://www.last.fm/music/Bohren+&amp;+der+Club+of+Gore/_/Nightwolf</link>
+      <guid isPermaLink="false">manosg--1688656165--938df0a0-c650-4cf8-9b23-5ad8a5cb4805---Nightwolf</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4896034934247629945a381ee87a02a.png" length="173853" type="image/png"/>
+      <pubDate>Thu, 06 Jul 2023 11:09:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bohren &amp; der Club of Gore - Black City Skyline (1 play)</title>
+      <link>https://www.last.fm/music/Bohren+&amp;+der+Club+of+Gore/_/Black+City+Skyline</link>
+      <guid isPermaLink="false">manosg--1688658955--938df0a0-c650-4cf8-9b23-5ad8a5cb4805---Black City Skyline</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4896034934247629945a381ee87a02a.png" length="173853" type="image/png"/>
+      <pubDate>Thu, 06 Jul 2023 11:55:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
