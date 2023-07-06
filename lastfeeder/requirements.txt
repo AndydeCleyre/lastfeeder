@@ -1,4 +1,4 @@
-anyio==3.7.0
+anyio==3.7.1
     # via httpcore
 babel==2.12.1
     # via delorean
@@ -14,7 +14,7 @@ feedgen==0.9.0
     # via -r requirements.in
 h11==0.14.0
     # via httpcore
-httpcore==0.17.2
+httpcore==0.17.3
     # via httpx
 httpx==0.24.1
     # via -r requirements.in
@@ -24,7 +24,7 @@ idna==3.4
     # via
     #   anyio
     #   httpx
-lxml==4.9.2
+lxml==4.9.3
     # via feedgen
 plumbum==1.8.2
     # via -r requirements.in
