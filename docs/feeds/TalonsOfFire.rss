@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 19:26:47 +0000</lastBuildDate>
-    <item>
-      <title>Sigur Rós - Ylur (3 plays)</title>
-      <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/Ylur</link>
-      <guid isPermaLink="false">TalonsOfFire-1687963647--f6f2326f-6b25-4170-b89d-e235b25508e8---Ylur</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d07b423b5075165cbc723376475e078.jpg" length="12773" type="image/jpeg"/>
-      <pubDate>Wed, 28 Jun 2023 10:47:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sigur Rós - Fall (3 plays)</title>
-      <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/Fall</link>
-      <guid isPermaLink="false">TalonsOfFire-1687963854--f6f2326f-6b25-4170-b89d-e235b25508e8---Fall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d07b423b5075165cbc723376475e078.jpg" length="12773" type="image/jpeg"/>
-      <pubDate>Wed, 28 Jun 2023 10:50:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jul 2023 19:38:51 +0000</lastBuildDate>
     <item>
       <title>Sigur Rós - 8 (3 plays)</title>
       <link>https://www.last.fm/music/Sigur+R%C3%B3s/_/8</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1688671331--4bd95eea-b9f6-4d70-a36c-cfea77431553---Take Her Out</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b2d281a99b648a0a9fb38bfffd68817.png" length="149793" type="image/png"/>
       <pubDate>Thu, 06 Jul 2023 15:22:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alice in Chains - Private Hell (7 plays)</title>
+      <link>https://www.last.fm/music/Alice+in+Chains/_/Private+Hell</link>
+      <guid isPermaLink="false">TalonsOfFire-1688671590--4bd95eea-b9f6-4d70-a36c-cfea77431553---Private Hell</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b2d281a99b648a0a9fb38bfffd68817.png" length="149793" type="image/png"/>
+      <pubDate>Thu, 06 Jul 2023 15:26:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alice in Chains - Black Gives Way to Blue (11 plays)</title>
+      <link>https://www.last.fm/music/Alice+in+Chains/_/Black+Gives+Way+to+Blue</link>
+      <guid isPermaLink="false">TalonsOfFire-1688671927--4bd95eea-b9f6-4d70-a36c-cfea77431553---Black Gives Way to Blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b2d281a99b648a0a9fb38bfffd68817.png" length="149793" type="image/png"/>
+      <pubDate>Thu, 06 Jul 2023 15:32:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
