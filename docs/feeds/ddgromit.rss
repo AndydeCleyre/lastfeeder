@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jul 2023 21:52:33 +0000</lastBuildDate>
-    <item>
-      <title>Phoria - Current (10 plays)</title>
-      <link>https://www.last.fm/music/Phoria/_/Current</link>
-      <guid isPermaLink="false">ddgromit-1688747907--42775679-dbc0-421c-b63b-9119ed42c91e---Current</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/091c3fe353b75979f6b23e5f063d52e2.jpg" length="4268" type="image/jpeg"/>
-      <pubDate>Fri, 07 Jul 2023 12:38:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jul 2023 22:16:51 +0000</lastBuildDate>
     <item>
       <title>Federico Albanese - Sand And Castles (3 plays)</title>
       <link>https://www.last.fm/music/Federico+Albanese/_/Sand+And+Castles</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1688766530--The Echelon Effect---Goodbye Sierra</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02615a2467312bf23c43ca8596356332.jpg" length="18346" type="image/jpeg"/>
       <pubDate>Fri, 07 Jul 2023 17:48:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Emancipator - Pancakes (1 play)</title>
+      <link>https://www.last.fm/music/Emancipator/_/Pancakes</link>
+      <guid isPermaLink="false">ddgromit-1688766690--aa1d4315-5246-42b2-b62b-f997d046d8b2---Pancakes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdc2f8b1e2c7ca5869d027b7097842d0.jpg" length="28366" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jul 2023 17:51:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
