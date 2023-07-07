@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jul 2023 19:52:23 +0000</lastBuildDate>
-    <item>
-      <title>Philip G Anderson - Frost - Remastered 2021 (3 plays)</title>
-      <link>https://www.last.fm/music/Philip+G+Anderson/_/Frost+-+Remastered+2021</link>
-      <guid isPermaLink="false">ddgromit-1688677330--Philip G Anderson---Frost - Remastered 2021</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 06 Jul 2023 17:02:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cooper Sams - Enchanted Eden (3 plays)</title>
-      <link>https://www.last.fm/music/Cooper+Sams/_/Enchanted+Eden</link>
-      <guid isPermaLink="false">ddgromit-1688677496--Cooper Sams---Enchanted Eden</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 06 Jul 2023 17:04:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jul 2023 21:15:42 +0000</lastBuildDate>
     <item>
       <title>Robot Koch - Dragonfly (3 plays)</title>
       <link>https://www.last.fm/music/Robot+Koch/_/Dragonfly</link>
@@ -89,6 +75,7 @@
       <title>Federico Albanese - Sand And Castles (3 plays)</title>
       <link>https://www.last.fm/music/Federico+Albanese/_/Sand+And+Castles</link>
       <guid isPermaLink="false">ddgromit-1688748259--ec046e44-a52d-41bc-b83a-9ec4ade74e06---Sand And Castles</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3caa677e56d9a7df88a8babd92d4b856.jpg" length="9200" type="image/jpeg"/>
       <pubDate>Fri, 07 Jul 2023 12:44:19 -0400</pubDate>
     </item>
     <item>
@@ -291,6 +278,7 @@
       <title>Yoste - Calcifer (6 plays)</title>
       <link>https://www.last.fm/music/Yoste/_/Calcifer</link>
       <guid isPermaLink="false">ddgromit-1688756714--c5a97b1d-a833-4ce7-b989-677f264f73cc---Calcifer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3cc4cade8df4badbe2fdf1ffcf690fd.jpg" length="14706" type="image/jpeg"/>
       <pubDate>Fri, 07 Jul 2023 15:05:14 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1688758768--d877b2d5-5b6f-4020-a2c1-25c44dbbaf94---What You Love You Must Love Now</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb9e1f00277ba0b0766fe2361bbc0e8e.jpg" length="28172" type="image/jpeg"/>
       <pubDate>Fri, 07 Jul 2023 15:39:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Emancipator - Goodness (1 play)</title>
+      <link>https://www.last.fm/music/Emancipator/_/Goodness</link>
+      <guid isPermaLink="false">ddgromit-1688759091--aa1d4315-5246-42b2-b62b-f997d046d8b2---Goodness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdc2f8b1e2c7ca5869d027b7097842d0.jpg" length="28366" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jul 2023 15:44:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Infralyd - Tára (1 play)</title>
+      <link>https://www.last.fm/music/Infralyd/_/T%C3%A1ra</link>
+      <guid isPermaLink="false">ddgromit-1688764045--Infralyd---Tára</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d18b59cd96be3d88e808d568723af9ce.jpg" length="14480" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jul 2023 17:07:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
