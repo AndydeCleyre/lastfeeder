@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 22:17:09 +0000</lastBuildDate>
-    <item>
-      <title>Slowdive - Everyone Knows (1 play)</title>
-      <link>https://www.last.fm/music/Slowdive/_/Everyone+Knows</link>
-      <guid isPermaLink="false">Arcade1996-1688462212--a16371b9-7d36-497a-a9d4-42b0a0440c5e---Everyone Knows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdf14b43ab53c9d3895ad1c2d8584730.jpg" length="15130" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jul 2023 05:16:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Slowdive - kisses (1 play)</title>
-      <link>https://www.last.fm/music/Slowdive/_/kisses</link>
-      <guid isPermaLink="false">Arcade1996-1688462452--a16371b9-7d36-497a-a9d4-42b0a0440c5e---kisses</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/605784a9b4c6a274f81c0268882a67db.jpg" length="43522" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jul 2023 05:20:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Slowdive - No Longer Making Time (2 plays)</title>
-      <link>https://www.last.fm/music/Slowdive/_/No+Longer+Making+Time</link>
-      <guid isPermaLink="false">Arcade1996-1688462800--a16371b9-7d36-497a-a9d4-42b0a0440c5e---No Longer Making Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdf14b43ab53c9d3895ad1c2d8584730.jpg" length="15130" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jul 2023 05:26:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Slowdive - Go Get It (1 play)</title>
-      <link>https://www.last.fm/music/Slowdive/_/Go+Get+It</link>
-      <guid isPermaLink="false">Arcade1996-1688463170--a16371b9-7d36-497a-a9d4-42b0a0440c5e---Go Get It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdf14b43ab53c9d3895ad1c2d8584730.jpg" length="15130" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jul 2023 05:32:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jul 2023 07:16:50 +0000</lastBuildDate>
     <item>
       <title>Slowdive - Falling Ashes (2 plays)</title>
       <link>https://www.last.fm/music/Slowdive/_/Falling+Ashes</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Arcade1996-1688680439--d786f59b-1836-4ddb-8393-ab753edbe984---Amoeba</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be523fc19f625e62d046d9d07c0a0d42.jpg" length="10128" type="image/jpeg"/>
       <pubDate>Thu, 06 Jul 2023 17:53:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>ANOHNI - It Must Change (2 plays)</title>
+      <link>https://www.last.fm/music/ANOHNI/_/It+Must+Change</link>
+      <guid isPermaLink="false">Arcade1996-1688713242--91b67275-db2c-4fc2-b51f-82978aeb5c41---It Must Change</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a688d05864acadaa7ca4249b13308bb.png" length="156692" type="image/png"/>
+      <pubDate>Fri, 07 Jul 2023 03:00:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>ANOHNI - Go Ahead (1 play)</title>
+      <link>https://www.last.fm/music/ANOHNI/_/Go+Ahead</link>
+      <guid isPermaLink="false">Arcade1996-1688713537--ANOHNI---Go Ahead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a688d05864acadaa7ca4249b13308bb.png" length="156692" type="image/png"/>
+      <pubDate>Fri, 07 Jul 2023 03:05:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>ANOHNI - Sliver of Ice (2 plays)</title>
+      <link>https://www.last.fm/music/ANOHNI/_/Sliver+of+Ice</link>
+      <guid isPermaLink="false">Arcade1996-1688713628--91b67275-db2c-4fc2-b51f-82978aeb5c41---Sliver of Ice</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a688d05864acadaa7ca4249b13308bb.png" length="156692" type="image/png"/>
+      <pubDate>Fri, 07 Jul 2023 03:07:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>ANOHNI - Can’t</title>
+      <link>https://www.last.fm/music/ANOHNI/_/Can%E2%80%99t</link>
+      <guid isPermaLink="false">Arcade1996-1688713849--ANOHNI---Can’t</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a688d05864acadaa7ca4249b13308bb.png" length="156692" type="image/png"/>
+      <pubDate>Fri, 07 Jul 2023 03:10:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
