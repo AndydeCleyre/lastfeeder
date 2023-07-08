@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 18:39:39 +0000</lastBuildDate>
-    <item>
-      <title>Against the Current - that won't save us (24 plays)</title>
-      <link>https://www.last.fm/music/Against+the+Current/_/that+won%27t+save+us</link>
-      <guid isPermaLink="false">rockijosh-1688769675--c40a79e9-3b9e-492e-9469-0e5b952ad3e1---that won't save us</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72fb7a54b2abfe85e954de0c1bc8627f.jpg" length="26872" type="image/jpeg"/>
-      <pubDate>Fri, 07 Jul 2023 18:41:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Arcane - Oil and Water (1 play)</title>
-      <link>https://www.last.fm/music/Arcane/_/Oil+and+Water</link>
-      <guid isPermaLink="false">rockijosh-1688769876--Arcane---Oil and Water</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7dbad6094d0f21bc7cf9d82f8c36b5ea.jpg" length="19445" type="image/jpeg"/>
-      <pubDate>Fri, 07 Jul 2023 18:44:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Jul 2023 18:52:23 +0000</lastBuildDate>
     <item>
       <title>Lorde - Everybody Wants to Rule the World (1 play)</title>
       <link>https://www.last.fm/music/Lorde/_/Everybody+Wants+to+Rule+the+World</link>
@@ -96,6 +82,7 @@
       <title>Luke Bryan - I Don't Want This Night to End (3 plays)</title>
       <link>https://www.last.fm/music/Luke+Bryan/_/I+Don%27t+Want+This+Night+to+End</link>
       <guid isPermaLink="false">rockijosh-1688822701--aab35942-f176-4f77-bbf9-1d6aa98ccf3f---I Don't Want This Night to End</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/895ec2917447472ca97125fb3bf96deb.png" length="193017" type="image/png"/>
       <pubDate>Sat, 08 Jul 2023 09:25:01 -0400</pubDate>
     </item>
     <item>
@@ -155,7 +142,7 @@
       <pubDate>Sat, 08 Jul 2023 11:27:46 -0400</pubDate>
     </item>
     <item>
-      <title>Hop Along - Not Abel (46 plays)</title>
+      <title>Hop Along - Not Abel (47 plays)</title>
       <link>https://www.last.fm/music/Hop+Along/_/Not+Abel</link>
       <guid isPermaLink="false">rockijosh-1688830287--91640d9b-b077-4271-9fb7-84f3ea543f24---Not Abel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25a71dbb4b5d6c11f4473b5fbcb3240c.jpg" length="32245" type="image/jpeg"/>
@@ -295,7 +282,7 @@
       <pubDate>Sat, 08 Jul 2023 13:00:30 -0400</pubDate>
     </item>
     <item>
-      <title>Mimi Webb - Red Flags (4 plays)</title>
+      <title>Mimi Webb - Red Flags (5 plays)</title>
       <link>https://www.last.fm/music/Mimi+Webb/_/Red+Flags</link>
       <guid isPermaLink="false">rockijosh-1688835768--2cf8b9dd-33d6-4dce-bd5c-d0cf20ec5fb4---Red Flags</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e83825c1332f0cdd6f06e923a8b4fdb9.jpg" length="19790" type="image/jpeg"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1688841015--370bd5a3-4abf-4356-8576-3a8fc0c11d65---Vlekno</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5b9ca35b18661cea0581d095c9311b4.jpg" length="28491" type="image/jpeg"/>
       <pubDate>Sat, 08 Jul 2023 14:30:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mimi Webb - Red Flags (5 plays)</title>
+      <link>https://www.last.fm/music/Mimi+Webb/_/Red+Flags</link>
+      <guid isPermaLink="false">rockijosh-1688841499--2cf8b9dd-33d6-4dce-bd5c-d0cf20ec5fb4---Red Flags</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e83825c1332f0cdd6f06e923a8b4fdb9.jpg" length="19790" type="image/jpeg"/>
+      <pubDate>Sat, 08 Jul 2023 14:38:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hop Along - Not Abel (47 plays)</title>
+      <link>https://www.last.fm/music/Hop+Along/_/Not+Abel</link>
+      <guid isPermaLink="false">rockijosh-1688841642--91640d9b-b077-4271-9fb7-84f3ea543f24---Not Abel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25a71dbb4b5d6c11f4473b5fbcb3240c.jpg" length="32245" type="image/jpeg"/>
+      <pubDate>Sat, 08 Jul 2023 14:40:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
