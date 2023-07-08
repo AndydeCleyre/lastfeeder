@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 14:41:55 +0000</lastBuildDate>
-    <item>
-      <title>Jimi Hendrix - Freedom (1 play)</title>
-      <link>https://www.last.fm/music/Jimi+Hendrix/_/Freedom</link>
-      <guid isPermaLink="false">Arcade1996-1688632543--06fb1c8b-566e-4cb2-985b-b467c90781d4---Freedom</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29278b09bfb349e28d05cfd03dfedb27.jpg" length="39196" type="image/jpeg"/>
-      <pubDate>Thu, 06 Jul 2023 04:35:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Jul 2023 14:53:45 +0000</lastBuildDate>
     <item>
       <title>Roy Ayers Ubiquity - Everybody Loves The Sunshine (1 play)</title>
       <link>https://www.last.fm/music/Roy+Ayers+Ubiquity/_/Everybody+Loves+The+Sunshine</link>
@@ -310,7 +303,7 @@
       <pubDate>Fri, 07 Jul 2023 10:59:46 -0400</pubDate>
     </item>
     <item>
-      <title>Stars of the Lid - The Evil That Never Arrived (1 play)</title>
+      <title>Stars of the Lid - The Evil That Never Arrived (2 plays)</title>
       <link>https://www.last.fm/music/Stars+of+the+Lid/_/The+Evil+That+Never+Arrived</link>
       <guid isPermaLink="false">Arcade1996-1688742469--a1154343-1ea1-4007-97d3-2382482a90cd---The Evil That Never Arrived</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e6ab6c1cfc6486d9638bee94db1aac4.png" length="98843" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1688826760--Stars of the Lid---Articulate Silences, Pt. 2</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e6ab6c1cfc6486d9638bee94db1aac4.png" length="98843" type="image/png"/>
       <pubDate>Sat, 08 Jul 2023 10:32:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stars of the Lid - The Evil That Never Arrived (2 plays)</title>
+      <link>https://www.last.fm/music/Stars+of+the+Lid/_/The+Evil+That+Never+Arrived</link>
+      <guid isPermaLink="false">Arcade1996-1688827096--a1154343-1ea1-4007-97d3-2382482a90cd---The Evil That Never Arrived</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e6ab6c1cfc6486d9638bee94db1aac4.png" length="98843" type="image/png"/>
+      <pubDate>Sat, 08 Jul 2023 10:38:16 -0400</pubDate>
     </item>
   </channel>
 </rss>
