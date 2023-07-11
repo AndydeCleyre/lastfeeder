@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jul 2023 10:20:06 +0000</lastBuildDate>
-    <item>
-      <title>Kelly Clarkson - Heartbeat Song (17 plays)</title>
-      <link>https://www.last.fm/music/Kelly+Clarkson/_/Heartbeat+Song</link>
-      <guid isPermaLink="false">rockijosh-1688915799--d339efbb-77b9-4147-ba9e-59f2f24550b2---Heartbeat Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/673377e42efa4c87ccf4e832156fe34a.png" length="160097" type="image/png"/>
-      <pubDate>Sun, 09 Jul 2023 11:16:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>Shinedown - Atlas Falls (98 plays)</title>
-      <link>https://www.last.fm/music/Shinedown/_/Atlas+Falls</link>
-      <guid isPermaLink="false">rockijosh-1688915993--adc0f033-95c2-4e0b-87bc-c23ed3f26ce6---Atlas Falls</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38e0144ebf8d9cc269881c2ba6372ce6.png" length="99018" type="image/png"/>
-      <pubDate>Sun, 09 Jul 2023 11:19:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jul 2023 10:41:32 +0000</lastBuildDate>
     <item>
       <title>Magdalena Bay - Top Dog (23 plays)</title>
       <link>https://www.last.fm/music/Magdalena+Bay/_/Top+Dog</link>
@@ -145,12 +131,14 @@
       <title>Charlotte Cardin - Dirty Dirty (96 plays)</title>
       <link>https://www.last.fm/music/Charlotte+Cardin/_/Dirty+Dirty</link>
       <guid isPermaLink="false">rockijosh-1688919983--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Dirty Dirty</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a65aba7f05156350056a8045b19fb802.jpg" length="10921" type="image/jpeg"/>
       <pubDate>Sun, 09 Jul 2023 12:26:23 -0400</pubDate>
     </item>
     <item>
       <title>Charlotte Cardin - Dirty Dirty (96 plays)</title>
       <link>https://www.last.fm/music/Charlotte+Cardin/_/Dirty+Dirty</link>
       <guid isPermaLink="false">rockijosh-1688920707--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Dirty Dirty</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a65aba7f05156350056a8045b19fb802.jpg" length="10921" type="image/jpeg"/>
       <pubDate>Sun, 09 Jul 2023 12:38:27 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1689069946--Wiccan Babysitter---They Don't Know</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/579638a8db7e87707f641db31e7f8903.jpg" length="20835" type="image/jpeg"/>
       <pubDate>Tue, 11 Jul 2023 06:05:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Caroline Polachek - Sunset (46 plays)</title>
+      <link>https://www.last.fm/music/Caroline+Polachek/_/Sunset</link>
+      <guid isPermaLink="false">rockijosh-1689070997--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Sunset</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4bc4106e849c1d1926bb66ae6536c980.jpg" length="11836" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jul 2023 06:23:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Abir - Inferno (68 plays)</title>
+      <link>https://www.last.fm/music/Abir/_/Inferno</link>
+      <guid isPermaLink="false">rockijosh-1689071560--b0b4ef2a-d71a-497d-881d-ed7659dc7675---Inferno</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8eaa6f957e49465d2b0364417051841.jpg" length="21004" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jul 2023 06:32:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
