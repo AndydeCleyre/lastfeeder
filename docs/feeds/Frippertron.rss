@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jul 2023 07:17:41 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Win (50 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Win</link>
-      <guid isPermaLink="false">Frippertron-1689042180--5441c29d-3602-4898-b1a1-b77fa23b8e50---Win</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 10 Jul 2023 22:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Right (57 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Right</link>
-      <guid isPermaLink="false">Frippertron-1689042484--5441c29d-3602-4898-b1a1-b77fa23b8e50---Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 10 Jul 2023 22:28:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roy Wood - Life Is Wonderful (30 plays)</title>
-      <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
-      <guid isPermaLink="false">Frippertron-1689042755--Roy Wood---Life Is Wonderful</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
-      <pubDate>Mon, 10 Jul 2023 22:32:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Squid - Swing (In A Dream) (21 plays)</title>
-      <link>https://www.last.fm/music/Squid/_/Swing+(In+A+Dream)</link>
-      <guid isPermaLink="false">Frippertron-1689043303--Squid---Swing (In A Dream)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
-      <pubDate>Mon, 10 Jul 2023 22:41:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jul 2023 07:37:26 +0000</lastBuildDate>
     <item>
       <title>Squid - Devil's Den (10 plays)</title>
       <link>https://www.last.fm/music/Squid/_/Devil%27s+Den</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1689059737--Hall &amp; Oates---Private Eyes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
       <pubDate>Tue, 11 Jul 2023 03:15:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hall &amp; Oates - You Make My Dreams (54 plays)</title>
+      <link>https://www.last.fm/music/Hall+&amp;+Oates/_/You+Make+My+Dreams</link>
+      <guid isPermaLink="false">Frippertron-1689059949--Hall &amp; Oates---You Make My Dreams</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jul 2023 03:19:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Daryl Hall - Sacred Songs (51 plays)</title>
+      <link>https://www.last.fm/music/Daryl+Hall/_/Sacred+Songs</link>
+      <guid isPermaLink="false">Frippertron-1689060139--31a4c5ca-1899-4a44-a4b1-31e1921ddf17---Sacred Songs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee9a75e33bb2ec5f742bf9bbf496bf0a.jpg" length="21503" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jul 2023 03:22:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Daryl Hall - Something In 4/4 Time (38 plays)</title>
+      <link>https://www.last.fm/music/Daryl+Hall/_/Something+In+4%2F4+Time</link>
+      <guid isPermaLink="false">Frippertron-1689060337--31a4c5ca-1899-4a44-a4b1-31e1921ddf17---Something In 4/4 Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee9a75e33bb2ec5f742bf9bbf496bf0a.jpg" length="21503" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jul 2023 03:25:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Daryl Hall - Babs and Babs (22 plays)</title>
+      <link>https://www.last.fm/music/Daryl+Hall/_/Babs+and+Babs</link>
+      <guid isPermaLink="false">Frippertron-1689060601--31a4c5ca-1899-4a44-a4b1-31e1921ddf17---Babs and Babs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee9a75e33bb2ec5f742bf9bbf496bf0a.jpg" length="21503" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jul 2023 03:30:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
