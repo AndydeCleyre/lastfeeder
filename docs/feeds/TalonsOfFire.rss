@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jul 2023 20:18:44 +0000</lastBuildDate>
-    <item>
-      <title>Alice in Chains - Choke (3 plays)</title>
-      <link>https://www.last.fm/music/Alice+in+Chains/_/Choke</link>
-      <guid isPermaLink="false">TalonsOfFire-1688667098--4bd95eea-b9f6-4d70-a36c-cfea77431553---Choke</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/053e076d94934bcba4bcb620cdd97915.jpg" length="8314" type="image/jpeg"/>
-      <pubDate>Thu, 06 Jul 2023 14:11:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Alice in Chains - All Secrets Known (2 plays)</title>
-      <link>https://www.last.fm/music/Alice+in+Chains/_/All+Secrets+Known</link>
-      <guid isPermaLink="false">TalonsOfFire-1688668848--4bd95eea-b9f6-4d70-a36c-cfea77431553---All Secrets Known</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b2d281a99b648a0a9fb38bfffd68817.png" length="149793" type="image/png"/>
-      <pubDate>Thu, 06 Jul 2023 14:40:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jul 2023 19:26:18 +0000</lastBuildDate>
     <item>
       <title>Alice in Chains - Check My Brain (5 plays)</title>
       <link>https://www.last.fm/music/Alice+in+Chains/_/Check+My+Brain</link>
@@ -352,11 +338,24 @@
       <pubDate>Tue, 11 Jul 2023 16:06:32 -0400</pubDate>
     </item>
     <item>
-      <title>Porcupine Tree - Half-Light - Live (2 plays)</title>
+      <title>Porcupine Tree - Half-Light - Live (3 plays)</title>
       <link>https://www.last.fm/music/Porcupine+Tree/_/Half-Light+-+Live</link>
       <guid isPermaLink="false">TalonsOfFire-1689106312--Porcupine Tree---Half-Light - Live</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06e30222524286894678212af77abff1.jpg" length="9600" type="image/jpeg"/>
       <pubDate>Tue, 11 Jul 2023 16:11:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Porcupine Tree - Half-Light - Live (3 plays)</title>
+      <link>https://www.last.fm/music/Porcupine+Tree/_/Half-Light+-+Live</link>
+      <guid isPermaLink="false">TalonsOfFire-1689106641--Porcupine Tree---Half-Light - Live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06e30222524286894678212af77abff1.jpg" length="9600" type="image/jpeg"/>
+      <pubDate>Tue, 11 Jul 2023 16:17:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Porcupine Tree - Even Less - Live (1 play)</title>
+      <link>https://www.last.fm/music/Porcupine+Tree/_/Even+Less+-+Live</link>
+      <guid isPermaLink="false">TalonsOfFire-1689189461--Porcupine Tree---Even Less - Live</guid>
+      <pubDate>Wed, 12 Jul 2023 15:17:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
