@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jul 2023 05:38:11 +0000</lastBuildDate>
-    <item>
-      <title>T. Rex - Ride A White Swan (23 plays)</title>
-      <link>https://www.last.fm/music/T.+Rex/_/Ride+A+White+Swan</link>
-      <guid isPermaLink="false">Frippertron-1689066240--c842d29f-a297-48cd-bb71-4f77fd672b16---Ride A White Swan</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e21b14d121dc1318f614930fd295325.jpg" length="20337" type="image/jpeg"/>
-      <pubDate>Tue, 11 Jul 2023 05:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gentle Giant - Playing the Game (18 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/Playing+the+Game</link>
-      <guid isPermaLink="false">Frippertron-1689066412--f795c501-1c41-4be2-bc2a-875eba75aa31---Playing the Game</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc0cc5c317dd44fdba829ce907f50544.jpg" length="32135" type="image/jpeg"/>
-      <pubDate>Tue, 11 Jul 2023 05:06:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jul 2023 05:52:21 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - The Thrill of It All (82 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/The+Thrill+of+It+All</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1689139204--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Death on Two Legs (Dedicated to...)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
       <pubDate>Wed, 12 Jul 2023 01:20:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Just the Same (91 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Just+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1689140474--f795c501-1c41-4be2-bc2a-875eba75aa31---Just the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8664d6383fbcca63f51d2a402f7064ff.jpg" length="23722" type="image/jpeg"/>
+      <pubDate>Wed, 12 Jul 2023 01:41:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Playing the Game (19 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Playing+the+Game</link>
+      <guid isPermaLink="false">Frippertron-1689140769--f795c501-1c41-4be2-bc2a-875eba75aa31---Playing the Game</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8664d6383fbcca63f51d2a402f7064ff.jpg" length="23722" type="image/jpeg"/>
+      <pubDate>Wed, 12 Jul 2023 01:46:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
