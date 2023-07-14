@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jul 2023 07:52:40 +0000</lastBuildDate>
-    <item>
-      <title>Samson - Vice Versa (1 play)</title>
-      <link>https://www.last.fm/music/Samson/_/Vice+Versa</link>
-      <guid isPermaLink="false">manosg--1688985657--df38c0f9-aea2-425c-bd92-8d2e101fadd6---Vice Versa</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9e52e4c76fc0677358961739b5a4eec.jpg" length="15606" type="image/jpeg"/>
-      <pubDate>Mon, 10 Jul 2023 06:40:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jul 2023 14:52:39 +0000</lastBuildDate>
     <item>
       <title>Cinderella - Push Push (4 plays)</title>
       <link>https://www.last.fm/music/Cinderella/_/Push+Push</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1689319686--Grand Funk Railroad---In Need - Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f1839a76fb367c30531754b0a6cc87d.jpg" length="22314" type="image/jpeg"/>
       <pubDate>Fri, 14 Jul 2023 03:28:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grand Funk Railroad - Winter And My Soul - Remastered (1 play)</title>
+      <link>https://www.last.fm/music/Grand+Funk+Railroad/_/Winter+And+My+Soul+-+Remastered</link>
+      <guid isPermaLink="false">manosg--1689320454--Grand Funk Railroad---Winter And My Soul - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f1839a76fb367c30531754b0a6cc87d.jpg" length="22314" type="image/jpeg"/>
+      <pubDate>Fri, 14 Jul 2023 03:40:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
