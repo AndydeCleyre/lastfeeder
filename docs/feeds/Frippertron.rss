@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jul 2023 05:17:48 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - Black Napkins (6 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/Black+Napkins</link>
-      <guid isPermaLink="false">Frippertron-1689236149--e20747e7-55a4-452e-8766-7b985585082d---Black Napkins</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62ad20134bf9636f74b15af171a68469.jpg" length="31978" type="image/jpeg"/>
-      <pubDate>Thu, 13 Jul 2023 04:15:49 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jul 2023 05:38:06 +0000</lastBuildDate>
     <item>
       <title>Frank Zappa - The Grand Wazoo (8 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/The+Grand+Wazoo</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1689311557--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---Group Dancers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bc10681bd024639b45806f4ca797f2c.png" length="165923" type="image/png"/>
       <pubDate>Fri, 14 Jul 2023 01:12:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Charles Mingus - Trio And Group Dancers (6 plays)</title>
+      <link>https://www.last.fm/music/Charles+Mingus/_/Trio+And+Group+Dancers</link>
+      <guid isPermaLink="false">Frippertron-1689312001--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---Trio And Group Dancers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bc10681bd024639b45806f4ca797f2c.png" length="165923" type="image/png"/>
+      <pubDate>Fri, 14 Jul 2023 01:20:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
