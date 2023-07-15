@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jul 2023 09:37:26 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - The Duke Of Prunes (26 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/The+Duke+Of+Prunes</link>
-      <guid isPermaLink="false">Frippertron-1689318448--e20747e7-55a4-452e-8766-7b985585082d---The Duke Of Prunes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71675a9817a6c51d703dc8517c63004d.jpg" length="29316" type="image/jpeg"/>
-      <pubDate>Fri, 14 Jul 2023 03:07:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Frank Zappa - Amnesia Vivace (23 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/Amnesia+Vivace</link>
-      <guid isPermaLink="false">Frippertron-1689318582--e20747e7-55a4-452e-8766-7b985585082d---Amnesia Vivace</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71675a9817a6c51d703dc8517c63004d.jpg" length="29316" type="image/jpeg"/>
-      <pubDate>Fri, 14 Jul 2023 03:09:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jul 2023 09:52:20 +0000</lastBuildDate>
     <item>
       <title>Frank Zappa - The Duke Regains His Chops (25 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/The+Duke+Regains+His+Chops</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1689413455--169c0d1b-fcb8-4a43-9097-829aa7b39205---Street Woman</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd882855ed46cd8d8d4ca5a6d6b6e1be.png" length="123525" type="image/png"/>
       <pubDate>Sat, 15 Jul 2023 05:30:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ornette Coleman - Science Fiction (2 plays)</title>
+      <link>https://www.last.fm/music/Ornette+Coleman/_/Science+Fiction</link>
+      <guid isPermaLink="false">Frippertron-1689413743--169c0d1b-fcb8-4a43-9097-829aa7b39205---Science Fiction</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd882855ed46cd8d8d4ca5a6d6b6e1be.png" length="123525" type="image/png"/>
+      <pubDate>Sat, 15 Jul 2023 05:35:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ornette Coleman - Rock The Clock (2 plays)</title>
+      <link>https://www.last.fm/music/Ornette+Coleman/_/Rock+The+Clock</link>
+      <guid isPermaLink="false">Frippertron-1689414046--169c0d1b-fcb8-4a43-9097-829aa7b39205---Rock The Clock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd882855ed46cd8d8d4ca5a6d6b6e1be.png" length="123525" type="image/png"/>
+      <pubDate>Sat, 15 Jul 2023 05:40:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
