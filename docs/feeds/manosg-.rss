@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jul 2023 17:15:29 +0000</lastBuildDate>
-    <item>
-      <title>Nirvana - Milk It (1 play)</title>
-      <link>https://www.last.fm/music/Nirvana/_/Milk+It</link>
-      <guid isPermaLink="false">manosg--1689520224--Nirvana---Milk It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6420b8799f9f3cbc6aa9b0854e140a2e.png" length="134718" type="image/png"/>
-      <pubDate>Sun, 16 Jul 2023 11:10:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Saxon - Princess of the Night (9 plays)</title>
-      <link>https://www.last.fm/music/Saxon/_/Princess+of+the+Night</link>
-      <guid isPermaLink="false">manosg--1689616445--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Princess of the Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75783c7382dd4e5191e606ac23b57b98.jpg" length="28111" type="image/jpeg"/>
-      <pubDate>Mon, 17 Jul 2023 13:54:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jul 2023 17:29:17 +0000</lastBuildDate>
     <item>
       <title>Saxon - Never Surrender (8 plays)</title>
       <link>https://www.last.fm/music/Saxon/_/Never+Surrender</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1689700220--Thin Lizzy---Romeo and the Lonely Girl</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6da2e4c2760944ee97b77c160041c4a0.jpg" length="32370" type="image/jpeg"/>
       <pubDate>Tue, 18 Jul 2023 13:10:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Thin Lizzy - Warriors (5 plays)</title>
+      <link>https://www.last.fm/music/Thin+Lizzy/_/Warriors</link>
+      <guid isPermaLink="false">manosg--1689700458--Thin Lizzy---Warriors</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6da2e4c2760944ee97b77c160041c4a0.jpg" length="32370" type="image/jpeg"/>
+      <pubDate>Tue, 18 Jul 2023 13:14:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Thin Lizzy - The Boys Are Back in Town (7 plays)</title>
+      <link>https://www.last.fm/music/Thin+Lizzy/_/The+Boys+Are+Back+in+Town</link>
+      <guid isPermaLink="false">manosg--1689700707--Thin Lizzy---The Boys Are Back in Town</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6da2e4c2760944ee97b77c160041c4a0.jpg" length="32370" type="image/jpeg"/>
+      <pubDate>Tue, 18 Jul 2023 13:18:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
