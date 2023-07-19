@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jul 2023 08:19:47 +0000</lastBuildDate>
-    <item>
-      <title>Crimson Glory - Transcendence (8 plays)</title>
-      <link>https://www.last.fm/music/Crimson+Glory/_/Transcendence</link>
-      <guid isPermaLink="false">manosg--1689691232--83560efc-3ead-446a-9652-02476a5f18c3---Transcendence</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af84195fb59241c1bb35e015393cae5a.jpg" length="26044" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jul 2023 10:40:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Vicious Rumors - Premonition (2 plays)</title>
-      <link>https://www.last.fm/music/Vicious+Rumors/_/Premonition</link>
-      <guid isPermaLink="false">manosg--1689691501--360c3994-f206-4b5b-8357-d599322d7fc3---Premonition</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b7775cda5e841c78cb10ba04183c3df.jpg" length="36284" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jul 2023 10:45:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tygers of Pan Tang - Gangland (5 plays)</title>
-      <link>https://www.last.fm/music/Tygers+of+Pan+Tang/_/Gangland</link>
-      <guid isPermaLink="false">manosg--1689691589--fe179f28-3cab-4337-9575-c13f8d077b13---Gangland</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/59f7341f19f6cb3ce4fc9d40e5951cb9.png" length="159412" type="image/png"/>
-      <pubDate>Tue, 18 Jul 2023 10:46:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Jul 2023 08:37:24 +0000</lastBuildDate>
     <item>
       <title>Tygers of Pan Tang - Take It (5 plays)</title>
       <link>https://www.last.fm/music/Tygers+of+Pan+Tang/_/Take+It</link>
@@ -233,7 +212,7 @@
       <pubDate>Wed, 19 Jul 2023 02:14:56 -0400</pubDate>
     </item>
     <item>
-      <title>Thin Lizzy - Sweet Marie (10 plays)</title>
+      <title>Thin Lizzy - Sweet Marie (11 plays)</title>
       <link>https://www.last.fm/music/Thin+Lizzy/_/Sweet+Marie</link>
       <guid isPermaLink="false">manosg--1689747476--Thin Lizzy---Sweet Marie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9c7294c1911421290bc1d6dcc0e57a8.png" length="249876" type="image/png"/>
@@ -352,11 +331,32 @@
       <pubDate>Wed, 19 Jul 2023 03:33:20 -0400</pubDate>
     </item>
     <item>
-      <title>Steely Dan - Show Biz Kids (3 plays)</title>
+      <title>Steely Dan - Show Biz Kids (4 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Show+Biz+Kids</link>
       <guid isPermaLink="false">manosg--1689753209--e01c3376-15fa-40d7-b747-5f219bdefdd7---Show Biz Kids</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
       <pubDate>Wed, 19 Jul 2023 03:53:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - My Old School (3 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/My+Old+School</link>
+      <guid isPermaLink="false">manosg--1689754711--e01c3376-15fa-40d7-b747-5f219bdefdd7---My Old School</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
+      <pubDate>Wed, 19 Jul 2023 04:18:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Thin Lizzy - Sweet Marie (11 plays)</title>
+      <link>https://www.last.fm/music/Thin+Lizzy/_/Sweet+Marie</link>
+      <guid isPermaLink="false">manosg--1689755199--Thin Lizzy---Sweet Marie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9c7294c1911421290bc1d6dcc0e57a8.png" length="249876" type="image/png"/>
+      <pubDate>Wed, 19 Jul 2023 04:26:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Show Biz Kids (4 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Show+Biz+Kids</link>
+      <guid isPermaLink="false">manosg--1689755210--e01c3376-15fa-40d7-b747-5f219bdefdd7---Show Biz Kids</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
+      <pubDate>Wed, 19 Jul 2023 04:26:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
