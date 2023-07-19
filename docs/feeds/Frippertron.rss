@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jul 2023 09:52:41 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - San Ber'dino (3 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/San+Ber%27dino</link>
-      <guid isPermaLink="false">Frippertron-1689735588--e20747e7-55a4-452e-8766-7b985585082d---San Ber'dino</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff3af74a2533a4a441a272fac58143e1.jpg" length="31622" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jul 2023 22:59:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Jul 2023 10:17:50 +0000</lastBuildDate>
     <item>
       <title>Geese - 2122 (15 plays)</title>
       <link>https://www.last.fm/music/Geese/_/2122</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1689759971--e20747e7-55a4-452e-8766-7b985585082d---Don't Eat the Yellow Snow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57def25e931ec76ce2b1ef31287690f1.jpg" length="19881" type="image/jpeg"/>
       <pubDate>Wed, 19 Jul 2023 05:46:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Strictly Genteel (6 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Strictly+Genteel</link>
+      <guid isPermaLink="false">Frippertron-1689761131--e20747e7-55a4-452e-8766-7b985585082d---Strictly Genteel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57def25e931ec76ce2b1ef31287690f1.jpg" length="19881" type="image/jpeg"/>
+      <pubDate>Wed, 19 Jul 2023 06:05:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
