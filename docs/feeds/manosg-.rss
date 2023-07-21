@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Jul 2023 17:27:09 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - I'm Waiting for the Day (1 play)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/I%27m+Waiting+for+the+Day</link>
-      <guid isPermaLink="false">manosg--1689851507--ebfc1398-8d96-47e3-82c3-f782abcdb13d---I'm Waiting for the Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f8a723d5e2848c7c820a1ac8768fce5.png" length="174675" type="image/png"/>
-      <pubDate>Thu, 20 Jul 2023 07:11:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Let's Go Away for Awhile (1 play)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Let%27s+Go+Away+for+Awhile</link>
-      <guid isPermaLink="false">manosg--1689851694--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Let's Go Away for Awhile</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f8a723d5e2848c7c820a1ac8768fce5.png" length="174675" type="image/png"/>
-      <pubDate>Thu, 20 Jul 2023 07:14:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Jul 2023 06:52:32 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Sloop John B (1 play)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Sloop+John+B</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1689873239--e01c3376-15fa-40d7-b747-5f219bdefdd7---FM</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/730f025be0e54736c7d39b40f3e66275.png" length="178498" type="image/png"/>
       <pubDate>Thu, 20 Jul 2023 13:13:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Chain Lightning (4 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Chain+Lightning</link>
+      <guid isPermaLink="false">manosg--1689914870--e01c3376-15fa-40d7-b747-5f219bdefdd7---Chain Lightning</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f60bc2ff234885c830fe07a94f5457.jpg" length="13950" type="image/jpeg"/>
+      <pubDate>Fri, 21 Jul 2023 00:47:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Beach Boys - You Still Believe in Me (2 plays)</title>
+      <link>https://www.last.fm/music/The+Beach+Boys/_/You+Still+Believe+in+Me</link>
+      <guid isPermaLink="false">manosg--1689914870--ebfc1398-8d96-47e3-82c3-f782abcdb13d---You Still Believe in Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f8a723d5e2848c7c820a1ac8768fce5.png" length="174675" type="image/png"/>
+      <pubDate>Fri, 21 Jul 2023 00:47:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
