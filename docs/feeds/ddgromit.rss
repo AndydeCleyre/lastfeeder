@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jul 2023 18:21:07 +0000</lastBuildDate>
-    <item>
-      <title>Raffi - Rock-A-Bye Baby (2 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/Rock-A-Bye+Baby</link>
-      <guid isPermaLink="false">ddgromit-1689696673--d5d5ba92-4bd4-4975-9806-99339eed3046---Rock-A-Bye Baby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d80a75fa78a4f018c9dba252f59a290.jpg" length="17897" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jul 2023 12:11:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Raffi - Yellow Submarine (5 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/Yellow+Submarine</link>
-      <guid isPermaLink="false">ddgromit-1689696744--d5d5ba92-4bd4-4975-9806-99339eed3046---Yellow Submarine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28ded749f8de497697f6babdbb2f3c17.jpg" length="26064" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jul 2023 12:12:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Countdown Kids - Row, Row, Row Your Boat - Mandarin Version (1 play)</title>
-      <link>https://www.last.fm/music/The+Countdown+Kids/_/Row,+Row,+Row+Your+Boat+-+Mandarin+Version</link>
-      <guid isPermaLink="false">ddgromit-1689733285--The Countdown Kids---Row, Row, Row Your Boat - Mandarin Version</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 18 Jul 2023 22:21:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pinkfong - Bath Time Song (1 play)</title>
-      <link>https://www.last.fm/music/Pinkfong/_/Bath+Time+Song</link>
-      <guid isPermaLink="false">ddgromit-1689733364--1af169ca-2cbd-4280-adcf-23963301448e---Bath Time Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 18 Jul 2023 22:22:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Jul 2023 18:38:15 +0000</lastBuildDate>
     <item>
       <title>Pinkfong - Move Like the Dinosaurs (1 play)</title>
       <link>https://www.last.fm/music/Pinkfong/_/Move+Like+the+Dinosaurs</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">ddgromit-1689963410--Cooper Sams---Enchanted Eden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 21 Jul 2023 14:16:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Robot Koch - Dragonfly (6 plays)</title>
+      <link>https://www.last.fm/music/Robot+Koch/_/Dragonfly</link>
+      <guid isPermaLink="false">ddgromit-1689963614--7afac455-1d9e-4439-a971-674653231e1f---Dragonfly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adfe9e30b88039fb6e3ea3e14493a8e0.jpg" length="15139" type="image/jpeg"/>
+      <pubDate>Fri, 21 Jul 2023 14:20:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Francesco Le Metre - Sunset (6 plays)</title>
+      <link>https://www.last.fm/music/Francesco+Le+Metre/_/Sunset</link>
+      <guid isPermaLink="false">ddgromit-1689963897--0e9973f4-9348-4949-b62f-76eee75a9076---Sunset</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 21 Jul 2023 14:24:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Neighborhood Libraries - Youth (6 plays)</title>
+      <link>https://www.last.fm/music/Neighborhood+Libraries/_/Youth</link>
+      <guid isPermaLink="false">ddgromit-1689964143--Neighborhood Libraries---Youth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6c50eeee60eba9122b88dfcbd0fc1e8.jpg" length="26330" type="image/jpeg"/>
+      <pubDate>Fri, 21 Jul 2023 14:29:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Omar Raafat - Closer (6 plays)</title>
+      <link>https://www.last.fm/music/Omar+Raafat/_/Closer</link>
+      <guid isPermaLink="false">ddgromit-1689964383--fc888700-7413-4fa8-a2c0-58bb9a1ebb2f---Closer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea50ec0cf541affdb495fef78c3b2c84.jpg" length="14355" type="image/jpeg"/>
+      <pubDate>Fri, 21 Jul 2023 14:33:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
