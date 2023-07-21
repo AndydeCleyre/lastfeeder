@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jul 2023 04:37:34 +0000</lastBuildDate>
-    <item>
-      <title>Charles Mingus - Song with Orange (3 plays)</title>
-      <link>https://www.last.fm/music/Charles+Mingus/_/Song+with+Orange</link>
-      <guid isPermaLink="false">Frippertron-1689842234--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---Song with Orange</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f22c379346a6469785293388a1c33dc7.jpg" length="36836" type="image/jpeg"/>
-      <pubDate>Thu, 20 Jul 2023 04:37:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Jul 2023 05:15:04 +0000</lastBuildDate>
     <item>
       <title>Charles Mingus - Gunslinging Bird (3 plays)</title>
       <link>https://www.last.fm/music/Charles+Mingus/_/Gunslinging+Bird</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1689913776--2ce96399-f6da-439f-af3a-f319ebe2074c---Concert At WBAI Free Music Store</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae5354d92820329f6b36b1b0a42115d.png" length="81542" type="image/png"/>
       <pubDate>Fri, 21 Jul 2023 00:29:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Suzanne Ciani - concert at phil niblock's loft (1 play)</title>
+      <link>https://www.last.fm/music/Suzanne+Ciani/_/concert+at+phil+niblock%27s+loft</link>
+      <guid isPermaLink="false">Frippertron-1689914967--2ce96399-f6da-439f-af3a-f319ebe2074c---concert at phil niblock's loft</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae5354d92820329f6b36b1b0a42115d.png" length="81542" type="image/png"/>
+      <pubDate>Fri, 21 Jul 2023 00:49:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
