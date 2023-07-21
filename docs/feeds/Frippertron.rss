@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jul 2023 05:40:06 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - Zomby Woof (17 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/Zomby+Woof</link>
-      <guid isPermaLink="false">Frippertron-1689845190--e20747e7-55a4-452e-8766-7b985585082d---Zomby Woof</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
-      <pubDate>Thu, 20 Jul 2023 05:26:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Jul 2023 05:53:36 +0000</lastBuildDate>
     <item>
       <title>Frank Zappa - Montana (14 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/Montana</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1689917899--2944824d-4c26-476f-a981-be849081942f---Strange Fruit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19f5e2e4d126e22201a8b5933ee43f65.jpg" length="17510" type="image/jpeg"/>
       <pubDate>Fri, 21 Jul 2023 01:38:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nina Simone - Sinnerman (3 plays)</title>
+      <link>https://www.last.fm/music/Nina+Simone/_/Sinnerman</link>
+      <guid isPermaLink="false">Frippertron-1689918112--2944824d-4c26-476f-a981-be849081942f---Sinnerman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19f5e2e4d126e22201a8b5933ee43f65.jpg" length="17510" type="image/jpeg"/>
+      <pubDate>Fri, 21 Jul 2023 01:41:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
