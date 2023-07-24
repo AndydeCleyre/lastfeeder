@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 10:38:22 +0000</lastBuildDate>
-    <item>
-      <title>Paul McCartney - Oh Woman, Oh Why - Remastered 2012 (2 plays)</title>
-      <link>https://www.last.fm/music/Paul+McCartney/_/Oh+Woman,+Oh+Why+-+Remastered+2012</link>
-      <guid isPermaLink="false">manosg--1690038851--Paul McCartney---Oh Woman, Oh Why - Remastered 2012</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56a3dc32cdceee45a49b20cf5a97313a.jpg" length="35538" type="image/jpeg"/>
-      <pubDate>Sat, 22 Jul 2023 11:14:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jul 2023 10:52:20 +0000</lastBuildDate>
     <item>
       <title>Paul McCartney - Little Woman Love - Remastered 2012 (2 plays)</title>
       <link>https://www.last.fm/music/Paul+McCartney/_/Little+Woman+Love+-+Remastered+2012</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1690190409--72c536dc-7137-4477-a521-567eeb840fa8---Queen Jane Approximately</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2312403b76a4d75b23b2b5134142d58.png" length="165041" type="image/png"/>
       <pubDate>Mon, 24 Jul 2023 05:20:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bob Dylan - Highway 61 Revisited (9 plays)</title>
+      <link>https://www.last.fm/music/Bob+Dylan/_/Highway+61+Revisited</link>
+      <guid isPermaLink="false">manosg--1690195082--72c536dc-7137-4477-a521-567eeb840fa8---Highway 61 Revisited</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2312403b76a4d75b23b2b5134142d58.png" length="165041" type="image/png"/>
+      <pubDate>Mon, 24 Jul 2023 06:38:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
