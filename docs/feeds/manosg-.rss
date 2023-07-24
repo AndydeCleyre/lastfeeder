@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 09:17:10 +0000</lastBuildDate>
-    <item>
-      <title>Paul McCartney - The Back Seat Of My Car - 2012 Remaster (3 plays)</title>
-      <link>https://www.last.fm/music/Paul+McCartney/_/The+Back+Seat+Of+My+Car+-+2012+Remaster</link>
-      <guid isPermaLink="false">manosg--1690038352--Paul McCartney---The Back Seat Of My Car - 2012 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56a3dc32cdceee45a49b20cf5a97313a.jpg" length="35538" type="image/jpeg"/>
-      <pubDate>Sat, 22 Jul 2023 11:05:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jul 2023 09:38:16 +0000</lastBuildDate>
     <item>
       <title>Paul McCartney - Another Day - 2012 Remaster (3 plays)</title>
       <link>https://www.last.fm/music/Paul+McCartney/_/Another+Day+-+2012+Remaster</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1690189760--72c536dc-7137-4477-a521-567eeb840fa8---From a Buick 6</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2312403b76a4d75b23b2b5134142d58.png" length="165041" type="image/png"/>
       <pubDate>Mon, 24 Jul 2023 05:09:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bob Dylan - Ballad of a Thin Man (8 plays)</title>
+      <link>https://www.last.fm/music/Bob+Dylan/_/Ballad+of+a+Thin+Man</link>
+      <guid isPermaLink="false">manosg--1690189989--72c536dc-7137-4477-a521-567eeb840fa8---Ballad of a Thin Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2312403b76a4d75b23b2b5134142d58.png" length="165041" type="image/png"/>
+      <pubDate>Mon, 24 Jul 2023 05:13:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
