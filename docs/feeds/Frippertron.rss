@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 09:37:23 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - Tears Began to Fall (33 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/Tears+Began+to+Fall</link>
-      <guid isPermaLink="false">Frippertron-1690255073--e20747e7-55a4-452e-8766-7b985585082d---Tears Began to Fall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58a776abec5dc9cdb9ad6a091048b349.jpg" length="5900" type="image/jpeg"/>
-      <pubDate>Mon, 24 Jul 2023 23:17:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roy Wood - Any Old Time Will Do (17 plays)</title>
-      <link>https://www.last.fm/music/Roy+Wood/_/Any+Old+Time+Will+Do</link>
-      <guid isPermaLink="false">Frippertron-1690255312--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---Any Old Time Will Do</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/943f8e408aa94287a6b9b80580f2ba6e.jpg" length="33314" type="image/jpeg"/>
-      <pubDate>Mon, 24 Jul 2023 23:21:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jul 2023 09:52:16 +0000</lastBuildDate>
     <item>
       <title>John Coltrane - Africa (7 plays)</title>
       <link>https://www.last.fm/music/John+Coltrane/_/Africa</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1690277811--e20747e7-55a4-452e-8766-7b985585082d---The Orange County Lumber Truck</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7a5e7c04b90a8040f4555ae4bca283d.jpg" length="27531" type="image/jpeg"/>
       <pubDate>Tue, 25 Jul 2023 05:36:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Oh No (16 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Oh+No</link>
+      <guid isPermaLink="false">Frippertron-1690277870--e20747e7-55a4-452e-8766-7b985585082d---Oh No</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7a5e7c04b90a8040f4555ae4bca283d.jpg" length="27531" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jul 2023 05:37:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Son of Orange County (3 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Son+of+Orange+County</link>
+      <guid isPermaLink="false">Frippertron-1690277955--e20747e7-55a4-452e-8766-7b985585082d---Son of Orange County</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7a5e7c04b90a8040f4555ae4bca283d.jpg" length="27531" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jul 2023 05:39:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
