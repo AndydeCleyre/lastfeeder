@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 05:15:25 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - Little House I Used To Live In (7 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/Little+House+I+Used+To+Live+In</link>
-      <guid isPermaLink="false">Frippertron-1690186572--e20747e7-55a4-452e-8766-7b985585082d---Little House I Used To Live In</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58a776abec5dc9cdb9ad6a091048b349.jpg" length="5900" type="image/jpeg"/>
-      <pubDate>Mon, 24 Jul 2023 04:16:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Frank Zappa - The Mud Shark (7 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/The+Mud+Shark</link>
-      <guid isPermaLink="false">Frippertron-1690186854--e20747e7-55a4-452e-8766-7b985585082d---The Mud Shark</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58a776abec5dc9cdb9ad6a091048b349.jpg" length="5900" type="image/jpeg"/>
-      <pubDate>Mon, 24 Jul 2023 04:20:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jul 2023 05:28:35 +0000</lastBuildDate>
     <item>
       <title>Frank Zappa - What Kind Of Girl Do You Think We Are? (7 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/What+Kind+Of+Girl+Do+You+Think+We+Are%3F</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1690261522--e20747e7-55a4-452e-8766-7b985585082d---Montana</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
       <pubDate>Tue, 25 Jul 2023 01:05:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Mes Trois Fils (3 plays)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Mes+Trois+Fils</link>
+      <guid isPermaLink="false">Frippertron-1690261955--22fe7b6f-af38-458e-87bd-8971e7a2912e---Mes Trois Fils</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47fbf7d1a023c22077ea3b736cfdf898.jpg" length="54038" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jul 2023 01:12:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Parody (2 plays)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Parody</link>
+      <guid isPermaLink="false">Frippertron-1690262432--22fe7b6f-af38-458e-87bd-8971e7a2912e---Parody</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47fbf7d1a023c22077ea3b736cfdf898.jpg" length="54038" type="image/jpeg"/>
+      <pubDate>Tue, 25 Jul 2023 01:20:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
