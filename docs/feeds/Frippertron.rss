@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jul 2023 03:15:45 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - Audience Participation (1 play)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/Audience+Participation</link>
-      <guid isPermaLink="false">Frippertron-1690356118--e20747e7-55a4-452e-8766-7b985585082d---Audience Participation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/562b0fe365059bb005a7795f6e2c8609.jpg" length="10880" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jul 2023 03:21:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Frank Zappa - The Black Page #2 (3 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/The+Black+Page+%232</link>
-      <guid isPermaLink="false">Frippertron-1690356332--e20747e7-55a4-452e-8766-7b985585082d---The Black Page #2</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/562b0fe365059bb005a7795f6e2c8609.jpg" length="10880" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jul 2023 03:25:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jul 2023 03:37:31 +0000</lastBuildDate>
     <item>
       <title>Frank Zappa - Jones Crusher (7 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/Jones+Crusher</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1690427399--c27cac8e-4c4a-48c0-a4ba-41399b9c176d---Springtime Again</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a0df42a64204f18cfa3c66536e8b0d5.png" length="159723" type="image/png"/>
       <pubDate>Wed, 26 Jul 2023 23:09:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sun Ra - Door of the Cosmos (1 play)</title>
+      <link>https://www.last.fm/music/Sun+Ra/_/Door+of+the+Cosmos</link>
+      <guid isPermaLink="false">Frippertron-1690427953--c27cac8e-4c4a-48c0-a4ba-41399b9c176d---Door of the Cosmos</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a0df42a64204f18cfa3c66536e8b0d5.png" length="159723" type="image/png"/>
+      <pubDate>Wed, 26 Jul 2023 23:19:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sun Ra - Sleeping Beauty (1 play)</title>
+      <link>https://www.last.fm/music/Sun+Ra/_/Sleeping+Beauty</link>
+      <guid isPermaLink="false">Frippertron-1690428491--c27cac8e-4c4a-48c0-a4ba-41399b9c176d---Sleeping Beauty</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a0df42a64204f18cfa3c66536e8b0d5.png" length="159723" type="image/png"/>
+      <pubDate>Wed, 26 Jul 2023 23:28:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
