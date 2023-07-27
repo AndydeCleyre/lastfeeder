@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jul 2023 07:52:37 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Love Is the Drug (50 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Love+Is+the+Drug</link>
-      <guid isPermaLink="false">Frippertron-1690364183--331ce348-1b08-40b9-8ed7-0763b92bd003---Love Is the Drug</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
-      <pubDate>Wed, 26 Jul 2023 05:36:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Whirlwind (31 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Whirlwind</link>
-      <guid isPermaLink="false">Frippertron-1690364433--331ce348-1b08-40b9-8ed7-0763b92bd003---Whirlwind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
-      <pubDate>Wed, 26 Jul 2023 05:40:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jul 2023 08:19:22 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - She Sells (67 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/She+Sells</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1690443993--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 27 Jul 2023 03:46:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Trampled Under Foot (56 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Trampled+Under+Foot</link>
+      <guid isPermaLink="false">Frippertron-1690444311--678d88b2-87b0-403b-b63d-5da7465aecc3---Trampled Under Foot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 27 Jul 2023 03:51:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Fearless (50 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
+      <guid isPermaLink="false">Frippertron-1690445432--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
+      <pubDate>Thu, 27 Jul 2023 04:10:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
