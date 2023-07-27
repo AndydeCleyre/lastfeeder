@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 09:37:43 +0000</lastBuildDate>
-    <item>
-      <title>Bob Dylan - Girl From the North Country (2 plays)</title>
-      <link>https://www.last.fm/music/Bob+Dylan/_/Girl+From+the+North+Country</link>
-      <guid isPermaLink="false">manosg--1690259076--72c536dc-7137-4477-a521-567eeb840fa8---Girl From the North Country</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e0bc99dc2af21ddc3318938e6de9a66.jpg" length="24510" type="image/jpeg"/>
-      <pubDate>Tue, 25 Jul 2023 00:24:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bob Dylan - Masters of War (2 plays)</title>
-      <link>https://www.last.fm/music/Bob+Dylan/_/Masters+of+War</link>
-      <guid isPermaLink="false">manosg--1690259277--72c536dc-7137-4477-a521-567eeb840fa8---Masters of War</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e0bc99dc2af21ddc3318938e6de9a66.jpg" length="24510" type="image/jpeg"/>
-      <pubDate>Tue, 25 Jul 2023 00:27:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009 (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Sgt.+Pepper%27s+Lonely+Hearts+Club+Band+-+Remastered+2009</link>
-      <guid isPermaLink="false">manosg--1690259431--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b08c7037f6e43e2f8c79eba3d414211.jpg" length="40077" type="image/jpeg"/>
-      <pubDate>Tue, 25 Jul 2023 00:30:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jul 2023 10:52:15 +0000</lastBuildDate>
     <item>
       <title>The Beatles - With A Little Help From My Friends - Remastered 2009 (1 play)</title>
       <link>https://www.last.fm/music/The+Beatles/_/With+A+Little+Help+From+My+Friends+-+Remastered+2009</link>
@@ -352,11 +331,32 @@
       <pubDate>Tue, 25 Jul 2023 05:25:47 -0400</pubDate>
     </item>
     <item>
-      <title>Mercyful Fate - Doomed by the Living Dead (23 plays)</title>
+      <title>Mercyful Fate - Doomed by the Living Dead (24 plays)</title>
       <link>https://www.last.fm/music/Mercyful+Fate/_/Doomed+by+the+Living+Dead</link>
       <guid isPermaLink="false">manosg--1690277201--9b137ab6-5987-4606-989b-183cdb2d3e50---Doomed by the Living Dead</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff4fe6342c67b19b7e447a2945d2d403.png" length="65439" type="image/png"/>
       <pubDate>Tue, 25 Jul 2023 05:26:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mercyful Fate - Doomed by the Living Dead (24 plays)</title>
+      <link>https://www.last.fm/music/Mercyful+Fate/_/Doomed+by+the+Living+Dead</link>
+      <guid isPermaLink="false">manosg--1690277514--9b137ab6-5987-4606-989b-183cdb2d3e50---Doomed by the Living Dead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff4fe6342c67b19b7e447a2945d2d403.png" length="65439" type="image/png"/>
+      <pubDate>Tue, 25 Jul 2023 05:31:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mercyful Fate - A Corpse Without Soul (19 plays)</title>
+      <link>https://www.last.fm/music/Mercyful+Fate/_/A+Corpse+Without+Soul</link>
+      <guid isPermaLink="false">manosg--1690277514--9b137ab6-5987-4606-989b-183cdb2d3e50---A Corpse Without Soul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff4fe6342c67b19b7e447a2945d2d403.png" length="65439" type="image/png"/>
+      <pubDate>Tue, 25 Jul 2023 05:31:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Simon &amp; Garfunkel - Bookends Theme (1 play)</title>
+      <link>https://www.last.fm/music/Simon+&amp;+Garfunkel/_/Bookends+Theme</link>
+      <guid isPermaLink="false">manosg--1690455089--5d02f264-e225-41ff-83f7-d9b1f0b1874a---Bookends Theme</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11f68a5f6b53b8d7c59fe2100cb449c3.jpg" length="13501" type="image/jpeg"/>
+      <pubDate>Thu, 27 Jul 2023 06:51:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
