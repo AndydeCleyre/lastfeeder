@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jul 2023 01:15:34 +0000</lastBuildDate>
-    <item>
-      <title>Thom Yorke - Suspirium (14 plays)</title>
-      <link>https://www.last.fm/music/Thom+Yorke/_/Suspirium</link>
-      <guid isPermaLink="false">TalonsOfFire-1689969915--8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b---Suspirium</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dcdab2e3f0282e827f47a9554fcd88b.png" length="52486" type="image/png"/>
-      <pubDate>Fri, 21 Jul 2023 16:05:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thom Yorke - Has Ended (10 plays)</title>
-      <link>https://www.last.fm/music/Thom+Yorke/_/Has+Ended</link>
-      <guid isPermaLink="false">TalonsOfFire-1689970714--8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b---Has Ended</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dcdab2e3f0282e827f47a9554fcd88b.png" length="52486" type="image/png"/>
-      <pubDate>Fri, 21 Jul 2023 16:18:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jul 2023 02:52:41 +0000</lastBuildDate>
     <item>
       <title>Thom Yorke - Klemperer Walks (8 plays)</title>
       <link>https://www.last.fm/music/Thom+Yorke/_/Klemperer+Walks</link>
@@ -261,11 +247,18 @@
       <pubDate>Wed, 26 Jul 2023 19:12:24 -0400</pubDate>
     </item>
     <item>
-      <title>Riverside - Through the Other Side (7 plays)</title>
+      <title>Riverside - Through the Other Side (8 plays)</title>
       <link>https://www.last.fm/music/Riverside/_/Through+the+Other+Side</link>
       <guid isPermaLink="false">TalonsOfFire-1690413413--Riverside---Through the Other Side</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f385e75998c3ca95265e99e3e207fd57.jpg" length="18262" type="image/jpeg"/>
       <pubDate>Wed, 26 Jul 2023 19:16:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Riverside - Through the Other Side (8 plays)</title>
+      <link>https://www.last.fm/music/Riverside/_/Through+the+Other+Side</link>
+      <guid isPermaLink="false">TalonsOfFire-1690413657--Riverside---Through the Other Side</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f385e75998c3ca95265e99e3e207fd57.jpg" length="18262" type="image/jpeg"/>
+      <pubDate>Wed, 26 Jul 2023 19:20:57 -0400</pubDate>
     </item>
     <item>
       <title>Alora Crucible - Psalloed Illusions (4 plays)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1690419268--Amethystium---IIona</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1c59410c0b546eaaada34b4a0811ea0.jpg" length="23201" type="image/jpeg"/>
       <pubDate>Wed, 26 Jul 2023 20:54:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coil - Tripe Sun - Remastered (1 play)</title>
+      <link>https://www.last.fm/music/Coil/_/Tripe+Sun+-+Remastered</link>
+      <guid isPermaLink="false">TalonsOfFire-1690420159--Coil---Tripe Sun - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94386922c8c241ff93afb2c74fb05e95.jpg" length="9487" type="image/jpeg"/>
+      <pubDate>Wed, 26 Jul 2023 21:09:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
