@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jul 2023 09:15:11 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - I'm So Tired (24 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/I%27m+So+Tired</link>
-      <guid isPermaLink="false">Frippertron-1690515289--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---I'm So Tired</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e17c97cccf44f7a85bb6c1c4029c0c9.png" length="3460" type="image/png"/>
-      <pubDate>Thu, 27 Jul 2023 23:34:49 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Jul 2023 09:39:11 +0000</lastBuildDate>
     <item>
       <title>The Beatles - While My Guitar Gently Weeps (24 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/While+My+Guitar+Gently+Weeps</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1690534991--Tomasz Stańko---Boratka/Flute's Ballad</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eeae447bfab8cbff655e7bf95fd2debc.png" length="175496" type="image/png"/>
       <pubDate>Fri, 28 Jul 2023 05:03:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Zomby Woof (18 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Zomby+Woof</link>
+      <guid isPermaLink="false">Frippertron-1690536763--e20747e7-55a4-452e-8766-7b985585082d---Zomby Woof</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
+      <pubDate>Fri, 28 Jul 2023 05:32:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
