@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jul 2023 09:39:11 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - While My Guitar Gently Weeps (24 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/While+My+Guitar+Gently+Weeps</link>
-      <guid isPermaLink="false">Frippertron-1690515415--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---While My Guitar Gently Weeps</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e17c97cccf44f7a85bb6c1c4029c0c9.png" length="3460" type="image/png"/>
-      <pubDate>Thu, 27 Jul 2023 23:36:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - Julia (20 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Julia</link>
-      <guid isPermaLink="false">Frippertron-1690515703--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Julia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e17c97cccf44f7a85bb6c1c4029c0c9.png" length="3460" type="image/png"/>
-      <pubDate>Thu, 27 Jul 2023 23:41:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Jul 2023 09:52:24 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Sexy Sadie (20 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Sexy+Sadie</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1690536763--e20747e7-55a4-452e-8766-7b985585082d---Zomby Woof</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
       <pubDate>Fri, 28 Jul 2023 05:32:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Montana (21 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Montana</link>
+      <guid isPermaLink="false">Frippertron-1690537072--e20747e7-55a4-452e-8766-7b985585082d---Montana</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
+      <pubDate>Fri, 28 Jul 2023 05:37:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gracious - Super Nova (4 plays)</title>
+      <link>https://www.last.fm/music/Gracious/_/Super+Nova</link>
+      <guid isPermaLink="false">Frippertron-1690537550--6d901c2e-ccf3-4b46-ab0b-cdc2b1d50197---Super Nova</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0617f0f765b4cab9de16c8158227fd4.jpg" length="15099" type="image/jpeg"/>
+      <pubDate>Fri, 28 Jul 2023 05:45:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
