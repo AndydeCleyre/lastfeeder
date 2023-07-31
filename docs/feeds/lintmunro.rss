@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Jul 2023 22:28:32 +0000</lastBuildDate>
-    <item>
-      <title>Cusp - Ok (1 play)</title>
-      <link>https://www.last.fm/music/Cusp/_/Ok</link>
-      <guid isPermaLink="false">lintmunro-1690409260--7dda74f2-e662-459d-a734-2765ae3ba0a1---Ok</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58b2be428bbfad3dc42ede31cc7ad026.jpg" length="35308" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jul 2023 18:07:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cusp - Dead Things Talk (1 play)</title>
-      <link>https://www.last.fm/music/Cusp/_/Dead+Things+Talk</link>
-      <guid isPermaLink="false">lintmunro-1690409406--7dda74f2-e662-459d-a734-2765ae3ba0a1---Dead Things Talk</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58b2be428bbfad3dc42ede31cc7ad026.jpg" length="35308" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jul 2023 18:10:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jul 2023 22:40:47 +0000</lastBuildDate>
     <item>
       <title>Cusp - Limited Edition (1 play)</title>
       <link>https://www.last.fm/music/Cusp/_/Limited+Edition</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1690841480--901655df-4e86-470f-9e4c-3bd1518d13a6---The Fly</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af43281b52db55001961ee51b43fb4a1.jpg" length="15857" type="image/jpeg"/>
       <pubDate>Mon, 31 Jul 2023 18:11:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dogleg - Ender (1 play)</title>
+      <link>https://www.last.fm/music/Dogleg/_/Ender</link>
+      <guid isPermaLink="false">lintmunro-1690842206--6e7aea5b-de9f-4118-ae32-ddea8198864a---Ender</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cc6f8771bd4796196caf5f24343e347.jpg" length="14202" type="image/jpeg"/>
+      <pubDate>Mon, 31 Jul 2023 18:23:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>The South Hill Experiment - Chameleons (1 play)</title>
+      <link>https://www.last.fm/music/The+South+Hill+Experiment/_/Chameleons</link>
+      <guid isPermaLink="false">lintmunro-1690842587--The South Hill Experiment---Chameleons</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4d12c8d86cc925be60f2d9e8b09a9d1.jpg" length="21153" type="image/jpeg"/>
+      <pubDate>Mon, 31 Jul 2023 18:29:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
