@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Jul 2023 04:37:39 +0000</lastBuildDate>
-    <item>
-      <title>Radiohead - Idioteque (84 plays)</title>
-      <link>https://www.last.fm/music/Radiohead/_/Idioteque</link>
-      <guid isPermaLink="false">Frippertron-1690530785--a74b1b7f-71a5-4011-9441-d0b5e4122711---Idioteque</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png" length="184467" type="image/png"/>
-      <pubDate>Fri, 28 Jul 2023 03:53:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Radiohead - Bodysnatchers (38 plays)</title>
-      <link>https://www.last.fm/music/Radiohead/_/Bodysnatchers</link>
-      <guid isPermaLink="false">Frippertron-1690531080--a74b1b7f-71a5-4011-9441-d0b5e4122711---Bodysnatchers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d91b7dd13084606b99d756175917f7d.png" length="189314" type="image/png"/>
-      <pubDate>Fri, 28 Jul 2023 03:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Geese - 2122 (21 plays)</title>
-      <link>https://www.last.fm/music/Geese/_/2122</link>
-      <guid isPermaLink="false">Frippertron-1690531322--e0c97a4d-c392-41a9-a374-57af3e3eeab3---2122</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
-      <pubDate>Fri, 28 Jul 2023 04:02:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jul 2023 04:52:27 +0000</lastBuildDate>
     <item>
       <title>Geese - 3D Country (17 plays)</title>
       <link>https://www.last.fm/music/Geese/_/3D+Country</link>
@@ -128,7 +107,7 @@
       <pubDate>Fri, 28 Jul 2023 05:32:43 -0400</pubDate>
     </item>
     <item>
-      <title>Frank Zappa - Montana (21 plays)</title>
+      <title>Frank Zappa - Montana (22 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/Montana</link>
       <guid isPermaLink="false">Frippertron-1690537072--e20747e7-55a4-452e-8766-7b985585082d---Montana</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1690777819--e20747e7-55a4-452e-8766-7b985585082d---Zomby Woof</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
       <pubDate>Mon, 31 Jul 2023 00:30:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Montana (22 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Montana</link>
+      <guid isPermaLink="false">Frippertron-1690778127--e20747e7-55a4-452e-8766-7b985585082d---Montana</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
+      <pubDate>Mon, 31 Jul 2023 00:35:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Anthony Braxton - KA-47 (Opus 23A) (1 play)</title>
+      <link>https://www.last.fm/music/Anthony+Braxton/_/KA-47+(Opus+23A)</link>
+      <guid isPermaLink="false">Frippertron-1690778515--4e5f99db-d181-4317-9124-602b776f5306---KA-47 (Opus 23A)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb49a7730d2f0db3a3c227969ee9acee.jpg" length="16657" type="image/jpeg"/>
+      <pubDate>Mon, 31 Jul 2023 00:41:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Anthony Braxton - 6-77AR-36K (Opus 23B) (1 play)</title>
+      <link>https://www.last.fm/music/Anthony+Braxton/_/6-77AR-36K+(Opus+23B)</link>
+      <guid isPermaLink="false">Frippertron-1690778845--4e5f99db-d181-4317-9124-602b776f5306---6-77AR-36K (Opus 23B)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb49a7730d2f0db3a3c227969ee9acee.jpg" length="16657" type="image/jpeg"/>
+      <pubDate>Mon, 31 Jul 2023 00:47:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
