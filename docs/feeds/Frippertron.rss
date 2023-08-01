@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Aug 2023 05:52:17 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Five Years (155 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Five+Years</link>
-      <guid isPermaLink="false">Frippertron-1690791183--5441c29d-3602-4898-b1a1-b77fa23b8e50---Five Years</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Mon, 31 Jul 2023 04:13:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Young Americans (70 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Young+Americans</link>
-      <guid isPermaLink="false">Frippertron-1690791485--5441c29d-3602-4898-b1a1-b77fa23b8e50---Young Americans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 31 Jul 2023 04:18:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Aug 2023 06:21:59 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Beauty and the Beast (138 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
@@ -100,7 +86,7 @@
       <pubDate>Mon, 31 Jul 2023 05:24:22 -0400</pubDate>
     </item>
     <item>
-      <title>David Bowie - Somebody Up There Likes Me (55 plays)</title>
+      <title>David Bowie - Somebody Up There Likes Me (56 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
       <guid isPermaLink="false">Frippertron-1690795854--5441c29d-3602-4898-b1a1-b77fa23b8e50---Somebody Up There Likes Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1690868956--64b94289-9474-4d43-8c93-918ccc1920d1---All For Leyna</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4df4ae3b4c04237ad0dc41b3032e2bf.png" length="209932" type="image/png"/>
       <pubDate>Tue, 01 Aug 2023 01:49:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Billy Joel - Laura (65 plays)</title>
+      <link>https://www.last.fm/music/Billy+Joel/_/Laura</link>
+      <guid isPermaLink="false">Frippertron-1690869204--64b94289-9474-4d43-8c93-918ccc1920d1---Laura</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2b174de1db31e959dbf123c9774a31e.gif" length="2539426" type="image/gif"/>
+      <pubDate>Tue, 01 Aug 2023 01:53:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Somebody Up There Likes Me (56 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
+      <guid isPermaLink="false">Frippertron-1690869575--5441c29d-3602-4898-b1a1-b77fa23b8e50---Somebody Up There Likes Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
+      <pubDate>Tue, 01 Aug 2023 01:59:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
