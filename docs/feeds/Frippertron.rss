@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Aug 2023 09:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Turn It On Again (62 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Turn+It+On+Again</link>
-      <guid isPermaLink="false">Frippertron-1690858010--Genesis---Turn It On Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
-      <pubDate>Mon, 31 Jul 2023 22:46:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Man of Our Times (38 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Man+of+Our+Times</link>
-      <guid isPermaLink="false">Frippertron-1690858276--Genesis---Man of Our Times</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
-      <pubDate>Mon, 31 Jul 2023 22:51:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Misunderstanding (36 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Misunderstanding</link>
-      <guid isPermaLink="false">Frippertron-1690858614--Genesis---Misunderstanding</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1d37631d00ff5998c365e0e496ce6c0.jpg" length="12671" type="image/jpeg"/>
-      <pubDate>Mon, 31 Jul 2023 22:56:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Watcher of the Skies (95 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Watcher+of+the+Skies</link>
-      <guid isPermaLink="false">Frippertron-1690858758--Genesis---Watcher of the Skies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
-      <pubDate>Mon, 31 Jul 2023 22:59:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Aug 2023 10:17:05 +0000</lastBuildDate>
     <item>
       <title>Genesis - Get 'em Out by Friday (36 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Get+%27em+Out+by+Friday</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1690883407--5441c29d-3602-4898-b1a1-b77fa23b8e50---Ziggy Stardust</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
       <pubDate>Tue, 01 Aug 2023 05:50:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Suffragette City (122 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Suffragette+City</link>
+      <guid isPermaLink="false">Frippertron-1690883608--5441c29d-3602-4898-b1a1-b77fa23b8e50---Suffragette City</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
+      <pubDate>Tue, 01 Aug 2023 05:53:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Rock 'n' Roll Suicide (114 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Rock+%27n%27+Roll+Suicide</link>
+      <guid isPermaLink="false">Frippertron-1690883824--5441c29d-3602-4898-b1a1-b77fa23b8e50---Rock 'n' Roll Suicide</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
+      <pubDate>Tue, 01 Aug 2023 05:57:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Uncle Remus (37 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Uncle+Remus</link>
+      <guid isPermaLink="false">Frippertron-1690884229--e20747e7-55a4-452e-8766-7b985585082d---Uncle Remus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3a7a973c30a2f778e4c00ec288dc5b25.jpg" length="21435" type="image/jpeg"/>
+      <pubDate>Tue, 01 Aug 2023 06:03:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Directly From My Heart To You (30 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Directly+From+My+Heart+To+You</link>
+      <guid isPermaLink="false">Frippertron-1690884443--e20747e7-55a4-452e-8766-7b985585082d---Directly From My Heart To You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9dfdda8fd236035197deeddb1003d94e.jpg" length="35422" type="image/jpeg"/>
+      <pubDate>Tue, 01 Aug 2023 06:07:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
