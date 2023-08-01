@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Aug 2023 07:15:17 +0000</lastBuildDate>
-    <item>
-      <title>Sonic Youth - Dripping Dream (35 plays)</title>
-      <link>https://www.last.fm/music/Sonic+Youth/_/Dripping+Dream</link>
-      <guid isPermaLink="false">Frippertron-1690793443--5cbef01b-cc35-4f52-af7b-d0df0c4f61b9---Dripping Dream</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f2bd187cff8c6619f14320abbe37de1f.jpg" length="15322" type="image/jpeg"/>
-      <pubDate>Mon, 31 Jul 2023 04:50:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Aug 2023 07:27:09 +0000</lastBuildDate>
     <item>
       <title>The Blue Nile - The Downtown Lights (66 plays)</title>
       <link>https://www.last.fm/music/The+Blue+Nile/_/The+Downtown+Lights</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1690873893--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part One)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
       <pubDate>Tue, 01 Aug 2023 03:11:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Dogs (44 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Dogs</link>
+      <guid isPermaLink="false">Frippertron-1690873978--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Tue, 01 Aug 2023 03:12:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
