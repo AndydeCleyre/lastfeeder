@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Aug 2023 20:52:34 +0000</lastBuildDate>
-    <item>
-      <title>Cusp - You Can't Do It All (2 plays)</title>
-      <link>https://www.last.fm/music/Cusp/_/You+Can%27t+Do+It+All</link>
-      <guid isPermaLink="false">lintmunro-1690410496--7dda74f2-e662-459d-a734-2765ae3ba0a1---You Can't Do It All</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58b2be428bbfad3dc42ede31cc7ad026.jpg" length="35308" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jul 2023 18:28:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cusp - Win (2 plays)</title>
-      <link>https://www.last.fm/music/Cusp/_/Win</link>
-      <guid isPermaLink="false">lintmunro-1690410496--7dda74f2-e662-459d-a734-2765ae3ba0a1---Win</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58b2be428bbfad3dc42ede31cc7ad026.jpg" length="35308" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jul 2023 18:28:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Aug 2023 21:13:27 +0000</lastBuildDate>
     <item>
       <title>Cusp - My Two Cents (2 plays)</title>
       <link>https://www.last.fm/music/Cusp/_/My+Two+Cents</link>
@@ -310,7 +296,7 @@
       <pubDate>Sat, 29 Jul 2023 19:05:05 -0400</pubDate>
     </item>
     <item>
-      <title>Shame - Fingers of Steel (1 play)</title>
+      <title>Shame - Fingers of Steel (2 plays)</title>
       <link>https://www.last.fm/music/Shame/_/Fingers+of+Steel</link>
       <guid isPermaLink="false">lintmunro-1690841052--3294b9ce-0bef-4080-8ae8-95bad1abd71c---Fingers of Steel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e750c82b03dec8cf4a778d2df75e975.jpg" length="29519" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1690922735--cb91e256-ff75-413a-aa29-5aeae848a54e---Deadweight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/77dbd73d0e17e61f2af7cdceff2f1920.png" length="177651" type="image/png"/>
       <pubDate>Tue, 01 Aug 2023 16:45:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Palehound - The Clutch (1 play)</title>
+      <link>https://www.last.fm/music/Palehound/_/The+Clutch</link>
+      <guid isPermaLink="false">lintmunro-1690923035--d0d25805-3446-49eb-bf6b-b4fa821c3a7f---The Clutch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e9fe4e568828a1663ee277cebfeffd27.jpg" length="26134" type="image/jpeg"/>
+      <pubDate>Tue, 01 Aug 2023 16:50:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Shame - Fingers of Steel (2 plays)</title>
+      <link>https://www.last.fm/music/Shame/_/Fingers+of+Steel</link>
+      <guid isPermaLink="false">lintmunro-1690923225--3294b9ce-0bef-4080-8ae8-95bad1abd71c---Fingers of Steel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e750c82b03dec8cf4a778d2df75e975.jpg" length="29519" type="image/jpeg"/>
+      <pubDate>Tue, 01 Aug 2023 16:53:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
