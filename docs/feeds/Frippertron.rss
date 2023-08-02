@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Aug 2023 17:13:38 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - Montana (24 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/Montana</link>
-      <guid isPermaLink="false">Frippertron-1690873445--e20747e7-55a4-452e-8766-7b985585082d---Montana</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
-      <pubDate>Tue, 01 Aug 2023 03:04:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Pigs on the Wing (Part One) (22 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+on+the+Wing+(Part+One)</link>
-      <guid isPermaLink="false">Frippertron-1690873893--83d91898-7763-47d7-b03b-b92132375c47---Pigs on the Wing (Part One)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
-      <pubDate>Tue, 01 Aug 2023 03:11:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Dogs (44 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Dogs</link>
-      <guid isPermaLink="false">Frippertron-1690873978--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
-      <pubDate>Tue, 01 Aug 2023 03:12:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Pigs (Three Different Ones) (35 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+(Three+Different+Ones)</link>
-      <guid isPermaLink="false">Frippertron-1690875005--83d91898-7763-47d7-b03b-b92132375c47---Pigs (Three Different Ones)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
-      <pubDate>Tue, 01 Aug 2023 03:30:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Aug 2023 02:32:28 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Sheep (55 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Sheep</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1690909501--f4d2fc5a-cacb-47c8-b096-ee73864b1aa8---Untitled Mixes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a370bb070f8266a31649d5197b4a6ed9.jpg" length="20543" type="image/jpeg"/>
       <pubDate>Tue, 01 Aug 2023 13:05:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Zappa - Montana (25 plays)</title>
+      <link>https://www.last.fm/music/Frank+Zappa/_/Montana</link>
+      <guid isPermaLink="false">Frippertron-1690942427--e20747e7-55a4-452e-8766-7b985585082d---Montana</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/881bd27191543eef056663b1b6d95639.jpg" length="35711" type="image/jpeg"/>
+      <pubDate>Tue, 01 Aug 2023 22:13:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Win (51 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Win</link>
+      <guid isPermaLink="false">Frippertron-1690942821--5441c29d-3602-4898-b1a1-b77fa23b8e50---Win</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
+      <pubDate>Tue, 01 Aug 2023 22:20:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Right (59 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Right</link>
+      <guid isPermaLink="false">Frippertron-1690943110--5441c29d-3602-4898-b1a1-b77fa23b8e50---Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
+      <pubDate>Tue, 01 Aug 2023 22:25:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Everything But the Girl - Each and Every One (116 plays)</title>
+      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Each+and+Every+One</link>
+      <guid isPermaLink="false">Frippertron-1690943401--959cf5bf-ee29-4af6-a85a-0b480181d988---Each and Every One</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e98c28f4799f4b8bbff55d16ddc6b8bd.jpg" length="32092" type="image/jpeg"/>
+      <pubDate>Tue, 01 Aug 2023 22:30:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
