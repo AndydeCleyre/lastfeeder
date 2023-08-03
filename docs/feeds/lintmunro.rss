@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Aug 2023 21:13:27 +0000</lastBuildDate>
-    <item>
-      <title>Cusp - My Two Cents (2 plays)</title>
-      <link>https://www.last.fm/music/Cusp/_/My+Two+Cents</link>
-      <guid isPermaLink="false">lintmunro-1690410659--7dda74f2-e662-459d-a734-2765ae3ba0a1---My Two Cents</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58b2be428bbfad3dc42ede31cc7ad026.jpg" length="35308" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jul 2023 18:30:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cusp - Win (2 plays)</title>
-      <link>https://www.last.fm/music/Cusp/_/Win</link>
-      <guid isPermaLink="false">lintmunro-1690410659--7dda74f2-e662-459d-a734-2765ae3ba0a1---Win</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58b2be428bbfad3dc42ede31cc7ad026.jpg" length="35308" type="image/jpeg"/>
-      <pubDate>Wed, 26 Jul 2023 18:30:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Aug 2023 21:13:08 +0000</lastBuildDate>
     <item>
       <title>Cusp - My Two Cents (2 plays)</title>
       <link>https://www.last.fm/music/Cusp/_/My+Two+Cents</link>
@@ -201,7 +187,6 @@
       <title>Austin Lucas - Sink Florida Sink (1 play)</title>
       <link>https://www.last.fm/music/Austin+Lucas/_/Sink+Florida+Sink</link>
       <guid isPermaLink="false">lintmunro-1690664546--4bf8ce64-2ad6-4e89-a68e-84194d7eaba0---Sink Florida Sink</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c15421bd5f229ab391d9c264b995770.png" length="165742" type="image/png"/>
       <pubDate>Sat, 29 Jul 2023 17:02:26 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">lintmunro-1690923225--3294b9ce-0bef-4080-8ae8-95bad1abd71c---Fingers of Steel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e750c82b03dec8cf4a778d2df75e975.jpg" length="29519" type="image/jpeg"/>
       <pubDate>Tue, 01 Aug 2023 16:53:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Money - Flacco (1 play)</title>
+      <link>https://www.last.fm/music/Money/_/Flacco</link>
+      <guid isPermaLink="false">lintmunro-1690923359--Money---Flacco</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3868183cc662c886cf92fd1d3a3a749.jpg" length="16361" type="image/jpeg"/>
+      <pubDate>Tue, 01 Aug 2023 16:55:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Sameolds - NO ID (1 play)</title>
+      <link>https://www.last.fm/music/The+Sameolds/_/NO+ID</link>
+      <guid isPermaLink="false">lintmunro-1691096673--The Sameolds---NO ID</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 03 Aug 2023 17:04:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
