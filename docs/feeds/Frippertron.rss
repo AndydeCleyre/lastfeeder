@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Aug 2023 06:20:30 +0000</lastBuildDate>
-    <item>
-      <title>Flash - Lifetime (20 plays)</title>
-      <link>https://www.last.fm/music/Flash/_/Lifetime</link>
-      <guid isPermaLink="false">Frippertron-1691053993--Flash---Lifetime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3615ac2268bf2750d2a3478ab84c33b6.jpg" length="20402" type="image/jpeg"/>
-      <pubDate>Thu, 03 Aug 2023 05:13:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Five Years (157 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Five+Years</link>
-      <guid isPermaLink="false">Frippertron-1691054660--5441c29d-3602-4898-b1a1-b77fa23b8e50---Five Years</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Thu, 03 Aug 2023 05:24:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Aug 2023 07:14:08 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Soul Love (92 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Soul+Love</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1691129262--95f7536d-b2f7-4087-8668-a663ec201f5a---Riot Rhythm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce20760300aa191a41b71d5e33e9d014.png" length="190128" type="image/png"/>
       <pubDate>Fri, 04 Aug 2023 02:07:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>George Clanton - Everything I Want (1 play)</title>
+      <link>https://www.last.fm/music/George+Clanton/_/Everything+I+Want</link>
+      <guid isPermaLink="false">Frippertron-1691132942--9abcc01c-dcf1-4d74-bc55-d81922157956---Everything I Want</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9350dd931b7f825064d342c385ddabd2.png" length="222201" type="image/png"/>
+      <pubDate>Fri, 04 Aug 2023 03:09:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>George Clanton - Justify Your Life (1 play)</title>
+      <link>https://www.last.fm/music/George+Clanton/_/Justify+Your+Life</link>
+      <guid isPermaLink="false">Frippertron-1691133115--9abcc01c-dcf1-4d74-bc55-d81922157956---Justify Your Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9350dd931b7f825064d342c385ddabd2.png" length="222201" type="image/png"/>
+      <pubDate>Fri, 04 Aug 2023 03:11:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
