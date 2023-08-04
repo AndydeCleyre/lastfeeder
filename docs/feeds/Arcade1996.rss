@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Aug 2023 14:39:40 +0000</lastBuildDate>
-    <item>
-      <title>Sloan - People Of The Sky (1 play)</title>
-      <link>https://www.last.fm/music/Sloan/_/People+Of+The+Sky</link>
-      <guid isPermaLink="false">Arcade1996-1691061415--Sloan---People Of The Sky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa5384ba774a40c891e93229ab31843e.png" length="159712" type="image/png"/>
-      <pubDate>Thu, 03 Aug 2023 07:16:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Aug 2023 14:52:29 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - The Sound Of Crying (2 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/The+Sound+Of+Crying</link>
@@ -352,10 +345,18 @@
       <pubDate>Fri, 04 Aug 2023 10:32:38 -0400</pubDate>
     </item>
     <item>
-      <title>MAY-A - LOLA (2 plays)</title>
+      <title>MAY-A - LOLA (3 plays)</title>
       <link>https://www.last.fm/music/MAY-A/_/LOLA</link>
       <guid isPermaLink="false">Arcade1996-1691159663--f1b7937a-c3a4-4bf6-9af5-3899d4ce1cc0---LOLA</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50fe9bd30551f20ff22c5c622fba2b26.png" length="149679" type="image/png"/>
       <pubDate>Fri, 04 Aug 2023 10:34:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>MAY-A - LOLA (3 plays)</title>
+      <link>https://www.last.fm/music/MAY-A/_/LOLA</link>
+      <guid isPermaLink="false">Arcade1996-1691159834--f1b7937a-c3a4-4bf6-9af5-3899d4ce1cc0---LOLA</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50fe9bd30551f20ff22c5c622fba2b26.png" length="149679" type="image/png"/>
+      <pubDate>Fri, 04 Aug 2023 10:37:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
