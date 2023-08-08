@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Aug 2023 15:37:16 +0000</lastBuildDate>
-    <item>
-      <title>Yngwie Malmsteen - Krakatau (15 plays)</title>
-      <link>https://www.last.fm/music/Yngwie+Malmsteen/_/Krakatau</link>
-      <guid isPermaLink="false">manosg--1690970336--8fa5d80d-37e8-4133-9d5c-6bad446c63f0---Krakatau</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c2d5797677b4d03b3996bf40453535c.jpg" length="21765" type="image/jpeg"/>
-      <pubDate>Wed, 02 Aug 2023 05:58:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yngwie Malmsteen - Krakatau (15 plays)</title>
-      <link>https://www.last.fm/music/Yngwie+Malmsteen/_/Krakatau</link>
-      <guid isPermaLink="false">manosg--1690974218--8fa5d80d-37e8-4133-9d5c-6bad446c63f0---Krakatau</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c2d5797677b4d03b3996bf40453535c.jpg" length="21765" type="image/jpeg"/>
-      <pubDate>Wed, 02 Aug 2023 07:03:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yngwie Malmsteen - Memories (14 plays)</title>
-      <link>https://www.last.fm/music/Yngwie+Malmsteen/_/Memories</link>
-      <guid isPermaLink="false">manosg--1690974292--8fa5d80d-37e8-4133-9d5c-6bad446c63f0---Memories</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c2d5797677b4d03b3996bf40453535c.jpg" length="21765" type="image/jpeg"/>
-      <pubDate>Wed, 02 Aug 2023 07:04:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Aug 2023 15:52:18 +0000</lastBuildDate>
     <item>
       <title>Yngwie Malmsteen - Overture (1 play)</title>
       <link>https://www.last.fm/music/Yngwie+Malmsteen/_/Overture</link>
@@ -44,7 +23,7 @@
       <pubDate>Thu, 03 Aug 2023 10:21:02 -0400</pubDate>
     </item>
     <item>
-      <title>Omen - March On (4 plays)</title>
+      <title>Omen - March On</title>
       <link>https://www.last.fm/music/Omen/_/March+On</link>
       <guid isPermaLink="false">manosg--1691072715--Omen---March On</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e205b1325a05308c7f44622c8df1997.jpg" length="23948" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1691506442--8162d8d3-ae45-4550-87f1-fa1262166e8a---Sentinels of Hate</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f7a1a2909d04222c2d2714935de6f7c.png" length="216944" type="image/png"/>
       <pubDate>Tue, 08 Aug 2023 10:54:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pagan Altar - Armageddon (1 play)</title>
+      <link>https://www.last.fm/music/Pagan+Altar/_/Armageddon</link>
+      <guid isPermaLink="false">manosg--1691508632--8162d8d3-ae45-4550-87f1-fa1262166e8a---Armageddon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f7a1a2909d04222c2d2714935de6f7c.png" length="216944" type="image/png"/>
+      <pubDate>Tue, 08 Aug 2023 11:30:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pagan Altar - The Interlude (1 play)</title>
+      <link>https://www.last.fm/music/Pagan+Altar/_/The+Interlude</link>
+      <guid isPermaLink="false">manosg--1691509286--8162d8d3-ae45-4550-87f1-fa1262166e8a---The Interlude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f7a1a2909d04222c2d2714935de6f7c.png" length="216944" type="image/png"/>
+      <pubDate>Tue, 08 Aug 2023 11:41:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pagan Altar - The Aftermath (1 play)</title>
+      <link>https://www.last.fm/music/Pagan+Altar/_/The+Aftermath</link>
+      <guid isPermaLink="false">manosg--1691509542--8162d8d3-ae45-4550-87f1-fa1262166e8a---The Aftermath</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f7a1a2909d04222c2d2714935de6f7c.png" length="216944" type="image/png"/>
+      <pubDate>Tue, 08 Aug 2023 11:45:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
