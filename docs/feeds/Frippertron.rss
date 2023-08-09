@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Aug 2023 02:42:44 +0000</lastBuildDate>
-    <item>
-      <title>Big Star - Nightime (16 plays)</title>
-      <link>https://www.last.fm/music/Big+Star/_/Nightime</link>
-      <guid isPermaLink="false">Frippertron-1691485011--21d177ba-3d51-461e-9b3f-ad9a80b419dc---Nightime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/deb88b6beb9956f6cf4f9fe8d06c0b5d.png" length="165841" type="image/png"/>
-      <pubDate>Tue, 08 Aug 2023 04:56:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Big Star - Blue Moon (16 plays)</title>
-      <link>https://www.last.fm/music/Big+Star/_/Blue+Moon</link>
-      <guid isPermaLink="false">Frippertron-1691485187--21d177ba-3d51-461e-9b3f-ad9a80b419dc---Blue Moon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/deb88b6beb9956f6cf4f9fe8d06c0b5d.png" length="165841" type="image/png"/>
-      <pubDate>Tue, 08 Aug 2023 04:59:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Aug 2023 02:54:23 +0000</lastBuildDate>
     <item>
       <title>Big Star - Take Care (18 plays)</title>
       <link>https://www.last.fm/music/Big+Star/_/Take+Care</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1691548852--070d193a-845c-479f-980e-bef15710653e---Do U Lie?</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebc8fc5ad74f9b8c783fb2d70fa23d2.jpg" length="18240" type="image/jpeg"/>
       <pubDate>Tue, 08 Aug 2023 22:40:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prince - Kiss (75 plays)</title>
+      <link>https://www.last.fm/music/Prince/_/Kiss</link>
+      <guid isPermaLink="false">Frippertron-1691549019--070d193a-845c-479f-980e-bef15710653e---Kiss</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebc8fc5ad74f9b8c783fb2d70fa23d2.jpg" length="18240" type="image/jpeg"/>
+      <pubDate>Tue, 08 Aug 2023 22:43:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prince - Anotherloverholenyohead (32 plays)</title>
+      <link>https://www.last.fm/music/Prince/_/Anotherloverholenyohead</link>
+      <guid isPermaLink="false">Frippertron-1691549238--070d193a-845c-479f-980e-bef15710653e---Anotherloverholenyohead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebc8fc5ad74f9b8c783fb2d70fa23d2.jpg" length="18240" type="image/jpeg"/>
+      <pubDate>Tue, 08 Aug 2023 22:47:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
