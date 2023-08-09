@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Aug 2023 20:37:36 +0000</lastBuildDate>
-    <item>
-      <title>Nick Leng - Monkey's Wedding (1 play)</title>
-      <link>https://www.last.fm/music/Nick+Leng/_/Monkey%27s+Wedding</link>
-      <guid isPermaLink="false">ddgromit-1691017041--b5b13e0a-8006-463d-bafe-944dcdd21608---Monkey's Wedding</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24718d5a27b00b49f821d7a698183d54.jpg" length="26449" type="image/jpeg"/>
-      <pubDate>Wed, 02 Aug 2023 18:57:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lana Del Rey - Buddy's Rendezvous (2 plays)</title>
-      <link>https://www.last.fm/music/Lana+Del+Rey/_/Buddy%27s+Rendezvous</link>
-      <guid isPermaLink="false">ddgromit-1691017220--b7539c32-53e7-4908-bda3-81449c367da6---Buddy's Rendezvous</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e62818c7be176c59034eb5c7b91081e.jpg" length="17553" type="image/jpeg"/>
-      <pubDate>Wed, 02 Aug 2023 19:00:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>Hermanos Gutiérrez - Cerca De Ti (2 plays)</title>
-      <link>https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/Cerca+De+Ti</link>
-      <guid isPermaLink="false">ddgromit-1691017511--Hermanos Gutiérrez---Cerca De Ti</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/827a23f3b188d82cb694b7fb7fbe50b2.jpg" length="13273" type="image/jpeg"/>
-      <pubDate>Wed, 02 Aug 2023 19:05:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>((( o ))) - sanctuary (1 play)</title>
-      <link>https://www.last.fm/music/(((+o+)))/_/sanctuary</link>
-      <guid isPermaLink="false">ddgromit-1691017615--((( o )))---sanctuary</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d57c7b119eed09e1ac70fb59acc360f.jpg" length="22039" type="image/jpeg"/>
-      <pubDate>Wed, 02 Aug 2023 19:06:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Aug 2023 20:52:30 +0000</lastBuildDate>
     <item>
       <title>Jackson Lundy - medicine (1 play)</title>
       <link>https://www.last.fm/music/Jackson+Lundy/_/medicine</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">ddgromit-1691613223--aa914efa-d6cb-4816-906f-8edafb08418e---The Fall</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/800db885eb0548afa3694b1b92242607.png" length="121558" type="image/png"/>
       <pubDate>Wed, 09 Aug 2023 16:33:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ezéchiel Pailhès - Octobre (2 plays)</title>
+      <link>https://www.last.fm/music/Ez%C3%A9chiel+Pailh%C3%A8s/_/Octobre</link>
+      <guid isPermaLink="false">ddgromit-1691613448--Ezéchiel Pailhès---Octobre</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76be2d65e79e318f9b82e13069067fa5.jpg" length="10574" type="image/jpeg"/>
+      <pubDate>Wed, 09 Aug 2023 16:37:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sylvan Esso - Radio (4 plays)</title>
+      <link>https://www.last.fm/music/Sylvan+Esso/_/Radio</link>
+      <guid isPermaLink="false">ddgromit-1691613587--c4593b34-2a94-4e44-ae10-4a0f4c0b4da8---Radio</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d062d090e29fb9bb601069786279926.jpg" length="17717" type="image/jpeg"/>
+      <pubDate>Wed, 09 Aug 2023 16:39:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jungle - Lifting You (14 plays)</title>
+      <link>https://www.last.fm/music/Jungle/_/Lifting+You</link>
+      <guid isPermaLink="false">ddgromit-1691613801--6bbb3983-ce8a-4971-96e0-7cae73268fc4---Lifting You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21544405ea08c114a7266549dc60d7e7.jpg" length="7008" type="image/jpeg"/>
+      <pubDate>Wed, 09 Aug 2023 16:43:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leisure - Take You Higher (16 plays)</title>
+      <link>https://www.last.fm/music/Leisure/_/Take+You+Higher</link>
+      <guid isPermaLink="false">ddgromit-1691613967--f67d22da-7fe8-40f8-8495-b903e74fd094---Take You Higher</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3bc06f5fbf763ddc197d2fe68134b4f.jpg" length="15033" type="image/jpeg"/>
+      <pubDate>Wed, 09 Aug 2023 16:46:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
