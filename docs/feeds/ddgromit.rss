@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Aug 2023 20:15:13 +0000</lastBuildDate>
-    <item>
-      <title>FKJ - Tui (1 play)</title>
-      <link>https://www.last.fm/music/FKJ/_/Tui</link>
-      <guid isPermaLink="false">ddgromit-1691616790--8ef74994-73f6-459c-a10c-56a16e07b362---Tui</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/169c2216b111cc6cd194d28881961427.jpg" length="17847" type="image/jpeg"/>
-      <pubDate>Wed, 09 Aug 2023 17:33:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>Hermanos Gutiérrez - Sonora (2 plays)</title>
-      <link>https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/Sonora</link>
-      <guid isPermaLink="false">ddgromit-1691616900--Hermanos Gutiérrez---Sonora</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a12fe19fba0e2869d64ccd78f6dd0dc.jpg" length="19917" type="image/jpeg"/>
-      <pubDate>Wed, 09 Aug 2023 17:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tycho - Awake (22 plays)</title>
-      <link>https://www.last.fm/music/Tycho/_/Awake</link>
-      <guid isPermaLink="false">ddgromit-1691616964--cbef45a9-7acb-4325-94c9-70081ac8d1b8---Awake</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b321dda0064f33d510aa718130a61f8.jpg" length="8376" type="image/jpeg"/>
-      <pubDate>Wed, 09 Aug 2023 17:36:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Michael Nau - Love Survive (3 plays)</title>
-      <link>https://www.last.fm/music/Michael+Nau/_/Love+Survive</link>
-      <guid isPermaLink="false">ddgromit-1691617248--567f3771-1b6b-4f43-b0c0-69e128e5789a---Love Survive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1208d3d85350b408d2e130b574b3291.jpg" length="11558" type="image/jpeg"/>
-      <pubDate>Wed, 09 Aug 2023 17:40:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Aug 2023 20:27:10 +0000</lastBuildDate>
     <item>
       <title>Esbe - Darling (3 plays)</title>
       <link>https://www.last.fm/music/Esbe/_/Darling</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">ddgromit-1691698294--Anyma---Syren</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e99fd1500bd708b1ef4a48b01b2516b7.png" length="126679" type="image/png"/>
       <pubDate>Thu, 10 Aug 2023 16:11:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gorgon City - Pose (1 play)</title>
+      <link>https://www.last.fm/music/Gorgon+City/_/Pose</link>
+      <guid isPermaLink="false">ddgromit-1691698480--ba8aaa28-2de4-4d5c-824e-1e9d49235c55---Pose</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/514eaa3bd25f8b763c3f1db7f6b44334.jpg" length="25377" type="image/jpeg"/>
+      <pubDate>Thu, 10 Aug 2023 16:14:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Blessed Madonna - Mercy (feat. Jacob Lusk) (1 play)</title>
+      <link>https://www.last.fm/music/The+Blessed+Madonna/_/Mercy+(feat.+Jacob+Lusk)</link>
+      <guid isPermaLink="false">ddgromit-1691698656--3f351696-75a2-4167-86b1-c5cd37770600---Mercy (feat. Jacob Lusk)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f84e7fbedca40082c583102085a3ca29.jpg" length="34345" type="image/jpeg"/>
+      <pubDate>Thu, 10 Aug 2023 16:17:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kungs - Shadows (1 play)</title>
+      <link>https://www.last.fm/music/Kungs/_/Shadows</link>
+      <guid isPermaLink="false">ddgromit-1691698811--a125cd83-a379-4935-a7ec-beaa778bad70---Shadows</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/31193d8a5e40e6abb035fdba1235365a.jpg" length="27710" type="image/jpeg"/>
+      <pubDate>Thu, 10 Aug 2023 16:20:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alok - Car Keys (Ayla) (1 play)</title>
+      <link>https://www.last.fm/music/Alok/_/Car+Keys+(Ayla)</link>
+      <guid isPermaLink="false">ddgromit-1691699004--311dc522-c8c6-4114-9b6c-3ed0ed41316f---Car Keys (Ayla)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dc5db0d376999063f2cfa9ff5e3bb5c3.jpg" length="16954" type="image/jpeg"/>
+      <pubDate>Thu, 10 Aug 2023 16:23:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
