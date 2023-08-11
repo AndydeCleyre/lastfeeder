@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Aug 2023 19:23:31 +0000</lastBuildDate>
-    <item>
-      <title>Poindexter - Mammoth (1 play)</title>
-      <link>https://www.last.fm/music/Poindexter/_/Mammoth</link>
-      <guid isPermaLink="false">lintmunro-1690668417--9090a6e5-7127-4832-b47d-2f620a6b0cd9---Mammoth</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef4097d643922c216b4f5eca8c628fc3.jpg" length="24876" type="image/jpeg"/>
-      <pubDate>Sat, 29 Jul 2023 18:06:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Aug 2023 20:37:53 +0000</lastBuildDate>
     <item>
       <title>Poindexter - Serendipity (1 play)</title>
       <link>https://www.last.fm/music/Poindexter/_/Serendipity</link>
@@ -348,7 +341,6 @@
       <title>By Storm - Double Trio (1 play)</title>
       <link>https://www.last.fm/music/By+Storm/_/Double+Trio</link>
       <guid isPermaLink="false">lintmunro-1691781034--By Storm---Double Trio</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61cc7e93e9161cc101a88987f3f2da04.jpg" length="21435" type="image/jpeg"/>
       <pubDate>Fri, 11 Aug 2023 15:10:34 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">lintmunro-1691781326--49d47930-aaba-4caf-8a80-31be20d0e8f6---home</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bdf7b55cd2f831307a04475a152912e.jpg" length="40429" type="image/jpeg"/>
       <pubDate>Fri, 11 Aug 2023 15:15:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>High on Fire - 10,000 Years (1 play)</title>
+      <link>https://www.last.fm/music/High+on+Fire/_/10,000+Years</link>
+      <guid isPermaLink="false">lintmunro-1691781547--720249d5-62c5-4679-8ead-dcda3329d6e7---10,000 Years</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c28a2608513fdd498b37ad0be1d8c80f.jpg" length="29988" type="image/jpeg"/>
+      <pubDate>Fri, 11 Aug 2023 15:19:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
