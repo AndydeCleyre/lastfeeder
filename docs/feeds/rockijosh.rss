@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Aug 2023 22:26:32 +0000</lastBuildDate>
-    <item>
-      <title>Billy Joel - You May Be Right (33 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/You+May+Be+Right</link>
-      <guid isPermaLink="false">rockijosh-1691868403--64b94289-9474-4d43-8c93-918ccc1920d1---You May Be Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4df4ae3b4c04237ad0dc41b3032e2bf.png" length="209932" type="image/png"/>
-      <pubDate>Sat, 12 Aug 2023 15:26:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>Massive Attack - I Against I (1 play)</title>
-      <link>https://www.last.fm/music/Massive+Attack/_/I+Against+I</link>
-      <guid isPermaLink="false">rockijosh-1691868658--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---I Against I</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/290593d71a774363a2afa522666da499.png" length="213044" type="image/png"/>
-      <pubDate>Sat, 12 Aug 2023 15:30:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 13 Aug 2023 22:37:50 +0000</lastBuildDate>
     <item>
       <title>Mayday Parade - Somebody That I Used To Know (8 plays)</title>
       <link>https://www.last.fm/music/Mayday+Parade/_/Somebody+That+I+Used+To+Know</link>
@@ -30,7 +16,7 @@
       <pubDate>Sat, 12 Aug 2023 15:36:51 -0400</pubDate>
     </item>
     <item>
-      <title>Eyes Set to Kill - Broken Frames (60 plays)</title>
+      <title>Eyes Set to Kill - Broken Frames (61 plays)</title>
       <link>https://www.last.fm/music/Eyes+Set+to+Kill/_/Broken+Frames</link>
       <guid isPermaLink="false">rockijosh-1691871884--5c56a575-f1f4-4290-9f41-d7193c9657c4---Broken Frames</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/739e37db26b04e6963744065a6173394.jpg" length="48112" type="image/jpeg"/>
@@ -110,6 +96,7 @@
       <title>X - Poor Girl (1 play)</title>
       <link>https://www.last.fm/music/X/_/Poor+Girl</link>
       <guid isPermaLink="false">rockijosh-1691884018--X---Poor Girl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2035a48fc494706890361f6cfb2ac53.png" length="207257" type="image/png"/>
       <pubDate>Sat, 12 Aug 2023 19:46:58 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1691965388--Estelle Allen---dui</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b3c6eb6c36b225e29bc3178af501d6b.png" length="189987" type="image/png"/>
       <pubDate>Sun, 13 Aug 2023 18:23:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eyes Set to Kill - Broken Frames (61 plays)</title>
+      <link>https://www.last.fm/music/Eyes+Set+to+Kill/_/Broken+Frames</link>
+      <guid isPermaLink="false">rockijosh-1691965489--5c56a575-f1f4-4290-9f41-d7193c9657c4---Broken Frames</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/739e37db26b04e6963744065a6173394.jpg" length="48112" type="image/jpeg"/>
+      <pubDate>Sun, 13 Aug 2023 18:24:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Billy Joel - You May Be Right (34 plays)</title>
+      <link>https://www.last.fm/music/Billy+Joel/_/You+May+Be+Right</link>
+      <guid isPermaLink="false">rockijosh-1691965663--64b94289-9474-4d43-8c93-918ccc1920d1---You May Be Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4df4ae3b4c04237ad0dc41b3032e2bf.png" length="209932" type="image/png"/>
+      <pubDate>Sun, 13 Aug 2023 18:27:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
