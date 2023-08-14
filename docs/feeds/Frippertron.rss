@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Aug 2023 18:19:09 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Young Americans (72 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Young+Americans</link>
-      <guid isPermaLink="false">Frippertron-1691996998--5441c29d-3602-4898-b1a1-b77fa23b8e50---Young Americans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 14 Aug 2023 03:09:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Aug 2023 18:37:59 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Somebody Up There Likes Me (58 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1692036786--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Bear</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/145cf0b3fffe44d3c44c2e5ef2d08699.png" length="80382" type="image/png"/>
       <pubDate>Mon, 14 Aug 2023 14:13:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - The Second Arrangement (1 play)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/The+Second+Arrangement</link>
+      <guid isPermaLink="false">Frippertron-1692037110--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Second Arrangement</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/145cf0b3fffe44d3c44c2e5ef2d08699.png" length="80382" type="image/png"/>
+      <pubDate>Mon, 14 Aug 2023 14:18:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
