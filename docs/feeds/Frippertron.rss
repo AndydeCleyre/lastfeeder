@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Aug 2023 04:37:51 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - All I Wanna Do (141 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do</link>
-      <guid isPermaLink="false">Frippertron-1692004973--ebfc1398-8d96-47e3-82c3-f782abcdb13d---All I Wanna Do</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ee3ee51391309c17a7cc4fa10f9d6b.jpg" length="27020" type="image/jpeg"/>
-      <pubDate>Mon, 14 Aug 2023 05:22:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Cool, Cool Water (114 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Cool,+Cool+Water</link>
-      <guid isPermaLink="false">Frippertron-1692005201--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Cool, Cool Water</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ee3ee51391309c17a7cc4fa10f9d6b.jpg" length="27020" type="image/jpeg"/>
-      <pubDate>Mon, 14 Aug 2023 05:26:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Aug 2023 04:52:27 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Celebrate The News (2020 Mix) (3 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Celebrate+The+News+(2020+Mix)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1692074124--e0c97a4d-c392-41a9-a374-57af3e3eeab3---Mysterious Love</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
       <pubDate>Tue, 15 Aug 2023 00:35:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Geese - St. Elmo (14 plays)</title>
+      <link>https://www.last.fm/music/Geese/_/St.+Elmo</link>
+      <guid isPermaLink="false">Frippertron-1692074321--e0c97a4d-c392-41a9-a374-57af3e3eeab3---St. Elmo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
+      <pubDate>Tue, 15 Aug 2023 00:38:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Young Widows - The Last Young Widow (47 plays)</title>
+      <link>https://www.last.fm/music/Young+Widows/_/The+Last+Young+Widow</link>
+      <guid isPermaLink="false">Frippertron-1692074539--c9e69e05-2c05-4700-a311-53fe4ffc649e---The Last Young Widow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb0bf35014127b8530bd4f1c9971017.jpg" length="18662" type="image/jpeg"/>
+      <pubDate>Tue, 15 Aug 2023 00:42:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
