@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Aug 2023 17:52:23 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Doctor Wu (5 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Doctor+Wu</link>
-      <guid isPermaLink="false">manosg--1691910038--e01c3376-15fa-40d7-b747-5f219bdefdd7---Doctor Wu</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f60bc2ff234885c830fe07a94f5457.jpg" length="13950" type="image/jpeg"/>
-      <pubDate>Sun, 13 Aug 2023 03:00:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Everyone's Gone To The Movies (4 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Everyone%27s+Gone+To+The+Movies</link>
-      <guid isPermaLink="false">manosg--1691910262--e01c3376-15fa-40d7-b747-5f219bdefdd7---Everyone's Gone To The Movies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f60bc2ff234885c830fe07a94f5457.jpg" length="13950" type="image/jpeg"/>
-      <pubDate>Sun, 13 Aug 2023 03:04:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Your Gold Teeth II (7 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Your+Gold+Teeth+II</link>
-      <guid isPermaLink="false">manosg--1691937146--e01c3376-15fa-40d7-b747-5f219bdefdd7---Your Gold Teeth II</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f60bc2ff234885c830fe07a94f5457.jpg" length="13950" type="image/jpeg"/>
-      <pubDate>Sun, 13 Aug 2023 10:32:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Aug 2023 05:14:20 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Your Gold Teeth II (7 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Your+Gold+Teeth+II</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1692121395--a48277cc-4052-4cea-95fd-9847d2d09803---Rå Energi</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf5d6216d1416a714577ca7f849d0504.png" length="15159" type="image/png"/>
       <pubDate>Tue, 15 Aug 2023 13:43:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Air Raid - Sinfonia (2 plays)</title>
+      <link>https://www.last.fm/music/Air+Raid/_/Sinfonia</link>
+      <guid isPermaLink="false">manosg--1692121675--e2d9646e-f66b-48a0-acd4-4d7c48d2c9aa---Sinfonia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e94b2222e1e706f8fcf65a923382258.jpg" length="20565" type="image/jpeg"/>
+      <pubDate>Tue, 15 Aug 2023 13:47:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wishbone Ash - Right Or Wrong (1 play)</title>
+      <link>https://www.last.fm/music/Wishbone+Ash/_/Right+Or+Wrong</link>
+      <guid isPermaLink="false">manosg--1692162182--406f1b42-0c9e-4427-aeb7-02f78e188ec4---Right Or Wrong</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb45761dc0394d60cd7484a49385f5f9.jpg" length="28944" type="image/jpeg"/>
+      <pubDate>Wed, 16 Aug 2023 01:03:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bob Dylan - Like a Rolling Stone (10 plays)</title>
+      <link>https://www.last.fm/music/Bob+Dylan/_/Like+a+Rolling+Stone</link>
+      <guid isPermaLink="false">manosg--1692162307--72c536dc-7137-4477-a521-567eeb840fa8---Like a Rolling Stone</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2312403b76a4d75b23b2b5134142d58.png" length="165041" type="image/png"/>
+      <pubDate>Wed, 16 Aug 2023 01:05:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
