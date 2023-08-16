@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Aug 2023 05:39:16 +0000</lastBuildDate>
-    <item>
-      <title>Charli XCX - Porsche (2 plays)</title>
-      <link>https://www.last.fm/music/Charli+XCX/_/Porsche</link>
-      <guid isPermaLink="false">Frippertron-1692094225--260b6184-8828-48eb-945c-bc4cb6fc34ca---Porsche</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d6b5e3bc8e296f2fbfdb5489c9c2dcb.jpg" length="15427" type="image/jpeg"/>
-      <pubDate>Tue, 15 Aug 2023 06:10:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Charli XCX - Track 10 (2 plays)</title>
-      <link>https://www.last.fm/music/Charli+XCX/_/Track+10</link>
-      <guid isPermaLink="false">Frippertron-1692094453--260b6184-8828-48eb-945c-bc4cb6fc34ca---Track 10</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d6b5e3bc8e296f2fbfdb5489c9c2dcb.jpg" length="15427" type="image/jpeg"/>
-      <pubDate>Tue, 15 Aug 2023 06:14:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Aug 2023 05:52:21 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - All I Wanna Do (144 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do</link>
@@ -156,7 +142,7 @@
       <pubDate>Tue, 15 Aug 2023 23:15:10 -0400</pubDate>
     </item>
     <item>
-      <title>The Beach Boys - Baby Baby (4 plays)</title>
+      <title>The Beach Boys - Baby Baby</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Baby+Baby</link>
       <guid isPermaLink="false">Frippertron-1692155924--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Baby Baby</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ee3ee51391309c17a7cc4fa10f9d6b.jpg" length="27020" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1692163981--5441c29d-3602-4898-b1a1-b77fa23b8e50---Who Can I Be Now?</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3bb8b933396a67eec030f11caf6ec646.jpg" length="17984" type="image/jpeg"/>
       <pubDate>Wed, 16 Aug 2023 01:33:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Fame (175 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Fame</link>
+      <guid isPermaLink="false">Frippertron-1692164265--5441c29d-3602-4898-b1a1-b77fa23b8e50---Fame</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
+      <pubDate>Wed, 16 Aug 2023 01:37:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - bmbmbm (152 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/bmbmbm</link>
+      <guid isPermaLink="false">Frippertron-1692164569--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---bmbmbm</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1136599c000685a5aafe9dafe57515f3.png" length="63513" type="image/png"/>
+      <pubDate>Wed, 16 Aug 2023 01:42:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
