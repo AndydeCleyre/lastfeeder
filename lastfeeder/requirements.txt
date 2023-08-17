@@ -18,7 +18,7 @@ httpcore==0.17.3
     # via httpx
 httpx==0.24.1
     # via -r requirements.in
-humanize==4.7.0
+humanize==4.8.0
     # via delorean
 idna==3.4
     # via
