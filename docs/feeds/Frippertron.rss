@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Aug 2023 07:13:33 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - The Second Arrangement (9 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/The+Second+Arrangement</link>
-      <guid isPermaLink="false">Frippertron-1692267272--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Second Arrangement</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/145cf0b3fffe44d3c44c2e5ef2d08699.png" length="80382" type="image/png"/>
-      <pubDate>Thu, 17 Aug 2023 06:14:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Aug 2023 07:25:16 +0000</lastBuildDate>
     <item>
       <title>Failure - Saturday Saviour (17 plays)</title>
       <link>https://www.last.fm/music/Failure/_/Saturday+Saviour</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1692342499--7f2a8098-50e3-451c-8696-c5d9f64f4762---Map Ref. 41ºN 93ºW</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9a735db747c4774aafa9fb929dca5f6.jpg" length="10851" type="image/jpeg"/>
       <pubDate>Fri, 18 Aug 2023 03:08:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Watcher of the Skies (96 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Watcher+of+the+Skies</link>
+      <guid isPermaLink="false">Frippertron-1692342762--Genesis---Watcher of the Skies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae2f821e1b1d46099a4a63d939ae78f5.jpg" length="27747" type="image/jpeg"/>
+      <pubDate>Fri, 18 Aug 2023 03:12:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
