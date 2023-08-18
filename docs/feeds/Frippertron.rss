@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Aug 2023 10:37:26 +0000</lastBuildDate>
-    <item>
-      <title>Yellow Magic Orchestra - Tong Poo (65 plays)</title>
-      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Tong+Poo</link>
-      <guid isPermaLink="false">Frippertron-1692250186--ac5af671-1df0-4312-8b7b-e61992ecc883---Tong Poo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c80547cecb6444a170f98128430f0add.jpg" length="26506" type="image/jpeg"/>
-      <pubDate>Thu, 17 Aug 2023 01:29:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yellow Magic Orchestra - Rydeen (50 plays)</title>
-      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Rydeen</link>
-      <guid isPermaLink="false">Frippertron-1692250488--ac5af671-1df0-4312-8b7b-e61992ecc883---Rydeen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c18a765927dcd3befa8b63a587fc625e.jpg" length="23267" type="image/jpeg"/>
-      <pubDate>Thu, 17 Aug 2023 01:34:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Aug 2023 02:19:01 +0000</lastBuildDate>
     <item>
       <title>Yellow Magic Orchestra - Behind the Mask (80 plays)</title>
       <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Behind+the+Mask</link>
@@ -177,14 +163,14 @@
       <pubDate>Thu, 17 Aug 2023 04:12:46 -0400</pubDate>
     </item>
     <item>
-      <title>Failure - Saturday Saviour (16 plays)</title>
+      <title>Failure - Saturday Saviour (17 plays)</title>
       <link>https://www.last.fm/music/Failure/_/Saturday+Saviour</link>
       <guid isPermaLink="false">Frippertron-1692260283--Failure---Saturday Saviour</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ba52b60a91a41eba6ee2b2eb4b52b5b.jpg" length="29503" type="image/jpeg"/>
       <pubDate>Thu, 17 Aug 2023 04:18:03 -0400</pubDate>
     </item>
     <item>
-      <title>Failure - Sergeant Politeness (16 plays)</title>
+      <title>Failure - Sergeant Politeness (17 plays)</title>
       <link>https://www.last.fm/music/Failure/_/Sergeant+Politeness</link>
       <guid isPermaLink="false">Frippertron-1692260551--Failure---Sergeant Politeness</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ba52b60a91a41eba6ee2b2eb4b52b5b.jpg" length="29503" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1692267272--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Second Arrangement</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/145cf0b3fffe44d3c44c2e5ef2d08699.png" length="80382" type="image/png"/>
       <pubDate>Thu, 17 Aug 2023 06:14:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Failure - Saturday Saviour (17 plays)</title>
+      <link>https://www.last.fm/music/Failure/_/Saturday+Saviour</link>
+      <guid isPermaLink="false">Frippertron-1692324725--Failure---Saturday Saviour</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ba52b60a91a41eba6ee2b2eb4b52b5b.jpg" length="29503" type="image/jpeg"/>
+      <pubDate>Thu, 17 Aug 2023 22:12:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Failure - Sergeant Politeness (17 plays)</title>
+      <link>https://www.last.fm/music/Failure/_/Sergeant+Politeness</link>
+      <guid isPermaLink="false">Frippertron-1692324919--Failure---Sergeant Politeness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ba52b60a91a41eba6ee2b2eb4b52b5b.jpg" length="29503" type="image/jpeg"/>
+      <pubDate>Thu, 17 Aug 2023 22:15:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
