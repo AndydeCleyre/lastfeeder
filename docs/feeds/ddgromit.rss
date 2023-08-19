@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Aug 2023 01:04:12 +0000</lastBuildDate>
-    <item>
-      <title>Mezerg - Blu-Tack (8 plays)</title>
-      <link>https://www.last.fm/music/Mezerg/_/Blu-Tack</link>
-      <guid isPermaLink="false">ddgromit-1692223221--d1b53fc3-4223-4c51-a7c4-993fbb5880f8---Blu-Tack</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/261cec3c6875bc3ec689045e98adfa70.jpg" length="28611" type="image/jpeg"/>
-      <pubDate>Wed, 16 Aug 2023 18:00:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Else - Ambre (4 plays)</title>
-      <link>https://www.last.fm/music/Else/_/Ambre</link>
-      <guid isPermaLink="false">ddgromit-1692223462--4e41e23f-018f-41af-af43-cb30ddb33f51---Ambre</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce6eb87d54b2e536b63ba4668474530c.jpg" length="5901" type="image/jpeg"/>
-      <pubDate>Wed, 16 Aug 2023 18:04:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Aug 2023 03:52:18 +0000</lastBuildDate>
     <item>
       <title>Matter Of Tact - 00 14 53 (6 plays)</title>
       <link>https://www.last.fm/music/Matter+Of+Tact/_/00+14+53</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1692404361--d5d5ba92-4bd4-4975-9806-99339eed3046---Shake My Sillies Out</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08a8f42e01424d039069dfe180d2ec4e.jpg" length="27862" type="image/jpeg"/>
       <pubDate>Fri, 18 Aug 2023 20:19:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Raffi - Baby Beluga (32 plays)</title>
+      <link>https://www.last.fm/music/Raffi/_/Baby+Beluga</link>
+      <guid isPermaLink="false">ddgromit-1692404426--d5d5ba92-4bd4-4975-9806-99339eed3046---Baby Beluga</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24ec55558fcc4c2cae7242119563a70d.jpg" length="19879" type="image/jpeg"/>
+      <pubDate>Fri, 18 Aug 2023 20:20:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Billy Joel - The Entertainer (1 play)</title>
+      <link>https://www.last.fm/music/Billy+Joel/_/The+Entertainer</link>
+      <guid isPermaLink="false">ddgromit-1692416406--64b94289-9474-4d43-8c93-918ccc1920d1---The Entertainer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3792067fdad941708cc9dc5657b1453b.png" length="176150" type="image/png"/>
+      <pubDate>Fri, 18 Aug 2023 23:40:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
