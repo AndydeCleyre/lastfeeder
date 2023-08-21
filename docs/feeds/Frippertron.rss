@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Aug 2023 10:37:42 +0000</lastBuildDate>
-    <item>
-      <title>Laurel Halo - Thaw (43 plays)</title>
-      <link>https://www.last.fm/music/Laurel+Halo/_/Thaw</link>
-      <guid isPermaLink="false">Frippertron-1692596097--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Thaw</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c07e216742143ad92ca86e4d6c7831f.png" length="259409" type="image/png"/>
-      <pubDate>Mon, 21 Aug 2023 01:34:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Aug 2023 16:39:22 +0000</lastBuildDate>
     <item>
       <title>Laurel Halo - Joy (41 plays)</title>
       <link>https://www.last.fm/music/Laurel+Halo/_/Joy</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1692613162--0c751690-c784-4a4f-b1e4-c1de27d47581---Royal and Desire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d65e033c5b1339a7aae6d10be5a6784a.jpg" length="33214" type="image/jpeg"/>
       <pubDate>Mon, 21 Aug 2023 06:19:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fela Kuti - Unknown Soldier (1 play)</title>
+      <link>https://www.last.fm/music/Fela+Kuti/_/Unknown+Soldier</link>
+      <guid isPermaLink="false">Frippertron-1692635506--6514cffa-fbe0-4965-ad88-e998ead8a82a---Unknown Soldier</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcc8686c9d144e29aab170cbb411a7a9.jpg" length="48521" type="image/jpeg"/>
+      <pubDate>Mon, 21 Aug 2023 12:31:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
