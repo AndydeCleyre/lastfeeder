@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Aug 2023 17:13:44 +0000</lastBuildDate>
-    <item>
-      <title>Laurel Halo - Wow (44 plays)</title>
-      <link>https://www.last.fm/music/Laurel+Halo/_/Wow</link>
-      <guid isPermaLink="false">Frippertron-1692596930--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Wow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c07e216742143ad92ca86e4d6c7831f.png" length="259409" type="image/png"/>
-      <pubDate>Mon, 21 Aug 2023 01:48:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Aug 2023 17:26:37 +0000</lastBuildDate>
     <item>
       <title>Laurel Halo - Carcass (39 plays)</title>
       <link>https://www.last.fm/music/Laurel+Halo/_/Carcass</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1692637652--45610c1f-41a4-44f1-9da6-227510073ffc---Chaitius</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ee296bc1ea8dfcc004f9749da12b48b.jpg" length="19828" type="image/jpeg"/>
       <pubDate>Mon, 21 Aug 2023 13:07:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Julia Holter - I Shall Love 2 (11 plays)</title>
+      <link>https://www.last.fm/music/Julia+Holter/_/I+Shall+Love+2</link>
+      <guid isPermaLink="false">Frippertron-1692638148--45610c1f-41a4-44f1-9da6-227510073ffc---I Shall Love 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ee296bc1ea8dfcc004f9749da12b48b.jpg" length="19828" type="image/jpeg"/>
+      <pubDate>Mon, 21 Aug 2023 13:15:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
