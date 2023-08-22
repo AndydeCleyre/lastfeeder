@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Aug 2023 04:18:06 +0000</lastBuildDate>
-    <item>
-      <title>Low - Hey (11 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Hey</link>
-      <guid isPermaLink="false">Frippertron-1692607581--92de643f-fa8f-4e68-b627-4376711b7b33---Hey</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 21 Aug 2023 04:46:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Low - Days Like These (8 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Days+Like+These</link>
-      <guid isPermaLink="false">Frippertron-1692608045--92de643f-fa8f-4e68-b627-4376711b7b33---Days Like These</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 21 Aug 2023 04:54:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Low - There's a Comma After Still (8 plays)</title>
-      <link>https://www.last.fm/music/Low/_/There%27s+a+Comma+After+Still</link>
-      <guid isPermaLink="false">Frippertron-1692608370--92de643f-fa8f-4e68-b627-4376711b7b33---There's a Comma After Still</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 21 Aug 2023 04:59:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Low - Don't Walk Away (8 plays)</title>
-      <link>https://www.last.fm/music/Low/_/Don%27t+Walk+Away</link>
-      <guid isPermaLink="false">Frippertron-1692608484--92de643f-fa8f-4e68-b627-4376711b7b33---Don't Walk Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
-      <pubDate>Mon, 21 Aug 2023 05:01:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Aug 2023 04:37:39 +0000</lastBuildDate>
     <item>
       <title>Low - More (8 plays)</title>
       <link>https://www.last.fm/music/Low/_/More</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1692676846--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---Dirt</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1bc149e960d80c3bd55e3920695b663.jpg" length="22393" type="image/jpeg"/>
       <pubDate>Tue, 22 Aug 2023 00:00:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Geese - 2122 (25 plays)</title>
+      <link>https://www.last.fm/music/Geese/_/2122</link>
+      <guid isPermaLink="false">Frippertron-1692678159--e0c97a4d-c392-41a9-a374-57af3e3eeab3---2122</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
+      <pubDate>Tue, 22 Aug 2023 00:22:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Geese - 3D Country (21 plays)</title>
+      <link>https://www.last.fm/music/Geese/_/3D+Country</link>
+      <guid isPermaLink="false">Frippertron-1692678393--e0c97a4d-c392-41a9-a374-57af3e3eeab3---3D Country</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
+      <pubDate>Tue, 22 Aug 2023 00:26:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Geese - Cowboy Nudes (27 plays)</title>
+      <link>https://www.last.fm/music/Geese/_/Cowboy+Nudes</link>
+      <guid isPermaLink="false">Frippertron-1692678710--e0c97a4d-c392-41a9-a374-57af3e3eeab3---Cowboy Nudes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
+      <pubDate>Tue, 22 Aug 2023 00:31:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Geese - I See Myself (18 plays)</title>
+      <link>https://www.last.fm/music/Geese/_/I+See+Myself</link>
+      <guid isPermaLink="false">Frippertron-1692678882--e0c97a4d-c392-41a9-a374-57af3e3eeab3---I See Myself</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
+      <pubDate>Tue, 22 Aug 2023 00:34:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
