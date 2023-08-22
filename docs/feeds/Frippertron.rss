@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Aug 2023 07:13:58 +0000</lastBuildDate>
-    <item>
-      <title>Alice in Chains - I Stay Away (4 plays)</title>
-      <link>https://www.last.fm/music/Alice+in+Chains/_/I+Stay+Away</link>
-      <guid isPermaLink="false">Frippertron-1692644586--4bd95eea-b9f6-4d70-a36c-cfea77431553---I Stay Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4fc787619d07768309e5307e47cab9c3.gif" length="367445" type="image/gif"/>
-      <pubDate>Mon, 21 Aug 2023 15:03:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Aug 2023 07:25:49 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Sorrow (35 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Sorrow</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1692688083--3979eee5-c72a-4b0a-9191-a0243881250a---Marathon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/575a3ccb75aa983e0c21a111b277bc41.jpg" length="26147" type="image/jpeg"/>
       <pubDate>Tue, 22 Aug 2023 03:08:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - A Pitcher of Summer (113 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/A+Pitcher+of+Summer</link>
+      <guid isPermaLink="false">Frippertron-1692688697--3979eee5-c72a-4b0a-9191-a0243881250a---A Pitcher of Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/575a3ccb75aa983e0c21a111b277bc41.jpg" length="26147" type="image/jpeg"/>
+      <pubDate>Tue, 22 Aug 2023 03:18:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
