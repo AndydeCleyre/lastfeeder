@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Aug 2023 17:13:33 +0000</lastBuildDate>
-    <item>
-      <title>Daniel Pemberton - My Name Is... Miles Morales (1 play)</title>
-      <link>https://www.last.fm/music/Daniel+Pemberton/_/My+Name+Is...+Miles+Morales</link>
-      <guid isPermaLink="false">ddgromit-1692596698--49c4816a-dcbe-4dfa-866a-563a51b76f48---My Name Is... Miles Morales</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50f780598c7ff2d68c63e7b98d1a125b.jpg" length="27933" type="image/jpeg"/>
-      <pubDate>Mon, 21 Aug 2023 01:44:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Daniel Pemberton - Back Where It All Started (1 play)</title>
-      <link>https://www.last.fm/music/Daniel+Pemberton/_/Back+Where+It+All+Started</link>
-      <guid isPermaLink="false">ddgromit-1692596899--49c4816a-dcbe-4dfa-866a-563a51b76f48---Back Where It All Started</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50f780598c7ff2d68c63e7b98d1a125b.jpg" length="27933" type="image/jpeg"/>
-      <pubDate>Mon, 21 Aug 2023 01:48:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Aug 2023 17:26:30 +0000</lastBuildDate>
     <item>
       <title>Daniel Pemberton - To My Son (1 play)</title>
       <link>https://www.last.fm/music/Daniel+Pemberton/_/To+My+Son</link>
@@ -240,7 +226,7 @@
       <pubDate>Mon, 21 Aug 2023 17:19:20 -0400</pubDate>
     </item>
     <item>
-      <title>Francesco Le Metre - Sunset (8 plays)</title>
+      <title>Francesco Le Metre - Sunset (9 plays)</title>
       <link>https://www.last.fm/music/Francesco+Le+Metre/_/Sunset</link>
       <guid isPermaLink="false">ddgromit-1692653043--0e9973f4-9348-4949-b62f-76eee75a9076---Sunset</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1692661562--aa1d4315-5246-42b2-b62b-f997d046d8b2---Greenland</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a716f69c36474a84b8788df11da77650.jpg" length="19849" type="image/jpeg"/>
       <pubDate>Mon, 21 Aug 2023 19:46:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Soul's Release - Catching Fireflies (8 plays)</title>
+      <link>https://www.last.fm/music/The+Soul%27s+Release/_/Catching+Fireflies</link>
+      <guid isPermaLink="false">ddgromit-1692724381--The Soul's Release---Catching Fireflies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c53415f827e4f718b6176a99cc44176.jpg" length="10678" type="image/jpeg"/>
+      <pubDate>Tue, 22 Aug 2023 13:13:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Francesco Le Metre - Sunset (9 plays)</title>
+      <link>https://www.last.fm/music/Francesco+Le+Metre/_/Sunset</link>
+      <guid isPermaLink="false">ddgromit-1692724730--0e9973f4-9348-4949-b62f-76eee75a9076---Sunset</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 22 Aug 2023 13:18:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
