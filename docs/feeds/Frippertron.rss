@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Aug 2023 20:15:42 +0000</lastBuildDate>
-    <item>
-      <title>Alice in Chains - Down in a Hole (1 play)</title>
-      <link>https://www.last.fm/music/Alice+in+Chains/_/Down+in+a+Hole</link>
-      <guid isPermaLink="false">Frippertron-1692681511--4bd95eea-b9f6-4d70-a36c-cfea77431553---Down in a Hole</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35bc4e8dc7345bed22e3763b4ac98efe.jpg" length="23623" type="image/jpeg"/>
-      <pubDate>Tue, 22 Aug 2023 01:18:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Alice in Chains - Sickman (1 play)</title>
-      <link>https://www.last.fm/music/Alice+in+Chains/_/Sickman</link>
-      <guid isPermaLink="false">Frippertron-1692681852--4bd95eea-b9f6-4d70-a36c-cfea77431553---Sickman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35bc4e8dc7345bed22e3763b4ac98efe.jpg" length="23623" type="image/jpeg"/>
-      <pubDate>Tue, 22 Aug 2023 01:24:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Aug 2023 02:19:26 +0000</lastBuildDate>
     <item>
       <title>Alice in Chains - Rooster (1 play)</title>
       <link>https://www.last.fm/music/Alice+in+Chains/_/Rooster</link>
@@ -177,7 +163,7 @@
       <pubDate>Tue, 22 Aug 2023 04:45:29 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - Sweater (14 plays)</title>
+      <title>black midi - Sweater (15 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Sweater</link>
       <guid isPermaLink="false">Frippertron-1692694420--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Sweater</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -191,7 +177,7 @@
       <pubDate>Tue, 22 Aug 2023 05:05:24 -0400</pubDate>
     </item>
     <item>
-      <title>black midi - Talking Heads (106 plays)</title>
+      <title>black midi - Talking Heads (107 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Talking+Heads</link>
       <guid isPermaLink="false">Frippertron-1692695371--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Talking Heads</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1692735201--b15ebd71-a252-417d-9e1c-3e6863da68f8---RV</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9a158a88c169bb31fea3b83f3704d1c.jpg" length="18241" type="image/jpeg"/>
       <pubDate>Tue, 22 Aug 2023 16:13:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Talking Heads (107 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Talking+Heads</link>
+      <guid isPermaLink="false">Frippertron-1692756681--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Talking Heads</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 22 Aug 2023 22:11:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Sweater (15 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Sweater</link>
+      <guid isPermaLink="false">Frippertron-1692756881--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Sweater</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 22 Aug 2023 22:14:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
