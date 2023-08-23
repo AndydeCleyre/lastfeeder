@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Aug 2023 02:37:32 +0000</lastBuildDate>
-    <item>
-      <title>Alice in Chains - Dirt (1 play)</title>
-      <link>https://www.last.fm/music/Alice+in+Chains/_/Dirt</link>
-      <guid isPermaLink="false">Frippertron-1692682872--4bd95eea-b9f6-4d70-a36c-cfea77431553---Dirt</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35bc4e8dc7345bed22e3763b4ac98efe.jpg" length="23623" type="image/jpeg"/>
-      <pubDate>Tue, 22 Aug 2023 01:41:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Alice in Chains - God Smack (1 play)</title>
-      <link>https://www.last.fm/music/Alice+in+Chains/_/God+Smack</link>
-      <guid isPermaLink="false">Frippertron-1692683190--4bd95eea-b9f6-4d70-a36c-cfea77431553---God Smack</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35bc4e8dc7345bed22e3763b4ac98efe.jpg" length="23623" type="image/jpeg"/>
-      <pubDate>Tue, 22 Aug 2023 01:46:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Aug 2023 02:52:32 +0000</lastBuildDate>
     <item>
       <title>Alice in Chains - Iron Gland (1 play)</title>
       <link>https://www.last.fm/music/Alice+in+Chains/_/Iron+Gland</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1692757789--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Crow's Perch</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 22 Aug 2023 22:29:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Sabbath - Wheels of Confusion (10 plays)</title>
+      <link>https://www.last.fm/music/Black+Sabbath/_/Wheels+of+Confusion</link>
+      <guid isPermaLink="false">Frippertron-1692758096--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---Wheels of Confusion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97dba962d396d19f8a1474501e1a487b.jpg" length="18088" type="image/jpeg"/>
+      <pubDate>Tue, 22 Aug 2023 22:34:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - The Remembering (6 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/The+Remembering</link>
+      <guid isPermaLink="false">Frippertron-1692758513--8353f93f-163e-48c2-bb75-9f18987a3d46---The Remembering</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95753961559b45889779c8ba20e3c527.png" length="202621" type="image/png"/>
+      <pubDate>Tue, 22 Aug 2023 22:41:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
