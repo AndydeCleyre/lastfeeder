@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Aug 2023 04:38:21 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - New Song (2 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/New+Song</link>
-      <guid isPermaLink="false">Frippertron-1692808838--ebfc1398-8d96-47e3-82c3-f782abcdb13d---New Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9026697906a6167d8bb56ef30b7a6287.jpg" length="26882" type="image/jpeg"/>
-      <pubDate>Wed, 23 Aug 2023 12:40:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Rock and Roll Woman (1 play)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Rock+and+Roll+Woman</link>
-      <guid isPermaLink="false">Frippertron-1692808932--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Rock and Roll Woman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9026697906a6167d8bb56ef30b7a6287.jpg" length="26882" type="image/jpeg"/>
-      <pubDate>Wed, 23 Aug 2023 12:42:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Aug 2023 04:52:15 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Time to Get Alone [alt vers demo] (2 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Time+to+Get+Alone+%5Balt+vers+demo%5D</link>
@@ -219,7 +205,7 @@
       <pubDate>Wed, 23 Aug 2023 23:03:31 -0400</pubDate>
     </item>
     <item>
-      <title>Queen - Death on Two Legs (Dedicated to...) (43 plays)</title>
+      <title>Queen - Death on Two Legs (Dedicated to...)</title>
       <link>https://www.last.fm/music/Queen/_/Death+on+Two+Legs+(Dedicated+to...)</link>
       <guid isPermaLink="false">Frippertron-1692846553--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Death on Two Legs (Dedicated to...)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1692851595--45610c1f-41a4-44f1-9da6-227510073ffc---Chaitius</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ee296bc1ea8dfcc004f9749da12b48b.jpg" length="19828" type="image/jpeg"/>
       <pubDate>Thu, 24 Aug 2023 00:33:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Julia Holter - Voce Simul (13 plays)</title>
+      <link>https://www.last.fm/music/Julia+Holter/_/Voce+Simul</link>
+      <guid isPermaLink="false">Frippertron-1692852086--45610c1f-41a4-44f1-9da6-227510073ffc---Voce Simul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ee296bc1ea8dfcc004f9749da12b48b.jpg" length="19828" type="image/jpeg"/>
+      <pubDate>Thu, 24 Aug 2023 00:41:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Julia Holter - Everyday Is an Emergency (11 plays)</title>
+      <link>https://www.last.fm/music/Julia+Holter/_/Everyday+Is+an+Emergency</link>
+      <guid isPermaLink="false">Frippertron-1692852483--45610c1f-41a4-44f1-9da6-227510073ffc---Everyday Is an Emergency</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ee296bc1ea8dfcc004f9749da12b48b.jpg" length="19828" type="image/jpeg"/>
+      <pubDate>Thu, 24 Aug 2023 00:48:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
