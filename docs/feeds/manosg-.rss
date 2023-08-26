@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Aug 2023 14:52:58 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - The Fez (8 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/The+Fez</link>
-      <guid isPermaLink="false">manosg--1692889515--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Fez</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/702438b8f9941b96a0a5a90eb871bf14.jpg" length="25750" type="image/jpeg"/>
-      <pubDate>Thu, 24 Aug 2023 11:05:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Aug 2023 15:14:53 +0000</lastBuildDate>
     <item>
       <title>Jackson Browne - Doctor My Eyes (5 plays)</title>
       <link>https://www.last.fm/music/Jackson+Browne/_/Doctor+My+Eyes</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1693060872--The Temptations---The First Time Ever I Saw Your Face</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73d563378f6c799bcccd93956480aad4.jpg" length="21304" type="image/jpeg"/>
       <pubDate>Sat, 26 Aug 2023 10:41:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Temptations - Mother Nature (1 play)</title>
+      <link>https://www.last.fm/music/The+Temptations/_/Mother+Nature</link>
+      <guid isPermaLink="false">manosg--1693061122--The Temptations---Mother Nature</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73d563378f6c799bcccd93956480aad4.jpg" length="21304" type="image/jpeg"/>
+      <pubDate>Sat, 26 Aug 2023 10:45:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
