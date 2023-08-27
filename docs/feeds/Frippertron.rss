@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Aug 2023 15:27:37 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Here Come the Warm Jets (57 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Here+Come+the+Warm+Jets</link>
-      <guid isPermaLink="false">Frippertron-1692942473--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Here Come the Warm Jets</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e89c8997eb8cc31f6b4c5cdddead3419.png" length="223108" type="image/png"/>
-      <pubDate>Fri, 25 Aug 2023 01:47:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>black midi - bmbmbm (153 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/bmbmbm</link>
-      <guid isPermaLink="false">Frippertron-1692942771--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---bmbmbm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ba996f71bc1fd5fb26545e4a4311608.jpg" length="29322" type="image/jpeg"/>
-      <pubDate>Fri, 25 Aug 2023 01:52:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Aug 2023 20:52:15 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Funky Pretty (79 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Funky+Pretty</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1692977079--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Second Arrangement</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/145cf0b3fffe44d3c44c2e5ef2d08699.png" length="80382" type="image/png"/>
       <pubDate>Fri, 25 Aug 2023 11:24:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Camel - Echoes (1 play)</title>
+      <link>https://www.last.fm/music/Camel/_/Echoes</link>
+      <guid isPermaLink="false">Frippertron-1693168549--Camel---Echoes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6054af71b0067fcc066cf38c0eaface0.png" length="163032" type="image/png"/>
+      <pubDate>Sun, 27 Aug 2023 16:35:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lamp - 今夜も君にテレフォンコール (1 play)</title>
+      <link>https://www.last.fm/music/Lamp/_/%E4%BB%8A%E5%A4%9C%E3%82%82%E5%90%9B%E3%81%AB%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB</link>
+      <guid isPermaLink="false">Frippertron-1693169001--Lamp---今夜も君にテレフォンコール</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d99a1f4604ed18a8ed8bfaad96c7fa02.jpg" length="31546" type="image/jpeg"/>
+      <pubDate>Sun, 27 Aug 2023 16:43:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
