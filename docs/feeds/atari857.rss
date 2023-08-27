@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Aug 2023 21:52:51 +0000</lastBuildDate>
-    <item>
-      <title>Green Day - She (4-track demo) (1 play)</title>
-      <link>https://www.last.fm/music/Green+Day/_/She+(4-track+demo)</link>
-      <guid isPermaLink="false">atari857-1692403868--084308bd-1654-436f-ba03-df6697104e19---She (4-track demo)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/09d854899c6e23fd2d4fadb9f18e69e4.jpg" length="10451" type="image/jpeg"/>
-      <pubDate>Fri, 18 Aug 2023 20:11:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Menzingers - There's No Place In This World For Me (12 plays)</title>
-      <link>https://www.last.fm/music/The+Menzingers/_/There%27s+No+Place+In+This+World+For+Me</link>
-      <guid isPermaLink="false">atari857-1692462790--3071d829-b9ca-4499-b4f5-74d6d8531aed---There's No Place In This World For Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3faf80b51ed9f99bd3ead61df7a1a499.jpg" length="21609" type="image/jpeg"/>
-      <pubDate>Sat, 19 Aug 2023 12:33:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Aug 2023 22:13:36 +0000</lastBuildDate>
     <item>
       <title>The Menzingers - There's No Place In This World For Me (12 plays)</title>
       <link>https://www.last.fm/music/The+Menzingers/_/There%27s+No+Place+In+This+World+For+Me</link>
@@ -163,7 +149,7 @@
       <pubDate>Mon, 21 Aug 2023 23:37:15 -0400</pubDate>
     </item>
     <item>
-      <title>Spanish Love Songs - Mutable (1 play)</title>
+      <title>Spanish Love Songs - Mutable (2 plays)</title>
       <link>https://www.last.fm/music/Spanish+Love+Songs/_/Mutable</link>
       <guid isPermaLink="false">atari857-1693011769--5c9dd772-a38f-4873-baa8-4b5d9dff3990---Mutable</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86d1277747217f87b656dc6b47e0b08b.jpg" length="13323" type="image/jpeg"/>
@@ -226,7 +212,7 @@
       <pubDate>Sat, 26 Aug 2023 11:19:58 -0400</pubDate>
     </item>
     <item>
-      <title>Spanish Love Songs - Losers 2 (1 play)</title>
+      <title>Spanish Love Songs - Losers 2 (2 plays)</title>
       <link>https://www.last.fm/music/Spanish+Love+Songs/_/Losers+2</link>
       <guid isPermaLink="false">atari857-1693063970--5c9dd772-a38f-4873-baa8-4b5d9dff3990---Losers 2</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7804d38ed40af5ab766f88d4a7bc4bdf.png" length="195988" type="image/png"/>
@@ -348,6 +334,7 @@
       <title>Zach Bryan - Oklahoma Smokeshow (5 plays)</title>
       <link>https://www.last.fm/music/Zach+Bryan/_/Oklahoma+Smokeshow</link>
       <guid isPermaLink="false">atari857-1693156466--51e90731-08c0-4f60-89b6-5b78e5844de8---Oklahoma Smokeshow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01ad957e787939c5cce1fedf52bfb2f2.jpg" length="25533" type="image/jpeg"/>
       <pubDate>Sun, 27 Aug 2023 13:14:26 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">atari857-1693172935--5c9dd772-a38f-4873-baa8-4b5d9dff3990---Middle of Nine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86d1277747217f87b656dc6b47e0b08b.jpg" length="13323" type="image/jpeg"/>
       <pubDate>Sun, 27 Aug 2023 17:48:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Spanish Love Songs - Mutable (2 plays)</title>
+      <link>https://www.last.fm/music/Spanish+Love+Songs/_/Mutable</link>
+      <guid isPermaLink="false">atari857-1693173507--5c9dd772-a38f-4873-baa8-4b5d9dff3990---Mutable</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86d1277747217f87b656dc6b47e0b08b.jpg" length="13323" type="image/jpeg"/>
+      <pubDate>Sun, 27 Aug 2023 17:58:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Spanish Love Songs - Losers 2 (2 plays)</title>
+      <link>https://www.last.fm/music/Spanish+Love+Songs/_/Losers+2</link>
+      <guid isPermaLink="false">atari857-1693173702--5c9dd772-a38f-4873-baa8-4b5d9dff3990---Losers 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7804d38ed40af5ab766f88d4a7bc4bdf.png" length="195988" type="image/png"/>
+      <pubDate>Sun, 27 Aug 2023 18:01:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
