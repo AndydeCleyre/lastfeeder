@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 18:19:40 +0000</lastBuildDate>
-    <item>
-      <title>Matter Of Tact - 00 14 53 (7 plays)</title>
-      <link>https://www.last.fm/music/Matter+Of+Tact/_/00+14+53</link>
-      <guid isPermaLink="false">ddgromit-1693003856--40eef15c-9728-418c-911d-e222e15b718b---00 14 53</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fba9e78d8be185b9de5fce0bb88a3a9.jpg" length="9719" type="image/jpeg"/>
-      <pubDate>Fri, 25 Aug 2023 18:50:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Harold van Lennep - Liberation - Re-Edit (1 play)</title>
-      <link>https://www.last.fm/music/Harold+van+Lennep/_/Liberation+-+Re-Edit</link>
-      <guid isPermaLink="false">ddgromit-1693004033--Harold van Lennep---Liberation - Re-Edit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30bd623d2b8e86954b91168151a65f52.jpg" length="16151" type="image/jpeg"/>
-      <pubDate>Fri, 25 Aug 2023 18:53:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Aug 2023 18:37:22 +0000</lastBuildDate>
     <item>
       <title>Triomphe - Place de l'étoile (10 plays)</title>
       <link>https://www.last.fm/music/Triomphe/_/Place+de+l%27%C3%A9toile</link>
@@ -54,6 +40,7 @@
       <title>Seth XVI - Amazones (5 plays)</title>
       <link>https://www.last.fm/music/Seth+XVI/_/Amazones</link>
       <guid isPermaLink="false">ddgromit-1693004954--Seth XVI---Amazones</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a6209b230ef68a733f4a74c48722bfd.png" length="133897" type="image/png"/>
       <pubDate>Fri, 25 Aug 2023 19:09:14 -0400</pubDate>
     </item>
     <item>
@@ -74,10 +61,11 @@
       <title>Iliona - Marguerite (1 play)</title>
       <link>https://www.last.fm/music/Iliona/_/Marguerite</link>
       <guid isPermaLink="false">ddgromit-1693005640--d2620c8f-c3a6-4fc3-ba25-bd0731649b60---Marguerite</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a3a996c72bd2c51fed7ccc799d17f3b.jpg" length="26609" type="image/jpeg"/>
       <pubDate>Fri, 25 Aug 2023 19:20:40 -0400</pubDate>
     </item>
     <item>
-      <title>Triomphe - Esprit (1 play)</title>
+      <title>Triomphe - Esprit (2 plays)</title>
       <link>https://www.last.fm/music/Triomphe/_/Esprit</link>
       <guid isPermaLink="false">ddgromit-1693005849--Triomphe---Esprit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c30907b5f13690f00218dd1a2cc45c5.jpg" length="19339" type="image/jpeg"/>
@@ -269,6 +257,7 @@
       <title>John Hayes - Fond - Rework (11 plays)</title>
       <link>https://www.last.fm/music/John+Hayes/_/Fond+-+Rework</link>
       <guid isPermaLink="false">ddgromit-1693106088--afd9e18b-968a-4bed-9905-4efb34abfdc0---Fond - Rework</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65fdc21eacb1b91d32dacd916ebc6cd8.jpg" length="11749" type="image/jpeg"/>
       <pubDate>Sat, 26 Aug 2023 23:14:48 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +343,19 @@
       <guid isPermaLink="false">ddgromit-1693245380--02e5ab4c-7391-4614-ab0f-961b155c5887---What To Do ?</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d865dfdf31e52e0a37fb915eeb0c14d.jpg" length="9631" type="image/jpeg"/>
       <pubDate>Mon, 28 Aug 2023 13:56:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Triomphe - Esprit (2 plays)</title>
+      <link>https://www.last.fm/music/Triomphe/_/Esprit</link>
+      <guid isPermaLink="false">ddgromit-1693245552--Triomphe---Esprit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c30907b5f13690f00218dd1a2cc45c5.jpg" length="19339" type="image/jpeg"/>
+      <pubDate>Mon, 28 Aug 2023 13:59:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grand Soleil - Alma (3 plays)</title>
+      <link>https://www.last.fm/music/Grand+Soleil/_/Alma</link>
+      <guid isPermaLink="false">ddgromit-1693247528--35c3d634-6295-4e25-940a-5fb8fa470360---Alma</guid>
+      <pubDate>Mon, 28 Aug 2023 14:32:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
