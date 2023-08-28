@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 05:14:51 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - My Old School (63 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/My+Old+School</link>
-      <guid isPermaLink="false">Frippertron-1692956374--e01c3376-15fa-40d7-b747-5f219bdefdd7---My Old School</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
-      <pubDate>Fri, 25 Aug 2023 05:39:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Sorrow (36 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Sorrow</link>
-      <guid isPermaLink="false">Frippertron-1692956789--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sorrow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c4ba94626953921f74a881bf202e232.jpg" length="15035" type="image/jpeg"/>
-      <pubDate>Fri, 25 Aug 2023 05:46:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Aug 2023 05:28:22 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Echoes (72 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1693199150--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---La guitare des pays d'en haut</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7265696d2e9e44dbb2427f7a542af297.jpg" length="20039" type="image/jpeg"/>
       <pubDate>Mon, 28 Aug 2023 01:05:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Life Is Wonderful (46 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
+      <guid isPermaLink="false">Frippertron-1693199537--Roy Wood---Life Is Wonderful</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
+      <pubDate>Mon, 28 Aug 2023 01:12:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Another Wrong Night (8 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Another+Wrong+Night</link>
+      <guid isPermaLink="false">Frippertron-1693200056--Roy Wood---Another Wrong Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
+      <pubDate>Mon, 28 Aug 2023 01:20:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
