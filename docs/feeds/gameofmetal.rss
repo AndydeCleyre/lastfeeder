@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Aug 2023 12:30:51 +0000</lastBuildDate>
-    <item>
-      <title>Chris Stapleton - Without Your Love (1 play)</title>
-      <link>https://www.last.fm/music/Chris+Stapleton/_/Without+Your+Love</link>
-      <guid isPermaLink="false">gameofmetal-1693102742--71d58182-aa37-4c04-b21a-efe46ea0f221---Without Your Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9c6f2660a68ac968e481ec59a40b11c.jpg" length="21186" type="image/jpeg"/>
-      <pubDate>Sat, 26 Aug 2023 22:19:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Aug 2023 13:00:16 +0000</lastBuildDate>
     <item>
       <title>Motörhead - Ace of Spades (4 plays)</title>
       <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Ace+of+Spades</link>
@@ -47,14 +40,13 @@
       <title>Chris Stapleton - White Horse (12 plays)</title>
       <link>https://www.last.fm/music/Chris+Stapleton/_/White+Horse</link>
       <guid isPermaLink="false">gameofmetal-1693183444--71d58182-aa37-4c04-b21a-efe46ea0f221---White Horse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/829b128944bb7afa808efdf7471266a7.jpg" length="13724" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/829b128944bb7afa808efdf7471266a7.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Sun, 27 Aug 2023 20:44:04 -0400</pubDate>
     </item>
     <item>
       <title>Chris Stapleton - White Horse (12 plays)</title>
       <link>https://www.last.fm/music/Chris+Stapleton/_/White+Horse</link>
       <guid isPermaLink="false">gameofmetal-1693184991--71d58182-aa37-4c04-b21a-efe46ea0f221---White Horse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/829b128944bb7afa808efdf7471266a7.jpg" length="13724" type="image/jpeg"/>
       <pubDate>Sun, 27 Aug 2023 21:09:51 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">gameofmetal-1693310779--a6e613d6-ff65-4972-beff-303a1b10ab05---Heart Like a Truck</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fe8f8103e271e193b0842bc6db50ff8.png" length="125954" type="image/png"/>
       <pubDate>Tue, 29 Aug 2023 08:06:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bailey Zimmerman - Religiously (22 plays)</title>
+      <link>https://www.last.fm/music/Bailey+Zimmerman/_/Religiously</link>
+      <guid isPermaLink="false">gameofmetal-1693310977--20543896-ec2c-48c4-b6b2-507c6cbe9918---Religiously</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d941ad3599b3b0bd61f8a94e79197d2.jpg" length="24256" type="image/jpeg"/>
+      <pubDate>Tue, 29 Aug 2023 08:09:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
