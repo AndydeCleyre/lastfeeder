@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Aug 2023 05:52:14 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Heroes and Villains (51 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Heroes+and+Villains</link>
-      <guid isPermaLink="false">Frippertron-1693419194--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Heroes and Villains</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/439aecd7d89df428c5bef9d9fdbce685.jpg" length="43453" type="image/jpeg"/>
-      <pubDate>Wed, 30 Aug 2023 14:13:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fiori-Séguin - Illusion (20 plays)</title>
-      <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/Illusion</link>
-      <guid isPermaLink="false">Frippertron-1693447711--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---Illusion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7265696d2e9e44dbb2427f7a542af297.jpg" length="20039" type="image/jpeg"/>
-      <pubDate>Wed, 30 Aug 2023 22:08:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fiori-Séguin - Viens danser (16 plays)</title>
-      <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/Viens+danser</link>
-      <guid isPermaLink="false">Frippertron-1693448161--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---Viens danser</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7265696d2e9e44dbb2427f7a542af297.jpg" length="20039" type="image/jpeg"/>
-      <pubDate>Wed, 30 Aug 2023 22:16:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Aug 2023 06:19:46 +0000</lastBuildDate>
     <item>
       <title>Fiori-Séguin - La guitare des pays d'en haut (47 plays)</title>
       <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/La+guitare+des+pays+d%27en+haut</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1693460791--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Wild Honey (Live In New Jersey/1972)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12bfb8e4a71d4de4a6b38b9caa0c8b9d.png" length="154222" type="image/png"/>
       <pubDate>Thu, 31 Aug 2023 01:46:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Reelin' In The Years (53 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Reelin%27+In+The+Years</link>
+      <guid isPermaLink="false">Frippertron-1693461094--e01c3376-15fa-40d7-b747-5f219bdefdd7---Reelin' In The Years</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
+      <pubDate>Thu, 31 Aug 2023 01:51:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Henry Cow - Beautiful as the Moon - Terrible as an Army with Banners (40 plays)</title>
+      <link>https://www.last.fm/music/Henry+Cow/_/Beautiful+as+the+Moon+-+Terrible+as+an+Army+with+Banners</link>
+      <guid isPermaLink="false">Frippertron-1693461369--6ba2f6ce-50be-47df-b5a3-298ef032f476---Beautiful as the Moon - Terrible as an Army with Banners</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8b4094668d9e43eb290ec3e5728958f.jpg" length="22439" type="image/jpeg"/>
+      <pubDate>Thu, 31 Aug 2023 01:56:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Henry Cow - War (125 plays)</title>
+      <link>https://www.last.fm/music/Henry+Cow/_/War</link>
+      <guid isPermaLink="false">Frippertron-1693461799--6ba2f6ce-50be-47df-b5a3-298ef032f476---War</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8b4094668d9e43eb290ec3e5728958f.jpg" length="22439" type="image/jpeg"/>
+      <pubDate>Thu, 31 Aug 2023 02:03:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
