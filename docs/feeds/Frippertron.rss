@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Aug 2023 18:19:42 +0000</lastBuildDate>
-    <item>
-      <title>Stereolab - Diagonals (12 plays)</title>
-      <link>https://www.last.fm/music/Stereolab/_/Diagonals</link>
-      <guid isPermaLink="false">Frippertron-1693385087--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Diagonals</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
-      <pubDate>Wed, 30 Aug 2023 04:44:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Stereolab - Parsec (15 plays)</title>
-      <link>https://www.last.fm/music/Stereolab/_/Parsec</link>
-      <guid isPermaLink="false">Frippertron-1693385470--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Parsec</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
-      <pubDate>Wed, 30 Aug 2023 04:51:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Aug 2023 02:23:31 +0000</lastBuildDate>
     <item>
       <title>Fiori-Séguin - La guitare des pays d'en haut (46 plays)</title>
       <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/La+guitare+des+pays+d%27en+haut</link>
@@ -58,7 +44,7 @@
       <pubDate>Wed, 30 Aug 2023 05:15:21 -0400</pubDate>
     </item>
     <item>
-      <title>The Beach Boys - I Just Wasn't Made for These Times (89 plays)</title>
+      <title>The Beach Boys - I Just Wasn't Made for These Times</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/I+Just+Wasn%27t+Made+for+These+Times</link>
       <guid isPermaLink="false">Frippertron-1693387051--ebfc1398-8d96-47e3-82c3-f782abcdb13d---I Just Wasn't Made for These Times</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12bfb8e4a71d4de4a6b38b9caa0c8b9d.png" length="154222" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1693419194--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Heroes and Villains</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/439aecd7d89df428c5bef9d9fdbce685.jpg" length="43453" type="image/jpeg"/>
       <pubDate>Wed, 30 Aug 2023 14:13:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fiori-Séguin - Illusion (20 plays)</title>
+      <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/Illusion</link>
+      <guid isPermaLink="false">Frippertron-1693447711--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---Illusion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7265696d2e9e44dbb2427f7a542af297.jpg" length="20039" type="image/jpeg"/>
+      <pubDate>Wed, 30 Aug 2023 22:08:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fiori-Séguin - Viens danser (16 plays)</title>
+      <link>https://www.last.fm/music/Fiori-S%C3%A9guin/_/Viens+danser</link>
+      <guid isPermaLink="false">Frippertron-1693448161--700f9e2a-cfdf-4b0f-85c4-027a1bf6282a---Viens danser</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7265696d2e9e44dbb2427f7a542af297.jpg" length="20039" type="image/jpeg"/>
+      <pubDate>Wed, 30 Aug 2023 22:16:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
