@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Sep 2023 23:14:31 +0000</lastBuildDate>
-    <item>
-      <title>Chris Stapleton - White Horse (14 plays)</title>
-      <link>https://www.last.fm/music/Chris+Stapleton/_/White+Horse</link>
-      <guid isPermaLink="false">gameofmetal-1693602899--71d58182-aa37-4c04-b21a-efe46ea0f221---White Horse</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/829b128944bb7afa808efdf7471266a7.jpg" length="13724" type="image/jpeg"/>
-      <pubDate>Fri, 01 Sep 2023 17:14:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Sep 2023 23:38:00 +0000</lastBuildDate>
     <item>
       <title>Willie Nelson - Roll Me Up and Smoke Me When I Die - Live (1 play)</title>
       <link>https://www.last.fm/music/Willie+Nelson/_/Roll+Me+Up+and+Smoke+Me+When+I+Die+-+Live</link>
@@ -338,7 +331,7 @@
       <pubDate>Sun, 03 Sep 2023 18:36:58 -0400</pubDate>
     </item>
     <item>
-      <title>Slipknot - Goodbye (1 play)</title>
+      <title>Slipknot - Goodbye (2 plays)</title>
       <link>https://www.last.fm/music/Slipknot/_/Goodbye</link>
       <guid isPermaLink="false">gameofmetal-1693780909--Slipknot---Goodbye</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53afb0781825a1e75f275e0a49591d32.jpg" length="26999" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1693781442--Slipknot---The One That Kills the Least</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53afb0781825a1e75f275e0a49591d32.jpg" length="26999" type="image/jpeg"/>
       <pubDate>Sun, 03 Sep 2023 18:50:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Slipknot - Goodbye (2 plays)</title>
+      <link>https://www.last.fm/music/Slipknot/_/Goodbye</link>
+      <guid isPermaLink="false">gameofmetal-1693783900--Slipknot---Goodbye</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53afb0781825a1e75f275e0a49591d32.jpg" length="26999" type="image/jpeg"/>
+      <pubDate>Sun, 03 Sep 2023 19:31:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
