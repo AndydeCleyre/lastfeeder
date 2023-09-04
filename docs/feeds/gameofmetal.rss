@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Sep 2023 01:08:50 +0000</lastBuildDate>
-    <item>
-      <title>P!nk - Love Me Anyway (feat. Chris Stapleton) (1 play)</title>
-      <link>https://www.last.fm/music/P!nk/_/Love+Me+Anyway+(feat.+Chris+Stapleton)</link>
-      <guid isPermaLink="false">gameofmetal-1693605011--f4d5cc07-3bc9-4836-9b15-88a08359bc63---Love Me Anyway (feat. Chris Stapleton)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b947c334b463df05194ed7210d719d31.png" length="187151" type="image/png"/>
-      <pubDate>Fri, 01 Sep 2023 17:50:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Chris Stapleton - Amanda (feat. Morgane Stapleton) (1 play)</title>
-      <link>https://www.last.fm/music/Chris+Stapleton/_/Amanda+(feat.+Morgane+Stapleton)</link>
-      <guid isPermaLink="false">gameofmetal-1693605200--71d58182-aa37-4c04-b21a-efe46ea0f221---Amanda (feat. Morgane Stapleton)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5c26a9ec57068dd2a7f2e41892e1ba3.jpg" length="26622" type="image/jpeg"/>
-      <pubDate>Fri, 01 Sep 2023 17:53:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>Chris Stapleton - Whiskey and You (1 play)</title>
-      <link>https://www.last.fm/music/Chris+Stapleton/_/Whiskey+and+You</link>
-      <guid isPermaLink="false">gameofmetal-1693605383--71d58182-aa37-4c04-b21a-efe46ea0f221---Whiskey and You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2eec0e4218908c908edfb20c80ed2e3.png" length="143919" type="image/png"/>
-      <pubDate>Fri, 01 Sep 2023 17:56:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Sep 2023 18:37:21 +0000</lastBuildDate>
     <item>
       <title>Chris Stapleton - Midnight Train to Memphis (1 play)</title>
       <link>https://www.last.fm/music/Chris+Stapleton/_/Midnight+Train+to+Memphis</link>
@@ -296,6 +275,13 @@
       <pubDate>Sun, 03 Sep 2023 18:50:42 -0400</pubDate>
     </item>
     <item>
+      <title>Slipknot - Custer (2 plays)</title>
+      <link>https://www.last.fm/music/Slipknot/_/Custer</link>
+      <guid isPermaLink="false">gameofmetal-1693783865--Slipknot---Custer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53afb0781825a1e75f275e0a49591d32.jpg" length="26999" type="image/jpeg"/>
+      <pubDate>Sun, 03 Sep 2023 19:31:05 -0400</pubDate>
+    </item>
+    <item>
       <title>Slipknot - Goodbye (2 plays)</title>
       <link>https://www.last.fm/music/Slipknot/_/Goodbye</link>
       <guid isPermaLink="false">gameofmetal-1693783900--Slipknot---Goodbye</guid>
@@ -317,7 +303,7 @@
       <pubDate>Sun, 03 Sep 2023 19:40:05 -0400</pubDate>
     </item>
     <item>
-      <title>Slipknot - Custer (1 play)</title>
+      <title>Slipknot - Custer (2 plays)</title>
       <link>https://www.last.fm/music/Slipknot/_/Custer</link>
       <guid isPermaLink="false">gameofmetal-1693784656--Slipknot---Custer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53afb0781825a1e75f275e0a49591d32.jpg" length="26999" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1693785776--Slipknot---Wait and Bleed</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9274398d6314cb5882bf4fe8dfd084f8.jpg" length="30439" type="image/jpeg"/>
       <pubDate>Sun, 03 Sep 2023 20:02:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Slipknot - Surfacing (2 plays)</title>
+      <link>https://www.last.fm/music/Slipknot/_/Surfacing</link>
+      <guid isPermaLink="false">gameofmetal-1693788539--Slipknot---Surfacing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9274398d6314cb5882bf4fe8dfd084f8.jpg" length="30439" type="image/jpeg"/>
+      <pubDate>Sun, 03 Sep 2023 20:48:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Slipknot - Insert Coin (1 play)</title>
+      <link>https://www.last.fm/music/Slipknot/_/Insert+Coin</link>
+      <guid isPermaLink="false">gameofmetal-1693852460--Slipknot---Insert Coin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbd34dfde11cd311194160ba3e74cd04.jpg" length="17204" type="image/jpeg"/>
+      <pubDate>Mon, 04 Sep 2023 14:34:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
