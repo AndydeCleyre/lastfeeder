@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Sep 2023 04:18:40 +0000</lastBuildDate>
-    <item>
-      <title>Cymbals - Dusseldorf Disco (8 plays)</title>
-      <link>https://www.last.fm/music/Cymbals/_/Dusseldorf+Disco</link>
-      <guid isPermaLink="false">Frippertron-1693764322--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---Dusseldorf Disco</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/788a1dd7bc3afa75047c8e44cb3247da.jpg" length="19084" type="image/jpeg"/>
-      <pubDate>Sun, 03 Sep 2023 14:05:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cymbals - Wingspan (11 plays)</title>
-      <link>https://www.last.fm/music/Cymbals/_/Wingspan</link>
-      <guid isPermaLink="false">Frippertron-1693764373--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---Wingspan</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/788a1dd7bc3afa75047c8e44cb3247da.jpg" length="19084" type="image/jpeg"/>
-      <pubDate>Sun, 03 Sep 2023 14:06:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Sep 2023 04:37:16 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Hey Little Tomboy (29 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Hey+Little+Tomboy</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1693800189--f2fc3767-1688-4a84-be35-38b7928a1fcc---Let's Get Out</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02ae4abc69fd4a39ca1dcde648510ddb.jpg" length="16299" type="image/jpeg"/>
       <pubDate>Mon, 04 Sep 2023 00:03:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Soul Capturer (1 play)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Soul+Capturer</link>
+      <guid isPermaLink="false">Frippertron-1693801528--0c751690-c784-4a4f-b1e4-c1de27d47581---Soul Capturer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a54f7519f3749dbac880464d1eede91.png" length="242868" type="image/png"/>
+      <pubDate>Mon, 04 Sep 2023 00:25:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Genie's Open (1 play)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Genie%27s+Open</link>
+      <guid isPermaLink="false">Frippertron-1693801897--0c751690-c784-4a4f-b1e4-c1de27d47581---Genie's Open</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a54f7519f3749dbac880464d1eede91.png" length="242868" type="image/png"/>
+      <pubDate>Mon, 04 Sep 2023 00:31:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
