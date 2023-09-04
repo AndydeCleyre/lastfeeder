@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Sep 2023 04:37:16 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Hey Little Tomboy (29 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Hey+Little+Tomboy</link>
-      <guid isPermaLink="false">Frippertron-1693764627--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Hey Little Tomboy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0081c03061b401b845db22c165424986.png" length="225323" type="image/png"/>
-      <pubDate>Sun, 03 Sep 2023 14:10:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - It's Over Now (11 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/It%27s+Over+Now</link>
-      <guid isPermaLink="false">Frippertron-1693764770--ebfc1398-8d96-47e3-82c3-f782abcdb13d---It's Over Now</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0081c03061b401b845db22c165424986.png" length="225323" type="image/png"/>
-      <pubDate>Sun, 03 Sep 2023 14:12:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Sep 2023 04:52:26 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Still I Dream Of It (10 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Still+I+Dream+Of+It</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1693801897--0c751690-c784-4a4f-b1e4-c1de27d47581---Genie's Open</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a54f7519f3749dbac880464d1eede91.png" length="242868" type="image/png"/>
       <pubDate>Mon, 04 Sep 2023 00:31:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Broke Zodiac (1 play)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Broke+Zodiac</link>
+      <guid isPermaLink="false">Frippertron-1693802372--0c751690-c784-4a4f-b1e4-c1de27d47581---Broke Zodiac</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a54f7519f3749dbac880464d1eede91.png" length="242868" type="image/png"/>
+      <pubDate>Mon, 04 Sep 2023 00:39:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Animal Collective - Magicians From Baltimore (1 play)</title>
+      <link>https://www.last.fm/music/Animal+Collective/_/Magicians+From+Baltimore</link>
+      <guid isPermaLink="false">Frippertron-1693802539--0c751690-c784-4a4f-b1e4-c1de27d47581---Magicians From Baltimore</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a54f7519f3749dbac880464d1eede91.png" length="242868" type="image/png"/>
+      <pubDate>Mon, 04 Sep 2023 00:42:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
