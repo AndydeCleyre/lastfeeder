@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Sep 2023 16:39:05 +0000</lastBuildDate>
-    <item>
-      <title>Raffi - Like Me and You (5 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/Like+Me+and+You</link>
-      <guid isPermaLink="false">ddgromit-1693760385--d5d5ba92-4bd4-4975-9806-99339eed3046---Like Me and You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e922e1b051574ff0b51051b87e292f7e.jpg" length="25393" type="image/jpeg"/>
-      <pubDate>Sun, 03 Sep 2023 12:59:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Raffi - Workin' on the Railroad (8 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/Workin%27+on+the+Railroad</link>
-      <guid isPermaLink="false">ddgromit-1693768641--d5d5ba92-4bd4-4975-9806-99339eed3046---Workin' on the Railroad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08a8f42e01424d039069dfe180d2ec4e.jpg" length="27862" type="image/jpeg"/>
-      <pubDate>Sun, 03 Sep 2023 15:17:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Raffi - Going on a Picnic (14 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/Going+on+a+Picnic</link>
-      <guid isPermaLink="false">ddgromit-1693768712--d5d5ba92-4bd4-4975-9806-99339eed3046---Going on a Picnic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d80a75fa78a4f018c9dba252f59a290.jpg" length="17897" type="image/jpeg"/>
-      <pubDate>Sun, 03 Sep 2023 15:18:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Sep 2023 22:14:24 +0000</lastBuildDate>
     <item>
       <title>Raffi - Brush Your Teeth (9 plays)</title>
       <link>https://www.last.fm/music/Raffi/_/Brush+Your+Teeth</link>
@@ -107,7 +86,7 @@
       <pubDate>Mon, 04 Sep 2023 16:17:15 -0400</pubDate>
     </item>
     <item>
-      <title>FM Attack - A Million Miles Away (2 plays)</title>
+      <title>FM Attack - A Million Miles Away (3 plays)</title>
       <link>https://www.last.fm/music/FM+Attack/_/A+Million+Miles+Away</link>
       <guid isPermaLink="false">ddgromit-1693858813--93417644-8cfa-4139-aba0-1ced0a702bfb---A Million Miles Away</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24ef1637887c41f3a69f86ea3be34863.jpg" length="19164" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1693882811--7d0e8067-10b9-4069-95dc-1110a0fbb877---Earworm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba61a9b60778fb9ed2e8c209f19055d1.jpg" length="18406" type="image/jpeg"/>
       <pubDate>Mon, 04 Sep 2023 23:00:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>FM Attack - A Million Miles Away (3 plays)</title>
+      <link>https://www.last.fm/music/FM+Attack/_/A+Million+Miles+Away</link>
+      <guid isPermaLink="false">ddgromit-1693951139--93417644-8cfa-4139-aba0-1ced0a702bfb---A Million Miles Away</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24ef1637887c41f3a69f86ea3be34863.jpg" length="19164" type="image/jpeg"/>
+      <pubDate>Tue, 05 Sep 2023 17:58:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Downtown Binary - Distant (1 play)</title>
+      <link>https://www.last.fm/music/Downtown+Binary/_/Distant</link>
+      <guid isPermaLink="false">ddgromit-1693951374--ef9c9578-0810-4cab-8494-1800b3709002---Distant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62085e921b06958823a9ab9d84ab1eea.jpg" length="17972" type="image/jpeg"/>
+      <pubDate>Tue, 05 Sep 2023 18:02:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lucy In Disguise - Dusk (2 plays)</title>
+      <link>https://www.last.fm/music/Lucy+In+Disguise/_/Dusk</link>
+      <guid isPermaLink="false">ddgromit-1693951524--1149f736-042c-4e4d-bf22-cd3c2166e864---Dusk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd3538f62aafc0889c91ea23f6fd3bb5.jpg" length="20262" type="image/jpeg"/>
+      <pubDate>Tue, 05 Sep 2023 18:05:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
