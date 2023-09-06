@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Sep 2023 13:00:28 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Josie (9 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Josie</link>
-      <guid isPermaLink="false">manosg--1693980105--e01c3376-15fa-40d7-b747-5f219bdefdd7---Josie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Wed, 06 Sep 2023 02:01:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - Do It Again (9 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Do+It+Again</link>
-      <guid isPermaLink="false">manosg--1693980465--e01c3376-15fa-40d7-b747-5f219bdefdd7---Do It Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
-      <pubDate>Wed, 06 Sep 2023 02:07:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Sep 2023 14:29:23 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Dirty Work (11 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Dirty+Work</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1694004109--Led Zeppelin---The Rain Song - Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8b7f95e7a0b9ca3f95155b75cf3d489.jpg" length="32128" type="image/jpeg"/>
       <pubDate>Wed, 06 Sep 2023 08:41:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Over the Hills and Far Away - Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Over+the+Hills+and+Far+Away+-+Remaster</link>
+      <guid isPermaLink="false">manosg--1694004777--Led Zeppelin---Over the Hills and Far Away - Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8b7f95e7a0b9ca3f95155b75cf3d489.jpg" length="32128" type="image/jpeg"/>
+      <pubDate>Wed, 06 Sep 2023 08:52:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Crunge - Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Crunge+-+Remaster</link>
+      <guid isPermaLink="false">manosg--1694010357--Led Zeppelin---The Crunge - Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8b7f95e7a0b9ca3f95155b75cf3d489.jpg" length="32128" type="image/jpeg"/>
+      <pubDate>Wed, 06 Sep 2023 10:25:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
