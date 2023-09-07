@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Sep 2023 06:37:45 +0000</lastBuildDate>
-    <item>
-      <title>Johnny Cash - Streets Of Laredo (4 plays)</title>
-      <link>https://www.last.fm/music/Johnny+Cash/_/Streets+Of+Laredo</link>
-      <guid isPermaLink="false">manosg--1694002376--Johnny Cash---Streets Of Laredo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df687b9f01e138ac58ec071eef3663a0.jpg" length="8226" type="image/jpeg"/>
-      <pubDate>Wed, 06 Sep 2023 08:12:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Sep 2023 07:14:43 +0000</lastBuildDate>
     <item>
       <title>Johnny Cash - We'll Meet Again (4 plays)</title>
       <link>https://www.last.fm/music/Johnny+Cash/_/We%27ll+Meet+Again</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1694068006--George Harrison---Plug Me In - 2014 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5ea297ba288af2d1515f615b5a559fa.jpg" length="21592" type="image/jpeg"/>
       <pubDate>Thu, 07 Sep 2023 02:26:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>George Harrison - I Remember Jeep - 2014 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/George+Harrison/_/I+Remember+Jeep+-+2014+Remaster</link>
+      <guid isPermaLink="false">manosg--1694068205--George Harrison---I Remember Jeep - 2014 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5ea297ba288af2d1515f615b5a559fa.jpg" length="21592" type="image/jpeg"/>
+      <pubDate>Thu, 07 Sep 2023 02:30:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
