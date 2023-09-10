@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Sep 2023 19:11:27 +0000</lastBuildDate>
-    <item>
-      <title>Queen - The Hero (12 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/The+Hero</link>
-      <guid isPermaLink="false">Frippertron-1694158631--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---The Hero</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
-      <pubDate>Fri, 08 Sep 2023 03:37:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - We Will Rock You (fast) (39 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/We+Will+Rock+You+(fast)</link>
-      <guid isPermaLink="false">Frippertron-1694158736--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---We Will Rock You (fast)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
-      <pubDate>Fri, 08 Sep 2023 03:38:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 Sep 2023 19:23:44 +0000</lastBuildDate>
     <item>
       <title>Queen - Staying Power (77 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Staying+Power</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1694372865--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---Family Bond &amp; One Dog</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebb05e58820271771421c490de81714.png" length="169815" type="image/png"/>
       <pubDate>Sun, 10 Sep 2023 15:07:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cymbals - 君とぼく (1 play)</title>
+      <link>https://www.last.fm/music/Cymbals/_/%E5%90%9B%E3%81%A8%E3%81%BC%E3%81%8F</link>
+      <guid isPermaLink="false">Frippertron-1694373012--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---君とぼく</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebb05e58820271771421c490de81714.png" length="169815" type="image/png"/>
+      <pubDate>Sun, 10 Sep 2023 15:10:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swing Out Sister - We Could Make It Happen (9 plays)</title>
+      <link>https://www.last.fm/music/Swing+Out+Sister/_/We+Could+Make+It+Happen</link>
+      <guid isPermaLink="false">Frippertron-1694373250--d12b5853-71eb-41d9-8d18-a4259477848a---We Could Make It Happen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8f07aa02dc148bdb8f0b5adc616b3d4.jpg" length="21777" type="image/jpeg"/>
+      <pubDate>Sun, 10 Sep 2023 15:14:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
