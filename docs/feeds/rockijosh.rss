@@ -7,63 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Sep 2023 13:00:42 +0000</lastBuildDate>
-    <item>
-      <title>Fleet Foxes - Mykonos (1 play)</title>
-      <link>https://www.last.fm/music/Fleet+Foxes/_/Mykonos</link>
-      <guid isPermaLink="false">rockijosh-1694030904--fa97dd36-1b82-43d7-a6e4-2adeafd59cef---Mykonos</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ade2e2acc0135a4747b688719507a799.jpg" length="28360" type="image/jpeg"/>
-      <pubDate>Wed, 06 Sep 2023 16:08:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sylvan Esso - Die Young (2 plays)</title>
-      <link>https://www.last.fm/music/Sylvan+Esso/_/Die+Young</link>
-      <guid isPermaLink="false">rockijosh-1694031115--c4593b34-2a94-4e44-ae10-4a0f4c0b4da8---Die Young</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d062d090e29fb9bb601069786279926.jpg" length="17717" type="image/jpeg"/>
-      <pubDate>Wed, 06 Sep 2023 16:11:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>alt-J - Hunger of the Pine (1 play)</title>
-      <link>https://www.last.fm/music/alt-J/_/Hunger+of+the+Pine</link>
-      <guid isPermaLink="false">rockijosh-1694031415--fc7bbf00-fbaa-4736-986b-b3ac0266ca9b---Hunger of the Pine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a6c7811b2a14583c577dafd1193b459.png" length="190472" type="image/png"/>
-      <pubDate>Wed, 06 Sep 2023 16:16:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Of Monsters and Men - Crystals (2 plays)</title>
-      <link>https://www.last.fm/music/Of+Monsters+and+Men/_/Crystals</link>
-      <guid isPermaLink="false">rockijosh-1694031659--9e103f85-7af7-41d7-b83b-49ba8f0c5abf---Crystals</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be415d24d6e645a7c53a60982ad3b343.png" length="140638" type="image/png"/>
-      <pubDate>Wed, 06 Sep 2023 16:20:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jeff Rosenstock - DOUBT (8 plays)</title>
-      <link>https://www.last.fm/music/Jeff+Rosenstock/_/DOUBT</link>
-      <guid isPermaLink="false">rockijosh-1694117505--14892f45-a103-44f2-bb18-ee4a20d7876e---DOUBT</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f83901cb049bb418bce01e80207576fe.jpg" length="46722" type="image/jpeg"/>
-      <pubDate>Thu, 07 Sep 2023 16:11:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Grimes - Oblivion (9 plays)</title>
-      <link>https://www.last.fm/music/Grimes/_/Oblivion</link>
-      <guid isPermaLink="false">rockijosh-1694172593--7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222---Oblivion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ba3983be4621972cc7beb4fcae72461.jpg" length="29500" type="image/jpeg"/>
-      <pubDate>Fri, 08 Sep 2023 07:29:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Radiohead - 15 Step (2 plays)</title>
-      <link>https://www.last.fm/music/Radiohead/_/15+Step</link>
-      <guid isPermaLink="false">rockijosh-1694172603--a74b1b7f-71a5-4011-9441-d0b5e4122711---15 Step</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d91b7dd13084606b99d756175917f7d.png" length="189314" type="image/png"/>
-      <pubDate>Fri, 08 Sep 2023 07:30:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pinegrove - Need 2 (1 play)</title>
-      <link>https://www.last.fm/music/Pinegrove/_/Need+2</link>
-      <guid isPermaLink="false">rockijosh-1694172840--871fe26f-544d-4275-a5dd-af5442d15b92---Need 2</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e88fd01eb1efac7b3735be27617469a.png" length="163447" type="image/png"/>
-      <pubDate>Fri, 08 Sep 2023 07:34:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Sep 2023 13:23:37 +0000</lastBuildDate>
     <item>
       <title>Modest Mouse - Float On (9 plays)</title>
       <link>https://www.last.fm/music/Modest+Mouse/_/Float+On</link>
@@ -357,6 +301,62 @@
       <guid isPermaLink="false">rockijosh-1694437057--8451cfa0-b39c-4ad1-8aba-a19d47598a67---Agreeable</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/740d0ef8298ff0cf299e73438257fc23.jpg" length="19887" type="image/jpeg"/>
       <pubDate>Mon, 11 Sep 2023 08:57:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ruel - say it over (feat. Cautious Clay) (1 play)</title>
+      <link>https://www.last.fm/music/Ruel/_/say+it+over+(feat.+Cautious+Clay)</link>
+      <guid isPermaLink="false">rockijosh-1694437193--bc153bd5-7963-4195-a6fb-c38588f31007---say it over (feat. Cautious Clay)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1137f57399986993650b16f8a8aa4a00.jpg" length="16674" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 08:59:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cautious Clay - Joshua Tree (1 play)</title>
+      <link>https://www.last.fm/music/Cautious+Clay/_/Joshua+Tree</link>
+      <guid isPermaLink="false">rockijosh-1694437432--8451cfa0-b39c-4ad1-8aba-a19d47598a67---Joshua Tree</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a545947d55f4ed7e84d6dc109464cdc8.jpg" length="11985" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 09:03:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Petit Biscuit - Wake Up (1 play)</title>
+      <link>https://www.last.fm/music/Petit+Biscuit/_/Wake+Up</link>
+      <guid isPermaLink="false">rockijosh-1694437630--30ae6581-15ec-407b-b192-5f7b7ea214b2---Wake Up</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93739c1217ed3722c7a9806973476f78.png" length="136461" type="image/png"/>
+      <pubDate>Mon, 11 Sep 2023 09:07:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cautious Clay - Repeat Myself (1 play)</title>
+      <link>https://www.last.fm/music/Cautious+Clay/_/Repeat+Myself</link>
+      <guid isPermaLink="false">rockijosh-1694437823--8451cfa0-b39c-4ad1-8aba-a19d47598a67---Repeat Myself</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0dce0c861d4dde9fce30bf0a9d10e72.jpg" length="24596" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 09:10:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cautious Clay - Erase (1 play)</title>
+      <link>https://www.last.fm/music/Cautious+Clay/_/Erase</link>
+      <guid isPermaLink="false">rockijosh-1694437951--8451cfa0-b39c-4ad1-8aba-a19d47598a67---Erase</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b62d642be9ead6a1623df239d28b58ea.jpg" length="18981" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 09:12:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cautious Clay - Stolen Moments (1 play)</title>
+      <link>https://www.last.fm/music/Cautious+Clay/_/Stolen+Moments</link>
+      <guid isPermaLink="false">rockijosh-1694438096--8451cfa0-b39c-4ad1-8aba-a19d47598a67---Stolen Moments</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a545947d55f4ed7e84d6dc109464cdc8.jpg" length="11985" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 09:14:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cautious Clay - SATURDAY MORNING CARTOONS (feat. UMI) (1 play)</title>
+      <link>https://www.last.fm/music/Cautious+Clay/_/SATURDAY+MORNING+CARTOONS+(feat.+UMI)</link>
+      <guid isPermaLink="false">rockijosh-1694438235--8451cfa0-b39c-4ad1-8aba-a19d47598a67---SATURDAY MORNING CARTOONS (feat. UMI)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7a8516e75df6aa06b671c0d0618410e.jpg" length="23949" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 09:17:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kiana Ledé - Who Do You Think You Are (from the Netflix Film "The School For Good And Evil") (1 play)</title>
+      <link>https://www.last.fm/music/Kiana+Led%C3%A9/_/Who+Do+You+Think+You+Are+(from+the+Netflix+Film+%22The+School+For+Good+And+Evil%22)</link>
+      <guid isPermaLink="false">rockijosh-1694438390--Kiana Ledé---Who Do You Think You Are (from the Netflix Film "The School For Good And Evil")</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ca04d4438f199624df1811b0e121cd0.jpg" length="21742" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 09:19:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
