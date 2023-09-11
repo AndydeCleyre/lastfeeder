@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Sep 2023 17:39:32 +0000</lastBuildDate>
-    <item>
-      <title>Still Woozy - That's Life (1 play)</title>
-      <link>https://www.last.fm/music/Still+Woozy/_/That%27s+Life</link>
-      <guid isPermaLink="false">rockijosh-1694444520--bfa6929d-8375-488d-b027-8a0691c73643---That's Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3626881a0814341d0a158638720311b.png" length="161420" type="image/png"/>
-      <pubDate>Mon, 11 Sep 2023 11:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Daktyl - 6 Letters (1 play)</title>
-      <link>https://www.last.fm/music/Daktyl/_/6+Letters</link>
-      <guid isPermaLink="false">rockijosh-1694444668--9d1ea751-f1c4-4389-992e-80ab3e340bb1---6 Letters</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1864f4968ddada62d50a3b8e13bbd00a.jpg" length="36011" type="image/jpeg"/>
-      <pubDate>Mon, 11 Sep 2023 11:04:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Maggie Rogers - Say It (5 plays)</title>
-      <link>https://www.last.fm/music/Maggie+Rogers/_/Say+It</link>
-      <guid isPermaLink="false">rockijosh-1694444835--dde26295-8cd4-474c-8740-3edb801b2776---Say It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cd218ed72b381a255794be47d4a8dac.jpg" length="18921" type="image/jpeg"/>
-      <pubDate>Mon, 11 Sep 2023 11:07:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Odie - In My Head (1 play)</title>
-      <link>https://www.last.fm/music/Odie/_/In+My+Head</link>
-      <guid isPermaLink="false">rockijosh-1694445057--60d64a4a-8d8f-4d4e-bcaa-dda70253542c---In My Head</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e46b9e81e427628d811edd0c556aa178.jpg" length="21958" type="image/jpeg"/>
-      <pubDate>Mon, 11 Sep 2023 11:10:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Sep 2023 17:52:24 +0000</lastBuildDate>
     <item>
       <title>Dominic Fike - Sick (1 play)</title>
       <link>https://www.last.fm/music/Dominic+Fike/_/Sick</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">rockijosh-1694453640--8451cfa0-b39c-4ad1-8aba-a19d47598a67---Puffer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/445633d70eb9b19ccf21654935aa4e1e.png" length="115287" type="image/png"/>
       <pubDate>Mon, 11 Sep 2023 13:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Odie - Little Lies (1 play)</title>
+      <link>https://www.last.fm/music/Odie/_/Little+Lies</link>
+      <guid isPermaLink="false">rockijosh-1694453794--60d64a4a-8d8f-4d4e-bcaa-dda70253542c---Little Lies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e46b9e81e427628d811edd0c556aa178.jpg" length="21958" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 13:36:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Francis and the Lights - May I Have This Dance (1 play)</title>
+      <link>https://www.last.fm/music/Francis+and+the+Lights/_/May+I+Have+This+Dance</link>
+      <guid isPermaLink="false">rockijosh-1694454014--d1073d49-539c-46b9-9b79-597b232a9a3c---May I Have This Dance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8a6d7d4a640013d09ffc55a8fafc1e8.jpg" length="27285" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 13:40:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Goth Babe - End Summer (1 play)</title>
+      <link>https://www.last.fm/music/Goth+Babe/_/End+Summer</link>
+      <guid isPermaLink="false">rockijosh-1694454188--Goth Babe---End Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da8e9bd24f1f68db1fa6330d21adbd65.jpg" length="23740" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 13:43:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Still Woozy - Lucy (1 play)</title>
+      <link>https://www.last.fm/music/Still+Woozy/_/Lucy</link>
+      <guid isPermaLink="false">rockijosh-1694454459--bfa6929d-8375-488d-b027-8a0691c73643---Lucy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4e8de5fb07e27571310399cd4d202d6.jpg" length="18904" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 13:47:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
