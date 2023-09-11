@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Sep 2023 07:15:14 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Awaken (62 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Awaken</link>
-      <guid isPermaLink="false">Frippertron-1694378196--8353f93f-163e-48c2-bb75-9f18987a3d46---Awaken</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a6c3bd53dc5bbd768075c67a1163665.png" length="222112" type="image/png"/>
-      <pubDate>Sun, 10 Sep 2023 16:36:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - 10538 Overture (35 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/10538+Overture</link>
-      <guid isPermaLink="false">Frippertron-1694398220--0c502791-4ee9-4c5f-9696-0602b721ff3b---10538 Overture</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/908053c4d0bb4ae8a7da959ee8d0d571.png" length="180404" type="image/png"/>
-      <pubDate>Sun, 10 Sep 2023 22:10:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roy Wood - Life Is Wonderful (50 plays)</title>
-      <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
-      <guid isPermaLink="false">Frippertron-1694398541--Roy Wood---Life Is Wonderful</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
-      <pubDate>Sun, 10 Sep 2023 22:15:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Sep 2023 07:27:02 +0000</lastBuildDate>
     <item>
       <title>Roy Wood - Another Wrong Night (11 plays)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/Another+Wrong+Night</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1694416185--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Surf's Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6dffc9bc394a40098a5e3233e248f1e0.png" length="167972" type="image/png"/>
       <pubDate>Mon, 11 Sep 2023 03:09:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lilys - Dimes Make Dollars (20 plays)</title>
+      <link>https://www.last.fm/music/Lilys/_/Dimes+Make+Dollars</link>
+      <guid isPermaLink="false">Frippertron-1694416456--50ad1cde-1536-4268-a55f-e47a7b8280ab---Dimes Make Dollars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27c05571943a4d21cd975670a4fc2626.jpg" length="17214" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 03:14:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lilys - Accepting Applications at University (25 plays)</title>
+      <link>https://www.last.fm/music/Lilys/_/Accepting+Applications+at+University</link>
+      <guid isPermaLink="false">Frippertron-1694416601--50ad1cde-1536-4268-a55f-e47a7b8280ab---Accepting Applications at University</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27c05571943a4d21cd975670a4fc2626.jpg" length="17214" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 03:16:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lilys - Leo Ryan (Our Pharoah's Slave) (23 plays)</title>
+      <link>https://www.last.fm/music/Lilys/_/Leo+Ryan+(Our+Pharoah%27s+Slave)</link>
+      <guid isPermaLink="false">Frippertron-1694416774--50ad1cde-1536-4268-a55f-e47a7b8280ab---Leo Ryan (Our Pharoah's Slave)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27c05571943a4d21cd975670a4fc2626.jpg" length="17214" type="image/jpeg"/>
+      <pubDate>Mon, 11 Sep 2023 03:19:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
