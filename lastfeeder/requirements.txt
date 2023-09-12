@@ -14,9 +14,9 @@ feedgen==0.9.0
     # via -r requirements.in
 h11==0.14.0
     # via httpcore
-httpcore==0.17.3
+httpcore==0.18.0
     # via httpx
-httpx==0.24.1
+httpx==0.25.0
     # via -r requirements.in
 humanize==4.8.0
     # via delorean
