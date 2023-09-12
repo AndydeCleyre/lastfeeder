@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Sep 2023 07:26:22 +0000</lastBuildDate>
-    <item>
-      <title>David Sylvian - The Healing Place (20 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/The+Healing+Place</link>
-      <guid isPermaLink="false">Frippertron-1694424551--719db6b1-0d91-458c-8d18-875ec44105bf---The Healing Place</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c467ec626bf640c69ac572178cc9f97a.png" length="230221" type="image/png"/>
-      <pubDate>Mon, 11 Sep 2023 05:29:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Emerson, Lake &amp; Palmer - Knife-Edge (20 plays)</title>
-      <link>https://www.last.fm/music/Emerson,+Lake+&amp;+Palmer/_/Knife-Edge</link>
-      <guid isPermaLink="false">Frippertron-1694424900--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Knife-Edge</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d962b1a5e9440e9c020fe51a975cd60.png" length="176584" type="image/png"/>
-      <pubDate>Mon, 11 Sep 2023 05:35:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Sep 2023 07:38:17 +0000</lastBuildDate>
     <item>
       <title>Yes - Awaken (63 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Awaken</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1694503036--08b736bb-1c82-40b4-8b0b-49e2182a067a---Sister Anne</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3471a9d19c34f8aa287528ae46aa456.jpg" length="28194" type="image/jpeg"/>
       <pubDate>Tue, 12 Sep 2023 03:17:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>MC5 - Skunk (Sonicly Speaking) (17 plays)</title>
+      <link>https://www.last.fm/music/MC5/_/Skunk+(Sonicly+Speaking)</link>
+      <guid isPermaLink="false">Frippertron-1694503417--08b736bb-1c82-40b4-8b0b-49e2182a067a---Skunk (Sonicly Speaking)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3471a9d19c34f8aa287528ae46aa456.jpg" length="28194" type="image/jpeg"/>
+      <pubDate>Tue, 12 Sep 2023 03:23:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Song Remains the Same (155 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1694503796--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 12 Sep 2023 03:29:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
