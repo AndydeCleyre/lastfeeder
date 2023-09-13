@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Sep 2023 11:12:53 +0000</lastBuildDate>
-    <item>
-      <title>Litany - Bedroom (1 play)</title>
-      <link>https://www.last.fm/music/Litany/_/Bedroom</link>
-      <guid isPermaLink="false">rockijosh-1694453453--Litany---Bedroom</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/896dd412b6efafbf9e207e40b589a2ae.jpg" length="17233" type="image/jpeg"/>
-      <pubDate>Mon, 11 Sep 2023 13:30:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cautious Clay - Puffer (3 plays)</title>
-      <link>https://www.last.fm/music/Cautious+Clay/_/Puffer</link>
-      <guid isPermaLink="false">rockijosh-1694453640--8451cfa0-b39c-4ad1-8aba-a19d47598a67---Puffer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/445633d70eb9b19ccf21654935aa4e1e.png" length="115287" type="image/png"/>
-      <pubDate>Mon, 11 Sep 2023 13:34:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Sep 2023 09:52:35 +0000</lastBuildDate>
     <item>
       <title>Odie - Little Lies (1 play)</title>
       <link>https://www.last.fm/music/Odie/_/Little+Lies</link>
@@ -352,11 +338,25 @@
       <pubDate>Tue, 12 Sep 2023 06:58:14 -0400</pubDate>
     </item>
     <item>
-      <title>Caroline Polachek - Sunset (50 plays)</title>
+      <title>Caroline Polachek - Sunset (51 plays)</title>
       <link>https://www.last.fm/music/Caroline+Polachek/_/Sunset</link>
       <guid isPermaLink="false">rockijosh-1694516471--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Sunset</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4bc4106e849c1d1926bb66ae6536c980.jpg" length="11836" type="image/jpeg"/>
       <pubDate>Tue, 12 Sep 2023 07:01:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ethel Cain - American Teenager (61 plays)</title>
+      <link>https://www.last.fm/music/Ethel+Cain/_/American+Teenager</link>
+      <guid isPermaLink="false">rockijosh-1694516635--677e31f1-4035-463c-8ca4-41175440c919---American Teenager</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22d11bc36e414094b227486963fe05f1.jpg" length="11690" type="image/jpeg"/>
+      <pubDate>Tue, 12 Sep 2023 07:03:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Caroline Polachek - Sunset (51 plays)</title>
+      <link>https://www.last.fm/music/Caroline+Polachek/_/Sunset</link>
+      <guid isPermaLink="false">rockijosh-1694516635--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Sunset</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4bc4106e849c1d1926bb66ae6536c980.jpg" length="11836" type="image/jpeg"/>
+      <pubDate>Tue, 12 Sep 2023 07:03:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
