@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 08:37:32 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Johnston - Pipeline (9 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Johnston/_/Pipeline</link>
-      <guid isPermaLink="false">Frippertron-1694665448--38bcc90c-2a59-4e62-ac5a-8034cd49ae44---Pipeline</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab7e2d7e30446e17d2678c0432ba23f4.jpg" length="18329" type="image/jpeg"/>
-      <pubDate>Thu, 14 Sep 2023 00:24:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Cabin Essence (27 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Cabin+Essence</link>
-      <guid isPermaLink="false">Frippertron-1694665817--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Cabin Essence</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6dffc9bc394a40098a5e3233e248f1e0.png" length="167972" type="image/png"/>
-      <pubDate>Thu, 14 Sep 2023 00:30:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Anthony Phillips - Which Way The Wind Blows (8 plays)</title>
-      <link>https://www.last.fm/music/Anthony+Phillips/_/Which+Way+The+Wind+Blows</link>
-      <guid isPermaLink="false">Frippertron-1694666251--e62f6374-7e6f-4492-bb4a-3a1c62366e61---Which Way The Wind Blows</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16377ea368345f5478975d55ab6ec870.jpg" length="32853" type="image/jpeg"/>
-      <pubDate>Thu, 14 Sep 2023 00:37:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Speak to Me (13 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Speak+to+Me</link>
-      <guid isPermaLink="false">Frippertron-1694666632--83d91898-7763-47d7-b03b-b92132375c47---Speak to Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/403e2e059d7289cda2056760c2d55550.jpg" length="4822" type="image/jpeg"/>
-      <pubDate>Thu, 14 Sep 2023 00:43:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Sep 2023 08:52:26 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Breathe (22 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Breathe</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1694680388--4051f6bf-6a59-4d23-bd8b-2fddb1389dc0---River Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcbfa24117974cbeccb63ffce723e7c4.png" length="146011" type="image/png"/>
       <pubDate>Thu, 14 Sep 2023 04:33:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dennis Wilson - Time (78 plays)</title>
+      <link>https://www.last.fm/music/Dennis+Wilson/_/Time</link>
+      <guid isPermaLink="false">Frippertron-1694680638--4051f6bf-6a59-4d23-bd8b-2fddb1389dc0---Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcbfa24117974cbeccb63ffce723e7c4.png" length="146011" type="image/png"/>
+      <pubDate>Thu, 14 Sep 2023 04:37:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Reggae (63 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Reggae</link>
+      <guid isPermaLink="false">Frippertron-1694680859--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Reggae</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9903bae260baaa04c6177ebcac4b74bc.jpg" length="29213" type="image/jpeg"/>
+      <pubDate>Thu, 14 Sep 2023 04:40:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Near DT, MI (159 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Near+DT,+MI</link>
+      <guid isPermaLink="false">Frippertron-1694681069--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Near DT, MI</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9903bae260baaa04c6177ebcac4b74bc.jpg" length="29213" type="image/jpeg"/>
+      <pubDate>Thu, 14 Sep 2023 04:44:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boris - Heavy Friends (15 plays)</title>
+      <link>https://www.last.fm/music/Boris/_/Heavy+Friends</link>
+      <guid isPermaLink="false">Frippertron-1694681262--590702b8-e5fd-43f7-9472-5f062f8e311e---Heavy Friends</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6232a3b735114c4497e3fe64fcb55668.png" length="13914" type="image/png"/>
+      <pubDate>Thu, 14 Sep 2023 04:47:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
