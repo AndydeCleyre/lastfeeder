@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 03:37:18 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Spider and I (29 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Spider+and+I</link>
-      <guid isPermaLink="false">Frippertron-1694594366--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Spider and I</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3169d4d7ca95457ab3c52dee4fb5447b.png" length="38250" type="image/png"/>
-      <pubDate>Wed, 13 Sep 2023 04:39:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pet Shop Boys - My October Symphony (58 plays)</title>
-      <link>https://www.last.fm/music/Pet+Shop+Boys/_/My+October+Symphony</link>
-      <guid isPermaLink="false">Frippertron-1694594617--be540c02-7898-4b79-9acc-c8122c7d9e83---My October Symphony</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99988f9b3fdd7a0dd973f2ad6f10baff.png" length="37936" type="image/png"/>
-      <pubDate>Wed, 13 Sep 2023 04:43:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cymbals - Sine (4 plays)</title>
-      <link>https://www.last.fm/music/Cymbals/_/Sine</link>
-      <guid isPermaLink="false">Frippertron-1694595015--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---Sine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/788a1dd7bc3afa75047c8e44cb3247da.jpg" length="19084" type="image/jpeg"/>
-      <pubDate>Wed, 13 Sep 2023 04:50:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Sep 2023 03:52:07 +0000</lastBuildDate>
     <item>
       <title>Cymbals - Baumkuchen (4 plays)</title>
       <link>https://www.last.fm/music/Cymbals/_/Baumkuchen</link>
@@ -341,6 +320,7 @@
       <title>Godley &amp; Creme - Snack Attack (3 plays)</title>
       <link>https://www.last.fm/music/Godley+&amp;+Creme/_/Snack+Attack</link>
       <guid isPermaLink="false">Frippertron-1694661704--6f874502-c86b-4d53-a371-3c18829531b9---Snack Attack</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9ac22e93edb5a8f5b0e9519b3b1b8b5.jpg" length="20257" type="image/jpeg"/>
       <pubDate>Wed, 13 Sep 2023 23:21:44 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1694662472--64b94289-9474-4d43-8c93-918ccc1920d1---Careless Talk</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a12d150c799c416daef11949670485c8.png" length="161438" type="image/png"/>
       <pubDate>Wed, 13 Sep 2023 23:34:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Somebody to Love (72 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Somebody+to+Love</link>
+      <guid isPermaLink="false">Frippertron-1694662694--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Somebody to Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 13 Sep 2023 23:38:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Don't Stop Me Now (35 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Don%27t+Stop+Me+Now</link>
+      <guid isPermaLink="false">Frippertron-1694663075--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Don't Stop Me Now</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 13 Sep 2023 23:44:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Intro (8 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Intro</link>
+      <guid isPermaLink="false">Frippertron-1694663406--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Intro</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/853f02c11a05f59dacdc73b37d7d5d81.jpg" length="16023" type="image/jpeg"/>
+      <pubDate>Wed, 13 Sep 2023 23:50:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
