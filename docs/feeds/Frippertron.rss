@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 04:52:45 +0000</lastBuildDate>
-    <item>
-      <title>Bauhaus - Swing the Heartache (10 plays)</title>
-      <link>https://www.last.fm/music/Bauhaus/_/Swing+the+Heartache</link>
-      <guid isPermaLink="false">Frippertron-1694597543--Bauhaus---Swing the Heartache</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1c531fd8a6d463391f05deb30743b5e.jpg" length="21929" type="image/jpeg"/>
-      <pubDate>Wed, 13 Sep 2023 05:32:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bauhaus - The Three Shadows (Part Three) (11 plays)</title>
-      <link>https://www.last.fm/music/Bauhaus/_/The+Three+Shadows+(Part+Three)</link>
-      <guid isPermaLink="false">Frippertron-1694597890--Bauhaus---The Three Shadows (Part Three)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1c531fd8a6d463391f05deb30743b5e.jpg" length="21929" type="image/jpeg"/>
-      <pubDate>Wed, 13 Sep 2023 05:38:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - All This Is That (68 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/All+This+Is+That</link>
-      <guid isPermaLink="false">Frippertron-1694598088--ebfc1398-8d96-47e3-82c3-f782abcdb13d---All This Is That</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/469c69a4962d7e7cd6b37787fcbba5f2.jpg" length="22931" type="image/jpeg"/>
-      <pubDate>Wed, 13 Sep 2023 05:41:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Hold On, Dear Brother (6 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Hold+On,+Dear+Brother</link>
-      <guid isPermaLink="false">Frippertron-1694598336--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Hold On, Dear Brother</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/469c69a4962d7e7cd6b37787fcbba5f2.jpg" length="22931" type="image/jpeg"/>
-      <pubDate>Wed, 13 Sep 2023 05:45:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Sep 2023 05:14:39 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - Make It Good (14 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/Make+It+Good</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1694666871--83d91898-7763-47d7-b03b-b92132375c47---On the Run</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/403e2e059d7289cda2056760c2d55550.jpg" length="4822" type="image/jpeg"/>
       <pubDate>Thu, 14 Sep 2023 00:47:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Time (26 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Time</link>
+      <guid isPermaLink="false">Frippertron-1694667098--83d91898-7763-47d7-b03b-b92132375c47---Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/403e2e059d7289cda2056760c2d55550.jpg" length="4822" type="image/jpeg"/>
+      <pubDate>Thu, 14 Sep 2023 00:51:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - The Great Gig in the Sky (25 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/The+Great+Gig+in+the+Sky</link>
+      <guid isPermaLink="false">Frippertron-1694667515--83d91898-7763-47d7-b03b-b92132375c47---The Great Gig in the Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/403e2e059d7289cda2056760c2d55550.jpg" length="4822" type="image/jpeg"/>
+      <pubDate>Thu, 14 Sep 2023 00:58:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Money (23 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Money</link>
+      <guid isPermaLink="false">Frippertron-1694667801--83d91898-7763-47d7-b03b-b92132375c47---Money</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/403e2e059d7289cda2056760c2d55550.jpg" length="4822" type="image/jpeg"/>
+      <pubDate>Thu, 14 Sep 2023 01:03:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Us and Them (24 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Us+and+Them</link>
+      <guid isPermaLink="false">Frippertron-1694668186--83d91898-7763-47d7-b03b-b92132375c47---Us and Them</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/403e2e059d7289cda2056760c2d55550.jpg" length="4822" type="image/jpeg"/>
+      <pubDate>Thu, 14 Sep 2023 01:09:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
