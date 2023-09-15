@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Sep 2023 05:14:31 +0000</lastBuildDate>
-    <item>
-      <title>Laurel Halo - The Sick Mind (7 plays)</title>
-      <link>https://www.last.fm/music/Laurel+Halo/_/The+Sick+Mind</link>
-      <guid isPermaLink="false">Frippertron-1694687020--cb5704af-3ef1-485f-bb7f-e43cf40170a7---The Sick Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6322eddea3e49a043e6b7aab2c3ae4d5.png" length="153065" type="image/png"/>
-      <pubDate>Thu, 14 Sep 2023 06:23:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Laurel Halo - Supine (7 plays)</title>
-      <link>https://www.last.fm/music/Laurel+Halo/_/Supine</link>
-      <guid isPermaLink="false">Frippertron-1694687284--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Supine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6322eddea3e49a043e6b7aab2c3ae4d5.png" length="153065" type="image/png"/>
-      <pubDate>Thu, 14 Sep 2023 06:28:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Sep 2023 05:28:12 +0000</lastBuildDate>
     <item>
       <title>Laurel Halo - Nahbarkeit (7 plays)</title>
       <link>https://www.last.fm/music/Laurel+Halo/_/Nahbarkeit</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1694754739--64ba761f-f24d-4bee-a9d6-ce0378c22ae9---Trouble In Mind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dff7a9cbe0c4bb4d3354708dad475e69.jpg" length="28709" type="image/jpeg"/>
       <pubDate>Fri, 15 Sep 2023 01:12:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cymbals - E.G.G. (3 plays)</title>
+      <link>https://www.last.fm/music/Cymbals/_/E.G.G.</link>
+      <guid isPermaLink="false">Frippertron-1694754957--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---E.G.G.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebb05e58820271771421c490de81714.png" length="169815" type="image/png"/>
+      <pubDate>Fri, 15 Sep 2023 01:15:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Buffalo - Sunrise (Come My Way) (1 play)</title>
+      <link>https://www.last.fm/music/Buffalo/_/Sunrise+(Come+My+Way)</link>
+      <guid isPermaLink="false">Frippertron-1694755257--bc946025-682b-40df-82d0-c3dab6f28e30---Sunrise (Come My Way)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a96aaddefd76e2a90be48a71180be7c.jpg" length="25553" type="image/jpeg"/>
+      <pubDate>Fri, 15 Sep 2023 01:20:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
