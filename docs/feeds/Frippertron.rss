@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Sep 2023 07:52:51 +0000</lastBuildDate>
-    <item>
-      <title>Queen - It's a Hard Life (49 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/It%27s+a+Hard+Life</link>
-      <guid isPermaLink="false">Frippertron-1694749593--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---It's a Hard Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
-      <pubDate>Thu, 14 Sep 2023 23:46:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yes - Siberian Khatru (90 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Siberian+Khatru</link>
-      <guid isPermaLink="false">Frippertron-1694749841--8353f93f-163e-48c2-bb75-9f18987a3d46---Siberian Khatru</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe19902f9ea92b9b89a8b2229e2a4c7a.jpg" length="14537" type="image/jpeg"/>
-      <pubDate>Thu, 14 Sep 2023 23:50:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Sep 2023 08:20:35 +0000</lastBuildDate>
     <item>
       <title>The Dismemberment Plan - A Life of Possibilities (50 plays)</title>
       <link>https://www.last.fm/music/The+Dismemberment+Plan/_/A+Life+of+Possibilities</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1694764207--767e4492-183d-4d16-b0ea-b27995e7264c---Revenant Orchard</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1477e2eedba59ce5d9b8a18bbca48633.jpg" length="17283" type="image/jpeg"/>
       <pubDate>Fri, 15 Sep 2023 03:50:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Echoes (73 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
+      <guid isPermaLink="false">Frippertron-1694764420--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
+      <pubDate>Fri, 15 Sep 2023 03:53:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Brian Eno - Needle In The Camel's Eye (48 plays)</title>
+      <link>https://www.last.fm/music/Brian+Eno/_/Needle+In+The+Camel%27s+Eye</link>
+      <guid isPermaLink="false">Frippertron-1694765886--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Needle In The Camel's Eye</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e89c8997eb8cc31f6b4c5cdddead3419.png" length="223108" type="image/png"/>
+      <pubDate>Fri, 15 Sep 2023 04:18:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
