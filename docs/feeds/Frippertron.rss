@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Sep 2023 16:20:56 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Hey Manhattan! (45 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Hey+Manhattan!</link>
-      <guid isPermaLink="false">Frippertron-1694980272--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Hey Manhattan!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
-      <pubDate>Sun, 17 Sep 2023 15:51:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Sep 2023 16:40:24 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Knock On Wood (48 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Knock+On+Wood</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1695053800--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Swans</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b95b1eaed28480eaba04e321be171a8.png" length="211310" type="image/png"/>
       <pubDate>Mon, 18 Sep 2023 12:16:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Weightless (5 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Weightless</link>
+      <guid isPermaLink="false">Frippertron-1695053985--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Weightless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b95b1eaed28480eaba04e321be171a8.png" length="211310" type="image/png"/>
+      <pubDate>Mon, 18 Sep 2023 12:19:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
