@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Sep 2023 21:12:24 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Cindy Tells Me (37 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Cindy+Tells+Me</link>
-      <guid isPermaLink="false">Frippertron-1694766587--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Cindy Tells Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e89c8997eb8cc31f6b4c5cdddead3419.png" length="223108" type="image/png"/>
-      <pubDate>Fri, 15 Sep 2023 04:29:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Brian Eno - Driving Me Backwards (38 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Driving+Me+Backwards</link>
-      <guid isPermaLink="false">Frippertron-1694766795--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Driving Me Backwards</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e89c8997eb8cc31f6b4c5cdddead3419.png" length="223108" type="image/png"/>
-      <pubDate>Fri, 15 Sep 2023 04:33:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Sep 2023 13:00:20 +0000</lastBuildDate>
     <item>
       <title>Brian Eno - On Some Faraway Beach (33 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/On+Some+Faraway+Beach</link>
@@ -324,7 +310,7 @@
       <pubDate>Sun, 17 Sep 2023 16:27:21 -0400</pubDate>
     </item>
     <item>
-      <title>Prefab Sprout - Appetite (87 plays)</title>
+      <title>Prefab Sprout - Appetite (88 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Appetite</link>
       <guid isPermaLink="false">Frippertron-1694982751--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Appetite</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1694983843--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Hey Manhattan!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 17 Sep 2023 16:50:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Michael (82 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Michael</link>
+      <guid isPermaLink="false">Frippertron-1695041437--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Michael</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 18 Sep 2023 08:50:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Appetite (88 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Appetite</link>
+      <guid isPermaLink="false">Frippertron-1695041640--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Appetite</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 18 Sep 2023 08:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
