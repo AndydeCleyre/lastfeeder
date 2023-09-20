@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Sep 2023 04:19:10 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Sky Saw (13 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Sky+Saw</link>
-      <guid isPermaLink="false">Frippertron-1695114155--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Sky Saw</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/918055ba2eb81528f93a8924dbab88f8.jpg" length="15880" type="image/jpeg"/>
-      <pubDate>Tue, 19 Sep 2023 05:02:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Brian Eno - Over Fire Island (7 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Over+Fire+Island</link>
-      <guid isPermaLink="false">Frippertron-1695114363--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Over Fire Island</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/918055ba2eb81528f93a8924dbab88f8.jpg" length="15880" type="image/jpeg"/>
-      <pubDate>Tue, 19 Sep 2023 05:06:03 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Sep 2023 04:37:25 +0000</lastBuildDate>
     <item>
       <title>Brian Eno - St. Elmo's Fire (7 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/St.+Elmo%27s+Fire</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1695182660--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Cybele's Reverie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6d45b90bbb0292d9da39e500da8103a.jpg" length="28509" type="image/jpeg"/>
       <pubDate>Wed, 20 Sep 2023 00:04:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Isaac Hayes - Never Gonna Give You Up (43 plays)</title>
+      <link>https://www.last.fm/music/Isaac+Hayes/_/Never+Gonna+Give+You+Up</link>
+      <guid isPermaLink="false">Frippertron-1695183876--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Never Gonna Give You Up</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb9dd2d55dd1a1a34970c7b25c5f0a83.png" length="150722" type="image/png"/>
+      <pubDate>Wed, 20 Sep 2023 00:24:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Isaac Hayes - Going In Circles (10 plays)</title>
+      <link>https://www.last.fm/music/Isaac+Hayes/_/Going+In+Circles</link>
+      <guid isPermaLink="false">Frippertron-1695184117--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Going In Circles</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb9dd2d55dd1a1a34970c7b25c5f0a83.png" length="150722" type="image/png"/>
+      <pubDate>Wed, 20 Sep 2023 00:28:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
