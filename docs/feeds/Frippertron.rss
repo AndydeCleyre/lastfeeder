@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Sep 2023 17:27:53 +0000</lastBuildDate>
-    <item>
-      <title>Brian Eno - Little Fishes (7 plays)</title>
-      <link>https://www.last.fm/music/Brian+Eno/_/Little+Fishes</link>
-      <guid isPermaLink="false">Frippertron-1695189803--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Little Fishes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/918055ba2eb81528f93a8924dbab88f8.jpg" length="15880" type="image/jpeg"/>
-      <pubDate>Wed, 20 Sep 2023 02:03:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Enchanted (99 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Enchanted</link>
-      <guid isPermaLink="false">Frippertron-1695193432--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Enchanted</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
-      <pubDate>Wed, 20 Sep 2023 03:03:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Sep 2023 17:39:39 +0000</lastBuildDate>
     <item>
       <title>Brian Eno - Needle In The Camel's Eye (49 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/Needle+In+The+Camel%27s+Eye</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1695230512--f1cd52dc-49d1-4df6-93ea-3587d8fba30b---Perro Andaluz</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e2809760726b96abd91d012bd5b2419.jpg" length="31503" type="image/jpeg"/>
       <pubDate>Wed, 20 Sep 2023 13:21:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Serú Girán - Frecuencia Modulada (1 play)</title>
+      <link>https://www.last.fm/music/Ser%C3%BA+Gir%C3%A1n/_/Frecuencia+Modulada</link>
+      <guid isPermaLink="false">Frippertron-1695230822--f1cd52dc-49d1-4df6-93ea-3587d8fba30b---Frecuencia Modulada</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e2809760726b96abd91d012bd5b2419.jpg" length="31503" type="image/jpeg"/>
+      <pubDate>Wed, 20 Sep 2023 13:27:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Serú Girán - Paranoia y Soledad (1 play)</title>
+      <link>https://www.last.fm/music/Ser%C3%BA+Gir%C3%A1n/_/Paranoia+y+Soledad</link>
+      <guid isPermaLink="false">Frippertron-1695231027--f1cd52dc-49d1-4df6-93ea-3587d8fba30b---Paranoia y Soledad</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e2809760726b96abd91d012bd5b2419.jpg" length="31503" type="image/jpeg"/>
+      <pubDate>Wed, 20 Sep 2023 13:30:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
