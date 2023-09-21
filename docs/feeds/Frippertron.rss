@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Sep 2023 06:21:32 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - And Your Dream Comes True (2 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/And+Your+Dream+Comes+True</link>
-      <guid isPermaLink="false">Frippertron-1695239815--ebfc1398-8d96-47e3-82c3-f782abcdb13d---And Your Dream Comes True</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78419e01f2be8e3d9b491b99fe37fbeb.png" length="186549" type="image/png"/>
-      <pubDate>Wed, 20 Sep 2023 15:56:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Station to Station (94 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Station+to+Station</link>
-      <guid isPermaLink="false">Frippertron-1695262085--5441c29d-3602-4898-b1a1-b77fa23b8e50---Station to Station</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Wed, 20 Sep 2023 22:08:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Sep 2023 07:14:39 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Golden Years (54 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Golden+Years</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1695276012--60e8e938-365e-4429-a141-4c79eb49588d---Simple Death</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4b5098fe19c7fdb6e1b92acfe4da5fa.png" length="108755" type="image/png"/>
       <pubDate>Thu, 21 Sep 2023 02:00:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Marcos Valle - A Paraíba Nao É Chicago (1 play)</title>
+      <link>https://www.last.fm/music/Marcos+Valle/_/A+Para%C3%ADba+Nao+%C3%89+Chicago</link>
+      <guid isPermaLink="false">Frippertron-1695279967--1ba347eb-58e8-45d6-b7e3-09873dc2506a---A Paraíba Nao É Chicago</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b27632273913eefd3c95851921163c35.jpg" length="17893" type="image/jpeg"/>
+      <pubDate>Thu, 21 Sep 2023 03:06:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Marcos Valle - Bicho No Cio (1 play)</title>
+      <link>https://www.last.fm/music/Marcos+Valle/_/Bicho+No+Cio</link>
+      <guid isPermaLink="false">Frippertron-1695280247--1ba347eb-58e8-45d6-b7e3-09873dc2506a---Bicho No Cio</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b27632273913eefd3c95851921163c35.jpg" length="17893" type="image/jpeg"/>
+      <pubDate>Thu, 21 Sep 2023 03:10:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
