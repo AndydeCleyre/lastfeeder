@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Sep 2023 21:13:47 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - I'm on Fire (2 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/I%27m+on+Fire</link>
-      <guid isPermaLink="false">ddgromit-1694115415--70248960-cb53-4ea4-943a-edb18f7d336f---I'm on Fire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03426c63f1f44b53cb6ea5745ec08cda.png" length="161704" type="image/png"/>
-      <pubDate>Thu, 07 Sep 2023 15:36:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Sep 2023 21:25:27 +0000</lastBuildDate>
     <item>
       <title>The Lovin' Spoonful - Daydream (5 plays)</title>
       <link>https://www.last.fm/music/The+Lovin%27+Spoonful/_/Daydream</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1695330494--Sylvan Esso---H.S.K.T. - Acapella</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75ddbc7d40c70cb643dfe4d04ec0d6b3.jpg" length="13908" type="image/jpeg"/>
       <pubDate>Thu, 21 Sep 2023 17:08:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mark McGuire - The Instinct (5 plays)</title>
+      <link>https://www.last.fm/music/Mark+McGuire/_/The+Instinct</link>
+      <guid isPermaLink="false">ddgromit-1695330753--f1db8b18-f950-4231-ac8b-cd936e5b4e07---The Instinct</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/abaf63e802094afdca08be9e9dc4f007.png" length="171272" type="image/png"/>
+      <pubDate>Thu, 21 Sep 2023 17:12:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
