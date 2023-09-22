@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Sep 2023 17:52:15 +0000</lastBuildDate>
-    <item>
-      <title>Tomberlin - happy accident (1 play)</title>
-      <link>https://www.last.fm/music/Tomberlin/_/happy+accident</link>
-      <guid isPermaLink="false">walrus898-1695162788--4717b4d8-00b9-4f55-aead-ae501d359f6f---happy accident</guid>
-      <pubDate>Tue, 19 Sep 2023 18:33:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lawn - Down (1 play)</title>
-      <link>https://www.last.fm/music/Lawn/_/Down</link>
-      <guid isPermaLink="false">walrus898-1695162969--Lawn---Down</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f0e22ce9e7226066959b491e14f8720.jpg" length="34027" type="image/jpeg"/>
-      <pubDate>Tue, 19 Sep 2023 18:36:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Sep 2023 18:21:06 +0000</lastBuildDate>
     <item>
       <title>Enumclaw - Jimmy Neutron (1 play)</title>
       <link>https://www.last.fm/music/Enumclaw/_/Jimmy+Neutron</link>
@@ -32,12 +19,14 @@
       <title>CVC - Hail Mary (1 play)</title>
       <link>https://www.last.fm/music/CVC/_/Hail+Mary</link>
       <guid isPermaLink="false">walrus898-1695212847--a9c2c991-3d78-4ea1-8d96-40389f792af4---Hail Mary</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/77f9b962960e82b34ba5454eba20cf9c.jpg" length="9618" type="image/jpeg"/>
       <pubDate>Wed, 20 Sep 2023 08:27:27 -0400</pubDate>
     </item>
     <item>
       <title>Goldpark - Summer In My Head (1 play)</title>
       <link>https://www.last.fm/music/Goldpark/_/Summer+In+My+Head</link>
       <guid isPermaLink="false">walrus898-1695213091--2db49346-4327-4fdd-89bb-c55bfca5b6d8---Summer In My Head</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5ca286eeb47ed0fcf7bde3aef95153b4.jpg" length="20891" type="image/jpeg"/>
       <pubDate>Wed, 20 Sep 2023 08:31:31 -0400</pubDate>
     </item>
     <item>
@@ -51,6 +40,7 @@
       <title>Sophia Kennedy - Seventeen - Dan Deacon Remix (2 plays)</title>
       <link>https://www.last.fm/music/Sophia+Kennedy/_/Seventeen+-+Dan+Deacon+Remix</link>
       <guid isPermaLink="false">walrus898-1695213521--Sophia Kennedy---Seventeen - Dan Deacon Remix</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d3ad0e5bcd020eb18485fcc13cc9d1a.jpg" length="17244" type="image/jpeg"/>
       <pubDate>Wed, 20 Sep 2023 08:38:41 -0400</pubDate>
     </item>
     <item>
@@ -353,6 +343,20 @@
       <guid isPermaLink="false">walrus898-1695404750--a02fc8df-79fe-4e48-a873-8a553d69937a---Absence</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acd29944827b3fa7225a3cd49ce33322.jpg" length="23368" type="image/jpeg"/>
       <pubDate>Fri, 22 Sep 2023 13:45:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Caroline Rose - Everywhere I Go I Bring the Rain (26 plays)</title>
+      <link>https://www.last.fm/music/Caroline+Rose/_/Everywhere+I+Go+I+Bring+the+Rain</link>
+      <guid isPermaLink="false">walrus898-1695405031--17862c0f-a9b1-46dd-b85d-7af965974afd---Everywhere I Go I Bring the Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5b18ba08769138912e5c4ff56f80716.jpg" length="19855" type="image/jpeg"/>
+      <pubDate>Fri, 22 Sep 2023 13:50:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swimming Tapes - Easy Strand (36 plays)</title>
+      <link>https://www.last.fm/music/Swimming+Tapes/_/Easy+Strand</link>
+      <guid isPermaLink="false">walrus898-1695405338--ba1cf159-e7de-43fa-84be-e1b283ed5444---Easy Strand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bee106b13fd78ddfe033b3044d40efae.jpg" length="13946" type="image/jpeg"/>
+      <pubDate>Fri, 22 Sep 2023 13:55:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
