@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Sep 2023 05:14:34 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Johnston - Pipeline (10 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Johnston/_/Pipeline</link>
-      <guid isPermaLink="false">Frippertron-1695309288--38bcc90c-2a59-4e62-ac5a-8034cd49ae44---Pipeline</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab7e2d7e30446e17d2678c0432ba23f4.jpg" length="18329" type="image/jpeg"/>
-      <pubDate>Thu, 21 Sep 2023 11:14:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Milton Nascimento - Fazenda (41 plays)</title>
-      <link>https://www.last.fm/music/Milton+Nascimento/_/Fazenda</link>
-      <guid isPermaLink="false">Frippertron-1695309693--1bfa27e3-0376-4206-a772-4586e25a64f5---Fazenda</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a5e2527e0b2446f68fabd20c65931bc3.png" length="171852" type="image/png"/>
-      <pubDate>Thu, 21 Sep 2023 11:21:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Sep 2023 05:28:45 +0000</lastBuildDate>
     <item>
       <title>Milton Nascimento - Cálix Bento (7 plays)</title>
       <link>https://www.last.fm/music/Milton+Nascimento/_/C%C3%A1lix+Bento</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1695358810--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Nightingales</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
       <pubDate>Fri, 22 Sep 2023 01:00:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Hey Manhattan! (47 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Hey+Manhattan!</link>
+      <guid isPermaLink="false">Frippertron-1695359165--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Hey Manhattan!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
+      <pubDate>Fri, 22 Sep 2023 01:06:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Knock On Wood (51 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Knock+On+Wood</link>
+      <guid isPermaLink="false">Frippertron-1695360272--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Knock On Wood</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
+      <pubDate>Fri, 22 Sep 2023 01:24:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
