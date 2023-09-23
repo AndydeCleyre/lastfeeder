@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Sep 2023 14:37:29 +0000</lastBuildDate>
-    <item>
-      <title>The Night Flight Orchestra - Gemini (12 plays)</title>
-      <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/Gemini</link>
-      <guid isPermaLink="false">manosg--1695283211--0aa7e8fd-ba08-4a2d-93fc-91baf635072d---Gemini</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42f5e3dd29939ee2f6fc263b3cf51eae.jpg" length="22036" type="image/jpeg"/>
-      <pubDate>Thu, 21 Sep 2023 04:00:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Night Flight Orchestra - Sad State Of Affairs (7 plays)</title>
-      <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/Sad+State+Of+Affairs</link>
-      <guid isPermaLink="false">manosg--1695295932--0aa7e8fd-ba08-4a2d-93fc-91baf635072d---Sad State Of Affairs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42f5e3dd29939ee2f6fc263b3cf51eae.jpg" length="22036" type="image/jpeg"/>
-      <pubDate>Thu, 21 Sep 2023 07:32:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Sep 2023 14:52:15 +0000</lastBuildDate>
     <item>
       <title>The Night Flight Orchestra - Jennie (7 plays)</title>
       <link>https://www.last.fm/music/The+Night+Flight+Orchestra/_/Jennie</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1695479384--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Alone</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b570b3b815d4c4a8a1cfcd171e7bedf.png" length="244876" type="image/png"/>
       <pubDate>Sat, 23 Sep 2023 10:29:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Amorphis - Goddess (Of the Sad Man) (4 plays)</title>
+      <link>https://www.last.fm/music/Amorphis/_/Goddess+(Of+the+Sad+Man)</link>
+      <guid isPermaLink="false">manosg--1695479763--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---Goddess (Of the Sad Man)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b570b3b815d4c4a8a1cfcd171e7bedf.png" length="244876" type="image/png"/>
+      <pubDate>Sat, 23 Sep 2023 10:36:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Amorphis - The Night Is Over (4 plays)</title>
+      <link>https://www.last.fm/music/Amorphis/_/The+Night+Is+Over</link>
+      <guid isPermaLink="false">manosg--1695480003--efaefde1-e09b-4d49-9d8e-b1304d2ece8d---The Night Is Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b570b3b815d4c4a8a1cfcd171e7bedf.png" length="244876" type="image/png"/>
+      <pubDate>Sat, 23 Sep 2023 10:40:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
