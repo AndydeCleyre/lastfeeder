@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Sep 2023 06:52:28 +0000</lastBuildDate>
-    <item>
-      <title>Madonna - Secret (2 plays)</title>
-      <link>https://www.last.fm/music/Madonna/_/Secret</link>
-      <guid isPermaLink="false">Arcade1996-1695520944--79239441-bfd5-4981-a70c-55c3f15c1287---Secret</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/599b736da3c289b488067b0e864c6ad4.png" length="174432" type="image/png"/>
-      <pubDate>Sat, 23 Sep 2023 22:02:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Madonna - Don't Stop (1 play)</title>
-      <link>https://www.last.fm/music/Madonna/_/Don%27t+Stop</link>
-      <guid isPermaLink="false">Arcade1996-1695521383--79239441-bfd5-4981-a70c-55c3f15c1287---Don't Stop</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/599b736da3c289b488067b0e864c6ad4.png" length="174432" type="image/png"/>
-      <pubDate>Sat, 23 Sep 2023 22:09:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>Everything But the Girl - Five Fathoms (25 plays)</title>
-      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Five+Fathoms</link>
-      <guid isPermaLink="false">Arcade1996-1695521866--959cf5bf-ee29-4af6-a85a-0b480181d988---Five Fathoms</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d23e96cffabb74f97bd5f83bab0f4e9.jpg" length="16850" type="image/jpeg"/>
-      <pubDate>Sat, 23 Sep 2023 22:17:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Sep 2023 07:15:43 +0000</lastBuildDate>
     <item>
       <title>Madonna - Hollywood (1 play)</title>
       <link>https://www.last.fm/music/Madonna/_/Hollywood</link>
@@ -58,7 +37,7 @@
       <pubDate>Sun, 24 Sep 2023 01:20:12 -0400</pubDate>
     </item>
     <item>
-      <title>UNKLE - Lonely Soul (2 plays)</title>
+      <title>UNKLE - Lonely Soul (3 plays)</title>
       <link>https://www.last.fm/music/UNKLE/_/Lonely+Soul</link>
       <guid isPermaLink="false">Arcade1996-1695533174--6648391e-7890-4f6c-b939-976f215195d3---Lonely Soul</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17cf6e73d91b9b30e9cb806d4ba539ea.jpg" length="32823" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Arcade1996-1695624145--369fbad4-6fa4-4dae-9842-a69826cd359d---Snake Blood</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bb9616bb25d4e8b8ef2ec500356e296.jpg" length="13763" type="image/jpeg"/>
       <pubDate>Mon, 25 Sep 2023 02:42:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Underworld - 8 Ball (1 play)</title>
+      <link>https://www.last.fm/music/Underworld/_/8+Ball</link>
+      <guid isPermaLink="false">Arcade1996-1695624484--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---8 Ball</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ef18635cfc1354fc2d7760005fb119f.jpg" length="40049" type="image/jpeg"/>
+      <pubDate>Mon, 25 Sep 2023 02:48:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKLE - Lonely Soul (3 plays)</title>
+      <link>https://www.last.fm/music/UNKLE/_/Lonely+Soul</link>
+      <guid isPermaLink="false">Arcade1996-1695625023--6648391e-7890-4f6c-b939-976f215195d3---Lonely Soul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17cf6e73d91b9b30e9cb806d4ba539ea.jpg" length="32823" type="image/jpeg"/>
+      <pubDate>Mon, 25 Sep 2023 02:57:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKLE - Be There (13 plays)</title>
+      <link>https://www.last.fm/music/UNKLE/_/Be+There</link>
+      <guid isPermaLink="false">Arcade1996-1695625555--6648391e-7890-4f6c-b939-976f215195d3---Be There</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17cf6e73d91b9b30e9cb806d4ba539ea.jpg" length="32823" type="image/jpeg"/>
+      <pubDate>Mon, 25 Sep 2023 03:05:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
