@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Sep 2023 22:40:09 +0000</lastBuildDate>
-    <item>
-      <title>blink-182 - All the Small Things (3 plays)</title>
-      <link>https://www.last.fm/music/blink-182/_/All+the+Small+Things</link>
-      <guid isPermaLink="false">ddgromit-1695585158--0743b15a-3c32-48c8-ad58-cb325350befa---All the Small Things</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f84a1b9b2634750bdd014c2bb646d96.png" length="188402" type="image/png"/>
-      <pubDate>Sun, 24 Sep 2023 15:52:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Sep 2023 22:52:10 +0000</lastBuildDate>
     <item>
       <title>blink-182 - I Miss You (2 plays)</title>
       <link>https://www.last.fm/music/blink-182/_/I+Miss+You</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1695767586--12e121d2-76b0-49e1-b925-2a50b59c718c---Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab8c9cb32f51fe723dcf18207f4acfe3.jpg" length="26059" type="image/jpeg"/>
       <pubDate>Tue, 26 Sep 2023 18:33:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Akram Abdulfattah - Rivers from the East (1 play)</title>
+      <link>https://www.last.fm/music/Akram+Abdulfattah/_/Rivers+from+the+East</link>
+      <guid isPermaLink="false">ddgromit-1695767799--Akram Abdulfattah---Rivers from the East</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 26 Sep 2023 18:36:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
