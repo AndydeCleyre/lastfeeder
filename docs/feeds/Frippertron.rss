@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Sep 2023 06:21:09 +0000</lastBuildDate>
-    <item>
-      <title>Cymbals - Star Collector (4 plays)</title>
-      <link>https://www.last.fm/music/Cymbals/_/Star+Collector</link>
-      <guid isPermaLink="false">Frippertron-1695636135--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---Star Collector</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/788a1dd7bc3afa75047c8e44cb3247da.jpg" length="19084" type="image/jpeg"/>
-      <pubDate>Mon, 25 Sep 2023 06:02:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - I Remember That (59 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/I+Remember+That</link>
-      <guid isPermaLink="false">Frippertron-1695636297--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---I Remember That</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
-      <pubDate>Mon, 25 Sep 2023 06:04:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Sep 2023 07:14:39 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Enchanted (101 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Enchanted</link>
@@ -128,7 +114,7 @@
       <pubDate>Mon, 25 Sep 2023 23:23:50 -0400</pubDate>
     </item>
     <item>
-      <title>Queen - Fat Bottomed Girls</title>
+      <title>Queen - Fat Bottomed Girls (32 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Fat+Bottomed+Girls</link>
       <guid isPermaLink="false">Frippertron-1695698811--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Fat Bottomed Girls</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6682a933a9814d48bf1307e7a99cd655.png" length="138305" type="image/png"/>
@@ -247,7 +233,7 @@
       <pubDate>Tue, 26 Sep 2023 00:40:52 -0400</pubDate>
     </item>
     <item>
-      <title>Peter Gabriel - I Have the Touch (18 plays)</title>
+      <title>Peter Gabriel - I Have the Touch</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/I+Have+the+Touch</link>
       <guid isPermaLink="false">Frippertron-1695703565--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---I Have the Touch</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e26f1c92b99c46b9aa94060e9173bc56.png" length="126218" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1695707924--Destroyer---Times Square</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcf5ef6926be8621f5361c82b6fec7ea.png" length="111937" type="image/png"/>
       <pubDate>Tue, 26 Sep 2023 01:58:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Destroyer - Archer on the Beach (10 plays)</title>
+      <link>https://www.last.fm/music/Destroyer/_/Archer+on+the+Beach</link>
+      <guid isPermaLink="false">Frippertron-1695708181--Destroyer---Archer on the Beach</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcf5ef6926be8621f5361c82b6fec7ea.png" length="111937" type="image/png"/>
+      <pubDate>Tue, 26 Sep 2023 02:03:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Destroyer - Midnight Meet the Rain (8 plays)</title>
+      <link>https://www.last.fm/music/Destroyer/_/Midnight+Meet+the+Rain</link>
+      <guid isPermaLink="false">Frippertron-1695712235--Destroyer---Midnight Meet the Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcf5ef6926be8621f5361c82b6fec7ea.png" length="111937" type="image/png"/>
+      <pubDate>Tue, 26 Sep 2023 03:10:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
