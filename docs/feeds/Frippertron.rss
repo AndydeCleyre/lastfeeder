@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 08:37:57 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Misfire (24 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Misfire</link>
-      <guid isPermaLink="false">Frippertron-1696304393--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Misfire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e677a1c6e7284a5799823fb8137c88ca.png" length="173493" type="image/png"/>
-      <pubDate>Mon, 02 Oct 2023 23:39:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Bring Back That Leroy Brown (34 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Bring+Back+That+Leroy+Brown</link>
-      <guid isPermaLink="false">Frippertron-1696304506--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Bring Back That Leroy Brown</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e677a1c6e7284a5799823fb8137c88ca.png" length="173493" type="image/png"/>
-      <pubDate>Mon, 02 Oct 2023 23:41:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Oct 2023 08:52:26 +0000</lastBuildDate>
     <item>
       <title>Queen - She Makes Me (Stormtroopers In Stilettos) (1 play)</title>
       <link>https://www.last.fm/music/Queen/_/She+Makes+Me+(Stormtroopers+In+Stilettos)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1696321915--68c1feca-ff4f-4df4-a829-9c495a26c69c---No Gentle Art</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adfecc02526ea54f8d585417215ee965.png" length="79707" type="image/png"/>
       <pubDate>Tue, 03 Oct 2023 04:31:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stylistics - Break Up to Make Up (14 plays)</title>
+      <link>https://www.last.fm/music/The+Stylistics/_/Break+Up+to+Make+Up</link>
+      <guid isPermaLink="false">Frippertron-1696322441--b3edafa8-0a78-40b9-9404-c6fc1920d2be---Break Up to Make Up</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76484a76ad614fcaa6d3364e58355697.png" length="141780" type="image/png"/>
+      <pubDate>Tue, 03 Oct 2023 04:40:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stylistics - It's Too Late (8 plays)</title>
+      <link>https://www.last.fm/music/The+Stylistics/_/It%27s+Too+Late</link>
+      <guid isPermaLink="false">Frippertron-1696322676--b3edafa8-0a78-40b9-9404-c6fc1920d2be---It's Too Late</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76484a76ad614fcaa6d3364e58355697.png" length="141780" type="image/png"/>
+      <pubDate>Tue, 03 Oct 2023 04:44:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
