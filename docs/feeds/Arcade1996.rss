@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Oct 2023 06:22:17 +0000</lastBuildDate>
-    <item>
-      <title>Doechii - Pacer (4 plays)</title>
-      <link>https://www.last.fm/music/Doechii/_/Pacer</link>
-      <guid isPermaLink="false">Arcade1996-1696251572--9f75277c-b283-4846-ac8c-f932255cd0ac---Pacer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60a6bf7b711f1c5e0b3fdbc76ff5fd2c.png" length="133356" type="image/png"/>
-      <pubDate>Mon, 02 Oct 2023 08:59:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queens of the Stone Age - Paper Machete (19 plays)</title>
-      <link>https://www.last.fm/music/Queens+of+the+Stone+Age/_/Paper+Machete</link>
-      <guid isPermaLink="false">Arcade1996-1696251749--7dc8f5bd-9d0b-4087-9f73-dc164950bbd8---Paper Machete</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e292db8c05493b086d10426fb4d8ecd3.jpg" length="12213" type="image/jpeg"/>
-      <pubDate>Mon, 02 Oct 2023 09:02:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Oct 2023 07:52:11 +0000</lastBuildDate>
     <item>
       <title>A.R. Kane - A Love from Outer Space (7 plays)</title>
       <link>https://www.last.fm/music/A.R.+Kane/_/A+Love+from+Outer+Space</link>
@@ -352,11 +338,25 @@
       <pubDate>Tue, 03 Oct 2023 23:09:05 -0400</pubDate>
     </item>
     <item>
-      <title>Oneohtrix Point Never - Krumville (1 play)</title>
+      <title>Oneohtrix Point Never - Krumville (2 plays)</title>
       <link>https://www.last.fm/music/Oneohtrix+Point+Never/_/Krumville</link>
       <guid isPermaLink="false">Arcade1996-1696396411--9cea062d-d476-447f-98b4-e67e14bfd1e4---Krumville</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/597f318dea06071efea53411061f9e0e.jpg" length="16545" type="image/jpeg"/>
       <pubDate>Wed, 04 Oct 2023 01:13:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Oneohtrix Point Never - Krumville (2 plays)</title>
+      <link>https://www.last.fm/music/Oneohtrix+Point+Never/_/Krumville</link>
+      <guid isPermaLink="false">Arcade1996-1696399157--9cea062d-d476-447f-98b4-e67e14bfd1e4---Krumville</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/597f318dea06071efea53411061f9e0e.jpg" length="16545" type="image/jpeg"/>
+      <pubDate>Wed, 04 Oct 2023 01:59:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Oneohtrix Point Never - Locrian Midwest (1 play)</title>
+      <link>https://www.last.fm/music/Oneohtrix+Point+Never/_/Locrian+Midwest</link>
+      <guid isPermaLink="false">Arcade1996-1696405458--9cea062d-d476-447f-98b4-e67e14bfd1e4---Locrian Midwest</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/597f318dea06071efea53411061f9e0e.jpg" length="16545" type="image/jpeg"/>
+      <pubDate>Wed, 04 Oct 2023 03:44:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
