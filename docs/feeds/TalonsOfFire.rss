@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Oct 2023 19:37:23 +0000</lastBuildDate>
-    <item>
-      <title>Steven Wilson - Unself (Instrumental) (4 plays)</title>
-      <link>https://www.last.fm/music/Steven+Wilson/_/Unself+(Instrumental)</link>
-      <guid isPermaLink="false">TalonsOfFire-1696280752--3a51b862-0144-40f6-aa17-6aaeefea29d9---Unself (Instrumental)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc5514350d6c7229b5a957a5628d0f9d.jpg" length="9016" type="image/jpeg"/>
-      <pubDate>Mon, 02 Oct 2023 17:05:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steven Wilson - Self (Instrumental) (5 plays)</title>
-      <link>https://www.last.fm/music/Steven+Wilson/_/Self+(Instrumental)</link>
-      <guid isPermaLink="false">TalonsOfFire-1696280816--3a51b862-0144-40f6-aa17-6aaeefea29d9---Self (Instrumental)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc5514350d6c7229b5a957a5628d0f9d.jpg" length="9016" type="image/jpeg"/>
-      <pubDate>Mon, 02 Oct 2023 17:06:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steven Wilson - King Ghost (Instrumental) (5 plays)</title>
-      <link>https://www.last.fm/music/Steven+Wilson/_/King+Ghost+(Instrumental)</link>
-      <guid isPermaLink="false">TalonsOfFire-1696280992--3a51b862-0144-40f6-aa17-6aaeefea29d9---King Ghost (Instrumental)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc5514350d6c7229b5a957a5628d0f9d.jpg" length="9016" type="image/jpeg"/>
-      <pubDate>Mon, 02 Oct 2023 17:09:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Oct 2023 19:52:17 +0000</lastBuildDate>
     <item>
       <title>Steven Wilson - KING GHOST - Tangerine Dream Mix (7 plays)</title>
       <link>https://www.last.fm/music/Steven+Wilson/_/KING+GHOST+-+Tangerine+Dream+Mix</link>
@@ -341,6 +320,7 @@
       <title>Lights Out Asia - Only What You Take With You (3 plays)</title>
       <link>https://www.last.fm/music/Lights+Out+Asia/_/Only+What+You+Take+With+You</link>
       <guid isPermaLink="false">TalonsOfFire-1696533510--77c3dbaa-3181-4343-b325-431517fad5f3---Only What You Take With You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b1466a0191245e69841abe453536005.png" length="177197" type="image/png"/>
       <pubDate>Thu, 05 Oct 2023 15:18:30 -0400</pubDate>
     </item>
     <item>
@@ -351,11 +331,32 @@
       <pubDate>Thu, 05 Oct 2023 15:25:41 -0400</pubDate>
     </item>
     <item>
-      <title>Copeland - On Your Worst Day (4 plays)</title>
+      <title>Copeland - On Your Worst Day (5 plays)</title>
       <link>https://www.last.fm/music/Copeland/_/On+Your+Worst+Day</link>
       <guid isPermaLink="false">TalonsOfFire-1696534285--Copeland---On Your Worst Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c793efa2bf1c32a0604a6eff67a307ea.jpg" length="13123" type="image/jpeg"/>
       <pubDate>Thu, 05 Oct 2023 15:31:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Amethystium - Mesmerized (2 plays)</title>
+      <link>https://www.last.fm/music/Amethystium/_/Mesmerized</link>
+      <guid isPermaLink="false">TalonsOfFire-1696534636--ccc7485d-52b8-4d11-820e-5fabe43ccf20---Mesmerized</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0e184c580e54263c23a0e9616afa194.jpg" length="22580" type="image/jpeg"/>
+      <pubDate>Thu, 05 Oct 2023 15:37:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gorillaz - Aspen Forest (5 plays)</title>
+      <link>https://www.last.fm/music/Gorillaz/_/Aspen+Forest</link>
+      <guid isPermaLink="false">TalonsOfFire-1696534952--e21857d5-3256-4547-afb3-4b6ded592596---Aspen Forest</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d8612b9a5dc438dae6eef7b9de68eba.jpg" length="17421" type="image/jpeg"/>
+      <pubDate>Thu, 05 Oct 2023 15:42:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Snow Patrol - Headlights on Dark Roads (3 plays)</title>
+      <link>https://www.last.fm/music/Snow+Patrol/_/Headlights+on+Dark+Roads</link>
+      <guid isPermaLink="false">TalonsOfFire-1696535123--a66999a7-ae5c-460e-ba94-1a01143ae847---Headlights on Dark Roads</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f82b5bf3c51a659ed1f0e9f28a77af55.png" length="199542" type="image/png"/>
+      <pubDate>Thu, 05 Oct 2023 15:45:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
