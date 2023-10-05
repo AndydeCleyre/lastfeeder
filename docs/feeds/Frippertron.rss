@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Oct 2023 02:31:25 +0000</lastBuildDate>
-    <item>
-      <title>Glassjaw - You Think You're (John Fucking Lennon) (63 plays)</title>
-      <link>https://www.last.fm/music/Glassjaw/_/You+Think+You%27re+(John+Fucking+Lennon)</link>
-      <guid isPermaLink="false">Frippertron-1696410225--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---You Think You're (John Fucking Lennon)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
-      <pubDate>Wed, 04 Oct 2023 05:03:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - Intruder (44 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/Intruder</link>
-      <guid isPermaLink="false">Frippertron-1696410567--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Intruder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c2515f47b46d147c028f1f1decf4cb2.png" length="145670" type="image/png"/>
-      <pubDate>Wed, 04 Oct 2023 05:09:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Oct 2023 02:52:21 +0000</lastBuildDate>
     <item>
       <title>Peter Gabriel - No Self Control (59 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/No+Self+Control</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1696472787--331ce348-1b08-40b9-8ed7-0763b92bd003---Virginia Plain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
       <pubDate>Wed, 04 Oct 2023 22:26:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - Sound Chaser (61 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Sound+Chaser</link>
+      <guid isPermaLink="false">Frippertron-1696472968--8353f93f-163e-48c2-bb75-9f18987a3d46---Sound Chaser</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
+      <pubDate>Wed, 04 Oct 2023 22:29:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yes - The Gates of Delirium (57 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/The+Gates+of+Delirium</link>
+      <guid isPermaLink="false">Frippertron-1696473532--8353f93f-163e-48c2-bb75-9f18987a3d46---The Gates of Delirium</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
+      <pubDate>Wed, 04 Oct 2023 22:38:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
