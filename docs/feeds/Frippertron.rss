@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 07:37:59 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Wicked Things (26 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Wicked+Things</link>
-      <guid isPermaLink="false">Frippertron-1696561600--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Wicked Things</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d8b06904529497fc944fa5350833521.png" length="131878" type="image/png"/>
-      <pubDate>Thu, 05 Oct 2023 23:06:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Tiffanys (19 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Tiffanys</link>
-      <guid isPermaLink="false">Frippertron-1696561781--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Tiffanys</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d8b06904529497fc944fa5350833521.png" length="131878" type="image/png"/>
-      <pubDate>Thu, 05 Oct 2023 23:09:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Oct 2023 07:52:40 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Diana (26 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Diana</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1696577529--Vanishing Twin---The Down Below/Lazy Garden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7208f3d8235d72b7a025558704934493.jpg" length="21267" type="image/jpeg"/>
       <pubDate>Fri, 06 Oct 2023 03:32:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Vanishing Twin - Subito (1 play)</title>
+      <link>https://www.last.fm/music/Vanishing+Twin/_/Subito</link>
+      <guid isPermaLink="false">Frippertron-1696578332--487a96f2-eefd-485e-892b-2cf240835bf4---Subito</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7208f3d8235d72b7a025558704934493.jpg" length="21267" type="image/jpeg"/>
+      <pubDate>Fri, 06 Oct 2023 03:45:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jack Ruby - Hit and Run (4 plays)</title>
+      <link>https://www.last.fm/music/Jack+Ruby/_/Hit+and+Run</link>
+      <guid isPermaLink="false">Frippertron-1696578667--e07ffa6c-d732-4f0c-b72e-07dc8f1621fc---Hit and Run</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07ccaf4e13ff491bc9b4bd1a1e7ca258.png" length="133452" type="image/png"/>
+      <pubDate>Fri, 06 Oct 2023 03:51:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
