@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 10:52:27 +0000</lastBuildDate>
-    <item>
-      <title>Joe Satriani - What Happens Next (5 plays)</title>
-      <link>https://www.last.fm/music/Joe+Satriani/_/What+Happens+Next</link>
-      <guid isPermaLink="false">manosg--1696405432--29762c82-bb92-4acd-b1fb-09cc4da250d2---What Happens Next</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/517ee8f04899b670cc325e5a38545f60.jpg" length="22661" type="image/jpeg"/>
-      <pubDate>Wed, 04 Oct 2023 03:43:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Oct 2023 11:37:26 +0000</lastBuildDate>
     <item>
       <title>Joe Satriani - Super Funky Badass (5 plays)</title>
       <link>https://www.last.fm/music/Joe+Satriani/_/Super+Funky+Badass</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1696589378--A3-5---The Core of Center</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 06 Oct 2023 06:49:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tygers of Pan Tang - Gangland (6 plays)</title>
+      <link>https://www.last.fm/music/Tygers+of+Pan+Tang/_/Gangland</link>
+      <guid isPermaLink="false">manosg--1696589449--fe179f28-3cab-4337-9575-c13f8d077b13---Gangland</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/59f7341f19f6cb3ce4fc9d40e5951cb9.png" length="159412" type="image/png"/>
+      <pubDate>Fri, 06 Oct 2023 06:50:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
