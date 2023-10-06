@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 10:52:50 +0000</lastBuildDate>
-    <item>
-      <title>Gorillaz - DARE (12 plays)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/DARE</link>
-      <guid isPermaLink="false">Arcade1996-1696414255--e21857d5-3256-4547-afb3-4b6ded592596---DARE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/271483e955d2b255160f3361a7f5fb78.jpg" length="19173" type="image/jpeg"/>
-      <pubDate>Wed, 04 Oct 2023 06:10:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz - Song Machine Theme Tune (1 play)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/Song+Machine+Theme+Tune</link>
-      <guid isPermaLink="false">Arcade1996-1696414500--e21857d5-3256-4547-afb3-4b6ded592596---Song Machine Theme Tune</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b92b0debda9b2461a4620ea94b57c69f.jpg" length="27477" type="image/jpeg"/>
-      <pubDate>Wed, 04 Oct 2023 06:15:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Oct 2023 11:13:26 +0000</lastBuildDate>
     <item>
       <title>Gorillaz - Rhinestone Eyes (3 plays)</title>
       <link>https://www.last.fm/music/Gorillaz/_/Rhinestone+Eyes</link>
@@ -79,14 +65,14 @@
       <pubDate>Thu, 05 Oct 2023 05:17:21 -0400</pubDate>
     </item>
     <item>
-      <title>Linkin Park - In the End (1 play)</title>
+      <title>Linkin Park - In the End (2 plays)</title>
       <link>https://www.last.fm/music/Linkin+Park/_/In+the+End</link>
       <guid isPermaLink="false">Arcade1996-1696497723--f59c5520-5f46-4d2c-b2c4-822eabf53419---In the End</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc15ebc58ec625979776cabaaaa282fa.jpg" length="30834" type="image/jpeg"/>
       <pubDate>Thu, 05 Oct 2023 05:22:03 -0400</pubDate>
     </item>
     <item>
-      <title>Linkin Park - One Step Closer (5 plays)</title>
+      <title>Linkin Park - One Step Closer (6 plays)</title>
       <link>https://www.last.fm/music/Linkin+Park/_/One+Step+Closer</link>
       <guid isPermaLink="false">Arcade1996-1696497943--f59c5520-5f46-4d2c-b2c4-822eabf53419---One Step Closer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01aa4556b6916185ecd890dad8a42f47.jpg" length="28968" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1696584761--a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0---Haelegen II (Reprise)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a9d0fc2e333d86bc739b92626b0fe4f.jpg" length="18281" type="image/jpeg"/>
       <pubDate>Fri, 06 Oct 2023 05:32:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Linkin Park - In the End (2 plays)</title>
+      <link>https://www.last.fm/music/Linkin+Park/_/In+the+End</link>
+      <guid isPermaLink="false">Arcade1996-1696589566--f59c5520-5f46-4d2c-b2c4-822eabf53419---In the End</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01aa4556b6916185ecd890dad8a42f47.jpg" length="28968" type="image/jpeg"/>
+      <pubDate>Fri, 06 Oct 2023 06:52:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Linkin Park - One Step Closer (6 plays)</title>
+      <link>https://www.last.fm/music/Linkin+Park/_/One+Step+Closer</link>
+      <guid isPermaLink="false">Arcade1996-1696589781--f59c5520-5f46-4d2c-b2c4-822eabf53419---One Step Closer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01aa4556b6916185ecd890dad8a42f47.jpg" length="28968" type="image/jpeg"/>
+      <pubDate>Fri, 06 Oct 2023 06:56:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
