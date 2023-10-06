@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 20:52:22 +0000</lastBuildDate>
-    <item>
-      <title>Beartooth - Doubt Me (1 play)</title>
-      <link>https://www.last.fm/music/Beartooth/_/Doubt+Me</link>
-      <guid isPermaLink="false">gameofmetal-1696467145--98a1e0ab-35fa-40dd-b62c-9fda46fdb061---Doubt Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c905cd64c86117a7bfed9904aeff1c0.jpg" length="24321" type="image/jpeg"/>
-      <pubDate>Wed, 04 Oct 2023 20:52:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Beartooth - Riptide (14 plays)</title>
-      <link>https://www.last.fm/music/Beartooth/_/Riptide</link>
-      <guid isPermaLink="false">gameofmetal-1696467145--98a1e0ab-35fa-40dd-b62c-9fda46fdb061---Riptide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff36d297f322a5f71ff58941e93f8388.png" length="52466" type="image/png"/>
-      <pubDate>Wed, 04 Oct 2023 20:52:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Oct 2023 21:38:01 +0000</lastBuildDate>
     <item>
       <title>Beartooth - Sunshine! (6 plays)</title>
       <link>https://www.last.fm/music/Beartooth/_/Sunshine!</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1696622548--61fed87b-a24a-4423-b34a-1ed0a26b8b38---Eternal Procession</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2612a0fcc173d1b5d2da95f53eb905a.jpg" length="26841" type="image/jpeg"/>
       <pubDate>Fri, 06 Oct 2023 16:02:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mortiferum - Incubus of Bloodstained Visions (5 plays)</title>
+      <link>https://www.last.fm/music/Mortiferum/_/Incubus+of+Bloodstained+Visions</link>
+      <guid isPermaLink="false">gameofmetal-1696623626--61fed87b-a24a-4423-b34a-1ed0a26b8b38---Incubus of Bloodstained Visions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2612a0fcc173d1b5d2da95f53eb905a.jpg" length="26841" type="image/jpeg"/>
+      <pubDate>Fri, 06 Oct 2023 16:20:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mortiferum - Seraphic Extinction (5 plays)</title>
+      <link>https://www.last.fm/music/Mortiferum/_/Seraphic+Extinction</link>
+      <guid isPermaLink="false">gameofmetal-1696624596--61fed87b-a24a-4423-b34a-1ed0a26b8b38---Seraphic Extinction</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2612a0fcc173d1b5d2da95f53eb905a.jpg" length="26841" type="image/jpeg"/>
+      <pubDate>Fri, 06 Oct 2023 16:36:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
