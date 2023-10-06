@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 08:38:36 +0000</lastBuildDate>
-    <item>
-      <title>Red Hot Chili Peppers - They're Red Hot (1 play)</title>
-      <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/They%27re+Red+Hot</link>
-      <guid isPermaLink="false">manosg--1696402017--8bfac288-ccc5-448d-9573-c33ea2aa5c30---They're Red Hot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/426f10a255a07002b3702e4bc275ec44.jpg" length="31769" type="image/jpeg"/>
-      <pubDate>Wed, 04 Oct 2023 02:46:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Red Hot Chili Peppers - Little Miss Lover - 2006 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Little+Miss+Lover+-+2006+Remaster</link>
-      <guid isPermaLink="false">manosg--1696402089--Red Hot Chili Peppers---Little Miss Lover - 2006 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/426f10a255a07002b3702e4bc275ec44.jpg" length="31769" type="image/jpeg"/>
-      <pubDate>Wed, 04 Oct 2023 02:48:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Oct 2023 08:52:14 +0000</lastBuildDate>
     <item>
       <title>Red Hot Chili Peppers - Castles Made of Sand - 2006 Remaster (1 play)</title>
       <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Castles+Made+of+Sand+-+2006+Remaster</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1696580789--Saxon---Midnight Rider - 2009 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b35db483aa73b649a31824be9c54a7f.png" length="152445" type="image/png"/>
       <pubDate>Fri, 06 Oct 2023 04:26:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Saxon - Fire in the Sky - 2009 Remaster (2 plays)</title>
+      <link>https://www.last.fm/music/Saxon/_/Fire+in+the+Sky+-+2009+Remaster</link>
+      <guid isPermaLink="false">manosg--1696581231--Saxon---Fire in the Sky - 2009 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b35db483aa73b649a31824be9c54a7f.png" length="152445" type="image/png"/>
+      <pubDate>Fri, 06 Oct 2023 04:33:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Saxon - Denim and Leather - 2009 Remaster (2 plays)</title>
+      <link>https://www.last.fm/music/Saxon/_/Denim+and+Leather+-+2009+Remaster</link>
+      <guid isPermaLink="false">manosg--1696581626--Saxon---Denim and Leather - 2009 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b35db483aa73b649a31824be9c54a7f.png" length="152445" type="image/png"/>
+      <pubDate>Fri, 06 Oct 2023 04:40:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
