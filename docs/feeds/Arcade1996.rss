@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Oct 2023 01:57:59 +0000</lastBuildDate>
-    <item>
-      <title>Linkin Park - Somewhere I Belong (3 plays)</title>
-      <link>https://www.last.fm/music/Linkin+Park/_/Somewhere+I+Belong</link>
-      <guid isPermaLink="false">Arcade1996-1696498537--f59c5520-5f46-4d2c-b2c4-822eabf53419---Somewhere I Belong</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3ab7d7e3155d3779e4997f5f23d0ef.jpg" length="14525" type="image/jpeg"/>
-      <pubDate>Thu, 05 Oct 2023 05:35:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>System of a Down - I-E-A-I-A-I-O (3 plays)</title>
-      <link>https://www.last.fm/music/System+of+a+Down/_/I-E-A-I-A-I-O</link>
-      <guid isPermaLink="false">Arcade1996-1696499387--cc0b7089-c08d-4c10-b6b0-873582c17fd6---I-E-A-I-A-I-O</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3eb7269e5526d168b2691c6cb27760b6.jpg" length="14020" type="image/jpeg"/>
-      <pubDate>Thu, 05 Oct 2023 05:49:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Oct 2023 02:22:54 +0000</lastBuildDate>
     <item>
       <title>Red Hot Chili Peppers - Californication (4 plays)</title>
       <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Californication</link>
@@ -357,6 +343,19 @@
       <guid isPermaLink="false">Arcade1996-1696643515--0743b15a-3c32-48c8-ad58-cb325350befa---I Miss You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66f1cec75fe04b7c869712c55fd24528.png" length="124512" type="image/png"/>
       <pubDate>Fri, 06 Oct 2023 21:51:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>blink-182 - All of This (1 play)</title>
+      <link>https://www.last.fm/music/blink-182/_/All+of+This</link>
+      <guid isPermaLink="false">Arcade1996-1696643743--0743b15a-3c32-48c8-ad58-cb325350befa---All of This</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66f1cec75fe04b7c869712c55fd24528.png" length="124512" type="image/png"/>
+      <pubDate>Fri, 06 Oct 2023 21:55:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Len - Steal My Sunshine - Single Version</title>
+      <link>https://www.last.fm/music/Len/_/Steal+My+Sunshine+-+Single+Version</link>
+      <guid isPermaLink="false">Arcade1996-1696644023--Len---Steal My Sunshine - Single Version</guid>
+      <pubDate>Fri, 06 Oct 2023 22:00:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
