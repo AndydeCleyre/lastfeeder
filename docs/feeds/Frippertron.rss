@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 12:32:22 +0000</lastBuildDate>
-    <item>
-      <title>Japan - Talking Drum (80 plays)</title>
-      <link>https://www.last.fm/music/Japan/_/Talking+Drum</link>
-      <guid isPermaLink="false">Frippertron-1696571978--Japan---Talking Drum</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
-      <pubDate>Fri, 06 Oct 2023 01:59:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Japan - Ghosts (84 plays)</title>
-      <link>https://www.last.fm/music/Japan/_/Ghosts</link>
-      <guid isPermaLink="false">Frippertron-1696572195--Japan---Ghosts</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
-      <pubDate>Fri, 06 Oct 2023 02:03:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>my bloody valentine - only tomorrow (35 plays)</title>
-      <link>https://www.last.fm/music/my+bloody+valentine/_/only+tomorrow</link>
-      <guid isPermaLink="false">Frippertron-1696575765--8ca01f46-53ac-4af2-8516-55a909c0905e---only tomorrow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35fce4402522447d9244db13cbbb292f.png" length="147881" type="image/png"/>
-      <pubDate>Fri, 06 Oct 2023 03:02:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Oct 2023 14:37:35 +0000</lastBuildDate>
     <item>
       <title>Queen - Hammer to Fall (34 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Hammer+to+Fall</link>
@@ -72,7 +51,7 @@
       <pubDate>Fri, 06 Oct 2023 03:25:48 -0400</pubDate>
     </item>
     <item>
-      <title>Vanishing Twin - The Down Below/Lazy Garden</title>
+      <title>Vanishing Twin - The Down Below/Lazy Garden (1 play)</title>
       <link>https://www.last.fm/music/Vanishing+Twin/_/The+Down+Below%2FLazy+Garden</link>
       <guid isPermaLink="false">Frippertron-1696577529--Vanishing Twin---The Down Below/Lazy Garden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7208f3d8235d72b7a025558704934493.jpg" length="21267" type="image/jpeg"/>
@@ -355,8 +334,28 @@
       <title>Prefab Sprout - Ghost Town Blues (14 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Ghost+Town+Blues</link>
       <guid isPermaLink="false">Frippertron-1696588105--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Ghost Town Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/195e793d22dc7ff3dbc739ee65063229.png" length="159791" type="image/png"/>
       <pubDate>Fri, 06 Oct 2023 06:28:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sam Tinnesz - Legends Are Made (1 play)</title>
+      <link>https://www.last.fm/music/Sam+Tinnesz/_/Legends+Are+Made</link>
+      <guid isPermaLink="false">Frippertron-1696588564--171dc941-4ce6-430f-9932-5c64c6192b2a---Legends Are Made</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2652f0ad5b935f1836a3abbd81fc83fe.jpg" length="7885" type="image/jpeg"/>
+      <pubDate>Fri, 06 Oct 2023 06:36:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Belchior - Medo de Avião (1 play)</title>
+      <link>https://www.last.fm/music/Belchior/_/Medo+de+Avi%C3%A3o</link>
+      <guid isPermaLink="false">Frippertron-1696775525--d51c2d7f-921e-4f24-9fe7-92efc5189708---Medo de Avião</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e0457c16a0ea46ce902606ddbddd8153.jpg" length="20806" type="image/jpeg"/>
+      <pubDate>Sun, 08 Oct 2023 10:32:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Belchior - Retórica Sentimental (1 play)</title>
+      <link>https://www.last.fm/music/Belchior/_/Ret%C3%B3rica+Sentimental</link>
+      <guid isPermaLink="false">Frippertron-1696775679--d51c2d7f-921e-4f24-9fe7-92efc5189708---Retórica Sentimental</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e0457c16a0ea46ce902606ddbddd8153.jpg" length="20806" type="image/jpeg"/>
+      <pubDate>Sun, 08 Oct 2023 10:34:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
