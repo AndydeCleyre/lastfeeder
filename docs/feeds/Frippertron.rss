@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Oct 2023 06:22:25 +0000</lastBuildDate>
-    <item>
-      <title>Peter Gabriel - Start (77 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/Start</link>
-      <guid isPermaLink="false">Frippertron-1696586976--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Start</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c2515f47b46d147c028f1f1decf4cb2.png" length="145670" type="image/png"/>
-      <pubDate>Fri, 06 Oct 2023 06:09:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Oct 2023 06:52:24 +0000</lastBuildDate>
     <item>
       <title>Peter Gabriel - I Don't Remember (85 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/I+Don%27t+Remember</link>
@@ -117,12 +110,14 @@
       <title>Van der Graaf Generator - The Sphinx in the Face (104 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sphinx+in+the+Face</link>
       <guid isPermaLink="false">Frippertron-1696819756--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sphinx in the Face</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cac0dd93f2d956f1fb20b7dcaaafcfaa.jpg" length="17592" type="image/jpeg"/>
       <pubDate>Sun, 08 Oct 2023 22:49:16 -0400</pubDate>
     </item>
     <item>
       <title>Van der Graaf Generator - Cat's Eye/Yellow Fever (Running) (30 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Cat%27s+Eye%2FYellow+Fever+(Running)</link>
       <guid isPermaLink="false">Frippertron-1696820047--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Cat's Eye/Yellow Fever (Running)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cac0dd93f2d956f1fb20b7dcaaafcfaa.jpg" length="17592" type="image/jpeg"/>
       <pubDate>Sun, 08 Oct 2023 22:54:07 -0400</pubDate>
     </item>
     <item>
@@ -248,6 +243,7 @@
       <title>Caroline - dark blue (17 plays)</title>
       <link>https://www.last.fm/music/Caroline/_/dark+blue</link>
       <guid isPermaLink="false">Frippertron-1696826297--Caroline---dark blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/101d26194a33557f8c529fe6d26457e9.jpg" length="20526" type="image/jpeg"/>
       <pubDate>Mon, 09 Oct 2023 00:38:17 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1696830832--afdb7919-059d-43c1-b668-ba1d265e7e42---When Did You Stop Loving Me, When Did I Stop Loving You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79fe0a37779a859877116478108f78ea.jpg" length="34451" type="image/jpeg"/>
       <pubDate>Mon, 09 Oct 2023 01:53:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Marvin Gaye - Sparrow (25 plays)</title>
+      <link>https://www.last.fm/music/Marvin+Gaye/_/Sparrow</link>
+      <guid isPermaLink="false">Frippertron-1696831217--afdb7919-059d-43c1-b668-ba1d265e7e42---Sparrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79fe0a37779a859877116478108f78ea.jpg" length="34451" type="image/jpeg"/>
+      <pubDate>Mon, 09 Oct 2023 02:00:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
