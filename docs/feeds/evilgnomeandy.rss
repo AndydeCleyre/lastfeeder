@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Oct 2023 16:52:45 +0000</lastBuildDate>
-    <item>
-      <title>Jimi Hendrix - Crosstown Traffic (32 plays)</title>
-      <link>https://www.last.fm/music/Jimi+Hendrix/_/Crosstown+Traffic</link>
-      <guid isPermaLink="false">evilgnomeandy-1696142103--06fb1c8b-566e-4cb2-985b-b467c90781d4---Crosstown Traffic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/794817736c4944a29d72d9e414c5023d.png" length="185413" type="image/png"/>
-      <pubDate>Sun, 01 Oct 2023 02:35:03 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Oct 2023 19:37:47 +0000</lastBuildDate>
     <item>
       <title>Johnny Cash - In My Life (31 plays)</title>
       <link>https://www.last.fm/music/Johnny+Cash/_/In+My+Life</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1696869764--18b76828-4b12-44c1-b8d9-ae82b22557a0---Don't Ever Say Goodbye</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57da285fc5ab43b9b1dc80e3bfb5eb34.jpg" length="7965" type="image/jpeg"/>
       <pubDate>Mon, 09 Oct 2023 12:42:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Dead Milkmen - The Woman Who Was Also A Mongoose (24 plays)</title>
+      <link>https://www.last.fm/music/The+Dead+Milkmen/_/The+Woman+Who+Was+Also+A+Mongoose</link>
+      <guid isPermaLink="false">evilgnomeandy-1696869961--cdd2e0f0-703d-454d-b5c7-cc3bb6dd5552---The Woman Who Was Also A Mongoose</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18282fe9a06f491c80f90c87dca41ea3.jpg" length="27640" type="image/jpeg"/>
+      <pubDate>Mon, 09 Oct 2023 12:46:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
