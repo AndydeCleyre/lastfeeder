@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Oct 2023 14:37:35 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Hammer to Fall (34 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Hammer+to+Fall</link>
-      <guid isPermaLink="false">Frippertron-1696576057--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Hammer to Fall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
-      <pubDate>Fri, 06 Oct 2023 03:07:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Vanishing Twin - Melty (1 play)</title>
-      <link>https://www.last.fm/music/Vanishing+Twin/_/Melty</link>
-      <guid isPermaLink="false">Frippertron-1696576323--487a96f2-eefd-485e-892b-2cf240835bf4---Melty</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7208f3d8235d72b7a025558704934493.jpg" length="21267" type="image/jpeg"/>
-      <pubDate>Fri, 06 Oct 2023 03:12:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Vanishing Twin - Afternoon X (1 play)</title>
-      <link>https://www.last.fm/music/Vanishing+Twin/_/Afternoon+X</link>
-      <guid isPermaLink="false">Frippertron-1696576454--487a96f2-eefd-485e-892b-2cf240835bf4---Afternoon X</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7208f3d8235d72b7a025558704934493.jpg" length="21267" type="image/jpeg"/>
-      <pubDate>Fri, 06 Oct 2023 03:14:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Oct 2023 01:59:27 +0000</lastBuildDate>
     <item>
       <title>Vanishing Twin - Brain Weather (1 play)</title>
       <link>https://www.last.fm/music/Vanishing+Twin/_/Brain+Weather</link>
@@ -334,6 +313,7 @@
       <title>Prefab Sprout - Ghost Town Blues (14 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Ghost+Town+Blues</link>
       <guid isPermaLink="false">Frippertron-1696588105--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Ghost Town Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/195e793d22dc7ff3dbc739ee65063229.png" length="159791" type="image/png"/>
       <pubDate>Fri, 06 Oct 2023 06:28:25 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1696775679--d51c2d7f-921e-4f24-9fe7-92efc5189708---Retórica Sentimental</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e0457c16a0ea46ce902606ddbddd8153.jpg" length="20806" type="image/jpeg"/>
       <pubDate>Sun, 08 Oct 2023 10:34:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Blue Lambency Downward (38 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Blue+Lambency+Downward</link>
+      <guid isPermaLink="false">Frippertron-1696814558--3979eee5-c72a-4b0a-9191-a0243881250a---Blue Lambency Downward</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
+      <pubDate>Sun, 08 Oct 2023 21:22:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Right Hand Is the One I Want (71 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Right+Hand+Is+the+One+I+Want</link>
+      <guid isPermaLink="false">Frippertron-1696815162--3979eee5-c72a-4b0a-9191-a0243881250a---Right Hand Is the One I Want</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
+      <pubDate>Sun, 08 Oct 2023 21:32:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Symmetrical Arizona (78 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Symmetrical+Arizona</link>
+      <guid isPermaLink="false">Frippertron-1696815577--3979eee5-c72a-4b0a-9191-a0243881250a---Symmetrical Arizona</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
+      <pubDate>Sun, 08 Oct 2023 21:39:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
