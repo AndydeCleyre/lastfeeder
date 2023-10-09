@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Oct 2023 18:37:47 +0000</lastBuildDate>
-    <item>
-      <title>Raffi - Down By the Bay (26 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/Down+By+the+Bay</link>
-      <guid isPermaLink="false">ddgromit-1696722240--d5d5ba92-4bd4-4975-9806-99339eed3046---Down By the Bay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16dd757cc547c20a9ce96a09373317cd.jpg" length="33935" type="image/jpeg"/>
-      <pubDate>Sat, 07 Oct 2023 19:44:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Oct 2023 18:52:18 +0000</lastBuildDate>
     <item>
       <title>Raffi - Apples and Bananas (15 plays)</title>
       <link>https://www.last.fm/music/Raffi/_/Apples+and+Bananas</link>
@@ -208,7 +201,6 @@
       <title>Caspar Babypants - just for you (1 play)</title>
       <link>https://www.last.fm/music/Caspar+Babypants/_/just+for+you</link>
       <guid isPermaLink="false">ddgromit-1696725195--Caspar Babypants---just for you</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35001ea27e6fb22fe146168c4bb78aff.jpg" length="26089" type="image/jpeg"/>
       <pubDate>Sat, 07 Oct 2023 20:33:15 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">ddgromit-1696876273--f2bc17aa-ca6a-4da0-ae5c-9a957b7c4e90---Nectar Drop</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c88ed9998ab064b2ff2132a6d06186ac.jpg" length="32785" type="image/jpeg"/>
       <pubDate>Mon, 09 Oct 2023 14:31:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Savvas - Pulsar - Urmet K Remix (1 play)</title>
+      <link>https://www.last.fm/music/Savvas/_/Pulsar+-+Urmet+K+Remix</link>
+      <guid isPermaLink="false">ddgromit-1696876515--Savvas---Pulsar - Urmet K Remix</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d401fc09cb2af53ad8d1cadd58b1bdc2.png" length="102226" type="image/png"/>
+      <pubDate>Mon, 09 Oct 2023 14:35:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
