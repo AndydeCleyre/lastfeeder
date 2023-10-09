@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Oct 2023 09:17:35 +0000</lastBuildDate>
-    <item>
-      <title>Léo Ferré - La Solitude (60 plays)</title>
-      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/La+Solitude</link>
-      <guid isPermaLink="false">Frippertron-1696821905--15b1cbac-060a-4136-9e07-4622c52c0f60---La Solitude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
-      <pubDate>Sun, 08 Oct 2023 23:25:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Innuendo (49 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Innuendo</link>
-      <guid isPermaLink="false">Frippertron-1696822230--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Innuendo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b56adcd16ca6454498981a8470a3ec06.png" length="120363" type="image/png"/>
-      <pubDate>Sun, 08 Oct 2023 23:30:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Oct 2023 09:37:25 +0000</lastBuildDate>
     <item>
       <title>Michael Jackson - Don't Stop 'Til You Get Enough (18 plays)</title>
       <link>https://www.last.fm/music/Michael+Jackson/_/Don%27t+Stop+%27Til+You+Get+Enough</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1696842544--20883363-1ea4-4d72-ad72-c0e767038f3e---The Widow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Mon, 09 Oct 2023 05:09:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - L'Via L'Viaquezł (5 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/L%27Via+L%27Viaquez%C5%82</link>
+      <guid isPermaLink="false">Frippertron-1696842898--The Mars Volta---L'Via L'Viaquezł</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Mon, 09 Oct 2023 05:14:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Miranda That Ghost Just Isn't Holy Anymore (5 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Miranda+That+Ghost+Just+Isn%27t+Holy+Anymore</link>
+      <guid isPermaLink="false">Frippertron-1696843638--20883363-1ea4-4d72-ad72-c0e767038f3e---Miranda That Ghost Just Isn't Holy Anymore</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Mon, 09 Oct 2023 05:27:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
