@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Oct 2023 17:52:51 +0000</lastBuildDate>
-    <item>
-      <title>Moonlight Sorcery - Suden tie (Wolven Hour part II) (1 play)</title>
-      <link>https://www.last.fm/music/Moonlight+Sorcery/_/Suden+tie+(Wolven+Hour+part+II)</link>
-      <guid isPermaLink="false">gameofmetal-1696690879--3f0455db-1605-42fb-971f-9ba539152f22---Suden tie (Wolven Hour part II)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b2f9578889b7c7081089b01caf1431a.jpg" length="31128" type="image/jpeg"/>
-      <pubDate>Sat, 07 Oct 2023 11:01:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Moonlight Sorcery - To Withhold the Day (1 play)</title>
-      <link>https://www.last.fm/music/Moonlight+Sorcery/_/To+Withhold+the+Day</link>
-      <guid isPermaLink="false">gameofmetal-1696691388--3f0455db-1605-42fb-971f-9ba539152f22---To Withhold the Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b2f9578889b7c7081089b01caf1431a.jpg" length="31128" type="image/jpeg"/>
-      <pubDate>Sat, 07 Oct 2023 11:09:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Oct 2023 20:38:51 +0000</lastBuildDate>
     <item>
       <title>Moonlight Sorcery - In Coldest Embrace (1 play)</title>
       <link>https://www.last.fm/music/Moonlight+Sorcery/_/In+Coldest+Embrace</link>
@@ -229,12 +215,14 @@
       <title>The Wakedead Gathering - Recessive Society (1 play)</title>
       <link>https://www.last.fm/music/The+Wakedead+Gathering/_/Recessive+Society</link>
       <guid isPermaLink="false">gameofmetal-1696876243--3ae27090-d919-4223-8c24-5ca2aae42ea3---Recessive Society</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2eb0c602fcec71448ff0e65764a8b5c6.jpg" length="24159" type="image/jpeg"/>
       <pubDate>Mon, 09 Oct 2023 14:30:43 -0400</pubDate>
     </item>
     <item>
       <title>The Wakedead Gathering - The High Court of Biological Disposition (1 play)</title>
       <link>https://www.last.fm/music/The+Wakedead+Gathering/_/The+High+Court+of+Biological+Disposition</link>
       <guid isPermaLink="false">gameofmetal-1696876602--3ae27090-d919-4223-8c24-5ca2aae42ea3---The High Court of Biological Disposition</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2eb0c602fcec71448ff0e65764a8b5c6.jpg" length="24159" type="image/jpeg"/>
       <pubDate>Mon, 09 Oct 2023 14:36:42 -0400</pubDate>
     </item>
     <item>
@@ -322,7 +310,7 @@
       <pubDate>Tue, 10 Oct 2023 08:56:42 -0400</pubDate>
     </item>
     <item>
-      <title>Intestine Baalism - Corporal Celebration (1 play)</title>
+      <title>Intestine Baalism - Corporal Celebration (2 plays)</title>
       <link>https://www.last.fm/music/Intestine+Baalism/_/Corporal+Celebration</link>
       <guid isPermaLink="false">gameofmetal-1696943013--5ab9844a-66db-4b15-ba17-4111a6d20191---Corporal Celebration</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61d673eb41abf0c2914a10d641e9fb86.jpg" length="25183" type="image/jpeg"/>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1696959391--Cruciamentum---Necrophagous Communion</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a46c68ea9256799499b06d1f172f9abc.jpg" length="27397" type="image/jpeg"/>
       <pubDate>Tue, 10 Oct 2023 13:36:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cruciamentum - Tongues of Nightshade (8 plays)</title>
+      <link>https://www.last.fm/music/Cruciamentum/_/Tongues+of+Nightshade</link>
+      <guid isPermaLink="false">gameofmetal-1696959691--Cruciamentum---Tongues of Nightshade</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a46c68ea9256799499b06d1f172f9abc.jpg" length="27397" type="image/jpeg"/>
+      <pubDate>Tue, 10 Oct 2023 13:41:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Intestine Baalism - Corporal Celebration (2 plays)</title>
+      <link>https://www.last.fm/music/Intestine+Baalism/_/Corporal+Celebration</link>
+      <guid isPermaLink="false">gameofmetal-1696969844--5ab9844a-66db-4b15-ba17-4111a6d20191---Corporal Celebration</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61d673eb41abf0c2914a10d641e9fb86.jpg" length="25183" type="image/jpeg"/>
+      <pubDate>Tue, 10 Oct 2023 16:30:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
