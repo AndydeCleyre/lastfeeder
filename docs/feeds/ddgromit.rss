@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Oct 2023 21:52:32 +0000</lastBuildDate>
-    <item>
-      <title>Ryan Taubert - Endeavor (1 play)</title>
-      <link>https://www.last.fm/music/Ryan+Taubert/_/Endeavor</link>
-      <guid isPermaLink="false">ddgromit-1696962111--a4825af8-cc44-4491-804a-f59ce0307ce4---Endeavor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b7e34d5a5143d61e2b524ddfac7e237.png" length="130091" type="image/png"/>
-      <pubDate>Tue, 10 Oct 2023 14:21:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Duke Boara - Rain (2 plays)</title>
-      <link>https://www.last.fm/music/Duke+Boara/_/Rain</link>
-      <guid isPermaLink="false">ddgromit-1696962291--3728bcee-f551-42bb-a542-7a7c3c0ffbbe---Rain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/483a30fb322d3892d4428b73b88faaca.jpg" length="31591" type="image/jpeg"/>
-      <pubDate>Tue, 10 Oct 2023 14:24:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Oct 2023 22:15:20 +0000</lastBuildDate>
     <item>
       <title>Philip Glass - String Quartet No. 3, "Mishima": VI. Mishima / Closing (14 plays)</title>
       <link>https://www.last.fm/music/Philip+Glass/_/String+Quartet+No.+3,+%22Mishima%22:+VI.+Mishima+%2F+Closing</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1696974181--339032cc-cbc8-433e-90fc-e7fd3ecdeabe---Yellow Calcite</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41977a911f189ade70228b4fe7a7f08a.jpg" length="33285" type="image/jpeg"/>
       <pubDate>Tue, 10 Oct 2023 17:43:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hélène Vogelsinger - Ceremony (3 plays)</title>
+      <link>https://www.last.fm/music/H%C3%A9l%C3%A8ne+Vogelsinger/_/Ceremony</link>
+      <guid isPermaLink="false">ddgromit-1696974332--Hélène Vogelsinger---Ceremony</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/737ecc9ebdc64106c0652e9c0ebc7d48.jpg" length="42489" type="image/jpeg"/>
+      <pubDate>Tue, 10 Oct 2023 17:45:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Murcof - Dropped Soul (2 plays)</title>
+      <link>https://www.last.fm/music/Murcof/_/Dropped+Soul</link>
+      <guid isPermaLink="false">ddgromit-1696974965--e8d1f02e-7e77-4415-85b6-dc17e08debbf---Dropped Soul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a70609dee24484c857238cb085636f04.jpg" length="7257" type="image/jpeg"/>
+      <pubDate>Tue, 10 Oct 2023 17:56:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
