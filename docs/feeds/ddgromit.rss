@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Oct 2023 16:21:38 +0000</lastBuildDate>
-    <item>
-      <title>Raffi - Thanks a Lot (6 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/Thanks+a+Lot</link>
-      <guid isPermaLink="false">ddgromit-1696724057--d5d5ba92-4bd4-4975-9806-99339eed3046---Thanks a Lot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16dd757cc547c20a9ce96a09373317cd.jpg" length="33935" type="image/jpeg"/>
-      <pubDate>Sat, 07 Oct 2023 20:14:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Raffi - Mr. Sun (11 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/Mr.+Sun</link>
-      <guid isPermaLink="false">ddgromit-1696724204--d5d5ba92-4bd4-4975-9806-99339eed3046---Mr. Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3703c588ffe44e19b22b3e3f9e891b7.jpg" length="24969" type="image/jpeg"/>
-      <pubDate>Sat, 07 Oct 2023 20:16:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Charlie Hope - I Love the Mountains (5 plays)</title>
-      <link>https://www.last.fm/music/Charlie+Hope/_/I+Love+the+Mountains</link>
-      <guid isPermaLink="false">ddgromit-1696724281--3bb07565-ca05-4f25-839a-35d1245fc0be---I Love the Mountains</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/993f204c51a657c6038592b8c3e2df13.jpg" length="34960" type="image/jpeg"/>
-      <pubDate>Sat, 07 Oct 2023 20:18:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Oct 2023 16:40:54 +0000</lastBuildDate>
     <item>
       <title>Cedarmont Kids - Baby Bumblebee (1 play)</title>
       <link>https://www.last.fm/music/Cedarmont+Kids/_/Baby+Bumblebee</link>
@@ -131,6 +110,7 @@
       <title>Cedarmont Kids - Skinny Marinky Dinky Dink (1 play)</title>
       <link>https://www.last.fm/music/Cedarmont+Kids/_/Skinny+Marinky+Dinky+Dink</link>
       <guid isPermaLink="false">ddgromit-1696725499--b725aa44-e273-4af5-b5ec-b4a5b80a36f2---Skinny Marinky Dinky Dink</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52a81edce89e4e06b268aaf82d62899e.jpg" length="22218" type="image/jpeg"/>
       <pubDate>Sat, 07 Oct 2023 20:38:19 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1696917068--f99b7d67-4e63-4678-aa66-4c6ac0f7d24a---Upskail Phenomenon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/23e46122970e480ac8a165c75b76184e.png" length="226309" type="image/png"/>
       <pubDate>Tue, 10 Oct 2023 01:51:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hélène Vogelsinger - Ceremony (1 play)</title>
+      <link>https://www.last.fm/music/H%C3%A9l%C3%A8ne+Vogelsinger/_/Ceremony</link>
+      <guid isPermaLink="false">ddgromit-1696953721--Hélène Vogelsinger---Ceremony</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/737ecc9ebdc64106c0652e9c0ebc7d48.jpg" length="42489" type="image/jpeg"/>
+      <pubDate>Tue, 10 Oct 2023 12:02:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Marvin Gaye - Trouble Man (7 plays)</title>
+      <link>https://www.last.fm/music/Marvin+Gaye/_/Trouble+Man</link>
+      <guid isPermaLink="false">ddgromit-1696954939--afdb7919-059d-43c1-b668-ba1d265e7e42---Trouble Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e8cd39ce3c8813d3ad695f39fe8b709.jpg" length="18897" type="image/jpeg"/>
+      <pubDate>Tue, 10 Oct 2023 12:22:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Omar Raafat - Closer (13 plays)</title>
+      <link>https://www.last.fm/music/Omar+Raafat/_/Closer</link>
+      <guid isPermaLink="false">ddgromit-1696955176--fc888700-7413-4fa8-a2c0-58bb9a1ebb2f---Closer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea50ec0cf541affdb495fef78c3b2c84.jpg" length="14355" type="image/jpeg"/>
+      <pubDate>Tue, 10 Oct 2023 12:26:16 -0400</pubDate>
     </item>
   </channel>
 </rss>
