@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Oct 2023 08:52:58 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - The Devil Has All the Best Tunes (35 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/The+Devil+Has+All+the+Best+Tunes</link>
-      <guid isPermaLink="false">Frippertron-1696908476--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The Devil Has All the Best Tunes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b924cb29211fd3603287f70a3d9dea.jpg" length="15940" type="image/jpeg"/>
-      <pubDate>Mon, 09 Oct 2023 23:27:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Radio love (23 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Radio+love</link>
-      <guid isPermaLink="false">Frippertron-1696908736--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Radio love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b924cb29211fd3603287f70a3d9dea.jpg" length="15940" type="image/jpeg"/>
-      <pubDate>Mon, 09 Oct 2023 23:32:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Oct 2023 09:16:03 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Walk On (15 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Walk+On</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1696927521--Destroyer---Crimson Tide</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8943cd5bb4b4676b57e066571545e817.jpg" length="13672" type="image/jpeg"/>
       <pubDate>Tue, 10 Oct 2023 04:45:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Japan - Talking Drum (81 plays)</title>
+      <link>https://www.last.fm/music/Japan/_/Talking+Drum</link>
+      <guid isPermaLink="false">Frippertron-1696927933--Japan---Talking Drum</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
+      <pubDate>Tue, 10 Oct 2023 04:52:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Japan - Ghosts (85 plays)</title>
+      <link>https://www.last.fm/music/Japan/_/Ghosts</link>
+      <guid isPermaLink="false">Frippertron-1696928998--Japan---Ghosts</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
+      <pubDate>Tue, 10 Oct 2023 05:09:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
