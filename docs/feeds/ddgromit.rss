@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Oct 2023 20:16:41 +0000</lastBuildDate>
-    <item>
-      <title>Lusine - Chatter (1 play)</title>
-      <link>https://www.last.fm/music/Lusine/_/Chatter</link>
-      <guid isPermaLink="false">ddgromit-1696972819--24ee4021-50ac-4285-b76e-860082d0d731---Chatter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26a16d5ac40824920b7476f4f72b5928.jpg" length="18224" type="image/jpeg"/>
-      <pubDate>Tue, 10 Oct 2023 17:20:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Michel Banabila - Cassette Loops (1 play)</title>
-      <link>https://www.last.fm/music/Michel+Banabila/_/Cassette+Loops</link>
-      <guid isPermaLink="false">ddgromit-1696972920--62a4af3b-c3ae-433e-89ed-2db25fe96bf1---Cassette Loops</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e9a66c021783ff9d407514ef12c689c.png" length="146735" type="image/png"/>
-      <pubDate>Tue, 10 Oct 2023 17:22:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Oct 2023 21:37:44 +0000</lastBuildDate>
     <item>
       <title>Mark Pritchard - Mên-an-Tol (1 play)</title>
       <link>https://www.last.fm/music/Mark+Pritchard/_/M%C3%AAn-an-Tol</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1697054412--Crazy Combava---Eden park</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 11 Oct 2023 16:00:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Helios - Seeming (2 plays)</title>
+      <link>https://www.last.fm/music/Helios/_/Seeming</link>
+      <guid isPermaLink="false">ddgromit-1697054500--Helios---Seeming</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f709f85cd86ced1f32a3b7cc358b44ef.jpg" length="18951" type="image/jpeg"/>
+      <pubDate>Wed, 11 Oct 2023 16:01:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Thanatosu - Hypnos (1 play)</title>
+      <link>https://www.last.fm/music/Thanatosu/_/Hypnos</link>
+      <guid isPermaLink="false">ddgromit-1697059630--Thanatosu---Hypnos</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1f708176b865afe4b890d1b5b000063.jpg" length="19034" type="image/jpeg"/>
+      <pubDate>Wed, 11 Oct 2023 17:27:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
