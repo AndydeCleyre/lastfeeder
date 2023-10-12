@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Oct 2023 02:37:37 +0000</lastBuildDate>
-    <item>
-      <title>David Sylvian - Laughter And Forgetting (32 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/Laughter+And+Forgetting</link>
-      <guid isPermaLink="false">Frippertron-1697007887--719db6b1-0d91-458c-8d18-875ec44105bf---Laughter And Forgetting</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c467ec626bf640c69ac572178cc9f97a.png" length="230221" type="image/png"/>
-      <pubDate>Wed, 11 Oct 2023 03:04:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Sylvian - Before The Bullfight (31 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/Before+The+Bullfight</link>
-      <guid isPermaLink="false">Frippertron-1697008088--719db6b1-0d91-458c-8d18-875ec44105bf---Before The Bullfight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c467ec626bf640c69ac572178cc9f97a.png" length="230221" type="image/png"/>
-      <pubDate>Wed, 11 Oct 2023 03:08:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Oct 2023 02:53:39 +0000</lastBuildDate>
     <item>
       <title>David Sylvian - Gone To Earth (44 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Gone+To+Earth</link>
@@ -58,7 +44,7 @@
       <pubDate>Wed, 11 Oct 2023 03:42:47 -0400</pubDate>
     </item>
     <item>
-      <title>Gil Scott-Heron - Winter in America (13 plays)</title>
+      <title>Gil Scott-Heron - Winter in America (14 plays)</title>
       <link>https://www.last.fm/music/Gil+Scott-Heron/_/Winter+in+America</link>
       <guid isPermaLink="false">Frippertron-1697010621--b5b89643-c488-4f39-a302-25cab31084a5---Winter in America</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9c4a7659f7d45c9a6318a8f8d85742e.jpg" length="24524" type="image/jpeg"/>
@@ -163,7 +149,7 @@
       <pubDate>Wed, 11 Oct 2023 05:22:33 -0400</pubDate>
     </item>
     <item>
-      <title>David Sylvian - The Ink In The Well (129 plays)</title>
+      <title>David Sylvian - The Ink In The Well (130 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/The+Ink+In+The+Well</link>
       <guid isPermaLink="false">Frippertron-1697016512--719db6b1-0d91-458c-8d18-875ec44105bf---The Ink In The Well</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba42b7075fa22bcc1af6b7c23e41ea16.jpg" length="20298" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1697078005--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---One Woman</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dedfe0d199ea42bfc2f76945f500c0e9.png" length="196574" type="image/png"/>
       <pubDate>Wed, 11 Oct 2023 22:33:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - The Ink In The Well (130 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/The+Ink+In+The+Well</link>
+      <guid isPermaLink="false">Frippertron-1697078411--719db6b1-0d91-458c-8d18-875ec44105bf---The Ink In The Well</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba42b7075fa22bcc1af6b7c23e41ea16.jpg" length="20298" type="image/jpeg"/>
+      <pubDate>Wed, 11 Oct 2023 22:40:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gil Scott-Heron - Winter in America (14 plays)</title>
+      <link>https://www.last.fm/music/Gil+Scott-Heron/_/Winter+in+America</link>
+      <guid isPermaLink="false">Frippertron-1697078710--b5b89643-c488-4f39-a302-25cab31084a5---Winter in America</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9c4a7659f7d45c9a6318a8f8d85742e.jpg" length="24524" type="image/jpeg"/>
+      <pubDate>Wed, 11 Oct 2023 22:45:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
