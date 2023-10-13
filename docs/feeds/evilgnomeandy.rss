@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 21:13:37 +0000</lastBuildDate>
-    <item>
-      <title>Cass McCombs - Brighter! (51 plays)</title>
-      <link>https://www.last.fm/music/Cass+McCombs/_/Brighter!</link>
-      <guid isPermaLink="false">evilgnomeandy-1696895544--c213f661-70a8-42aa-b858-62f5bd2d72e9---Brighter!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b0fb35d0e2f419ec112ffa0914c348a.png" length="289434" type="image/png"/>
-      <pubDate>Mon, 09 Oct 2023 19:52:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Oct 2023 22:41:10 +0000</lastBuildDate>
     <item>
       <title>Portishead - Glory Box (32 plays)</title>
       <link>https://www.last.fm/music/Portishead/_/Glory+Box</link>
@@ -89,6 +82,7 @@
       <title>The Okee Dokee Brothers - Rosita (1 play)</title>
       <link>https://www.last.fm/music/The+Okee+Dokee+Brothers/_/Rosita</link>
       <guid isPermaLink="false">evilgnomeandy-1696980679--9a402566-c57a-4ec5-85dd-2c52b588e6d8---Rosita</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/386601891983cd295abde6a698b5b5e1.jpg" length="26010" type="image/jpeg"/>
       <pubDate>Tue, 10 Oct 2023 19:31:19 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1697231286--25b75a66-ce83-4db3-b136-395a3c3784c4---Failsafe</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41c948bbce304e048dd7c02ec782211a.png" length="149504" type="image/png"/>
       <pubDate>Fri, 13 Oct 2023 17:08:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Death Cab for Cutie - My Mirror Speaks (1 play)</title>
+      <link>https://www.last.fm/music/Death+Cab+for+Cutie/_/My+Mirror+Speaks</link>
+      <guid isPermaLink="false">evilgnomeandy-1697231451--0039c7ae-e1a7-4a7d-9b49-0cbc716821a6---My Mirror Speaks</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d68d31bf3cd6762c5870fbb44945e3e.jpg" length="14270" type="image/jpeg"/>
+      <pubDate>Fri, 13 Oct 2023 17:10:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
