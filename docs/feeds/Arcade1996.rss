@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 14:42:17 +0000</lastBuildDate>
-    <item>
-      <title>City Morgue - Sauna (1 play)</title>
-      <link>https://www.last.fm/music/City+Morgue/_/Sauna</link>
-      <guid isPermaLink="false">Arcade1996-1697032063--c0134c34-6677-4bdf-b07c-ac14414826cd---Sauna</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8d444cd726fe0cf0eaedd884011d585.jpg" length="27530" type="image/jpeg"/>
-      <pubDate>Wed, 11 Oct 2023 09:47:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>City Morgue - HAHA WACO (2 plays)</title>
-      <link>https://www.last.fm/music/City+Morgue/_/HAHA+WACO</link>
-      <guid isPermaLink="false">Arcade1996-1697032170--c0134c34-6677-4bdf-b07c-ac14414826cd---HAHA WACO</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8d444cd726fe0cf0eaedd884011d585.jpg" length="27530" type="image/jpeg"/>
-      <pubDate>Wed, 11 Oct 2023 09:49:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Oct 2023 14:54:13 +0000</lastBuildDate>
     <item>
       <title>City Morgue - Boy in the Box (1 play)</title>
       <link>https://www.last.fm/music/City+Morgue/_/Boy+in+the+Box</link>
@@ -275,7 +261,7 @@
       <pubDate>Thu, 12 Oct 2023 21:26:20 -0400</pubDate>
     </item>
     <item>
-      <title>✝✝✝ (Crosses) - Pleasure (1 play)</title>
+      <title>✝✝✝ (Crosses) - Pleasure</title>
       <link>https://www.last.fm/music/%E2%9C%9D%E2%9C%9D%E2%9C%9D+(Crosses)/_/Pleasure</link>
       <guid isPermaLink="false">Arcade1996-1697160660--✝✝✝ (Crosses)---Pleasure</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/000babf5bc230ade0735c9184e93ea27.jpg" length="14961" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1697207904--Talking Heads---Heaven (Live) - 2023 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/585d09deb82a5547a1bfebf5ab86e4fb.jpg" length="10351" type="image/jpeg"/>
       <pubDate>Fri, 13 Oct 2023 10:38:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Talking Heads - Thank You for Sending Me an Angel (Live) - 2023 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Talking+Heads/_/Thank+You+for+Sending+Me+an+Angel+(Live)+-+2023+Remaster</link>
+      <guid isPermaLink="false">Arcade1996-1697208125--Talking Heads---Thank You for Sending Me an Angel (Live) - 2023 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/585d09deb82a5547a1bfebf5ab86e4fb.jpg" length="10351" type="image/jpeg"/>
+      <pubDate>Fri, 13 Oct 2023 10:42:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Talking Heads - Found a Job (Live) - 2023 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Talking+Heads/_/Found+a+Job+(Live)+-+2023+Remaster</link>
+      <guid isPermaLink="false">Arcade1996-1697208500--Talking Heads---Found a Job (Live) - 2023 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/585d09deb82a5547a1bfebf5ab86e4fb.jpg" length="10351" type="image/jpeg"/>
+      <pubDate>Fri, 13 Oct 2023 10:48:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
