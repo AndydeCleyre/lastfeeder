@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 06:39:24 +0000</lastBuildDate>
-    <item>
-      <title>Cirith Ungol - Looking Glass (1 play)</title>
-      <link>https://www.last.fm/music/Cirith+Ungol/_/Looking+Glass</link>
-      <guid isPermaLink="false">manosg--1696919049--c1341251-e2c7-4eae-989c-645f0c22487c---Looking Glass</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 10 Oct 2023 02:24:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cirith Ungol - The Twitch (1 play)</title>
-      <link>https://www.last.fm/music/Cirith+Ungol/_/The+Twitch</link>
-      <guid isPermaLink="false">manosg--1696919812--c1341251-e2c7-4eae-989c-645f0c22487c---The Twitch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e441c4cb5686b5b85a76825c80c17df.jpg" length="34686" type="image/jpeg"/>
-      <pubDate>Tue, 10 Oct 2023 02:36:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Oct 2023 06:52:19 +0000</lastBuildDate>
     <item>
       <title>Orbita Am - Smoke Rises (1 play)</title>
       <link>https://www.last.fm/music/Orbita+Am/_/Smoke+Rises</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1697177946--On Thorns I Lay---Newborn Skies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e7af7b1d6721faeb7a26ba2e3ac2067.jpg" length="13870" type="image/jpeg"/>
       <pubDate>Fri, 13 Oct 2023 02:19:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>On Thorns I Lay - Crestfallen (1 play)</title>
+      <link>https://www.last.fm/music/On+Thorns+I+Lay/_/Crestfallen</link>
+      <guid isPermaLink="false">manosg--1697178231--On Thorns I Lay---Crestfallen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e7af7b1d6721faeb7a26ba2e3ac2067.jpg" length="13870" type="image/jpeg"/>
+      <pubDate>Fri, 13 Oct 2023 02:23:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>On Thorns I Lay - Among The Wolves</title>
+      <link>https://www.last.fm/music/On+Thorns+I+Lay/_/Among+The+Wolves</link>
+      <guid isPermaLink="false">manosg--1697179218--On Thorns I Lay---Among The Wolves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e7af7b1d6721faeb7a26ba2e3ac2067.jpg" length="13870" type="image/jpeg"/>
+      <pubDate>Fri, 13 Oct 2023 02:40:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
