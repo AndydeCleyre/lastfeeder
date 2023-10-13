@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 17:14:28 +0000</lastBuildDate>
-    <item>
-      <title>Thelonious Coltrane - Sunny Dayz (1 play)</title>
-      <link>https://www.last.fm/music/Thelonious+Coltrane/_/Sunny+Dayz</link>
-      <guid isPermaLink="false">ddgromit-1697130877--26f3b1c1-ebf8-4309-8afe-9c88563d93fb---Sunny Dayz</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 12 Oct 2023 13:14:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>MLTSMTHNG - Midnight Sun (1 play)</title>
-      <link>https://www.last.fm/music/MLTSMTHNG/_/Midnight+Sun</link>
-      <guid isPermaLink="false">ddgromit-1697131000--MLTSMTHNG---Midnight Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 12 Oct 2023 13:16:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Oct 2023 17:27:37 +0000</lastBuildDate>
     <item>
       <title>Sandy Mental - Bacio (1 play)</title>
       <link>https://www.last.fm/music/Sandy+Mental/_/Bacio</link>
@@ -222,7 +208,6 @@
       <title>Bochum Welt - At Dawn (2 plays)</title>
       <link>https://www.last.fm/music/Bochum+Welt/_/At+Dawn</link>
       <guid isPermaLink="false">ddgromit-1697152002--3fc812b0-07ef-443d-ac97-77a71c0f1aee---At Dawn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b113faa25156850266869c7bac4ea07.jpg" length="6435" type="image/jpeg"/>
       <pubDate>Thu, 12 Oct 2023 19:06:42 -0400</pubDate>
     </item>
     <item>
@@ -299,14 +284,12 @@
       <title>Phil France - Prophet (2 plays)</title>
       <link>https://www.last.fm/music/Phil+France/_/Prophet</link>
       <guid isPermaLink="false">ddgromit-1697215815--5bde4bc6-b938-4626-996a-05c86870990c---Prophet</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/414a3b84e9b5dc8c5c4d09818acb726f.jpg" length="8058" type="image/jpeg"/>
       <pubDate>Fri, 13 Oct 2023 12:50:15 -0400</pubDate>
     </item>
     <item>
       <title>A Winged Victory for the Sullen - Every Solstice &amp; Equinox (2 plays)</title>
       <link>https://www.last.fm/music/A+Winged+Victory+for+the+Sullen/_/Every+Solstice+&amp;+Equinox</link>
       <guid isPermaLink="false">ddgromit-1697215933--67c179d3-f358-43bf-8ecc-d9c560878b65---Every Solstice &amp; Equinox</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca4b268dda72945e75483be38db35d49.jpg" length="10639" type="image/jpeg"/>
       <pubDate>Fri, 13 Oct 2023 12:52:13 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +340,20 @@
       <guid isPermaLink="false">ddgromit-1697217043--339032cc-cbc8-433e-90fc-e7fd3ecdeabe---The Gathering Pallet</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4a5465ae652411908245b4b4e410925.jpg" length="18045" type="image/jpeg"/>
       <pubDate>Fri, 13 Oct 2023 13:10:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ochre - A Midsummer Nice Dream (2 plays)</title>
+      <link>https://www.last.fm/music/Ochre/_/A+Midsummer+Nice+Dream</link>
+      <guid isPermaLink="false">ddgromit-1697217163--8c40eedf-e858-4208-bcc7-05e45bc76646---A Midsummer Nice Dream</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b917624f03454d8396b114c00b3d0764.png" length="29458" type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 13:12:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ocoeur - Glow (2 plays)</title>
+      <link>https://www.last.fm/music/Ocoeur/_/Glow</link>
+      <guid isPermaLink="false">ddgromit-1697217333--f38a3179-00e1-48b4-9ca6-e14047c3b867---Glow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb8f7f9e9b68c38c22218208378b2dde.jpg" length="25736" type="image/jpeg"/>
+      <pubDate>Fri, 13 Oct 2023 13:15:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
