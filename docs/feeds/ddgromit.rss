@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Oct 2023 15:26:25 +0000</lastBuildDate>
-    <item>
-      <title>Lazlow - Indigo (1 play)</title>
-      <link>https://www.last.fm/music/Lazlow/_/Indigo</link>
-      <guid isPermaLink="false">ddgromit-1697131890--Lazlow---Indigo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 12 Oct 2023 13:31:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Murcof - Dropped Soul (4 plays)</title>
-      <link>https://www.last.fm/music/Murcof/_/Dropped+Soul</link>
-      <guid isPermaLink="false">ddgromit-1697148519--e8d1f02e-7e77-4415-85b6-dc17e08debbf---Dropped Soul</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a70609dee24484c857238cb085636f04.jpg" length="7257" type="image/jpeg"/>
-      <pubDate>Thu, 12 Oct 2023 18:08:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dark Sky - Found &amp; Lost (4 plays)</title>
-      <link>https://www.last.fm/music/Dark+Sky/_/Found+&amp;+Lost</link>
-      <guid isPermaLink="false">ddgromit-1697148598--Dark Sky---Found &amp; Lost</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb97bcd6231772c72b6ce05a93b70f92.jpg" length="21075" type="image/jpeg"/>
-      <pubDate>Thu, 12 Oct 2023 18:09:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Rival Consoles - Memory Arc (5 plays)</title>
-      <link>https://www.last.fm/music/Rival+Consoles/_/Memory+Arc</link>
-      <guid isPermaLink="false">ddgromit-1697148659--803f2853-7e3e-4dff-96a7-9f77b5f56de5---Memory Arc</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/658d3f2aee9fbf5f02e6cf6a6a4266c3.jpg" length="18079" type="image/jpeg"/>
-      <pubDate>Thu, 12 Oct 2023 18:10:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Martin Glass - Skytrack (Global Monorail Development) (3 plays)</title>
-      <link>https://www.last.fm/music/Martin+Glass/_/Skytrack+(Global+Monorail+Development)</link>
-      <guid isPermaLink="false">ddgromit-1697148792--Martin Glass---Skytrack (Global Monorail Development)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f3ac5a7d7b8a1d69862a72e3e9177b8.png" length="170338" type="image/png"/>
-      <pubDate>Thu, 12 Oct 2023 18:13:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>36 - Black Shore (2 plays)</title>
-      <link>https://www.last.fm/music/36/_/Black+Shore</link>
-      <guid isPermaLink="false">ddgromit-1697148880--d884c0ab-e11f-4d87-95d7-54da9d725c5f---Black Shore</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9dd41518c75352fa140b3994e37c519e.jpg" length="16030" type="image/jpeg"/>
-      <pubDate>Thu, 12 Oct 2023 18:14:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pye Corner Audio - Theme Number Sixty Eight (2 plays)</title>
-      <link>https://www.last.fm/music/Pye+Corner+Audio/_/Theme+Number+Sixty+Eight</link>
-      <guid isPermaLink="false">ddgromit-1697149021--e191b962-717b-4976-a123-48280b648ab5---Theme Number Sixty Eight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11050b1ae4eb934a1fa23dd99e0ba5f9.jpg" length="8800" type="image/jpeg"/>
-      <pubDate>Thu, 12 Oct 2023 18:17:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ronnie &amp; Clyde - The Last Retention - Thomas Ragsdale's Deep Space Mix (3 plays)</title>
-      <link>https://www.last.fm/music/Ronnie+&amp;+Clyde/_/The+Last+Retention+-+Thomas+Ragsdale%27s+Deep+Space+Mix</link>
-      <guid isPermaLink="false">ddgromit-1697149132--Ronnie &amp; Clyde---The Last Retention - Thomas Ragsdale's Deep Space Mix</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae78069bd7dd0610210129e93f40f34d.jpg" length="22393" type="image/jpeg"/>
-      <pubDate>Thu, 12 Oct 2023 18:18:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Julianna Barwick - Inspirit - Takuya's Ryūteki Dragons (2 plays)</title>
-      <link>https://www.last.fm/music/Julianna+Barwick/_/Inspirit+-+Takuya%27s+Ry%C5%ABteki+Dragons</link>
-      <guid isPermaLink="false">ddgromit-1697149461--Julianna Barwick---Inspirit - Takuya's Ryūteki Dragons</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/501090bea7cda3930faca5b6be868077.jpg" length="21635" type="image/jpeg"/>
-      <pubDate>Thu, 12 Oct 2023 18:24:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Oct 2023 15:38:13 +0000</lastBuildDate>
     <item>
       <title>Bochum Welt - La Nuit - Mixed (3 plays)</title>
       <link>https://www.last.fm/music/Bochum+Welt/_/La+Nuit+-+Mixed</link>
@@ -352,11 +289,74 @@
       <pubDate>Fri, 13 Oct 2023 19:02:01 -0400</pubDate>
     </item>
     <item>
-      <title>The Goo Goo Dolls - Slide (7 plays)</title>
+      <title>The Goo Goo Dolls - Slide</title>
       <link>https://www.last.fm/music/The+Goo+Goo+Dolls/_/Slide</link>
       <guid isPermaLink="false">ddgromit-1697238453--e2c00c56-8365-4160-9f40-a64682917633---Slide</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5637551f8256bd31d895ad9db01d5d0.jpg" length="22581" type="image/jpeg"/>
       <pubDate>Fri, 13 Oct 2023 19:07:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Raffi - Day O (11 plays)</title>
+      <link>https://www.last.fm/music/Raffi/_/Day+O</link>
+      <guid isPermaLink="false">ddgromit-1697297000--d5d5ba92-4bd4-4975-9806-99339eed3046---Day O</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 14 Oct 2023 11:23:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Charlie Hope - I Love the Mountains (6 plays)</title>
+      <link>https://www.last.fm/music/Charlie+Hope/_/I+Love+the+Mountains</link>
+      <guid isPermaLink="false">ddgromit-1697297198--3bb07565-ca05-4f25-839a-35d1245fc0be---I Love the Mountains</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/993f204c51a657c6038592b8c3e2df13.jpg" length="34960" type="image/jpeg"/>
+      <pubDate>Sat, 14 Oct 2023 11:26:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Raffi - Aikendrum (2 plays)</title>
+      <link>https://www.last.fm/music/Raffi/_/Aikendrum</link>
+      <guid isPermaLink="false">ddgromit-1697297297--d5d5ba92-4bd4-4975-9806-99339eed3046---Aikendrum</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3703c588ffe44e19b22b3e3f9e891b7.jpg" length="24969" type="image/jpeg"/>
+      <pubDate>Sat, 14 Oct 2023 11:28:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Little Sunshine Kids - Six in a Bed (10 plays)</title>
+      <link>https://www.last.fm/music/The+Little+Sunshine+Kids/_/Six+in+a+Bed</link>
+      <guid isPermaLink="false">ddgromit-1697297376--The Little Sunshine Kids---Six in a Bed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 14 Oct 2023 11:29:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nursery Rhymes Band - I'm a Little Teapot (3 plays)</title>
+      <link>https://www.last.fm/music/Nursery+Rhymes+Band/_/I%27m+a+Little+Teapot</link>
+      <guid isPermaLink="false">ddgromit-1697297440--Nursery Rhymes Band---I'm a Little Teapot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 14 Oct 2023 11:30:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Vicky Arlidge - 1, 2, 3, 4, 5 (3 plays)</title>
+      <link>https://www.last.fm/music/Vicky+Arlidge/_/1,+2,+3,+4,+5</link>
+      <guid isPermaLink="false">ddgromit-1697297494--75ce6a10-e448-4a8f-802a-e19bd4a71bc5---1, 2, 3, 4, 5</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 14 Oct 2023 11:31:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Belle and the Nursery Rhymes Band - Hickory Dickory Dock (2 plays)</title>
+      <link>https://www.last.fm/music/Belle+and+the+Nursery+Rhymes+Band/_/Hickory+Dickory+Dock</link>
+      <guid isPermaLink="false">ddgromit-1697297554--Belle and the Nursery Rhymes Band---Hickory Dickory Dock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08c4c684e381057528adf8879ce50552.jpg" length="27251" type="image/jpeg"/>
+      <pubDate>Sat, 14 Oct 2023 11:32:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Raffi - In My Garden (1 play)</title>
+      <link>https://www.last.fm/music/Raffi/_/In+My+Garden</link>
+      <guid isPermaLink="false">ddgromit-1697297610--d5d5ba92-4bd4-4975-9806-99339eed3046---In My Garden</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4582d840d0a45ec95ad12495272c3cf.jpg" length="36174" type="image/jpeg"/>
+      <pubDate>Sat, 14 Oct 2023 11:33:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Charlie Hope - Here We Go Loopty Loo (2 plays)</title>
+      <link>https://www.last.fm/music/Charlie+Hope/_/Here+We+Go+Loopty+Loo</link>
+      <guid isPermaLink="false">ddgromit-1697297719--3bb07565-ca05-4f25-839a-35d1245fc0be---Here We Go Loopty Loo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 14 Oct 2023 11:35:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
