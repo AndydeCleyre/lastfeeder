@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Oct 2023 19:52:22 +0000</lastBuildDate>
-    <item>
-      <title>Jeff Rosenstock - GRAVEYARD SONG (3 plays)</title>
-      <link>https://www.last.fm/music/Jeff+Rosenstock/_/GRAVEYARD+SONG</link>
-      <guid isPermaLink="false">lintmunro-1694878351--14892f45-a103-44f2-bb18-ee4a20d7876e---GRAVEYARD SONG</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/749c955a525f308297f71eafb58c2d71.jpg" length="38771" type="image/jpeg"/>
-      <pubDate>Sat, 16 Sep 2023 11:32:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jeff Rosenstock - 3 SUMMERS (2 plays)</title>
-      <link>https://www.last.fm/music/Jeff+Rosenstock/_/3+SUMMERS</link>
-      <guid isPermaLink="false">lintmunro-1694881641--14892f45-a103-44f2-bb18-ee4a20d7876e---3 SUMMERS</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/749c955a525f308297f71eafb58c2d71.jpg" length="38771" type="image/jpeg"/>
-      <pubDate>Sat, 16 Sep 2023 12:27:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jeff Rosenstock - GRAVEYARD SONG (3 plays)</title>
-      <link>https://www.last.fm/music/Jeff+Rosenstock/_/GRAVEYARD+SONG</link>
-      <guid isPermaLink="false">lintmunro-1694881641--14892f45-a103-44f2-bb18-ee4a20d7876e---GRAVEYARD SONG</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/749c955a525f308297f71eafb58c2d71.jpg" length="38771" type="image/jpeg"/>
-      <pubDate>Sat, 16 Sep 2023 12:27:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Oct 2023 20:15:06 +0000</lastBuildDate>
     <item>
       <title>Jeff Rosenstock - 3 SUMMERS (2 plays)</title>
       <link>https://www.last.fm/music/Jeff+Rosenstock/_/3+SUMMERS</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">lintmunro-1697312815--Fatima---Westside</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cc15a486648bb658dae46aa25e0ac55.jpg" length="18107" type="image/jpeg"/>
       <pubDate>Sat, 14 Oct 2023 15:46:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Khruangbin - Summer Madness (8 plays)</title>
+      <link>https://www.last.fm/music/Khruangbin/_/Summer+Madness</link>
+      <guid isPermaLink="false">lintmunro-1697313079--aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634---Summer Madness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8b5acee52d1898c4958b607fb8e4240.png" length="122519" type="image/png"/>
+      <pubDate>Sat, 14 Oct 2023 15:51:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Guru - Loungin' (11 plays)</title>
+      <link>https://www.last.fm/music/Guru/_/Loungin%27</link>
+      <guid isPermaLink="false">lintmunro-1697313281--2a8ad260-a0c8-4aec-a4ce-40987f4ada85---Loungin'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd0c2042248de81d74b73dd55ed4b697.jpg" length="16248" type="image/jpeg"/>
+      <pubDate>Sat, 14 Oct 2023 15:54:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yussef Dayes - For My Ladies (9 plays)</title>
+      <link>https://www.last.fm/music/Yussef+Dayes/_/For+My+Ladies</link>
+      <guid isPermaLink="false">lintmunro-1697313562--Yussef Dayes---For My Ladies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67efd7bafa3c327f1dbb8f3e854b2932.jpg" length="15173" type="image/jpeg"/>
+      <pubDate>Sat, 14 Oct 2023 15:59:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
