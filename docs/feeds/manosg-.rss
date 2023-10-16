@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Oct 2023 07:15:12 +0000</lastBuildDate>
-    <item>
-      <title>Sade - Fear (20 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Fear</link>
-      <guid isPermaLink="false">manosg--1697218876--67930b3e-e00b-469f-8c74-fd69f20522ec---Fear</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d49bf5d8b40fd32c0af3601e6d84a138.png" length="169582" type="image/png"/>
-      <pubDate>Fri, 13 Oct 2023 13:41:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sade - Tar Baby (19 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Tar+Baby</link>
-      <guid isPermaLink="false">manosg--1697219126--67930b3e-e00b-469f-8c74-fd69f20522ec---Tar Baby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d49bf5d8b40fd32c0af3601e6d84a138.png" length="169582" type="image/png"/>
-      <pubDate>Fri, 13 Oct 2023 13:45:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Oct 2023 07:27:10 +0000</lastBuildDate>
     <item>
       <title>Sade - Maureen (20 plays)</title>
       <link>https://www.last.fm/music/Sade/_/Maureen</link>
@@ -142,7 +128,7 @@
       <pubDate>Sat, 14 Oct 2023 08:45:11 -0400</pubDate>
     </item>
     <item>
-      <title>Leonard Cohen - Everybody Knows - Live in Dublin (4 plays)</title>
+      <title>Leonard Cohen - Everybody Knows - Live in Dublin (5 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Everybody+Knows+-+Live+in+Dublin</link>
       <guid isPermaLink="false">manosg--1697287941--65314b12-0e08-43fa-ba33-baaa7b874c15---Everybody Knows - Live in Dublin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1697440215--479497d4-e7c2-4e78-972e-56e78fac3995---Solitary Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3aa2d0bbba304883c85f5c6974044604.jpg" length="20725" type="image/jpeg"/>
       <pubDate>Mon, 16 Oct 2023 03:10:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Neil Young - Heart of Gold (6 plays)</title>
+      <link>https://www.last.fm/music/Neil+Young/_/Heart+of+Gold</link>
+      <guid isPermaLink="false">manosg--1697440373--75167b8b-44e4-407b-9d35-effe87b223cf---Heart of Gold</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d2258f1ff7a4460bec7eed4efe6f9fc.png" length="132740" type="image/png"/>
+      <pubDate>Mon, 16 Oct 2023 03:12:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Everybody Knows - Live in Dublin (5 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Everybody+Knows+-+Live+in+Dublin</link>
+      <guid isPermaLink="false">manosg--1697440561--65314b12-0e08-43fa-ba33-baaa7b874c15---Everybody Knows - Live in Dublin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bed7560ddba42a1c20699da7e85ae1b.jpg" length="17597" type="image/jpeg"/>
+      <pubDate>Mon, 16 Oct 2023 03:16:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
