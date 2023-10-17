@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Oct 2023 21:52:22 +0000</lastBuildDate>
-    <item>
-      <title>Touch - seventy five (2 plays)</title>
-      <link>https://www.last.fm/music/Touch/_/seventy+five</link>
-      <guid isPermaLink="false">Frippertron-1697505034--50ee0ebc-6bee-47f1-b27d-eb3acc86ea99---seventy five</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73327a352dfb43acb5678e60934233f6.jpg" length="20507" type="image/jpeg"/>
-      <pubDate>Mon, 16 Oct 2023 21:10:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Foetus - Is That a Line (9 plays)</title>
-      <link>https://www.last.fm/music/Foetus/_/Is+That+a+Line</link>
-      <guid isPermaLink="false">Frippertron-1697505737--934c6bbc-3fc4-4d4a-9280-f02856da0e12---Is That a Line</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91df2f94f7bc339da10027a9cb58e93b.png" length="102683" type="image/png"/>
-      <pubDate>Mon, 16 Oct 2023 21:22:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Foetus - I Am Surrounded by Incompetence (6 plays)</title>
-      <link>https://www.last.fm/music/Foetus/_/I+Am+Surrounded+by+Incompetence</link>
-      <guid isPermaLink="false">Frippertron-1697506174--934c6bbc-3fc4-4d4a-9280-f02856da0e12---I Am Surrounded by Incompetence</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91df2f94f7bc339da10027a9cb58e93b.png" length="102683" type="image/png"/>
-      <pubDate>Mon, 16 Oct 2023 21:29:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Oct 2023 22:14:50 +0000</lastBuildDate>
     <item>
       <title>越美晴 - 龍宮城の恋人 (4 plays)</title>
       <link>https://www.last.fm/music/%E8%B6%8A%E7%BE%8E%E6%99%B4/_/%E9%BE%8D%E5%AE%AE%E5%9F%8E%E3%81%AE%E6%81%8B%E4%BA%BA</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1697579168--9e62e65c-2644-46b9-a9a9-f9c37da4c1f5---Irracional</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fb53a692a134819c89fba6c0f9219cd.jpg" length="12965" type="image/jpeg"/>
       <pubDate>Tue, 17 Oct 2023 17:46:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hareton Salvanini - Papa-Mama (1 play)</title>
+      <link>https://www.last.fm/music/Hareton+Salvanini/_/Papa-Mama</link>
+      <guid isPermaLink="false">Frippertron-1697579453--9e62e65c-2644-46b9-a9a9-f9c37da4c1f5---Papa-Mama</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fb53a692a134819c89fba6c0f9219cd.jpg" length="12965" type="image/jpeg"/>
+      <pubDate>Tue, 17 Oct 2023 17:50:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hareton Salvanini - Imagem (1 play)</title>
+      <link>https://www.last.fm/music/Hareton+Salvanini/_/Imagem</link>
+      <guid isPermaLink="false">Frippertron-1697579683--9e62e65c-2644-46b9-a9a9-f9c37da4c1f5---Imagem</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fb53a692a134819c89fba6c0f9219cd.jpg" length="12965" type="image/jpeg"/>
+      <pubDate>Tue, 17 Oct 2023 17:54:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hareton Salvanini - Yélris (1 play)</title>
+      <link>https://www.last.fm/music/Hareton+Salvanini/_/Y%C3%A9lris</link>
+      <guid isPermaLink="false">Frippertron-1697579903--9e62e65c-2644-46b9-a9a9-f9c37da4c1f5---Yélris</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fb53a692a134819c89fba6c0f9219cd.jpg" length="12965" type="image/jpeg"/>
+      <pubDate>Tue, 17 Oct 2023 17:58:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
