@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Oct 2023 02:25:46 +0000</lastBuildDate>
-    <item>
-      <title>Zoë Keating - Forest (1 play)</title>
-      <link>https://www.last.fm/music/Zo%C3%AB+Keating/_/Forest</link>
-      <guid isPermaLink="false">ddgromit-1697496739--0171668b-ba7a-4cef-8a28-22aa782dd56c---Forest</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93c52f14c14843b98c94a722f943b9ae.jpg" length="24985" type="image/jpeg"/>
-      <pubDate>Mon, 16 Oct 2023 18:52:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fakear - Sea Song (1 play)</title>
-      <link>https://www.last.fm/music/Fakear/_/Sea+Song</link>
-      <guid isPermaLink="false">ddgromit-1697496784--7c707d22-1c9c-4e72-bc8d-640baa5e2ba5---Sea Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99e4238793e34762e5e448dca6926919.jpg" length="15690" type="image/jpeg"/>
-      <pubDate>Mon, 16 Oct 2023 18:53:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>HÆLOS - Intro/Spectrum (1 play)</title>
-      <link>https://www.last.fm/music/H%C3%86LOS/_/Intro%2FSpectrum</link>
-      <guid isPermaLink="false">ddgromit-1697496944--74ca2f03-18e4-4ec1-9537-3cfefbcfd4ec---Intro/Spectrum</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02027ed5090b144e590e6001836793dc.jpg" length="13397" type="image/jpeg"/>
-      <pubDate>Mon, 16 Oct 2023 18:55:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Oct 2023 02:37:28 +0000</lastBuildDate>
     <item>
       <title>Hermanos Gutiérrez - Mesa Redonda (1 play)</title>
       <link>https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/Mesa+Redonda</link>
@@ -96,7 +75,6 @@
       <title>René Aubry - Guitare bambou (1 play)</title>
       <link>https://www.last.fm/music/Ren%C3%A9+Aubry/_/Guitare+bambou</link>
       <guid isPermaLink="false">ddgromit-1697498466--e4777ad0-2531-48b7-8c90-4099a7333c58---Guitare bambou</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8578dd618ebc44c56c7499016962a3d.jpg" length="25286" type="image/jpeg"/>
       <pubDate>Mon, 16 Oct 2023 19:21:06 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">ddgromit-1697595610--a1d0f288-fe20-4362-b1fd-b539a5b4382c---Eye Can See</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2d33bdc809dbd0ba03bf43443e23eb9.jpg" length="21893" type="image/jpeg"/>
       <pubDate>Tue, 17 Oct 2023 22:20:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jack Johnson - Sunsets For Somebody Else (3 plays)</title>
+      <link>https://www.last.fm/music/Jack+Johnson/_/Sunsets+For+Somebody+Else</link>
+      <guid isPermaLink="false">ddgromit-1697595781--ff6e677f-91dd-4986-a174-8db0474b1799---Sunsets For Somebody Else</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06d21eb166b0877621b0b10b81ebc99d.jpg" length="47942" type="image/jpeg"/>
+      <pubDate>Tue, 17 Oct 2023 22:23:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tracy Chapman - The Promise (1 play)</title>
+      <link>https://www.last.fm/music/Tracy+Chapman/_/The+Promise</link>
+      <guid isPermaLink="false">ddgromit-1697595992--1129817c-488a-4096-80c1-77fc1b107c93---The Promise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3956313bc044f8fa8d4b98ea80d2dab.png" length="189997" type="image/png"/>
+      <pubDate>Tue, 17 Oct 2023 22:26:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Mayer - Stop This Train (8 plays)</title>
+      <link>https://www.last.fm/music/John+Mayer/_/Stop+This+Train</link>
+      <guid isPermaLink="false">ddgromit-1697596320--144ef525-85e9-40c3-8335-02c32d0861f3---Stop This Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/debb423cbaba4e17cecb7b2c3d18f189.png" length="91476" type="image/png"/>
+      <pubDate>Tue, 17 Oct 2023 22:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
