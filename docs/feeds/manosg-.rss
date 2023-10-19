@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Oct 2023 07:14:33 +0000</lastBuildDate>
-    <item>
-      <title>Def Leppard - Bringin' on the Heartbreak (8 plays)</title>
-      <link>https://www.last.fm/music/Def+Leppard/_/Bringin%27+on+the+Heartbreak</link>
-      <guid isPermaLink="false">manosg--1697529978--7249b899-8db8-43e7-9e6e-22f1e736024e---Bringin' on the Heartbreak</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9899e9c1e21a6fb72974e90c0a8bf51c.jpg" length="32403" type="image/jpeg"/>
-      <pubDate>Tue, 17 Oct 2023 04:06:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Def Leppard - Switch 625 (5 plays)</title>
-      <link>https://www.last.fm/music/Def+Leppard/_/Switch+625</link>
-      <guid isPermaLink="false">manosg--1697532117--7249b899-8db8-43e7-9e6e-22f1e736024e---Switch 625</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9899e9c1e21a6fb72974e90c0a8bf51c.jpg" length="32403" type="image/jpeg"/>
-      <pubDate>Tue, 17 Oct 2023 04:41:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Oct 2023 07:26:28 +0000</lastBuildDate>
     <item>
       <title>Def Leppard - You Got Me Runnin' (5 plays)</title>
       <link>https://www.last.fm/music/Def+Leppard/_/You+Got+Me+Runnin%27</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1697643732--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---Zeitgeist</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8cbc244551596b441d0dc4bbd1151761.jpg" length="18996" type="image/jpeg"/>
       <pubDate>Wed, 18 Oct 2023 11:42:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Sabbath - Age of Reason (1 play)</title>
+      <link>https://www.last.fm/music/Black+Sabbath/_/Age+of+Reason</link>
+      <guid isPermaLink="false">manosg--1697699271--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---Age of Reason</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8cbc244551596b441d0dc4bbd1151761.jpg" length="18996" type="image/jpeg"/>
+      <pubDate>Thu, 19 Oct 2023 03:07:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Sabbath - Live Forever (1 play)</title>
+      <link>https://www.last.fm/music/Black+Sabbath/_/Live+Forever</link>
+      <guid isPermaLink="false">manosg--1697699806--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---Live Forever</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8cbc244551596b441d0dc4bbd1151761.jpg" length="18996" type="image/jpeg"/>
+      <pubDate>Thu, 19 Oct 2023 03:16:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
