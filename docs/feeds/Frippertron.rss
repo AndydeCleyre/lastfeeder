@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Oct 2023 06:21:24 +0000</lastBuildDate>
-    <item>
-      <title>Saint Etienne - Postman (2 plays)</title>
-      <link>https://www.last.fm/music/Saint+Etienne/_/Postman</link>
-      <guid isPermaLink="false">Frippertron-1697623867--3997d4a6-c2bd-4191-8406-eb07f0abb5d2---Postman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1f75d2d343ee1bf34e362cbaaffbb72.png" length="116348" type="image/png"/>
-      <pubDate>Wed, 18 Oct 2023 06:11:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>Saint Etienne - Erica America (2 plays)</title>
-      <link>https://www.last.fm/music/Saint+Etienne/_/Erica+America</link>
-      <guid isPermaLink="false">Frippertron-1697624095--3997d4a6-c2bd-4191-8406-eb07f0abb5d2---Erica America</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1f75d2d343ee1bf34e362cbaaffbb72.png" length="116348" type="image/png"/>
-      <pubDate>Wed, 18 Oct 2023 06:14:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Oct 2023 07:14:53 +0000</lastBuildDate>
     <item>
       <title>Ivan Lins - choro das águas (29 plays)</title>
       <link>https://www.last.fm/music/Ivan+Lins/_/choro+das+%C3%A1guas</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1697695680--James Brown---Bewildered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/234b31742b755f776e4b51666935f53f.jpg" length="44447" type="image/jpeg"/>
       <pubDate>Thu, 19 Oct 2023 02:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Saint Etienne - Woodcabin (2 plays)</title>
+      <link>https://www.last.fm/music/Saint+Etienne/_/Woodcabin</link>
+      <guid isPermaLink="false">Frippertron-1697699080--3997d4a6-c2bd-4191-8406-eb07f0abb5d2---Woodcabin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1f75d2d343ee1bf34e362cbaaffbb72.png" length="116348" type="image/png"/>
+      <pubDate>Thu, 19 Oct 2023 03:04:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Saint Etienne - Sylvie (2 plays)</title>
+      <link>https://www.last.fm/music/Saint+Etienne/_/Sylvie</link>
+      <guid isPermaLink="false">Frippertron-1697699328--3997d4a6-c2bd-4191-8406-eb07f0abb5d2---Sylvie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1f75d2d343ee1bf34e362cbaaffbb72.png" length="116348" type="image/png"/>
+      <pubDate>Thu, 19 Oct 2023 03:08:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
