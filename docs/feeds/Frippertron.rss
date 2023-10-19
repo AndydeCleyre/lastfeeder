@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Oct 2023 10:52:20 +0000</lastBuildDate>
-    <item>
-      <title>James Brown - Bewildered (5 plays)</title>
-      <link>https://www.last.fm/music/James+Brown/_/Bewildered</link>
-      <guid isPermaLink="false">Frippertron-1697695680--James Brown---Bewildered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/234b31742b755f776e4b51666935f53f.jpg" length="44447" type="image/jpeg"/>
-      <pubDate>Thu, 19 Oct 2023 02:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Saint Etienne - Woodcabin (2 plays)</title>
-      <link>https://www.last.fm/music/Saint+Etienne/_/Woodcabin</link>
-      <guid isPermaLink="false">Frippertron-1697699080--3997d4a6-c2bd-4191-8406-eb07f0abb5d2---Woodcabin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1f75d2d343ee1bf34e362cbaaffbb72.png" length="116348" type="image/png"/>
-      <pubDate>Thu, 19 Oct 2023 03:04:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Oct 2023 11:13:33 +0000</lastBuildDate>
     <item>
       <title>Saint Etienne - Sylvie (2 plays)</title>
       <link>https://www.last.fm/music/Saint+Etienne/_/Sylvie</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1697711997--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Here On The Eerie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/195e793d22dc7ff3dbc739ee65063229.png" length="159791" type="image/png"/>
       <pubDate>Thu, 19 Oct 2023 06:39:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - Taking The Veil (51 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/Taking+The+Veil</link>
+      <guid isPermaLink="false">Frippertron-1697712983--719db6b1-0d91-458c-8d18-875ec44105bf---Taking The Veil</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c467ec626bf640c69ac572178cc9f97a.png" length="230221" type="image/png"/>
+      <pubDate>Thu, 19 Oct 2023 06:56:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Echoes (75 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
+      <guid isPermaLink="false">Frippertron-1697713265--83d91898-7763-47d7-b03b-b92132375c47---Echoes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
+      <pubDate>Thu, 19 Oct 2023 07:01:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
