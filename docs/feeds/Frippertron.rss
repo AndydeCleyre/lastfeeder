@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Oct 2023 09:15:56 +0000</lastBuildDate>
-    <item>
-      <title>Willie Colón - La María (1 play)</title>
-      <link>https://www.last.fm/music/Willie+Col%C3%B3n/_/La+Mar%C3%ADa</link>
-      <guid isPermaLink="false">Frippertron-1697771363--f1edfbed-9315-4550-859c-599cc3fdee57---La María</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a42c89bd2f65b64414b0a8317182f5d.png" length="115066" type="image/png"/>
-      <pubDate>Thu, 19 Oct 2023 23:09:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Willie Colón - Junio 73 (1 play)</title>
-      <link>https://www.last.fm/music/Willie+Col%C3%B3n/_/Junio+73</link>
-      <guid isPermaLink="false">Frippertron-1697771586--f1edfbed-9315-4550-859c-599cc3fdee57---Junio 73</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a42c89bd2f65b64414b0a8317182f5d.png" length="115066" type="image/png"/>
-      <pubDate>Thu, 19 Oct 2023 23:13:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Oct 2023 09:52:13 +0000</lastBuildDate>
     <item>
       <title>Willie Colón - Calle Luna Calle Sol (1 play)</title>
       <link>https://www.last.fm/music/Willie+Col%C3%B3n/_/Calle+Luna+Calle+Sol</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1697792807--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Fri, 20 Oct 2023 05:06:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jockstrap - Greatest Hits (29 plays)</title>
+      <link>https://www.last.fm/music/Jockstrap/_/Greatest+Hits</link>
+      <guid isPermaLink="false">Frippertron-1697794996--7230b2f8-96da-4242-8d57-2a8c1c3d71e4---Greatest Hits</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3123c042fb257fe1851e25400203af.png" length="29979" type="image/png"/>
+      <pubDate>Fri, 20 Oct 2023 05:43:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jockstrap - Jennifer B (17 plays)</title>
+      <link>https://www.last.fm/music/Jockstrap/_/Jennifer+B</link>
+      <guid isPermaLink="false">Frippertron-1697795302--7230b2f8-96da-4242-8d57-2a8c1c3d71e4---Jennifer B</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e3123c042fb257fe1851e25400203af.png" length="29979" type="image/png"/>
+      <pubDate>Fri, 20 Oct 2023 05:48:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
