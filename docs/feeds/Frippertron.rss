@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Oct 2023 05:14:24 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Faron Young (58 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Faron+Young</link>
-      <guid isPermaLink="false">Frippertron-1697711548--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Faron Young</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8970aa3b488e88cf7be0d7117be7c78c.jpg" length="24641" type="image/jpeg"/>
-      <pubDate>Thu, 19 Oct 2023 06:32:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Green Isaac (74 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Green+Isaac</link>
-      <guid isPermaLink="false">Frippertron-1697711784--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Green Isaac</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/195e793d22dc7ff3dbc739ee65063229.png" length="159791" type="image/png"/>
-      <pubDate>Thu, 19 Oct 2023 06:36:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Oct 2023 05:27:57 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Here On The Eerie (43 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Here+On+The+Eerie</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1697778338--Jeff Wayne---Forever Autumn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78e0628828a915b0f065bf9be8a5ce83.jpg" length="27875" type="image/jpeg"/>
       <pubDate>Fri, 20 Oct 2023 01:05:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jeff Wayne - Thunder Child (8 plays)</title>
+      <link>https://www.last.fm/music/Jeff+Wayne/_/Thunder+Child</link>
+      <guid isPermaLink="false">Frippertron-1697778816--Jeff Wayne---Thunder Child</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78e0628828a915b0f065bf9be8a5ce83.jpg" length="27875" type="image/jpeg"/>
+      <pubDate>Fri, 20 Oct 2023 01:13:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jeff Wayne - The Red Weed (Part 1) (8 plays)</title>
+      <link>https://www.last.fm/music/Jeff+Wayne/_/The+Red+Weed+(Part+1)</link>
+      <guid isPermaLink="false">Frippertron-1697779195--Jeff Wayne---The Red Weed (Part 1)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78e0628828a915b0f065bf9be8a5ce83.jpg" length="27875" type="image/jpeg"/>
+      <pubDate>Fri, 20 Oct 2023 01:19:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
