@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Oct 2023 07:26:36 +0000</lastBuildDate>
-    <item>
-      <title>Bill Withers - The Same Love That Made Me Laugh (1 play)</title>
-      <link>https://www.last.fm/music/Bill+Withers/_/The+Same+Love+That+Made+Me+Laugh</link>
-      <guid isPermaLink="false">Frippertron-1697995115--fd1a2d9d-9bb6-44de-83a3-41560658aba9---The Same Love That Made Me Laugh</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02722028dba9a23b1e9a4e7f9c695341.png" length="195252" type="image/png"/>
-      <pubDate>Sun, 22 Oct 2023 13:18:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bill Withers - Stories (1 play)</title>
-      <link>https://www.last.fm/music/Bill+Withers/_/Stories</link>
-      <guid isPermaLink="false">Frippertron-1697995322--fd1a2d9d-9bb6-44de-83a3-41560658aba9---Stories</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02722028dba9a23b1e9a4e7f9c695341.png" length="195252" type="image/png"/>
-      <pubDate>Sun, 22 Oct 2023 13:22:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Oct 2023 07:38:45 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Echoes (77 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Echoes</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1698045854--James Brown---Brother Rapp</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71e2fb627a584108c104948d4b02d4d6.png" length="44116" type="image/png"/>
       <pubDate>Mon, 23 Oct 2023 03:24:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Brown - Ain't It Funky Now (3 plays)</title>
+      <link>https://www.last.fm/music/James+Brown/_/Ain%27t+It+Funky+Now</link>
+      <guid isPermaLink="false">Frippertron-1698046040--James Brown---Ain't It Funky Now</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71e2fb627a584108c104948d4b02d4d6.png" length="44116" type="image/png"/>
+      <pubDate>Mon, 23 Oct 2023 03:27:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Brown - Georgia On My Mind (2 plays)</title>
+      <link>https://www.last.fm/music/James+Brown/_/Georgia+On+My+Mind</link>
+      <guid isPermaLink="false">Frippertron-1698046378--James Brown---Georgia On My Mind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71e2fb627a584108c104948d4b02d4d6.png" length="44116" type="image/png"/>
+      <pubDate>Mon, 23 Oct 2023 03:32:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
