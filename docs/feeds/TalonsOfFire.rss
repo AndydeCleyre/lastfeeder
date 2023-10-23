@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Oct 2023 14:16:11 +0000</lastBuildDate>
-    <item>
-      <title>Björk - Hunter (4 plays)</title>
-      <link>https://www.last.fm/music/Bj%C3%B6rk/_/Hunter</link>
-      <guid isPermaLink="false">TalonsOfFire-1697139340--87c5dedd-371d-4a53-9f7f-80522fb7f3cb---Hunter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6b4122bb1dd46eea23e64e7317ee2bf.png" length="169931" type="image/png"/>
-      <pubDate>Thu, 12 Oct 2023 15:35:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Björk - Unravel (7 plays)</title>
-      <link>https://www.last.fm/music/Bj%C3%B6rk/_/Unravel</link>
-      <guid isPermaLink="false">TalonsOfFire-1697139351--87c5dedd-371d-4a53-9f7f-80522fb7f3cb---Unravel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6b4122bb1dd46eea23e64e7317ee2bf.png" length="169931" type="image/png"/>
-      <pubDate>Thu, 12 Oct 2023 15:35:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Oct 2023 15:16:36 +0000</lastBuildDate>
     <item>
       <title>Björk - Unravel (7 plays)</title>
       <link>https://www.last.fm/music/Bj%C3%B6rk/_/Unravel</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1697556128--3a51b862-0144-40f6-aa17-6aaeefea29d9---Staircase</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c57f603a1ebcbaeb31ddcb322b641919.jpg" length="11774" type="image/jpeg"/>
       <pubDate>Tue, 17 Oct 2023 11:22:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alcest - Printemps émeraude (2 plays)</title>
+      <link>https://www.last.fm/music/Alcest/_/Printemps+%C3%A9meraude</link>
+      <guid isPermaLink="false">TalonsOfFire-1698070558--Alcest---Printemps émeraude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f21e1571f83b48f2c8fbb3a6e495e365.png" length="153591" type="image/png"/>
+      <pubDate>Mon, 23 Oct 2023 10:15:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alcest - Souvenirs d'un autre monde (11 plays)</title>
+      <link>https://www.last.fm/music/Alcest/_/Souvenirs+d%27un+autre+monde</link>
+      <guid isPermaLink="false">TalonsOfFire-1698073803--dd77b8da-cdc7-46b8-8a7f-10894ca0490e---Souvenirs d'un autre monde</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f21e1571f83b48f2c8fbb3a6e495e365.png" length="153591" type="image/png"/>
+      <pubDate>Mon, 23 Oct 2023 11:10:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
