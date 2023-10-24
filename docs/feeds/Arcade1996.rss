@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Oct 2023 10:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Sampha - Blood on Me (14 plays)</title>
-      <link>https://www.last.fm/music/Sampha/_/Blood+on+Me</link>
-      <guid isPermaLink="false">Arcade1996-1698020428--130c2184-14f2-4180-a216-04b5a333be57---Blood on Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61b45bdb8945fada07d6b7dedcfc49c6.jpg" length="12360" type="image/jpeg"/>
-      <pubDate>Sun, 22 Oct 2023 20:20:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Hoodoo Gurus - Come Anytime (9 plays)</title>
-      <link>https://www.last.fm/music/Hoodoo+Gurus/_/Come+Anytime</link>
-      <guid isPermaLink="false">Arcade1996-1698020676--ce382524-3f9b-461a-9202-60041105741c---Come Anytime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbf72d8e14e1440c83405e9a7e0e3db0.jpg" length="40684" type="image/jpeg"/>
-      <pubDate>Sun, 22 Oct 2023 20:24:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>TisaKorean - Rando (9 plays)</title>
-      <link>https://www.last.fm/music/TisaKorean/_/Rando</link>
-      <guid isPermaLink="false">Arcade1996-1698020877--c93c472c-3180-40e1-bd3b-e99f436988fa---Rando</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33f82dd126205862e480befb33caf8e9.png" length="90579" type="image/png"/>
-      <pubDate>Sun, 22 Oct 2023 20:27:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Oct 2023 13:24:40 +0000</lastBuildDate>
     <item>
       <title>Ratboys - Black Earth, WI (6 plays)</title>
       <link>https://www.last.fm/music/Ratboys/_/Black+Earth,+WI</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Arcade1996-1698143436--423a85de-66ba-4113-abdc-ba2678ee89ba---Black Earth, WI</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b74337277efc1ccbf3b00027a018cbb.jpg" length="24799" type="image/jpeg"/>
       <pubDate>Tue, 24 Oct 2023 06:30:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Big Rig (5 plays)</title>
+      <link>https://www.last.fm/music/Pigs+Pigs+Pigs+Pigs+Pigs+Pigs+Pigs/_/Big+Rig</link>
+      <guid isPermaLink="false">Arcade1996-1698143951--611c226a-6eda-486a-ab1c-cd8573e68c00---Big Rig</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc4ecd396a148e02fd0492ab58fb653b.jpg" length="23667" type="image/jpeg"/>
+      <pubDate>Tue, 24 Oct 2023 06:39:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>e-freq - State Of Peace (1 play)</title>
+      <link>https://www.last.fm/music/e-freq/_/State+Of+Peace</link>
+      <guid isPermaLink="false">Arcade1996-1698152814--e-freq---State Of Peace</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 24 Oct 2023 09:06:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grouper - Headache (4 plays)</title>
+      <link>https://www.last.fm/music/Grouper/_/Headache</link>
+      <guid isPermaLink="false">Arcade1996-1698153339--7e571e09-887e-4544-b993-eb75e7837ec1---Headache</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1902782a126dc58bc79a17022dde5455.png" length="103452" type="image/png"/>
+      <pubDate>Tue, 24 Oct 2023 09:15:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
