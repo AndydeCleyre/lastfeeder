@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Oct 2023 11:24:44 +0000</lastBuildDate>
-    <item>
-      <title>Sampha - Suspended (1 play)</title>
-      <link>https://www.last.fm/music/Sampha/_/Suspended</link>
-      <guid isPermaLink="false">rockijosh-1698087004--130c2184-14f2-4180-a216-04b5a333be57---Suspended</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44ea435ee3d95f5142a6fbdde6fe6939.jpg" length="14552" type="image/jpeg"/>
-      <pubDate>Mon, 23 Oct 2023 14:50:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Chainsmokers - Think Of Us (1 play)</title>
-      <link>https://www.last.fm/music/The+Chainsmokers/_/Think+Of+Us</link>
-      <guid isPermaLink="false">rockijosh-1698087191--91a81925-92f9-4fc9-b897-93cf01226282---Think Of Us</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f379d1fd9285218882eb3bbbfe4a291.jpg" length="14773" type="image/jpeg"/>
-      <pubDate>Mon, 23 Oct 2023 14:53:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>City Girls - Work For It (1 play)</title>
-      <link>https://www.last.fm/music/City+Girls/_/Work+For+It</link>
-      <guid isPermaLink="false">rockijosh-1698087362--City Girls---Work For It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ded16286e911f4978797d7f96f330b4.jpg" length="32242" type="image/jpeg"/>
-      <pubDate>Mon, 23 Oct 2023 14:56:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Caroline Polachek - Dang (1 play)</title>
-      <link>https://www.last.fm/music/Caroline+Polachek/_/Dang</link>
-      <guid isPermaLink="false">rockijosh-1698087469--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Dang</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d455cd55bc9cced5f241f875c38484b.jpg" length="12995" type="image/jpeg"/>
-      <pubDate>Mon, 23 Oct 2023 14:57:49 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Oct 2023 11:37:19 +0000</lastBuildDate>
     <item>
       <title>Slayyyter - Monster - Spotify Singles (1 play)</title>
       <link>https://www.last.fm/music/Slayyyter/_/Monster+-+Spotify+Singles</link>
@@ -352,11 +324,39 @@
       <pubDate>Tue, 24 Oct 2023 05:57:43 -0400</pubDate>
     </item>
     <item>
-      <title>Heartsteel - PARANOIA (1 play)</title>
+      <title>Heartsteel - PARANOIA (3 plays)</title>
       <link>https://www.last.fm/music/Heartsteel/_/PARANOIA</link>
       <guid isPermaLink="false">rockijosh-1698146045--Heartsteel---PARANOIA</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1d8f288c94015dd9db18591a08d3326.jpg" length="29941" type="image/jpeg"/>
       <pubDate>Tue, 24 Oct 2023 07:14:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Connor Price - Marathon (1 play)</title>
+      <link>https://www.last.fm/music/Connor+Price/_/Marathon</link>
+      <guid isPermaLink="false">rockijosh-1698146575--Connor Price---Marathon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/baf4222a0e615b91be5f1342060846aa.jpg" length="14856" type="image/jpeg"/>
+      <pubDate>Tue, 24 Oct 2023 07:22:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Heartsteel - PARANOIA (3 plays)</title>
+      <link>https://www.last.fm/music/Heartsteel/_/PARANOIA</link>
+      <guid isPermaLink="false">rockijosh-1698146711--Heartsteel---PARANOIA</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1d8f288c94015dd9db18591a08d3326.jpg" length="29941" type="image/jpeg"/>
+      <pubDate>Tue, 24 Oct 2023 07:25:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Heartsteel - PARANOIA (3 plays)</title>
+      <link>https://www.last.fm/music/Heartsteel/_/PARANOIA</link>
+      <guid isPermaLink="false">rockijosh-1698146912--Heartsteel---PARANOIA</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1d8f288c94015dd9db18591a08d3326.jpg" length="29941" type="image/jpeg"/>
+      <pubDate>Tue, 24 Oct 2023 07:28:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Laura Stevenson - Torch Song (210 plays)</title>
+      <link>https://www.last.fm/music/Laura+Stevenson/_/Torch+Song</link>
+      <guid isPermaLink="false">rockijosh-1698147141--70b166d1-b511-49f1-ad15-8b94603515d5---Torch Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c808cbcb5cc8a77dee499bc1b321e82.jpg" length="18039" type="image/jpeg"/>
+      <pubDate>Tue, 24 Oct 2023 07:32:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
