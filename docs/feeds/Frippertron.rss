@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 05:28:03 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - When The Angels (86 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/When+The+Angels</link>
-      <guid isPermaLink="false">Frippertron-1698057446--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---When The Angels</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8970aa3b488e88cf7be0d7117be7c78c.jpg" length="24641" type="image/jpeg"/>
-      <pubDate>Mon, 23 Oct 2023 06:37:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Fearless (54 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
-      <guid isPermaLink="false">Frippertron-1698058411--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
-      <pubDate>Mon, 23 Oct 2023 06:53:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Oct 2023 05:39:56 +0000</lastBuildDate>
     <item>
       <title>Scott Walker - Angels of Ashes (67 plays)</title>
       <link>https://www.last.fm/music/Scott+Walker/_/Angels+of+Ashes</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1698211549--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---I'm Going Slightly Mad</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b56adcd16ca6454498981a8470a3ec06.png" length="120363" type="image/png"/>
       <pubDate>Wed, 25 Oct 2023 01:25:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Don't Try So Hard (9 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Don%27t+Try+So+Hard</link>
+      <guid isPermaLink="false">Frippertron-1698211922--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Don't Try So Hard</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b56adcd16ca6454498981a8470a3ec06.png" length="120363" type="image/png"/>
+      <pubDate>Wed, 25 Oct 2023 01:32:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Bijou (5 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Bijou</link>
+      <guid isPermaLink="false">Frippertron-1698212157--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Bijou</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b56adcd16ca6454498981a8470a3ec06.png" length="120363" type="image/png"/>
+      <pubDate>Wed, 25 Oct 2023 01:35:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
