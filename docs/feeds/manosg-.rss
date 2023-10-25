@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 12:30:43 +0000</lastBuildDate>
-    <item>
-      <title>Motörhead - Runaround Man (1 play)</title>
-      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Runaround+Man</link>
-      <guid isPermaLink="false">manosg--1698063981--57961a97-3796-4bf7-9f02-a985a8979ae9---Runaround Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d26fba5fe1e4a9a943c672f46e07f24.jpg" length="28188" type="image/jpeg"/>
-      <pubDate>Mon, 23 Oct 2023 08:26:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Oct 2023 12:59:02 +0000</lastBuildDate>
     <item>
       <title>Motörhead - Teach You How to Sing the Blues (1 play)</title>
       <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Teach+You+How+to+Sing+the+Blues</link>
@@ -264,6 +257,7 @@
       <title>Jamiroquai - When You Gonna Learn? - Cante Hondo Mix (1 play)</title>
       <link>https://www.last.fm/music/Jamiroquai/_/When+You+Gonna+Learn%3F+-+Cante+Hondo+Mix</link>
       <guid isPermaLink="false">manosg--1698218748--f4857fb9-e255-4dc6-bd01-e4ca7cc68544---When You Gonna Learn? - Cante Hondo Mix</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f914b94a9d0ea7ef737efa017324261e.png" length="20584" type="image/png"/>
       <pubDate>Wed, 25 Oct 2023 03:25:48 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1698235975--Weald &amp; Woe---Bless The Stone</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8868ec01f262512567df7e081add0e2e.jpg" length="24597" type="image/jpeg"/>
       <pubDate>Wed, 25 Oct 2023 08:12:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Weald &amp; Woe - Fire, Steel and Flesh (1 play)</title>
+      <link>https://www.last.fm/music/Weald+&amp;+Woe/_/Fire,+Steel+and+Flesh</link>
+      <guid isPermaLink="false">manosg--1698236318--Weald &amp; Woe---Fire, Steel and Flesh</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8868ec01f262512567df7e081add0e2e.jpg" length="24597" type="image/jpeg"/>
+      <pubDate>Wed, 25 Oct 2023 08:18:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
