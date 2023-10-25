@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 21:26:35 +0000</lastBuildDate>
-    <item>
-      <title>boygenius - Black Hole (2 plays)</title>
-      <link>https://www.last.fm/music/boygenius/_/Black+Hole</link>
-      <guid isPermaLink="false">TalonsOfFire-1697214434--3ceeddbd-fba5-4bdb-99f7-2d028ed5afda---Black Hole</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e31fa6256e0dc65b50ca3864459e9451.jpg" length="11590" type="image/jpeg"/>
-      <pubDate>Fri, 13 Oct 2023 12:27:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>boygenius - Afraid of Heights (2 plays)</title>
-      <link>https://www.last.fm/music/boygenius/_/Afraid+of+Heights</link>
-      <guid isPermaLink="false">TalonsOfFire-1697214574--3ceeddbd-fba5-4bdb-99f7-2d028ed5afda---Afraid of Heights</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e31fa6256e0dc65b50ca3864459e9451.jpg" length="11590" type="image/jpeg"/>
-      <pubDate>Fri, 13 Oct 2023 12:29:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Oct 2023 21:38:19 +0000</lastBuildDate>
     <item>
       <title>boygenius - Black Hole (2 plays)</title>
       <link>https://www.last.fm/music/boygenius/_/Black+Hole</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1698268685--78471616-3cb4-4139-a148-aeac3c7d0f79---Can You Hear the Music</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
       <pubDate>Wed, 25 Oct 2023 17:18:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ludwig Göransson - A Lowly Shoe Salesman (1 play)</title>
+      <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/A+Lowly+Shoe+Salesman</link>
+      <guid isPermaLink="false">TalonsOfFire-1698268796--78471616-3cb4-4139-a148-aeac3c7d0f79---A Lowly Shoe Salesman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
+      <pubDate>Wed, 25 Oct 2023 17:19:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ludwig Göransson - Quantum Mechanics (1 play)</title>
+      <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Quantum+Mechanics</link>
+      <guid isPermaLink="false">TalonsOfFire-1698269701--78471616-3cb4-4139-a148-aeac3c7d0f79---Quantum Mechanics</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
+      <pubDate>Wed, 25 Oct 2023 17:35:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
