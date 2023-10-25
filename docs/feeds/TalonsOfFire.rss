@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 21:15:28 +0000</lastBuildDate>
-    <item>
-      <title>Björk - Enjoy (3 plays)</title>
-      <link>https://www.last.fm/music/Bj%C3%B6rk/_/Enjoy</link>
-      <guid isPermaLink="false">TalonsOfFire-1697152642--87c5dedd-371d-4a53-9f7f-80522fb7f3cb---Enjoy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ef2b4e3f6399166bee68b27f875a5cb.jpg" length="25728" type="image/jpeg"/>
-      <pubDate>Thu, 12 Oct 2023 19:17:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Björk - You've Been Flirting Again (2 plays)</title>
-      <link>https://www.last.fm/music/Bj%C3%B6rk/_/You%27ve+Been+Flirting+Again</link>
-      <guid isPermaLink="false">TalonsOfFire-1697152791--87c5dedd-371d-4a53-9f7f-80522fb7f3cb---You've Been Flirting Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ef2b4e3f6399166bee68b27f875a5cb.jpg" length="25728" type="image/jpeg"/>
-      <pubDate>Thu, 12 Oct 2023 19:19:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Oct 2023 21:26:35 +0000</lastBuildDate>
     <item>
       <title>boygenius - Black Hole (2 plays)</title>
       <link>https://www.last.fm/music/boygenius/_/Black+Hole</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1698267832--78471616-3cb4-4139-a148-aeac3c7d0f79---Ancestral Plane</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a89b7cd4dcb9dec10f5c0cd4a6f162ca.jpg" length="32444" type="image/jpeg"/>
       <pubDate>Wed, 25 Oct 2023 17:03:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ludwig Göransson - Fission (1 play)</title>
+      <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Fission</link>
+      <guid isPermaLink="false">TalonsOfFire-1698268121--78471616-3cb4-4139-a148-aeac3c7d0f79---Fission</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
+      <pubDate>Wed, 25 Oct 2023 17:08:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ludwig Göransson - Can You Hear the Music (1 play)</title>
+      <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Can+You+Hear+the+Music</link>
+      <guid isPermaLink="false">TalonsOfFire-1698268685--78471616-3cb4-4139-a148-aeac3c7d0f79---Can You Hear the Music</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
+      <pubDate>Wed, 25 Oct 2023 17:18:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
