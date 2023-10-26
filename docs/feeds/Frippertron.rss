@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Oct 2023 07:26:36 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Editions of You (85 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
-      <guid isPermaLink="false">Frippertron-1698286323--331ce348-1b08-40b9-8ed7-0763b92bd003---Editions of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Wed, 25 Oct 2023 22:12:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - The Bogus Man (22 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/The+Bogus+Man</link>
-      <guid isPermaLink="false">Frippertron-1698286562--331ce348-1b08-40b9-8ed7-0763b92bd003---The Bogus Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Wed, 25 Oct 2023 22:16:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Grey Lagoons (10 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Grey+Lagoons</link>
-      <guid isPermaLink="false">Frippertron-1698287125--331ce348-1b08-40b9-8ed7-0763b92bd003---Grey Lagoons</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Wed, 25 Oct 2023 22:25:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Oct 2023 07:38:42 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - For Your Pleasure (22 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/For+Your+Pleasure</link>
@@ -264,7 +243,6 @@
       <title>Barry White - Never Never Gonna Give Ya Up (15 plays)</title>
       <link>https://www.last.fm/music/Barry+White/_/Never+Never+Gonna+Give+Ya+Up</link>
       <guid isPermaLink="false">Frippertron-1698296952--b904d624-9e05-4398-8f4f-88fbcf022f79---Never Never Gonna Give Ya Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4adf6e72e94c4a91855b039438f44912.png" length="156285" type="image/png"/>
       <pubDate>Thu, 26 Oct 2023 01:09:12 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">Frippertron-1698304885--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Was It All Worth It</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d0adaf4dbb8f3b74536615cd463392.png" length="173779" type="image/png"/>
       <pubDate>Thu, 26 Oct 2023 03:21:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Jailhouse Rock (22 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Jailhouse+Rock</link>
+      <guid isPermaLink="false">Frippertron-1698305253--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Jailhouse Rock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 26 Oct 2023 03:27:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - We Will Rock You (fast) (42 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/We+Will+Rock+You+(fast)</link>
+      <guid isPermaLink="false">Frippertron-1698305354--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---We Will Rock You (fast)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 26 Oct 2023 03:29:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Let Me Entertain You (67 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Let+Me+Entertain+You</link>
+      <guid isPermaLink="false">Frippertron-1698305533--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Let Me Entertain You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 26 Oct 2023 03:32:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
