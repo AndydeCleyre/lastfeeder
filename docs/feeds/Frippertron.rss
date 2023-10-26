@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Oct 2023 19:12:11 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Was It All Worth It (8 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Was+It+All+Worth+It</link>
-      <guid isPermaLink="false">Frippertron-1698304885--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Was It All Worth It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d0adaf4dbb8f3b74536615cd463392.png" length="173779" type="image/png"/>
-      <pubDate>Thu, 26 Oct 2023 03:21:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - Jailhouse Rock (22 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Jailhouse+Rock</link>
-      <guid isPermaLink="false">Frippertron-1698305253--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Jailhouse Rock</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 26 Oct 2023 03:27:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Oct 2023 19:24:21 +0000</lastBuildDate>
     <item>
       <title>Queen - We Will Rock You (fast) (42 plays)</title>
       <link>https://www.last.fm/music/Queen/_/We+Will+Rock+You+(fast)</link>
@@ -212,7 +198,7 @@
       <pubDate>Thu, 26 Oct 2023 05:51:11 -0400</pubDate>
     </item>
     <item>
-      <title>Queen - Radio Ga Ga (27 plays)</title>
+      <title>Queen - Radio Ga Ga</title>
       <link>https://www.last.fm/music/Queen/_/Radio+Ga+Ga</link>
       <guid isPermaLink="false">Frippertron-1698314034--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Radio Ga Ga</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1698347320--Madrugada---Hands Up, I Love You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9043cb4cb3b274e4df14e6711eb1c953.jpg" length="16202" type="image/jpeg"/>
       <pubDate>Thu, 26 Oct 2023 15:08:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hassisen Kone - Kuollut eläköön (1 play)</title>
+      <link>https://www.last.fm/music/Hassisen+Kone/_/Kuollut+el%C3%A4k%C3%B6%C3%B6n</link>
+      <guid isPermaLink="false">Frippertron-1698347616--472f9acc-1e08-433f-bcae-9ab74257180f---Kuollut eläköön</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f310db04c8654b23cb39b82a9d8332c3.jpg" length="17137" type="image/jpeg"/>
+      <pubDate>Thu, 26 Oct 2023 15:13:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Go! Team - The Power Is On (1 play)</title>
+      <link>https://www.last.fm/music/The+Go!+Team/_/The+Power+Is+On</link>
+      <guid isPermaLink="false">Frippertron-1698347913--8a396a9c-2e4f-47e2-a587-c26e93a0953f---The Power Is On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11421ccb37594b389f704247c3cabbdf.png" length="175752" type="image/png"/>
+      <pubDate>Thu, 26 Oct 2023 15:18:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
