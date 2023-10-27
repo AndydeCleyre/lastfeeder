@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Oct 2023 19:37:25 +0000</lastBuildDate>
-    <item>
-      <title>Loomington - Dilemma (1 play)</title>
-      <link>https://www.last.fm/music/Loomington/_/Dilemma</link>
-      <guid isPermaLink="false">ddgromit-1698192487--Loomington---Dilemma</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 24 Oct 2023 20:08:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sarent - Coffee Shop (1 play)</title>
-      <link>https://www.last.fm/music/Sarent/_/Coffee+Shop</link>
-      <guid isPermaLink="false">ddgromit-1698192606--Sarent---Coffee Shop</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 24 Oct 2023 20:10:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Oct 2023 19:52:41 +0000</lastBuildDate>
     <item>
       <title>Sir. Avalon - Sleepyhead (1 play)</title>
       <link>https://www.last.fm/music/Sir.+Avalon/_/Sleepyhead</link>
@@ -348,6 +334,7 @@
       <title>Gidge - Stone|Shell (3 plays)</title>
       <link>https://www.last.fm/music/Gidge/_/Stone%7CShell</link>
       <guid isPermaLink="false">ddgromit-1698434241--Gidge---Stone|Shell</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28756a73c569476fce8373b7b10c74ed.jpg" length="21955" type="image/jpeg"/>
       <pubDate>Fri, 27 Oct 2023 15:17:21 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,19 @@
       <guid isPermaLink="false">ddgromit-1698434624--c39f7db3-7910-40a8-9ae1-f4b079de7a19---Filma Solo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa531128c84a788cd04b39ca3b16d236.jpg" length="13073" type="image/jpeg"/>
       <pubDate>Fri, 27 Oct 2023 15:23:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Haiku Salut - Pattern Thinker (2 plays)</title>
+      <link>https://www.last.fm/music/Haiku+Salut/_/Pattern+Thinker</link>
+      <guid isPermaLink="false">ddgromit-1698434819--c874cf9c-e925-4a76-956c-824a1110526b---Pattern Thinker</guid>
+      <pubDate>Fri, 27 Oct 2023 15:26:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rosbeh - Oceans (4 plays)</title>
+      <link>https://www.last.fm/music/Rosbeh/_/Oceans</link>
+      <guid isPermaLink="false">ddgromit-1698435503--Rosbeh---Oceans</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/478c8b369dfeca1ff8ed21b8acfe58f7.jpg" length="15369" type="image/jpeg"/>
+      <pubDate>Fri, 27 Oct 2023 15:38:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
