@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 22:15:20 +0000</lastBuildDate>
-    <item>
-      <title>boygenius - Powers (2 plays)</title>
-      <link>https://www.last.fm/music/boygenius/_/Powers</link>
-      <guid isPermaLink="false">TalonsOfFire-1697215159--3ceeddbd-fba5-4bdb-99f7-2d028ed5afda---Powers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e31fa6256e0dc65b50ca3864459e9451.jpg" length="11590" type="image/jpeg"/>
-      <pubDate>Fri, 13 Oct 2023 12:39:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steven Wilson - Inclination (8 plays)</title>
-      <link>https://www.last.fm/music/Steven+Wilson/_/Inclination</link>
-      <guid isPermaLink="false">TalonsOfFire-1697549282--3a51b862-0144-40f6-aa17-6aaeefea29d9---Inclination</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c57f603a1ebcbaeb31ddcb322b641919.jpg" length="11774" type="image/jpeg"/>
-      <pubDate>Tue, 17 Oct 2023 09:28:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steven Wilson - What Life Brings (8 plays)</title>
-      <link>https://www.last.fm/music/Steven+Wilson/_/What+Life+Brings</link>
-      <guid isPermaLink="false">TalonsOfFire-1697549781--3a51b862-0144-40f6-aa17-6aaeefea29d9---What Life Brings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c57f603a1ebcbaeb31ddcb322b641919.jpg" length="11774" type="image/jpeg"/>
-      <pubDate>Tue, 17 Oct 2023 09:36:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Oct 2023 19:23:30 +0000</lastBuildDate>
     <item>
       <title>Steven Wilson - Inclination (8 plays)</title>
       <link>https://www.last.fm/music/Steven+Wilson/_/Inclination</link>
@@ -338,25 +317,46 @@
       <pubDate>Wed, 25 Oct 2023 17:41:32 -0400</pubDate>
     </item>
     <item>
-      <title>Ludwig Göransson - Groves (1 play)</title>
+      <title>Ludwig Göransson - Groves (2 plays)</title>
       <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Groves</link>
       <guid isPermaLink="false">TalonsOfFire-1698270439--78471616-3cb4-4139-a148-aeac3c7d0f79---Groves</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
       <pubDate>Wed, 25 Oct 2023 17:47:19 -0400</pubDate>
     </item>
     <item>
-      <title>Ludwig Göransson - Destroyer of Worlds (1 play)</title>
+      <title>Ludwig Göransson - Groves (2 plays)</title>
+      <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Groves</link>
+      <guid isPermaLink="false">TalonsOfFire-1698270623--78471616-3cb4-4139-a148-aeac3c7d0f79---Groves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
+      <pubDate>Wed, 25 Oct 2023 17:50:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ludwig Göransson - Destroyer of Worlds (2 plays)</title>
       <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Destroyer+of+Worlds</link>
       <guid isPermaLink="false">TalonsOfFire-1698270647--78471616-3cb4-4139-a148-aeac3c7d0f79---Destroyer of Worlds</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
       <pubDate>Wed, 25 Oct 2023 17:50:47 -0400</pubDate>
     </item>
     <item>
-      <title>Ludwig Göransson - Oppenheimer (1 play)</title>
+      <title>Ludwig Göransson - Destroyer of Worlds (2 plays)</title>
+      <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Destroyer+of+Worlds</link>
+      <guid isPermaLink="false">TalonsOfFire-1698270820--78471616-3cb4-4139-a148-aeac3c7d0f79---Destroyer of Worlds</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
+      <pubDate>Wed, 25 Oct 2023 17:53:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ludwig Göransson - Oppenheimer (2 plays)</title>
       <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Oppenheimer</link>
       <guid isPermaLink="false">TalonsOfFire-1698270820--78471616-3cb4-4139-a148-aeac3c7d0f79---Oppenheimer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
       <pubDate>Wed, 25 Oct 2023 17:53:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ludwig Göransson - Oppenheimer (2 plays)</title>
+      <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Oppenheimer</link>
+      <guid isPermaLink="false">TalonsOfFire-1698270957--78471616-3cb4-4139-a148-aeac3c7d0f79---Oppenheimer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c475a74a11d2c536aee7b705f9e61c.jpg" length="20867" type="image/jpeg"/>
+      <pubDate>Wed, 25 Oct 2023 17:55:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
