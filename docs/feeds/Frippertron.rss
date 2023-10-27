@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Oct 2023 05:27:37 +0000</lastBuildDate>
-    <item>
-      <title>Cassiano - De Bar Em Bar (1 play)</title>
-      <link>https://www.last.fm/music/Cassiano/_/De+Bar+Em+Bar</link>
-      <guid isPermaLink="false">Frippertron-1698346190--74a9fd54-13de-4aed-aada-31b992745865---De Bar Em Bar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/518637e13a850dd8f8879d01a74bdaed.jpg" length="23186" type="image/jpeg"/>
-      <pubDate>Thu, 26 Oct 2023 14:49:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cassiano - Salve Essa Flor (1 play)</title>
-      <link>https://www.last.fm/music/Cassiano/_/Salve+Essa+Flor</link>
-      <guid isPermaLink="false">Frippertron-1698346437--74a9fd54-13de-4aed-aada-31b992745865---Salve Essa Flor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/518637e13a850dd8f8879d01a74bdaed.jpg" length="23186" type="image/jpeg"/>
-      <pubDate>Thu, 26 Oct 2023 14:53:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Oct 2023 05:39:18 +0000</lastBuildDate>
     <item>
       <title>Cassiano - A Lua e Eu (1 play)</title>
       <link>https://www.last.fm/music/Cassiano/_/A+Lua+e+Eu</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1698384195--9190b42f-aee2-4345-83db-af8166ea6ffd---Sunshine Superman</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5029934f560672b77627282458ab608.jpg" length="38406" type="image/jpeg"/>
       <pubDate>Fri, 27 Oct 2023 01:23:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown's Kingdom Come - Time Captives (11 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown%27s+Kingdom+Come/_/Time+Captives</link>
+      <guid isPermaLink="false">Frippertron-1698384420--Arthur Brown's Kingdom Come---Time Captives</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eec56311825be52047a18299885e04f4.jpg" length="43908" type="image/jpeg"/>
+      <pubDate>Fri, 27 Oct 2023 01:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown's Kingdom Come - Triangles (6 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown%27s+Kingdom+Come/_/Triangles</link>
+      <guid isPermaLink="false">Frippertron-1698384924--Arthur Brown's Kingdom Come---Triangles</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eec56311825be52047a18299885e04f4.jpg" length="43908" type="image/jpeg"/>
+      <pubDate>Fri, 27 Oct 2023 01:35:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
