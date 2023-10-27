@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Oct 2023 07:38:51 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - The Devil Has All the Best Tunes (38 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/The+Devil+Has+All+the+Best+Tunes</link>
-      <guid isPermaLink="false">Frippertron-1698375631--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The Devil Has All the Best Tunes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b924cb29211fd3603287f70a3d9dea.jpg" length="15940" type="image/jpeg"/>
-      <pubDate>Thu, 26 Oct 2023 23:00:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - The Miracle (13 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/The+Miracle</link>
-      <guid isPermaLink="false">Frippertron-1698375907--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---The Miracle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05d0adaf4dbb8f3b74536615cd463392.png" length="173779" type="image/png"/>
-      <pubDate>Thu, 26 Oct 2023 23:05:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Oct 2023 07:52:39 +0000</lastBuildDate>
     <item>
       <title>Queen - It's Late (53 plays)</title>
       <link>https://www.last.fm/music/Queen/_/It%27s+Late</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1698392193--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Years Ago</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9903bae260baaa04c6177ebcac4b74bc.jpg" length="29213" type="image/jpeg"/>
       <pubDate>Fri, 27 Oct 2023 03:36:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Ducter (24 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Ducter</link>
+      <guid isPermaLink="false">Frippertron-1698392350--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ducter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9903bae260baaa04c6177ebcac4b74bc.jpg" length="29213" type="image/jpeg"/>
+      <pubDate>Fri, 27 Oct 2023 03:39:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>black midi - Slow (124 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Slow</link>
+      <guid isPermaLink="false">Frippertron-1698392806--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Slow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
+      <pubDate>Fri, 27 Oct 2023 03:46:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
