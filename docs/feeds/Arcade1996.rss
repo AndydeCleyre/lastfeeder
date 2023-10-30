@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Oct 2023 10:38:18 +0000</lastBuildDate>
-    <item>
-      <title>Nada Surf - Popular (1 play)</title>
-      <link>https://www.last.fm/music/Nada+Surf/_/Popular</link>
-      <guid isPermaLink="false">Arcade1996-1698552050--b9a2a9a6-7a40-48a6-bcb1-8eff5b89ad5b---Popular</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7603bba8a26d4e8d9d358e10b22c3e90.png" length="193907" type="image/png"/>
-      <pubDate>Sun, 29 Oct 2023 00:00:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Helmet - Milquetoast (1 play)</title>
-      <link>https://www.last.fm/music/Helmet/_/Milquetoast</link>
-      <guid isPermaLink="false">Arcade1996-1698552271--582fee78-d934-4603-9f5c-1729e0ca36b7---Milquetoast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74975c117216c222c5e75ddd9a9cd159.jpg" length="26593" type="image/jpeg"/>
-      <pubDate>Sun, 29 Oct 2023 00:04:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Live - Lightning Crashes (11 plays)</title>
-      <link>https://www.last.fm/music/Live/_/Lightning+Crashes</link>
-      <guid isPermaLink="false">Arcade1996-1698556225--Live---Lightning Crashes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1621e4f1b3da45a6a289ae97ce982e20.png" length="155843" type="image/png"/>
-      <pubDate>Sun, 29 Oct 2023 01:10:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Oct 2023 10:52:22 +0000</lastBuildDate>
     <item>
       <title>Green Day - When I Come Around (6 plays)</title>
       <link>https://www.last.fm/music/Green+Day/_/When+I+Come+Around</link>
@@ -303,7 +282,7 @@
       <pubDate>Sun, 29 Oct 2023 20:23:43 -0400</pubDate>
     </item>
     <item>
-      <title>Brent Faiyaz - Forever Yours (5 plays)</title>
+      <title>Brent Faiyaz - Forever Yours (6 plays)</title>
       <link>https://www.last.fm/music/Brent+Faiyaz/_/Forever+Yours</link>
       <guid isPermaLink="false">Arcade1996-1698626031--201412c6-7ced-472b-87a9-9259ec3c07d3---Forever Yours</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55d67ee97f2051afc325f4c19e42c728.jpg" length="39250" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Arcade1996-1698661912--b1865773-6b30-40e4-87bb-906bcbc45f91---Berlin Chair</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729e330cc4696931636a03319d0124e5.jpg" length="15547" type="image/jpeg"/>
       <pubDate>Mon, 30 Oct 2023 06:31:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Courtney Barnett - Avant Gardener (2 plays)</title>
+      <link>https://www.last.fm/music/Courtney+Barnett/_/Avant+Gardener</link>
+      <guid isPermaLink="false">Arcade1996-1698662068--55111838-f001-494a-a1b5-9d818db85810---Avant Gardener</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c67a36bcf8cac1d4db46d291b99f0468.jpg" length="19800" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 06:34:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Big Rig (6 plays)</title>
+      <link>https://www.last.fm/music/Pigs+Pigs+Pigs+Pigs+Pigs+Pigs+Pigs/_/Big+Rig</link>
+      <guid isPermaLink="false">Arcade1996-1698662626--611c226a-6eda-486a-ab1c-cd8573e68c00---Big Rig</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc4ecd396a148e02fd0492ab58fb653b.jpg" length="23667" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 06:43:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Brent Faiyaz - Forever Yours (6 plays)</title>
+      <link>https://www.last.fm/music/Brent+Faiyaz/_/Forever+Yours</link>
+      <guid isPermaLink="false">Arcade1996-1698663017--201412c6-7ced-472b-87a9-9259ec3c07d3---Forever Yours</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55d67ee97f2051afc325f4c19e42c728.jpg" length="39250" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 06:50:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
