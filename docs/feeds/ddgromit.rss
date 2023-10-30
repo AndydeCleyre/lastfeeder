@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Oct 2023 03:37:20 +0000</lastBuildDate>
-    <item>
-      <title>James Heather - Ultraviolet (4 plays)</title>
-      <link>https://www.last.fm/music/James+Heather/_/Ultraviolet</link>
-      <guid isPermaLink="false">ddgromit-1698431634--31786fdb-bcd9-420a-a5fe-1e3077a77820---Ultraviolet</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb6993d013dc389432107b1ac6c2ff8d.jpg" length="7611" type="image/jpeg"/>
-      <pubDate>Fri, 27 Oct 2023 14:33:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Ries - Reflect - Vocal Rework (3 plays)</title>
-      <link>https://www.last.fm/music/Peter+Ries/_/Reflect+-+Vocal+Rework</link>
-      <guid isPermaLink="false">ddgromit-1698431727--Peter Ries---Reflect - Vocal Rework</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 27 Oct 2023 14:35:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Phoria - Current (24 plays)</title>
-      <link>https://www.last.fm/music/Phoria/_/Current</link>
-      <guid isPermaLink="false">ddgromit-1698431905--42775679-dbc0-421c-b63b-9119ed42c91e---Current</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a5b023370fa56161c62398373bd1e2c1.jpg" length="25094" type="image/jpeg"/>
-      <pubDate>Fri, 27 Oct 2023 14:38:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thomas James White - A Whisper (1 play)</title>
-      <link>https://www.last.fm/music/Thomas+James+White/_/A+Whisper</link>
-      <guid isPermaLink="false">ddgromit-1698432257--Thomas James White---A Whisper</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4282ff708fa9cc1a54d04fef94d3e795.jpg" length="14293" type="image/jpeg"/>
-      <pubDate>Fri, 27 Oct 2023 14:44:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Oct 2023 20:37:48 +0000</lastBuildDate>
     <item>
       <title>Federico Albanese - Migrants (2 plays)</title>
       <link>https://www.last.fm/music/Federico+Albanese/_/Migrants</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">ddgromit-1698635953--1ffbafef-7908-44ae-a65d-9522794392dc---Stasis</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ceee580fc97bf60d30625166c4667de.jpg" length="17929" type="image/jpeg"/>
       <pubDate>Sun, 29 Oct 2023 23:19:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>DJ Shadow - Midnight in a Perfect World (4 plays)</title>
+      <link>https://www.last.fm/music/DJ+Shadow/_/Midnight+in+a+Perfect+World</link>
+      <guid isPermaLink="false">ddgromit-1698636188--efa2c11a-1a35-4b60-bc1b-66d37de88511---Midnight in a Perfect World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8792784aab5c4aeab78ad8525c1c2440.png" length="199829" type="image/png"/>
+      <pubDate>Sun, 29 Oct 2023 23:23:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Benji Lewis - Drift (10 plays)</title>
+      <link>https://www.last.fm/music/Benji+Lewis/_/Drift</link>
+      <guid isPermaLink="false">ddgromit-1698697413--4527c278-4f88-4346-9cab-799bf5cf3da3---Drift</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f2e4c67d8d12f850c1d67b0175a889bd.jpg" length="6671" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 16:23:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Khruangbin - Chocolate Hills (3 plays)</title>
+      <link>https://www.last.fm/music/Khruangbin/_/Chocolate+Hills</link>
+      <guid isPermaLink="false">ddgromit-1698697637--aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634---Chocolate Hills</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1abd41b69b5f00d7030c97ef5d2803fb.jpg" length="23091" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 16:27:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>BADBADNOTGOOD - In Your Eyes (10 plays)</title>
+      <link>https://www.last.fm/music/BADBADNOTGOOD/_/In+Your+Eyes</link>
+      <guid isPermaLink="false">ddgromit-1698697828--754294d5-d7d2-4ea2-8184-1dcaaf55a56f---In Your Eyes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee6a03301fe2bfc3f5f75645e49a2c5c.jpg" length="22501" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 16:30:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
