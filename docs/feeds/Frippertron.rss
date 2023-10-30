@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Oct 2023 04:19:06 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - White Light/White Heat (46 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/White+Light%2FWhite+Heat</link>
-      <guid isPermaLink="false">Frippertron-1698399919--5441c29d-3602-4898-b1a1-b77fa23b8e50---White Light/White Heat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Fri, 27 Oct 2023 05:45:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Ziggy Stardust (127 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Ziggy+Stardust</link>
-      <guid isPermaLink="false">Frippertron-1698400150--5441c29d-3602-4898-b1a1-b77fa23b8e50---Ziggy Stardust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Fri, 27 Oct 2023 05:49:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Oct 2023 04:37:44 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Changes (142 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Changes</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1698638208--719db6b1-0d91-458c-8d18-875ec44105bf---Wave</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c467ec626bf640c69ac572178cc9f97a.png" length="230221" type="image/png"/>
       <pubDate>Sun, 29 Oct 2023 23:56:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stone Roses - Fools Gold (1 play)</title>
+      <link>https://www.last.fm/music/The+Stone+Roses/_/Fools+Gold</link>
+      <guid isPermaLink="false">Frippertron-1698639495--b5fa29f1-6c22-4321-a488-b5f363b06b06---Fools Gold</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/568c061ead41494cc92522ef0af92c32.jpg" length="37238" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 00:18:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Stone Roses - I Am the Resurrection (1 play)</title>
+      <link>https://www.last.fm/music/The+Stone+Roses/_/I+Am+the+Resurrection</link>
+      <guid isPermaLink="false">Frippertron-1698640106--b5fa29f1-6c22-4321-a488-b5f363b06b06---I Am the Resurrection</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/568c061ead41494cc92522ef0af92c32.jpg" length="37238" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 00:28:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
