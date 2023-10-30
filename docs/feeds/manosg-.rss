@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Oct 2023 13:37:45 +0000</lastBuildDate>
-    <item>
-      <title>Lenny Kravitz - I Belong to You (1 play)</title>
-      <link>https://www.last.fm/music/Lenny+Kravitz/_/I+Belong+to+You</link>
-      <guid isPermaLink="false">manosg--1698514856--0ef3f425-9bd2-4216-9dd2-219d2fe90f1f---I Belong to You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3178b5958f3c20f5d8a312161b085f00.jpg" length="13519" type="image/jpeg"/>
-      <pubDate>Sat, 28 Oct 2023 13:40:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Oct 2023 13:52:20 +0000</lastBuildDate>
     <item>
       <title>Lenny Kravitz - Mr. Cab Driver (1 play)</title>
       <link>https://www.last.fm/music/Lenny+Kravitz/_/Mr.+Cab+Driver</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1698672331--UFO---Love To Love - 2020 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce73099d547585c6b18d6b1ec22d12d2.jpg" length="43766" type="image/jpeg"/>
       <pubDate>Mon, 30 Oct 2023 09:25:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>UFO - Rock Bottom - 2020 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/UFO/_/Rock+Bottom+-+2020+Remaster</link>
+      <guid isPermaLink="false">manosg--1698672869--UFO---Rock Bottom - 2020 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce73099d547585c6b18d6b1ec22d12d2.jpg" length="43766" type="image/jpeg"/>
+      <pubDate>Mon, 30 Oct 2023 09:34:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
