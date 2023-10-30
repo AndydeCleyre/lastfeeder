@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Oct 2023 05:28:55 +0000</lastBuildDate>
-    <item>
-      <title>Cassiano - Coleção (4 plays)</title>
-      <link>https://www.last.fm/music/Cassiano/_/Cole%C3%A7%C3%A3o</link>
-      <guid isPermaLink="false">Frippertron-1698606695--74a9fd54-13de-4aed-aada-31b992745865---Coleção</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/518637e13a850dd8f8879d01a74bdaed.jpg" length="23186" type="image/jpeg"/>
-      <pubDate>Sun, 29 Oct 2023 15:11:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUCK-TICK - スピード (1 play)</title>
-      <link>https://www.last.fm/music/BUCK-TICK/_/%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89</link>
-      <guid isPermaLink="false">Frippertron-1698606794--BUCK-TICK---スピード</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8cf708c235fae70c8079be191d4e1841.png" length="176074" type="image/png"/>
-      <pubDate>Sun, 29 Oct 2023 15:13:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Oct 2023 05:40:49 +0000</lastBuildDate>
     <item>
       <title>BUCK-TICK - MACHINE (1 play)</title>
       <link>https://www.last.fm/music/BUCK-TICK/_/MACHINE</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1698643625--8153c6ef-026c-481f-b081-974f2c948d9f---Back Stabbers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27a8380398269f7507ad46e6e9062bf8.jpg" length="23052" type="image/jpeg"/>
       <pubDate>Mon, 30 Oct 2023 01:27:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chico Buarque - Deus Lhe Pague (45 plays)</title>
+      <link>https://www.last.fm/music/Chico+Buarque/_/Deus+Lhe+Pague</link>
+      <guid isPermaLink="false">Frippertron-1698643814--3a5d1cc7-627e-48ea-aba3-fdd20d782c33---Deus Lhe Pague</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b47929a57fc4a51fd2e4b2569af7899f.png" length="79168" type="image/png"/>
+      <pubDate>Mon, 30 Oct 2023 01:30:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chico Buarque - Construção (22 plays)</title>
+      <link>https://www.last.fm/music/Chico+Buarque/_/Constru%C3%A7%C3%A3o</link>
+      <guid isPermaLink="false">Frippertron-1698644013--3a5d1cc7-627e-48ea-aba3-fdd20d782c33---Construção</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b47929a57fc4a51fd2e4b2569af7899f.png" length="79168" type="image/png"/>
+      <pubDate>Mon, 30 Oct 2023 01:33:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
