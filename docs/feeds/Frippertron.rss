@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Oct 2023 04:37:22 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Starman (106 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Starman</link>
-      <guid isPermaLink="false">Frippertron-1698655409--5441c29d-3602-4898-b1a1-b77fa23b8e50---Starman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Mon, 30 Oct 2023 04:43:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Space Oddity (103 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Space+Oddity</link>
-      <guid isPermaLink="false">Frippertron-1698655657--5441c29d-3602-4898-b1a1-b77fa23b8e50---Space Oddity</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Mon, 30 Oct 2023 04:47:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Changes (143 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Changes</link>
-      <guid isPermaLink="false">Frippertron-1698655915--5441c29d-3602-4898-b1a1-b77fa23b8e50---Changes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Mon, 30 Oct 2023 04:51:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Oh! You Pretty Things (68 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Oh!+You+Pretty+Things</link>
-      <guid isPermaLink="false">Frippertron-1698656127--5441c29d-3602-4898-b1a1-b77fa23b8e50---Oh! You Pretty Things</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Mon, 30 Oct 2023 04:55:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Oct 2023 04:52:23 +0000</lastBuildDate>
     <item>
       <title>Leonard Cohen - Avalanche (25 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Avalanche</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1698726584--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Somebody to Love</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffead92d331e4c25cc687fe421c5865a.png" length="176969" type="image/png"/>
       <pubDate>Tue, 31 Oct 2023 00:29:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown - Prelude/Nightmare (22 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown/_/Prelude%2FNightmare</link>
+      <guid isPermaLink="false">Frippertron-1698727086--Arthur Brown---Prelude/Nightmare</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e63c01cf52f4fcaddfa571b31007d4af.png" length="186038" type="image/png"/>
+      <pubDate>Tue, 31 Oct 2023 00:38:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown - Fanfare/Fire Poem (32 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown/_/Fanfare%2FFire+Poem</link>
+      <guid isPermaLink="false">Frippertron-1698727296--Arthur Brown---Fanfare/Fire Poem</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e63c01cf52f4fcaddfa571b31007d4af.png" length="186038" type="image/png"/>
+      <pubDate>Tue, 31 Oct 2023 00:41:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown - Fire (38 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown/_/Fire</link>
+      <guid isPermaLink="false">Frippertron-1698727410--8373c711-1043-42bd-bf7d-b17ab26de5c7---Fire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e63c01cf52f4fcaddfa571b31007d4af.png" length="186038" type="image/png"/>
+      <pubDate>Tue, 31 Oct 2023 00:43:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown - Come And Buy (17 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown/_/Come+And+Buy</link>
+      <guid isPermaLink="false">Frippertron-1698727588--8373c711-1043-42bd-bf7d-b17ab26de5c7---Come And Buy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e63c01cf52f4fcaddfa571b31007d4af.png" length="186038" type="image/png"/>
+      <pubDate>Tue, 31 Oct 2023 00:46:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
