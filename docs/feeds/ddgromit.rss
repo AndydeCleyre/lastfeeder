@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 22:14:22 +0000</lastBuildDate>
-    <item>
-      <title>Moby - Flower (1 play)</title>
-      <link>https://www.last.fm/music/Moby/_/Flower</link>
-      <guid isPermaLink="false">ddgromit-1698635169--8970d868-0723-483b-a75b-51088913d3d4---Flower</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dc865bcbe44e4f11cff353b92ed4ee07.jpg" length="21271" type="image/jpeg"/>
-      <pubDate>Sun, 29 Oct 2023 23:06:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Mr. Scruff - Midnight Feast (2 plays)</title>
-      <link>https://www.last.fm/music/Mr.+Scruff/_/Midnight+Feast</link>
-      <guid isPermaLink="false">ddgromit-1698635281--234bab50-2f04-4d21-8f91-df93ef554855---Midnight Feast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/707095d9dd7b46379c34c4ff62cc2a7c.png" length="150534" type="image/png"/>
-      <pubDate>Sun, 29 Oct 2023 23:08:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joesef - It's Been A Little Heavy Lately (3 plays)</title>
-      <link>https://www.last.fm/music/Joesef/_/It%27s+Been+A+Little+Heavy+Lately</link>
-      <guid isPermaLink="false">ddgromit-1698635498--a5417f85-a2ef-4112-bc86-ddc7f415422f---It's Been A Little Heavy Lately</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1721627a0223897ed22dec061dbd3af1.png" length="168044" type="image/png"/>
-      <pubDate>Sun, 29 Oct 2023 23:11:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Nov 2023 22:28:34 +0000</lastBuildDate>
     <item>
       <title>Cannons - Fire For You (2 plays)</title>
       <link>https://www.last.fm/music/Cannons/_/Fire+For+You</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1698876139--Hélène Vogelsinger---Apparition</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/737ecc9ebdc64106c0652e9c0ebc7d48.jpg" length="42489" type="image/jpeg"/>
       <pubDate>Wed, 01 Nov 2023 18:02:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hélène Vogelsinger - Implantation (1 play)</title>
+      <link>https://www.last.fm/music/H%C3%A9l%C3%A8ne+Vogelsinger/_/Implantation</link>
+      <guid isPermaLink="false">ddgromit-1698876632--Hélène Vogelsinger---Implantation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/737ecc9ebdc64106c0652e9c0ebc7d48.jpg" length="42489" type="image/jpeg"/>
+      <pubDate>Wed, 01 Nov 2023 18:10:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hélène Vogelsinger - Regeneration (1 play)</title>
+      <link>https://www.last.fm/music/H%C3%A9l%C3%A8ne+Vogelsinger/_/Regeneration</link>
+      <guid isPermaLink="false">ddgromit-1698877062--Hélène Vogelsinger---Regeneration</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/737ecc9ebdc64106c0652e9c0ebc7d48.jpg" length="42489" type="image/jpeg"/>
+      <pubDate>Wed, 01 Nov 2023 18:17:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Meredith Monk - Ellis Island (1 play)</title>
+      <link>https://www.last.fm/music/Meredith+Monk/_/Ellis+Island</link>
+      <guid isPermaLink="false">ddgromit-1698877373--1efe59aa-d9fb-4293-b431-75b6c3fb9bcc---Ellis Island</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2cb902c3268812ec19e283bec9763f0.jpg" length="17123" type="image/jpeg"/>
+      <pubDate>Wed, 01 Nov 2023 18:22:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
