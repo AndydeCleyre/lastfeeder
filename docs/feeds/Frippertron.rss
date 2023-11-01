@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 05:28:25 +0000</lastBuildDate>
-    <item>
-      <title>The Stone Roses - She Bangs the Drums (1 play)</title>
-      <link>https://www.last.fm/music/The+Stone+Roses/_/She+Bangs+the+Drums</link>
-      <guid isPermaLink="false">Frippertron-1698743213--b5fa29f1-6c22-4321-a488-b5f363b06b06---She Bangs the Drums</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/568c061ead41494cc92522ef0af92c32.jpg" length="37238" type="image/jpeg"/>
-      <pubDate>Tue, 31 Oct 2023 05:06:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Nov 2023 05:40:24 +0000</lastBuildDate>
     <item>
       <title>The Stone Roses - Fools Gold (4 plays)</title>
       <link>https://www.last.fm/music/The+Stone+Roses/_/Fools+Gold</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1698816409--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---New Values</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a8f4c40a2a8340b0f609bc911d21a14.jpg" length="13638" type="image/jpeg"/>
       <pubDate>Wed, 01 Nov 2023 01:26:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Great Falls - Dragged Home Alive (1 play)</title>
+      <link>https://www.last.fm/music/Great+Falls/_/Dragged+Home+Alive</link>
+      <guid isPermaLink="false">Frippertron-1698816628--beed34c0-1b1f-423e-8adf-0c8b2b065d32---Dragged Home Alive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ca6afc21fbd29141a3db62344e2bfaa.jpg" length="25214" type="image/jpeg"/>
+      <pubDate>Wed, 01 Nov 2023 01:30:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
