@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 07:38:34 +0000</lastBuildDate>
-    <item>
-      <title>Sade - Mermaid (15 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Mermaid</link>
-      <guid isPermaLink="false">manosg--1698658141--67930b3e-e00b-469f-8c74-fd69f20522ec---Mermaid</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c844725c98c7a9deadb4d0130a156df1.png" length="70294" type="image/png"/>
-      <pubDate>Mon, 30 Oct 2023 05:29:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Nov 2023 08:20:11 +0000</lastBuildDate>
     <item>
       <title>Sade - Paradise (27 plays)</title>
       <link>https://www.last.fm/music/Sade/_/Paradise</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1698823788--Scorpions---Pictured Life - Live / 2015 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e3cd8a5e9dbce636ba94d0e639aee72.jpg" length="28106" type="image/jpeg"/>
       <pubDate>Wed, 01 Nov 2023 03:29:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Scorpions - Backstage Queen - Live / 2015 Remaster (2 plays)</title>
+      <link>https://www.last.fm/music/Scorpions/_/Backstage+Queen+-+Live+%2F+2015+Remaster</link>
+      <guid isPermaLink="false">manosg--1698824285--Scorpions---Backstage Queen - Live / 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e3cd8a5e9dbce636ba94d0e639aee72.jpg" length="28106" type="image/jpeg"/>
+      <pubDate>Wed, 01 Nov 2023 03:38:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
