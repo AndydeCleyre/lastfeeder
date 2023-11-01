@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 18:20:45 +0000</lastBuildDate>
-    <item>
-      <title>Uli Jon Roth - Yellow Raven (7 plays)</title>
-      <link>https://www.last.fm/music/Uli+Jon+Roth/_/Yellow+Raven</link>
-      <guid isPermaLink="false">manosg--1698685808--cc533920-6a69-4b14-96ff-27a4cac89365---Yellow Raven</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96d962b6ebb6ae215fe8234e955fb6ce.jpg" length="27892" type="image/jpeg"/>
-      <pubDate>Mon, 30 Oct 2023 13:10:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Uli Jon Roth - Polar Nights (3 plays)</title>
-      <link>https://www.last.fm/music/Uli+Jon+Roth/_/Polar+Nights</link>
-      <guid isPermaLink="false">manosg--1698741386--cc533920-6a69-4b14-96ff-27a4cac89365---Polar Nights</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96d962b6ebb6ae215fe8234e955fb6ce.jpg" length="27892" type="image/jpeg"/>
-      <pubDate>Tue, 31 Oct 2023 04:36:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Nov 2023 18:37:59 +0000</lastBuildDate>
     <item>
       <title>Uli Jon Roth - Dark Lady (2 plays)</title>
       <link>https://www.last.fm/music/Uli+Jon+Roth/_/Dark+Lady</link>
@@ -96,7 +82,6 @@
       <title>Uli Jon Roth - Fly To The Rainbow (2 plays)</title>
       <link>https://www.last.fm/music/Uli+Jon+Roth/_/Fly+To+The+Rainbow</link>
       <guid isPermaLink="false">manosg--1698767235--cc533920-6a69-4b14-96ff-27a4cac89365---Fly To The Rainbow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96d962b6ebb6ae215fe8234e955fb6ce.jpg" length="27892" type="image/jpeg"/>
       <pubDate>Tue, 31 Oct 2023 11:47:15 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">manosg--1698861701--Deep Purple---You Fool No One - Remastered 2004</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b5f5cade3a5abb2185c7c9a8f7c7d61.jpg" length="15272" type="image/jpeg"/>
       <pubDate>Wed, 01 Nov 2023 14:01:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Deep Purple - What's Goin' On Here - Remastered 2004 (1 play)</title>
+      <link>https://www.last.fm/music/Deep+Purple/_/What%27s+Goin%27+On+Here+-+Remastered+2004</link>
+      <guid isPermaLink="false">manosg--1698861991--Deep Purple---What's Goin' On Here - Remastered 2004</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b5f5cade3a5abb2185c7c9a8f7c7d61.jpg" length="15272" type="image/jpeg"/>
+      <pubDate>Wed, 01 Nov 2023 14:06:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Deep Purple - Mistreated - Remastered 2004 (1 play)</title>
+      <link>https://www.last.fm/music/Deep+Purple/_/Mistreated+-+Remastered+2004</link>
+      <guid isPermaLink="false">manosg--1698863010--Deep Purple---Mistreated - Remastered 2004</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b5f5cade3a5abb2185c7c9a8f7c7d61.jpg" length="15272" type="image/jpeg"/>
+      <pubDate>Wed, 01 Nov 2023 14:23:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
