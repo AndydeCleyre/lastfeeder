@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 06:21:37 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Beauty and the Beast (141 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
-      <guid isPermaLink="false">Frippertron-1698746036--5441c29d-3602-4898-b1a1-b77fa23b8e50---Beauty and the Beast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Tue, 31 Oct 2023 05:53:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Joe the Lion (63 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Joe+the+Lion</link>
-      <guid isPermaLink="false">Frippertron-1698746255--5441c29d-3602-4898-b1a1-b77fa23b8e50---Joe the Lion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Tue, 31 Oct 2023 05:57:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Nov 2023 07:15:15 +0000</lastBuildDate>
     <item>
       <title>David Bowie - "Heroes" (118 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/%22Heroes%22</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1698818748--beed34c0-1b1f-423e-8adf-0c8b2b065d32---The Starveling</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ca6afc21fbd29141a3db62344e2bfaa.jpg" length="25214" type="image/jpeg"/>
       <pubDate>Wed, 01 Nov 2023 02:05:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Beauty and the Beast (142 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
+      <guid isPermaLink="false">Frippertron-1698822212--5441c29d-3602-4898-b1a1-b77fa23b8e50---Beauty and the Beast</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
+      <pubDate>Wed, 01 Nov 2023 03:03:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Life Is Wonderful (65 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
+      <guid isPermaLink="false">Frippertron-1698822451--Roy Wood---Life Is Wonderful</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
+      <pubDate>Wed, 01 Nov 2023 03:07:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
