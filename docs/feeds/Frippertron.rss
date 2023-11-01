@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 03:52:14 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - White Light/White Heat (48 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/White+Light%2FWhite+Heat</link>
-      <guid isPermaLink="false">Frippertron-1698739938--5441c29d-3602-4898-b1a1-b77fa23b8e50---White Light/White Heat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Tue, 31 Oct 2023 04:12:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Moonage Daydream (229 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Moonage+Daydream</link>
-      <guid isPermaLink="false">Frippertron-1698740168--5441c29d-3602-4898-b1a1-b77fa23b8e50---Moonage Daydream</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Tue, 31 Oct 2023 04:16:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Nov 2023 04:18:53 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Hang On to Yourself (101 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Hang+On+to+Yourself</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1698810393--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Don't Stop Me Now</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db7235a925a30ef5805c72050a29e76f.png" length="161535" type="image/png"/>
       <pubDate>Tue, 31 Oct 2023 23:46:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Great King Rat (32 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Great+King+Rat</link>
+      <guid isPermaLink="false">Frippertron-1698810712--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Great King Rat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fb6dafb0fe843b2c3fb2bacdaed3cc5.png" length="67039" type="image/png"/>
+      <pubDate>Tue, 31 Oct 2023 23:51:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Queen - Stone Cold Crazy (86 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Stone+Cold+Crazy</link>
+      <guid isPermaLink="false">Frippertron-1698811221--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Stone Cold Crazy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
+      <pubDate>Wed, 01 Nov 2023 00:00:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
