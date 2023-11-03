@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Nov 2023 09:37:21 +0000</lastBuildDate>
-    <item>
-      <title>Rainbow - Self Portrait (21 plays)</title>
-      <link>https://www.last.fm/music/Rainbow/_/Self+Portrait</link>
-      <guid isPermaLink="false">manosg--1698907609--Rainbow---Self Portrait</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff5cf55743376cffbc4462761667d600.jpg" length="30067" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 02:46:49 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Nov 2023 09:52:22 +0000</lastBuildDate>
     <item>
       <title>Rainbow - Black Sheep of the Family (21 plays)</title>
       <link>https://www.last.fm/music/Rainbow/_/Black+Sheep+of+the+Family</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1699003598--36274201-f583-4859-83b8-5b8778dcb9f7---Maxine (Witch Queen)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dfd750bbbeccc8d1f72940c19e92c0ff.jpg" length="44858" type="image/jpeg"/>
       <pubDate>Fri, 03 Nov 2023 05:26:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Green Lung - One for Sorrow (1 play)</title>
+      <link>https://www.last.fm/music/Green+Lung/_/One+for+Sorrow</link>
+      <guid isPermaLink="false">manosg--1699003872--36274201-f583-4859-83b8-5b8778dcb9f7---One for Sorrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dfd750bbbeccc8d1f72940c19e92c0ff.jpg" length="44858" type="image/jpeg"/>
+      <pubDate>Fri, 03 Nov 2023 05:31:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
