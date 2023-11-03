@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Nov 2023 19:24:09 +0000</lastBuildDate>
-    <item>
-      <title>PJ Harvey - You Said Something (2 plays)</title>
-      <link>https://www.last.fm/music/PJ+Harvey/_/You+Said+Something</link>
-      <guid isPermaLink="false">manosg--1698944912--e795e03d-b5d5-4a5f-834d-162cfb308a2c---You Said Something</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6bc1781107a6ff90158c0ab222188b0d.jpg" length="21410" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 13:08:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Nov 2023 19:37:11 +0000</lastBuildDate>
     <item>
       <title>Blondie - Picture This - Remastered (2 plays)</title>
       <link>https://www.last.fm/music/Blondie/_/Picture+This+-+Remastered</link>
@@ -33,6 +26,7 @@
       <title>Kate Bush - The Morning Fog (9 plays)</title>
       <link>https://www.last.fm/music/Kate+Bush/_/The+Morning+Fog</link>
       <guid isPermaLink="false">manosg--1698945424--4b585938-f271-45e2-b19a-91c634b5e396---The Morning Fog</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/391be121643ab50801b7955b0ac5b50c.png" length="60172" type="image/png"/>
       <pubDate>Thu, 02 Nov 2023 13:17:04 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1699038791--Nirvana---something in the way - live</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4304de63b44d6ca8f9d3df2576ac8f.png" length="152296" type="image/png"/>
       <pubDate>Fri, 03 Nov 2023 15:13:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nirvana - plateau - live (1 play)</title>
+      <link>https://www.last.fm/music/Nirvana/_/plateau+-+live</link>
+      <guid isPermaLink="false">manosg--1699039347--Nirvana---plateau - live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4304de63b44d6ca8f9d3df2576ac8f.png" length="152296" type="image/png"/>
+      <pubDate>Fri, 03 Nov 2023 15:22:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
