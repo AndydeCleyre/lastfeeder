@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Nov 2023 13:52:56 +0000</lastBuildDate>
-    <item>
-      <title>Kate Bush - Egypt - 2018 Remaster (5 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/Egypt+-+2018+Remaster</link>
-      <guid isPermaLink="false">manosg--1698911075--Kate Bush---Egypt - 2018 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3c743e0c37b7831f7b7bc38d29ec67d.jpg" length="32684" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 03:44:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kate Bush - The Wedding List - 2018 Remaster (5 plays)</title>
-      <link>https://www.last.fm/music/Kate+Bush/_/The+Wedding+List+-+2018+Remaster</link>
-      <guid isPermaLink="false">manosg--1698911352--Kate Bush---The Wedding List - 2018 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3c743e0c37b7831f7b7bc38d29ec67d.jpg" length="32684" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 03:49:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Nov 2023 17:14:17 +0000</lastBuildDate>
     <item>
       <title>Kate Bush - Violin - 2018 Remaster (5 plays)</title>
       <link>https://www.last.fm/music/Kate+Bush/_/Violin+-+2018+Remaster</link>
@@ -198,7 +184,7 @@
       <pubDate>Thu, 02 Nov 2023 13:19:41 -0400</pubDate>
     </item>
     <item>
-      <title>The Smiths - Reel Around the Fountain - 2011 Remaster (1 play)</title>
+      <title>The Smiths - Reel Around the Fountain - 2011 Remaster (2 plays)</title>
       <link>https://www.last.fm/music/The+Smiths/_/Reel+Around+the+Fountain+-+2011+Remaster</link>
       <guid isPermaLink="false">manosg--1698945711--The Smiths---Reel Around the Fountain - 2011 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e25a301cf23c2b28b0ff1b77a852e1b.jpg" length="15793" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1699018182--b0fe8ef0-d59b-4d41-afee-2d21b59112ab---Faithless Sanctuary</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/63d650e7c18ed43fc1c96087596b9dd3.png" length="198452" type="image/png"/>
       <pubDate>Fri, 03 Nov 2023 09:29:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Angra - Here in the Now (1 play)</title>
+      <link>https://www.last.fm/music/Angra/_/Here+in+the+Now</link>
+      <guid isPermaLink="false">manosg--1699018789--b0fe8ef0-d59b-4d41-afee-2d21b59112ab---Here in the Now</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/63d650e7c18ed43fc1c96087596b9dd3.png" length="198452" type="image/png"/>
+      <pubDate>Fri, 03 Nov 2023 09:39:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Smiths - Reel Around the Fountain - 2011 Remaster (2 plays)</title>
+      <link>https://www.last.fm/music/The+Smiths/_/Reel+Around+the+Fountain+-+2011+Remaster</link>
+      <guid isPermaLink="false">manosg--1699031146--The Smiths---Reel Around the Fountain - 2011 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e25a301cf23c2b28b0ff1b77a852e1b.jpg" length="15793" type="image/jpeg"/>
+      <pubDate>Fri, 03 Nov 2023 13:05:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
