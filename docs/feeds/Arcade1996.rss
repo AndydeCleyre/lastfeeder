@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Nov 2023 15:37:48 +0000</lastBuildDate>
-    <item>
-      <title>Deafheaven - Great Mass of Color (39 plays)</title>
-      <link>https://www.last.fm/music/Deafheaven/_/Great+Mass+of+Color</link>
-      <guid isPermaLink="false">Arcade1996-1698928992--f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302---Great Mass of Color</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f8258cdca8879915ccf7fd0043863de.jpg" length="25314" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 08:43:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>6ix9ine - KANGA (feat. Kanye West) (3 plays)</title>
-      <link>https://www.last.fm/music/6ix9ine/_/KANGA+(feat.+Kanye+West)</link>
-      <guid isPermaLink="false">Arcade1996-1698929349--2282c539-05a2-477c-82b7-fe40798d37f3---KANGA (feat. Kanye West)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7794fa89fd1d49c7731bf4fb4f6dc5e4.png" length="80577" type="image/png"/>
-      <pubDate>Thu, 02 Nov 2023 08:49:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Nov 2023 15:52:43 +0000</lastBuildDate>
     <item>
       <title>The 1975 - It's Not Living (If It's Not With You) (41 plays)</title>
       <link>https://www.last.fm/music/The+1975/_/It%27s+Not+Living+(If+It%27s+Not+With+You)</link>
@@ -327,7 +313,6 @@
       <title>The The - Love Is Stronger Than Death (2 plays)</title>
       <link>https://www.last.fm/music/The+The/_/Love+Is+Stronger+Than+Death</link>
       <guid isPermaLink="false">Arcade1996-1699024303--a7409219-a681-4072-adb2-5285106ce6f2---Love Is Stronger Than Death</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/feffc19333b74b71a891b7efb30447d4.png" length="171317" type="image/png"/>
       <pubDate>Fri, 03 Nov 2023 11:11:43 -0400</pubDate>
     </item>
     <item>
@@ -355,8 +340,20 @@
       <title>Rooster - Ssstupid (1 play)</title>
       <link>https://www.last.fm/music/Rooster/_/Ssstupid</link>
       <guid isPermaLink="false">Arcade1996-1699025269--1de026b9-4543-43c4-86c0-cb3fe374b302---Ssstupid</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85b763a5e9d48c1261880db8abd7f227.jpg" length="8873" type="image/jpeg"/>
       <pubDate>Fri, 03 Nov 2023 11:27:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ronny J - Banded Up (feat. XXXTENTACION) (31 plays)</title>
+      <link>https://www.last.fm/music/Ronny+J/_/Banded+Up+(feat.+XXXTENTACION)</link>
+      <guid isPermaLink="false">Arcade1996-1699026351--93c1cee4-2604-4cd2-8d72-8bc59aa9f6c2---Banded Up (feat. XXXTENTACION)</guid>
+      <pubDate>Fri, 03 Nov 2023 11:45:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Weeknd - Heartless (19 plays)</title>
+      <link>https://www.last.fm/music/The+Weeknd/_/Heartless</link>
+      <guid isPermaLink="false">Arcade1996-1699026525--c8b03190-306c-4120-bb0b-6f2ebfc06ea9---Heartless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg" length="14066" type="image/jpeg"/>
+      <pubDate>Fri, 03 Nov 2023 11:48:45 -0400</pubDate>
     </item>
   </channel>
 </rss>

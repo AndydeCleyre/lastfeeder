@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Nov 2023 02:38:39 +0000</lastBuildDate>
-    <item>
-      <title>Raffi - He's Got the Whole World (3 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/He%27s+Got+the+Whole+World</link>
-      <guid isPermaLink="false">ddgromit-1698888139--d5d5ba92-4bd4-4975-9806-99339eed3046---He's Got the Whole World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/351423c7772b46159d9f425738419989.jpg" length="17269" type="image/jpeg"/>
-      <pubDate>Wed, 01 Nov 2023 21:22:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Nov 2023 15:52:20 +0000</lastBuildDate>
     <item>
       <title>Raffi - Shake My Sillies Out (25 plays)</title>
       <link>https://www.last.fm/music/Raffi/_/Shake+My+Sillies+Out</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1698978646--Pitbull---Fireball (feat. John Ryan)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9e5dfc556d4a44fcc4967721f258e8ea.png" length="91812" type="image/png"/>
       <pubDate>Thu, 02 Nov 2023 22:30:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dan + Shay - Speechless (1 play)</title>
+      <link>https://www.last.fm/music/Dan+%252B+Shay/_/Speechless</link>
+      <guid isPermaLink="false">ddgromit-1698978882--33cf3954-10af-4dcb-985f-9420d1fa4168---Speechless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9107ce3902ed9a46742c356abf84d169.jpg" length="2420" type="image/jpeg"/>
+      <pubDate>Thu, 02 Nov 2023 22:34:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
