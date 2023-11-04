@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Nov 2023 15:52:43 +0000</lastBuildDate>
-    <item>
-      <title>The 1975 - It's Not Living (If It's Not With You) (41 plays)</title>
-      <link>https://www.last.fm/music/The+1975/_/It%27s+Not+Living+(If+It%27s+Not+With+You)</link>
-      <guid isPermaLink="false">Arcade1996-1698929481--5b6ebfe0-f72b-4902-bba9-74c8af0f1af0---It's Not Living (If It's Not With You)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bf3a1eac0326073f56978b7f39021e1.jpg" length="4355" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 08:51:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Wildhearts - My Baby Is a Headfuck (37 plays)</title>
-      <link>https://www.last.fm/music/The+Wildhearts/_/My+Baby+Is+a+Headfuck</link>
-      <guid isPermaLink="false">Arcade1996-1698929765--d0d93f12-bb1a-4053-99f7-bcf5e63cf844---My Baby Is a Headfuck</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4579a347294040d7a598a131890348ba.jpg" length="24197" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 08:56:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Nov 2023 01:58:48 +0000</lastBuildDate>
     <item>
       <title>The Wildhearts - Suckerpunch (10 plays)</title>
       <link>https://www.last.fm/music/The+Wildhearts/_/Suckerpunch</link>
@@ -313,6 +299,7 @@
       <title>The The - Love Is Stronger Than Death (2 plays)</title>
       <link>https://www.last.fm/music/The+The/_/Love+Is+Stronger+Than+Death</link>
       <guid isPermaLink="false">Arcade1996-1699024303--a7409219-a681-4072-adb2-5285106ce6f2---Love Is Stronger Than Death</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/feffc19333b74b71a891b7efb30447d4.png" length="171317" type="image/png"/>
       <pubDate>Fri, 03 Nov 2023 11:11:43 -0400</pubDate>
     </item>
     <item>
@@ -340,12 +327,21 @@
       <title>Rooster - Ssstupid (1 play)</title>
       <link>https://www.last.fm/music/Rooster/_/Ssstupid</link>
       <guid isPermaLink="false">Arcade1996-1699025269--1de026b9-4543-43c4-86c0-cb3fe374b302---Ssstupid</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85b763a5e9d48c1261880db8abd7f227.jpg" length="8873" type="image/jpeg"/>
       <pubDate>Fri, 03 Nov 2023 11:27:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rooster - The end of the world (1 play)</title>
+      <link>https://www.last.fm/music/Rooster/_/The+end+of+the+world</link>
+      <guid isPermaLink="false">Arcade1996-1699026351--1de026b9-4543-43c4-86c0-cb3fe374b302---The end of the world</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85b763a5e9d48c1261880db8abd7f227.jpg" length="8873" type="image/jpeg"/>
+      <pubDate>Fri, 03 Nov 2023 11:45:51 -0400</pubDate>
     </item>
     <item>
       <title>Ronny J - Banded Up (feat. XXXTENTACION) (31 plays)</title>
       <link>https://www.last.fm/music/Ronny+J/_/Banded+Up+(feat.+XXXTENTACION)</link>
       <guid isPermaLink="false">Arcade1996-1699026351--93c1cee4-2604-4cd2-8d72-8bc59aa9f6c2---Banded Up (feat. XXXTENTACION)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18c6eb496caf4066d49c8aa72c028d0a.png" length="150486" type="image/png"/>
       <pubDate>Fri, 03 Nov 2023 11:45:51 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1699026525--c8b03190-306c-4120-bb0b-6f2ebfc06ea9---Heartless</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg" length="14066" type="image/jpeg"/>
       <pubDate>Fri, 03 Nov 2023 11:48:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lil Uzi Vert - New Patek (31 plays)</title>
+      <link>https://www.last.fm/music/Lil+Uzi+Vert/_/New+Patek</link>
+      <guid isPermaLink="false">Arcade1996-1699026730--8837b875-3689-4646-b3fd-d8b53815c7a8---New Patek</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3dc9bd729b5de7c9db4e884e01eefa8d.jpg" length="16528" type="image/jpeg"/>
+      <pubDate>Fri, 03 Nov 2023 11:52:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
