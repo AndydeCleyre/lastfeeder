@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Nov 2023 01:09:13 +0000</lastBuildDate>
-    <item>
-      <title>Bluey - Bluey Theme Tune - Extended (1 play)</title>
-      <link>https://www.last.fm/music/Bluey/_/Bluey+Theme+Tune+-+Extended</link>
-      <guid isPermaLink="false">ddgromit-1698893789--3ed3d097-2139-4209-b231-81987f9d9767---Bluey Theme Tune - Extended</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69d057194658d532af3d1576ec6ed7c4.jpg" length="18001" type="image/jpeg"/>
-      <pubDate>Wed, 01 Nov 2023 22:56:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bluey - Dance Mode (2 plays)</title>
-      <link>https://www.last.fm/music/Bluey/_/Dance+Mode</link>
-      <guid isPermaLink="false">ddgromit-1698893856--3ed3d097-2139-4209-b231-81987f9d9767---Dance Mode</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c718e6a741403ac46d45b7195e52b826.jpg" length="30419" type="image/jpeg"/>
-      <pubDate>Wed, 01 Nov 2023 22:57:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Nov 2023 15:26:27 +0000</lastBuildDate>
     <item>
       <title>Bluey - Lollipop Yum Yum Yum (2 plays)</title>
       <link>https://www.last.fm/music/Bluey/_/Lollipop+Yum+Yum+Yum</link>
@@ -215,6 +201,7 @@
       <title>Moderator - Chasing the Sun (1 play)</title>
       <link>https://www.last.fm/music/Moderator/_/Chasing+the+Sun</link>
       <guid isPermaLink="false">ddgromit-1698964421--ca021a3e-be81-499b-b225-3c77cf944aea---Chasing the Sun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddf33e24fc13a614f09bd49a3a70ffa8.jpg" length="14977" type="image/jpeg"/>
       <pubDate>Thu, 02 Nov 2023 18:33:41 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1699026516--a42d3fd5-55de-4206-86c3-4fbb5404018f---Sweet Caroline</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a001d884b4c94d03bcf8837313542c4e.jpg" length="20638" type="image/jpeg"/>
       <pubDate>Fri, 03 Nov 2023 11:48:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>T-Rex Ranch - Park Ranger Song (2 plays)</title>
+      <link>https://www.last.fm/music/T-Rex+Ranch/_/Park+Ranger+Song</link>
+      <guid isPermaLink="false">ddgromit-1699110823--T-Rex Ranch---Park Ranger Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 04 Nov 2023 11:13:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>T-Rex Ranch - Oh Man! (2 plays)</title>
+      <link>https://www.last.fm/music/T-Rex+Ranch/_/Oh+Man!</link>
+      <guid isPermaLink="false">ddgromit-1699110948--T-Rex Ranch---Oh Man!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 04 Nov 2023 11:15:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
