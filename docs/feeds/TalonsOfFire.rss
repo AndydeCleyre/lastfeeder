@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Nov 2023 23:38:41 +0000</lastBuildDate>
-    <item>
-      <title>Keith Emerson - Inferno - Main Title Theme (2 plays)</title>
-      <link>https://www.last.fm/music/Keith+Emerson/_/Inferno+-+Main+Title+Theme</link>
-      <guid isPermaLink="false">TalonsOfFire-1698797925--Keith Emerson---Inferno - Main Title Theme</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eaf85d58f8fdaeb8b6032e52ac28674a.jpg" length="10602" type="image/jpeg"/>
-      <pubDate>Tue, 31 Oct 2023 20:18:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dreyma - Forgotten Vale (From 'Skyrim: Dawnguard') (2 plays)</title>
-      <link>https://www.last.fm/music/Dreyma/_/Forgotten+Vale+(From+%27Skyrim:+Dawnguard%27)</link>
-      <guid isPermaLink="false">TalonsOfFire-1698798103--Dreyma---Forgotten Vale (From 'Skyrim: Dawnguard')</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 31 Oct 2023 20:21:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Nov 2023 23:52:37 +0000</lastBuildDate>
     <item>
       <title>Keith Emerson - Inferno - Main Title Theme (2 plays)</title>
       <link>https://www.last.fm/music/Keith+Emerson/_/Inferno+-+Main+Title+Theme</link>
@@ -117,6 +103,7 @@
       <title>Mikko Tarmia - Catherine's Theme (2 plays)</title>
       <link>https://www.last.fm/music/Mikko+Tarmia/_/Catherine%27s+Theme</link>
       <guid isPermaLink="false">TalonsOfFire-1698799555--9d5c3d11-e02e-452b-acaa-e70804243624---Catherine's Theme</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f11bc2391e2dc47211519d6ed084dc63.png" length="155878" type="image/png"/>
       <pubDate>Tue, 31 Oct 2023 20:45:55 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1699227326--7d209631-ccb8-4a87-8516-64abe4c22dba---ACHILLES MILK</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c70cfedc1bdaaeeb2d6ff01a3415c93.png" length="17327" type="image/png"/>
       <pubDate>Sun, 05 Nov 2023 18:35:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ulver - ECM PANORAMA (3 plays)</title>
+      <link>https://www.last.fm/music/Ulver/_/ECM+PANORAMA</link>
+      <guid isPermaLink="false">TalonsOfFire-1699227471--7d209631-ccb8-4a87-8516-64abe4c22dba---ECM PANORAMA</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c70cfedc1bdaaeeb2d6ff01a3415c93.png" length="17327" type="image/png"/>
+      <pubDate>Sun, 05 Nov 2023 18:37:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alora Crucible - Synaxarion of John Isangelous (6 plays)</title>
+      <link>https://www.last.fm/music/Alora+Crucible/_/Synaxarion+of+John+Isangelous</link>
+      <guid isPermaLink="false">TalonsOfFire-1699227774--fe5fc09c-2f51-4534-913d-435eedc6e1d2---Synaxarion of John Isangelous</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/997ec77f881bc051a5405dea49905da1.jpg" length="13188" type="image/jpeg"/>
+      <pubDate>Sun, 05 Nov 2023 18:42:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
