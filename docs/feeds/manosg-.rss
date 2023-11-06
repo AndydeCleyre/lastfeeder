@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Nov 2023 16:54:22 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Hey Jude - Remastered 2009 (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Hey+Jude+-+Remastered+2009</link>
-      <guid isPermaLink="false">manosg--1699207277--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Hey Jude - Remastered 2009</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1857fdec4004ff3cf787a2ad4edcec81.jpg" length="8418" type="image/jpeg"/>
-      <pubDate>Sun, 05 Nov 2023 13:01:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - Revolution - Remastered 2009 (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Revolution+-+Remastered+2009</link>
-      <guid isPermaLink="false">manosg--1699208072--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Revolution - Remastered 2009</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1857fdec4004ff3cf787a2ad4edcec81.jpg" length="8418" type="image/jpeg"/>
-      <pubDate>Sun, 05 Nov 2023 13:14:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Nov 2023 17:52:23 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Get Back - Remastered 2009 (1 play)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Get+Back+-+Remastered+2009</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1699289037--Sorcerer---Curse of Medusa</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72804e2e930e0de337e4b010b674f06d.jpg" length="18316" type="image/jpeg"/>
       <pubDate>Mon, 06 Nov 2023 11:43:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sorcerer - Unveiling Blasphemy (1 play)</title>
+      <link>https://www.last.fm/music/Sorcerer/_/Unveiling+Blasphemy</link>
+      <guid isPermaLink="false">manosg--1699289342--Sorcerer---Unveiling Blasphemy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72804e2e930e0de337e4b010b674f06d.jpg" length="18316" type="image/jpeg"/>
+      <pubDate>Mon, 06 Nov 2023 11:49:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sorcerer - The Underworld (1 play)</title>
+      <link>https://www.last.fm/music/Sorcerer/_/The+Underworld</link>
+      <guid isPermaLink="false">manosg--1699292841--Sorcerer---The Underworld</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72804e2e930e0de337e4b010b674f06d.jpg" length="18316" type="image/jpeg"/>
+      <pubDate>Mon, 06 Nov 2023 12:47:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
