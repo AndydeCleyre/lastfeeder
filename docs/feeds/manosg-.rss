@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Nov 2023 14:15:45 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Day Tripper - Remastered 2009 (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Day+Tripper+-+Remastered+2009</link>
-      <guid isPermaLink="false">manosg--1699206356--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Day Tripper - Remastered 2009</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1857fdec4004ff3cf787a2ad4edcec81.jpg" length="8418" type="image/jpeg"/>
-      <pubDate>Sun, 05 Nov 2023 12:45:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Nov 2023 15:52:15 +0000</lastBuildDate>
     <item>
       <title>The Beatles - We Can Work It Out - Remastered 2009 (1 play)</title>
       <link>https://www.last.fm/music/The+Beatles/_/We+Can+Work+It+Out+-+Remastered+2009</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1699278547--Dark Angel---Perish in Flames</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dc65acd7ddfbc057a4dbd617bf8f3fce.jpg" length="27168" type="image/jpeg"/>
       <pubDate>Mon, 06 Nov 2023 08:49:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Slayer - Evil Has No Boundaries (5 plays)</title>
+      <link>https://www.last.fm/music/Slayer/_/Evil+Has+No+Boundaries</link>
+      <guid isPermaLink="false">manosg--1699278864--bdacc37b-8633-4bf8-9dd5-4662ee651aec---Evil Has No Boundaries</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1300963833066a410b75427ed1fb29b0.jpg" length="27816" type="image/jpeg"/>
+      <pubDate>Mon, 06 Nov 2023 08:54:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
