@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Nov 2023 09:37:30 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Nobody's Fault but Mine (30 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Nobody%27s+Fault+but+Mine</link>
-      <guid isPermaLink="false">Frippertron-1699329869--678d88b2-87b0-403b-b63d-5da7465aecc3---Nobody's Fault but Mine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
-      <pubDate>Mon, 06 Nov 2023 23:04:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Keep Yourself Alive [long-lost retake] (1 play)</title>
-      <link>https://www.last.fm/music/Queen/_/Keep+Yourself+Alive+%5Blong-lost+retake%5D</link>
-      <guid isPermaLink="false">Frippertron-1699330278--Queen---Keep Yourself Alive [long-lost retake]</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d36a1f8075da4df6bb835b2f7eac1547.png" length="77758" type="image/png"/>
-      <pubDate>Mon, 06 Nov 2023 23:11:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Nov 2023 09:52:52 +0000</lastBuildDate>
     <item>
       <title>Queen - Death on Two Legs (Dedicated to...) (59 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Death+on+Two+Legs+(Dedicated+to...)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699349248--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Undercover Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
       <pubDate>Tue, 07 Nov 2023 04:27:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Scorched Earth (36 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Scorched+Earth</link>
+      <guid isPermaLink="false">Frippertron-1699349703--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Scorched Earth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
+      <pubDate>Tue, 07 Nov 2023 04:35:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Arrow (71 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Arrow</link>
+      <guid isPermaLink="false">Frippertron-1699350289--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Arrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
+      <pubDate>Tue, 07 Nov 2023 04:44:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
