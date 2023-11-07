@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Nov 2023 05:15:04 +0000</lastBuildDate>
-    <item>
-      <title>Iggy Pop - Five Foot One (41 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/Five+Foot+One</link>
-      <guid isPermaLink="false">Frippertron-1698914672--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Five Foot One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdbe154ea49240e4a59445c229e2ca2a.jpg" length="22347" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 04:44:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Nov 2023 05:28:23 +0000</lastBuildDate>
     <item>
       <title>Iggy Pop - Real Wild Child (3 plays)</title>
       <link>https://www.last.fm/music/Iggy+Pop/_/Real+Wild+Child</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1699333204--a74f43e4-50c4-4b19-a2ce-c05ce9bccb03---Ascension Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85748de6718876bc3fd9c8c218d8b2fa.png" length="168717" type="image/png"/>
       <pubDate>Tue, 07 Nov 2023 00:00:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - It's a Beautiful Day (10 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/It%27s+a+Beautiful+Day</link>
+      <guid isPermaLink="false">Frippertron-1699334726--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---It's a Beautiful Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c32fca5ea6c4788959ee4f7013c6fd6.png" length="148394" type="image/png"/>
+      <pubDate>Tue, 07 Nov 2023 00:25:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
