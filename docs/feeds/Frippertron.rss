@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Nov 2023 05:28:23 +0000</lastBuildDate>
-    <item>
-      <title>Iggy Pop - Real Wild Child (3 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/Real+Wild+Child</link>
-      <guid isPermaLink="false">Frippertron-1698914882--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Real Wild Child</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdbe154ea49240e4a59445c229e2ca2a.jpg" length="22347" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 04:48:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Iggy Pop - I Got a Right (18 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/I+Got+a+Right</link>
-      <guid isPermaLink="false">Frippertron-1698915086--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---I Got a Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdbe154ea49240e4a59445c229e2ca2a.jpg" length="22347" type="image/jpeg"/>
-      <pubDate>Thu, 02 Nov 2023 04:51:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Nov 2023 05:40:12 +0000</lastBuildDate>
     <item>
       <title>Elton John - Cold As Christmas (In The Middle Of The Year) (12 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Cold+As+Christmas+(In+The+Middle+Of+The+Year)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699334726--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---It's a Beautiful Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c32fca5ea6c4788959ee4f7013c6fd6.png" length="148394" type="image/png"/>
       <pubDate>Tue, 07 Nov 2023 00:25:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Made in Heaven (19 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Made+in+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1699334880--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Made in Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c32fca5ea6c4788959ee4f7013c6fd6.png" length="148394" type="image/png"/>
+      <pubDate>Tue, 07 Nov 2023 00:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Let Me Live (5 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Let+Me+Live</link>
+      <guid isPermaLink="false">Frippertron-1699335207--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Let Me Live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c32fca5ea6c4788959ee4f7013c6fd6.png" length="148394" type="image/png"/>
+      <pubDate>Tue, 07 Nov 2023 00:33:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
