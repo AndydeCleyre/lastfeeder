@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Nov 2023 08:52:23 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Cat Food (72 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Cat+Food</link>
-      <guid isPermaLink="false">Frippertron-1699355849--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Cat Food</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 07 Nov 2023 06:17:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Léo Ferré - La Solitude (63 plays)</title>
-      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/La+Solitude</link>
-      <guid isPermaLink="false">Frippertron-1699356088--15b1cbac-060a-4136-9e07-4622c52c0f60---La Solitude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6cf0f367699487cb0b52ad6057f0065.jpg" length="21194" type="image/jpeg"/>
-      <pubDate>Tue, 07 Nov 2023 06:21:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Lions In My Own Garden (Exit Someone) (87 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Lions+In+My+Own+Garden+(Exit+Someone)</link>
-      <guid isPermaLink="false">Frippertron-1699356413--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Lions In My Own Garden (Exit Someone)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04a3151d01710068b0c2f4af4011bdc4.jpg" length="22107" type="image/jpeg"/>
-      <pubDate>Tue, 07 Nov 2023 06:26:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Nov 2023 09:15:39 +0000</lastBuildDate>
     <item>
       <title>Townes Van Zandt - Nothin' (19 plays)</title>
       <link>https://www.last.fm/music/Townes+Van+Zandt/_/Nothin%27</link>
@@ -191,7 +170,7 @@
       <pubDate>Tue, 07 Nov 2023 23:38:05 -0500</pubDate>
     </item>
     <item>
-      <title>Van der Graaf Generator - Still Life (22 plays)</title>
+      <title>Van der Graaf Generator - Still Life (23 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Still+Life</link>
       <guid isPermaLink="false">Frippertron-1699418698--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65fbda46e75bfbe6a65c024b7b5c12ff.jpg" length="30577" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1699432635--beed34c0-1b1f-423e-8adf-0c8b2b065d32---Thrown Against the Waves</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0018308c3823223bf65d0e4f0d0ea66a.jpg" length="25440" type="image/jpeg"/>
       <pubDate>Wed, 08 Nov 2023 03:37:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Ship of Fools (19 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Ship+of+Fools</link>
+      <guid isPermaLink="false">Frippertron-1699433423--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Ship of Fools</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
+      <pubDate>Wed, 08 Nov 2023 03:50:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Still Life (23 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Still+Life</link>
+      <guid isPermaLink="false">Frippertron-1699433829--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
+      <pubDate>Wed, 08 Nov 2023 03:57:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Urban (25 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Urban</link>
+      <guid isPermaLink="false">Frippertron-1699434417--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Urban</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
+      <pubDate>Wed, 08 Nov 2023 04:06:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
