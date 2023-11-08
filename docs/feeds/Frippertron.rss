@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Nov 2023 05:14:57 +0000</lastBuildDate>
-    <item>
-      <title>Geese - St. Elmo (32 plays)</title>
-      <link>https://www.last.fm/music/Geese/_/St.+Elmo</link>
-      <guid isPermaLink="false">Frippertron-1699348521--e0c97a4d-c392-41a9-a374-57af3e3eeab3---St. Elmo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
-      <pubDate>Tue, 07 Nov 2023 04:15:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Van der Graaf Generator - Killer (41 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Killer</link>
-      <guid isPermaLink="false">Frippertron-1699348741--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Killer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b078c13fab849c0c9d24bae6d42e0ee.jpg" length="19551" type="image/jpeg"/>
-      <pubDate>Tue, 07 Nov 2023 04:19:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Nov 2023 05:40:39 +0000</lastBuildDate>
     <item>
       <title>Van der Graaf Generator - The Undercover Man (25 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Undercover+Man</link>
@@ -198,7 +184,7 @@
       <pubDate>Tue, 07 Nov 2023 13:25:56 -0500</pubDate>
     </item>
     <item>
-      <title>X JAPAN - ART OF LIFE (46 plays)</title>
+      <title>X JAPAN - ART OF LIFE (47 plays)</title>
       <link>https://www.last.fm/music/X+JAPAN/_/ART+OF+LIFE</link>
       <guid isPermaLink="false">Frippertron-1699381796--3f77449d-48e4-4ceb-b869-69af48da877b---ART OF LIFE</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e41937b73095fd9c1332b896e7a22bb7.jpg" length="22536" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699419629--a74f43e4-50c4-4b19-a2ce-c05ce9bccb03---Ascension Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85748de6718876bc3fd9c8c218d8b2fa.png" length="168717" type="image/png"/>
       <pubDate>Wed, 08 Nov 2023 00:00:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Stone Roses - I Am the Resurrection (7 plays)</title>
+      <link>https://www.last.fm/music/The+Stone+Roses/_/I+Am+the+Resurrection</link>
+      <guid isPermaLink="false">Frippertron-1699421082--b5fa29f1-6c22-4321-a488-b5f363b06b06---I Am the Resurrection</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f07a5a1e86624b3cb8ec76543b9863d7.png" length="274844" type="image/png"/>
+      <pubDate>Wed, 08 Nov 2023 00:24:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>X JAPAN - ART OF LIFE (47 plays)</title>
+      <link>https://www.last.fm/music/X+JAPAN/_/ART+OF+LIFE</link>
+      <guid isPermaLink="false">Frippertron-1699421573--3f77449d-48e4-4ceb-b869-69af48da877b---ART OF LIFE</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e41937b73095fd9c1332b896e7a22bb7.jpg" length="22536" type="image/jpeg"/>
+      <pubDate>Wed, 08 Nov 2023 00:32:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
