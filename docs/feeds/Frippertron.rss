@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Nov 2023 02:52:10 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Goodbye Yellow Brick Road (42 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Goodbye+Yellow+Brick+Road</link>
-      <guid isPermaLink="false">Frippertron-1699340539--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Goodbye Yellow Brick Road</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d4e915760f54d96cd76c9919ff22e65.png" length="203951" type="image/png"/>
-      <pubDate>Tue, 07 Nov 2023 02:02:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Style Council - Come To Milton Keynes (71 plays)</title>
-      <link>https://www.last.fm/music/The+Style+Council/_/Come+To+Milton+Keynes</link>
-      <guid isPermaLink="false">Frippertron-1699344684--34e56f20-ddda-48c9-a4bb-6bb12df57de0---Come To Milton Keynes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b682f1ad6a61946c56adfe837b5784a1.jpg" length="28141" type="image/jpeg"/>
-      <pubDate>Tue, 07 Nov 2023 03:11:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Nov 2023 03:16:25 +0000</lastBuildDate>
     <item>
       <title>The Style Council - A Man Of Great Promise (57 plays)</title>
       <link>https://www.last.fm/music/The+Style+Council/_/A+Man+Of+Great+Promise</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699411436--74a9fd54-13de-4aed-aada-31b992745865---Onda</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/518637e13a850dd8f8879d01a74bdaed.jpg" length="23186" type="image/jpeg"/>
       <pubDate>Tue, 07 Nov 2023 21:43:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cassiano - Central Do Brasil (3 plays)</title>
+      <link>https://www.last.fm/music/Cassiano/_/Central+Do+Brasil</link>
+      <guid isPermaLink="false">Frippertron-1699411901--74a9fd54-13de-4aed-aada-31b992745865---Central Do Brasil</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/518637e13a850dd8f8879d01a74bdaed.jpg" length="23186" type="image/jpeg"/>
+      <pubDate>Tue, 07 Nov 2023 21:51:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cassiano - Sai Dessa Fossa (2 plays)</title>
+      <link>https://www.last.fm/music/Cassiano/_/Sai+Dessa+Fossa</link>
+      <guid isPermaLink="false">Frippertron-1699412124--74a9fd54-13de-4aed-aada-31b992745865---Sai Dessa Fossa</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/518637e13a850dd8f8879d01a74bdaed.jpg" length="23186" type="image/jpeg"/>
+      <pubDate>Tue, 07 Nov 2023 21:55:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
