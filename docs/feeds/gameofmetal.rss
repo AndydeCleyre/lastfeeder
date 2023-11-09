@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 19:37:15 +0000</lastBuildDate>
-    <item>
-      <title>Lindsay Ell - I Don't Love You (5 plays)</title>
-      <link>https://www.last.fm/music/Lindsay+Ell/_/I+Don%27t+Love+You</link>
-      <guid isPermaLink="false">gameofmetal-1699465625--735f2b10-a267-4cd2-990f-f91702be9130---I Don't Love You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18e8526bba4ffed1b805f0e95d69a1b9.jpg" length="5949" type="image/jpeg"/>
-      <pubDate>Wed, 08 Nov 2023 12:47:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Nov 2023 19:52:09 +0000</lastBuildDate>
     <item>
       <title>Ava Max - So Am I (8 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/So+Am+I</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1699558132--64d475ac-2678-4535-b220-009a098a5b44---Midwinter Tears</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3416136ed81d66d7c802cdd704b6b1d1.jpg" length="31592" type="image/jpeg"/>
       <pubDate>Thu, 09 Nov 2023 14:28:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Worm - Sea of Sorrow (1 play)</title>
+      <link>https://www.last.fm/music/Worm/_/Sea+of+Sorrow</link>
+      <guid isPermaLink="false">gameofmetal-1699558603--64d475ac-2678-4535-b220-009a098a5b44---Sea of Sorrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3416136ed81d66d7c802cdd704b6b1d1.jpg" length="31592" type="image/jpeg"/>
+      <pubDate>Thu, 09 Nov 2023 14:36:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
