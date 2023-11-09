@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 08:37:30 +0000</lastBuildDate>
-    <item>
-      <title>Van der Graaf Generator - Still Life (25 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Still+Life</link>
-      <guid isPermaLink="false">Frippertron-1699442086--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65fbda46e75bfbe6a65c024b7b5c12ff.jpg" length="30577" type="image/jpeg"/>
-      <pubDate>Wed, 08 Nov 2023 06:14:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Van der Graaf Generator - Refugees (single version) (11 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Refugees+(single+version)</link>
-      <guid isPermaLink="false">Frippertron-1699442714--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Refugees (single version)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95938c3f8b99959e31154e4042cadc5e.jpg" length="24482" type="image/jpeg"/>
-      <pubDate>Wed, 08 Nov 2023 06:25:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Nov 2023 08:52:29 +0000</lastBuildDate>
     <item>
       <title>Elton John - Harmony (34 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Harmony</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699518287--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Arrow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
       <pubDate>Thu, 09 Nov 2023 03:24:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - The Sleepwalkers (26 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
+      <guid isPermaLink="false">Frippertron-1699518887--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
+      <pubDate>Thu, 09 Nov 2023 03:34:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - One Horse Town (78 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/One+Horse+Town</link>
+      <guid isPermaLink="false">Frippertron-1699519576--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---One Horse Town</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
+      <pubDate>Thu, 09 Nov 2023 03:46:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
