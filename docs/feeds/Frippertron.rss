@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 10:52:11 +0000</lastBuildDate>
-    <item>
-      <title>Queen - A Kind of Magic (48 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/A+Kind+of+Magic</link>
-      <guid isPermaLink="false">Frippertron-1699503388--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---A Kind of Magic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f76d11435615c8dfaf37a8c8041ab30.jpg" length="26920" type="image/jpeg"/>
-      <pubDate>Wed, 08 Nov 2023 23:16:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Achilles Last Stand (60 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Achilles+Last+Stand</link>
-      <guid isPermaLink="false">Frippertron-1699503806--678d88b2-87b0-403b-b63d-5da7465aecc3---Achilles Last Stand</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
-      <pubDate>Wed, 08 Nov 2023 23:23:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Nov 2023 11:13:10 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - For Your Life (60 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699526903--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Let Me Live</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c32fca5ea6c4788959ee4f7013c6fd6.png" length="148394" type="image/png"/>
       <pubDate>Thu, 09 Nov 2023 05:48:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - I Was Born to Love You (33 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/I+Was+Born+to+Love+You</link>
+      <guid isPermaLink="false">Frippertron-1699527189--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---I Was Born to Love You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c32fca5ea6c4788959ee4f7013c6fd6.png" length="148394" type="image/png"/>
+      <pubDate>Thu, 09 Nov 2023 05:53:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>U.K. - Caesar's Palace Blues (31 plays)</title>
+      <link>https://www.last.fm/music/U.K./_/Caesar%27s+Palace+Blues</link>
+      <guid isPermaLink="false">Frippertron-1699528240--U.K.---Caesar's Palace Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f0af2981dfc002b0c5ee97faf1f0e85.png" length="204913" type="image/png"/>
+      <pubDate>Thu, 09 Nov 2023 06:10:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
