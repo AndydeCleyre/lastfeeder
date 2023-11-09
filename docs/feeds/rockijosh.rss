@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 18:38:04 +0000</lastBuildDate>
-    <item>
-      <title>Metronomy - Lately (1 play)</title>
-      <link>https://www.last.fm/music/Metronomy/_/Lately</link>
-      <guid isPermaLink="false">rockijosh-1699544367--93eb7110-0bc9-4d3f-816b-4b52ef982ec8---Lately</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7114432af811d0db39e9b414b88cba31.jpg" length="34093" type="image/jpeg"/>
-      <pubDate>Thu, 09 Nov 2023 10:39:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>Dope Lemon - Marinade (1 play)</title>
-      <link>https://www.last.fm/music/Dope+Lemon/_/Marinade</link>
-      <guid isPermaLink="false">rockijosh-1699544563--77c5db7c-6d5b-49c2-9ea6-82f3efcd1da2---Marinade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c89ec9148bef335a31d9816a1fc760c5.png" length="197826" type="image/png"/>
-      <pubDate>Thu, 09 Nov 2023 10:42:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Paradis - Recto Verso (1 play)</title>
-      <link>https://www.last.fm/music/Paradis/_/Recto+Verso</link>
-      <guid isPermaLink="false">rockijosh-1699544801--7ac725c0-099e-485a-82d7-a56e583b6a2f---Recto Verso</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/515eead357e506fe4d44e1645d4f4649.jpg" length="29458" type="image/jpeg"/>
-      <pubDate>Thu, 09 Nov 2023 10:46:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Parcels - Withorwithout (1 play)</title>
-      <link>https://www.last.fm/music/Parcels/_/Withorwithout</link>
-      <guid isPermaLink="false">rockijosh-1699545186--5318e774-f5b6-4ee0-82cb-4dcf398c3ff8---Withorwithout</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9bfec767d008bda467a78e9543e50110.png" length="179016" type="image/png"/>
-      <pubDate>Thu, 09 Nov 2023 10:53:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Nov 2023 18:52:18 +0000</lastBuildDate>
     <item>
       <title>Myd - The Sun (1 play)</title>
       <link>https://www.last.fm/music/Myd/_/The+Sun</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">rockijosh-1699554661--72034a05-bcd8-40c2-8255-3ee4ac0e7ef0---Nervous Tics</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08e66813b105906d718c6741cdaa2c5e.jpg" length="14103" type="image/jpeg"/>
       <pubDate>Thu, 09 Nov 2023 13:31:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Parcels - Lightenup (3 plays)</title>
+      <link>https://www.last.fm/music/Parcels/_/Lightenup</link>
+      <guid isPermaLink="false">rockijosh-1699554916--5318e774-f5b6-4ee0-82cb-4dcf398c3ff8---Lightenup</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9bfec767d008bda467a78e9543e50110.png" length="179016" type="image/png"/>
+      <pubDate>Thu, 09 Nov 2023 13:35:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>szymon - Blue Coloured Mountain (1 play)</title>
+      <link>https://www.last.fm/music/szymon/_/Blue+Coloured+Mountain</link>
+      <guid isPermaLink="false">rockijosh-1699555154--35880ac5-ad2c-4a49-972e-3bf29851e756---Blue Coloured Mountain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50e1385e4417a6bdca07bc5d923f0300.jpg" length="14506" type="image/jpeg"/>
+      <pubDate>Thu, 09 Nov 2023 13:39:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jungle - Happy Man (1 play)</title>
+      <link>https://www.last.fm/music/Jungle/_/Happy+Man</link>
+      <guid isPermaLink="false">rockijosh-1699555290--6bbb3983-ce8a-4971-96e0-7cae73268fc4---Happy Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/774508367fc9dcce73f44324cf961d28.jpg" length="14009" type="image/jpeg"/>
+      <pubDate>Thu, 09 Nov 2023 13:41:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sault - Why Why Why Why Why (1 play)</title>
+      <link>https://www.last.fm/music/Sault/_/Why+Why+Why+Why+Why</link>
+      <guid isPermaLink="false">rockijosh-1699555482--23b19bc5-813e-4456-bbae-ac3ca118f535---Why Why Why Why Why</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b4174b192e503b25420a484913fb764.jpg" length="3605" type="image/jpeg"/>
+      <pubDate>Thu, 09 Nov 2023 13:44:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
