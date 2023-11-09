@@ -44,5 +44,5 @@ structlog==23.2.0
     # via -r requirements.in
 tzlocal==5.2
     # via delorean
-wrapt==1.15.0
+wrapt==1.16.0
     # via -r requirements.in
