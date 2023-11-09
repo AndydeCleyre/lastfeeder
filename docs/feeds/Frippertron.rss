@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 04:52:48 +0000</lastBuildDate>
-    <item>
-      <title>Van der Graaf Generator - Urban (25 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Urban</link>
-      <guid isPermaLink="false">Frippertron-1699434417--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Urban</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
-      <pubDate>Wed, 08 Nov 2023 04:06:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>Van der Graaf Generator - Nadir's Big Chance (20 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Nadir%27s+Big+Chance</link>
-      <guid isPermaLink="false">Frippertron-1699434914--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Nadir's Big Chance</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
-      <pubDate>Wed, 08 Nov 2023 04:15:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Nov 2023 05:14:47 +0000</lastBuildDate>
     <item>
       <title>King Crimson - 21st Century Schizoid Man (360 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/21st+Century+Schizoid+Man</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699505107--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65fbda46e75bfbe6a65c024b7b5c12ff.jpg" length="30577" type="image/jpeg"/>
       <pubDate>Wed, 08 Nov 2023 23:45:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Bennie and the Jets (74 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
+      <guid isPermaLink="false">Frippertron-1699505631--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bennie and the Jets</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d4e915760f54d96cd76c9919ff22e65.png" length="203951" type="image/png"/>
+      <pubDate>Wed, 08 Nov 2023 23:53:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Funeral for a Friend/Love Lies Bleeding (38 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Funeral+for+a+Friend%2FLove+Lies+Bleeding</link>
+      <guid isPermaLink="false">Frippertron-1699505901--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Funeral for a Friend/Love Lies Bleeding</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d4e915760f54d96cd76c9919ff22e65.png" length="203951" type="image/png"/>
+      <pubDate>Wed, 08 Nov 2023 23:58:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
