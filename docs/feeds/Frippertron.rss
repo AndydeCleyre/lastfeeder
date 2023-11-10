@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Nov 2023 10:37:25 +0000</lastBuildDate>
-    <item>
-      <title>Electric Light Orchestra - Telephone Line (69 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Telephone+Line</link>
-      <guid isPermaLink="false">Frippertron-1699591530--0c502791-4ee9-4c5f-9696-0602b721ff3b---Telephone Line</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
-      <pubDate>Thu, 09 Nov 2023 23:45:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Nov 2023 10:52:51 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Rockaria! (59 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Rockaria!</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1699612191--83d91898-7763-47d7-b03b-b92132375c47---Have a Cigar</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/394cfbc6b2a74766a4364778c641ca51.png" length="62978" type="image/png"/>
       <pubDate>Fri, 10 Nov 2023 05:29:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Dogs (45 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Dogs</link>
+      <guid isPermaLink="false">Frippertron-1699612551--83d91898-7763-47d7-b03b-b92132375c47---Dogs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
+      <pubDate>Fri, 10 Nov 2023 05:35:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
