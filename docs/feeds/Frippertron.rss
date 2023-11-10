@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Nov 2023 04:52:12 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Out Of The Blue (15 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Out+Of+The+Blue</link>
-      <guid isPermaLink="false">Frippertron-1699521764--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Out Of The Blue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
-      <pubDate>Thu, 09 Nov 2023 04:22:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Idol (39 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Idol</link>
-      <guid isPermaLink="false">Frippertron-1699522141--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Idol</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
-      <pubDate>Thu, 09 Nov 2023 04:29:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Nov 2023 05:14:51 +0000</lastBuildDate>
     <item>
       <title>Elton John - Bite Your Lip (Get Up And Dance!) (39 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Bite+Your+Lip+(Get+Up+And+Dance!)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699591811--0c502791-4ee9-4c5f-9696-0602b721ff3b---Rockaria!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
       <pubDate>Thu, 09 Nov 2023 23:50:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Electric Light Orchestra - Mission (A World Record) (39 plays)</title>
+      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Mission+(A+World+Record)</link>
+      <guid isPermaLink="false">Frippertron-1699592006--0c502791-4ee9-4c5f-9696-0602b721ff3b---Mission (A World Record)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
+      <pubDate>Thu, 09 Nov 2023 23:53:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - Limbo (9 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Limbo</link>
+      <guid isPermaLink="false">Frippertron-1699592351--ac5af671-1df0-4312-8b7b-e61992ecc883---Limbo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d11ecc85939f88fe56781024792c1903.jpg" length="17315" type="image/jpeg"/>
+      <pubDate>Thu, 09 Nov 2023 23:59:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
