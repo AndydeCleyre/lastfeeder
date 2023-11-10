@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Nov 2023 11:13:26 +0000</lastBuildDate>
-    <item>
-      <title>Yellow Magic Orchestra - Firecracker (50 plays)</title>
-      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Firecracker</link>
-      <guid isPermaLink="false">Frippertron-1699593931--ac5af671-1df0-4312-8b7b-e61992ecc883---Firecracker</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c80547cecb6444a170f98128430f0add.jpg" length="26506" type="image/jpeg"/>
-      <pubDate>Fri, 10 Nov 2023 00:25:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yellow Magic Orchestra - Rydeen (53 plays)</title>
-      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Rydeen</link>
-      <guid isPermaLink="false">Frippertron-1699594224--ac5af671-1df0-4312-8b7b-e61992ecc883---Rydeen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c18a765927dcd3befa8b63a587fc625e.jpg" length="23267" type="image/jpeg"/>
-      <pubDate>Fri, 10 Nov 2023 00:30:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Nov 2023 11:25:00 +0000</lastBuildDate>
     <item>
       <title>Yellow Magic Orchestra - Behind the Mask (83 plays)</title>
       <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Behind+the+Mask</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699614615--959cf5bf-ee29-4af6-a85a-0b480181d988---Each and Every One</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e98c28f4799f4b8bbff55d16ddc6b8bd.jpg" length="32092" type="image/jpeg"/>
       <pubDate>Fri, 10 Nov 2023 06:10:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hawkwind - Motorhead (75 plays)</title>
+      <link>https://www.last.fm/music/Hawkwind/_/Motorhead</link>
+      <guid isPermaLink="false">Frippertron-1699614853--5a28f8c2-31fb-4047-ae57-c5c326989262---Motorhead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e00490cf157781ef51c2ff1758f8c520.png" length="197955" type="image/png"/>
+      <pubDate>Fri, 10 Nov 2023 06:14:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hawkwind - Assault and Battery, Part I (4 plays)</title>
+      <link>https://www.last.fm/music/Hawkwind/_/Assault+and+Battery,+Part+I</link>
+      <guid isPermaLink="false">Frippertron-1699615038--5a28f8c2-31fb-4047-ae57-c5c326989262---Assault and Battery, Part I</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e00490cf157781ef51c2ff1758f8c520.png" length="197955" type="image/png"/>
+      <pubDate>Fri, 10 Nov 2023 06:17:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
