@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Nov 2023 18:37:14 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - On The Run - 2011 Remastered Version (6 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/On+The+Run+-+2011+Remastered+Version</link>
-      <guid isPermaLink="false">manosg--1699468587--83d91898-7763-47d7-b03b-b92132375c47---On The Run - 2011 Remastered Version</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9868095a938b514667faf89dd042b7cc.jpg" length="5019" type="image/jpeg"/>
-      <pubDate>Wed, 08 Nov 2023 13:36:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Nov 2023 18:52:17 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Time - 2011 Remastered Version (6 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Time+-+2011+Remastered+Version</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1699726770--Sacro---The End</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/694fa56f0bd538dd7f602f9302f5dad8.jpg" length="26395" type="image/jpeg"/>
       <pubDate>Sat, 11 Nov 2023 13:19:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sacro - Kingdom Of Rock (1 play)</title>
+      <link>https://www.last.fm/music/Sacro/_/Kingdom+Of+Rock</link>
+      <guid isPermaLink="false">manosg--1699727339--Sacro---Kingdom Of Rock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/694fa56f0bd538dd7f602f9302f5dad8.jpg" length="26395" type="image/jpeg"/>
+      <pubDate>Sat, 11 Nov 2023 13:28:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
