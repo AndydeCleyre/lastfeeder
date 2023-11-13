@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Nov 2023 08:20:55 +0000</lastBuildDate>
-    <item>
-      <title>Cibo Matto - Spoon (1 play)</title>
-      <link>https://www.last.fm/music/Cibo+Matto/_/Spoon</link>
-      <guid isPermaLink="false">Frippertron-1699810100--dc4968ba-1fe0-43b9-bba0-81c09acd6326---Spoon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/089be02c0f364e0dcea41314cd2d8dd9.png" length="179946" type="image/png"/>
-      <pubDate>Sun, 12 Nov 2023 12:28:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cibo Matto - Flowers (1 play)</title>
-      <link>https://www.last.fm/music/Cibo+Matto/_/Flowers</link>
-      <guid isPermaLink="false">Frippertron-1699810349--dc4968ba-1fe0-43b9-bba0-81c09acd6326---Flowers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/089be02c0f364e0dcea41314cd2d8dd9.png" length="179946" type="image/png"/>
-      <pubDate>Sun, 12 Nov 2023 12:32:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cibo Matto - Lint of Love (1 play)</title>
-      <link>https://www.last.fm/music/Cibo+Matto/_/Lint+of+Love</link>
-      <guid isPermaLink="false">Frippertron-1699810531--dc4968ba-1fe0-43b9-bba0-81c09acd6326---Lint of Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/089be02c0f364e0dcea41314cd2d8dd9.png" length="179946" type="image/png"/>
-      <pubDate>Sun, 12 Nov 2023 12:35:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Nov 2023 08:52:10 +0000</lastBuildDate>
     <item>
       <title>Cibo Matto - Moonchild (1 play)</title>
       <link>https://www.last.fm/music/Cibo+Matto/_/Moonchild</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1699862919--3f77449d-48e4-4ceb-b869-69af48da877b---ART OF LIFE</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e41937b73095fd9c1332b896e7a22bb7.jpg" length="22536" type="image/jpeg"/>
       <pubDate>Mon, 13 Nov 2023 03:08:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Electric Light Orchestra - Tightrope (76 plays)</title>
+      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Tightrope</link>
+      <guid isPermaLink="false">Frippertron-1699864648--0c502791-4ee9-4c5f-9696-0602b721ff3b---Tightrope</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
+      <pubDate>Mon, 13 Nov 2023 03:37:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Electric Light Orchestra - Telephone Line (70 plays)</title>
+      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Telephone+Line</link>
+      <guid isPermaLink="false">Frippertron-1699864954--0c502791-4ee9-4c5f-9696-0602b721ff3b---Telephone Line</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
+      <pubDate>Mon, 13 Nov 2023 03:42:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Electric Light Orchestra - Rockaria! (60 plays)</title>
+      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Rockaria!</link>
+      <guid isPermaLink="false">Frippertron-1699865236--0c502791-4ee9-4c5f-9696-0602b721ff3b---Rockaria!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
+      <pubDate>Mon, 13 Nov 2023 03:47:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
