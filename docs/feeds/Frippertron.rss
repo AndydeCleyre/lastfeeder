@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Nov 2023 05:15:14 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Out Of The Blue (16 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Out+Of+The+Blue</link>
-      <guid isPermaLink="false">Frippertron-1699611460--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Out Of The Blue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
-      <pubDate>Fri, 10 Nov 2023 05:17:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Nov 2023 05:28:58 +0000</lastBuildDate>
     <item>
       <title>Elton John - Idol (40 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Idol</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1699851667--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---The End of Asia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f84ae4d6261be905ee2fb8b11ff1ab4.jpg" length="21132" type="image/jpeg"/>
       <pubDate>Mon, 13 Nov 2023 00:01:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Get on Down Home (15 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Get+on+Down+Home</link>
+      <guid isPermaLink="false">Frippertron-1699853019--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---Get on Down Home</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/943f8e408aa94287a6b9b80580f2ba6e.jpg" length="33314" type="image/jpeg"/>
+      <pubDate>Mon, 13 Nov 2023 00:23:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
