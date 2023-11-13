@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Nov 2023 17:52:09 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - The Great Deceiver (93 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/The+Great+Deceiver</link>
-      <guid isPermaLink="false">Frippertron-1699603645--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Great Deceiver</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 10 Nov 2023 03:07:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Nov 2023 03:16:50 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Red (133 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Red</link>
@@ -219,7 +212,7 @@
       <pubDate>Fri, 10 Nov 2023 06:04:28 -0500</pubDate>
     </item>
     <item>
-      <title>Everything But the Girl - Each and Every One (127 plays)</title>
+      <title>Everything But the Girl - Each and Every One (128 plays)</title>
       <link>https://www.last.fm/music/Everything+But+the+Girl/_/Each+and+Every+One</link>
       <guid isPermaLink="false">Frippertron-1699614615--959cf5bf-ee29-4af6-a85a-0b480181d988---Each and Every One</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e98c28f4799f4b8bbff55d16ddc6b8bd.jpg" length="32092" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1699811220--dc4968ba-1fe0-43b9-bba0-81c09acd6326---Sci-Fi Wasabi</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/089be02c0f364e0dcea41314cd2d8dd9.png" length="179946" type="image/png"/>
       <pubDate>Sun, 12 Nov 2023 12:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Everything But the Girl - Each and Every One (128 plays)</title>
+      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Each+and+Every+One</link>
+      <guid isPermaLink="false">Frippertron-1699845136--959cf5bf-ee29-4af6-a85a-0b480181d988---Each and Every One</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e98c28f4799f4b8bbff55d16ddc6b8bd.jpg" length="32092" type="image/jpeg"/>
+      <pubDate>Sun, 12 Nov 2023 22:12:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
