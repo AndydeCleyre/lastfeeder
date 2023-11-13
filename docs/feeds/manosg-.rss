@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Nov 2023 10:18:39 +0000</lastBuildDate>
-    <item>
-      <title>Deep Purple - Living Wreck - 1995 Remaster (2 plays)</title>
-      <link>https://www.last.fm/music/Deep+Purple/_/Living+Wreck+-+1995+Remaster</link>
-      <guid isPermaLink="false">manosg--1699622495--Deep Purple---Living Wreck - 1995 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a41e148cea539ba0fa76f472237e4038.jpg" length="27778" type="image/jpeg"/>
-      <pubDate>Fri, 10 Nov 2023 08:21:35 -0500</pubDate>
-    </item>
-    <item>
-      <title>Deep Purple - Hard Lovin' Man - 1995 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Deep+Purple/_/Hard+Lovin%27+Man+-+1995+Remaster</link>
-      <guid isPermaLink="false">manosg--1699623036--Deep Purple---Hard Lovin' Man - 1995 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a41e148cea539ba0fa76f472237e4038.jpg" length="27778" type="image/jpeg"/>
-      <pubDate>Fri, 10 Nov 2023 08:30:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Howling Giant - Hourglass (1 play)</title>
-      <link>https://www.last.fm/music/Howling+Giant/_/Hourglass</link>
-      <guid isPermaLink="false">manosg--1699631179--a85ef641-ea2b-49f6-8e3b-2f0455797ecc---Hourglass</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62cc378ac3d0af20410ca22aeab77b33.jpg" length="34477" type="image/jpeg"/>
-      <pubDate>Fri, 10 Nov 2023 10:46:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Nov 2023 10:40:00 +0000</lastBuildDate>
     <item>
       <title>Howling Giant - Siren Song (1 play)</title>
       <link>https://www.last.fm/music/Howling+Giant/_/Siren+Song</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1699869220--fee6ed7d-975a-4daa-9d77-6bb97ed36f84---Dark Side of the Moog</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4aaa1379904d75a13b947d7da478ed.jpg" length="32160" type="image/jpeg"/>
       <pubDate>Mon, 13 Nov 2023 04:53:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Colosseum II - Down to You (1 play)</title>
+      <link>https://www.last.fm/music/Colosseum+II/_/Down+to+You</link>
+      <guid isPermaLink="false">manosg--1699869605--fee6ed7d-975a-4daa-9d77-6bb97ed36f84---Down to You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4aaa1379904d75a13b947d7da478ed.jpg" length="32160" type="image/jpeg"/>
+      <pubDate>Mon, 13 Nov 2023 05:00:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Colosseum II - Gemini and Leo (1 play)</title>
+      <link>https://www.last.fm/music/Colosseum+II/_/Gemini+and+Leo</link>
+      <guid isPermaLink="false">manosg--1699871399--fee6ed7d-975a-4daa-9d77-6bb97ed36f84---Gemini and Leo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4aaa1379904d75a13b947d7da478ed.jpg" length="32160" type="image/jpeg"/>
+      <pubDate>Mon, 13 Nov 2023 05:29:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Colosseum II - Secret Places (1 play)</title>
+      <link>https://www.last.fm/music/Colosseum+II/_/Secret+Places</link>
+      <guid isPermaLink="false">manosg--1699871689--fee6ed7d-975a-4daa-9d77-6bb97ed36f84---Secret Places</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e4aaa1379904d75a13b947d7da478ed.jpg" length="32160" type="image/jpeg"/>
+      <pubDate>Mon, 13 Nov 2023 05:34:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
