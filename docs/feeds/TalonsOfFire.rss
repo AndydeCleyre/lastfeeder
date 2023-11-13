@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Nov 2023 18:20:43 +0000</lastBuildDate>
-    <item>
-      <title>Mikko Tarmia - Next To The Guardian (2 plays)</title>
-      <link>https://www.last.fm/music/Mikko+Tarmia/_/Next+To+The+Guardian</link>
-      <guid isPermaLink="false">TalonsOfFire-1698799729--9d5c3d11-e02e-452b-acaa-e70804243624---Next To The Guardian</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d883510d811d8870bd13feb65ce94361.png" length="151678" type="image/png"/>
-      <pubDate>Tue, 31 Oct 2023 20:48:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Buckley - Fortune Go with You (2 plays)</title>
-      <link>https://www.last.fm/music/David+Buckley/_/Fortune+Go+with+You</link>
-      <guid isPermaLink="false">TalonsOfFire-1698799730--0aad8921-dfaf-42b0-bb1a-1a2d6cf97b9b---Fortune Go with You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3f938271d288a557277e90892f3ba41.jpg" length="20523" type="image/jpeg"/>
-      <pubDate>Tue, 31 Oct 2023 20:48:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Nov 2023 18:38:38 +0000</lastBuildDate>
     <item>
       <title>David Buckley - Fortune Go with You (2 plays)</title>
       <link>https://www.last.fm/music/David+Buckley/_/Fortune+Go+with+You</link>
@@ -334,6 +320,7 @@
       <title>Björk - Possibly Maybe (1 play)</title>
       <link>https://www.last.fm/music/Bj%C3%B6rk/_/Possibly+Maybe</link>
       <guid isPermaLink="false">TalonsOfFire-1699897751--87c5dedd-371d-4a53-9f7f-80522fb7f3cb---Possibly Maybe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ef2b4e3f6399166bee68b27f875a5cb.jpg" length="25728" type="image/jpeg"/>
       <pubDate>Mon, 13 Nov 2023 12:49:11 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1699898420--87c5dedd-371d-4a53-9f7f-80522fb7f3cb---Headphones</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ef2b4e3f6399166bee68b27f875a5cb.jpg" length="25728" type="image/jpeg"/>
       <pubDate>Mon, 13 Nov 2023 13:00:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>MGMT - Mother Nature (1 play)</title>
+      <link>https://www.last.fm/music/MGMT/_/Mother+Nature</link>
+      <guid isPermaLink="false">TalonsOfFire-1699899672--c485632c-b784-4ee9-8ea1-c5fb365681fc---Mother Nature</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8775c55cdb4864be6862353ef8d61e5f.jpg" length="39726" type="image/jpeg"/>
+      <pubDate>Mon, 13 Nov 2023 13:21:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Smile - Wall Of Eyes (1 play)</title>
+      <link>https://www.last.fm/music/The+Smile/_/Wall+Of+Eyes</link>
+      <guid isPermaLink="false">TalonsOfFire-1699899978--The Smile---Wall Of Eyes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a43c6cfd9d14f09ae31e7f1b00fae5b8.jpg" length="39529" type="image/jpeg"/>
+      <pubDate>Mon, 13 Nov 2023 13:26:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
