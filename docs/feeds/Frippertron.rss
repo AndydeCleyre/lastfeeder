@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 07:14:14 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - In My Time of Dying (54 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/In+My+Time+of+Dying</link>
-      <guid isPermaLink="false">Frippertron-1699870734--678d88b2-87b0-403b-b63d-5da7465aecc3---In My Time of Dying</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Mon, 13 Nov 2023 05:18:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Trampled Under Foot (62 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Trampled+Under+Foot</link>
-      <guid isPermaLink="false">Frippertron-1699871404--678d88b2-87b0-403b-b63d-5da7465aecc3---Trampled Under Foot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Mon, 13 Nov 2023 05:30:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Nov 2023 08:20:08 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Kashmir (73 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Kashmir</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699945474--5441c29d-3602-4898-b1a1-b77fa23b8e50---Afraid</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de189195ab834c449adfc34815549796.png" length="157830" type="image/png"/>
       <pubDate>Tue, 14 Nov 2023 02:04:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Trampled Under Foot (63 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Trampled+Under+Foot</link>
+      <guid isPermaLink="false">Frippertron-1699949453--678d88b2-87b0-403b-b63d-5da7465aecc3---Trampled Under Foot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
+      <pubDate>Tue, 14 Nov 2023 03:10:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Princes of the Universe (18 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Princes+of+the+Universe</link>
+      <guid isPermaLink="false">Frippertron-1699949793--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Princes of the Universe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4c38c817e5142f2a865f087d11c4894.png" length="208957" type="image/png"/>
+      <pubDate>Tue, 14 Nov 2023 03:16:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
