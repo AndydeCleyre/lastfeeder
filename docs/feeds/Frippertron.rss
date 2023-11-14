@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 06:52:15 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Changes (144 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Changes</link>
-      <guid isPermaLink="false">Frippertron-1699870255--5441c29d-3602-4898-b1a1-b77fa23b8e50---Changes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Mon, 13 Nov 2023 05:10:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Custard Pie (40 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Custard+Pie</link>
-      <guid isPermaLink="false">Frippertron-1699870478--678d88b2-87b0-403b-b63d-5da7465aecc3---Custard Pie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Mon, 13 Nov 2023 05:14:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Nov 2023 07:14:14 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - In My Time of Dying (54 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/In+My+Time+of+Dying</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1699944498--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bring Me The Disco King</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45d9302a3796493dc908e8028dd0098e.png" length="180524" type="image/png"/>
       <pubDate>Tue, 14 Nov 2023 01:48:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Dead Man Walking (73 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
+      <guid isPermaLink="false">Frippertron-1699945048--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <pubDate>Tue, 14 Nov 2023 01:57:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Afraid (86 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Afraid</link>
+      <guid isPermaLink="false">Frippertron-1699945474--5441c29d-3602-4898-b1a1-b77fa23b8e50---Afraid</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de189195ab834c449adfc34815549796.png" length="157830" type="image/png"/>
+      <pubDate>Tue, 14 Nov 2023 02:04:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
