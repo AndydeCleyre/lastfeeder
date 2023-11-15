@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 16:52:16 +0000</lastBuildDate>
-    <item>
-      <title>Jamie xx - Loud Places (20 plays)</title>
-      <link>https://www.last.fm/music/Jamie+xx/_/Loud+Places</link>
-      <guid isPermaLink="false">ddgromit-1699839222--d1515727-4a93-4c0d-88cb-d7a9fce01879---Loud Places</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/83e49ea6cea3d9418ab3368af6052097.png" length="22236" type="image/png"/>
-      <pubDate>Sun, 12 Nov 2023 20:33:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>Solange - Losing You (9 plays)</title>
-      <link>https://www.last.fm/music/Solange/_/Losing+You</link>
-      <guid isPermaLink="false">ddgromit-1699839800--410e7fd3-b865-4fa0-bb18-1b7fd53382ca---Losing You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7337061812d84f59a1a0d206be7309e5.png" length="5808" type="image/png"/>
-      <pubDate>Sun, 12 Nov 2023 20:43:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>Disclosure - Help Me Lose My Mind (5 plays)</title>
-      <link>https://www.last.fm/music/Disclosure/_/Help+Me+Lose+My+Mind</link>
-      <guid isPermaLink="false">ddgromit-1699840062--Disclosure---Help Me Lose My Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2c5da101722d8af2c5f87ce76dcb7c5.jpg" length="30407" type="image/jpeg"/>
-      <pubDate>Sun, 12 Nov 2023 20:47:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Nov 2023 17:41:44 +0000</lastBuildDate>
     <item>
       <title>Shura - Touch (3 plays)</title>
       <link>https://www.last.fm/music/Shura/_/Touch</link>
@@ -282,6 +261,13 @@
       <pubDate>Mon, 13 Nov 2023 17:15:31 -0500</pubDate>
     </item>
     <item>
+      <title>All Saints - Pure Shores (2 plays)</title>
+      <link>https://www.last.fm/music/All+Saints/_/Pure+Shores</link>
+      <guid isPermaLink="false">ddgromit-1699977916--a371601f-c184-4683-806d-2eb35e88f0d7---Pure Shores</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/daecd1a76f1537ae0a5ba6a985a02260.jpg" length="29536" type="image/jpeg"/>
+      <pubDate>Tue, 14 Nov 2023 11:05:16 -0500</pubDate>
+    </item>
+    <item>
       <title>Jack Botts - Gypsy (1 play)</title>
       <link>https://www.last.fm/music/Jack+Botts/_/Gypsy</link>
       <guid isPermaLink="false">ddgromit-1699977935--98f205b5-2fc3-47f9-9523-614a66f1ff80---Gypsy</guid>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1699980129--c87cdfa5-d59f-4e5f-92dc-6320aec37bb1---Golden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0fa4a6779a60615c359b6442e3f60f9c.jpg" length="13329" type="image/jpeg"/>
       <pubDate>Tue, 14 Nov 2023 11:42:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kazuma Jinnouchi - Earth (1 play)</title>
+      <link>https://www.last.fm/music/Kazuma+Jinnouchi/_/Earth</link>
+      <guid isPermaLink="false">ddgromit-1700069906--c9c59c75-f51b-4e38-bc15-b3a036f4d0ad---Earth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/435a609ce3cc96596b4c9081b507ce54.jpg" length="27509" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 12:38:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kazuma Jinnouchi - Survival (1 play)</title>
+      <link>https://www.last.fm/music/Kazuma+Jinnouchi/_/Survival</link>
+      <guid isPermaLink="false">ddgromit-1700069967--c9c59c75-f51b-4e38-bc15-b3a036f4d0ad---Survival</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/435a609ce3cc96596b4c9081b507ce54.jpg" length="27509" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 12:39:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
