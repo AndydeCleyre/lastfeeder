@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 18:20:07 +0000</lastBuildDate>
-    <item>
-      <title>Robyn - Hang with Me (4 plays)</title>
-      <link>https://www.last.fm/music/Robyn/_/Hang+with+Me</link>
-      <guid isPermaLink="false">ddgromit-1699901499--Robyn---Hang with Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5c899a52d2cfd06a81f489afeaeaff4.png" length="114368" type="image/png"/>
-      <pubDate>Mon, 13 Nov 2023 13:51:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Adrian Lux - Teenage Crime (Radio Edit) (1 play)</title>
-      <link>https://www.last.fm/music/Adrian+Lux/_/Teenage+Crime+(Radio+Edit)</link>
-      <guid isPermaLink="false">ddgromit-1699901759--259bdba7-e6bf-49e3-822e-85ea3d68384c---Teenage Crime (Radio Edit)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b5ea213113d4f6c9e9ea21601a51486.png" length="128204" type="image/png"/>
-      <pubDate>Mon, 13 Nov 2023 13:55:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Nov 2023 18:37:31 +0000</lastBuildDate>
     <item>
       <title>Christine and the Queens - iT (16 plays)</title>
       <link>https://www.last.fm/music/Christine+and+the+Queens/_/iT</link>
@@ -215,6 +201,7 @@
       <title>Oshima Brothers - Dance With Me (1 play)</title>
       <link>https://www.last.fm/music/Oshima+Brothers/_/Dance+With+Me</link>
       <guid isPermaLink="false">ddgromit-1699978529--Oshima Brothers---Dance With Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/abb9ff701eeeca86caadb4b1975014a2.jpg" length="16400" type="image/jpeg"/>
       <pubDate>Tue, 14 Nov 2023 11:15:29 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1700072194--fcfa9543-e113-4ef9-9ef6-455ba4cbe7af---Box #10</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21e4bc5dcd448a2f59091f2865b4639c.jpg" length="25483" type="image/jpeg"/>
       <pubDate>Wed, 15 Nov 2023 13:16:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fleetwood Mac - Rhiannon (6 plays)</title>
+      <link>https://www.last.fm/music/Fleetwood+Mac/_/Rhiannon</link>
+      <guid isPermaLink="false">ddgromit-1700072342--bd13909f-1c29-4c27-a874-d4aaf27c5b1a---Rhiannon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a836c6afaad4dd19849f980272febc4.png" length="90371" type="image/png"/>
+      <pubDate>Wed, 15 Nov 2023 13:19:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>James Taylor - Mexico - 2019 Remaster (2 plays)</title>
+      <link>https://www.last.fm/music/James+Taylor/_/Mexico+-+2019+Remaster</link>
+      <guid isPermaLink="false">ddgromit-1700072595--James Taylor---Mexico - 2019 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/301cddc43c5140f83d29d2f32b28c7dd.jpg" length="9178" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 13:23:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
