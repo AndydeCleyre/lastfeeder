@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 06:21:36 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Kashmir (74 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Kashmir</link>
-      <guid isPermaLink="false">Frippertron-1699959206--678d88b2-87b0-403b-b63d-5da7465aecc3---Kashmir</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 14 Nov 2023 05:53:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Trampled Under Foot (65 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Trampled+Under+Foot</link>
-      <guid isPermaLink="false">Frippertron-1699959730--678d88b2-87b0-403b-b63d-5da7465aecc3---Trampled Under Foot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a80e9c36eb0e1b9dd1c076357e297f1d.jpg" length="29642" type="image/jpeg"/>
-      <pubDate>Tue, 14 Nov 2023 06:02:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Nov 2023 06:38:57 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - The Song Remains the Same (161 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1700029165--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Princes of the Universe</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4c38c817e5142f2a865f087d11c4894.png" length="208957" type="image/png"/>
       <pubDate>Wed, 15 Nov 2023 01:19:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Still Life (28 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Still+Life</link>
+      <guid isPermaLink="false">Frippertron-1700029511--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 01:25:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Avalanche (27 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Avalanche</link>
+      <guid isPermaLink="false">Frippertron-1700030092--65314b12-0e08-43fa-ba33-baaa7b874c15---Avalanche</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/51f0001e0488514abe02b64fdff1896b.jpg" length="17936" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 01:34:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
