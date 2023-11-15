@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 09:52:22 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - I Wanna Be Your Man - Remastered 2009 (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/I+Wanna+Be+Your+Man+-+Remastered+2009</link>
-      <guid isPermaLink="false">manosg--1699900040--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---I Wanna Be Your Man - Remastered 2009</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1610a5e4bb4420c7ec924946d93015af.jpg" length="14258" type="image/jpeg"/>
-      <pubDate>Mon, 13 Nov 2023 13:27:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Nov 2023 10:40:10 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Devil In Her Heart - Remastered 2009 (1 play)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Devil+In+Her+Heart+-+Remastered+2009</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1700041184--Blue Iverson---Coy Boy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18ba32f1261bdafe45452e32ffbbf7e5.jpg" length="18813" type="image/jpeg"/>
       <pubDate>Wed, 15 Nov 2023 04:39:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Blue Iverson - Soulseek (1 play)</title>
+      <link>https://www.last.fm/music/Blue+Iverson/_/Soulseek</link>
+      <guid isPermaLink="false">manosg--1700041237--Blue Iverson---Soulseek</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18ba32f1261bdafe45452e32ffbbf7e5.jpg" length="18813" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 04:40:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
