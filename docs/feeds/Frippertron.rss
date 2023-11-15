@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 09:38:19 +0000</lastBuildDate>
-    <item>
-      <title>Roy Wood - You Sure Got It Now (5 plays)</title>
-      <link>https://www.last.fm/music/Roy+Wood/_/You+Sure+Got+It+Now</link>
-      <guid isPermaLink="false">Frippertron-1700020024--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---You Sure Got It Now</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/943f8e408aa94287a6b9b80580f2ba6e.jpg" length="33314" type="image/jpeg"/>
-      <pubDate>Tue, 14 Nov 2023 22:47:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roy Wood - Get on Down Home (16 plays)</title>
-      <link>https://www.last.fm/music/Roy+Wood/_/Get+on+Down+Home</link>
-      <guid isPermaLink="false">Frippertron-1700020457--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---Get on Down Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/943f8e408aa94287a6b9b80580f2ba6e.jpg" length="33314" type="image/jpeg"/>
-      <pubDate>Tue, 14 Nov 2023 22:54:17 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Nov 2023 09:52:08 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Since I've Been Loving You (101 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1700040719--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
       <pubDate>Wed, 15 Nov 2023 04:31:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Royal Orleans (37 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Royal+Orleans</link>
+      <guid isPermaLink="false">Frippertron-1700041104--678d88b2-87b0-403b-b63d-5da7465aecc3---Royal Orleans</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Wed, 15 Nov 2023 04:38:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Nobody's Fault but Mine (31 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Nobody%27s+Fault+but+Mine</link>
+      <guid isPermaLink="false">Frippertron-1700041285--678d88b2-87b0-403b-b63d-5da7465aecc3---Nobody's Fault but Mine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Wed, 15 Nov 2023 04:41:25 -0500</pubDate>
     </item>
   </channel>
 </rss>

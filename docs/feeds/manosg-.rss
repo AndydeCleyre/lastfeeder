@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 09:37:43 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - You Really Got A Hold On Me - Remastered 2009 (1 play)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/You+Really+Got+A+Hold+On+Me+-+Remastered+2009</link>
-      <guid isPermaLink="false">manosg--1699899846--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---You Really Got A Hold On Me - Remastered 2009</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1610a5e4bb4420c7ec924946d93015af.jpg" length="14258" type="image/jpeg"/>
-      <pubDate>Mon, 13 Nov 2023 13:24:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Nov 2023 09:52:22 +0000</lastBuildDate>
     <item>
       <title>The Beatles - I Wanna Be Your Man - Remastered 2009 (1 play)</title>
       <link>https://www.last.fm/music/The+Beatles/_/I+Wanna+Be+Your+Man+-+Remastered+2009</link>
@@ -61,6 +54,7 @@
       <title>Pink Floyd - See Emily Play - 1996 Remastered Version (1 play)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/See+Emily+Play+-+1996+Remastered+Version</link>
       <guid isPermaLink="false">manosg--1699904090--83d91898-7763-47d7-b03b-b92132375c47---See Emily Play - 1996 Remastered Version</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/972be880e65b872ba86223d6b0468cc2.jpg" length="16585" type="image/jpeg"/>
       <pubDate>Mon, 13 Nov 2023 14:34:50 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1700040517--f4857fb9-e255-4dc6-bd01-e4ca7cc68544---Manifest Destiny</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba868fa377c1911b78c414bde3e78ab3.png" length="205724" type="image/png"/>
       <pubDate>Wed, 15 Nov 2023 04:28:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Blue Iverson - Coy Boy (1 play)</title>
+      <link>https://www.last.fm/music/Blue+Iverson/_/Coy+Boy</link>
+      <guid isPermaLink="false">manosg--1700041184--Blue Iverson---Coy Boy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18ba32f1261bdafe45452e32ffbbf7e5.jpg" length="18813" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 04:39:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
