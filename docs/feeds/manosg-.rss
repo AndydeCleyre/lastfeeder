@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 17:15:37 +0000</lastBuildDate>
-    <item>
-      <title>"Weird Al" Yankovic - Ricky (10 plays)</title>
-      <link>https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/Ricky</link>
-      <guid isPermaLink="false">manosg--1699946433--7746d775-9550-4360-b8d5-c37bd448ce01---Ricky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6417f7bc3bb69691323690c12fc360f.jpg" length="53798" type="image/jpeg"/>
-      <pubDate>Tue, 14 Nov 2023 02:20:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>"Weird Al" Yankovic - My Bologna (21 plays)</title>
-      <link>https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/My+Bologna</link>
-      <guid isPermaLink="false">manosg--1699946546--7746d775-9550-4360-b8d5-c37bd448ce01---My Bologna</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6417f7bc3bb69691323690c12fc360f.jpg" length="53798" type="image/jpeg"/>
-      <pubDate>Tue, 14 Nov 2023 02:22:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Nov 2023 17:29:24 +0000</lastBuildDate>
     <item>
       <title>"Weird Al" Yankovic - Like a Surgeon (4 plays)</title>
       <link>https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/Like+a+Surgeon</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1700068171--Fugees---Cowboys (feat. Outsidaz)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dad0579f6e98d76be9211f8c56221b8.jpg" length="10549" type="image/jpeg"/>
       <pubDate>Wed, 15 Nov 2023 12:09:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fugees - No Woman, No Cry (1 play)</title>
+      <link>https://www.last.fm/music/Fugees/_/No+Woman,+No+Cry</link>
+      <guid isPermaLink="false">manosg--1700068495--ea321799-9b1d-4e74-a074-a5facf597d82---No Woman, No Cry</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dad0579f6e98d76be9211f8c56221b8.jpg" length="10549" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 12:14:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fugees - Manifest/Outro (1 play)</title>
+      <link>https://www.last.fm/music/Fugees/_/Manifest%2FOutro</link>
+      <guid isPermaLink="false">manosg--1700068769--ea321799-9b1d-4e74-a074-a5facf597d82---Manifest/Outro</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dad0579f6e98d76be9211f8c56221b8.jpg" length="10549" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 12:19:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
