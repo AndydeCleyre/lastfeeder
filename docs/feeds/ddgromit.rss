@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 01:14:29 +0000</lastBuildDate>
-    <item>
-      <title>King Harvest - Dancing In The Moonlight (2 plays)</title>
-      <link>https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight</link>
-      <guid isPermaLink="false">ddgromit-1700071489--3e6e3015-5f02-4068-a44c-728dc9fe218b---Dancing In The Moonlight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ff1ad893afd6e87a74b6e6aac8f3780.jpg" length="33626" type="image/jpeg"/>
-      <pubDate>Wed, 15 Nov 2023 13:04:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Nov 2023 07:52:20 +0000</lastBuildDate>
     <item>
       <title>Gerry Rafferty - Right Down The Line (5 plays)</title>
       <link>https://www.last.fm/music/Gerry+Rafferty/_/Right+Down+The+Line</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1700095389--f9133869-f87c-459c-9aa7-2f176cda7e06---greedy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff9e4b944f7abd725ec3ad3c3d572f3c.jpg" length="23900" type="image/jpeg"/>
       <pubDate>Wed, 15 Nov 2023 19:43:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tyla - Water (1 play)</title>
+      <link>https://www.last.fm/music/Tyla/_/Water</link>
+      <guid isPermaLink="false">ddgromit-1700095521--Tyla---Water</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28afc6ab608f507ad53ad64aad1f3cb1.jpg" length="22610" type="image/jpeg"/>
+      <pubDate>Wed, 15 Nov 2023 19:45:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
