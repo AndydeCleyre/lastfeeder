@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 12:32:46 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Spread Your Wings (48 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Spread+Your+Wings</link>
-      <guid isPermaLink="false">Frippertron-1700116856--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Spread Your Wings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2220b5d920e64379b920b1a2e29b4950.png" length="211756" type="image/png"/>
-      <pubDate>Thu, 16 Nov 2023 01:40:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Get Down, Make Love (69 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Get+Down,+Make+Love</link>
-      <guid isPermaLink="false">Frippertron-1700117137--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Get Down, Make Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2220b5d920e64379b920b1a2e29b4950.png" length="211756" type="image/png"/>
-      <pubDate>Thu, 16 Nov 2023 01:45:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Nov 2023 13:00:29 +0000</lastBuildDate>
     <item>
       <title>Queen - Don't Stop Me Now (43 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Don%27t+Stop+Me+Now</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1700137180--5441c29d-3602-4898-b1a1-b77fa23b8e50---Quicksand</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
       <pubDate>Thu, 16 Nov 2023 07:19:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Idol (43 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Idol</link>
+      <guid isPermaLink="false">Frippertron-1700138978--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Idol</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
+      <pubDate>Thu, 16 Nov 2023 07:49:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Goodbye (11 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Goodbye</link>
+      <guid isPermaLink="false">Frippertron-1700139234--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Goodbye</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
+      <pubDate>Thu, 16 Nov 2023 07:53:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
