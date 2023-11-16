@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 16:22:58 +0000</lastBuildDate>
-    <item>
-      <title>Watain - Malfeitor (2 plays)</title>
-      <link>https://www.last.fm/music/Watain/_/Malfeitor</link>
-      <guid isPermaLink="false">gameofmetal-1699986884--8c51b06d-b678-4bbf-aeac-7295dfb69d13---Malfeitor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7b08126358356720702c7a099242327.jpg" length="35921" type="image/jpeg"/>
-      <pubDate>Tue, 14 Nov 2023 13:34:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Watain - Reaping Death (2 plays)</title>
-      <link>https://www.last.fm/music/Watain/_/Reaping+Death</link>
-      <guid isPermaLink="false">gameofmetal-1699988024--8c51b06d-b678-4bbf-aeac-7295dfb69d13---Reaping Death</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7b08126358356720702c7a099242327.jpg" length="35921" type="image/jpeg"/>
-      <pubDate>Tue, 14 Nov 2023 13:53:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Nov 2023 16:43:10 +0000</lastBuildDate>
     <item>
       <title>Watain - Four Thrones (2 plays)</title>
       <link>https://www.last.fm/music/Watain/_/Four+Thrones</link>
@@ -142,7 +128,7 @@
       <pubDate>Wed, 15 Nov 2023 09:25:18 -0500</pubDate>
     </item>
     <item>
-      <title>Kaatayra - Toda Mágoa do Mundo (1 play)</title>
+      <title>Kaatayra - Toda Mágoa do Mundo (2 plays)</title>
       <link>https://www.last.fm/music/Kaatayra/_/Toda+M%C3%A1goa+do+Mundo</link>
       <guid isPermaLink="false">gameofmetal-1700068273--998879e0-7bdc-41f6-8aa6-1d93f8475558---Toda Mágoa do Mundo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71e7be97fd43eda44ba8d9461c8f92cb.jpg" length="13826" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1700150227--Kaatayra---O Castigo Vem a Cavalo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71e7be97fd43eda44ba8d9461c8f92cb.jpg" length="13826" type="image/jpeg"/>
       <pubDate>Thu, 16 Nov 2023 10:57:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kaatayra - Toda Mágoa do Mundo (2 plays)</title>
+      <link>https://www.last.fm/music/Kaatayra/_/Toda+M%C3%A1goa+do+Mundo</link>
+      <guid isPermaLink="false">gameofmetal-1700151656--998879e0-7bdc-41f6-8aa6-1d93f8475558---Toda Mágoa do Mundo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71e7be97fd43eda44ba8d9461c8f92cb.jpg" length="13826" type="image/jpeg"/>
+      <pubDate>Thu, 16 Nov 2023 11:20:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Antediluvian - Serpent of Thy Grail (1 play)</title>
+      <link>https://www.last.fm/music/Antediluvian/_/Serpent+of+Thy+Grail</link>
+      <guid isPermaLink="false">gameofmetal-1700152504--2d03a651-7435-47b3-9197-26f7c5d6193f---Serpent of Thy Grail</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07de084d0ceb3c55bdfad6db0108094f.jpg" length="44300" type="image/jpeg"/>
+      <pubDate>Thu, 16 Nov 2023 11:35:04 -0500</pubDate>
     </item>
   </channel>
 </rss>
