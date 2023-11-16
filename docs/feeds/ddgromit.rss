@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 18:38:45 +0000</lastBuildDate>
-    <item>
-      <title>James Taylor - Mexico - 2019 Remaster (3 plays)</title>
-      <link>https://www.last.fm/music/James+Taylor/_/Mexico+-+2019+Remaster</link>
-      <guid isPermaLink="false">ddgromit-1700082299--James Taylor---Mexico - 2019 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/301cddc43c5140f83d29d2f32b28c7dd.jpg" length="9178" type="image/jpeg"/>
-      <pubDate>Wed, 15 Nov 2023 16:04:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gordon Lightfoot - Carefree Highway (1 play)</title>
-      <link>https://www.last.fm/music/Gordon+Lightfoot/_/Carefree+Highway</link>
-      <guid isPermaLink="false">ddgromit-1700082478--9d97b077-b28d-4ba8-a3d9-c71926e3b2b6---Carefree Highway</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88c54fac6a283d5e47a01d3569799125.jpg" length="23862" type="image/jpeg"/>
-      <pubDate>Wed, 15 Nov 2023 16:07:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neil Diamond - Cherry Cherry (1 play)</title>
-      <link>https://www.last.fm/music/Neil+Diamond/_/Cherry+Cherry</link>
-      <guid isPermaLink="false">ddgromit-1700082701--a42d3fd5-55de-4206-86c3-4fbb5404018f---Cherry Cherry</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76b9f25e97ffb6c86ef5451224566535.jpg" length="27771" type="image/jpeg"/>
-      <pubDate>Wed, 15 Nov 2023 16:11:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Nov 2023 18:52:12 +0000</lastBuildDate>
     <item>
       <title>Fleetwood Mac - Landslide (6 plays)</title>
       <link>https://www.last.fm/music/Fleetwood+Mac/_/Landslide</link>
@@ -348,14 +327,34 @@
       <title>Shaed - Trampoline (25 plays)</title>
       <link>https://www.last.fm/music/Shaed/_/Trampoline</link>
       <guid isPermaLink="false">ddgromit-1700159370--f9777ea6-02fd-4ba1-8266-cd619f3937fd---Trampoline</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3a9c1cf08264fe5dffbe43c0ff1d6fed.jpg" length="13784" type="image/jpeg"/>
       <pubDate>Thu, 16 Nov 2023 13:29:30 -0500</pubDate>
     </item>
     <item>
       <title>Submotion Orchestra - Kites (13 plays)</title>
       <link>https://www.last.fm/music/Submotion+Orchestra/_/Kites</link>
       <guid isPermaLink="false">ddgromit-1700159556--5a59b740-deb2-4bd4-8abb-5a46b9c3aa6f---Kites</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a801bf581bc5ef65ce5865301d4ffa4.png" length="105530" type="image/png"/>
       <pubDate>Thu, 16 Nov 2023 13:32:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>True Damage - GIANTS (4 plays)</title>
+      <link>https://www.last.fm/music/True+Damage/_/GIANTS</link>
+      <guid isPermaLink="false">ddgromit-1700159927--True Damage---GIANTS</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc9bfcbe0f040c95ec850813adbea8dd.png" length="143638" type="image/png"/>
+      <pubDate>Thu, 16 Nov 2023 13:38:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Submotion Orchestra - Doppelgänger (1 play)</title>
+      <link>https://www.last.fm/music/Submotion+Orchestra/_/Doppelg%C3%A4nger</link>
+      <guid isPermaLink="false">ddgromit-1700160119--5a59b740-deb2-4bd4-8abb-5a46b9c3aa6f---Doppelgänger</guid>
+      <pubDate>Thu, 16 Nov 2023 13:41:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Shaed - Wish I (2 plays)</title>
+      <link>https://www.last.fm/music/Shaed/_/Wish+I</link>
+      <guid isPermaLink="false">ddgromit-1700160336--f9777ea6-02fd-4ba1-8266-cd619f3937fd---Wish I</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3a9c1cf08264fe5dffbe43c0ff1d6fed.jpg" length="13784" type="image/jpeg"/>
+      <pubDate>Thu, 16 Nov 2023 13:45:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
