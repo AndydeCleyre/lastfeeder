@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 08:20:42 +0000</lastBuildDate>
-    <item>
-      <title>Sade - Mr Wrong (22 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Mr+Wrong</link>
-      <guid isPermaLink="false">manosg--1700030748--67930b3e-e00b-469f-8c74-fd69f20522ec---Mr Wrong</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d49bf5d8b40fd32c0af3601e6d84a138.png" length="169582" type="image/png"/>
-      <pubDate>Wed, 15 Nov 2023 01:45:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sade - Punch Drunk (19 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Punch+Drunk</link>
-      <guid isPermaLink="false">manosg--1700030920--67930b3e-e00b-469f-8c74-fd69f20522ec---Punch Drunk</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d49bf5d8b40fd32c0af3601e6d84a138.png" length="169582" type="image/png"/>
-      <pubDate>Wed, 15 Nov 2023 01:48:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Nov 2023 10:17:42 +0000</lastBuildDate>
     <item>
       <title>Sade - Never as Good as the First Time (25 plays)</title>
       <link>https://www.last.fm/music/Sade/_/Never+as+Good+as+the+First+Time</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1700121132--f2da4752-8db0-4e54-8f30-680acaa8e1cf---I Saw God On 10th St.</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d86e909fd985e77c4b640e436100236.jpg" length="25708" type="image/jpeg"/>
       <pubDate>Thu, 16 Nov 2023 02:52:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Duff McKagan - Fallen (1 play)</title>
+      <link>https://www.last.fm/music/Duff+McKagan/_/Fallen</link>
+      <guid isPermaLink="false">manosg--1700121802--f2da4752-8db0-4e54-8f30-680acaa8e1cf---Fallen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d86e909fd985e77c4b640e436100236.jpg" length="25708" type="image/jpeg"/>
+      <pubDate>Thu, 16 Nov 2023 03:03:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Duff McKagan - Forgiveness (1 play)</title>
+      <link>https://www.last.fm/music/Duff+McKagan/_/Forgiveness</link>
+      <guid isPermaLink="false">manosg--1700129583--f2da4752-8db0-4e54-8f30-680acaa8e1cf---Forgiveness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d86e909fd985e77c4b640e436100236.jpg" length="25708" type="image/jpeg"/>
+      <pubDate>Thu, 16 Nov 2023 05:13:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
