@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Nov 2023 11:37:48 +0000</lastBuildDate>
-    <item>
-      <title>The Who - 5:15 (50 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/5:15</link>
-      <guid isPermaLink="false">Frippertron-1700028828--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---5:15</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Wed, 15 Nov 2023 01:13:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Princes of the Universe (19 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Princes+of+the+Universe</link>
-      <guid isPermaLink="false">Frippertron-1700029165--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Princes of the Universe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4c38c817e5142f2a865f087d11c4894.png" length="208957" type="image/png"/>
-      <pubDate>Wed, 15 Nov 2023 01:19:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Van der Graaf Generator - Still Life (28 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Still+Life</link>
-      <guid isPermaLink="false">Frippertron-1700029511--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
-      <pubDate>Wed, 15 Nov 2023 01:25:11 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Nov 2023 02:52:38 +0000</lastBuildDate>
     <item>
       <title>Leonard Cohen - Avalanche (27 plays)</title>
       <link>https://www.last.fm/music/Leonard+Cohen/_/Avalanche</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1700047595--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Goodbye</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
       <pubDate>Wed, 15 Nov 2023 06:26:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nine Horses - Wonderful World (33 plays)</title>
+      <link>https://www.last.fm/music/Nine+Horses/_/Wonderful+World</link>
+      <guid isPermaLink="false">Frippertron-1700102018--Nine Horses---Wonderful World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d897419ffc44d5f9d84b6250a11bb3f.png" length="126242" type="image/png"/>
+      <pubDate>Wed, 15 Nov 2023 21:33:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nine Horses - Darkest Birds (11 plays)</title>
+      <link>https://www.last.fm/music/Nine+Horses/_/Darkest+Birds</link>
+      <guid isPermaLink="false">Frippertron-1700102382--Nine Horses---Darkest Birds</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d897419ffc44d5f9d84b6250a11bb3f.png" length="126242" type="image/png"/>
+      <pubDate>Wed, 15 Nov 2023 21:39:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nine Horses - The Banality of Evil (9 plays)</title>
+      <link>https://www.last.fm/music/Nine+Horses/_/The+Banality+of+Evil</link>
+      <guid isPermaLink="false">Frippertron-1700102691--Nine Horses---The Banality of Evil</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d897419ffc44d5f9d84b6250a11bb3f.png" length="126242" type="image/png"/>
+      <pubDate>Wed, 15 Nov 2023 21:44:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
