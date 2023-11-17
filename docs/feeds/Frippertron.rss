@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Nov 2023 06:52:27 +0000</lastBuildDate>
-    <item>
-      <title>Sault - Fearless (1 play)</title>
-      <link>https://www.last.fm/music/Sault/_/Fearless</link>
-      <guid isPermaLink="false">Frippertron-1700156450--23b19bc5-813e-4456-bbae-ac3ca118f535---Fearless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03f4d70e2cfa8743c9df7e7488b38bb6.jpg" length="2982" type="image/jpeg"/>
-      <pubDate>Thu, 16 Nov 2023 12:40:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sault - Rise (1 play)</title>
-      <link>https://www.last.fm/music/Sault/_/Rise</link>
-      <guid isPermaLink="false">Frippertron-1700156702--23b19bc5-813e-4456-bbae-ac3ca118f535---Rise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03f4d70e2cfa8743c9df7e7488b38bb6.jpg" length="2982" type="image/jpeg"/>
-      <pubDate>Thu, 16 Nov 2023 12:45:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Nov 2023 07:14:54 +0000</lastBuildDate>
     <item>
       <title>Sault - I Just Want to Dance (1 play)</title>
       <link>https://www.last.fm/music/Sault/_/I+Just+Want+to+Dance</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1700203861--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---Dusseldorf Disco</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/788a1dd7bc3afa75047c8e44cb3247da.jpg" length="19084" type="image/jpeg"/>
       <pubDate>Fri, 17 Nov 2023 01:51:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cymbals - Wingspan (23 plays)</title>
+      <link>https://www.last.fm/music/Cymbals/_/Wingspan</link>
+      <guid isPermaLink="false">Frippertron-1700203912--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---Wingspan</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/788a1dd7bc3afa75047c8e44cb3247da.jpg" length="19084" type="image/jpeg"/>
+      <pubDate>Fri, 17 Nov 2023 01:51:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cymbals - Bonjour Bonsoir (7 plays)</title>
+      <link>https://www.last.fm/music/Cymbals/_/Bonjour+Bonsoir</link>
+      <guid isPermaLink="false">Frippertron-1700204170--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---Bonjour Bonsoir</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebb05e58820271771421c490de81714.png" length="169815" type="image/png"/>
+      <pubDate>Fri, 17 Nov 2023 01:56:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
