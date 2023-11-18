@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Nov 2023 22:40:30 +0000</lastBuildDate>
-    <item>
-      <title>Tate McRae - greedy (4 plays)</title>
-      <link>https://www.last.fm/music/Tate+McRae/_/greedy</link>
-      <guid isPermaLink="false">ddgromit-1700263493--f9133869-f87c-459c-9aa7-2f176cda7e06---greedy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff9e4b944f7abd725ec3ad3c3d572f3c.jpg" length="23900" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 18:24:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tory Lanez - Hurts Me (1 play)</title>
-      <link>https://www.last.fm/music/Tory+Lanez/_/Hurts+Me</link>
-      <guid isPermaLink="false">ddgromit-1700263626--Tory Lanez---Hurts Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f2677d286bb34ca6185db12653634c09.jpg" length="24152" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 18:27:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>cassö - Prada - Acoustic Version (1 play)</title>
-      <link>https://www.last.fm/music/cass%C3%B6/_/Prada+-+Acoustic+Version</link>
-      <guid isPermaLink="false">ddgromit-1700263766--cassö---Prada - Acoustic Version</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb4d3a61eb6ed0cea7968ae580a3949a.jpg" length="17964" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 18:29:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Nov 2023 22:52:11 +0000</lastBuildDate>
     <item>
       <title>Doja Cat - Say So (3 plays)</title>
       <link>https://www.last.fm/music/Doja+Cat/_/Say+So</link>
@@ -320,6 +299,7 @@
       <title>David Byrne - Don’t You Agree (feat. Róisín Murphy) (1 play)</title>
       <link>https://www.last.fm/music/David+Byrne/_/Don%E2%80%99t+You+Agree+(feat.+R%C3%B3is%C3%ADn+Murphy)</link>
       <guid isPermaLink="false">ddgromit-1700345506--David Byrne---Don’t You Agree (feat. Róisín Murphy)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56b8bd1db9f67360935724a84de80163.jpg" length="17815" type="image/jpeg"/>
       <pubDate>Sat, 18 Nov 2023 17:11:46 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1700346785--4c56405d-ba8e-4283-99c3-1dc95bdd50e7---Fader</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/918d75494e9c9ce204dc8190aaa97a92.jpg" length="17117" type="image/jpeg"/>
       <pubDate>Sat, 18 Nov 2023 17:33:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Róisín Murphy - Let Me Know (1 play)</title>
+      <link>https://www.last.fm/music/R%C3%B3is%C3%ADn+Murphy/_/Let+Me+Know</link>
+      <guid isPermaLink="false">ddgromit-1700347048--4c56405d-ba8e-4283-99c3-1dc95bdd50e7---Let Me Know</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb7e9b58b2b44a4c8120a4daf49044c8.png" length="173562" type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 17:37:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Róisín Murphy - Lip Service (1 play)</title>
+      <link>https://www.last.fm/music/R%C3%B3is%C3%ADn+Murphy/_/Lip+Service</link>
+      <guid isPermaLink="false">ddgromit-1700347358--4c56405d-ba8e-4283-99c3-1dc95bdd50e7---Lip Service</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9040cbee6ef5efb737bba23c20c8dfa.png" length="173694" type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 17:42:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>DJ Koze - Scratch That (1 play)</title>
+      <link>https://www.last.fm/music/DJ+Koze/_/Scratch+That</link>
+      <guid isPermaLink="false">ddgromit-1700347626--dd4458c8-6728-4a44-980c-48107fa72bb8---Scratch That</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/882af81f164e7b6b437b2ae0b90d50e8.jpg" length="24379" type="image/jpeg"/>
+      <pubDate>Sat, 18 Nov 2023 17:47:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
