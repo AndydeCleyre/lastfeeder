@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Nov 2023 22:28:13 +0000</lastBuildDate>
-    <item>
-      <title>Labrinth - Formula (1 play)</title>
-      <link>https://www.last.fm/music/Labrinth/_/Formula</link>
-      <guid isPermaLink="false">ddgromit-1700263022--dc99e6fd-c710-4f79-b74b-127b4d0b7849---Formula</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d8fa60c989b138ca95cc564ae19e115.jpg" length="20145" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 18:17:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Doja Cat - Been Like This (1 play)</title>
-      <link>https://www.last.fm/music/Doja+Cat/_/Been+Like+This</link>
-      <guid isPermaLink="false">ddgromit-1700263115--5df62a88-cac9-490a-b62c-c7c88f4020f4---Been Like This</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2321c0b23c484ab566746c0dddfc777b.png" length="218218" type="image/png"/>
-      <pubDate>Fri, 17 Nov 2023 18:18:35 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tyla - Water (3 plays)</title>
-      <link>https://www.last.fm/music/Tyla/_/Water</link>
-      <guid isPermaLink="false">ddgromit-1700263292--Tyla---Water</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28afc6ab608f507ad53ad64aad1f3cb1.jpg" length="22610" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 18:21:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Nov 2023 22:40:30 +0000</lastBuildDate>
     <item>
       <title>Tate McRae - greedy (4 plays)</title>
       <link>https://www.last.fm/music/Tate+McRae/_/greedy</link>
@@ -341,7 +320,6 @@
       <title>David Byrne - Don’t You Agree (feat. Róisín Murphy) (1 play)</title>
       <link>https://www.last.fm/music/David+Byrne/_/Don%E2%80%99t+You+Agree+(feat.+R%C3%B3is%C3%ADn+Murphy)</link>
       <guid isPermaLink="false">ddgromit-1700345506--David Byrne---Don’t You Agree (feat. Róisín Murphy)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56b8bd1db9f67360935724a84de80163.jpg" length="17815" type="image/jpeg"/>
       <pubDate>Sat, 18 Nov 2023 17:11:46 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">ddgromit-1700345983--4c56405d-ba8e-4283-99c3-1dc95bdd50e7---Primitive</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb7e9b58b2b44a4c8120a4daf49044c8.png" length="173562" type="image/png"/>
       <pubDate>Sat, 18 Nov 2023 17:19:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Róisín Murphy - Something More (Edit) (1 play)</title>
+      <link>https://www.last.fm/music/R%C3%B3is%C3%ADn+Murphy/_/Something+More+(Edit)</link>
+      <guid isPermaLink="false">ddgromit-1700346273--4c56405d-ba8e-4283-99c3-1dc95bdd50e7---Something More (Edit)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9b44d5b8cff491f5b9081f45adb28ff.png" length="173462" type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 17:24:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>DJ Koze - Illumination (1 play)</title>
+      <link>https://www.last.fm/music/DJ+Koze/_/Illumination</link>
+      <guid isPermaLink="false">ddgromit-1700346514--dd4458c8-6728-4a44-980c-48107fa72bb8---Illumination</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/882af81f164e7b6b437b2ae0b90d50e8.jpg" length="24379" type="image/jpeg"/>
+      <pubDate>Sat, 18 Nov 2023 17:28:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Róisín Murphy - Fader (1 play)</title>
+      <link>https://www.last.fm/music/R%C3%B3is%C3%ADn+Murphy/_/Fader</link>
+      <guid isPermaLink="false">ddgromit-1700346785--4c56405d-ba8e-4283-99c3-1dc95bdd50e7---Fader</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/918d75494e9c9ce204dc8190aaa97a92.jpg" length="17117" type="image/jpeg"/>
+      <pubDate>Sat, 18 Nov 2023 17:33:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
