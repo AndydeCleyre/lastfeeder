@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Nov 2023 23:38:40 +0000</lastBuildDate>
-    <item>
-      <title>Taylor Swift - Cruel Summer (15 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Cruel+Summer</link>
-      <guid isPermaLink="false">ddgromit-1700265591--20244d07-534f-4eff-b4d4-930878889970---Cruel Summer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3f083370c371a3ba1cddafaf193c27d.jpg" length="12639" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 18:59:51 -0500</pubDate>
-    </item>
-    <item>
-      <title>Loud Luxury - If Only I (feat. Bebe Rexha) (3 plays)</title>
-      <link>https://www.last.fm/music/Loud+Luxury/_/If+Only+I+(feat.+Bebe+Rexha)</link>
-      <guid isPermaLink="false">ddgromit-1700265770--4c445344-9df2-407e-9bf3-8a5c0b86777e---If Only I (feat. Bebe Rexha)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86efa7c46a4b6bdb986079c79109d6ec.jpg" length="14994" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 19:02:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Nov 2023 23:52:14 +0000</lastBuildDate>
     <item>
       <title>Doja Cat - Woman (6 plays)</title>
       <link>https://www.last.fm/music/Doja+Cat/_/Woman</link>
@@ -212,7 +198,7 @@
       <pubDate>Sat, 18 Nov 2023 16:51:12 -0500</pubDate>
     </item>
     <item>
-      <title>Róisín Murphy - Incapable</title>
+      <title>Róisín Murphy - Incapable (1 play)</title>
       <link>https://www.last.fm/music/R%C3%B3is%C3%ADn+Murphy/_/Incapable</link>
       <guid isPermaLink="false">ddgromit-1700344502--4c56405d-ba8e-4283-99c3-1dc95bdd50e7---Incapable</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee00a4e004f386324cc3a940f94f0bca.png" length="191664" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1700350401--Boris Dlugosch---Never Enough - Sir Piers Radio Edit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75bdbd9c4a1f170c3cdf0c635185e7a8.jpg" length="13255" type="image/jpeg"/>
       <pubDate>Sat, 18 Nov 2023 18:33:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Róisín Murphy - Momma's Place (1 play)</title>
+      <link>https://www.last.fm/music/R%C3%B3is%C3%ADn+Murphy/_/Momma%27s+Place</link>
+      <guid isPermaLink="false">ddgromit-1700350635--4c56405d-ba8e-4283-99c3-1dc95bdd50e7---Momma's Place</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b015c17068194cdaac18a10f00bc81e5.png" length="123282" type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 18:37:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Róisín Murphy - Simulation (1 play)</title>
+      <link>https://www.last.fm/music/R%C3%B3is%C3%ADn+Murphy/_/Simulation</link>
+      <guid isPermaLink="false">ddgromit-1700350903--4c56405d-ba8e-4283-99c3-1dc95bdd50e7---Simulation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee00a4e004f386324cc3a940f94f0bca.png" length="191664" type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 18:41:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
