@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Nov 2023 17:13:52 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Tiny Dancer (21 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Tiny+Dancer</link>
-      <guid isPermaLink="false">Frippertron-1700212127--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Tiny Dancer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 04:08:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Levon (58 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Levon</link>
-      <guid isPermaLink="false">Frippertron-1700212506--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Levon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 04:15:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Madman Across the Water (45 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Madman+Across+the+Water</link>
-      <guid isPermaLink="false">Frippertron-1700212851--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Madman Across the Water</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 04:20:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Nov 2023 17:26:46 +0000</lastBuildDate>
     <item>
       <title>Elton John - Goodbye (12 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Goodbye</link>
@@ -194,6 +173,7 @@
       <title>Material Girl - Mikahel (1 play)</title>
       <link>https://www.last.fm/music/Material+Girl/_/Mikahel</link>
       <guid isPermaLink="false">Frippertron-1700399796--8038297b-a345-4a13-8493-f0c04ece224c---Mikahel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/863c39dd558521c1a2ea6a8e466406b5.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Sun, 19 Nov 2023 08:16:36 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1700413790--dec0f331-cb08-4c8e-9c9f-aeb1f0f6d88c---Chaotic</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fa78097300d39c197b2a1f6b9e22bb8.jpg" length="26777" type="image/jpeg"/>
       <pubDate>Sun, 19 Nov 2023 12:09:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>ODD EYE CIRCLE - Starlight (1 play)</title>
+      <link>https://www.last.fm/music/ODD+EYE+CIRCLE/_/Starlight</link>
+      <guid isPermaLink="false">Frippertron-1700414032--dec0f331-cb08-4c8e-9c9f-aeb1f0f6d88c---Starlight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fa78097300d39c197b2a1f6b9e22bb8.jpg" length="26777" type="image/jpeg"/>
+      <pubDate>Sun, 19 Nov 2023 12:13:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>ODD EYE CIRCLE - ODD Front (1 play)</title>
+      <link>https://www.last.fm/music/ODD+EYE+CIRCLE/_/ODD+Front</link>
+      <guid isPermaLink="false">Frippertron-1700414247--dec0f331-cb08-4c8e-9c9f-aeb1f0f6d88c---ODD Front</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fa78097300d39c197b2a1f6b9e22bb8.jpg" length="26777" type="image/jpeg"/>
+      <pubDate>Sun, 19 Nov 2023 12:17:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Allie X - Weird World (1 play)</title>
+      <link>https://www.last.fm/music/Allie+X/_/Weird+World</link>
+      <guid isPermaLink="false">Frippertron-1700414514--7c922f2c-9d2b-4f37-a139-cddb83722ab3---Weird World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b9205d8043a8995bd5b14d58d641dd6.jpg" length="12594" type="image/jpeg"/>
+      <pubDate>Sun, 19 Nov 2023 12:21:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
