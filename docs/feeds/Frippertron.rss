@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Nov 2023 16:19:20 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Stay (261 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
-      <guid isPermaLink="false">Frippertron-1700209279--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 03:21:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Paul McCartney - Coming Up (28 plays)</title>
-      <link>https://www.last.fm/music/Paul+McCartney/_/Coming+Up</link>
-      <guid isPermaLink="false">Frippertron-1700209650--ba550d0e-adac-4864-b88b-407cab5e76af---Coming Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbc32d92bf384d5495d871c024c6ed3d.png" length="199147" type="image/png"/>
-      <pubDate>Fri, 17 Nov 2023 03:27:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>Danny Brown - Quaranta (1 play)</title>
-      <link>https://www.last.fm/music/Danny+Brown/_/Quaranta</link>
-      <guid isPermaLink="false">Frippertron-1700209896--960afc67-9c21-46dd-9c7f-ff2b509e3150---Quaranta</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c42f05e7e5b149d7888799ca23418396.jpg" length="4295" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 03:31:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Nov 2023 16:39:04 +0000</lastBuildDate>
     <item>
       <title>Danny Brown - Tantor (2 plays)</title>
       <link>https://www.last.fm/music/Danny+Brown/_/Tantor</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1700410303--774b02d7-5056-4b0f-9d69-a82b6ae27cde---Immaterial</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4442374c2f1f2aa5092891204e080ad6.jpg" length="22990" type="image/jpeg"/>
       <pubDate>Sun, 19 Nov 2023 11:11:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sophie - Whole New World/Pretend World (1 play)</title>
+      <link>https://www.last.fm/music/Sophie/_/Whole+New+World%2FPretend+World</link>
+      <guid isPermaLink="false">Frippertron-1700410539--774b02d7-5056-4b0f-9d69-a82b6ae27cde---Whole New World/Pretend World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4442374c2f1f2aa5092891204e080ad6.jpg" length="22990" type="image/jpeg"/>
+      <pubDate>Sun, 19 Nov 2023 11:15:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cymbals - E.G.G. (16 plays)</title>
+      <link>https://www.last.fm/music/Cymbals/_/E.G.G.</link>
+      <guid isPermaLink="false">Frippertron-1700411309--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---E.G.G.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebb05e58820271771421c490de81714.png" length="169815" type="image/png"/>
+      <pubDate>Sun, 19 Nov 2023 11:28:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cymbals - 時間を名乗る天使 (6 plays)</title>
+      <link>https://www.last.fm/music/Cymbals/_/%E6%99%82%E9%96%93%E3%82%92%E5%90%8D%E4%B9%97%E3%82%8B%E5%A4%A9%E4%BD%BF</link>
+      <guid isPermaLink="false">Frippertron-1700411586--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---時間を名乗る天使</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebb05e58820271771421c490de81714.png" length="169815" type="image/png"/>
+      <pubDate>Sun, 19 Nov 2023 11:33:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
