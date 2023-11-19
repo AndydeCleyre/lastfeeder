@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Nov 2023 07:38:25 +0000</lastBuildDate>
-    <item>
-      <title>Catherine Wheel - Crank (8 plays)</title>
-      <link>https://www.last.fm/music/Catherine+Wheel/_/Crank</link>
-      <guid isPermaLink="false">Arcade1996-1700317356--d1de4931-60da-41ca-afae-daeb7b6e7ec4---Crank</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f535be0d85caa057fadfc47845af924.jpg" length="16638" type="image/jpeg"/>
-      <pubDate>Sat, 18 Nov 2023 09:22:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Nov 2023 07:52:13 +0000</lastBuildDate>
     <item>
       <title>Big Audio Dynamite - Just Play Music (27 plays)</title>
       <link>https://www.last.fm/music/Big+Audio+Dynamite/_/Just+Play+Music</link>
@@ -327,6 +320,7 @@
       <title>Bush - Machinehead - Remastered (7 plays)</title>
       <link>https://www.last.fm/music/Bush/_/Machinehead+-+Remastered</link>
       <guid isPermaLink="false">Arcade1996-1700377505--Bush---Machinehead - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/052b875cb32ac1953a152b4122e16a76.png" length="174060" type="image/png"/>
       <pubDate>Sun, 19 Nov 2023 02:05:05 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1700378566--aa266ac7-d919-4132-982e-76cbd95591a7---Shine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8356c11e4235271de7c9e355a985d419.jpg" length="28743" type="image/jpeg"/>
       <pubDate>Sun, 19 Nov 2023 02:22:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Verve - Bitter Sweet Symphony - Remastered 2016 (1 play)</title>
+      <link>https://www.last.fm/music/The+Verve/_/Bitter+Sweet+Symphony+-+Remastered+2016</link>
+      <guid isPermaLink="false">Arcade1996-1700379672--The Verve---Bitter Sweet Symphony - Remastered 2016</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f80a44bb84c662d615f9db92767e8b1c.jpg" length="28501" type="image/jpeg"/>
+      <pubDate>Sun, 19 Nov 2023 02:41:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
