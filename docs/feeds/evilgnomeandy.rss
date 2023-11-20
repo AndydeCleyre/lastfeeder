@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Nov 2023 18:19:08 +0000</lastBuildDate>
-    <item>
-      <title>Matt Berry - Hail to the King (4 plays)</title>
-      <link>https://www.last.fm/music/Matt+Berry/_/Hail+to+the+King</link>
-      <guid isPermaLink="false">evilgnomeandy-1700184447--6ab9dd05-b18d-49c5-bb93-b6bd0ca64eb0---Hail to the King</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/853a9b407c3f7213ef0e866f1f2b73a8.jpg" length="31590" type="image/jpeg"/>
-      <pubDate>Thu, 16 Nov 2023 20:27:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Nov 2023 09:17:37 +0000</lastBuildDate>
     <item>
       <title>Jerry Reed - Guitar Man (17 plays)</title>
       <link>https://www.last.fm/music/Jerry+Reed/_/Guitar+Man</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1700417180--69ee3720-a7cb-4402-b48d-a02c366f2bcf---Lovesong</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/429fd312f3d5cb652a9c9ec262495742.jpg" length="19240" type="image/jpeg"/>
       <pubDate>Sun, 19 Nov 2023 13:06:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Harry Chapin - Cat's in the Cradle (42 plays)</title>
+      <link>https://www.last.fm/music/Harry+Chapin/_/Cat%27s+in+the+Cradle</link>
+      <guid isPermaLink="false">evilgnomeandy-1700417610--ae4e3542-7838-4a6f-b753-08216be5a6bb---Cat's in the Cradle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f76201de12bc156d7b42e4d8a4facf4.jpg" length="20486" type="image/jpeg"/>
+      <pubDate>Sun, 19 Nov 2023 13:13:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
