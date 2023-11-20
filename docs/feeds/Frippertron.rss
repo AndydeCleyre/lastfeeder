@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Nov 2023 03:17:28 +0000</lastBuildDate>
-    <item>
-      <title>Manic Street Preachers - Faster (70 plays)</title>
-      <link>https://www.last.fm/music/Manic+Street+Preachers/_/Faster</link>
-      <guid isPermaLink="false">Frippertron-1700219032--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---Faster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46fc03ebdb564e8bceb72d68608249a4.png" length="91812" type="image/png"/>
-      <pubDate>Fri, 17 Nov 2023 06:03:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gentle Giant - River (12 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/River</link>
-      <guid isPermaLink="false">Frippertron-1700219311--f795c501-1c41-4be2-bc2a-875eba75aa31---River</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdbf28c4b6db4bfa80af31d5835ce943.jpg" length="26038" type="image/jpeg"/>
-      <pubDate>Fri, 17 Nov 2023 06:08:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gentle Giant - Just the Same (93 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/Just+the+Same</link>
-      <guid isPermaLink="false">Frippertron-1700219719--f795c501-1c41-4be2-bc2a-875eba75aa31---Just the Same</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8c28d169f913c91814bcdbbd4405914.png" length="246860" type="image/png"/>
-      <pubDate>Fri, 17 Nov 2023 06:15:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Material Girl - Mikahel (1 play)</title>
-      <link>https://www.last.fm/music/Material+Girl/_/Mikahel</link>
-      <guid isPermaLink="false">Frippertron-1700399796--8038297b-a345-4a13-8493-f0c04ece224c---Mikahel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/863c39dd558521c1a2ea6a8e466406b5.jpg" length="17543" type="image/jpeg"/>
-      <pubDate>Sun, 19 Nov 2023 08:16:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Nov 2023 03:37:36 +0000</lastBuildDate>
     <item>
       <title>Danny Brown - Tantor (2 plays)</title>
       <link>https://www.last.fm/music/Danny+Brown/_/Tantor</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1700448822--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Sorry Seems to Be the Hardest Word</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
       <pubDate>Sun, 19 Nov 2023 21:53:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Just the Same (94 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Just+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1700450189--f795c501-1c41-4be2-bc2a-875eba75aa31---Just the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8c28d169f913c91814bcdbbd4405914.png" length="246860" type="image/png"/>
+      <pubDate>Sun, 19 Nov 2023 22:16:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Free Hand (31 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Free+Hand</link>
+      <guid isPermaLink="false">Frippertron-1700450516--f795c501-1c41-4be2-bc2a-875eba75aa31---Free Hand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8c28d169f913c91814bcdbbd4405914.png" length="246860" type="image/png"/>
+      <pubDate>Sun, 19 Nov 2023 22:21:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Knots (24 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Knots</link>
+      <guid isPermaLink="false">Frippertron-1700450923--f795c501-1c41-4be2-bc2a-875eba75aa31---Knots</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdbf28c4b6db4bfa80af31d5835ce943.jpg" length="26038" type="image/jpeg"/>
+      <pubDate>Sun, 19 Nov 2023 22:28:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - River (13 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/River</link>
+      <guid isPermaLink="false">Frippertron-1700451182--f795c501-1c41-4be2-bc2a-875eba75aa31---River</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdbf28c4b6db4bfa80af31d5835ce943.jpg" length="26038" type="image/jpeg"/>
+      <pubDate>Sun, 19 Nov 2023 22:33:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
