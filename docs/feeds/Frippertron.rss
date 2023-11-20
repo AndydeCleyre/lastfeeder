@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Nov 2023 10:39:30 +0000</lastBuildDate>
-    <item>
-      <title>Queen - It's a Beautiful Day (11 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/It%27s+a+Beautiful+Day</link>
-      <guid isPermaLink="false">Frippertron-1700457578--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---It's a Beautiful Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c32fca5ea6c4788959ee4f7013c6fd6.png" length="148394" type="image/png"/>
-      <pubDate>Mon, 20 Nov 2023 00:19:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Made in Heaven (22 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Made+in+Heaven</link>
-      <guid isPermaLink="false">Frippertron-1700457750--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Made in Heaven</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c32fca5ea6c4788959ee4f7013c6fd6.png" length="148394" type="image/png"/>
-      <pubDate>Mon, 20 Nov 2023 00:22:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Nov 2023 10:52:48 +0000</lastBuildDate>
     <item>
       <title>Queen - Let Me Live (8 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Let+Me+Live</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1700476230--Japan---Gentlemen Take Polaroids</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10c675c080ecf175df7467e34a7ac2cd.jpg" length="20630" type="image/jpeg"/>
       <pubDate>Mon, 20 Nov 2023 05:30:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Japan - Swing (13 plays)</title>
+      <link>https://www.last.fm/music/Japan/_/Swing</link>
+      <guid isPermaLink="false">Frippertron-1700476659--Japan---Swing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10c675c080ecf175df7467e34a7ac2cd.jpg" length="20630" type="image/jpeg"/>
+      <pubDate>Mon, 20 Nov 2023 05:37:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - Bamboo Houses (9 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/Bamboo+Houses</link>
+      <guid isPermaLink="false">Frippertron-1700477108--719db6b1-0d91-458c-8d18-875ec44105bf---Bamboo Houses</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6643fe918794698be831a436d10c810.png" length="67260" type="image/png"/>
+      <pubDate>Mon, 20 Nov 2023 05:45:08 -0500</pubDate>
     </item>
   </channel>
 </rss>
