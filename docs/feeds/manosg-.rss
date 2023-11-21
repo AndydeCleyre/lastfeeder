@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 07:52:20 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Rock and Roll - Remaster (2 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Rock+and+Roll+-+Remaster</link>
-      <guid isPermaLink="false">manosg--1700464094--678d88b2-87b0-403b-b63d-5da7465aecc3---Rock and Roll - Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/731b28a5bfab8e7125113faed4e2e6a7.jpg" length="28480" type="image/jpeg"/>
-      <pubDate>Mon, 20 Nov 2023 02:08:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Nov 2023 08:21:30 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Stairway to Heaven - Remaster (2 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Stairway+to+Heaven+-+Remaster</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1700552487--Led Zeppelin---Custard Pie - Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d6df0f895e2de80c80f2b3221343602.jpg" length="41520" type="image/jpeg"/>
       <pubDate>Tue, 21 Nov 2023 02:41:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Rover - Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Rover+-+Remaster</link>
+      <guid isPermaLink="false">manosg--1700553124--Led Zeppelin---The Rover - Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5d6df0f895e2de80c80f2b3221343602.jpg" length="41520" type="image/jpeg"/>
+      <pubDate>Tue, 21 Nov 2023 02:52:04 -0500</pubDate>
     </item>
   </channel>
 </rss>
