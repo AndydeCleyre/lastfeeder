@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 08:52:13 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Opening (1 play)</title>
-      <link>https://www.last.fm/music/Queen/_/Opening</link>
-      <guid isPermaLink="false">Frippertron-1700539518--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Opening</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00c10d2bb3aa47b48bc1fd2692291d67.jpg" length="26967" type="image/jpeg"/>
-      <pubDate>Mon, 20 Nov 2023 23:05:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - We Will Rock You (fast) (43 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/We+Will+Rock+You+(fast)</link>
-      <guid isPermaLink="false">Frippertron-1700539633--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---We Will Rock You (fast)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00c10d2bb3aa47b48bc1fd2692291d67.jpg" length="26967" type="image/jpeg"/>
-      <pubDate>Mon, 20 Nov 2023 23:07:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Nov 2023 09:17:10 +0000</lastBuildDate>
     <item>
       <title>Queen - Let Me Entertain You (68 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Let+Me+Entertain+You</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1700556431--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Lemmings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
       <pubDate>Tue, 21 Nov 2023 03:47:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - The Musical Box (83 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/The+Musical+Box</link>
+      <guid isPermaLink="false">Frippertron-1700557130--Genesis---The Musical Box</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
+      <pubDate>Tue, 21 Nov 2023 03:58:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - The Return of the Giant Hogweed (26 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/The+Return+of+the+Giant+Hogweed</link>
+      <guid isPermaLink="false">Frippertron-1700557810--Genesis---The Return of the Giant Hogweed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
+      <pubDate>Tue, 21 Nov 2023 04:10:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
