@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Nov 2023 11:14:35 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Street Life (55 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Street+Life</link>
-      <guid isPermaLink="false">Frippertron-1700629348--331ce348-1b08-40b9-8ed7-0763b92bd003---Street Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/684261636ec5f2f2dc24e4f040f64cad.png" length="223903" type="image/png"/>
-      <pubDate>Wed, 22 Nov 2023 00:02:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Who - The Real Me (56 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/The+Real+Me</link>
-      <guid isPermaLink="false">Frippertron-1700630445--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---The Real Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Wed, 22 Nov 2023 00:20:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Nov 2023 11:26:20 +0000</lastBuildDate>
     <item>
       <title>The Who - I've Had Enough (37 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/I%27ve+Had+Enough</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1700651463--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Sleepless</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 22 Nov 2023 06:11:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Waiting Man (18 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Waiting+Man</link>
+      <guid isPermaLink="false">Frippertron-1700651847--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Waiting Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 22 Nov 2023 06:17:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - VROOOM (34 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/VROOOM</link>
+      <guid isPermaLink="false">Frippertron-1700652163--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---VROOOM</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 22 Nov 2023 06:22:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
