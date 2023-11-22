@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Nov 2023 11:26:20 +0000</lastBuildDate>
-    <item>
-      <title>The Who - I've Had Enough (37 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/I%27ve+Had+Enough</link>
-      <guid isPermaLink="false">Frippertron-1700630648--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---I've Had Enough</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Wed, 22 Nov 2023 00:24:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Who - 5:15 (51 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/5:15</link>
-      <guid isPermaLink="false">Frippertron-1700631022--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---5:15</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Wed, 22 Nov 2023 00:30:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Nov 2023 11:38:09 +0000</lastBuildDate>
     <item>
       <title>Genesis - Stagnation (26 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Stagnation</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1700652163--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---VROOOM</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 22 Nov 2023 06:22:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Coda: Marine 475 (31 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Coda:+Marine+475</link>
+      <guid isPermaLink="false">Frippertron-1700652444--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Coda: Marine 475</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 22 Nov 2023 06:27:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Sex Sleep Eat Drink Dream (25 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Sex+Sleep+Eat+Drink+Dream</link>
+      <guid isPermaLink="false">Frippertron-1700652659--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Sex Sleep Eat Drink Dream</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 22 Nov 2023 06:30:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
