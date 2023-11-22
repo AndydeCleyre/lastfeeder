@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Nov 2023 08:21:28 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - The Supermen (46 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Supermen</link>
-      <guid isPermaLink="false">Frippertron-1700566148--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Supermen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
-      <pubDate>Tue, 21 Nov 2023 06:29:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Bombers (28 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Bombers</link>
-      <guid isPermaLink="false">Frippertron-1700566413--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bombers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Tue, 21 Nov 2023 06:33:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Nov 2023 08:39:05 +0000</lastBuildDate>
     <item>
       <title>Genesis - The Musical Box (84 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/The+Musical+Box</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1700640709--3b972356-4410-4858-ab9c-6e3c3cf76609---A Louse Is Not a Home</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb88163072e011215888e32ec49c5fa0.jpg" length="10881" type="image/jpeg"/>
       <pubDate>Wed, 22 Nov 2023 03:11:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Hammill - Tapeworm (41 plays)</title>
+      <link>https://www.last.fm/music/Peter+Hammill/_/Tapeworm</link>
+      <guid isPermaLink="false">Frippertron-1700641443--3b972356-4410-4858-ab9c-6e3c3cf76609---Tapeworm</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f3420203594413ed56e5322cf642a5d.jpg" length="17043" type="image/jpeg"/>
+      <pubDate>Wed, 22 Nov 2023 03:24:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Hammill - Gog Magog (In Bromine Chambers) (22 plays)</title>
+      <link>https://www.last.fm/music/Peter+Hammill/_/Gog+Magog+(In+Bromine+Chambers)</link>
+      <guid isPermaLink="false">Frippertron-1700641702--3b972356-4410-4858-ab9c-6e3c3cf76609---Gog Magog (In Bromine Chambers)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f3420203594413ed56e5322cf642a5d.jpg" length="17043" type="image/jpeg"/>
+      <pubDate>Wed, 22 Nov 2023 03:28:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
