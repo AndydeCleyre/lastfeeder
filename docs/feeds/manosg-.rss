@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Nov 2023 13:30:02 +0000</lastBuildDate>
-    <item>
-      <title>Allman Brothers Band - Don't Want You No More (2 plays)</title>
-      <link>https://www.last.fm/music/Allman+Brothers+Band/_/Don%27t+Want+You+No+More</link>
-      <guid isPermaLink="false">manosg--1700488431--Allman Brothers Band---Don't Want You No More</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c08c99d59060c1df2c9da7d2fdb9027.jpg" length="28139" type="image/jpeg"/>
-      <pubDate>Mon, 20 Nov 2023 08:53:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Nov 2023 13:40:36 +0000</lastBuildDate>
     <item>
       <title>Steppenwolf - Sookie, Sookie (2 plays)</title>
       <link>https://www.last.fm/music/Steppenwolf/_/Sookie,+Sookie</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1700658650--Rush---The Trees</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61d299713e9dc3e3fd027a6492e99e27.png" length="145236" type="image/png"/>
       <pubDate>Wed, 22 Nov 2023 08:10:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rush - La Villa Strangiato (15 plays)</title>
+      <link>https://www.last.fm/music/Rush/_/La+Villa+Strangiato</link>
+      <guid isPermaLink="false">manosg--1700658993--Rush---La Villa Strangiato</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61d299713e9dc3e3fd027a6492e99e27.png" length="145236" type="image/png"/>
+      <pubDate>Wed, 22 Nov 2023 08:16:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
