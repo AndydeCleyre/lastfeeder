@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Nov 2023 03:37:07 +0000</lastBuildDate>
-    <item>
-      <title>Linkin Park - One Step Closer (9 plays)</title>
-      <link>https://www.last.fm/music/Linkin+Park/_/One+Step+Closer</link>
-      <guid isPermaLink="false">Arcade1996-1700742202--f59c5520-5f46-4d2c-b2c4-822eabf53419---One Step Closer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01aa4556b6916185ecd890dad8a42f47.jpg" length="28968" type="image/jpeg"/>
-      <pubDate>Thu, 23 Nov 2023 07:23:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Nov 2023 07:13:35 +0000</lastBuildDate>
     <item>
       <title>Linkin Park - Bleed It Out (3 plays)</title>
       <link>https://www.last.fm/music/Linkin+Park/_/Bleed+It+Out</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1700883062--14387b0f-765c-4852-852f-135335790466---Climbing To The Moon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb72eece71264027c05f248f70fd118d.png" length="189558" type="image/png"/>
       <pubDate>Fri, 24 Nov 2023 22:31:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Linkin Park - Numb (4 plays)</title>
+      <link>https://www.last.fm/music/Linkin+Park/_/Numb</link>
+      <guid isPermaLink="false">Arcade1996-1700896104--f59c5520-5f46-4d2c-b2c4-822eabf53419---Numb</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b636ff6f39f8dd435c89fc7bd2e002f8.jpg" length="14389" type="image/jpeg"/>
+      <pubDate>Sat, 25 Nov 2023 02:08:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
