@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Nov 2023 19:52:45 +0000</lastBuildDate>
-    <item>
-      <title>The Gathering - Amity (28 plays)</title>
-      <link>https://www.last.fm/music/The+Gathering/_/Amity</link>
-      <guid isPermaLink="false">WillieFisterbut-1700519562--The Gathering---Amity</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/430ac7addcf34c2ccc80dccb725509c8.png" length="186443" type="image/png"/>
-      <pubDate>Mon, 20 Nov 2023 17:32:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>Paradise Lost - Forever Failure (19 plays)</title>
-      <link>https://www.last.fm/music/Paradise+Lost/_/Forever+Failure</link>
-      <guid isPermaLink="false">WillieFisterbut-1700519820--10bf95b6-30e3-44f1-817f-45762cdc0de0---Forever Failure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4fce09ef002f43f293c3f3bb2ccd8d1f.png" length="224280" type="image/png"/>
-      <pubDate>Mon, 20 Nov 2023 17:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Machines of Loving Grace - Butterfly Wings (30 plays)</title>
-      <link>https://www.last.fm/music/Machines+of+Loving+Grace/_/Butterfly+Wings</link>
-      <guid isPermaLink="false">WillieFisterbut-1700520266--44a2b61e-5264-4c4b-a765-8f520a46a02e---Butterfly Wings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5c8f8ea4d1cd8c68cb3a1f2246555d2.jpg" length="7666" type="image/jpeg"/>
-      <pubDate>Mon, 20 Nov 2023 17:44:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Nov 2023 20:37:44 +0000</lastBuildDate>
     <item>
       <title>Skinny Puppy - Amnesia (23 plays)</title>
       <link>https://www.last.fm/music/Skinny+Puppy/_/Amnesia</link>
@@ -205,7 +184,7 @@
       <pubDate>Wed, 22 Nov 2023 09:26:34 -0500</pubDate>
     </item>
     <item>
-      <title>CHVRCHES - Violent Delights (147 plays)</title>
+      <title>CHVRCHES - Violent Delights (148 plays)</title>
       <link>https://www.last.fm/music/CHVRCHES/_/Violent+Delights</link>
       <guid isPermaLink="false">WillieFisterbut-1700666560--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Violent Delights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8130411061e5512454481703f1bd5f8.jpg" length="10121" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">WillieFisterbut-1700939491--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Graffiti</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4011770582295fbb2ef56596158e6ed.png" length="171180" type="image/png"/>
       <pubDate>Sat, 25 Nov 2023 14:11:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHVRCHES - Get Out (23 plays)</title>
+      <link>https://www.last.fm/music/CHVRCHES/_/Get+Out</link>
+      <guid isPermaLink="false">WillieFisterbut-1700941811--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Get Out</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4011770582295fbb2ef56596158e6ed.png" length="171180" type="image/png"/>
+      <pubDate>Sat, 25 Nov 2023 14:50:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHVRCHES - Deliverance (13 plays)</title>
+      <link>https://www.last.fm/music/CHVRCHES/_/Deliverance</link>
+      <guid isPermaLink="false">WillieFisterbut-1700942064--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Deliverance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4011770582295fbb2ef56596158e6ed.png" length="171180" type="image/png"/>
+      <pubDate>Sat, 25 Nov 2023 14:54:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHVRCHES - Violent Delights (148 plays)</title>
+      <link>https://www.last.fm/music/CHVRCHES/_/Violent+Delights</link>
+      <guid isPermaLink="false">WillieFisterbut-1700942844--6a93afbb-257f-4166-b389-9f2a1e5c5df8---Violent Delights</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8130411061e5512454481703f1bd5f8.jpg" length="10121" type="image/jpeg"/>
+      <pubDate>Sat, 25 Nov 2023 15:07:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
