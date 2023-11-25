@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Nov 2023 16:20:46 +0000</lastBuildDate>
-    <item>
-      <title>Atomflow - Breathe (1 play)</title>
-      <link>https://www.last.fm/music/Atomflow/_/Breathe</link>
-      <guid isPermaLink="false">ddgromit-1700715839--Atomflow---Breathe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3755c359e4d5d1c1cae9d1acf068be95.jpg" length="40070" type="image/jpeg"/>
-      <pubDate>Thu, 23 Nov 2023 00:03:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>sweet planet - first light (1 play)</title>
-      <link>https://www.last.fm/music/sweet+planet/_/first+light</link>
-      <guid isPermaLink="false">ddgromit-1700715967--sweet planet---first light</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3708ebee8b5965658f801450a9df3da.png" length="90585" type="image/png"/>
-      <pubDate>Thu, 23 Nov 2023 00:06:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Nov 2023 02:38:40 +0000</lastBuildDate>
     <item>
       <title>Comet 1993 - Reminisce (1 play)</title>
       <link>https://www.last.fm/music/Comet+1993/_/Reminisce</link>
@@ -30,11 +16,18 @@
       <pubDate>Thu, 23 Nov 2023 00:08:27 -0500</pubDate>
     </item>
     <item>
-      <title>sweet planet - shadows (1 play)</title>
+      <title>sweet planet - shadows (2 plays)</title>
       <link>https://www.last.fm/music/sweet+planet/_/shadows</link>
       <guid isPermaLink="false">ddgromit-1700716168--sweet planet---shadows</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1e35ab34937639ca0221dd0c84ab716.jpg" length="36452" type="image/jpeg"/>
       <pubDate>Thu, 23 Nov 2023 00:09:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>sweet planet - shadows (2 plays)</title>
+      <link>https://www.last.fm/music/sweet+planet/_/shadows</link>
+      <guid isPermaLink="false">ddgromit-1700716272--sweet planet---shadows</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1e35ab34937639ca0221dd0c84ab716.jpg" length="36452" type="image/jpeg"/>
+      <pubDate>Thu, 23 Nov 2023 00:11:12 -0500</pubDate>
     </item>
     <item>
       <title>Lunar Skybox - By the docks (1 play)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1700788060--a1ed5e33-22ff-4e7d-a457-42f4309e135f---Barbie Girl</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd121991f30a425d94c939398b4bba21.png" length="207276" type="image/png"/>
       <pubDate>Thu, 23 Nov 2023 20:07:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Naeleck - threnody (bombs away remix) (1 play)</title>
+      <link>https://www.last.fm/music/Naeleck/_/threnody+(bombs+away+remix)</link>
+      <guid isPermaLink="false">ddgromit-1700789011--024056d4-cb6a-44ff-ae9e-3510fef2bfac---threnody (bombs away remix)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/786890b81b7f3832da518df9ee4a50b2.jpg" length="26513" type="image/jpeg"/>
+      <pubDate>Thu, 23 Nov 2023 20:23:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
