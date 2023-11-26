@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Nov 2023 03:37:47 +0000</lastBuildDate>
-    <item>
-      <title>Linkin Park - Papercut (1 play)</title>
-      <link>https://www.last.fm/music/Linkin+Park/_/Papercut</link>
-      <guid isPermaLink="false">Arcade1996-1700896288--f59c5520-5f46-4d2c-b2c4-822eabf53419---Papercut</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01aa4556b6916185ecd890dad8a42f47.jpg" length="28968" type="image/jpeg"/>
-      <pubDate>Sat, 25 Nov 2023 02:11:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Nov 2023 09:14:24 +0000</lastBuildDate>
     <item>
       <title>Linkin Park - Given Up (1 play)</title>
       <link>https://www.last.fm/music/Linkin+Park/_/Given+Up</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1700968545--79239441-bfd5-4981-a70c-55c3f15c1287---Bitch I'm Madonna</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2990c38cdb224d41cd7fc26159cd4e36.jpg" length="22078" type="image/jpeg"/>
       <pubDate>Sat, 25 Nov 2023 22:15:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Madonna - Don't Cry for Me Argentina (1 play)</title>
+      <link>https://www.last.fm/music/Madonna/_/Don%27t+Cry+for+Me+Argentina</link>
+      <guid isPermaLink="false">Arcade1996-1700968772--79239441-bfd5-4981-a70c-55c3f15c1287---Don't Cry for Me Argentina</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0caeff5debd14df4cd96b0f8ef7238eb.jpg" length="27064" type="image/jpeg"/>
+      <pubDate>Sat, 25 Nov 2023 22:19:32 -0500</pubDate>
     </item>
   </channel>
 </rss>
