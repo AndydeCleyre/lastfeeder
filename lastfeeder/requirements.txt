@@ -20,7 +20,7 @@ httpx==0.25.2
     # via -r requirements.in
 humanize==4.9.0
     # via delorean
-idna==3.5
+idna==3.6
     # via
     #   anyio
     #   httpx
