@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Nov 2023 21:38:37 +0000</lastBuildDate>
-    <item>
-      <title>Arctic Monkeys - The Car (2 plays)</title>
-      <link>https://www.last.fm/music/Arctic+Monkeys/_/The+Car</link>
-      <guid isPermaLink="false">TalonsOfFire-1699995446--ada7a83c-e3e1-40f1-93f9-3e73dbc9298a---The Car</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69c2e238f63d5aa2d62181d5b74f34a0.jpg" length="21118" type="image/jpeg"/>
-      <pubDate>Tue, 14 Nov 2023 15:57:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Nov 2023 21:52:25 +0000</lastBuildDate>
     <item>
       <title>Arctic Monkeys - Hello You (2 plays)</title>
       <link>https://www.last.fm/music/Arctic+Monkeys/_/Hello+You</link>
@@ -355,7 +348,15 @@
       <title>Harmonia - Welcome (1 play)</title>
       <link>https://www.last.fm/music/Harmonia/_/Welcome</link>
       <guid isPermaLink="false">TalonsOfFire-1701034325--Harmonia---Welcome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8394525db12f736add780ee5f623abb8.jpg" length="12333" type="image/jpeg"/>
       <pubDate>Sun, 26 Nov 2023 16:32:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fields of the Nephilim - The Watchman (1 play)</title>
+      <link>https://www.last.fm/music/Fields+of+the+Nephilim/_/The+Watchman</link>
+      <guid isPermaLink="false">TalonsOfFire-1701034519--a262543f-6ab4-4ac7-86f3-4fc09ff56f3b---The Watchman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7801fea74bc39ad9d78eeb858daafc0c.png" length="204999" type="image/png"/>
+      <pubDate>Sun, 26 Nov 2023 16:35:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
