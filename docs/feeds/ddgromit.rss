@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Nov 2023 01:14:17 +0000</lastBuildDate>
-    <item>
-      <title>Super Simple Songs - Here Is the Beehive (1 play)</title>
-      <link>https://www.last.fm/music/Super+Simple+Songs/_/Here+Is+the+Beehive</link>
-      <guid isPermaLink="false">ddgromit-1700883877--Super Simple Songs---Here Is the Beehive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 24 Nov 2023 22:44:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>Super Simple Songs - What's Your Name? (1 play)</title>
-      <link>https://www.last.fm/music/Super+Simple+Songs/_/What%27s+Your+Name%3F</link>
-      <guid isPermaLink="false">ddgromit-1700883997--Super Simple Songs---What's Your Name?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 24 Nov 2023 22:46:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Nov 2023 02:05:40 +0000</lastBuildDate>
     <item>
       <title>Super Simple Songs - Follow Me (1 play)</title>
       <link>https://www.last.fm/music/Super+Simple+Songs/_/Follow+Me</link>
@@ -341,6 +327,7 @@
       <title>Kllo - Virtue (2 plays)</title>
       <link>https://www.last.fm/music/Kllo/_/Virtue</link>
       <guid isPermaLink="false">ddgromit-1701131783--a1772ea7-2b4c-4f8d-973b-aac4efcafff0---Virtue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/681a6be07514a7d061986ccd39e6c1ac.jpg" length="13243" type="image/jpeg"/>
       <pubDate>Mon, 27 Nov 2023 19:36:23 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1701132301--003ca7a0-60ef-4c4b-a4d6-f8e33256577e---Dance Moves</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5745f01b8692de192fa34e388d52dc19.jpg" length="20780" type="image/jpeg"/>
       <pubDate>Mon, 27 Nov 2023 19:45:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Klaus Badelt - Fog Bound (2 plays)</title>
+      <link>https://www.last.fm/music/Klaus+Badelt/_/Fog+Bound</link>
+      <guid isPermaLink="false">ddgromit-1701136787--74ba575f-3420-4d62-8e48-ac473d3c4282---Fog Bound</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7d02fb31e058ce84ef47e03dca68959.jpg" length="24847" type="image/jpeg"/>
+      <pubDate>Mon, 27 Nov 2023 20:59:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Klaus Badelt - The Medallion Calls (3 plays)</title>
+      <link>https://www.last.fm/music/Klaus+Badelt/_/The+Medallion+Calls</link>
+      <guid isPermaLink="false">ddgromit-1701136929--74ba575f-3420-4d62-8e48-ac473d3c4282---The Medallion Calls</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c7d02fb31e058ce84ef47e03dca68959.jpg" length="24847" type="image/jpeg"/>
+      <pubDate>Mon, 27 Nov 2023 21:02:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
