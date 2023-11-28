@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Nov 2023 05:15:43 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - In the Rapids (111 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/In+the+Rapids</link>
-      <guid isPermaLink="false">Frippertron-1701074980--Genesis---In the Rapids</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
-      <pubDate>Mon, 27 Nov 2023 03:49:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - It (116 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/It</link>
-      <guid isPermaLink="false">Frippertron-1701075125--Genesis---It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
-      <pubDate>Mon, 27 Nov 2023 03:52:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genesis - The Musical Box (86 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Musical+Box</link>
-      <guid isPermaLink="false">Frippertron-1701075443--Genesis---The Musical Box</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
-      <pubDate>Mon, 27 Nov 2023 03:57:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Nov 2023 05:37:22 +0000</lastBuildDate>
     <item>
       <title>Genesis - The Return of the Giant Hogweed (28 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/The+Return+of+the+Giant+Hogweed</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1701147699--Genesis---Back in N.Y.C.</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
       <pubDate>Tue, 28 Nov 2023 00:01:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Billy Joel - This Night (43 plays)</title>
+      <link>https://www.last.fm/music/Billy+Joel/_/This+Night</link>
+      <guid isPermaLink="false">Frippertron-1701149154--64b94289-9474-4d43-8c93-918ccc1920d1---This Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a12d150c799c416daef11949670485c8.png" length="161438" type="image/png"/>
+      <pubDate>Tue, 28 Nov 2023 00:25:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Billy Joel - Tell Her About It (38 plays)</title>
+      <link>https://www.last.fm/music/Billy+Joel/_/Tell+Her+About+It</link>
+      <guid isPermaLink="false">Frippertron-1701149409--64b94289-9474-4d43-8c93-918ccc1920d1---Tell Her About It</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a12d150c799c416daef11949670485c8.png" length="161438" type="image/png"/>
+      <pubDate>Tue, 28 Nov 2023 00:30:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Billy Joel - Careless Talk (25 plays)</title>
+      <link>https://www.last.fm/music/Billy+Joel/_/Careless+Talk</link>
+      <guid isPermaLink="false">Frippertron-1701149639--64b94289-9474-4d43-8c93-918ccc1920d1---Careless Talk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a12d150c799c416daef11949670485c8.png" length="161438" type="image/png"/>
+      <pubDate>Tue, 28 Nov 2023 00:33:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
