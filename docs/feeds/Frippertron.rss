@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Nov 2023 11:37:56 +0000</lastBuildDate>
-    <item>
-      <title>Billy Joel - This Night (43 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/This+Night</link>
-      <guid isPermaLink="false">Frippertron-1701149154--64b94289-9474-4d43-8c93-918ccc1920d1---This Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a12d150c799c416daef11949670485c8.png" length="161438" type="image/png"/>
-      <pubDate>Tue, 28 Nov 2023 00:25:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>Billy Joel - Tell Her About It (38 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/Tell+Her+About+It</link>
-      <guid isPermaLink="false">Frippertron-1701149409--64b94289-9474-4d43-8c93-918ccc1920d1---Tell Her About It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a12d150c799c416daef11949670485c8.png" length="161438" type="image/png"/>
-      <pubDate>Tue, 28 Nov 2023 00:30:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Nov 2023 12:32:01 +0000</lastBuildDate>
     <item>
       <title>Billy Joel - Careless Talk (25 plays)</title>
       <link>https://www.last.fm/music/Billy+Joel/_/Careless+Talk</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1701171187--72c090b6-a68e-4cb9-b330-85278681a714---Momamma Scuba</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f7674c4775a3994fa832d29126080bb.jpg" length="18528" type="image/jpeg"/>
       <pubDate>Tue, 28 Nov 2023 06:33:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Close to the Edge (210 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Close+to+the+Edge</link>
+      <guid isPermaLink="false">Frippertron-1701173066--8353f93f-163e-48c2-bb75-9f18987a3d46---Close to the Edge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe19902f9ea92b9b89a8b2229e2a4c7a.jpg" length="14537" type="image/jpeg"/>
+      <pubDate>Tue, 28 Nov 2023 07:04:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Heart of the Sunrise (29 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
+      <guid isPermaLink="false">Frippertron-1701174216--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
+      <pubDate>Tue, 28 Nov 2023 07:23:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
