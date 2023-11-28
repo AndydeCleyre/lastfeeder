@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Nov 2023 21:25:53 +0000</lastBuildDate>
-    <item>
-      <title>Robyn - Missing U (6 plays)</title>
-      <link>https://www.last.fm/music/Robyn/_/Missing+U</link>
-      <guid isPermaLink="false">ddgromit-1701024794--5a8e07d5-d932-4484-a7f7-e700793a9c94---Missing U</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86269e8cd4f97272e669a41f0e72f7bc.png" length="134847" type="image/png"/>
-      <pubDate>Sun, 26 Nov 2023 13:53:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Janis Joplin - Kozmic Blues (6 plays)</title>
-      <link>https://www.last.fm/music/Janis+Joplin/_/Kozmic+Blues</link>
-      <guid isPermaLink="false">ddgromit-1701025209--76c9a186-75bd-436a-85c0-823e3efddb7f---Kozmic Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ef9f682db8b9adc5985909d70c34fda.jpg" length="17274" type="image/jpeg"/>
-      <pubDate>Sun, 26 Nov 2023 14:00:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Nov 2023 23:16:05 +0000</lastBuildDate>
     <item>
       <title>Hélène Vogelsinger - Ceremony (9 plays)</title>
       <link>https://www.last.fm/music/H%C3%A9l%C3%A8ne+Vogelsinger/_/Ceremony</link>
@@ -357,6 +343,19 @@
       <guid isPermaLink="false">ddgromit-1701205955--b328de0e-ee48-4d74-9d36-7c7ee16ffc69---Hopopono</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b6b23e4def9e35f56e6abdf010d75f6.jpg" length="5850" type="image/jpeg"/>
       <pubDate>Tue, 28 Nov 2023 16:12:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jim Hall - Concierto De Aranjuez (4 plays)</title>
+      <link>https://www.last.fm/music/Jim+Hall/_/Concierto+De+Aranjuez</link>
+      <guid isPermaLink="false">ddgromit-1701206191--8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a---Concierto De Aranjuez</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f6fc63df3cfee7cf7078a47a8b7968d.jpg" length="23028" type="image/jpeg"/>
+      <pubDate>Tue, 28 Nov 2023 16:16:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nina Simone - Baltimore (4 plays)</title>
+      <link>https://www.last.fm/music/Nina+Simone/_/Baltimore</link>
+      <guid isPermaLink="false">ddgromit-1701212635--2944824d-4c26-476f-a981-be849081942f---Baltimore</guid>
+      <pubDate>Tue, 28 Nov 2023 18:03:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
