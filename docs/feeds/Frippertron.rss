@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 08:38:21 +0000</lastBuildDate>
-    <item>
-      <title>Hall &amp; Oates - Maneater (20 plays)</title>
-      <link>https://www.last.fm/music/Hall+&amp;+Oates/_/Maneater</link>
-      <guid isPermaLink="false">Frippertron-1701314260--Hall &amp; Oates---Maneater</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
-      <pubDate>Wed, 29 Nov 2023 22:17:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Hall &amp; Oates - Family Man (15 plays)</title>
-      <link>https://www.last.fm/music/Hall+&amp;+Oates/_/Family+Man</link>
-      <guid isPermaLink="false">Frippertron-1701314538--Hall &amp; Oates---Family Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
-      <pubDate>Wed, 29 Nov 2023 22:22:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Nov 2023 08:52:31 +0000</lastBuildDate>
     <item>
       <title>Hall &amp; Oates - Out of Touch (12 plays)</title>
       <link>https://www.last.fm/music/Hall+&amp;+Oates/_/Out+of+Touch</link>
@@ -320,7 +306,6 @@
       <title>Japan - Swing (14 plays)</title>
       <link>https://www.last.fm/music/Japan/_/Swing</link>
       <guid isPermaLink="false">Frippertron-1701327857--Japan---Swing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10c675c080ecf175df7467e34a7ac2cd.jpg" length="20630" type="image/jpeg"/>
       <pubDate>Thu, 30 Nov 2023 02:04:17 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1701332965--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---And Still</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
       <pubDate>Thu, 30 Nov 2023 03:29:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Live and Let Live (2 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Live+and+Let+Live</link>
+      <guid isPermaLink="false">Frippertron-1701333430--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Live and Let Live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Thu, 30 Nov 2023 03:37:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lucifer's Friend - Spanish Galleon (66 plays)</title>
+      <link>https://www.last.fm/music/Lucifer%27s+Friend/_/Spanish+Galleon</link>
+      <guid isPermaLink="false">Frippertron-1701333837--270a1379-5beb-4085-947a-45522e6d8c55---Spanish Galleon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b05a456c32412464f62ef0ccfd263fa.jpg" length="27643" type="image/jpeg"/>
+      <pubDate>Thu, 30 Nov 2023 03:43:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
