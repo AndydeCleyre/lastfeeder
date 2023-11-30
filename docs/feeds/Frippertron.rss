@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 18:53:19 +0000</lastBuildDate>
-    <item>
-      <title>Peter Gabriel - So Much (4 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/So+Much</link>
-      <guid isPermaLink="false">Frippertron-1701331645--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---So Much</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
-      <pubDate>Thu, 30 Nov 2023 03:07:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Nov 2023 19:12:57 +0000</lastBuildDate>
     <item>
       <title>Peter Gabriel - Love Can Heal (3 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/Love+Can+Heal</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1701370099--309fd157-119a-4094-85d1-cbacbfad9622---Destination inconnue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb81ec0e2404fccda289246941710d74.jpg" length="21841" type="image/jpeg"/>
       <pubDate>Thu, 30 Nov 2023 13:48:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Carlito - Cascade (1 play)</title>
+      <link>https://www.last.fm/music/Carlito/_/Cascade</link>
+      <guid isPermaLink="false">Frippertron-1701370335--51f684be-70fa-42d7-b131-ee48f78752d8---Cascade</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3203140a9ce0a86b9f21bda6de3c955e.png" length="113003" type="image/png"/>
+      <pubDate>Thu, 30 Nov 2023 13:52:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
