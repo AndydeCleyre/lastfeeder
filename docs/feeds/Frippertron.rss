@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 06:38:42 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Tie Your Mother Down (94 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Tie+Your+Mother+Down</link>
-      <guid isPermaLink="false">Frippertron-1701255735--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Tie Your Mother Down</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521b9bbc9a8b43ceb2eb008f5a23f90d.png" length="71521" type="image/png"/>
-      <pubDate>Wed, 29 Nov 2023 06:02:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>坂本龍一 - Thousand Knives (66 plays)</title>
-      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Thousand+Knives</link>
-      <guid isPermaLink="false">Frippertron-1701256086--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Thousand Knives</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f84ae4d6261be905ee2fb8b11ff1ab4.jpg" length="21132" type="image/jpeg"/>
-      <pubDate>Wed, 29 Nov 2023 06:08:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Nov 2023 06:52:06 +0000</lastBuildDate>
     <item>
       <title>坂本龍一 - Plastic Bamboo (12 plays)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Plastic+Bamboo</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1701326128--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Playing For Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
       <pubDate>Thu, 30 Nov 2023 01:35:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - i/o (3 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/i%2Fo</link>
+      <guid isPermaLink="false">Frippertron-1701326510--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---i/o</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Thu, 30 Nov 2023 01:41:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Four Kinds of Horses (3 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Four+Kinds+of+Horses</link>
+      <guid isPermaLink="false">Frippertron-1701326758--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Four Kinds of Horses</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Thu, 30 Nov 2023 01:45:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
