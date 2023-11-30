@@ -7,44 +7,30 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 02:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 02:52:04 +0000</lastBuildDate>
     <item>
-      <title>John Cale - Mary Lou (39 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Mary+Lou</link>
-      <guid isPermaLink="false">Frippertron-1701237688--72c090b6-a68e-4cb9-b330-85278681a714---Mary Lou</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dd658db01724d6fa87a9f007b2e1202.jpg" length="11970" type="image/jpeg"/>
-      <pubDate>Wed, 29 Nov 2023 01:01:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - Panopticom</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/Panopticom</link>
-      <guid isPermaLink="false">Frippertron-1701238067--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Panopticom</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
-      <pubDate>Wed, 29 Nov 2023 01:07:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Peter Gabriel - The Court</title>
+      <title>Peter Gabriel - The Court (2 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/The+Court</link>
       <guid isPermaLink="false">Frippertron-1701238272--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---The Court</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
       <pubDate>Wed, 29 Nov 2023 01:11:12 -0500</pubDate>
     </item>
     <item>
-      <title>Peter Gabriel - Playing For Time</title>
+      <title>Peter Gabriel - Playing For Time (2 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/Playing+For+Time</link>
       <guid isPermaLink="false">Frippertron-1701238535--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Playing For Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
       <pubDate>Wed, 29 Nov 2023 01:15:35 -0500</pubDate>
     </item>
     <item>
-      <title>Peter Gabriel - i/o</title>
+      <title>Peter Gabriel - i/o (2 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/i%2Fo</link>
       <guid isPermaLink="false">Frippertron-1701238916--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---i/o</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
       <pubDate>Wed, 29 Nov 2023 01:21:56 -0500</pubDate>
     </item>
     <item>
-      <title>Peter Gabriel - Four Kinds of Horses</title>
+      <title>Peter Gabriel - Four Kinds of Horses (2 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/Four+Kinds+of+Horses</link>
       <guid isPermaLink="false">Frippertron-1701239164--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Four Kinds of Horses</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1701311414--678d88b2-87b0-403b-b63d-5da7465aecc3---Down by the Seaside</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
       <pubDate>Wed, 29 Nov 2023 21:30:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Misty Mountain Hop (25 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Misty+Mountain+Hop</link>
+      <guid isPermaLink="false">Frippertron-1701311758--678d88b2-87b0-403b-b63d-5da7465aecc3---Misty Mountain Hop</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
+      <pubDate>Wed, 29 Nov 2023 21:35:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - When the Levee Breaks (25 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/When+the+Levee+Breaks</link>
+      <guid isPermaLink="false">Frippertron-1701312042--678d88b2-87b0-403b-b63d-5da7465aecc3---When the Levee Breaks</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
+      <pubDate>Wed, 29 Nov 2023 21:40:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
