@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 01:12:59 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Sorrow (7 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Sorrow</link>
-      <guid isPermaLink="false">TalonsOfFire-1701034910--83d91898-7763-47d7-b03b-b92132375c47---Sorrow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c93ba7040cd94cafccc9d80d30cd9259.png" length="191378" type="image/png"/>
-      <pubDate>Sun, 26 Nov 2023 16:41:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Nov 2023 15:17:22 +0000</lastBuildDate>
     <item>
       <title>Mark Snow - Exoptare Ex Veritas (1 play)</title>
       <link>https://www.last.fm/music/Mark+Snow/_/Exoptare+Ex+Veritas</link>
@@ -289,7 +282,7 @@
       <pubDate>Mon, 27 Nov 2023 17:55:26 -0500</pubDate>
     </item>
     <item>
-      <title>Ludwig Göransson - The Mandalorian (1 play)</title>
+      <title>Ludwig Göransson - The Mandalorian</title>
       <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/The+Mandalorian</link>
       <guid isPermaLink="false">TalonsOfFire-1701295569--78471616-3cb4-4139-a148-aeac3c7d0f79---The Mandalorian</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/023d2efef0b78b41a8365cdb572f43ac.jpg" length="18860" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1701304697--Beck---Thinking About You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/860c6d0bf119d208af2f6fd43eef1c32.jpg" length="4851" type="image/jpeg"/>
       <pubDate>Wed, 29 Nov 2023 19:38:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Strokes - Under Cover of Darkness (1 play)</title>
+      <link>https://www.last.fm/music/The+Strokes/_/Under+Cover+of+Darkness</link>
+      <guid isPermaLink="false">TalonsOfFire-1701357072--f181961b-20f7-459e-89de-920ef03c7ed0---Under Cover of Darkness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65d41ffa467f4d16adf8bf876c586c78.png" length="165941" type="image/png"/>
+      <pubDate>Thu, 30 Nov 2023 10:11:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
