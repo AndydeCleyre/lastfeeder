@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 20:52:19 +0000</lastBuildDate>
-    <item>
-      <title>Sandy Blau - The Colours (2 plays)</title>
-      <link>https://www.last.fm/music/Sandy+Blau/_/The+Colours</link>
-      <guid isPermaLink="false">ddgromit-1701227706--Sandy Blau---The Colours</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 28 Nov 2023 22:15:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Georgia Faingold - Moonflight (2 plays)</title>
-      <link>https://www.last.fm/music/Georgia+Faingold/_/Moonflight</link>
-      <guid isPermaLink="false">ddgromit-1701227706--Georgia Faingold---Moonflight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 28 Nov 2023 22:15:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Nov 2023 21:15:11 +0000</lastBuildDate>
     <item>
       <title>Klara Söderman - Little Juniper Tree (2 plays)</title>
       <link>https://www.last.fm/music/Klara+S%C3%B6derman/_/Little+Juniper+Tree</link>
@@ -355,8 +341,21 @@
       <title>Jim Perkins - Delicately (2 plays)</title>
       <link>https://www.last.fm/music/Jim+Perkins/_/Delicately</link>
       <guid isPermaLink="false">ddgromit-1701377287--43ece665-1481-4d91-b52f-bbda08b02969---Delicately</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4b6178d22e3f6b1d0342c75d58a7759f.jpg" length="9309" type="image/jpeg"/>
       <pubDate>Thu, 30 Nov 2023 15:48:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Federico Albanese - The Stars We Follow (2 plays)</title>
+      <link>https://www.last.fm/music/Federico+Albanese/_/The+Stars+We+Follow</link>
+      <guid isPermaLink="false">ddgromit-1701377411--ec046e44-a52d-41bc-b83a-9ec4ade74e06---The Stars We Follow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3b0f09d0918afeec941034f2ab1faf5e.jpg" length="10485" type="image/jpeg"/>
+      <pubDate>Thu, 30 Nov 2023 15:50:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Signal - Glassworks: I. Opening (1 play)</title>
+      <link>https://www.last.fm/music/Signal/_/Glassworks:+I.+Opening</link>
+      <guid isPermaLink="false">ddgromit-1701377646--Signal---Glassworks: I. Opening</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a7a8456a50c2bdc225a92a7d4259111.jpg" length="22984" type="image/jpeg"/>
+      <pubDate>Thu, 30 Nov 2023 15:54:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
