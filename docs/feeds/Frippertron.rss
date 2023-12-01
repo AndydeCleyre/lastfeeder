@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Dec 2023 05:37:07 +0000</lastBuildDate>
-    <item>
-      <title>Daryl Hall - Babs and Babs (25 plays)</title>
-      <link>https://www.last.fm/music/Daryl+Hall/_/Babs+and+Babs</link>
-      <guid isPermaLink="false">Frippertron-1701342337--31a4c5ca-1899-4a44-a4b1-31e1921ddf17---Babs and Babs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee9a75e33bb2ec5f742bf9bbf496bf0a.jpg" length="21503" type="image/jpeg"/>
-      <pubDate>Thu, 30 Nov 2023 06:05:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>Daryl Hall - Sacred Songs (54 plays)</title>
-      <link>https://www.last.fm/music/Daryl+Hall/_/Sacred+Songs</link>
-      <guid isPermaLink="false">Frippertron-1701342752--31a4c5ca-1899-4a44-a4b1-31e1921ddf17---Sacred Songs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee9a75e33bb2ec5f742bf9bbf496bf0a.jpg" length="21503" type="image/jpeg"/>
-      <pubDate>Thu, 30 Nov 2023 06:12:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Dec 2023 05:52:41 +0000</lastBuildDate>
     <item>
       <title>Yes - Hearts (24 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Hearts</link>
@@ -30,14 +16,14 @@
       <pubDate>Thu, 30 Nov 2023 06:16:03 -0500</pubDate>
     </item>
     <item>
-      <title>Peter Gabriel - i/o (4 plays)</title>
+      <title>Peter Gabriel - i/o (5 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/i%2Fo</link>
       <guid isPermaLink="false">Frippertron-1701343443--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---i/o</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
       <pubDate>Thu, 30 Nov 2023 06:24:03 -0500</pubDate>
     </item>
     <item>
-      <title>Peter Gabriel - Four Kinds of Horses (4 plays)</title>
+      <title>Peter Gabriel - Four Kinds of Horses (5 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/Four+Kinds+of+Horses</link>
       <guid isPermaLink="false">Frippertron-1701343675--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Four Kinds of Horses</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1701408788--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Playing For Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
       <pubDate>Fri, 01 Dec 2023 00:33:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - i/o (5 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/i%2Fo</link>
+      <guid isPermaLink="false">Frippertron-1701409168--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---i/o</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Fri, 01 Dec 2023 00:39:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Four Kinds of Horses (5 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Four+Kinds+of+Horses</link>
+      <guid isPermaLink="false">Frippertron-1701409401--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Four Kinds of Horses</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Fri, 01 Dec 2023 00:43:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
