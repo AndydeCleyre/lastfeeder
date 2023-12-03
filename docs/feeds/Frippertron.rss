@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Dec 2023 11:14:03 +0000</lastBuildDate>
-    <item>
-      <title>Peter Gabriel - So Much (5 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/So+Much</link>
-      <guid isPermaLink="false">Frippertron-1701410132--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---So Much</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
-      <pubDate>Fri, 01 Dec 2023 00:55:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Dec 2023 20:16:26 +0000</lastBuildDate>
     <item>
       <title>Peter Gabriel - Olive Tree (2 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/Olive+Tree</link>
@@ -268,7 +261,7 @@
       <pubDate>Fri, 01 Dec 2023 05:12:12 -0500</pubDate>
     </item>
     <item>
-      <title>The Who - Cut My Hair</title>
+      <title>The Who - Cut My Hair (42 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/Cut+My+Hair</link>
       <guid isPermaLink="false">Frippertron-1701425738--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Cut My Hair</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1701429158--Sparks---Here in Heaven</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f717469bf1eb2325a3b290d60108aac.png" length="211481" type="image/png"/>
       <pubDate>Fri, 01 Dec 2023 06:12:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Panopticom (5 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Panopticom</link>
+      <guid isPermaLink="false">Frippertron-1701634041--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Panopticom</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Sun, 03 Dec 2023 15:07:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
