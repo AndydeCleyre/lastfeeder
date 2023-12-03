@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Dec 2023 01:16:49 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Cadence and Cascade (8 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Cadence+and+Cascade</link>
-      <guid isPermaLink="false">TalonsOfFire-1701303854--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Cadence and Cascade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 29 Nov 2023 19:24:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Gilmour - And Then... (7 plays)</title>
-      <link>https://www.last.fm/music/David+Gilmour/_/And+Then...</link>
-      <guid isPermaLink="false">TalonsOfFire-1701304133--1dce970e-34bc-48b2-ab51-48d87544a4c2---And Then...</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8f78b9ccd82fd5aaa59ea74f02fbb39.jpg" length="24942" type="image/jpeg"/>
-      <pubDate>Wed, 29 Nov 2023 19:28:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Dec 2023 03:16:23 +0000</lastBuildDate>
     <item>
       <title>Fleet Foxes - Quiet Houses (12 plays)</title>
       <link>https://www.last.fm/music/Fleet+Foxes/_/Quiet+Houses</link>
@@ -187,7 +173,6 @@
       <title>Lizzy McAlpine - ceilings (3 plays)</title>
       <link>https://www.last.fm/music/Lizzy+McAlpine/_/ceilings</link>
       <guid isPermaLink="false">TalonsOfFire-1701374951--ee0b11de-0c8a-4267-9886-198f4579e1db---ceilings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5946852fca6657d281a44b43e007955.jpg" length="8022" type="image/jpeg"/>
       <pubDate>Thu, 30 Nov 2023 15:09:11 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +342,19 @@
       <guid isPermaLink="false">TalonsOfFire-1701562668--000fc734-b7e1-4a01-92d1-f544261b43f5---Carolyn's Fingers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ac3bcf2d7e6fd3cfe692122b1135843.png" length="89509" type="image/png"/>
       <pubDate>Sat, 02 Dec 2023 19:17:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Haavard - Oberon (2 plays)</title>
+      <link>https://www.last.fm/music/Haavard/_/Oberon</link>
+      <guid isPermaLink="false">TalonsOfFire-1701562853--Haavard---Oberon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
+      <pubDate>Sat, 02 Dec 2023 19:20:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jeremy Soule - Wings of Kynareth (9 plays)</title>
+      <link>https://www.last.fm/music/Jeremy+Soule/_/Wings+of+Kynareth</link>
+      <guid isPermaLink="false">TalonsOfFire-1701573071--f413369d-d72f-46b9-8744-2d09344a9c6a---Wings of Kynareth</guid>
+      <pubDate>Sat, 02 Dec 2023 22:11:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
