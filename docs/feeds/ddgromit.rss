@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 02:36:16 +0000</lastBuildDate>
-    <item>
-      <title>Johnny Mathis - When a Child Is Born (2 plays)</title>
-      <link>https://www.last.fm/music/Johnny+Mathis/_/When+a+Child+Is+Born</link>
-      <guid isPermaLink="false">ddgromit-1701648720--48896dee-a985-424d-9849-84802f7e79c9---When a Child Is Born</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/912eb1a318bd41b2c1c0afa80ef7d6ec.jpg" length="14831" type="image/jpeg"/>
-      <pubDate>Sun, 03 Dec 2023 19:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Eagles - Please Come Home for Christmas - 2013 Remaster (2 plays)</title>
-      <link>https://www.last.fm/music/Eagles/_/Please+Come+Home+for+Christmas+-+2013+Remaster</link>
-      <guid isPermaLink="false">ddgromit-1701648944--Eagles---Please Come Home for Christmas - 2013 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e32f5e729d776591b209dfed105d1e.jpg" length="25482" type="image/jpeg"/>
-      <pubDate>Sun, 03 Dec 2023 19:15:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Donny Hathaway - This Christmas (2 plays)</title>
-      <link>https://www.last.fm/music/Donny+Hathaway/_/This+Christmas</link>
-      <guid isPermaLink="false">ddgromit-1701649122--3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9---This Christmas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a69f5f860dd55e7041ca1ecbe24ad996.jpg" length="18945" type="image/jpeg"/>
-      <pubDate>Sun, 03 Dec 2023 19:18:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Dec 2023 02:52:11 +0000</lastBuildDate>
     <item>
       <title>Bing Crosby - God Rest Ye Merry Gentlemen (1 play)</title>
       <link>https://www.last.fm/music/Bing+Crosby/_/God+Rest+Ye+Merry+Gentlemen</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1701657165--b6f69ada-cb4f-4083-913f-a00f47bfbe4b---Snow (with Percy Faith &amp; His Orchestra)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c53c49daa5816fd9cce5fd22506c90d3.jpg" length="22856" type="image/jpeg"/>
       <pubDate>Sun, 03 Dec 2023 21:32:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Perry Como - Christmas Dream (1 play)</title>
+      <link>https://www.last.fm/music/Perry+Como/_/Christmas+Dream</link>
+      <guid isPermaLink="false">ddgromit-1701657327--0182474b-8a1d-46d0-9d0f-e6df353335ea---Christmas Dream</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14b7406d1a1b4689c6fee9114485488b.jpg" length="17786" type="image/jpeg"/>
+      <pubDate>Sun, 03 Dec 2023 21:35:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975 (4 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/Santa+Claus+Is+Comin%27+to+Town+-+Live+at+C.W.+Post+College,+Greenvale,+NY+-+December+1975</link>
+      <guid isPermaLink="false">ddgromit-1701657496--Bruce Springsteen---Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e85187698ab2a66586af23ee7d8b32e.jpg" length="28609" type="image/jpeg"/>
+      <pubDate>Sun, 03 Dec 2023 21:38:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>John Denver - We Wish You A Merry Christmas (1 play)</title>
+      <link>https://www.last.fm/music/John+Denver/_/We+Wish+You+A+Merry+Christmas</link>
+      <guid isPermaLink="false">ddgromit-1701657765--34e10b51-b5c6-4bc1-b70e-f05f141eda1e---We Wish You A Merry Christmas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f4417dec1bc15a86bd8a8dafb5e92e3.jpg" length="38419" type="image/jpeg"/>
+      <pubDate>Sun, 03 Dec 2023 21:42:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
