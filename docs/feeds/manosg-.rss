@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 18:39:36 +0000</lastBuildDate>
-    <item>
-      <title>Poison - Your Mama Don't Dance (1 play)</title>
-      <link>https://www.last.fm/music/Poison/_/Your+Mama+Don%27t+Dance</link>
-      <guid isPermaLink="false">manosg--1701537763--4ae4492f-dcec-4833-b2f0-c2c5db53ff23---Your Mama Don't Dance</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbce52d861e1bd321cf5a76522a3f0c3.jpg" length="29189" type="image/jpeg"/>
-      <pubDate>Sat, 02 Dec 2023 12:22:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Poison - Bad to Be Good (1 play)</title>
-      <link>https://www.last.fm/music/Poison/_/Bad+to+Be+Good</link>
-      <guid isPermaLink="false">manosg--1701537947--4ae4492f-dcec-4833-b2f0-c2c5db53ff23---Bad to Be Good</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbce52d861e1bd321cf5a76522a3f0c3.jpg" length="29189" type="image/jpeg"/>
-      <pubDate>Sat, 02 Dec 2023 12:25:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Dec 2023 18:53:31 +0000</lastBuildDate>
     <item>
       <title>Skid Row - Big Guns (20 plays)</title>
       <link>https://www.last.fm/music/Skid+Row/_/Big+Guns</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1701714928--579eaba8-300b-4672-b317-b4d88d99a3da---If Death Comes Now</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e7ff59ab98571205bc5d2824ef5d174.jpg" length="33615" type="image/jpeg"/>
       <pubDate>Mon, 04 Dec 2023 13:35:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Helga - Farväl (1 play)</title>
+      <link>https://www.last.fm/music/Helga/_/Farv%C3%A4l</link>
+      <guid isPermaLink="false">manosg--1701715168--579eaba8-300b-4672-b317-b4d88d99a3da---Farväl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e7ff59ab98571205bc5d2824ef5d174.jpg" length="33615" type="image/jpeg"/>
+      <pubDate>Mon, 04 Dec 2023 13:39:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Helga - Alive Again (1 play)</title>
+      <link>https://www.last.fm/music/Helga/_/Alive+Again</link>
+      <guid isPermaLink="false">manosg--1701715485--579eaba8-300b-4672-b317-b4d88d99a3da---Alive Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e7ff59ab98571205bc5d2824ef5d174.jpg" length="33615" type="image/jpeg"/>
+      <pubDate>Mon, 04 Dec 2023 13:44:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
