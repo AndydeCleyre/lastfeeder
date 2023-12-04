@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 09:37:26 +0000</lastBuildDate>
-    <item>
-      <title>The Saints - Know Your Product (26 plays)</title>
-      <link>https://www.last.fm/music/The+Saints/_/Know+Your+Product</link>
-      <guid isPermaLink="false">Frippertron-1701664480--The Saints---Know Your Product</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05a7ac70a1ba4ddf8b9157ad84799476.jpg" length="26830" type="image/jpeg"/>
-      <pubDate>Sun, 03 Dec 2023 23:34:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Danny Brown - Tantor (8 plays)</title>
-      <link>https://www.last.fm/music/Danny+Brown/_/Tantor</link>
-      <guid isPermaLink="false">Frippertron-1701664687--960afc67-9c21-46dd-9c7f-ff2b509e3150---Tantor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c42f05e7e5b149d7888799ca23418396.jpg" length="4295" type="image/jpeg"/>
-      <pubDate>Sun, 03 Dec 2023 23:38:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Dec 2023 09:52:12 +0000</lastBuildDate>
     <item>
       <title>Billy Joel - The Stranger (33 plays)</title>
       <link>https://www.last.fm/music/Billy+Joel/_/The+Stranger</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1701682370--Genesis---The Return of the Giant Hogweed</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
       <pubDate>Mon, 04 Dec 2023 04:32:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Stay (263 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
+      <guid isPermaLink="false">Frippertron-1701682880--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
+      <pubDate>Mon, 04 Dec 2023 04:41:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sparks - Amateur Hour (71 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/Amateur+Hour</link>
+      <guid isPermaLink="false">Frippertron-1701683228--Sparks---Amateur Hour</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f717469bf1eb2325a3b290d60108aac.png" length="211481" type="image/png"/>
+      <pubDate>Mon, 04 Dec 2023 04:47:08 -0500</pubDate>
     </item>
   </channel>
 </rss>
