@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 11:14:05 +0000</lastBuildDate>
-    <item>
-      <title>The Enid - Mayday Galliard (248 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
-      <guid isPermaLink="false">Frippertron-1701670486--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 01:14:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Pillows - I Think I Can (18 plays)</title>
-      <link>https://www.last.fm/music/The+Pillows/_/I+Think+I+Can</link>
-      <guid isPermaLink="false">Frippertron-1701670934--The Pillows---I Think I Can</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4867df52b3c4de286ddd7807c7b1efc.jpg" length="32513" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 01:22:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Dec 2023 11:26:16 +0000</lastBuildDate>
     <item>
       <title>The Pillows - Ride on Shooting Star (17 plays)</title>
       <link>https://www.last.fm/music/The+Pillows/_/Ride+on+Shooting+Star</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1701687900--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Fuses</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5be4db107cf7f8e9def9338b87030ec7.jpg" length="9204" type="image/jpeg"/>
       <pubDate>Mon, 04 Dec 2023 06:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Metro - Criminal World (51 plays)</title>
+      <link>https://www.last.fm/music/Metro/_/Criminal+World</link>
+      <guid isPermaLink="false">Frippertron-1701688724--ea13db11-d664-4e06-86dd-41a2beb13f33---Criminal World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/808818236c06cba81a6cfed46be2e04d.png" length="142507" type="image/png"/>
+      <pubDate>Mon, 04 Dec 2023 06:18:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Metro - Precious (23 plays)</title>
+      <link>https://www.last.fm/music/Metro/_/Precious</link>
+      <guid isPermaLink="false">Frippertron-1701689054--ea13db11-d664-4e06-86dd-41a2beb13f33---Precious</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/808818236c06cba81a6cfed46be2e04d.png" length="142507" type="image/png"/>
+      <pubDate>Mon, 04 Dec 2023 06:24:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
