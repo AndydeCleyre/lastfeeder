@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 19:14:14 +0000</lastBuildDate>
-    <item>
-      <title>Drug Cabin - Turkey Time (38 plays)</title>
-      <link>https://www.last.fm/music/Drug+Cabin/_/Turkey+Time</link>
-      <guid isPermaLink="false">evilgnomeandy-1701625269--Drug Cabin---Turkey Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c8d2f8efa874383c371d000d7d47237.jpg" length="24357" type="image/jpeg"/>
-      <pubDate>Sun, 03 Dec 2023 12:41:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jesse O'Mahoney - She's a Rainbow (2 plays)</title>
-      <link>https://www.last.fm/music/Jesse+O%27Mahoney/_/She%27s+a+Rainbow</link>
-      <guid isPermaLink="false">evilgnomeandy-1701625401--Jesse O'Mahoney---She's a Rainbow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sun, 03 Dec 2023 12:43:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Dec 2023 19:25:11 +0000</lastBuildDate>
     <item>
       <title>Jackie Gleason - Yesterdays (1 play)</title>
       <link>https://www.last.fm/music/Jackie+Gleason/_/Yesterdays</link>
@@ -166,6 +152,7 @@
       <title>Antibalas - Hook &amp; Crook (7 plays)</title>
       <link>https://www.last.fm/music/Antibalas/_/Hook+&amp;+Crook</link>
       <guid isPermaLink="false">evilgnomeandy-1701631412--33c2a158-a788-44e5-81ab-142d544a165b---Hook &amp; Crook</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3df7ee44d4c7d87c6214fcc04e6e2cc.jpg" length="25331" type="image/jpeg"/>
       <pubDate>Sun, 03 Dec 2023 14:23:32 -0500</pubDate>
     </item>
     <item>
@@ -305,6 +292,7 @@
       <title>Sister Rosetta Tharpe - Seeking for Me (4 plays)</title>
       <link>https://www.last.fm/music/Sister+Rosetta+Tharpe/_/Seeking+for+Me</link>
       <guid isPermaLink="false">evilgnomeandy-1701715569--f5625c87-5a62-4b3b-a375-fe08a71acddc---Seeking for Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ecc53c99a9db7854b31be545a2699e6.jpg" length="22585" type="image/jpeg"/>
       <pubDate>Mon, 04 Dec 2023 13:46:09 -0500</pubDate>
     </item>
     <item>
@@ -353,8 +341,21 @@
       <title>The Bird and the Bee - Ain't Talking 'Bout Love (1 play)</title>
       <link>https://www.last.fm/music/The+Bird+and+the+Bee/_/Ain%27t+Talking+%27Bout+Love</link>
       <guid isPermaLink="false">evilgnomeandy-1701716877--d08b66b4-8950-439f-bd8e-2dd78dbd7a5f---Ain't Talking 'Bout Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2684b36dd6ed9224b0aa13f74117c7b.jpg" length="9748" type="image/jpeg"/>
       <pubDate>Mon, 04 Dec 2023 14:07:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Bird and the Bee - Recreational Love (1 play)</title>
+      <link>https://www.last.fm/music/The+Bird+and+the+Bee/_/Recreational+Love</link>
+      <guid isPermaLink="false">evilgnomeandy-1701717130--d08b66b4-8950-439f-bd8e-2dd78dbd7a5f---Recreational Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf7739b2eba86176cedce6da61768c3e.png" length="49063" type="image/png"/>
+      <pubDate>Mon, 04 Dec 2023 14:12:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Bird and the Bee - You're a Cad (1 play)</title>
+      <link>https://www.last.fm/music/The+Bird+and+the+Bee/_/You%27re+a+Cad</link>
+      <guid isPermaLink="false">evilgnomeandy-1701717322--d08b66b4-8950-439f-bd8e-2dd78dbd7a5f---You're a Cad</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0785e9ab281b4a0293197e0dfe43e2b4.png" length="146666" type="image/png"/>
+      <pubDate>Mon, 04 Dec 2023 14:15:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
