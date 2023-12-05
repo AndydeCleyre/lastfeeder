@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Dec 2023 03:38:18 +0000</lastBuildDate>
-    <item>
-      <title>Brian Simpson - And Then You Loved Me (1 play)</title>
-      <link>https://www.last.fm/music/Brian+Simpson/_/And+Then+You+Loved+Me</link>
-      <guid isPermaLink="false">ddgromit-1701715481--984d1733-3188-4b0e-ae13-7b75110adc2f---And Then You Loved Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0fd2e24e539f0f0231c2cfd0cb0862a.jpg" length="19996" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 13:44:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Les Sabler - Tranquility (1 play)</title>
-      <link>https://www.last.fm/music/Les+Sabler/_/Tranquility</link>
-      <guid isPermaLink="false">ddgromit-1701715608--Les Sabler---Tranquility</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce26813be8d8297e437e7afe9bd34219.jpg" length="11654" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 13:46:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>Blake Aaron - Feels So Right - Radio Edit (1 play)</title>
-      <link>https://www.last.fm/music/Blake+Aaron/_/Feels+So+Right+-+Radio+Edit</link>
-      <guid isPermaLink="false">ddgromit-1701715845--Blake Aaron---Feels So Right - Radio Edit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 04 Dec 2023 13:50:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Dec 2023 03:52:25 +0000</lastBuildDate>
     <item>
       <title>Jj Sansaverino - Midnight Fizz (1 play)</title>
       <link>https://www.last.fm/music/Jj+Sansaverino/_/Midnight+Fizz</link>
@@ -313,7 +292,6 @@
       <title>Hélène Vogelsinger - Ceremony (11 plays)</title>
       <link>https://www.last.fm/music/H%C3%A9l%C3%A8ne+Vogelsinger/_/Ceremony</link>
       <guid isPermaLink="false">ddgromit-1701731402--Hélène Vogelsinger---Ceremony</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/737ecc9ebdc64106c0652e9c0ebc7d48.jpg" length="42489" type="image/jpeg"/>
       <pubDate>Mon, 04 Dec 2023 18:10:02 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">ddgromit-1701747199--f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387---Santa Tell Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8f11384b080fa197303a20c566eeb05.jpg" length="6906" type="image/jpeg"/>
       <pubDate>Mon, 04 Dec 2023 22:33:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bobby Helms - Jingle Bell Rock (13 plays)</title>
+      <link>https://www.last.fm/music/Bobby+Helms/_/Jingle+Bell+Rock</link>
+      <guid isPermaLink="false">ddgromit-1701747404--502b3244-0f7d-470c-99e9-b17fe6bcaabf---Jingle Bell Rock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd6c9a3af8c029a8a610e86840419a37.png" length="82397" type="image/png"/>
+      <pubDate>Mon, 04 Dec 2023 22:36:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dean Martin - Let It Snow! Let It Snow! Let It Snow! (7 plays)</title>
+      <link>https://www.last.fm/music/Dean+Martin/_/Let+It+Snow!+Let+It+Snow!+Let+It+Snow!</link>
+      <guid isPermaLink="false">ddgromit-1701747535--5e6c760b-42e0-4df4-a221-0269355da00a---Let It Snow! Let It Snow! Let It Snow!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d152156cbb24853caa8961318268f389.jpg" length="32541" type="image/jpeg"/>
+      <pubDate>Mon, 04 Dec 2023 22:38:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Laufey - Winter Wonderland - Spotify Singles Holiday (1 play)</title>
+      <link>https://www.last.fm/music/Laufey/_/Winter+Wonderland+-+Spotify+Singles+Holiday</link>
+      <guid isPermaLink="false">ddgromit-1701747653--21a89505-10a9-4ac0-8388-833bc07b9f86---Winter Wonderland - Spotify Singles Holiday</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d975e5e80d254d6f7560d5b5f186dbc1.jpg" length="18899" type="image/jpeg"/>
+      <pubDate>Mon, 04 Dec 2023 22:40:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
