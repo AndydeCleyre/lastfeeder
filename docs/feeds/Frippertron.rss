@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Dec 2023 06:39:17 +0000</lastBuildDate>
-    <item>
-      <title>Hall &amp; Oates - Private Eyes (50 plays)</title>
-      <link>https://www.last.fm/music/Hall+&amp;+Oates/_/Private+Eyes</link>
-      <guid isPermaLink="false">Frippertron-1701685469--Hall &amp; Oates---Private Eyes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 05:24:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Fat Bottomed Girls (37 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Fat+Bottomed+Girls</link>
-      <guid isPermaLink="false">Frippertron-1701685803--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Fat Bottomed Girls</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6682a933a9814d48bf1307e7a99cd655.png" length="138305" type="image/png"/>
-      <pubDate>Mon, 04 Dec 2023 05:30:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Bicycle Race (28 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Bicycle+Race</link>
-      <guid isPermaLink="false">Frippertron-1701686075--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Bicycle Race</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6682a933a9814d48bf1307e7a99cd655.png" length="138305" type="image/png"/>
-      <pubDate>Mon, 04 Dec 2023 05:34:35 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Dec 2023 06:52:14 +0000</lastBuildDate>
     <item>
       <title>Queen - Don't Stop Me Now (48 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Don%27t+Stop+Me+Now</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1701758066--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Miss Modular</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
       <pubDate>Tue, 05 Dec 2023 01:34:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - The Flower Called Nowhere (12 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/The+Flower+Called+Nowhere</link>
+      <guid isPermaLink="false">Frippertron-1701758335--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---The Flower Called Nowhere</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
+      <pubDate>Tue, 05 Dec 2023 01:38:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Diagonals (16 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Diagonals</link>
+      <guid isPermaLink="false">Frippertron-1701758631--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Diagonals</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
+      <pubDate>Tue, 05 Dec 2023 01:43:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Prisoner of Mars (10 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Prisoner+of+Mars</link>
+      <guid isPermaLink="false">Frippertron-1701758948--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Prisoner of Mars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b81a00734a2f70b34acde16c61fdfa71.jpg" length="15072" type="image/jpeg"/>
+      <pubDate>Tue, 05 Dec 2023 01:49:08 -0500</pubDate>
     </item>
   </channel>
 </rss>
