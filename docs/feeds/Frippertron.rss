@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Dec 2023 09:37:33 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Golden Years (55 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Golden+Years</link>
-      <guid isPermaLink="false">Frippertron-1701747361--5441c29d-3602-4898-b1a1-b77fa23b8e50---Golden Years</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 22:36:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Word on a Wing (51 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Word+on+a+Wing</link>
-      <guid isPermaLink="false">Frippertron-1701747603--5441c29d-3602-4898-b1a1-b77fa23b8e50---Word on a Wing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 22:40:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Dec 2023 09:52:11 +0000</lastBuildDate>
     <item>
       <title>David Bowie - TVC 15 (138 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/TVC+15</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1701768652--Genesis---The Lady Lies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
       <pubDate>Tue, 05 Dec 2023 04:30:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ripples (133 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
+      <guid isPermaLink="false">Frippertron-1701769016--Genesis---Ripples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
+      <pubDate>Tue, 05 Dec 2023 04:36:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neurosis - Burn (18 plays)</title>
+      <link>https://www.last.fm/music/Neurosis/_/Burn</link>
+      <guid isPermaLink="false">Frippertron-1701769644--3fb418fa-3c6e-412a-9218-12adb0408192---Burn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a81911eb95540170f99b4c52d0c5e54.jpg" length="16640" type="image/jpeg"/>
+      <pubDate>Tue, 05 Dec 2023 04:47:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
