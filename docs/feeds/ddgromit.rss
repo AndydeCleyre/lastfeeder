@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Dec 2023 07:15:28 +0000</lastBuildDate>
-    <item>
-      <title>Philip Aaberg - Montana Half-Light (1 play)</title>
-      <link>https://www.last.fm/music/Philip+Aaberg/_/Montana+Half-Light</link>
-      <guid isPermaLink="false">ddgromit-1701717701--086321ef-15b3-434a-a57b-9f0de3023161---Montana Half-Light</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/855d1ec76155405382d47e13f034b1f0.jpg" length="15855" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 14:21:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Dec 2023 20:38:00 +0000</lastBuildDate>
     <item>
       <title>Acoustic Alchemy - Allemande (1 play)</title>
       <link>https://www.last.fm/music/Acoustic+Alchemy/_/Allemande</link>
@@ -205,7 +198,7 @@
       <pubDate>Mon, 04 Dec 2023 15:38:03 -0500</pubDate>
     </item>
     <item>
-      <title>Walca - Don Miguel (5 plays)</title>
+      <title>Walca - Don Miguel (6 plays)</title>
       <link>https://www.last.fm/music/Walca/_/Don+Miguel</link>
       <guid isPermaLink="false">ddgromit-1701730468--Walca---Don Miguel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -250,7 +243,7 @@
       <title>Wham! - Last Christmas (10 plays)</title>
       <link>https://www.last.fm/music/Wham!/_/Last+Christmas</link>
       <guid isPermaLink="false">ddgromit-1701746359--d570bb31-b9ca-45a4-a2d9-11b186d9c159---Last Christmas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7ecfb41a1d637c200fa3c29d986ff39.png" length="134880" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/77976ea0a663e3118baf479f51a768dc.png" length="220164" type="image/png"/>
       <pubDate>Mon, 04 Dec 2023 22:19:19 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1701750207--Lego World---Lego Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 04 Dec 2023 23:23:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Walca - Don Miguel (6 plays)</title>
+      <link>https://www.last.fm/music/Walca/_/Don+Miguel</link>
+      <guid isPermaLink="false">ddgromit-1701807412--Walca---Don Miguel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 05 Dec 2023 15:16:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
