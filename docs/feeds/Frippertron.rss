@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Dec 2023 12:31:53 +0000</lastBuildDate>
-    <item>
-      <title>Billy Paul - Me and Mrs. Jones (16 plays)</title>
-      <link>https://www.last.fm/music/Billy+Paul/_/Me+and+Mrs.+Jones</link>
-      <guid isPermaLink="false">Frippertron-1701671869--881c6fe4-afd3-4a2b-bfb4-a2dc30af2989---Me and Mrs. Jones</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ff8041c421b44c6996049273d7a44f3.png" length="118524" type="image/png"/>
-      <pubDate>Mon, 04 Dec 2023 01:37:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roy Wood - Life Is Wonderful (70 plays)</title>
-      <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
-      <guid isPermaLink="false">Frippertron-1701672176--Roy Wood---Life Is Wonderful</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
-      <pubDate>Mon, 04 Dec 2023 01:42:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Dec 2023 03:17:34 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Pictures of a City (150 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Pictures+of+a+City</link>
@@ -184,7 +170,7 @@
       <pubDate>Mon, 04 Dec 2023 04:32:50 -0500</pubDate>
     </item>
     <item>
-      <title>David Bowie - Stay (263 plays)</title>
+      <title>David Bowie - Stay (264 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
       <guid isPermaLink="false">Frippertron-1701682880--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1701692007--8353f93f-163e-48c2-bb75-9f18987a3d46---To Be Over</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
       <pubDate>Mon, 04 Dec 2023 07:13:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - TVC 15 (137 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/TVC+15</link>
+      <guid isPermaLink="false">Frippertron-1701745653--5441c29d-3602-4898-b1a1-b77fa23b8e50---TVC 15</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
+      <pubDate>Mon, 04 Dec 2023 22:07:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Stay (264 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
+      <guid isPermaLink="false">Frippertron-1701745985--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
+      <pubDate>Mon, 04 Dec 2023 22:13:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
