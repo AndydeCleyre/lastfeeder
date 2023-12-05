@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Dec 2023 11:13:55 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Bohemian Rhapsody (Reprise) (6 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Bohemian+Rhapsody+(Reprise)</link>
-      <guid isPermaLink="false">Frippertron-1701751236--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Bohemian Rhapsody (Reprise)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/447404d59d7bb97e9193a9a3ef0a0980.jpg" length="26147" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 23:40:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Bring Back That Leroy Brown (36 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Bring+Back+That+Leroy+Brown</link>
-      <guid isPermaLink="false">Frippertron-1701751299--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Bring Back That Leroy Brown</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/447404d59d7bb97e9193a9a3ef0a0980.jpg" length="26147" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 23:41:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Dec 2023 11:25:52 +0000</lastBuildDate>
     <item>
       <title>Queen - Brighton Rock (83 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Brighton+Rock</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1701774585--Genesis---Get 'em Out by Friday</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
       <pubDate>Tue, 05 Dec 2023 06:09:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Can-Utility and the Coastliners (34 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Can-Utility+and+the+Coastliners</link>
+      <guid isPermaLink="false">Frippertron-1701775102--Genesis---Can-Utility and the Coastliners</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
+      <pubDate>Tue, 05 Dec 2023 06:18:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Horizons (38 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Horizons</link>
+      <guid isPermaLink="false">Frippertron-1701775449--Genesis---Horizons</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
+      <pubDate>Tue, 05 Dec 2023 06:24:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
