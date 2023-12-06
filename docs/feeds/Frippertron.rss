@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Dec 2023 08:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Moonshake - City Poison (4 plays)</title>
-      <link>https://www.last.fm/music/Moonshake/_/City+Poison</link>
-      <guid isPermaLink="false">Frippertron-1701832369--c7ce0ddd-4118-45ad-8852-8a9525d681f2---City Poison</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6daff7521cc33b81957187f734f31eb8.jpg" length="41240" type="image/jpeg"/>
-      <pubDate>Tue, 05 Dec 2023 22:12:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Manic Street Preachers - Everything Must Go (13 plays)</title>
-      <link>https://www.last.fm/music/Manic+Street+Preachers/_/Everything+Must+Go</link>
-      <guid isPermaLink="false">Frippertron-1701832617--32efea44-6cb5-4b4f-bdaa-c8b8f6cef981---Everything Must Go</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/823ac734d866d318411fe6dd78630523.png" length="40300" type="image/png"/>
-      <pubDate>Tue, 05 Dec 2023 22:16:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Dec 2023 09:16:24 +0000</lastBuildDate>
     <item>
       <title>Wire - Map Ref. 41ºN 93ºW (118 plays)</title>
       <link>https://www.last.fm/music/Wire/_/Map+Ref.+41%C2%BAN+93%C2%BAW</link>
@@ -47,6 +33,7 @@
       <title>Yes - Sound Chaser (66 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Sound+Chaser</link>
       <guid isPermaLink="false">Frippertron-1701834162--8353f93f-163e-48c2-bb75-9f18987a3d46---Sound Chaser</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
       <pubDate>Tue, 05 Dec 2023 22:42:42 -0500</pubDate>
     </item>
     <item>
@@ -351,11 +338,25 @@
       <pubDate>Wed, 06 Dec 2023 03:44:14 -0500</pubDate>
     </item>
     <item>
-      <title>Henry Cow - Living in the Heart of the Beast (78 plays)</title>
+      <title>Henry Cow - Living in the Heart of the Beast (79 plays)</title>
       <link>https://www.last.fm/music/Henry+Cow/_/Living+in+the+Heart+of+the+Beast</link>
       <guid isPermaLink="false">Frippertron-1701852404--6ba2f6ce-50be-47df-b5a3-298ef032f476---Living in the Heart of the Beast</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8b4094668d9e43eb290ec3e5728958f.jpg" length="22439" type="image/jpeg"/>
       <pubDate>Wed, 06 Dec 2023 03:46:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alexander Scriabin - Symphony No. 3 'The Divine Poem', Op.43: I. Lento (8 plays)</title>
+      <link>https://www.last.fm/music/Alexander+Scriabin/_/Symphony+No.+3+%27The+Divine+Poem%27,+Op.43:+I.+Lento</link>
+      <guid isPermaLink="false">Frippertron-1701853384--Alexander Scriabin---Symphony No. 3 'The Divine Poem', Op.43: I. Lento</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dc250cfc025655c8a2fde6be5a8974b7.jpg" length="26202" type="image/jpeg"/>
+      <pubDate>Wed, 06 Dec 2023 04:03:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alexander Scriabin - Symphony No. 3 'The Divine Poem', Op.43: II. Luttes (Allegro) (8 plays)</title>
+      <link>https://www.last.fm/music/Alexander+Scriabin/_/Symphony+No.+3+%27The+Divine+Poem%27,+Op.43:+II.+Luttes+(Allegro)</link>
+      <guid isPermaLink="false">Frippertron-1701853451--Alexander Scriabin---Symphony No. 3 'The Divine Poem', Op.43: II. Luttes (Allegro)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dc250cfc025655c8a2fde6be5a8974b7.jpg" length="26202" type="image/jpeg"/>
+      <pubDate>Wed, 06 Dec 2023 04:04:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
