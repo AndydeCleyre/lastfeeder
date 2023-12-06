@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Dec 2023 01:13:58 +0000</lastBuildDate>
-    <item>
-      <title>Tiko - Strawberry (2 plays)</title>
-      <link>https://www.last.fm/music/Tiko/_/Strawberry</link>
-      <guid isPermaLink="false">ddgromit-1701749185--Tiko---Strawberry</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52930aed229bc92d49dd411af2489ae7.jpg" length="22113" type="image/jpeg"/>
-      <pubDate>Mon, 04 Dec 2023 23:06:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Dec 2023 02:52:19 +0000</lastBuildDate>
     <item>
       <title>Tiko - DAYLIGHT (1 play)</title>
       <link>https://www.last.fm/music/Tiko/_/DAYLIGHT</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1701821113--47248988-dff5-4f53-b76b-f439b1113367---Gold</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95f6b4561e2ae393f1490d4a2463130a.jpg" length="16350" type="image/jpeg"/>
       <pubDate>Tue, 05 Dec 2023 19:05:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jewel - Do You Want To Play? (1 play)</title>
+      <link>https://www.last.fm/music/Jewel/_/Do+You+Want+To+Play%3F</link>
+      <guid isPermaLink="false">ddgromit-1701830822--Jewel---Do You Want To Play?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66de2c7536c44199be3fc55935cc8aae.png" length="80795" type="image/png"/>
+      <pubDate>Tue, 05 Dec 2023 21:47:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
