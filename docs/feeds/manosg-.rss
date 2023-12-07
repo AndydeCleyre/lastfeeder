@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Dec 2023 16:22:29 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Devil In Her Heart - Remastered 2009 (2 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Devil+In+Her+Heart+-+Remastered+2009</link>
-      <guid isPermaLink="false">manosg--1701845826--The Beatles---Devil In Her Heart - Remastered 2009</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1610a5e4bb4420c7ec924946d93015af.jpg" length="14258" type="image/jpeg"/>
-      <pubDate>Wed, 06 Dec 2023 01:57:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Dec 2023 17:53:07 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Not A Second Time - Remastered 2009 (2 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Not+A+Second+Time+-+Remastered+2009</link>
@@ -180,7 +173,6 @@
       <title>Billy Cobham - To The Women In My Life (5 plays)</title>
       <link>https://www.last.fm/music/Billy+Cobham/_/To+The+Women+In+My+Life</link>
       <guid isPermaLink="false">manosg--1701881534--255497f8-26fb-4044-b97e-d4787d5974f6---To The Women In My Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d47d417aabf8403c85c172dc8f523892.png" length="53560" type="image/png"/>
       <pubDate>Wed, 06 Dec 2023 11:52:14 -0500</pubDate>
     </item>
     <item>
@@ -355,7 +347,15 @@
       <title>Paul Di'Anno's Battlezone - The Land God Gave to Caine (1 play)</title>
       <link>https://www.last.fm/music/Paul+Di%27Anno%27s+Battlezone/_/The+Land+God+Gave+to+Caine</link>
       <guid isPermaLink="false">manosg--1701964482--49fa5be9-64b3-4a61-8f06-723534ee37b7---The Land God Gave to Caine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96c097f76856e446a6fdc8df4c9cb8ff.png" length="193148" type="image/png"/>
       <pubDate>Thu, 07 Dec 2023 10:54:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Paul Di'Anno's Battlezone - Running Blind (1 play)</title>
+      <link>https://www.last.fm/music/Paul+Di%27Anno%27s+Battlezone/_/Running+Blind</link>
+      <guid isPermaLink="false">manosg--1701965082--49fa5be9-64b3-4a61-8f06-723534ee37b7---Running Blind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96c097f76856e446a6fdc8df4c9cb8ff.png" length="193148" type="image/png"/>
+      <pubDate>Thu, 07 Dec 2023 11:04:42 -0500</pubDate>
     </item>
   </channel>
 </rss>

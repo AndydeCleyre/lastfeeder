@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Dec 2023 17:41:17 +0000</lastBuildDate>
-    <item>
-      <title>Zach Bryan - Quittin' Time (3 plays)</title>
-      <link>https://www.last.fm/music/Zach+Bryan/_/Quittin%27+Time</link>
-      <guid isPermaLink="false">gameofmetal-1701907340--51e90731-08c0-4f60-89b6-5b78e5844de8---Quittin' Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01ad957e787939c5cce1fedf52bfb2f2.jpg" length="25533" type="image/jpeg"/>
-      <pubDate>Wed, 06 Dec 2023 19:02:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>Zach Bryan - Something in the Orange (4 plays)</title>
-      <link>https://www.last.fm/music/Zach+Bryan/_/Something+in+the+Orange</link>
-      <guid isPermaLink="false">gameofmetal-1701907570--51e90731-08c0-4f60-89b6-5b78e5844de8---Something in the Orange</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8fe1c5775e4f3f1f8336dea996df802.png" length="171324" type="image/png"/>
-      <pubDate>Wed, 06 Dec 2023 19:06:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Dec 2023 17:53:31 +0000</lastBuildDate>
     <item>
       <title>Zach Bryan - Motorcycle Drive By (3 plays)</title>
       <link>https://www.last.fm/music/Zach+Bryan/_/Motorcycle+Drive+By</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1701970582--082e1531-e8ff-43ef-8f1c-7c6600b0c00d---Family Ties</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cdb11d27235c470fcb061c10176c9c51.jpg" length="24207" type="image/jpeg"/>
       <pubDate>Thu, 07 Dec 2023 12:36:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Charles Wesley Godwin - Miner Imperfections (1 play)</title>
+      <link>https://www.last.fm/music/Charles+Wesley+Godwin/_/Miner+Imperfections</link>
+      <guid isPermaLink="false">gameofmetal-1701970837--082e1531-e8ff-43ef-8f1c-7c6600b0c00d---Miner Imperfections</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cdb11d27235c470fcb061c10176c9c51.jpg" length="24207" type="image/jpeg"/>
+      <pubDate>Thu, 07 Dec 2023 12:40:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Charles Wesley Godwin - Temporary Town (1 play)</title>
+      <link>https://www.last.fm/music/Charles+Wesley+Godwin/_/Temporary+Town</link>
+      <guid isPermaLink="false">gameofmetal-1701971114--082e1531-e8ff-43ef-8f1c-7c6600b0c00d---Temporary Town</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f433d4915fb4e2eb47518e90e9e8f82a.jpg" length="26587" type="image/jpeg"/>
+      <pubDate>Thu, 07 Dec 2023 12:45:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
