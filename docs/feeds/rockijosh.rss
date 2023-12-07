@@ -7,7 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Dec 2023 17:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 13:00:01 +0000</lastBuildDate>
     <item>
       <title>Trophy Eyes - Omw (1 play)</title>
       <link>https://www.last.fm/music/Trophy+Eyes/_/Omw</link>
@@ -219,13 +219,6 @@
       <pubDate>Tue, 05 Dec 2023 12:34:56 -0500</pubDate>
     </item>
     <item>
-      <title>Glass Beams - Kong (1 play)</title>
-      <link>https://www.last.fm/music/Glass+Beams/_/Kong</link>
-      <guid isPermaLink="false">rockijosh-1701864252--5bb54b77-2caa-4377-bdc3-3b8c0f5e507f---Kong</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad0ef92dd1929fbf050f8baff2f8d107.jpg" length="18314" type="image/jpeg"/>
-      <pubDate>Wed, 06 Dec 2023 07:04:12 -0500</pubDate>
-    </item>
-    <item>
       <title>From First to Last - Note to Self (8 plays)</title>
       <link>https://www.last.fm/music/From+First+to+Last/_/Note+to+Self</link>
       <guid isPermaLink="false">rockijosh-1701877641--7f36c2ba-a338-402f-861f-390229bfae04---Note to Self</guid>
@@ -357,6 +350,12 @@
       <guid isPermaLink="false">rockijosh-1701883316--deaddf4e-1209-4d93-bb75-f53780d1c0c4---Syke! Life Is AWESOME!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9739dc30bf64f658eeb14239918a819c.jpg" length="19987" type="image/jpeg"/>
       <pubDate>Wed, 06 Dec 2023 12:21:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Menzingers - No Ticket (66 plays)</title>
+      <link>https://www.last.fm/music/The+Menzingers/_/No+Ticket</link>
+      <guid isPermaLink="false">rockijosh-1701883559--3071d829-b9ca-4499-b4f5-74d6d8531aed---No Ticket</guid>
+      <pubDate>Wed, 06 Dec 2023 12:25:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
