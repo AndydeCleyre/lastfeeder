@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Dec 2023 10:52:28 +0000</lastBuildDate>
-    <item>
-      <title>Thelonious Monk - Well You Needn't - Opening (2 plays)</title>
-      <link>https://www.last.fm/music/Thelonious+Monk/_/Well+You+Needn%27t+-+Opening</link>
-      <guid isPermaLink="false">manosg--1701881585--8e8c7417-c905-46b1-b42a-5260b4274ed4---Well You Needn't - Opening</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3b3dc4f2ff84e28b13b4cab48f4399d.png" length="95296" type="image/png"/>
-      <pubDate>Wed, 06 Dec 2023 11:53:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Chick Corea Elektric Band - Port View 1 (1 play)</title>
-      <link>https://www.last.fm/music/Chick+Corea+Elektric+Band/_/Port+View+1</link>
-      <guid isPermaLink="false">manosg--1701881911--419c4478-1a5c-40e8-87e1-802cd7eb25c1---Port View 1</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4966d379a4c5438dbef3a4120522febc.jpg" length="28754" type="image/jpeg"/>
-      <pubDate>Wed, 06 Dec 2023 11:58:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Dec 2023 11:14:08 +0000</lastBuildDate>
     <item>
       <title>John McLaughlin - Dawn (6 plays)</title>
       <link>https://www.last.fm/music/John+McLaughlin/_/Dawn</link>
@@ -341,12 +327,14 @@
       <title>Iron Maiden - Como Estais Amigos - 2015 Remaster (1 play)</title>
       <link>https://www.last.fm/music/Iron+Maiden/_/Como+Estais+Amigos+-+2015+Remaster</link>
       <guid isPermaLink="false">manosg--1702027293--Iron Maiden---Como Estais Amigos - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34008d3a44a282e4e791698c3e01bde2.png" length="226243" type="image/png"/>
       <pubDate>Fri, 08 Dec 2023 04:21:33 -0500</pubDate>
     </item>
     <item>
       <title>Deep Purple - Stormbringer - 2009 Digital Remaster (4 plays)</title>
       <link>https://www.last.fm/music/Deep+Purple/_/Stormbringer+-+2009+Digital+Remaster</link>
       <guid isPermaLink="false">manosg--1702031795--79491354-3d83-40e3-9d8e-7592d58d790a---Stormbringer - 2009 Digital Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afd00f22b063b60966f0f8fa54185b54.jpg" length="20630" type="image/jpeg"/>
       <pubDate>Fri, 08 Dec 2023 05:36:35 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">manosg--1702032045--Deep Purple---Burn - Remastered 2004</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b5f5cade3a5abb2185c7c9a8f7c7d61.jpg" length="15272" type="image/jpeg"/>
       <pubDate>Fri, 08 Dec 2023 05:40:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Deep Purple - Might Just Take Your Life - Remastered 2004 (2 plays)</title>
+      <link>https://www.last.fm/music/Deep+Purple/_/Might+Just+Take+Your+Life+-+Remastered+2004</link>
+      <guid isPermaLink="false">manosg--1702032465--Deep Purple---Might Just Take Your Life - Remastered 2004</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b5f5cade3a5abb2185c7c9a8f7c7d61.jpg" length="15272" type="image/jpeg"/>
+      <pubDate>Fri, 08 Dec 2023 05:47:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Deep Purple - Lay Down, Stay Down - Remastered 2004 (3 plays)</title>
+      <link>https://www.last.fm/music/Deep+Purple/_/Lay+Down,+Stay+Down+-+Remastered+2004</link>
+      <guid isPermaLink="false">manosg--1702033455--Deep Purple---Lay Down, Stay Down - Remastered 2004</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b5f5cade3a5abb2185c7c9a8f7c7d61.jpg" length="15272" type="image/jpeg"/>
+      <pubDate>Fri, 08 Dec 2023 06:04:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
