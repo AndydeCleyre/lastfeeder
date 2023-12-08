@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Dec 2023 07:15:09 +0000</lastBuildDate>
-    <item>
-      <title>Chick Corea - El Bozo - Pt. 1 (1 play)</title>
-      <link>https://www.last.fm/music/Chick+Corea/_/El+Bozo+-+Pt.+1</link>
-      <guid isPermaLink="false">manosg--1701864619--Chick Corea---El Bozo - Pt. 1</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5bf612f0da41f49539c2b15560c50e.jpg" length="25362" type="image/jpeg"/>
-      <pubDate>Wed, 06 Dec 2023 07:10:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Chick Corea - El Bozo - Pt. 2 (1 play)</title>
-      <link>https://www.last.fm/music/Chick+Corea/_/El+Bozo+-+Pt.+2</link>
-      <guid isPermaLink="false">manosg--1701865176--Chick Corea---El Bozo - Pt. 2</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5bf612f0da41f49539c2b15560c50e.jpg" length="25362" type="image/jpeg"/>
-      <pubDate>Wed, 06 Dec 2023 07:19:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Dec 2023 07:26:48 +0000</lastBuildDate>
     <item>
       <title>Chick Corea - El Bozo - Pt. 3 (1 play)</title>
       <link>https://www.last.fm/music/Chick+Corea/_/El+Bozo+-+Pt.+3</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1702019279--Iron Maiden---Mother Russia - 2015 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bccd0a1277c559a6a8a0f6942823e8cf.jpg" length="37833" type="image/jpeg"/>
       <pubDate>Fri, 08 Dec 2023 02:07:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Futureal - 2015 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Futureal+-+2015+Remaster</link>
+      <guid isPermaLink="false">manosg--1702019626--Iron Maiden---Futureal - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34008d3a44a282e4e791698c3e01bde2.png" length="226243" type="image/png"/>
+      <pubDate>Fri, 08 Dec 2023 02:13:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - The Angel and the Gambler - 2015 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/The+Angel+and+the+Gambler+-+2015+Remaster</link>
+      <guid isPermaLink="false">manosg--1702019804--Iron Maiden---The Angel and the Gambler - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34008d3a44a282e4e791698c3e01bde2.png" length="226243" type="image/png"/>
+      <pubDate>Fri, 08 Dec 2023 02:16:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
