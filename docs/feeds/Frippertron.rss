@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Dec 2023 03:37:38 +0000</lastBuildDate>
-    <item>
-      <title>Franz Ferdinand - Take Me Out (10 plays)</title>
-      <link>https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out</link>
-      <guid isPermaLink="false">Frippertron-1701926698--aa7a2827-f74b-473c-bd79-03d065835cf7---Take Me Out</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9eeb5bd8670b9df0f0a23082e504a05.jpg" length="13060" type="image/jpeg"/>
-      <pubDate>Thu, 07 Dec 2023 00:24:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>Franz Ferdinand - The Dark of the Matinée (1 play)</title>
-      <link>https://www.last.fm/music/Franz+Ferdinand/_/The+Dark+of+the+Matin%C3%A9e</link>
-      <guid isPermaLink="false">Frippertron-1701926935--aa7a2827-f74b-473c-bd79-03d065835cf7---The Dark of the Matinée</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9eeb5bd8670b9df0f0a23082e504a05.jpg" length="13060" type="image/jpeg"/>
-      <pubDate>Thu, 07 Dec 2023 00:28:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Dec 2023 03:52:05 +0000</lastBuildDate>
     <item>
       <title>Queen - Liar (89 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Liar</link>
@@ -135,7 +121,7 @@
       <pubDate>Thu, 07 Dec 2023 03:06:12 -0500</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - Custard Pie (41 plays)</title>
+      <title>Led Zeppelin - Custard Pie (42 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Custard+Pie</link>
       <guid isPermaLink="false">Frippertron-1701936811--678d88b2-87b0-403b-b63d-5da7465aecc3---Custard Pie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
@@ -184,7 +170,7 @@
       <pubDate>Thu, 07 Dec 2023 03:48:32 -0500</pubDate>
     </item>
     <item>
-      <title>Smokey Robinson - Baby That's Backatcha (5 plays)</title>
+      <title>Smokey Robinson - Baby That's Backatcha (6 plays)</title>
       <link>https://www.last.fm/music/Smokey+Robinson/_/Baby+That%27s+Backatcha</link>
       <guid isPermaLink="false">Frippertron-1701939342--c19ff12b-058f-44a8-b245-b0efb4752925---Baby That's Backatcha</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5795b94466a742cfc2aa2ee6e5d6439b.jpg" length="27097" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702006431--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Jumbo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c743fcd76479462e9ec2c0601eb489f.jpg" length="10308" type="image/jpeg"/>
       <pubDate>Thu, 07 Dec 2023 22:33:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Smokey Robinson - Baby That's Backatcha (6 plays)</title>
+      <link>https://www.last.fm/music/Smokey+Robinson/_/Baby+That%27s+Backatcha</link>
+      <guid isPermaLink="false">Frippertron-1702006996--c19ff12b-058f-44a8-b245-b0efb4752925---Baby That's Backatcha</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5795b94466a742cfc2aa2ee6e5d6439b.jpg" length="27097" type="image/jpeg"/>
+      <pubDate>Thu, 07 Dec 2023 22:43:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Custard Pie (42 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Custard+Pie</link>
+      <guid isPermaLink="false">Frippertron-1702007220--678d88b2-87b0-403b-b63d-5da7465aecc3---Custard Pie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
+      <pubDate>Thu, 07 Dec 2023 22:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
