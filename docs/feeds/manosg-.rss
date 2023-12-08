@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Dec 2023 18:39:10 +0000</lastBuildDate>
-    <item>
-      <title>Chick Corea - Night Streets (1 play)</title>
-      <link>https://www.last.fm/music/Chick+Corea/_/Night+Streets</link>
-      <guid isPermaLink="false">manosg--1701859635--8446fcca-109e-4c6d-a2ff-5a269b32b4c2---Night Streets</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5bf612f0da41f49539c2b15560c50e.jpg" length="25362" type="image/jpeg"/>
-      <pubDate>Wed, 06 Dec 2023 05:47:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Dec 2023 06:52:08 +0000</lastBuildDate>
     <item>
       <title>Chick Corea - The Hilltop (1 play)</title>
       <link>https://www.last.fm/music/Chick+Corea/_/The+Hilltop</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1701973447--Iron Maiden---Public Enema Number One - 2015 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bccd0a1277c559a6a8a0f6942823e8cf.jpg" length="37833" type="image/jpeg"/>
       <pubDate>Thu, 07 Dec 2023 13:24:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Fates Warning - 2015 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Fates+Warning+-+2015+Remaster</link>
+      <guid isPermaLink="false">manosg--1701973701--Iron Maiden---Fates Warning - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bccd0a1277c559a6a8a0f6942823e8cf.jpg" length="37833" type="image/jpeg"/>
+      <pubDate>Thu, 07 Dec 2023 13:28:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
