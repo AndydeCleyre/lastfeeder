@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Dec 2023 17:38:25 +0000</lastBuildDate>
-    <item>
-      <title>Hall &amp; Oates - You Make My Dreams (60 plays)</title>
-      <link>https://www.last.fm/music/Hall+&amp;+Oates/_/You+Make+My+Dreams</link>
-      <guid isPermaLink="false">Frippertron-1702018585--Hall &amp; Oates---You Make My Dreams</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
-      <pubDate>Fri, 08 Dec 2023 01:56:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sparks - Something for the Girl with Everything (50 plays)</title>
-      <link>https://www.last.fm/music/Sparks/_/Something+for+the+Girl+with+Everything</link>
-      <guid isPermaLink="false">Frippertron-1702018806--Sparks---Something for the Girl with Everything</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b79032fb1e35826fd008201da0278d4a.jpg" length="23143" type="image/jpeg"/>
-      <pubDate>Fri, 08 Dec 2023 02:00:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Underworld - Jumbo (26 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Jumbo</link>
-      <guid isPermaLink="false">Frippertron-1702022416--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Jumbo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c743fcd76479462e9ec2c0601eb489f.jpg" length="10308" type="image/jpeg"/>
-      <pubDate>Fri, 08 Dec 2023 03:00:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 Dec 2023 17:53:06 +0000</lastBuildDate>
     <item>
       <title>Yes - Yours Is No Disgrace (45 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Yours+Is+No+Disgrace</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1702229663--bcc5fb7c-e8c8-4c2e-8f64-c46f1ea2b974---Ashura Clock (Discommunicator)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ec21f5438648cf60515f2511592d399.jpg" length="12530" type="image/jpeg"/>
       <pubDate>Sun, 10 Dec 2023 12:34:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>P-Model - Black in White (1 play)</title>
+      <link>https://www.last.fm/music/P-Model/_/Black+in+White</link>
+      <guid isPermaLink="false">Frippertron-1702229908--bcc5fb7c-e8c8-4c2e-8f64-c46f1ea2b974---Black in White</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ec21f5438648cf60515f2511592d399.jpg" length="12530" type="image/jpeg"/>
+      <pubDate>Sun, 10 Dec 2023 12:38:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>P-Model - A Strange Fruit (1 play)</title>
+      <link>https://www.last.fm/music/P-Model/_/A+Strange+Fruit</link>
+      <guid isPermaLink="false">Frippertron-1702230185--bcc5fb7c-e8c8-4c2e-8f64-c46f1ea2b974---A Strange Fruit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ec21f5438648cf60515f2511592d399.jpg" length="12530" type="image/jpeg"/>
+      <pubDate>Sun, 10 Dec 2023 12:43:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>P-Model - Ashura Clock (1 play)</title>
+      <link>https://www.last.fm/music/P-Model/_/Ashura+Clock</link>
+      <guid isPermaLink="false">Frippertron-1702230377--bcc5fb7c-e8c8-4c2e-8f64-c46f1ea2b974---Ashura Clock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ec21f5438648cf60515f2511592d399.jpg" length="12530" type="image/jpeg"/>
+      <pubDate>Sun, 10 Dec 2023 12:46:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
