@@ -28,7 +28,7 @@ mypy-extensions==1.0.0
     # via black
 packaging==23.2
     # via black
-pathspec==0.12.0
+pathspec==0.12.1
     # via black
 pep517==0.13.1
     # via requirementslib
