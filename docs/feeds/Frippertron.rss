@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 04:52:25 +0000</lastBuildDate>
-    <item>
-      <title>Underworld - Moaner (9 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Moaner</link>
-      <guid isPermaLink="false">Frippertron-1702037184--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Moaner</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c743fcd76479462e9ec2c0601eb489f.jpg" length="10308" type="image/jpeg"/>
-      <pubDate>Fri, 08 Dec 2023 07:06:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>SUGAR BABE - SHOW (34 plays)</title>
-      <link>https://www.last.fm/music/SUGAR+BABE/_/SHOW</link>
-      <guid isPermaLink="false">Frippertron-1702037687--08614e29-9470-4547-9d2c-d13287727173---SHOW</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad375c7964274ad09f8a8cc7b5596bef.png" length="101924" type="image/png"/>
-      <pubDate>Fri, 08 Dec 2023 07:14:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Dec 2023 05:16:03 +0000</lastBuildDate>
     <item>
       <title>Underworld - Jumbo (30 plays)</title>
       <link>https://www.last.fm/music/Underworld/_/Jumbo</link>
@@ -184,7 +170,7 @@
       <pubDate>Sun, 10 Dec 2023 12:52:02 -0500</pubDate>
     </item>
     <item>
-      <title>Bill Nelson - The Real Adventure (1 play)</title>
+      <title>Bill Nelson - The Real Adventure (2 plays)</title>
       <link>https://www.last.fm/music/Bill+Nelson/_/The+Real+Adventure</link>
       <guid isPermaLink="false">Frippertron-1702231449--8d463dee-ffae-4028-a3af-ec8ccb595906---The Real Adventure</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7856237b86b4c6d898f353334d887df.png" length="139225" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702270105--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
       <pubDate>Sun, 10 Dec 2023 23:48:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bill Nelson - Another Day, Another Ray of Hope (1 play)</title>
+      <link>https://www.last.fm/music/Bill+Nelson/_/Another+Day,+Another+Ray+of+Hope</link>
+      <guid isPermaLink="false">Frippertron-1702270350--8d463dee-ffae-4028-a3af-ec8ccb595906---Another Day, Another Ray of Hope</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7856237b86b4c6d898f353334d887df.png" length="139225" type="image/png"/>
+      <pubDate>Sun, 10 Dec 2023 23:52:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bill Nelson - The Real Adventure (2 plays)</title>
+      <link>https://www.last.fm/music/Bill+Nelson/_/The+Real+Adventure</link>
+      <guid isPermaLink="false">Frippertron-1702270754--8d463dee-ffae-4028-a3af-ec8ccb595906---The Real Adventure</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7856237b86b4c6d898f353334d887df.png" length="139225" type="image/png"/>
+      <pubDate>Sun, 10 Dec 2023 23:59:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
