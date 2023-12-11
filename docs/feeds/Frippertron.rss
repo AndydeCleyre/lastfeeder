@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 09:17:32 +0000</lastBuildDate>
-    <item>
-      <title>Underworld - Jumbo (30 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Jumbo</link>
-      <guid isPermaLink="false">Frippertron-1702261646--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Jumbo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c743fcd76479462e9ec2c0601eb489f.jpg" length="10308" type="image/jpeg"/>
-      <pubDate>Sun, 10 Dec 2023 21:27:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yes - Heart of the Sunrise (32 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
-      <guid isPermaLink="false">Frippertron-1702262083--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
-      <pubDate>Sun, 10 Dec 2023 21:34:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yes - All Fighters Past (Steven Wilson Mix) (9 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/All+Fighters+Past+(Steven+Wilson+Mix)</link>
-      <guid isPermaLink="false">Frippertron-1702262723--8353f93f-163e-48c2-bb75-9f18987a3d46---All Fighters Past (Steven Wilson Mix)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
-      <pubDate>Sun, 10 Dec 2023 21:45:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yes - Siberian Khatru (100 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Siberian+Khatru</link>
-      <guid isPermaLink="false">Frippertron-1702264924--8353f93f-163e-48c2-bb75-9f18987a3d46---Siberian Khatru</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe19902f9ea92b9b89a8b2229e2a4c7a.jpg" length="14537" type="image/jpeg"/>
-      <pubDate>Sun, 10 Dec 2023 22:22:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Dec 2023 09:37:24 +0000</lastBuildDate>
     <item>
       <title>Yes - Sound Chaser (68 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Sound+Chaser</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Frippertron-1702285137--8353f93f-163e-48c2-bb75-9f18987a3d46---Awaken</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a6c3bd53dc5bbd768075c67a1163665.png" length="222112" type="image/png"/>
       <pubDate>Mon, 11 Dec 2023 03:58:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Hearts (27 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Hearts</link>
+      <guid isPermaLink="false">Frippertron-1702286088--8353f93f-163e-48c2-bb75-9f18987a3d46---Hearts</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f0c17764a124befcb88d5b22a37d1f3.jpg" length="4669" type="image/jpeg"/>
+      <pubDate>Mon, 11 Dec 2023 04:14:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Goldfrapp - Train (53 plays)</title>
+      <link>https://www.last.fm/music/Goldfrapp/_/Train</link>
+      <guid isPermaLink="false">Frippertron-1702286560--7b885d42-3c41-4f43-9944-a5855ec5155e---Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/64716e63de629c8b3360c2cc2dd92c04.png" length="100972" type="image/png"/>
+      <pubDate>Mon, 11 Dec 2023 04:22:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Metro - Criminal World (54 plays)</title>
+      <link>https://www.last.fm/music/Metro/_/Criminal+World</link>
+      <guid isPermaLink="false">Frippertron-1702286809--ea13db11-d664-4e06-86dd-41a2beb13f33---Criminal World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb331b51f48ba649396d1e54a0ec77e2.jpg" length="20826" type="image/jpeg"/>
+      <pubDate>Mon, 11 Dec 2023 04:26:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Metro - Black Lace Shoulder (28 plays)</title>
+      <link>https://www.last.fm/music/Metro/_/Black+Lace+Shoulder</link>
+      <guid isPermaLink="false">Frippertron-1702287192--ea13db11-d664-4e06-86dd-41a2beb13f33---Black Lace Shoulder</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb331b51f48ba649396d1e54a0ec77e2.jpg" length="20826" type="image/jpeg"/>
+      <pubDate>Mon, 11 Dec 2023 04:33:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
