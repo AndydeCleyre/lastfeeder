@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 11:14:59 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Dead Man Walking (76 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
-      <guid isPermaLink="false">Frippertron-1702270105--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
-      <pubDate>Sun, 10 Dec 2023 23:48:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Bill Nelson - Another Day, Another Ray of Hope (1 play)</title>
-      <link>https://www.last.fm/music/Bill+Nelson/_/Another+Day,+Another+Ray+of+Hope</link>
-      <guid isPermaLink="false">Frippertron-1702270350--8d463dee-ffae-4028-a3af-ec8ccb595906---Another Day, Another Ray of Hope</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7856237b86b4c6d898f353334d887df.png" length="139225" type="image/png"/>
-      <pubDate>Sun, 10 Dec 2023 23:52:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Dec 2023 11:26:26 +0000</lastBuildDate>
     <item>
       <title>Bill Nelson - The Real Adventure (5 plays)</title>
       <link>https://www.last.fm/music/Bill+Nelson/_/The+Real+Adventure</link>
@@ -159,7 +145,6 @@
       <title>Hyde - SEASON'S CALL (60 plays)</title>
       <link>https://www.last.fm/music/Hyde/_/SEASON%27S+CALL</link>
       <guid isPermaLink="false">Frippertron-1702281869--80b717b0-562d-4811-b268-978f5e075486---SEASON'S CALL</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aecce8d4a6d78f0bd90a2a6368e62726.jpg" length="29873" type="image/jpeg"/>
       <pubDate>Mon, 11 Dec 2023 03:04:29 -0500</pubDate>
     </item>
     <item>
@@ -355,8 +340,20 @@
       <title>坂本龍一 - Thousand Knives (67 plays)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Thousand+Knives</link>
       <guid isPermaLink="false">Frippertron-1702292872--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Thousand Knives</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f84ae4d6261be905ee2fb8b11ff1ab4.jpg" length="21132" type="image/jpeg"/>
       <pubDate>Mon, 11 Dec 2023 06:07:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - The End of Asia (39 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/The+End+of+Asia</link>
+      <guid isPermaLink="false">Frippertron-1702293350--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---The End of Asia</guid>
+      <pubDate>Mon, 11 Dec 2023 06:15:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Magic Orchestra - 1000 Knives (22 plays)</title>
+      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/1000+Knives</link>
+      <guid isPermaLink="false">Frippertron-1702293754--ac5af671-1df0-4312-8b7b-e61992ecc883---1000 Knives</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/98d5ef0238b205627b140653f561118f.jpg" length="18660" type="image/jpeg"/>
+      <pubDate>Mon, 11 Dec 2023 06:22:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
