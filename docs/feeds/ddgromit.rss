@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 02:07:00 +0000</lastBuildDate>
-    <item>
-      <title>Bea Miller - feel something (1 play)</title>
-      <link>https://www.last.fm/music/Bea+Miller/_/feel+something</link>
-      <guid isPermaLink="false">ddgromit-1702096027--5b0d71ae-eb06-4be1-adbe-89d8fb73a574---feel something</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2c4d5470dfef613ab67917c1422ba5c.jpg" length="18353" type="image/jpeg"/>
-      <pubDate>Fri, 08 Dec 2023 23:27:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lana Del Rey - Doin' Time (3 plays)</title>
-      <link>https://www.last.fm/music/Lana+Del+Rey/_/Doin%27+Time</link>
-      <guid isPermaLink="false">ddgromit-1702096208--b7539c32-53e7-4908-bda3-81449c367da6---Doin' Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b66c572f7d89374dd746d7b02fc324b5.png" length="177738" type="image/png"/>
-      <pubDate>Fri, 08 Dec 2023 23:30:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>Billie Eilish - everything i wanted (7 plays)</title>
-      <link>https://www.last.fm/music/Billie+Eilish/_/everything+i+wanted</link>
-      <guid isPermaLink="false">ddgromit-1702096411--f4abc0b5-3f7a-4eff-8f78-ac078dbce533---everything i wanted</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/23ff44b6c1b5c3b2ba6d11684493004a.jpg" length="14815" type="image/jpeg"/>
-      <pubDate>Fri, 08 Dec 2023 23:33:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sade - Smooth Operator - Single Version (1 play)</title>
-      <link>https://www.last.fm/music/Sade/_/Smooth+Operator+-+Single+Version</link>
-      <guid isPermaLink="false">ddgromit-1702099970--67930b3e-e00b-469f-8c74-fd69f20522ec---Smooth Operator - Single Version</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae3aa05773f037f23b21b97a9b26ae0a.png" length="141136" type="image/png"/>
-      <pubDate>Sat, 09 Dec 2023 00:32:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sade - Like a Tattoo (1 play)</title>
-      <link>https://www.last.fm/music/Sade/_/Like+a+Tattoo</link>
-      <guid isPermaLink="false">ddgromit-1702158332--67930b3e-e00b-469f-8c74-fd69f20522ec---Like a Tattoo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fe564884d6a90885da819ed1ca631ce.jpg" length="10474" type="image/jpeg"/>
-      <pubDate>Sat, 09 Dec 2023 16:45:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sade - Kiss Of Life (1 play)</title>
-      <link>https://www.last.fm/music/Sade/_/Kiss+Of+Life</link>
-      <guid isPermaLink="false">ddgromit-1702158550--67930b3e-e00b-469f-8c74-fd69f20522ec---Kiss Of Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae3aa05773f037f23b21b97a9b26ae0a.png" length="141136" type="image/png"/>
-      <pubDate>Sat, 09 Dec 2023 16:49:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sade - By Your Side (5 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/By+Your+Side</link>
-      <guid isPermaLink="false">ddgromit-1702158801--67930b3e-e00b-469f-8c74-fd69f20522ec---By Your Side</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d0ea9afc7144f45cf73da96bc8ea1fd.jpg" length="14932" type="image/jpeg"/>
-      <pubDate>Sat, 09 Dec 2023 16:53:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sade - By Your Side (5 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/By+Your+Side</link>
-      <guid isPermaLink="false">ddgromit-1702159075--67930b3e-e00b-469f-8c74-fd69f20522ec---By Your Side</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d0ea9afc7144f45cf73da96bc8ea1fd.jpg" length="14932" type="image/jpeg"/>
-      <pubDate>Sat, 09 Dec 2023 16:57:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>Doja Cat - Agora Hills (9 plays)</title>
-      <link>https://www.last.fm/music/Doja+Cat/_/Agora+Hills</link>
-      <guid isPermaLink="false">ddgromit-1702159285--5df62a88-cac9-490a-b62c-c7c88f4020f4---Agora Hills</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007bf84a03192879f7e2aa2d29868f4c.jpg" length="8598" type="image/jpeg"/>
-      <pubDate>Sat, 09 Dec 2023 17:01:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Dec 2023 02:35:39 +0000</lastBuildDate>
     <item>
       <title>The Mamas &amp; the Papas - California Dream (From "California Dream") (2 plays)</title>
       <link>https://www.last.fm/music/The+Mamas+&amp;+the+Papas/_/California+Dream+(From+%22California+Dream%22)</link>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">ddgromit-1702260218--54799c0e-eb45-4eea-996d-c4d71a63c499---Sleigh Ride</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e9188c719025e129388339b20258a9b3.jpg" length="34599" type="image/jpeg"/>
       <pubDate>Sun, 10 Dec 2023 21:03:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bing Crosby - Hark! The Herald Angels Sing/It Came Upon A Midnight Clear - Medley / Remastered 2006 (2 plays)</title>
+      <link>https://www.last.fm/music/Bing+Crosby/_/Hark!+The+Herald+Angels+Sing%2FIt+Came+Upon+A+Midnight+Clear+-+Medley+%2F+Remastered+2006</link>
+      <guid isPermaLink="false">ddgromit-1702260394--Bing Crosby---Hark! The Herald Angels Sing/It Came Upon A Midnight Clear - Medley / Remastered 2006</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c83df7ae5bd24af9b8c0e0e610f1b3f3.jpg" length="29024" type="image/jpeg"/>
+      <pubDate>Sun, 10 Dec 2023 21:06:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Frank Sinatra - Santa Claus Is Comin' to Town (2 plays)</title>
+      <link>https://www.last.fm/music/Frank+Sinatra/_/Santa+Claus+Is+Comin%27+to+Town</link>
+      <guid isPermaLink="false">ddgromit-1702260581--197450cd-0124-4164-b723-3c22dd16494d---Santa Claus Is Comin' to Town</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6ec51ae814148acc8b6949121482f83.png" length="202447" type="image/png"/>
+      <pubDate>Sun, 10 Dec 2023 21:09:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Michael Bublé - It's Beginning to Look a Lot Like Christmas (15 plays)</title>
+      <link>https://www.last.fm/music/Michael+Bubl%C3%A9/_/It%27s+Beginning+to+Look+a+Lot+Like+Christmas</link>
+      <guid isPermaLink="false">ddgromit-1702260736--611700cf-27f0-4dc9-ae80-c513a767853e---It's Beginning to Look a Lot Like Christmas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/971da21dd15e4fa6a085866fca0ca7d8.png" length="126911" type="image/png"/>
+      <pubDate>Sun, 10 Dec 2023 21:12:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Beach Boys - Little Saint Nick - 1991 Remix (2 plays)</title>
+      <link>https://www.last.fm/music/The+Beach+Boys/_/Little+Saint+Nick+-+1991+Remix</link>
+      <guid isPermaLink="false">ddgromit-1702260943--The Beach Boys---Little Saint Nick - 1991 Remix</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe9723cf7c1afd3996f7cd9f19cfb67b.jpg" length="22781" type="image/jpeg"/>
+      <pubDate>Sun, 10 Dec 2023 21:15:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tony Bennett - Winter Wonderland (4 plays)</title>
+      <link>https://www.last.fm/music/Tony+Bennett/_/Winter+Wonderland</link>
+      <guid isPermaLink="false">ddgromit-1702261062--8be0594f-8c13-46bb-ab06-f93ffba5c776---Winter Wonderland</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4dedaf9a4b764c34df08e4a6afa45b0.jpg" length="30287" type="image/jpeg"/>
+      <pubDate>Sun, 10 Dec 2023 21:17:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sam Smith - Have Yourself a Merry Little Christmas (4 plays)</title>
+      <link>https://www.last.fm/music/Sam+Smith/_/Have+Yourself+a+Merry+Little+Christmas</link>
+      <guid isPermaLink="false">ddgromit-1702261196--5a85c140-dcf9-4dd2-b2c8-aff0471549f3---Have Yourself a Merry Little Christmas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/64257491b3984e24ce8d3093e4277453.png" length="196485" type="image/png"/>
+      <pubDate>Sun, 10 Dec 2023 21:19:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Eagles - Please Come Home for Christmas - 2013 Remaster (3 plays)</title>
+      <link>https://www.last.fm/music/Eagles/_/Please+Come+Home+for+Christmas+-+2013+Remaster</link>
+      <guid isPermaLink="false">ddgromit-1702261367--Eagles---Please Come Home for Christmas - 2013 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e32f5e729d776591b209dfed105d1e.jpg" length="25482" type="image/jpeg"/>
+      <pubDate>Sun, 10 Dec 2023 21:22:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Vince Guaraldi Trio - O Tannenbaum (4 plays)</title>
+      <link>https://www.last.fm/music/Vince+Guaraldi+Trio/_/O+Tannenbaum</link>
+      <guid isPermaLink="false">ddgromit-1702261545--744b52c8-509b-4451-abfd-a17d18d4bd1d---O Tannenbaum</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/864eff2973cf26721a04df6507c1ab67.jpg" length="21822" type="image/jpeg"/>
+      <pubDate>Sun, 10 Dec 2023 21:25:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chuck Berry - Run Rudolph Run (3 plays)</title>
+      <link>https://www.last.fm/music/Chuck+Berry/_/Run+Rudolph+Run</link>
+      <guid isPermaLink="false">ddgromit-1702261855--592a3b6d-c42b-4567-99c9-ecf63bd66499---Run Rudolph Run</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d2541fcd58e4251b3429a3b0e7e837b.jpg" length="34019" type="image/jpeg"/>
+      <pubDate>Sun, 10 Dec 2023 21:30:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
