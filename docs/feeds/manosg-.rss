@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 16:23:17 +0000</lastBuildDate>
-    <item>
-      <title>Iron Maiden - Lightning Strikes Twice - 2015 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/Lightning+Strikes+Twice+-+2015+Remaster</link>
-      <guid isPermaLink="false">manosg--1702020397--Iron Maiden---Lightning Strikes Twice - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34008d3a44a282e4e791698c3e01bde2.png" length="226243" type="image/png"/>
-      <pubDate>Fri, 08 Dec 2023 02:26:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>Iron Maiden - The Clansman - 2015 Remaster (1 play)</title>
-      <link>https://www.last.fm/music/Iron+Maiden/_/The+Clansman+-+2015+Remaster</link>
-      <guid isPermaLink="false">manosg--1702020690--Iron Maiden---The Clansman - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34008d3a44a282e4e791698c3e01bde2.png" length="226243" type="image/png"/>
-      <pubDate>Fri, 08 Dec 2023 02:31:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Dec 2023 16:43:12 +0000</lastBuildDate>
     <item>
       <title>Iron Maiden - When Two Worlds Collide - 2015 Remaster (1 play)</title>
       <link>https://www.last.fm/music/Iron+Maiden/_/When+Two+Worlds+Collide+-+2015+Remaster</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1702311489--66c662b6-6e2f-4930-8610-912e24c63ed1---Kicked in the Teeth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43535ee483a1459fb803d49e12de22a5.png" length="152745" type="image/png"/>
       <pubDate>Mon, 11 Dec 2023 11:18:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Wrathchild - 2015 Remaster (8 plays)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Wrathchild+-+2015+Remaster</link>
+      <guid isPermaLink="false">manosg--1702311733--Iron Maiden---Wrathchild - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c903f39a5f183e710212477bac6633f5.png" length="213360" type="image/png"/>
+      <pubDate>Mon, 11 Dec 2023 11:22:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ozzy Osbourne - I Don't Know (2 plays)</title>
+      <link>https://www.last.fm/music/Ozzy+Osbourne/_/I+Don%27t+Know</link>
+      <guid isPermaLink="false">manosg--1702311830--8aa5b65a-5b3c-4029-92bf-47a544356934---I Don't Know</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6009d17596d5e0576bde9993a82429ad.jpg" length="20840" type="image/jpeg"/>
+      <pubDate>Mon, 11 Dec 2023 11:23:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
