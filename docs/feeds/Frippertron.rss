@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Dec 2023 06:22:22 +0000</lastBuildDate>
-    <item>
-      <title>P-Model - Hidden Protocol (Release 2) (2 plays)</title>
-      <link>https://www.last.fm/music/P-Model/_/Hidden+Protocol+(Release+2)</link>
-      <guid isPermaLink="false">Frippertron-1702227926--bcc5fb7c-e8c8-4c2e-8f64-c46f1ea2b974---Hidden Protocol (Release 2)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ec21f5438648cf60515f2511592d399.jpg" length="12530" type="image/jpeg"/>
-      <pubDate>Sun, 10 Dec 2023 12:05:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>P-Model - Bogy (2 plays)</title>
-      <link>https://www.last.fm/music/P-Model/_/Bogy</link>
-      <guid isPermaLink="false">Frippertron-1702228176--bcc5fb7c-e8c8-4c2e-8f64-c46f1ea2b974---Bogy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ec21f5438648cf60515f2511592d399.jpg" length="12530" type="image/jpeg"/>
-      <pubDate>Sun, 10 Dec 2023 12:09:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Dec 2023 06:39:24 +0000</lastBuildDate>
     <item>
       <title>P-Model - Rocket Shoot (1 play)</title>
       <link>https://www.last.fm/music/P-Model/_/Rocket+Shoot</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702274952--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Tarkus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c4a7d083d94215a67cf06aa7e4b142.png" length="215731" type="image/png"/>
       <pubDate>Mon, 11 Dec 2023 01:09:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Tempus Fugit (53 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Tempus+Fugit</link>
+      <guid isPermaLink="false">Frippertron-1702276168--8353f93f-163e-48c2-bb75-9f18987a3d46---Tempus Fugit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d461aaea9d34c2a97ef2e398ebd5a78.png" length="179860" type="image/png"/>
+      <pubDate>Mon, 11 Dec 2023 01:29:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Cracked Actor (149 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Cracked+Actor</link>
+      <guid isPermaLink="false">Frippertron-1702276514--5441c29d-3602-4898-b1a1-b77fa23b8e50---Cracked Actor</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
+      <pubDate>Mon, 11 Dec 2023 01:35:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
