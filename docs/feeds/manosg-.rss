@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 12:32:18 +0000</lastBuildDate>
-    <item>
-      <title>AC/DC - Live Wire (15 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/Live+Wire</link>
-      <guid isPermaLink="false">manosg--1702368568--66c662b6-6e2f-4930-8610-912e24c63ed1---Live Wire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
-      <pubDate>Tue, 12 Dec 2023 03:09:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Dec 2023 13:00:05 +0000</lastBuildDate>
     <item>
       <title>AC/DC - T.N.T. (12 plays)</title>
       <link>https://www.last.fm/music/AC%2FDC/_/T.N.T.</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1702468975--ee58c59f-8e7f-4430-b8ca-236c4d3745ae---Sick Things</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8af1bdc2f5834912c947c3e6f1d8e3c0.png" length="266407" type="image/png"/>
       <pubDate>Wed, 13 Dec 2023 07:02:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alice Cooper - Mary Ann (1 play)</title>
+      <link>https://www.last.fm/music/Alice+Cooper/_/Mary+Ann</link>
+      <guid isPermaLink="false">manosg--1702469437--ee58c59f-8e7f-4430-b8ca-236c4d3745ae---Mary Ann</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8af1bdc2f5834912c947c3e6f1d8e3c0.png" length="266407" type="image/png"/>
+      <pubDate>Wed, 13 Dec 2023 07:10:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
