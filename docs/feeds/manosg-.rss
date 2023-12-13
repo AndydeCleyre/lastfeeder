@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Dec 2023 17:53:02 +0000</lastBuildDate>
-    <item>
-      <title>AC/DC - Riff Raff (17 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/Riff+Raff</link>
-      <guid isPermaLink="false">manosg--1702295503--66c662b6-6e2f-4930-8610-912e24c63ed1---Riff Raff</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43535ee483a1459fb803d49e12de22a5.png" length="152745" type="image/png"/>
-      <pubDate>Mon, 11 Dec 2023 06:51:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>AC/DC - Sin City (16 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/Sin+City</link>
-      <guid isPermaLink="false">manosg--1702295817--66c662b6-6e2f-4930-8610-912e24c63ed1---Sin City</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43535ee483a1459fb803d49e12de22a5.png" length="152745" type="image/png"/>
-      <pubDate>Mon, 11 Dec 2023 06:56:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>AC/DC - What's Next to the Moon (17 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/What%27s+Next+to+the+Moon</link>
-      <guid isPermaLink="false">manosg--1702310472--66c662b6-6e2f-4930-8610-912e24c63ed1---What's Next to the Moon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43535ee483a1459fb803d49e12de22a5.png" length="152745" type="image/png"/>
-      <pubDate>Mon, 11 Dec 2023 11:01:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Dec 2023 06:21:49 +0000</lastBuildDate>
     <item>
       <title>AC/DC - Gone Shootin' (16 plays)</title>
       <link>https://www.last.fm/music/AC%2FDC/_/Gone+Shootin%27</link>
@@ -93,11 +72,18 @@
       <pubDate>Mon, 11 Dec 2023 13:22:15 -0500</pubDate>
     </item>
     <item>
-      <title>Metallica - Sleepwalk My Life Away (2 plays)</title>
+      <title>Metallica - Sleepwalk My Life Away (3 plays)</title>
       <link>https://www.last.fm/music/Metallica/_/Sleepwalk+My+Life+Away</link>
       <guid isPermaLink="false">manosg--1702320423--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Sleepwalk My Life Away</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eece449073df3d429183cd4ff7c82428.jpg" length="25876" type="image/jpeg"/>
       <pubDate>Mon, 11 Dec 2023 13:47:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Metallica - Sleepwalk My Life Away (3 plays)</title>
+      <link>https://www.last.fm/music/Metallica/_/Sleepwalk+My+Life+Away</link>
+      <guid isPermaLink="false">manosg--1702320839--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Sleepwalk My Life Away</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eece449073df3d429183cd4ff7c82428.jpg" length="25876" type="image/jpeg"/>
+      <pubDate>Mon, 11 Dec 2023 13:53:59 -0500</pubDate>
     </item>
     <item>
       <title>UFO - Only You Can Rock Me - 2008 Remaster (1 play)</title>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1702388129--Genesis---Squonk - 2007 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7dd335758835ba13d7b629e4d135bfa5.jpg" length="16890" type="image/jpeg"/>
       <pubDate>Tue, 12 Dec 2023 08:35:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Mad Man Moon - 2007 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Genesis/_/Mad+Man+Moon+-+2007+Remaster</link>
+      <guid isPermaLink="false">manosg--1702403028--Genesis---Mad Man Moon - 2007 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7dd335758835ba13d7b629e4d135bfa5.jpg" length="16890" type="image/jpeg"/>
+      <pubDate>Tue, 12 Dec 2023 12:43:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Robbery, Assault and Battery - 2007 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Genesis/_/Robbery,+Assault+and+Battery+-+2007+Remaster</link>
+      <guid isPermaLink="false">manosg--1702447145--Genesis---Robbery, Assault and Battery - 2007 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7dd335758835ba13d7b629e4d135bfa5.jpg" length="16890" type="image/jpeg"/>
+      <pubDate>Wed, 13 Dec 2023 00:59:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
