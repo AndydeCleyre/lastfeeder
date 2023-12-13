@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 07:26:51 +0000</lastBuildDate>
-    <item>
-      <title>Ozzy Osbourne - Crazy Train (3 plays)</title>
-      <link>https://www.last.fm/music/Ozzy+Osbourne/_/Crazy+Train</link>
-      <guid isPermaLink="false">manosg--1702312816--8aa5b65a-5b3c-4029-92bf-47a544356934---Crazy Train</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6009d17596d5e0576bde9993a82429ad.jpg" length="20840" type="image/jpeg"/>
-      <pubDate>Mon, 11 Dec 2023 11:40:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>Metallica - 72 Seasons (2 plays)</title>
-      <link>https://www.last.fm/music/Metallica/_/72+Seasons</link>
-      <guid isPermaLink="false">manosg--1702316397--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---72 Seasons</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eece449073df3d429183cd4ff7c82428.jpg" length="25876" type="image/jpeg"/>
-      <pubDate>Mon, 11 Dec 2023 12:39:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Dec 2023 07:38:40 +0000</lastBuildDate>
     <item>
       <title>Metallica - Shadows Follow (3 plays)</title>
       <link>https://www.last.fm/music/Metallica/_/Shadows+Follow</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1702452152--Dio---King Of Rock And Roll</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79ffdfa94d7445fdd60e138ca7c012c5.jpg" length="26419" type="image/jpeg"/>
       <pubDate>Wed, 13 Dec 2023 02:22:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dio - Sacred Heart (18 plays)</title>
+      <link>https://www.last.fm/music/Dio/_/Sacred+Heart</link>
+      <guid isPermaLink="false">manosg--1702452377--Dio---Sacred Heart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79ffdfa94d7445fdd60e138ca7c012c5.jpg" length="26419" type="image/jpeg"/>
+      <pubDate>Wed, 13 Dec 2023 02:26:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dio - Another Lie (13 plays)</title>
+      <link>https://www.last.fm/music/Dio/_/Another+Lie</link>
+      <guid isPermaLink="false">manosg--1702452842--Dio---Another Lie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79ffdfa94d7445fdd60e138ca7c012c5.jpg" length="26419" type="image/jpeg"/>
+      <pubDate>Wed, 13 Dec 2023 02:34:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
