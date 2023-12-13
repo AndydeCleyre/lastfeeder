@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 08:38:37 +0000</lastBuildDate>
-    <item>
-      <title>The Rolling Stones - Miss You (11 plays)</title>
-      <link>https://www.last.fm/music/The+Rolling+Stones/_/Miss+You</link>
-      <guid isPermaLink="false">Frippertron-1702437329--b071f9fa-14b0-4217-8e97-eb41da73f598---Miss You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b25566ff3f1fc9afd419ba4bb6c72c7.jpg" length="47121" type="image/jpeg"/>
-      <pubDate>Tue, 12 Dec 2023 22:15:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Rolling Stones - When the Whip Comes Down (7 plays)</title>
-      <link>https://www.last.fm/music/The+Rolling+Stones/_/When+the+Whip+Comes+Down</link>
-      <guid isPermaLink="false">Frippertron-1702437538--b071f9fa-14b0-4217-8e97-eb41da73f598---When the Whip Comes Down</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b25566ff3f1fc9afd419ba4bb6c72c7.jpg" length="47121" type="image/jpeg"/>
-      <pubDate>Tue, 12 Dec 2023 22:18:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Rolling Stones - Shattered (3 plays)</title>
-      <link>https://www.last.fm/music/The+Rolling+Stones/_/Shattered</link>
-      <guid isPermaLink="false">Frippertron-1702437822--b071f9fa-14b0-4217-8e97-eb41da73f598---Shattered</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b25566ff3f1fc9afd419ba4bb6c72c7.jpg" length="47121" type="image/jpeg"/>
-      <pubDate>Tue, 12 Dec 2023 22:23:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Dec 2023 08:52:35 +0000</lastBuildDate>
     <item>
       <title>Roy Wood - Life Is Wonderful (72 plays)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1702456623--a41ac10f-0a56-4672-9161-b83f9b223559---Jackie Wilson Said (I'm In Heaven When You Smile)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d88b517a215d1aabfd5be52af0d0bc68.jpg" length="27395" type="image/jpeg"/>
       <pubDate>Wed, 13 Dec 2023 03:37:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Right (66 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Right</link>
+      <guid isPermaLink="false">Frippertron-1702456814--5441c29d-3602-4898-b1a1-b77fa23b8e50---Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
+      <pubDate>Wed, 13 Dec 2023 03:40:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Fame (178 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Fame</link>
+      <guid isPermaLink="false">Frippertron-1702457071--5441c29d-3602-4898-b1a1-b77fa23b8e50---Fame</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
+      <pubDate>Wed, 13 Dec 2023 03:44:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bill Nelson - The Real Adventure (6 plays)</title>
+      <link>https://www.last.fm/music/Bill+Nelson/_/The+Real+Adventure</link>
+      <guid isPermaLink="false">Frippertron-1702457339--8d463dee-ffae-4028-a3af-ec8ccb595906---The Real Adventure</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7856237b86b4c6d898f353334d887df.png" length="139225" type="image/png"/>
+      <pubDate>Wed, 13 Dec 2023 03:48:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
