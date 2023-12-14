@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Dec 2023 06:21:28 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Fame (178 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Fame</link>
-      <guid isPermaLink="false">Frippertron-1702457071--5441c29d-3602-4898-b1a1-b77fa23b8e50---Fame</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Wed, 13 Dec 2023 03:44:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>Bill Nelson - The Real Adventure (6 plays)</title>
-      <link>https://www.last.fm/music/Bill+Nelson/_/The+Real+Adventure</link>
-      <guid isPermaLink="false">Frippertron-1702457339--8d463dee-ffae-4028-a3af-ec8ccb595906---The Real Adventure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7856237b86b4c6d898f353334d887df.png" length="139225" type="image/png"/>
-      <pubDate>Wed, 13 Dec 2023 03:48:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Tie Your Mother Down (97 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Tie+Your+Mother+Down</link>
-      <guid isPermaLink="false">Frippertron-1702457610--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Tie Your Mother Down</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521b9bbc9a8b43ceb2eb008f5a23f90d.png" length="71521" type="image/png"/>
-      <pubDate>Wed, 13 Dec 2023 03:53:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Dec 2023 06:40:10 +0000</lastBuildDate>
     <item>
       <title>Yes - Going for the One (27 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Going+for+the+One</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1702534089--8353f93f-163e-48c2-bb75-9f18987a3d46---Yours Is No Disgrace</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b28161c2d74361b3a8fdcb892f285a.png" length="98134" type="image/png"/>
       <pubDate>Thu, 14 Dec 2023 01:08:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Morgan - Nova Solis (35 plays)</title>
+      <link>https://www.last.fm/music/Morgan/_/Nova+Solis</link>
+      <guid isPermaLink="false">Frippertron-1702534959--0c2386fd-35f4-49a9-9fe4-a4913d3be710---Nova Solis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69203d00d8fa672136944f4ff9dbb9ea.jpg" length="23466" type="image/jpeg"/>
+      <pubDate>Thu, 14 Dec 2023 01:22:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Morgan - Fire in the Head (57 plays)</title>
+      <link>https://www.last.fm/music/Morgan/_/Fire+in+the+Head</link>
+      <guid isPermaLink="false">Frippertron-1702535359--0c2386fd-35f4-49a9-9fe4-a4913d3be710---Fire in the Head</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
+      <pubDate>Thu, 14 Dec 2023 01:29:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Morgan - The Right (36 plays)</title>
+      <link>https://www.last.fm/music/Morgan/_/The+Right</link>
+      <guid isPermaLink="false">Frippertron-1702535663--0c2386fd-35f4-49a9-9fe4-a4913d3be710---The Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
+      <pubDate>Thu, 14 Dec 2023 01:34:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
