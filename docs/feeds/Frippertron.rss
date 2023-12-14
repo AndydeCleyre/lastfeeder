@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Dec 2023 04:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Then (52 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Then</link>
-      <guid isPermaLink="false">Frippertron-1702450705--8353f93f-163e-48c2-bb75-9f18987a3d46---Then</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2635348da5194f0db687d5606b62b2dd.jpg" length="18081" type="image/jpeg"/>
-      <pubDate>Wed, 13 Dec 2023 01:58:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yes - Everydays (18 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Everydays</link>
-      <guid isPermaLink="false">Frippertron-1702451056--8353f93f-163e-48c2-bb75-9f18987a3d46---Everydays</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2635348da5194f0db687d5606b62b2dd.jpg" length="18081" type="image/jpeg"/>
-      <pubDate>Wed, 13 Dec 2023 02:04:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Dec 2023 05:15:40 +0000</lastBuildDate>
     <item>
       <title>Yes - Owner of a Lonely Heart (20 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Owner+of+a+Lonely+Heart</link>
@@ -324,7 +310,7 @@
       <pubDate>Wed, 13 Dec 2023 22:59:48 -0500</pubDate>
     </item>
     <item>
-      <title>Yes - Heart of the Sunrise (33 plays)</title>
+      <title>Yes - Heart of the Sunrise (34 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
       <guid isPermaLink="false">Frippertron-1702526908--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b28161c2d74361b3a8fdcb892f285a.png" length="98134" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702529053--8353f93f-163e-48c2-bb75-9f18987a3d46---Excerpts From "The Six Wives of Henry VIII"</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b28161c2d74361b3a8fdcb892f285a.png" length="98134" type="image/png"/>
       <pubDate>Wed, 13 Dec 2023 23:44:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Roundabout (90 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Roundabout</link>
+      <guid isPermaLink="false">Frippertron-1702529445--8353f93f-163e-48c2-bb75-9f18987a3d46---Roundabout</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b28161c2d74361b3a8fdcb892f285a.png" length="98134" type="image/png"/>
+      <pubDate>Wed, 13 Dec 2023 23:50:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Heart of the Sunrise (34 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
+      <guid isPermaLink="false">Frippertron-1702530013--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
+      <pubDate>Thu, 14 Dec 2023 00:00:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
