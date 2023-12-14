@@ -28,7 +28,7 @@ idna==3.6
     # via
     #   requests
     #   yarl
-isort==5.13.1
+isort==5.13.2
     # via -r dev-requirements.in
 multidict==6.0.4
     # via
