@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 07:15:21 +0000</lastBuildDate>
-    <item>
-      <title>Alex Chilton - Boogie Shoes (3 plays)</title>
-      <link>https://www.last.fm/music/Alex+Chilton/_/Boogie+Shoes</link>
-      <guid isPermaLink="false">Frippertron-1702602656--18b2f43a-fc98-4aab-b69c-eaaba41fecbc---Boogie Shoes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/991698f0391549618d5a6ba11c20361f.png" length="100781" type="image/png"/>
-      <pubDate>Thu, 14 Dec 2023 20:10:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Orbital - Time Becomes (1 play)</title>
-      <link>https://www.last.fm/music/Orbital/_/Time+Becomes</link>
-      <guid isPermaLink="false">Frippertron-1702603079--f3e2a7d9-c6bb-4848-95e5-04c0a1e2f511---Time Becomes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b48e716b372f4bad89c2aff92f9b24be.png" length="168004" type="image/png"/>
-      <pubDate>Thu, 14 Dec 2023 20:17:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Dec 2023 08:21:32 +0000</lastBuildDate>
     <item>
       <title>Orbital - Planet of the Shapes (1 play)</title>
       <link>https://www.last.fm/music/Orbital/_/Planet+of+the+Shapes</link>
@@ -107,7 +93,7 @@
       <pubDate>Thu, 14 Dec 2023 22:30:00 -0500</pubDate>
     </item>
     <item>
-      <title>Yes - Heart of the Sunrise (36 plays)</title>
+      <title>Yes - Heart of the Sunrise (37 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
       <guid isPermaLink="false">Frippertron-1702611223--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702623361--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Don't Stop Me Now</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6682a933a9814d48bf1307e7a99cd655.png" length="138305" type="image/png"/>
       <pubDate>Fri, 15 Dec 2023 01:56:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Goldfrapp - Train (54 plays)</title>
+      <link>https://www.last.fm/music/Goldfrapp/_/Train</link>
+      <guid isPermaLink="false">Frippertron-1702627769--7b885d42-3c41-4f43-9944-a5855ec5155e---Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/64716e63de629c8b3360c2cc2dd92c04.png" length="100972" type="image/png"/>
+      <pubDate>Fri, 15 Dec 2023 03:09:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Heart of the Sunrise (37 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
+      <guid isPermaLink="false">Frippertron-1702628014--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
+      <pubDate>Fri, 15 Dec 2023 03:13:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
