@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 06:22:06 +0000</lastBuildDate>
-    <item>
-      <title>Alice Cooper - Welcome To The Show (1 play)</title>
-      <link>https://www.last.fm/music/Alice+Cooper/_/Welcome+To+The+Show</link>
-      <guid isPermaLink="false">manosg--1702473378--ee58c59f-8e7f-4430-b8ca-236c4d3745ae---Welcome To The Show</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb870ae95b39c1af54edf41183462d7b.jpg" length="13875" type="image/jpeg"/>
-      <pubDate>Wed, 13 Dec 2023 08:16:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>Alice Cooper - All Over the World (1 play)</title>
-      <link>https://www.last.fm/music/Alice+Cooper/_/All+Over+the+World</link>
-      <guid isPermaLink="false">manosg--1702473603--ee58c59f-8e7f-4430-b8ca-236c4d3745ae---All Over the World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb870ae95b39c1af54edf41183462d7b.jpg" length="13875" type="image/jpeg"/>
-      <pubDate>Wed, 13 Dec 2023 08:20:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Dec 2023 06:52:55 +0000</lastBuildDate>
     <item>
       <title>Alice Cooper - Dead Don't Dance (1 play)</title>
       <link>https://www.last.fm/music/Alice+Cooper/_/Dead+Don%27t+Dance</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1702576389--696989bc-c9a8-4ba8-a99b-b8015dba577f---Home and Away (Stereo Version)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9cac3c4541a4c63ad3da1d8b8026bf2.jpg" length="20038" type="image/jpeg"/>
       <pubDate>Thu, 14 Dec 2023 12:53:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tommy Bolin - The Grind (4 plays)</title>
+      <link>https://www.last.fm/music/Tommy+Bolin/_/The+Grind</link>
+      <guid isPermaLink="false">manosg--1702619582--1edd8e9a-0deb-4548-a2a3-679af784f6c6---The Grind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/594160be3cc7454bbd7ecb87bbe6b708.jpg" length="24487" type="image/jpeg"/>
+      <pubDate>Fri, 15 Dec 2023 00:53:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tommy Bolin - Homeward Strut (2 plays)</title>
+      <link>https://www.last.fm/music/Tommy+Bolin/_/Homeward+Strut</link>
+      <guid isPermaLink="false">manosg--1702622675--1edd8e9a-0deb-4548-a2a3-679af784f6c6---Homeward Strut</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/594160be3cc7454bbd7ecb87bbe6b708.jpg" length="24487" type="image/jpeg"/>
+      <pubDate>Fri, 15 Dec 2023 01:44:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
