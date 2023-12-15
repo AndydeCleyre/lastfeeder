@@ -20,7 +20,7 @@ flit==3.9.0
     # via -r dev-requirements.in
 flit-core==3.9.0
     # via flit
-frozenlist==1.4.0
+frozenlist==1.4.1
     # via
     #   aiohttp
     #   aiosignal
