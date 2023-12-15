@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 02:52:30 +0000</lastBuildDate>
-    <item>
-      <title>Morgan - The Right (36 plays)</title>
-      <link>https://www.last.fm/music/Morgan/_/The+Right</link>
-      <guid isPermaLink="false">Frippertron-1702535663--0c2386fd-35f4-49a9-9fe4-a4913d3be710---The Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
-      <pubDate>Thu, 14 Dec 2023 01:34:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Dec 2023 03:17:40 +0000</lastBuildDate>
     <item>
       <title>Roy Wood - Life Is Wonderful (73 plays)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1702607585--8353f93f-163e-48c2-bb75-9f18987a3d46---On the Silent Wings of Freedom</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38797c520dae4c28cc47bbe3222bee6d.png" length="224827" type="image/png"/>
       <pubDate>Thu, 14 Dec 2023 21:33:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Owner of a Lonely Heart (21 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Owner+of+a+Lonely+Heart</link>
+      <guid isPermaLink="false">Frippertron-1702609912--8353f93f-163e-48c2-bb75-9f18987a3d46---Owner of a Lonely Heart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f0c17764a124befcb88d5b22a37d1f3.jpg" length="4669" type="image/jpeg"/>
+      <pubDate>Thu, 14 Dec 2023 22:11:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
