@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Dec 2023 09:38:47 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - It (120 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/It</link>
-      <guid isPermaLink="false">Frippertron-1702698876--Genesis---It</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
-      <pubDate>Fri, 15 Dec 2023 22:54:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yellow Magic Orchestra - Firecracker (52 plays)</title>
-      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Firecracker</link>
-      <guid isPermaLink="false">Frippertron-1702699383--ac5af671-1df0-4312-8b7b-e61992ecc883---Firecracker</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c80547cecb6444a170f98128430f0add.jpg" length="26506" type="image/jpeg"/>
-      <pubDate>Fri, 15 Dec 2023 23:03:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yellow Magic Orchestra - Tong Poo (70 plays)</title>
-      <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Tong+Poo</link>
-      <guid isPermaLink="false">Frippertron-1702699676--ac5af671-1df0-4312-8b7b-e61992ecc883---Tong Poo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c80547cecb6444a170f98128430f0add.jpg" length="26506" type="image/jpeg"/>
-      <pubDate>Fri, 15 Dec 2023 23:07:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 Dec 2023 09:52:12 +0000</lastBuildDate>
     <item>
       <title>Queen - Killer Queen (133 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Killer+Queen</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1702719287--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Bitches Crystal</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c4a7d083d94215a67cf06aa7e4b142.png" length="215731" type="image/png"/>
       <pubDate>Sat, 16 Dec 2023 04:34:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Emerson, Lake &amp; Palmer - A Time And A Place (19 plays)</title>
+      <link>https://www.last.fm/music/Emerson,+Lake+&amp;+Palmer/_/A+Time+And+A+Place</link>
+      <guid isPermaLink="false">Frippertron-1702719556--ad996aef-cc1c-42ac-af5c-619c370f4b8a---A Time And A Place</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c4a7d083d94215a67cf06aa7e4b142.png" length="215731" type="image/png"/>
+      <pubDate>Sat, 16 Dec 2023 04:39:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Beauty and the Beast (146 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
+      <guid isPermaLink="false">Frippertron-1702719752--5441c29d-3602-4898-b1a1-b77fa23b8e50---Beauty and the Beast</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
+      <pubDate>Sat, 16 Dec 2023 04:42:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Joe the Lion (64 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Joe+the+Lion</link>
+      <guid isPermaLink="false">Frippertron-1702719970--5441c29d-3602-4898-b1a1-b77fa23b8e50---Joe the Lion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
+      <pubDate>Sat, 16 Dec 2023 04:46:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
