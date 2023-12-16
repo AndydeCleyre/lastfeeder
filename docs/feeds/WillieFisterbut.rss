@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Dec 2023 16:39:52 +0000</lastBuildDate>
-    <item>
-      <title>Mayhem - A Time to Die (4 plays)</title>
-      <link>https://www.last.fm/music/Mayhem/_/A+Time+to+Die</link>
-      <guid isPermaLink="false">WillieFisterbut-1702662125--Mayhem---A Time to Die</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa917a327a43db43f63a65244d48671d.jpg" length="21335" type="image/jpeg"/>
-      <pubDate>Fri, 15 Dec 2023 12:42:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 Dec 2023 19:38:11 +0000</lastBuildDate>
     <item>
       <title>Lagwagon - Parable (6 plays)</title>
       <link>https://www.last.fm/music/Lagwagon/_/Parable</link>
@@ -233,7 +226,7 @@
       <pubDate>Fri, 15 Dec 2023 17:52:09 -0500</pubDate>
     </item>
     <item>
-      <title>Stortregn - Cold Void (11 plays)</title>
+      <title>Stortregn - Cold Void</title>
       <link>https://www.last.fm/music/Stortregn/_/Cold+Void</link>
       <guid isPermaLink="false">WillieFisterbut-1702681101--9de31a7f-1898-4d59-bee7-90cd4aa4265b---Cold Void</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9bd9fcc78d23c0ec5ee1ab4919feccf.jpg" length="21701" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">WillieFisterbut-1702743866--Vinsta---Untawegs Im Schattn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34e78ba1e35aa455b4664d91a1983ffc.jpg" length="25945" type="image/jpeg"/>
       <pubDate>Sat, 16 Dec 2023 11:24:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Vinsta - Vinstas Valonga (1 play)</title>
+      <link>https://www.last.fm/music/Vinsta/_/Vinstas+Valonga</link>
+      <guid isPermaLink="false">WillieFisterbut-1702744426--Vinsta---Vinstas Valonga</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34e78ba1e35aa455b4664d91a1983ffc.jpg" length="25945" type="image/jpeg"/>
+      <pubDate>Sat, 16 Dec 2023 11:33:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
