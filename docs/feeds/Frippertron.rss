@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Dec 2023 05:40:13 +0000</lastBuildDate>
-    <item>
-      <title>Bee Gees - You Should Be Dancing (11 plays)</title>
-      <link>https://www.last.fm/music/Bee+Gees/_/You+Should+Be+Dancing</link>
-      <guid isPermaLink="false">Frippertron-1702634497--bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810---You Should Be Dancing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d2aa2e3fb2f45c4a4c22738729fb8bd.png" length="126265" type="image/png"/>
-      <pubDate>Fri, 15 Dec 2023 05:01:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>New Radicals - You Get What You Give (52 plays)</title>
-      <link>https://www.last.fm/music/New+Radicals/_/You+Get+What+You+Give</link>
-      <guid isPermaLink="false">Frippertron-1702634708--09a6ae88-7589-4ab2-b10c-dd50ebd526a0---You Get What You Give</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c8326313bdba2b68959f335ba0dc811.png" length="152029" type="image/png"/>
-      <pubDate>Fri, 15 Dec 2023 05:05:08 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 Dec 2023 05:52:13 +0000</lastBuildDate>
     <item>
       <title>Lucifer's Friend - Yesterday's Ideals (64 plays)</title>
       <link>https://www.last.fm/music/Lucifer%27s+Friend/_/Yesterday%27s+Ideals</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702704714--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Jumbo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f54712883ab45a2c5b3e3449b31208b.png" length="11669" type="image/png"/>
       <pubDate>Sat, 16 Dec 2023 00:31:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Moaner (10 plays)</title>
+      <link>https://www.last.fm/music/Underworld/_/Moaner</link>
+      <guid isPermaLink="false">Frippertron-1702705221--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Moaner</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c743fcd76479462e9ec2c0601eb489f.jpg" length="10308" type="image/jpeg"/>
+      <pubDate>Sat, 16 Dec 2023 00:40:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Dead Man Walking (78 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
+      <guid isPermaLink="false">Frippertron-1702705690--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <pubDate>Sat, 16 Dec 2023 00:48:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
