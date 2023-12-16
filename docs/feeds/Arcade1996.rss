@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Dec 2023 14:28:03 +0000</lastBuildDate>
-    <item>
-      <title>John Cale - Macbeth (6 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Macbeth</link>
-      <guid isPermaLink="false">Arcade1996-1702513934--72c090b6-a68e-4cb9-b330-85278681a714---Macbeth</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5578cab39b47730a9ac36882c44dcf4e.jpg" length="14319" type="image/jpeg"/>
-      <pubDate>Wed, 13 Dec 2023 19:32:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>John Cale - Paris 1919 (9 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Paris+1919</link>
-      <guid isPermaLink="false">Arcade1996-1702514123--72c090b6-a68e-4cb9-b330-85278681a714---Paris 1919</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5578cab39b47730a9ac36882c44dcf4e.jpg" length="14319" type="image/jpeg"/>
-      <pubDate>Wed, 13 Dec 2023 19:35:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 Dec 2023 14:40:01 +0000</lastBuildDate>
     <item>
       <title>John Cale - Graham Greene (8 plays)</title>
       <link>https://www.last.fm/music/John+Cale/_/Graham+Greene</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1702736527--ff9c106f-e342-4543-a376-776e08121f69---Summer Holiday 1999 - Voyager</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7951cc652f51e0281817005b9ff11406.jpg" length="17741" type="image/jpeg"/>
       <pubDate>Sat, 16 Dec 2023 09:22:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Momus - Afterglow (1 play)</title>
+      <link>https://www.last.fm/music/Momus/_/Afterglow</link>
+      <guid isPermaLink="false">Arcade1996-1702736726--ff9c106f-e342-4543-a376-776e08121f69---Afterglow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7951cc652f51e0281817005b9ff11406.jpg" length="17741" type="image/jpeg"/>
+      <pubDate>Sat, 16 Dec 2023 09:25:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Momus - Trans siberian express (1 play)</title>
+      <link>https://www.last.fm/music/Momus/_/Trans+siberian+express</link>
+      <guid isPermaLink="false">Arcade1996-1702736976--ff9c106f-e342-4543-a376-776e08121f69---Trans siberian express</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7951cc652f51e0281817005b9ff11406.jpg" length="17741" type="image/jpeg"/>
+      <pubDate>Sat, 16 Dec 2023 09:29:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
