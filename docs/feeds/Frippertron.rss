@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Dec 2023 10:37:23 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Somebody to Love (105 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Somebody+to+Love</link>
-      <guid isPermaLink="false">Frippertron-1702715645--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Somebody to Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521b9bbc9a8b43ceb2eb008f5a23f90d.png" length="71521" type="image/png"/>
-      <pubDate>Sat, 16 Dec 2023 03:34:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 Dec 2023 10:52:29 +0000</lastBuildDate>
     <item>
       <title>Franz Ferdinand - Take Me Out (13 plays)</title>
       <link>https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1702808276--4f00bd65-db98-4f18-85ab-a3a6b8ad32a0---Winter's Ghost</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca1154a7412f404b22dce74f98c3cfa0.jpg" length="12535" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 05:17:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Panopticon - Cedar Skeletons (1 play)</title>
+      <link>https://www.last.fm/music/Panopticon/_/Cedar+Skeletons</link>
+      <guid isPermaLink="false">Frippertron-1702809478--4f00bd65-db98-4f18-85ab-a3a6b8ad32a0---Cedar Skeletons</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca1154a7412f404b22dce74f98c3cfa0.jpg" length="12535" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 05:37:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
