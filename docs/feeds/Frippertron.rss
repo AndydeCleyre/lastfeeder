@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Dec 2023 17:38:35 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Joe the Lion (64 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Joe+the+Lion</link>
-      <guid isPermaLink="false">Frippertron-1702719970--5441c29d-3602-4898-b1a1-b77fa23b8e50---Joe the Lion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Sat, 16 Dec 2023 04:46:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - "Heroes" (119 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/%22Heroes%22</link>
-      <guid isPermaLink="false">Frippertron-1702720160--5441c29d-3602-4898-b1a1-b77fa23b8e50---"Heroes"</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Sat, 16 Dec 2023 04:49:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 Dec 2023 17:52:35 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Sons of the Silent Age (73 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Sons+of+the+Silent+Age</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702834291--8353f93f-163e-48c2-bb75-9f18987a3d46---We Can Fly From Here</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d461aaea9d34c2a97ef2e398ebd5a78.png" length="179860" type="image/png"/>
       <pubDate>Sun, 17 Dec 2023 12:31:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Fly From Here Pt. III - Madman At The Screen (3 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Fly+From+Here+Pt.+III+-+Madman+At+The+Screen</link>
+      <guid isPermaLink="false">Frippertron-1702835122--Yes---Fly From Here Pt. III - Madman At The Screen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd635e72034d88f70d7dc77911efe483.jpg" length="31637" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 12:45:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>böa - Duvet (1 play)</title>
+      <link>https://www.last.fm/music/b%C3%B6a/_/Duvet</link>
+      <guid isPermaLink="false">Frippertron-1702835369--böa---Duvet</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/64a56ab7d4403c041f179fa5398554e6.jpg" length="18881" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 12:49:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
