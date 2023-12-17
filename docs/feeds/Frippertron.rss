@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Dec 2023 19:37:17 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Neuköln (48 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Neuk%C3%B6ln</link>
-      <guid isPermaLink="false">Frippertron-1702722003--5441c29d-3602-4898-b1a1-b77fa23b8e50---Neuköln</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Sat, 16 Dec 2023 05:20:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - The Secret Life of Arabia (85 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Secret+Life+of+Arabia</link>
-      <guid isPermaLink="false">Frippertron-1702722280--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Secret Life of Arabia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Sat, 16 Dec 2023 05:24:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 Dec 2023 20:16:47 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Speed of Life (58 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Speed+of+Life</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702841308--1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e---Contusion</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89082b98c5c94310c3335e272e9da9db.png" length="171085" type="image/png"/>
       <pubDate>Sun, 17 Dec 2023 14:28:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stevie Wonder - I Wish (1 play)</title>
+      <link>https://www.last.fm/music/Stevie+Wonder/_/I+Wish</link>
+      <guid isPermaLink="false">Frippertron-1702843014--1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e---I Wish</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89082b98c5c94310c3335e272e9da9db.png" length="171085" type="image/png"/>
+      <pubDate>Sun, 17 Dec 2023 14:56:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stevie Wonder - Pastime Paradise (1 play)</title>
+      <link>https://www.last.fm/music/Stevie+Wonder/_/Pastime+Paradise</link>
+      <guid isPermaLink="false">Frippertron-1702843371--1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e---Pastime Paradise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89082b98c5c94310c3335e272e9da9db.png" length="171085" type="image/png"/>
+      <pubDate>Sun, 17 Dec 2023 15:02:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
