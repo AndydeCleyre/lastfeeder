@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 17:52:59 +0000</lastBuildDate>
-    <item>
-      <title>Alice Cooper - Magic Bus (1 play)</title>
-      <link>https://www.last.fm/music/Alice+Cooper/_/Magic+Bus</link>
-      <guid isPermaLink="false">manosg--1702567282--ee58c59f-8e7f-4430-b8ca-236c4d3745ae---Magic Bus</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb870ae95b39c1af54edf41183462d7b.jpg" length="13875" type="image/jpeg"/>
-      <pubDate>Thu, 14 Dec 2023 10:21:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mötley Crüe - Helter Skelter (3 plays)</title>
-      <link>https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe/_/Helter+Skelter</link>
-      <guid isPermaLink="false">manosg--1702567912--26f07661-e115-471d-a930-206f5c89d17c---Helter Skelter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b165ff8fdb094208a801eeeba98384c7.jpg" length="24695" type="image/jpeg"/>
-      <pubDate>Thu, 14 Dec 2023 10:31:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Dec 2023 06:52:21 +0000</lastBuildDate>
     <item>
       <title>Deep Purple - Stormbringer - 2009 Digital Remaster (6 plays)</title>
       <link>https://www.last.fm/music/Deep+Purple/_/Stormbringer+-+2009+Digital+Remaster</link>
@@ -226,7 +212,7 @@
       <pubDate>Fri, 15 Dec 2023 06:44:14 -0500</pubDate>
     </item>
     <item>
-      <title>Solitary Sabred - Lord of Ganzer</title>
+      <title>Solitary Sabred - Lord of Ganzer (1 play)</title>
       <link>https://www.last.fm/music/Solitary+Sabred/_/Lord+of+Ganzer</link>
       <guid isPermaLink="false">manosg--1702647624--51d1d0cb-3ecd-4ec7-aba0-d3055fef8f7d---Lord of Ganzer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1290be01c773a4e1ac44009f7b9366a.jpg" length="35026" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1702662354--67930b3e-e00b-469f-8c74-fd69f20522ec---Like a Tattoo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fe564884d6a90885da819ed1ca631ce.jpg" length="10474" type="image/jpeg"/>
       <pubDate>Fri, 15 Dec 2023 12:45:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sade - Kiss Of Life (30 plays)</title>
+      <link>https://www.last.fm/music/Sade/_/Kiss+Of+Life</link>
+      <guid isPermaLink="false">manosg--1702881653--67930b3e-e00b-469f-8c74-fd69f20522ec---Kiss Of Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fe564884d6a90885da819ed1ca631ce.jpg" length="10474" type="image/jpeg"/>
+      <pubDate>Mon, 18 Dec 2023 01:40:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sade - Cherish the Day (29 plays)</title>
+      <link>https://www.last.fm/music/Sade/_/Cherish+the+Day</link>
+      <guid isPermaLink="false">manosg--1702881930--67930b3e-e00b-469f-8c74-fd69f20522ec---Cherish the Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fe564884d6a90885da819ed1ca631ce.jpg" length="10474" type="image/jpeg"/>
+      <pubDate>Mon, 18 Dec 2023 01:45:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
