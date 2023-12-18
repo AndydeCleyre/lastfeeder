@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Dec 2023 02:52:16 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Be My Wife (64 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Be+My+Wife</link>
-      <guid isPermaLink="false">Frippertron-1702723066--5441c29d-3602-4898-b1a1-b77fa23b8e50---Be My Wife</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8a61f4842d94e43ff30c2cfc47e4c4e.jpg" length="26206" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 05:37:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Dec 2023 03:17:31 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Sound and Vision (64 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Sound+and+Vision</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1702867181--8353f93f-163e-48c2-bb75-9f18987a3d46---I've Seen All Good People</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 21:39:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Tempus Fugit (57 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Tempus+Fugit</link>
+      <guid isPermaLink="false">Frippertron-1702869012--8353f93f-163e-48c2-bb75-9f18987a3d46---Tempus Fugit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d461aaea9d34c2a97ef2e398ebd5a78.png" length="179860" type="image/png"/>
+      <pubDate>Sun, 17 Dec 2023 22:10:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
