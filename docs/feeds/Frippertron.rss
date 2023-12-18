@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Dec 2023 02:36:07 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Always Crashing in the Same Car (59 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Always+Crashing+in+the+Same+Car</link>
-      <guid isPermaLink="false">Frippertron-1702722849--5441c29d-3602-4898-b1a1-b77fa23b8e50---Always Crashing in the Same Car</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8a61f4842d94e43ff30c2cfc47e4c4e.jpg" length="26206" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 05:34:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Dec 2023 02:52:16 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Be My Wife (64 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Be+My+Wife</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1702866543--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
       <pubDate>Sun, 17 Dec 2023 21:29:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - I've Seen All Good People (29 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/I%27ve+Seen+All+Good+People</link>
+      <guid isPermaLink="false">Frippertron-1702867181--8353f93f-163e-48c2-bb75-9f18987a3d46---I've Seen All Good People</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 21:39:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
