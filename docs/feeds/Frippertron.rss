@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Dec 2023 08:21:12 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Ziggy Stardust (128 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Ziggy+Stardust</link>
-      <guid isPermaLink="false">Frippertron-1702893370--5441c29d-3602-4898-b1a1-b77fa23b8e50---Ziggy Stardust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c2b90cdffb49817f96f13746eafbe79.jpg" length="24706" type="image/jpeg"/>
-      <pubDate>Mon, 18 Dec 2023 04:56:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kagami - Tiger Track (39 plays)</title>
-      <link>https://www.last.fm/music/Kagami/_/Tiger+Track</link>
-      <guid isPermaLink="false">Frippertron-1702894740--Kagami---Tiger Track</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f6b460d2bb2e58784006db481e45dea.png" length="60724" type="image/png"/>
-      <pubDate>Mon, 18 Dec 2023 05:19:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Dec 2023 08:38:31 +0000</lastBuildDate>
     <item>
       <title>Ryukyudisko - Acid Track Prototype (28 plays)</title>
       <link>https://www.last.fm/music/Ryukyudisko/_/Acid+Track+Prototype</link>
@@ -156,7 +142,7 @@
       <pubDate>Mon, 18 Dec 2023 22:30:40 -0500</pubDate>
     </item>
     <item>
-      <title>Yes - To Be Over (73 plays)</title>
+      <title>Yes - To Be Over (74 plays)</title>
       <link>https://www.last.fm/music/Yes/_/To+Be+Over</link>
       <guid isPermaLink="false">Frippertron-1702957206--8353f93f-163e-48c2-bb75-9f18987a3d46---To Be Over</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702973528--8353f93f-163e-48c2-bb75-9f18987a3d46---Sound Chaser</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
       <pubDate>Tue, 19 Dec 2023 03:12:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - To Be Over (74 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/To+Be+Over</link>
+      <guid isPermaLink="false">Frippertron-1702974094--8353f93f-163e-48c2-bb75-9f18987a3d46---To Be Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
+      <pubDate>Tue, 19 Dec 2023 03:21:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Marcos Valle - A Paraíba Nao É Chicago (16 plays)</title>
+      <link>https://www.last.fm/music/Marcos+Valle/_/A+Para%C3%ADba+Nao+%C3%89+Chicago</link>
+      <guid isPermaLink="false">Frippertron-1702974732--1ba347eb-58e8-45d6-b7e3-09873dc2506a---A Paraíba Nao É Chicago</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b27632273913eefd3c95851921163c35.jpg" length="17893" type="image/jpeg"/>
+      <pubDate>Tue, 19 Dec 2023 03:32:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
