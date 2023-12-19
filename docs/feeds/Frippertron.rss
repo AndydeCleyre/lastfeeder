@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Dec 2023 07:15:29 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Starman (110 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Starman</link>
-      <guid isPermaLink="false">Frippertron-1702893103--5441c29d-3602-4898-b1a1-b77fa23b8e50---Starman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c2b90cdffb49817f96f13746eafbe79.jpg" length="24706" type="image/jpeg"/>
-      <pubDate>Mon, 18 Dec 2023 04:51:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Dec 2023 08:21:12 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Ziggy Stardust (128 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Ziggy+Stardust</link>
@@ -156,7 +149,7 @@
       <pubDate>Mon, 18 Dec 2023 22:26:27 -0500</pubDate>
     </item>
     <item>
-      <title>Yes - Sound Chaser (71 plays)</title>
+      <title>Yes - Sound Chaser (72 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Sound+Chaser</link>
       <guid isPermaLink="false">Frippertron-1702956640--8353f93f-163e-48c2-bb75-9f18987a3d46---Sound Chaser</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1702969658--5441c29d-3602-4898-b1a1-b77fa23b8e50---African Night Flight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/622b452e302e470a132a71be9607ed6b.jpg" length="17140" type="image/jpeg"/>
       <pubDate>Tue, 19 Dec 2023 02:07:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Sound Chaser (72 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Sound+Chaser</link>
+      <guid isPermaLink="false">Frippertron-1702973528--8353f93f-163e-48c2-bb75-9f18987a3d46---Sound Chaser</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
+      <pubDate>Tue, 19 Dec 2023 03:12:08 -0500</pubDate>
     </item>
   </channel>
 </rss>
