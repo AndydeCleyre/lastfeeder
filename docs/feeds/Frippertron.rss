@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Dec 2023 06:39:04 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Bennie and the Jets (77 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
-      <guid isPermaLink="false">Frippertron-1702891058--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bennie and the Jets</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d4e915760f54d96cd76c9919ff22e65.png" length="203951" type="image/png"/>
-      <pubDate>Mon, 18 Dec 2023 04:17:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Goodbye Yellow Brick Road (45 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Goodbye+Yellow+Brick+Road</link>
-      <guid isPermaLink="false">Frippertron-1702891422--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Goodbye Yellow Brick Road</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d4e915760f54d96cd76c9919ff22e65.png" length="203951" type="image/png"/>
-      <pubDate>Mon, 18 Dec 2023 04:23:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Dec 2023 06:52:26 +0000</lastBuildDate>
     <item>
       <title>Yes - Owner of a Lonely Heart (23 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Owner+of+a+Lonely+Heart</link>
@@ -51,7 +37,7 @@
       <pubDate>Mon, 18 Dec 2023 04:43:45 -0500</pubDate>
     </item>
     <item>
-      <title>Buggles - Video Killed the Radio Star (9 plays)</title>
+      <title>Buggles - Video Killed the Radio Star (10 plays)</title>
       <link>https://www.last.fm/music/Buggles/_/Video+Killed+the+Radio+Star</link>
       <guid isPermaLink="false">Frippertron-1702892853--20278bbd-271a-4a1c-b6fd-43a13d43203d---Video Killed the Radio Star</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/482c9a021a70a8a3e8dbb9df46585160.jpg" length="36464" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1702967417--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---This is Home</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
       <pubDate>Tue, 19 Dec 2023 01:30:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - And Still (6 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/And+Still</link>
+      <guid isPermaLink="false">Frippertron-1702967768--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---And Still</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Tue, 19 Dec 2023 01:36:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Live and Let Live (4 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Live+and+Let+Live</link>
+      <guid isPermaLink="false">Frippertron-1702968190--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Live and Let Live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Tue, 19 Dec 2023 01:43:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
