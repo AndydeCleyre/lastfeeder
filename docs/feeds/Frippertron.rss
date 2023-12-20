@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Dec 2023 12:31:41 +0000</lastBuildDate>
-    <item>
-      <title>Peter Gabriel - i/o (9 plays)</title>
-      <link>https://www.last.fm/music/Peter+Gabriel/_/i%2Fo</link>
-      <guid isPermaLink="false">Frippertron-1702965273--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---i/o</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
-      <pubDate>Tue, 19 Dec 2023 00:54:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Dec 2023 03:37:52 +0000</lastBuildDate>
     <item>
       <title>Peter Gabriel - Four Kinds of Horses (7 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/Four+Kinds+of+Horses</link>
@@ -179,7 +172,7 @@
     <item>
       <title>The Rolling Stones - Emotional Rescue (20 plays)</title>
       <link>https://www.last.fm/music/The+Rolling+Stones/_/Emotional+Rescue</link>
-      <guid isPermaLink="false">Frippertron-1702976622--b071f9fa-14b0-4217-8e97-eb41da73f598---Emotional Rescue</guid>
+      <guid isPermaLink="false">Frippertron-1702976622--The Rolling Stones---Emotional Rescue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e0cb0ae3dbeb5d8e79487ab35a8dbf9a.jpg" length="29638" type="image/jpeg"/>
       <pubDate>Tue, 19 Dec 2023 04:03:42 -0500</pubDate>
     </item>
@@ -338,7 +331,7 @@
       <pubDate>Tue, 19 Dec 2023 06:09:09 -0500</pubDate>
     </item>
     <item>
-      <title>Yes - Heart of the Sunrise (45 plays)</title>
+      <title>Yes - Heart of the Sunrise (46 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
       <guid isPermaLink="false">Frippertron-1702987027--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1702988295--8353f93f-163e-48c2-bb75-9f18987a3d46---Perpetual Change</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
       <pubDate>Tue, 19 Dec 2023 07:18:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Heart of the Sunrise (46 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
+      <guid isPermaLink="false">Frippertron-1703042572--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
+      <pubDate>Tue, 19 Dec 2023 22:22:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
