@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Dec 2023 11:11:54 +0000</lastBuildDate>
-    <item>
-      <title>The Saints - Know Your Product (32 plays)</title>
-      <link>https://www.last.fm/music/The+Saints/_/Know+Your+Product</link>
-      <guid isPermaLink="false">Frippertron-1703050093--The Saints---Know Your Product</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05a7ac70a1ba4ddf8b9157ad84799476.jpg" length="26830" type="image/jpeg"/>
-      <pubDate>Wed, 20 Dec 2023 00:28:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Dec 2023 11:23:44 +0000</lastBuildDate>
     <item>
       <title>Queen - Killer Queen (135 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Killer+Queen</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1703070061--8353f93f-163e-48c2-bb75-9f18987a3d46---Starship Trooper</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
       <pubDate>Wed, 20 Dec 2023 06:01:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Heart of the Sunrise (47 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
+      <guid isPermaLink="false">Frippertron-1703070686--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
+      <pubDate>Wed, 20 Dec 2023 06:11:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
