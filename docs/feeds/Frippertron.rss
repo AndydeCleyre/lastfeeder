@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Dec 2023 07:12:32 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Warszawa (55 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Warszawa</link>
-      <guid isPermaLink="false">Frippertron-1702981934--5441c29d-3602-4898-b1a1-b77fa23b8e50---Warszawa</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8a61f4842d94e43ff30c2cfc47e4c4e.jpg" length="26206" type="image/jpeg"/>
-      <pubDate>Tue, 19 Dec 2023 05:32:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Art Decade (52 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Art+Decade</link>
-      <guid isPermaLink="false">Frippertron-1702982320--5441c29d-3602-4898-b1a1-b77fa23b8e50---Art Decade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8a61f4842d94e43ff30c2cfc47e4c4e.jpg" length="26206" type="image/jpeg"/>
-      <pubDate>Tue, 19 Dec 2023 05:38:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Dec 2023 08:16:52 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Weeping Wall (40 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Weeping+Wall</link>
@@ -72,7 +58,7 @@
       <pubDate>Tue, 19 Dec 2023 07:07:46 -0500</pubDate>
     </item>
     <item>
-      <title>Yes - Perpetual Change (34 plays)</title>
+      <title>Yes - Perpetual Change (35 plays)</title>
       <link>https://www.last.fm/music/Yes/_/Perpetual+Change</link>
       <guid isPermaLink="false">Frippertron-1702988295--8353f93f-163e-48c2-bb75-9f18987a3d46---Perpetual Change</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703055040--8353f93f-163e-48c2-bb75-9f18987a3d46---On the Silent Wings of Freedom</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38797c520dae4c28cc47bbe3222bee6d.png" length="224827" type="image/png"/>
       <pubDate>Wed, 20 Dec 2023 01:50:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - I've Seen All Good People (30 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/I%27ve+Seen+All+Good+People</link>
+      <guid isPermaLink="false">Frippertron-1703059488--8353f93f-163e-48c2-bb75-9f18987a3d46---I've Seen All Good People</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
+      <pubDate>Wed, 20 Dec 2023 03:04:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Perpetual Change (35 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Perpetual+Change</link>
+      <guid isPermaLink="false">Frippertron-1703059783--8353f93f-163e-48c2-bb75-9f18987a3d46---Perpetual Change</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
+      <pubDate>Wed, 20 Dec 2023 03:09:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
