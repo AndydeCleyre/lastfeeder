@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 02:33:51 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Good Old-Fashioned Lover Boy (60 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Good+Old-Fashioned+Lover+Boy</link>
-      <guid isPermaLink="false">Frippertron-1703052753--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Good Old-Fashioned Lover Boy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521b9bbc9a8b43ceb2eb008f5a23f90d.png" length="71521" type="image/png"/>
-      <pubDate>Wed, 20 Dec 2023 01:12:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Dec 2023 02:52:16 +0000</lastBuildDate>
     <item>
       <title>Spiritualized - She Kissed Me (It Felt Like a Hit) (25 plays)</title>
       <link>https://www.last.fm/music/Spiritualized/_/She+Kissed+Me+(It+Felt+Like+a+Hit)</link>
@@ -324,7 +317,7 @@
       <pubDate>Wed, 20 Dec 2023 06:27:14 -0500</pubDate>
     </item>
     <item>
-      <title>Chris Squire - Lucky Seven (6 plays)</title>
+      <title>Chris Squire - Lucky Seven (7 plays)</title>
       <link>https://www.last.fm/music/Chris+Squire/_/Lucky+Seven</link>
       <guid isPermaLink="false">Frippertron-1703071951--3765dccd-b659-4298-9211-15c3f73b40bf---Lucky Seven</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56929e49b582483cc8b52fdd64b65c3e.jpg" length="18011" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1703125443--3765dccd-b659-4298-9211-15c3f73b40bf---Silently Falling</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56929e49b582483cc8b52fdd64b65c3e.jpg" length="18011" type="image/jpeg"/>
       <pubDate>Wed, 20 Dec 2023 21:24:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chris Squire - Lucky Seven (7 plays)</title>
+      <link>https://www.last.fm/music/Chris+Squire/_/Lucky+Seven</link>
+      <guid isPermaLink="false">Frippertron-1703126128--3765dccd-b659-4298-9211-15c3f73b40bf---Lucky Seven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56929e49b582483cc8b52fdd64b65c3e.jpg" length="18011" type="image/jpeg"/>
+      <pubDate>Wed, 20 Dec 2023 21:35:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
