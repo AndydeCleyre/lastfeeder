@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 20:16:45 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - Born to Run (7 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/Born+to+Run</link>
-      <guid isPermaLink="false">Frippertron-1703147430--70248960-cb53-4ea4-943a-edb18f7d336f---Born to Run</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f9e7a75277e438197de13fdbf1cafdb.png" length="111927" type="image/png"/>
-      <pubDate>Thu, 21 Dec 2023 03:30:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yes - Heart of the Sunrise (49 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
-      <guid isPermaLink="false">Frippertron-1703147684--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
-      <pubDate>Thu, 21 Dec 2023 03:34:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Dec 2023 20:37:20 +0000</lastBuildDate>
     <item>
       <title>Rick Wakeman - Catherine Of Aragon (17 plays)</title>
       <link>https://www.last.fm/music/Rick+Wakeman/_/Catherine+Of+Aragon</link>
@@ -128,7 +114,7 @@
       <pubDate>Thu, 21 Dec 2023 05:23:11 -0500</pubDate>
     </item>
     <item>
-      <title>Emerson, Lake &amp; Palmer - Knife-Edge (24 plays)</title>
+      <title>Emerson, Lake &amp; Palmer - Knife-Edge (25 plays)</title>
       <link>https://www.last.fm/music/Emerson,+Lake+&amp;+Palmer/_/Knife-Edge</link>
       <guid isPermaLink="false">Frippertron-1703154523--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Knife-Edge</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d962b1a5e9440e9c020fe51a975cd60.png" length="176584" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703189483--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Hoedown</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6abcc417ec264005877fc0bb9f358923.png" length="207913" type="image/png"/>
       <pubDate>Thu, 21 Dec 2023 15:11:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mike Oldfield - Guilty (Single Version) (1 play)</title>
+      <link>https://www.last.fm/music/Mike+Oldfield/_/Guilty+(Single+Version)</link>
+      <guid isPermaLink="false">Frippertron-1703189738--a1684a49-feaa-4150-b758-d9412fc59f12---Guilty (Single Version)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4537e00c723d83630489d492f504f8dd.jpg" length="26779" type="image/jpeg"/>
+      <pubDate>Thu, 21 Dec 2023 15:15:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Emerson, Lake &amp; Palmer - Knife-Edge (25 plays)</title>
+      <link>https://www.last.fm/music/Emerson,+Lake+&amp;+Palmer/_/Knife-Edge</link>
+      <guid isPermaLink="false">Frippertron-1703190023--ad996aef-cc1c-42ac-af5c-619c370f4b8a---Knife-Edge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d962b1a5e9440e9c020fe51a975cd60.png" length="176584" type="image/png"/>
+      <pubDate>Thu, 21 Dec 2023 15:20:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
