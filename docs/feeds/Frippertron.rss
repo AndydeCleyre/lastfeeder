@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 05:15:51 +0000</lastBuildDate>
-    <item>
-      <title>Nine Inch Nails - Physical (You're So) (8 plays)</title>
-      <link>https://www.last.fm/music/Nine+Inch+Nails/_/Physical+(You%27re+So)</link>
-      <guid isPermaLink="false">Frippertron-1703063264--b7ffd2af-418f-4be2-bdd1-22f8b48613da---Physical (You're So)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e76460c6f593c075ef69252a9ec9079.png" length="109654" type="image/png"/>
-      <pubDate>Wed, 20 Dec 2023 04:07:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nine Inch Nails - Wish (4 plays)</title>
-      <link>https://www.last.fm/music/Nine+Inch+Nails/_/Wish</link>
-      <guid isPermaLink="false">Frippertron-1703063643--b7ffd2af-418f-4be2-bdd1-22f8b48613da---Wish</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e76460c6f593c075ef69252a9ec9079.png" length="109654" type="image/png"/>
-      <pubDate>Wed, 20 Dec 2023 04:14:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Dec 2023 05:37:15 +0000</lastBuildDate>
     <item>
       <title>Barry White - You're the First, the Last, My Everything (20 plays)</title>
       <link>https://www.last.fm/music/Barry+White/_/You%27re+the+First,+the+Last,+My+Everything</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703134966--b7ffd2af-418f-4be2-bdd1-22f8b48613da---March of the Pigs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dc4dedbe1f9441c832c26ec70b5704d.png" length="218407" type="image/png"/>
       <pubDate>Thu, 21 Dec 2023 00:02:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wizzard - Meet Me at the Jailhouse (18 plays)</title>
+      <link>https://www.last.fm/music/Wizzard/_/Meet+Me+at+the+Jailhouse</link>
+      <guid isPermaLink="false">Frippertron-1703135998--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Meet Me at the Jailhouse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a45b75946338a2a120b54aca770c006.jpg" length="24083" type="image/jpeg"/>
+      <pubDate>Thu, 21 Dec 2023 00:19:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wizzard - Buffalo Station/Get On Down To Memphis (4 plays)</title>
+      <link>https://www.last.fm/music/Wizzard/_/Buffalo+Station%2FGet+On+Down+To+Memphis</link>
+      <guid isPermaLink="false">Frippertron-1703136809--Wizzard---Buffalo Station/Get On Down To Memphis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a45b75946338a2a120b54aca770c006.jpg" length="24083" type="image/jpeg"/>
+      <pubDate>Thu, 21 Dec 2023 00:33:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
