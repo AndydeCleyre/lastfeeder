@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 09:52:29 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Grow Some Funk Of Your Own (22 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Grow+Some+Funk+Of+Your+Own</link>
-      <guid isPermaLink="false">Frippertron-1703131705--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Grow Some Funk Of Your Own</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26248132e33d85cb29bbd81cf0bef6a8.jpg" length="24656" type="image/jpeg"/>
-      <pubDate>Wed, 20 Dec 2023 23:08:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - African Night Flight (111 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/African+Night+Flight</link>
-      <guid isPermaLink="false">Frippertron-1703131965--5441c29d-3602-4898-b1a1-b77fa23b8e50---African Night Flight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/622b452e302e470a132a71be9607ed6b.jpg" length="17140" type="image/jpeg"/>
-      <pubDate>Wed, 20 Dec 2023 23:12:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Dec 2023 10:17:21 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Bring Me The Disco King (75 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Bring+Me+The+Disco+King</link>
@@ -317,7 +303,7 @@
       <pubDate>Thu, 21 Dec 2023 04:09:53 -0500</pubDate>
     </item>
     <item>
-      <title>Ed Rush &amp; Nico - Mothership (1 play)</title>
+      <title>Ed Rush &amp; Nico - Mothership (2 plays)</title>
       <link>https://www.last.fm/music/Ed+Rush+&amp;+Nico/_/Mothership</link>
       <guid isPermaLink="false">Frippertron-1703150192--0adac27f-6835-4402-a3d0-d31c5973c7ba---Mothership</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e185a249f604ad1165d8c84a565ca39a.jpg" length="29421" type="image/jpeg"/>
@@ -338,7 +324,7 @@
       <pubDate>Thu, 21 Dec 2023 04:30:32 -0500</pubDate>
     </item>
     <item>
-      <title>Ed Rush &amp; Nico - Torque (1 play)</title>
+      <title>Ed Rush &amp; Nico - Torque (2 plays)</title>
       <link>https://www.last.fm/music/Ed+Rush+&amp;+Nico/_/Torque</link>
       <guid isPermaLink="false">Frippertron-1703151451--0adac27f-6835-4402-a3d0-d31c5973c7ba---Torque</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e185a249f604ad1165d8c84a565ca39a.jpg" length="29421" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703152172--90a60c2c-3a13-4670-b72e-5452a61b0e83---Crystal</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c961523ecd8ee520ab461e769a34965.jpg" length="29421" type="image/jpeg"/>
       <pubDate>Thu, 21 Dec 2023 04:49:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ed Rush &amp; Nico - Mothership (2 plays)</title>
+      <link>https://www.last.fm/music/Ed+Rush+&amp;+Nico/_/Mothership</link>
+      <guid isPermaLink="false">Frippertron-1703152443--0adac27f-6835-4402-a3d0-d31c5973c7ba---Mothership</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e185a249f604ad1165d8c84a565ca39a.jpg" length="29421" type="image/jpeg"/>
+      <pubDate>Thu, 21 Dec 2023 04:54:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ed Rush &amp; Nico - Torque (2 plays)</title>
+      <link>https://www.last.fm/music/Ed+Rush+&amp;+Nico/_/Torque</link>
+      <guid isPermaLink="false">Frippertron-1703152712--0adac27f-6835-4402-a3d0-d31c5973c7ba---Torque</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e185a249f604ad1165d8c84a565ca39a.jpg" length="29421" type="image/jpeg"/>
+      <pubDate>Thu, 21 Dec 2023 04:58:32 -0500</pubDate>
     </item>
   </channel>
 </rss>
