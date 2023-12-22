@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 05:52:23 +0000</lastBuildDate>
-    <item>
-      <title>Nine Inch Nails - Get Down, Make Love (25 plays)</title>
-      <link>https://www.last.fm/music/Nine+Inch+Nails/_/Get+Down,+Make+Love</link>
-      <guid isPermaLink="false">Frippertron-1703184389--b7ffd2af-418f-4be2-bdd1-22f8b48613da---Get Down, Make Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4dc5c9ce9a30e274f3d5f81855890e6.jpg" length="24998" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 13:46:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mark E - Sun Shadow (1 play)</title>
-      <link>https://www.last.fm/music/Mark+E/_/Sun+Shadow</link>
-      <guid isPermaLink="false">Frippertron-1703184649--1559e755-0f9f-4dd1-8a99-1dcffcab0081---Sun Shadow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33f7e9e11f56c8b294461aec8e85824a.jpg" length="10580" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 13:50:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gryphon - Opening Move (3 plays)</title>
-      <link>https://www.last.fm/music/Gryphon/_/Opening+Move</link>
-      <guid isPermaLink="false">Frippertron-1703185312--0cd7ff0b-21e2-468e-9652-abf211ddadcd---Opening Move</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfbcfae1c205e1d96f9c63f90a06cf67.png" length="179226" type="image/png"/>
-      <pubDate>Thu, 21 Dec 2023 14:01:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Dec 2023 06:21:16 +0000</lastBuildDate>
     <item>
       <title>Gryphon - Second Spasm (4 plays)</title>
       <link>https://www.last.fm/music/Gryphon/_/Second+Spasm</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1703224159--8353f93f-163e-48c2-bb75-9f18987a3d46---Release, Release</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38797c520dae4c28cc47bbe3222bee6d.png" length="224827" type="image/png"/>
       <pubDate>Fri, 22 Dec 2023 00:49:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - On the Silent Wings of Freedom (44 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/On+the+Silent+Wings+of+Freedom</link>
+      <guid isPermaLink="false">Frippertron-1703224615--8353f93f-163e-48c2-bb75-9f18987a3d46---On the Silent Wings of Freedom</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38797c520dae4c28cc47bbe3222bee6d.png" length="224827" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 00:56:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Heart of the Sunrise (50 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Heart+of+the+Sunrise</link>
+      <guid isPermaLink="false">Frippertron-1703225084--8353f93f-163e-48c2-bb75-9f18987a3d46---Heart of the Sunrise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 01:04:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Roundabout (94 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Roundabout</link>
+      <guid isPermaLink="false">Frippertron-1703225722--8353f93f-163e-48c2-bb75-9f18987a3d46---Roundabout</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 01:15:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
