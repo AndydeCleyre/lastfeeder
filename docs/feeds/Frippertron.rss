@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 06:38:28 +0000</lastBuildDate>
-    <item>
-      <title>Gryphon - Checkmate (3 plays)</title>
-      <link>https://www.last.fm/music/Gryphon/_/Checkmate</link>
-      <guid isPermaLink="false">Frippertron-1703187049--0cd7ff0b-21e2-468e-9652-abf211ddadcd---Checkmate</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfbcfae1c205e1d96f9c63f90a06cf67.png" length="179226" type="image/png"/>
-      <pubDate>Thu, 21 Dec 2023 14:30:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Dec 2023 06:52:11 +0000</lastBuildDate>
     <item>
       <title>Wigwam - Proletarian (2 plays)</title>
       <link>https://www.last.fm/music/Wigwam/_/Proletarian</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1703226288--8353f93f-163e-48c2-bb75-9f18987a3d46---The Gates of Delirium</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
       <pubDate>Fri, 22 Dec 2023 01:24:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pere Ubu - Non-Alignment Pact (56 plays)</title>
+      <link>https://www.last.fm/music/Pere+Ubu/_/Non-Alignment+Pact</link>
+      <guid isPermaLink="false">Frippertron-1703227768--5a54b72e-bfb3-4ca6-944a-e17261399965---Non-Alignment Pact</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/394924a53d8c3ba293226dd92c512e76.jpg" length="31224" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 01:49:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
