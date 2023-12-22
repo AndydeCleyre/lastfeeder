@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 17:28:24 +0000</lastBuildDate>
-    <item>
-      <title>Don't Drop The Sword - King of Thieves (1 play)</title>
-      <link>https://www.last.fm/music/Don%27t+Drop+The+Sword/_/King+of+Thieves</link>
-      <guid isPermaLink="false">manosg--1703174156--Don't Drop The Sword---King of Thieves</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65af98957bf12e940ba06cba2ef95d60.jpg" length="26280" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 10:55:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Don't Drop The Sword - Echoes of the Past (1 play)</title>
-      <link>https://www.last.fm/music/Don%27t+Drop+The+Sword/_/Echoes+of+the+Past</link>
-      <guid isPermaLink="false">manosg--1703174529--Don't Drop The Sword---Echoes of the Past</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65af98957bf12e940ba06cba2ef95d60.jpg" length="26280" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 11:02:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Don't Drop The Sword - Sharpe's Song (1 play)</title>
-      <link>https://www.last.fm/music/Don%27t+Drop+The+Sword/_/Sharpe%27s+Song</link>
-      <guid isPermaLink="false">manosg--1703174956--Don't Drop The Sword---Sharpe's Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65af98957bf12e940ba06cba2ef95d60.jpg" length="26280" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 11:09:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>Don't Drop The Sword - Wewurt Skihit (1 play)</title>
-      <link>https://www.last.fm/music/Don%27t+Drop+The+Sword/_/Wewurt+Skihit</link>
-      <guid isPermaLink="false">manosg--1703175242--Don't Drop The Sword---Wewurt Skihit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65af98957bf12e940ba06cba2ef95d60.jpg" length="26280" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 11:14:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Dec 2023 18:19:42 +0000</lastBuildDate>
     <item>
       <title>Heavenwood - Frozen Images (1 play)</title>
       <link>https://www.last.fm/music/Heavenwood/_/Frozen+Images</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">manosg--1703265343--7ee35894-f561-43a0-8e2d-07f4d38f8692---Please Don't Leave Me Behind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fbbff686c8ffb7b36171e010b24ebcc6.jpg" length="18603" type="image/jpeg"/>
       <pubDate>Fri, 22 Dec 2023 12:15:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>High Spirits - Memories (1 play)</title>
+      <link>https://www.last.fm/music/High+Spirits/_/Memories</link>
+      <guid isPermaLink="false">manosg--1703265609--7ee35894-f561-43a0-8e2d-07f4d38f8692---Memories</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fbbff686c8ffb7b36171e010b24ebcc6.jpg" length="18603" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 12:20:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>High Spirits - Good Night (1 play)</title>
+      <link>https://www.last.fm/music/High+Spirits/_/Good+Night</link>
+      <guid isPermaLink="false">manosg--1703267766--7ee35894-f561-43a0-8e2d-07f4d38f8692---Good Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fbbff686c8ffb7b36171e010b24ebcc6.jpg" length="18603" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 12:56:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Talon - Hatred Grows Slowly (1 play)</title>
+      <link>https://www.last.fm/music/Talon/_/Hatred+Grows+Slowly</link>
+      <guid isPermaLink="false">manosg--1703268039--51253795-4c29-4a8e-a5d1-0404f4378137---Hatred Grows Slowly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57a3b87737f33311913c75a143476bc1.jpg" length="18691" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 13:00:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Talon - Neutralized (1 play)</title>
+      <link>https://www.last.fm/music/Talon/_/Neutralized</link>
+      <guid isPermaLink="false">manosg--1703268293--51253795-4c29-4a8e-a5d1-0404f4378137---Neutralized</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57a3b87737f33311913c75a143476bc1.jpg" length="18691" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 13:04:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
