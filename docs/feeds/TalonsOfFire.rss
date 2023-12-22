@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 15:52:39 +0000</lastBuildDate>
-    <item>
-      <title>Haavard - Mot Soleglad (3 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Mot+Soleglad</link>
-      <guid isPermaLink="false">TalonsOfFire-1702743877--Haavard---Mot Soleglad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 11:24:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Dec 2023 16:21:07 +0000</lastBuildDate>
     <item>
       <title>Haavard - Myrull (3 plays)</title>
       <link>https://www.last.fm/music/Haavard/_/Myrull</link>
@@ -229,6 +222,7 @@
       <title>Neun Welten - Jötunheim (1 play)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/J%C3%B6tunheim</link>
       <guid isPermaLink="false">TalonsOfFire-1702846093--d14da7df-80bc-48fb-ab15-81db998b1c45---Jötunheim</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 15:48:13 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1703258785--Nest---Claw and Fang</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
       <pubDate>Fri, 22 Dec 2023 10:26:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nest - Kontio (4 plays)</title>
+      <link>https://www.last.fm/music/Nest/_/Kontio</link>
+      <guid isPermaLink="false">TalonsOfFire-1703260229--Nest---Kontio</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 10:50:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
