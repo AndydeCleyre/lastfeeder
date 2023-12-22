@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 18:20:21 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Editions of You (90 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
-      <guid isPermaLink="false">Frippertron-1703235061--331ce348-1b08-40b9-8ed7-0763b92bd003---Editions of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Fri, 22 Dec 2023 03:51:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>Barry White - Can't Get Enough Of Your Love, Babe (28 plays)</title>
-      <link>https://www.last.fm/music/Barry+White/_/Can%27t+Get+Enough+Of+Your+Love,+Babe</link>
-      <guid isPermaLink="false">Frippertron-1703235296--b904d624-9e05-4398-8f4f-88fbcf022f79---Can't Get Enough Of Your Love, Babe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b8e5468b72b4c0db007d648b64fe19e.jpg" length="27115" type="image/jpeg"/>
-      <pubDate>Fri, 22 Dec 2023 03:54:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Dec 2023 18:37:53 +0000</lastBuildDate>
     <item>
       <title>Gentle Giant - Playing the Game (22 plays)</title>
       <link>https://www.last.fm/music/Gentle+Giant/_/Playing+the+Game</link>
@@ -219,7 +205,7 @@
       <pubDate>Fri, 22 Dec 2023 06:43:12 -0500</pubDate>
     </item>
     <item>
-      <title>Focus - Hocus Pocus (10 plays)</title>
+      <title>Focus - Hocus Pocus (11 plays)</title>
       <link>https://www.last.fm/music/Focus/_/Hocus+Pocus</link>
       <guid isPermaLink="false">Frippertron-1703262879--821e11d6-cfec-44a7-9615-06a4e631c975---Hocus Pocus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62e2fd69667b15d51a3a37b2c267d1a6.jpg" length="39047" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703268846--7d4de20c-74b7-4c76-9f6d-ea6dba85439d---Got the Bug</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 22 Dec 2023 13:14:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Focus - Harem Scarem (2 plays)</title>
+      <link>https://www.last.fm/music/Focus/_/Harem+Scarem</link>
+      <guid isPermaLink="false">Frippertron-1703269239--821e11d6-cfec-44a7-9615-06a4e631c975---Harem Scarem</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a14847c4ec95452da6b4b72aecd6a645.jpg" length="33348" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 13:20:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Focus - Hocus Pocus (11 plays)</title>
+      <link>https://www.last.fm/music/Focus/_/Hocus+Pocus</link>
+      <guid isPermaLink="false">Frippertron-1703269595--821e11d6-cfec-44a7-9615-06a4e631c975---Hocus Pocus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62e2fd69667b15d51a3a37b2c267d1a6.jpg" length="39047" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 13:26:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
