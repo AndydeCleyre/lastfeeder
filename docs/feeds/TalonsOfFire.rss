@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 15:16:32 +0000</lastBuildDate>
-    <item>
-      <title>Haavard - Emmanuelle (2 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Emmanuelle</link>
-      <guid isPermaLink="false">TalonsOfFire-1702492785--Haavard---Emmanuelle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Wed, 13 Dec 2023 13:39:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Dec 2023 15:37:53 +0000</lastBuildDate>
     <item>
       <title>Haavard - Kveldssang II (3 plays)</title>
       <link>https://www.last.fm/music/Haavard/_/Kveldssang+II</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1703257854--Nest---Otterheart</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
       <pubDate>Fri, 22 Dec 2023 10:10:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nest - Moonbow (3 plays)</title>
+      <link>https://www.last.fm/music/Nest/_/Moonbow</link>
+      <guid isPermaLink="false">TalonsOfFire-1703258146--Nest---Moonbow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 10:15:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
