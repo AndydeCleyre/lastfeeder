@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 22:41:23 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Little Saint Nick (3 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Little+Saint+Nick</link>
-      <guid isPermaLink="false">ddgromit-1703199145--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Little Saint Nick</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/499d4d5e3318476eb694abd2c2373905.png" length="149540" type="image/png"/>
-      <pubDate>Thu, 21 Dec 2023 17:52:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Frank Sinatra - Jingle Bells - Remastered 1999 (3 plays)</title>
-      <link>https://www.last.fm/music/Frank+Sinatra/_/Jingle+Bells+-+Remastered+1999</link>
-      <guid isPermaLink="false">ddgromit-1703199276--Frank Sinatra---Jingle Bells - Remastered 1999</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b1ebb3a849383ce0e787df6ab685e8b.jpg" length="22483" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 17:54:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Dec 2023 01:09:49 +0000</lastBuildDate>
     <item>
       <title>Arta Porting - Beautiful Sunrise (2 plays)</title>
       <link>https://www.last.fm/music/Arta+Porting/_/Beautiful+Sunrise</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1703283987--87b9b3b8-ab93-426c-a200-4012d667a626---Thinking of a Place</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a511a836c30a4532418a2a21a8f6294.jpg" length="16079" type="image/jpeg"/>
       <pubDate>Fri, 22 Dec 2023 17:26:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Max Richter - Dona Nobis Pacem 2 (8 plays)</title>
+      <link>https://www.last.fm/music/Max+Richter/_/Dona+Nobis+Pacem+2</link>
+      <guid isPermaLink="false">ddgromit-1703284653--509f20b2-5df3-4aec-9bbc-002131fb3f99---Dona Nobis Pacem 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f52c521e4f75f84fe9022f219cebc680.png" length="109315" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 17:37:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Denzel Sachs - Have Yourself A Merry Little Christmas (6 plays)</title>
+      <link>https://www.last.fm/music/Denzel+Sachs/_/Have+Yourself+A+Merry+Little+Christmas</link>
+      <guid isPermaLink="false">ddgromit-1703290999--Denzel Sachs---Have Yourself A Merry Little Christmas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49891de8eb05c1b2d473bb206a1f63f1.jpg" length="39965" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 19:23:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
