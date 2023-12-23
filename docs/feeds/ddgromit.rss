@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Dec 2023 01:09:49 +0000</lastBuildDate>
-    <item>
-      <title>Arta Porting - Beautiful Sunrise (2 plays)</title>
-      <link>https://www.last.fm/music/Arta+Porting/_/Beautiful+Sunrise</link>
-      <guid isPermaLink="false">ddgromit-1703207620--Arta Porting---Beautiful Sunrise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bfec98999a55d8e390529dcceb23822d.jpg" length="16987" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 20:13:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Glass Trio - Last Call (1 play)</title>
-      <link>https://www.last.fm/music/Glass+Trio/_/Last+Call</link>
-      <guid isPermaLink="false">ddgromit-1703207912--Glass Trio---Last Call</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86cd874da9ae8de5c3d5ab3f9579501a.jpg" length="17990" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 20:18:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>John Coltrane Quartet - It's Easy To Remember (1 play)</title>
-      <link>https://www.last.fm/music/John+Coltrane+Quartet/_/It%27s+Easy+To+Remember</link>
-      <guid isPermaLink="false">ddgromit-1703208082--a43270af-bc4a-4552-847e-617b11f38d7b---It's Easy To Remember</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/31f396ca9251c82651e4859885890579.jpg" length="16076" type="image/jpeg"/>
-      <pubDate>Thu, 21 Dec 2023 20:21:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Dec 2023 01:59:00 +0000</lastBuildDate>
     <item>
       <title>Stan Getz - But Beautiful (1 play)</title>
       <link>https://www.last.fm/music/Stan+Getz/_/But+Beautiful</link>
@@ -114,7 +93,7 @@
       <pubDate>Thu, 21 Dec 2023 21:56:11 -0500</pubDate>
     </item>
     <item>
-      <title>Stan Getz - I Didn't Know What Time It Was (1 play)</title>
+      <title>Stan Getz - I Didn't Know What Time It Was</title>
       <link>https://www.last.fm/music/Stan+Getz/_/I+Didn%27t+Know+What+Time+It+Was</link>
       <guid isPermaLink="false">ddgromit-1703214018--8f2422ab-0ec6-4c92-80c4-afe9622fab32---I Didn't Know What Time It Was</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33257383f7242762b8cdcbbf5ad1a786.jpg" length="29879" type="image/jpeg"/>
@@ -352,11 +331,32 @@
       <pubDate>Fri, 22 Dec 2023 17:37:33 -0500</pubDate>
     </item>
     <item>
-      <title>Denzel Sachs - Have Yourself A Merry Little Christmas (6 plays)</title>
+      <title>Denzel Sachs - Have Yourself A Merry Little Christmas (7 plays)</title>
       <link>https://www.last.fm/music/Denzel+Sachs/_/Have+Yourself+A+Merry+Little+Christmas</link>
       <guid isPermaLink="false">ddgromit-1703290999--Denzel Sachs---Have Yourself A Merry Little Christmas</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49891de8eb05c1b2d473bb206a1f63f1.jpg" length="39965" type="image/jpeg"/>
       <pubDate>Fri, 22 Dec 2023 19:23:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roddy Doyle Trio - Sleigh Ride (4 plays)</title>
+      <link>https://www.last.fm/music/Roddy+Doyle+Trio/_/Sleigh+Ride</link>
+      <guid isPermaLink="false">ddgromit-1703291255--Roddy Doyle Trio---Sleigh Ride</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6857584afe1238d9e68246498b5b1bab.jpg" length="14690" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 19:27:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Denzel Sachs - Have Yourself A Merry Little Christmas (7 plays)</title>
+      <link>https://www.last.fm/music/Denzel+Sachs/_/Have+Yourself+A+Merry+Little+Christmas</link>
+      <guid isPermaLink="false">ddgromit-1703296155--Denzel Sachs---Have Yourself A Merry Little Christmas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49891de8eb05c1b2d473bb206a1f63f1.jpg" length="39965" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 20:49:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rudy Snow - The Little Drummer Boy (1 play)</title>
+      <link>https://www.last.fm/music/Rudy+Snow/_/The+Little+Drummer+Boy</link>
+      <guid isPermaLink="false">ddgromit-1703296408--Rudy Snow---The Little Drummer Boy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 20:53:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
