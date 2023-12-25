@@ -7,279 +7,230 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 16:21:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 15:37:41 +0000</lastBuildDate>
     <item>
-      <title>Haavard - Myrull (3 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Myrull</link>
-      <guid isPermaLink="false">TalonsOfFire-1702744140--Haavard---Myrull</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 11:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Haavard - Printemps (3 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Printemps</link>
-      <guid isPermaLink="false">TalonsOfFire-1702744387--Haavard---Printemps</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 11:33:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>Haavard - Niende Mars (3 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Niende+Mars</link>
-      <guid isPermaLink="false">TalonsOfFire-1702744746--Haavard---Niende Mars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 11:39:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Haavard - Oberon (3 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Oberon</link>
-      <guid isPermaLink="false">TalonsOfFire-1702746751--Haavard---Oberon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 12:12:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>Haavard - Eastwood (3 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Eastwood</link>
-      <guid isPermaLink="false">TalonsOfFire-1702752574--Haavard---Eastwood</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 13:49:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Haavard - Sørgemarsj (3 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/S%C3%B8rgemarsj</link>
-      <guid isPermaLink="false">TalonsOfFire-1702753287--Haavard---Sørgemarsj</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 14:01:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>Haavard - Heartwood (3 plays)</title>
-      <link>https://www.last.fm/music/Haavard/_/Heartwood</link>
-      <guid isPermaLink="false">TalonsOfFire-1702758677--Haavard---Heartwood</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3cb2b8d240061035b9f59aa67a64eafd.jpg" length="16313" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 15:31:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ulver - Ghost Entry (1 play)</title>
-      <link>https://www.last.fm/music/Ulver/_/Ghost+Entry</link>
-      <guid isPermaLink="false">TalonsOfFire-1702758861--7d209631-ccb8-4a87-8516-64abe4c22dba---Ghost Entry</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/032d83608dfc40d22ae290db0c1df370.jpg" length="26299" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 15:34:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ainulindalë - Hither Land (2 plays)</title>
-      <link>https://www.last.fm/music/Ainulindal%C3%AB/_/Hither+Land</link>
-      <guid isPermaLink="false">TalonsOfFire-1702759104--72ddf0eb-66ab-41d6-b995-7e03dab99bb4---Hither Land</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e9dbbe78f9f47bbc73441583dc48b9c.jpg" length="12647" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 15:38:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ainulindalë - The Parting (2 plays)</title>
-      <link>https://www.last.fm/music/Ainulindal%C3%AB/_/The+Parting</link>
-      <guid isPermaLink="false">TalonsOfFire-1702759204--72ddf0eb-66ab-41d6-b995-7e03dab99bb4---The Parting</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e9dbbe78f9f47bbc73441583dc48b9c.jpg" length="12647" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 15:40:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ainulindalë - Vinyamar (2 plays)</title>
-      <link>https://www.last.fm/music/Ainulindal%C3%AB/_/Vinyamar</link>
-      <guid isPermaLink="false">TalonsOfFire-1702759586--72ddf0eb-66ab-41d6-b995-7e03dab99bb4---Vinyamar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e9dbbe78f9f47bbc73441583dc48b9c.jpg" length="12647" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 15:46:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ainulindalë - Under May's moon (2 plays)</title>
-      <link>https://www.last.fm/music/Ainulindal%C3%AB/_/Under+May%27s+moon</link>
-      <guid isPermaLink="false">TalonsOfFire-1702759758--72ddf0eb-66ab-41d6-b995-7e03dab99bb4---Under May's moon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e9dbbe78f9f47bbc73441583dc48b9c.jpg" length="12647" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 15:49:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ainulindalë - Nevrast (2 plays)</title>
-      <link>https://www.last.fm/music/Ainulindal%C3%AB/_/Nevrast</link>
-      <guid isPermaLink="false">TalonsOfFire-1702764810--72ddf0eb-66ab-41d6-b995-7e03dab99bb4---Nevrast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e9dbbe78f9f47bbc73441583dc48b9c.jpg" length="12647" type="image/jpeg"/>
-      <pubDate>Sat, 16 Dec 2023 17:13:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Frosthauch (2 plays)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/Frosthauch</link>
-      <guid isPermaLink="false">TalonsOfFire-1702839208--d14da7df-80bc-48fb-ab15-81db998b1c45---Frosthauch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 13:53:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Destrunken I (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/Destrunken+I</link>
-      <guid isPermaLink="false">TalonsOfFire-1702839452--d14da7df-80bc-48fb-ab15-81db998b1c45---Destrunken I</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 13:57:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Destrunken II (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/Destrunken+II</link>
-      <guid isPermaLink="false">TalonsOfFire-1702839860--d14da7df-80bc-48fb-ab15-81db998b1c45---Destrunken II</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 14:04:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Jarknez (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/Jarknez</link>
-      <guid isPermaLink="false">TalonsOfFire-1702840192--d14da7df-80bc-48fb-ab15-81db998b1c45---Jarknez</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 14:09:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Weites End (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/Weites+End</link>
-      <guid isPermaLink="false">TalonsOfFire-1702840427--d14da7df-80bc-48fb-ab15-81db998b1c45---Weites End</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 14:13:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Ewig Ruh (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/Ewig+Ruh</link>
-      <guid isPermaLink="false">TalonsOfFire-1702840804--d14da7df-80bc-48fb-ab15-81db998b1c45---Ewig Ruh</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 14:20:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Dämmerung (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/D%C3%A4mmerung</link>
-      <guid isPermaLink="false">TalonsOfFire-1702841021--d14da7df-80bc-48fb-ab15-81db998b1c45---Dämmerung</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 14:23:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Schein (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/Schein</link>
-      <guid isPermaLink="false">TalonsOfFire-1702841269--d14da7df-80bc-48fb-ab15-81db998b1c45---Schein</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 14:27:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Der stille See (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/Der+stille+See</link>
-      <guid isPermaLink="false">TalonsOfFire-1702841693--d14da7df-80bc-48fb-ab15-81db998b1c45---Der stille See</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 14:34:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Tau (1 play)</title>
-      <link>https://www.last.fm/music/Neun+Welten/_/Tau</link>
-      <guid isPermaLink="false">TalonsOfFire-1702842080--d14da7df-80bc-48fb-ab15-81db998b1c45---Tau</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9958434bd34304984dbb41bafb4d0c.png" length="133215" type="image/png"/>
-      <pubDate>Sun, 17 Dec 2023 14:41:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>Neun Welten - Valg (2 plays)</title>
+      <title>Neun Welten - Valg (3 plays)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/Valg</link>
       <guid isPermaLink="false">TalonsOfFire-1702842672--d14da7df-80bc-48fb-ab15-81db998b1c45---Valg</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 14:51:12 -0500</pubDate>
     </item>
     <item>
-      <title>Neun Welten - Walden (2 plays)</title>
+      <title>Neun Welten - Walden (3 plays)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/Walden</link>
       <guid isPermaLink="false">TalonsOfFire-1702843040--d14da7df-80bc-48fb-ab15-81db998b1c45---Walden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 14:57:20 -0500</pubDate>
     </item>
     <item>
-      <title>Neun Welten - Nebelland (2 plays)</title>
+      <title>Neun Welten - Valg (3 plays)</title>
+      <link>https://www.last.fm/music/Neun+Welten/_/Valg</link>
+      <guid isPermaLink="false">TalonsOfFire-1702843041--d14da7df-80bc-48fb-ab15-81db998b1c45---Valg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 14:57:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neun Welten - Nebelland (3 plays)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/Nebelland</link>
       <guid isPermaLink="false">TalonsOfFire-1702843422--d14da7df-80bc-48fb-ab15-81db998b1c45---Nebelland</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 15:03:42 -0500</pubDate>
     </item>
     <item>
-      <title>Neun Welten - Nahend Zauberwald (2 plays)</title>
+      <title>Neun Welten - Walden (3 plays)</title>
+      <link>https://www.last.fm/music/Neun+Welten/_/Walden</link>
+      <guid isPermaLink="false">TalonsOfFire-1702843423--d14da7df-80bc-48fb-ab15-81db998b1c45---Walden</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 15:03:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neun Welten - Nahend Zauberwald (3 plays)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/Nahend+Zauberwald</link>
       <guid isPermaLink="false">TalonsOfFire-1702843741--d14da7df-80bc-48fb-ab15-81db998b1c45---Nahend Zauberwald</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 15:09:01 -0500</pubDate>
     </item>
     <item>
-      <title>Neun Welten - Auf kargem Fels (1 play)</title>
+      <title>Neun Welten - Nebelland (3 plays)</title>
+      <link>https://www.last.fm/music/Neun+Welten/_/Nebelland</link>
+      <guid isPermaLink="false">TalonsOfFire-1702843741--d14da7df-80bc-48fb-ab15-81db998b1c45---Nebelland</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 15:09:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neun Welten - Auf kargem Fels (2 plays)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/Auf+kargem+Fels</link>
       <guid isPermaLink="false">TalonsOfFire-1702843875--d14da7df-80bc-48fb-ab15-81db998b1c45---Auf kargem Fels</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 15:11:15 -0500</pubDate>
     </item>
     <item>
-      <title>Neun Welten - Midsommer (1 play)</title>
+      <title>Neun Welten - Nahend Zauberwald (3 plays)</title>
+      <link>https://www.last.fm/music/Neun+Welten/_/Nahend+Zauberwald</link>
+      <guid isPermaLink="false">TalonsOfFire-1702843876--d14da7df-80bc-48fb-ab15-81db998b1c45---Nahend Zauberwald</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 15:11:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neun Welten - Midsommer (2 plays)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/Midsommer</link>
       <guid isPermaLink="false">TalonsOfFire-1702845510--d14da7df-80bc-48fb-ab15-81db998b1c45---Midsommer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 15:38:30 -0500</pubDate>
     </item>
     <item>
-      <title>Neun Welten - Tamtrollbach (2 plays)</title>
+      <title>Neun Welten - Auf kargem Fels (2 plays)</title>
+      <link>https://www.last.fm/music/Neun+Welten/_/Auf+kargem+Fels</link>
+      <guid isPermaLink="false">TalonsOfFire-1702845510--d14da7df-80bc-48fb-ab15-81db998b1c45---Auf kargem Fels</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 15:38:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neun Welten - Tamtrollbach (3 plays)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/Tamtrollbach</link>
       <guid isPermaLink="false">TalonsOfFire-1702845814--d14da7df-80bc-48fb-ab15-81db998b1c45---Tamtrollbach</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 15:43:34 -0500</pubDate>
     </item>
     <item>
-      <title>Neun Welten - Jötunheim (1 play)</title>
+      <title>Neun Welten - Midsommer (2 plays)</title>
+      <link>https://www.last.fm/music/Neun+Welten/_/Midsommer</link>
+      <guid isPermaLink="false">TalonsOfFire-1702845815--d14da7df-80bc-48fb-ab15-81db998b1c45---Midsommer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 15:43:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neun Welten - Jötunheim (2 plays)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/J%C3%B6tunheim</link>
       <guid isPermaLink="false">TalonsOfFire-1702846093--d14da7df-80bc-48fb-ab15-81db998b1c45---Jötunheim</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 15:48:13 -0500</pubDate>
     </item>
     <item>
-      <title>Empyrium - Moonromanticism (1 play)</title>
+      <title>Neun Welten - Tamtrollbach (3 plays)</title>
+      <link>https://www.last.fm/music/Neun+Welten/_/Tamtrollbach</link>
+      <guid isPermaLink="false">TalonsOfFire-1702846094--d14da7df-80bc-48fb-ab15-81db998b1c45---Tamtrollbach</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 15:48:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neun Welten - Jötunheim (2 plays)</title>
+      <link>https://www.last.fm/music/Neun+Welten/_/J%C3%B6tunheim</link>
+      <guid isPermaLink="false">TalonsOfFire-1702846374--d14da7df-80bc-48fb-ab15-81db998b1c45---Jötunheim</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 15:52:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Empyrium - Moonromanticism (2 plays)</title>
       <link>https://www.last.fm/music/Empyrium/_/Moonromanticism</link>
       <guid isPermaLink="false">TalonsOfFire-1702846521--2eba111c-f7b9-4119-811f-9753669072af---Moonromanticism</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32ae0c18a18d4e6fce0c86e54e9b8230.png" length="210809" type="image/png"/>
       <pubDate>Sun, 17 Dec 2023 15:55:21 -0500</pubDate>
     </item>
     <item>
-      <title>Empyrium - A Gentle Grieving Farewell Kiss (1 play)</title>
+      <title>Empyrium - Moonromanticism (2 plays)</title>
+      <link>https://www.last.fm/music/Empyrium/_/Moonromanticism</link>
+      <guid isPermaLink="false">TalonsOfFire-1702846641--2eba111c-f7b9-4119-811f-9753669072af---Moonromanticism</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32ae0c18a18d4e6fce0c86e54e9b8230.png" length="210809" type="image/png"/>
+      <pubDate>Sun, 17 Dec 2023 15:57:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Empyrium - A Gentle Grieving Farewell Kiss (2 plays)</title>
       <link>https://www.last.fm/music/Empyrium/_/A+Gentle+Grieving+Farewell+Kiss</link>
       <guid isPermaLink="false">TalonsOfFire-1702846669--2eba111c-f7b9-4119-811f-9753669072af---A Gentle Grieving Farewell Kiss</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32ae0c18a18d4e6fce0c86e54e9b8230.png" length="210809" type="image/png"/>
       <pubDate>Sun, 17 Dec 2023 15:57:49 -0500</pubDate>
     </item>
     <item>
-      <title>Empyrium - The Sad Song of the Wind (1 play)</title>
+      <title>Empyrium - A Gentle Grieving Farewell Kiss (2 plays)</title>
+      <link>https://www.last.fm/music/Empyrium/_/A+Gentle+Grieving+Farewell+Kiss</link>
+      <guid isPermaLink="false">TalonsOfFire-1702846803--2eba111c-f7b9-4119-811f-9753669072af---A Gentle Grieving Farewell Kiss</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32ae0c18a18d4e6fce0c86e54e9b8230.png" length="210809" type="image/png"/>
+      <pubDate>Sun, 17 Dec 2023 16:00:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Empyrium - The Sad Song of the Wind (2 plays)</title>
       <link>https://www.last.fm/music/Empyrium/_/The+Sad+Song+of+the+Wind</link>
       <guid isPermaLink="false">TalonsOfFire-1702846968--2eba111c-f7b9-4119-811f-9753669072af---The Sad Song of the Wind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6e67a310712a250301a93b8941d7cef.jpg" length="18388" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 16:02:48 -0500</pubDate>
     </item>
     <item>
-      <title>Empyrium - Wehmut (1 play)</title>
+      <title>Empyrium - Wehmut (2 plays)</title>
       <link>https://www.last.fm/music/Empyrium/_/Wehmut</link>
       <guid isPermaLink="false">TalonsOfFire-1702847145--2eba111c-f7b9-4119-811f-9753669072af---Wehmut</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6e67a310712a250301a93b8941d7cef.jpg" length="18388" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 16:05:45 -0500</pubDate>
     </item>
     <item>
-      <title>Empyrium - A Pastoral Theme (1 play)</title>
+      <title>Empyrium - The Sad Song of the Wind (2 plays)</title>
+      <link>https://www.last.fm/music/Empyrium/_/The+Sad+Song+of+the+Wind</link>
+      <guid isPermaLink="false">TalonsOfFire-1702847146--2eba111c-f7b9-4119-811f-9753669072af---The Sad Song of the Wind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6e67a310712a250301a93b8941d7cef.jpg" length="18388" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 16:05:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Empyrium - A Pastoral Theme (2 plays)</title>
       <link>https://www.last.fm/music/Empyrium/_/A+Pastoral+Theme</link>
       <guid isPermaLink="false">TalonsOfFire-1702847282--2eba111c-f7b9-4119-811f-9753669072af---A Pastoral Theme</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6e67a310712a250301a93b8941d7cef.jpg" length="18388" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 16:08:02 -0500</pubDate>
     </item>
     <item>
-      <title>Empyrium - Abendrot (1 play)</title>
+      <title>Empyrium - Wehmut (2 plays)</title>
+      <link>https://www.last.fm/music/Empyrium/_/Wehmut</link>
+      <guid isPermaLink="false">TalonsOfFire-1702847283--2eba111c-f7b9-4119-811f-9753669072af---Wehmut</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6e67a310712a250301a93b8941d7cef.jpg" length="18388" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 16:08:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Empyrium - Abendrot (2 plays)</title>
       <link>https://www.last.fm/music/Empyrium/_/Abendrot</link>
       <guid isPermaLink="false">TalonsOfFire-1702847400--2eba111c-f7b9-4119-811f-9753669072af---Abendrot</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6e67a310712a250301a93b8941d7cef.jpg" length="18388" type="image/jpeg"/>
       <pubDate>Sun, 17 Dec 2023 16:10:00 -0500</pubDate>
     </item>
     <item>
-      <title>Empyrium - Nebel (1 play)</title>
+      <title>Empyrium - A Pastoral Theme (2 plays)</title>
+      <link>https://www.last.fm/music/Empyrium/_/A+Pastoral+Theme</link>
+      <guid isPermaLink="false">TalonsOfFire-1702847401--2eba111c-f7b9-4119-811f-9753669072af---A Pastoral Theme</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6e67a310712a250301a93b8941d7cef.jpg" length="18388" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 16:10:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Empyrium - Abendrot (2 plays)</title>
+      <link>https://www.last.fm/music/Empyrium/_/Abendrot</link>
+      <guid isPermaLink="false">TalonsOfFire-1702847535--2eba111c-f7b9-4119-811f-9753669072af---Abendrot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6e67a310712a250301a93b8941d7cef.jpg" length="18388" type="image/jpeg"/>
+      <pubDate>Sun, 17 Dec 2023 16:12:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Empyrium - Nebel (2 plays)</title>
       <link>https://www.last.fm/music/Empyrium/_/Nebel</link>
       <guid isPermaLink="false">TalonsOfFire-1702847616--2eba111c-f7b9-4119-811f-9753669072af---Nebel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd0c229d99e44037c03456f178fc8e56.png" length="192276" type="image/png"/>
       <pubDate>Sun, 17 Dec 2023 16:13:36 -0500</pubDate>
     </item>
     <item>
-      <title>Empyrium - Nachhall (1 play)</title>
+      <title>Empyrium - Nebel (2 plays)</title>
+      <link>https://www.last.fm/music/Empyrium/_/Nebel</link>
+      <guid isPermaLink="false">TalonsOfFire-1702847758--2eba111c-f7b9-4119-811f-9753669072af---Nebel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd0c229d99e44037c03456f178fc8e56.png" length="192276" type="image/png"/>
+      <pubDate>Sun, 17 Dec 2023 16:15:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Empyrium - Nachhall (2 plays)</title>
       <link>https://www.last.fm/music/Empyrium/_/Nachhall</link>
       <guid isPermaLink="false">TalonsOfFire-1702847763--2eba111c-f7b9-4119-811f-9753669072af---Nachhall</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd0c229d99e44037c03456f178fc8e56.png" length="192276" type="image/png"/>
       <pubDate>Sun, 17 Dec 2023 16:16:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Empyrium - Nachhall (2 plays)</title>
+      <link>https://www.last.fm/music/Empyrium/_/Nachhall</link>
+      <guid isPermaLink="false">TalonsOfFire-1702847846--2eba111c-f7b9-4119-811f-9753669072af---Nachhall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd0c229d99e44037c03456f178fc8e56.png" length="192276" type="image/png"/>
+      <pubDate>Sun, 17 Dec 2023 16:17:26 -0500</pubDate>
     </item>
     <item>
       <title>Empyrium - Moonrise (2 plays)</title>
@@ -310,53 +261,102 @@
       <pubDate>Sun, 17 Dec 2023 16:45:17 -0500</pubDate>
     </item>
     <item>
-      <title>Nest - The Silvershade Lynx (3 plays)</title>
+      <title>Nest - The Silvershade Lynx (4 plays)</title>
       <link>https://www.last.fm/music/Nest/_/The+Silvershade+Lynx</link>
       <guid isPermaLink="false">TalonsOfFire-1703256778--Nest---The Silvershade Lynx</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
       <pubDate>Fri, 22 Dec 2023 09:52:58 -0500</pubDate>
     </item>
     <item>
-      <title>Nest - Call of the Wild (3 plays)</title>
+      <title>Nest - Call of the Wild (4 plays)</title>
       <link>https://www.last.fm/music/Nest/_/Call+of+the+Wild</link>
       <guid isPermaLink="false">TalonsOfFire-1703257171--Nest---Call of the Wild</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
       <pubDate>Fri, 22 Dec 2023 09:59:31 -0500</pubDate>
     </item>
     <item>
-      <title>Nest - By the Healing Waters (3 plays)</title>
+      <title>Nest - The Silvershade Lynx (4 plays)</title>
+      <link>https://www.last.fm/music/Nest/_/The+Silvershade+Lynx</link>
+      <guid isPermaLink="false">TalonsOfFire-1703257171--Nest---The Silvershade Lynx</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 09:59:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nest - By the Healing Waters (4 plays)</title>
       <link>https://www.last.fm/music/Nest/_/By+the+Healing+Waters</link>
       <guid isPermaLink="false">TalonsOfFire-1703257577--Nest---By the Healing Waters</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
       <pubDate>Fri, 22 Dec 2023 10:06:17 -0500</pubDate>
     </item>
     <item>
-      <title>Nest - Otterheart (3 plays)</title>
+      <title>Nest - Call of the Wild (4 plays)</title>
+      <link>https://www.last.fm/music/Nest/_/Call+of+the+Wild</link>
+      <guid isPermaLink="false">TalonsOfFire-1703257577--Nest---Call of the Wild</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 10:06:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nest - Otterheart (4 plays)</title>
       <link>https://www.last.fm/music/Nest/_/Otterheart</link>
       <guid isPermaLink="false">TalonsOfFire-1703257854--Nest---Otterheart</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
       <pubDate>Fri, 22 Dec 2023 10:10:54 -0500</pubDate>
     </item>
     <item>
-      <title>Nest - Moonbow (3 plays)</title>
+      <title>Nest - By the Healing Waters (4 plays)</title>
+      <link>https://www.last.fm/music/Nest/_/By+the+Healing+Waters</link>
+      <guid isPermaLink="false">TalonsOfFire-1703257855--Nest---By the Healing Waters</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 10:10:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nest - Otterheart (4 plays)</title>
+      <link>https://www.last.fm/music/Nest/_/Otterheart</link>
+      <guid isPermaLink="false">TalonsOfFire-1703258129--Nest---Otterheart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86992d270b813e4b5b39e34bc249ffd0.jpg" length="21223" type="image/jpeg"/>
+      <pubDate>Fri, 22 Dec 2023 10:15:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nest - Moonbow (4 plays)</title>
       <link>https://www.last.fm/music/Nest/_/Moonbow</link>
       <guid isPermaLink="false">TalonsOfFire-1703258146--Nest---Moonbow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
       <pubDate>Fri, 22 Dec 2023 10:15:46 -0500</pubDate>
     </item>
     <item>
-      <title>Nest - Claw and Fang (3 plays)</title>
+      <title>Nest - Claw and Fang (4 plays)</title>
       <link>https://www.last.fm/music/Nest/_/Claw+and+Fang</link>
       <guid isPermaLink="false">TalonsOfFire-1703258785--Nest---Claw and Fang</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
       <pubDate>Fri, 22 Dec 2023 10:26:25 -0500</pubDate>
     </item>
     <item>
-      <title>Nest - Kontio (4 plays)</title>
+      <title>Nest - Moonbow (4 plays)</title>
+      <link>https://www.last.fm/music/Nest/_/Moonbow</link>
+      <guid isPermaLink="false">TalonsOfFire-1703258785--Nest---Moonbow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 10:26:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nest - Kontio (5 plays)</title>
       <link>https://www.last.fm/music/Nest/_/Kontio</link>
       <guid isPermaLink="false">TalonsOfFire-1703260229--Nest---Kontio</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
       <pubDate>Fri, 22 Dec 2023 10:50:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nest - Claw and Fang (4 plays)</title>
+      <link>https://www.last.fm/music/Nest/_/Claw+and+Fang</link>
+      <guid isPermaLink="false">TalonsOfFire-1703260230--Nest---Claw and Fang</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 10:50:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nest - Kontio (5 plays)</title>
+      <link>https://www.last.fm/music/Nest/_/Kontio</link>
+      <guid isPermaLink="false">TalonsOfFire-1703260516--Nest---Kontio</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3b8e5059a8249258e957922cf6a3668.png" length="162319" type="image/png"/>
+      <pubDate>Fri, 22 Dec 2023 10:55:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
