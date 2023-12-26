@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Dec 2023 19:24:18 +0000</lastBuildDate>
-    <item>
-      <title>Goldfrapp - Satin Chic (22 plays)</title>
-      <link>https://www.last.fm/music/Goldfrapp/_/Satin+Chic</link>
-      <guid isPermaLink="false">Frippertron-1703517283--7b885d42-3c41-4f43-9944-a5855ec5155e---Satin Chic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be088edc6dc3edc86673bc4dbc13e5c9.png" length="136579" type="image/png"/>
-      <pubDate>Mon, 25 Dec 2023 10:14:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Goldfrapp - Train (56 plays)</title>
-      <link>https://www.last.fm/music/Goldfrapp/_/Train</link>
-      <guid isPermaLink="false">Frippertron-1703517393--7b885d42-3c41-4f43-9944-a5855ec5155e---Train</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/64716e63de629c8b3360c2cc2dd92c04.png" length="100972" type="image/png"/>
-      <pubDate>Mon, 25 Dec 2023 10:16:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Dec 2023 19:37:41 +0000</lastBuildDate>
     <item>
       <title>Sparks - Thank God It's Not Christmas (54 plays)</title>
       <link>https://www.last.fm/music/Sparks/_/Thank+God+It%27s+Not+Christmas</link>
@@ -30,7 +16,7 @@
       <pubDate>Mon, 25 Dec 2023 10:20:44 -0500</pubDate>
     </item>
     <item>
-      <title>George Michael - Freeek! (4 plays)</title>
+      <title>George Michael - Freeek! (5 plays)</title>
       <link>https://www.last.fm/music/George+Michael/_/Freeek!</link>
       <guid isPermaLink="false">Frippertron-1703601887--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Freeek!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9d8229d3f304028c05364e498ad34e8.png" length="36545" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703618445--a4e31e59-e662-4cf4-bd4f-d7bf712bc21f---So Early in the Spring</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e8c059c620f4f5693fbe9adfc8af27e.jpg" length="31895" type="image/jpeg"/>
       <pubDate>Tue, 26 Dec 2023 14:20:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fabrizio De André - La Bomba In Testa (1 play)</title>
+      <link>https://www.last.fm/music/Fabrizio+De+Andr%C3%A9/_/La+Bomba+In+Testa</link>
+      <guid isPermaLink="false">Frippertron-1703618643--204db5a8-78f1-4078-801f-ae8f456eeb60---La Bomba In Testa</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/09a046cc8647468cbd6adc71542c20d8.jpg" length="20167" type="image/jpeg"/>
+      <pubDate>Tue, 26 Dec 2023 14:24:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>George Michael - Freeek! (5 plays)</title>
+      <link>https://www.last.fm/music/George+Michael/_/Freeek!</link>
+      <guid isPermaLink="false">Frippertron-1703619013--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Freeek!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9d8229d3f304028c05364e498ad34e8.png" length="36545" type="image/png"/>
+      <pubDate>Tue, 26 Dec 2023 14:30:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
