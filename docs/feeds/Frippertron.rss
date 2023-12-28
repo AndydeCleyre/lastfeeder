@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Dec 2023 06:52:35 +0000</lastBuildDate>
-    <item>
-      <title>Flash - Lifetime (27 plays)</title>
-      <link>https://www.last.fm/music/Flash/_/Lifetime</link>
-      <guid isPermaLink="false">Frippertron-1703730367--Flash---Lifetime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3615ac2268bf2750d2a3478ab84c33b6.jpg" length="20402" type="image/jpeg"/>
-      <pubDate>Wed, 27 Dec 2023 21:26:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Bring Me The Disco King (77 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Bring+Me+The+Disco+King</link>
-      <guid isPermaLink="false">Frippertron-1703731001--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bring Me The Disco King</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45d9302a3796493dc908e8028dd0098e.png" length="180524" type="image/png"/>
-      <pubDate>Wed, 27 Dec 2023 21:36:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Dec 2023 07:14:59 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Loving the Alien (134 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703746078--64ba761f-f24d-4bee-a9d6-ce0378c22ae9---The Return of Mickey Milan</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dff7a9cbe0c4bb4d3354708dad475e69.jpg" length="28709" type="image/jpeg"/>
       <pubDate>Thu, 28 Dec 2023 01:47:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alan Palomo - Stay-At-Home D.J. (11 plays)</title>
+      <link>https://www.last.fm/music/Alan+Palomo/_/Stay-At-Home+D.J.</link>
+      <guid isPermaLink="false">Frippertron-1703746327--Alan Palomo---Stay-At-Home D.J.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dff7a9cbe0c4bb4d3354708dad475e69.jpg" length="28709" type="image/jpeg"/>
+      <pubDate>Thu, 28 Dec 2023 01:52:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alan Palomo - Club People (8 plays)</title>
+      <link>https://www.last.fm/music/Alan+Palomo/_/Club+People</link>
+      <guid isPermaLink="false">Frippertron-1703746556--64ba761f-f24d-4bee-a9d6-ce0378c22ae9---Club People</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dff7a9cbe0c4bb4d3354708dad475e69.jpg" length="28709" type="image/jpeg"/>
+      <pubDate>Thu, 28 Dec 2023 01:55:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
