@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Dec 2023 10:52:07 +0000</lastBuildDate>
-    <item>
-      <title>George Michael - Freeek! (21 plays)</title>
-      <link>https://www.last.fm/music/George+Michael/_/Freeek!</link>
-      <guid isPermaLink="false">Frippertron-1703827677--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Freeek!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9d8229d3f304028c05364e498ad34e8.png" length="36545" type="image/png"/>
-      <pubDate>Fri, 29 Dec 2023 00:27:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roy Wood - Any Old Time Will Do (45 plays)</title>
-      <link>https://www.last.fm/music/Roy+Wood/_/Any+Old+Time+Will+Do</link>
-      <guid isPermaLink="false">Frippertron-1703827939--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---Any Old Time Will Do</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/943f8e408aa94287a6b9b80580f2ba6e.jpg" length="33314" type="image/jpeg"/>
-      <pubDate>Fri, 29 Dec 2023 00:32:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Dec 2023 11:14:38 +0000</lastBuildDate>
     <item>
       <title>Roy Wood - The Rain Came Down On Everything (15 plays)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/The+Rain+Came+Down+On+Everything</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703846893--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Flawless (Go to the City)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9d8229d3f304028c05364e498ad34e8.png" length="36545" type="image/png"/>
       <pubDate>Fri, 29 Dec 2023 05:48:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>George Michael - Freeek! (22 plays)</title>
+      <link>https://www.last.fm/music/George+Michael/_/Freeek!</link>
+      <guid isPermaLink="false">Frippertron-1703847342--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Freeek!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9d8229d3f304028c05364e498ad34e8.png" length="36545" type="image/png"/>
+      <pubDate>Fri, 29 Dec 2023 05:55:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yes - Yours Is No Disgrace (50 plays)</title>
+      <link>https://www.last.fm/music/Yes/_/Yours+Is+No+Disgrace</link>
+      <guid isPermaLink="false">Frippertron-1703847768--8353f93f-163e-48c2-bb75-9f18987a3d46---Yours Is No Disgrace</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81e31e9b386738d9ef0ea1966ae1f3ef.jpg" length="19085" type="image/jpeg"/>
+      <pubDate>Fri, 29 Dec 2023 06:02:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
