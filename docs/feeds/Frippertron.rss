@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Dec 2023 02:37:45 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Future Legend (44 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Future+Legend</link>
-      <guid isPermaLink="false">Frippertron-1703756387--5441c29d-3602-4898-b1a1-b77fa23b8e50---Future Legend</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c502e85f1096b5ee462e10d45faf951.jpg" length="29325" type="image/jpeg"/>
-      <pubDate>Thu, 28 Dec 2023 04:39:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Diamond Dogs (116 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Diamond+Dogs</link>
-      <guid isPermaLink="false">Frippertron-1703756448--5441c29d-3602-4898-b1a1-b77fa23b8e50---Diamond Dogs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c502e85f1096b5ee462e10d45faf951.jpg" length="29325" type="image/jpeg"/>
-      <pubDate>Thu, 28 Dec 2023 04:40:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Dec 2023 02:52:11 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Sweet Thing (211 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Sweet+Thing</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703816945--Flash---Small Beginnings</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/967a5fd2381740f1c04fe320e88bc92b.jpg" length="17188" type="image/jpeg"/>
       <pubDate>Thu, 28 Dec 2023 21:29:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Flash - Morning Haze (1 play)</title>
+      <link>https://www.last.fm/music/Flash/_/Morning+Haze</link>
+      <guid isPermaLink="false">Frippertron-1703817508--Flash---Morning Haze</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/967a5fd2381740f1c04fe320e88bc92b.jpg" length="17188" type="image/jpeg"/>
+      <pubDate>Thu, 28 Dec 2023 21:38:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Flash - Children of the Universe (1 play)</title>
+      <link>https://www.last.fm/music/Flash/_/Children+of+the+Universe</link>
+      <guid isPermaLink="false">Frippertron-1703817789--Flash---Children of the Universe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/967a5fd2381740f1c04fe320e88bc92b.jpg" length="17188" type="image/jpeg"/>
+      <pubDate>Thu, 28 Dec 2023 21:43:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
