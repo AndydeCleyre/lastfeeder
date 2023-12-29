@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Dec 2023 20:16:22 +0000</lastBuildDate>
-    <item>
-      <title>Focus - Sylvia (4 plays)</title>
-      <link>https://www.last.fm/music/Focus/_/Sylvia</link>
-      <guid isPermaLink="false">Frippertron-1703833390--821e11d6-cfec-44a7-9615-06a4e631c975---Sylvia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b847cac623a47609411afd6deca5aa5.jpg" length="6257" type="image/jpeg"/>
-      <pubDate>Fri, 29 Dec 2023 02:03:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Dec 2023 20:52:53 +0000</lastBuildDate>
     <item>
       <title>Focus - Hocus Pocus (Reprise) (4 plays)</title>
       <link>https://www.last.fm/music/Focus/_/Hocus+Pocus+(Reprise)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1703880554--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Main Street</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76374c6e7ef54ad7cab1a8113a374056.jpg" length="33655" type="image/jpeg"/>
       <pubDate>Fri, 29 Dec 2023 15:09:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wizzard - The Fire in His Guitar (5 plays)</title>
+      <link>https://www.last.fm/music/Wizzard/_/The+Fire+in+His+Guitar</link>
+      <guid isPermaLink="false">Frippertron-1703880919--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---The Fire in His Guitar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76374c6e7ef54ad7cab1a8113a374056.jpg" length="33655" type="image/jpeg"/>
+      <pubDate>Fri, 29 Dec 2023 15:15:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
