@@ -7,32 +7,11 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Dec 2023 02:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 02:40:21 +0000</lastBuildDate>
     <item>
-      <title>The Little 'uns - Ten Times Table (2 plays)</title>
-      <link>https://www.last.fm/music/The+Little+%27uns/_/Ten+Times+Table</link>
-      <guid isPermaLink="false">ddgromit-1703886787--The Little 'uns---Ten Times Table</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96747f48d0e0cf194f19f27dc857ce36.jpg" length="16159" type="image/jpeg"/>
-      <pubDate>Fri, 29 Dec 2023 16:53:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>Muffin Songs - Walking Walking (3 plays)</title>
-      <link>https://www.last.fm/music/Muffin+Songs/_/Walking+Walking</link>
-      <guid isPermaLink="false">ddgromit-1703886844--Muffin Songs---Walking Walking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c8eb07064d4b1c5ba7df6842fefcb5.jpg" length="31318" type="image/jpeg"/>
-      <pubDate>Fri, 29 Dec 2023 16:54:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Piccolo Music - Incy Wincy Spider (2 plays)</title>
+      <title>Piccolo Music - Incy Wincy Spider (3 plays)</title>
       <link>https://www.last.fm/music/Piccolo+Music/_/Incy+Wincy+Spider</link>
-      <guid isPermaLink="false">ddgromit-1703886903--Piccolo Music---Incy Wincy Spider</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 29 Dec 2023 16:55:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>LooLoo Kids - The Helpful Little Girl (1 play)</title>
-      <link>https://www.last.fm/music/LooLoo+Kids/_/The+Helpful+Little+Girl</link>
-      <guid isPermaLink="false">ddgromit-1703886983--LooLoo Kids---The Helpful Little Girl</guid>
+      <guid isPermaLink="false">ddgromit-1703886983--Piccolo Music---Incy Wincy Spider</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 29 Dec 2023 16:56:23 -0500</pubDate>
     </item>
@@ -264,7 +243,6 @@
       <title>John Coltrane Quartet - It's Easy To Remember (2 plays)</title>
       <link>https://www.last.fm/music/John+Coltrane+Quartet/_/It%27s+Easy+To+Remember</link>
       <guid isPermaLink="false">ddgromit-1703899708--a43270af-bc4a-4552-847e-617b11f38d7b---It's Easy To Remember</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/31f396ca9251c82651e4859885890579.jpg" length="16076" type="image/jpeg"/>
       <pubDate>Fri, 29 Dec 2023 20:28:28 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">ddgromit-1703903044--1ba1d493-7114-45e2-b163-a36d49a0c065---The Touch Of Your Lips</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/376b336a87ca34185eff40b0c0e80681.jpg" length="13511" type="image/jpeg"/>
       <pubDate>Fri, 29 Dec 2023 21:24:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ben Webster - Tenderly (1 play)</title>
+      <link>https://www.last.fm/music/Ben+Webster/_/Tenderly</link>
+      <guid isPermaLink="false">ddgromit-1703903207--e28c0b26-3bdb-45dc-b4f5-f309c7c35ec4---Tenderly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ec5d9385c5e3453c8d624531a441ae70.jpg" length="34030" type="image/jpeg"/>
+      <pubDate>Fri, 29 Dec 2023 21:26:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Groove Trio - Love is the answer (1 play)</title>
+      <link>https://www.last.fm/music/The+Groove+Trio/_/Love+is+the+answer</link>
+      <guid isPermaLink="false">ddgromit-1703903389--The Groove Trio---Love is the answer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ce6ffa939c95740f1bb2d0dd89c03a0.png" length="136140" type="image/png"/>
+      <pubDate>Fri, 29 Dec 2023 21:29:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Three Queens - Moved by Performance (1 play)</title>
+      <link>https://www.last.fm/music/The+Three+Queens/_/Moved+by+Performance</link>
+      <guid isPermaLink="false">ddgromit-1703903746--fc8d08c7-5f11-42e4-8a20-479842ca77a7---Moved by Performance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 29 Dec 2023 21:35:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
