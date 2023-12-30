@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Dec 2023 20:52:53 +0000</lastBuildDate>
-    <item>
-      <title>Focus - Hocus Pocus (Reprise) (4 plays)</title>
-      <link>https://www.last.fm/music/Focus/_/Hocus+Pocus+(Reprise)</link>
-      <guid isPermaLink="false">Frippertron-1703837029--821e11d6-cfec-44a7-9615-06a4e631c975---Hocus Pocus (Reprise)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b847cac623a47609411afd6deca5aa5.jpg" length="6257" type="image/jpeg"/>
-      <pubDate>Fri, 29 Dec 2023 03:03:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>black midi - Chondromalacia Patella (175 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Chondromalacia+Patella</link>
-      <guid isPermaLink="false">Frippertron-1703837203--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Chondromalacia Patella</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
-      <pubDate>Fri, 29 Dec 2023 03:06:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 Dec 2023 01:10:39 +0000</lastBuildDate>
     <item>
       <title>black midi - Talking Heads (110 plays)</title>
       <link>https://www.last.fm/music/black+midi/_/Talking+Heads</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1703880919--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---The Fire in His Guitar</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76374c6e7ef54ad7cab1a8113a374056.jpg" length="33655" type="image/jpeg"/>
       <pubDate>Fri, 29 Dec 2023 15:15:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Focus - Sylvia (5 plays)</title>
+      <link>https://www.last.fm/music/Focus/_/Sylvia</link>
+      <guid isPermaLink="false">Frippertron-1703894075--821e11d6-cfec-44a7-9615-06a4e631c975---Sylvia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b847cac623a47609411afd6deca5aa5.jpg" length="6257" type="image/jpeg"/>
+      <pubDate>Fri, 29 Dec 2023 18:54:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Focus - Hocus Pocus (Reprise) (5 plays)</title>
+      <link>https://www.last.fm/music/Focus/_/Hocus+Pocus+(Reprise)</link>
+      <guid isPermaLink="false">Frippertron-1703894243--821e11d6-cfec-44a7-9615-06a4e631c975---Hocus Pocus (Reprise)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b847cac623a47609411afd6deca5aa5.jpg" length="6257" type="image/jpeg"/>
+      <pubDate>Fri, 29 Dec 2023 18:57:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
