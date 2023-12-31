@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Dec 2023 14:39:01 +0000</lastBuildDate>
-    <item>
-      <title>Focus - Focus II (2 plays)</title>
-      <link>https://www.last.fm/music/Focus/_/Focus+II</link>
-      <guid isPermaLink="false">Frippertron-1703934664--821e11d6-cfec-44a7-9615-06a4e631c975---Focus II</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b847cac623a47609411afd6deca5aa5.jpg" length="6257" type="image/jpeg"/>
-      <pubDate>Sat, 30 Dec 2023 06:11:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Focus - Eruption (2 plays)</title>
-      <link>https://www.last.fm/music/Focus/_/Eruption</link>
-      <guid isPermaLink="false">Frippertron-1703934945--821e11d6-cfec-44a7-9615-06a4e631c975---Eruption</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b847cac623a47609411afd6deca5aa5.jpg" length="6257" type="image/jpeg"/>
-      <pubDate>Sat, 30 Dec 2023 06:15:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Dec 2023 14:52:09 +0000</lastBuildDate>
     <item>
       <title>Focus - Hocus Pocus (17 plays)</title>
       <link>https://www.last.fm/music/Focus/_/Hocus+Pocus</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1704033145--Flash---Morning Haze</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/967a5fd2381740f1c04fe320e88bc92b.jpg" length="17188" type="image/jpeg"/>
       <pubDate>Sun, 31 Dec 2023 09:32:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Flash - Children of the Universe (2 plays)</title>
+      <link>https://www.last.fm/music/Flash/_/Children+of+the+Universe</link>
+      <guid isPermaLink="false">Frippertron-1704033426--Flash---Children of the Universe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/967a5fd2381740f1c04fe320e88bc92b.jpg" length="17188" type="image/jpeg"/>
+      <pubDate>Sun, 31 Dec 2023 09:37:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Flash - Dreams of Heaven (1 play)</title>
+      <link>https://www.last.fm/music/Flash/_/Dreams+of+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1704033967--Flash---Dreams of Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/967a5fd2381740f1c04fe320e88bc92b.jpg" length="17188" type="image/jpeg"/>
+      <pubDate>Sun, 31 Dec 2023 09:46:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
