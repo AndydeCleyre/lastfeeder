@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jan 2024 03:37:23 +0000</lastBuildDate>
-    <item>
-      <title>Enya - Watermark (2 plays)</title>
-      <link>https://www.last.fm/music/Enya/_/Watermark</link>
-      <guid isPermaLink="false">ddgromit-1704063004--4967c0a1-b9f3-465e-8440-4598fd9fc33c---Watermark</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/636d4d7e29efb7966c7035a866c51a75.png" length="211581" type="image/png"/>
-      <pubDate>Sun, 31 Dec 2023 17:50:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Enya - A Day Without Rain (2 plays)</title>
-      <link>https://www.last.fm/music/Enya/_/A+Day+Without+Rain</link>
-      <guid isPermaLink="false">ddgromit-1704063149--4967c0a1-b9f3-465e-8440-4598fd9fc33c---A Day Without Rain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d6a333808f4a1e7cd69d30ed457248e.jpg" length="23302" type="image/jpeg"/>
-      <pubDate>Sun, 31 Dec 2023 17:52:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Enya - Wild Child (1 play)</title>
-      <link>https://www.last.fm/music/Enya/_/Wild+Child</link>
-      <guid isPermaLink="false">ddgromit-1704063306--4967c0a1-b9f3-465e-8440-4598fd9fc33c---Wild Child</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d6a333808f4a1e7cd69d30ed457248e.jpg" length="23302" type="image/jpeg"/>
-      <pubDate>Sun, 31 Dec 2023 17:55:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jan 2024 03:52:15 +0000</lastBuildDate>
     <item>
       <title>Mallrat - Groceries (7 plays)</title>
       <link>https://www.last.fm/music/Mallrat/_/Groceries</link>
@@ -324,7 +303,7 @@
       <pubDate>Sun, 31 Dec 2023 22:16:43 -0500</pubDate>
     </item>
     <item>
-      <title>Robyn - Ever Again (14 plays)</title>
+      <title>Robyn - Ever Again (15 plays)</title>
       <link>https://www.last.fm/music/Robyn/_/Ever+Again</link>
       <guid isPermaLink="false">ddgromit-1704079066--5a8e07d5-d932-4484-a7f7-e700793a9c94---Ever Again</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86269e8cd4f97272e669a41f0e72f7bc.png" length="134847" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1704079857--37740f6a-5873-420c-a72a-775aefe736b5---Rhythm (Of The Night)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/991b056392f94360ee0c44c6722ef76a.jpg" length="19228" type="image/jpeg"/>
       <pubDate>Sun, 31 Dec 2023 22:30:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Robyn - Ever Again (15 plays)</title>
+      <link>https://www.last.fm/music/Robyn/_/Ever+Again</link>
+      <guid isPermaLink="false">ddgromit-1704080047--5a8e07d5-d932-4484-a7f7-e700793a9c94---Ever Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86269e8cd4f97272e669a41f0e72f7bc.png" length="134847" type="image/png"/>
+      <pubDate>Sun, 31 Dec 2023 22:34:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Khruangbin - A Calf Born In Winter (5 plays)</title>
+      <link>https://www.last.fm/music/Khruangbin/_/A+Calf+Born+In+Winter</link>
+      <guid isPermaLink="false">ddgromit-1704080327--aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634---A Calf Born In Winter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57a97dbfcc7282f1b95a64c8f5d31660.jpg" length="16934" type="image/jpeg"/>
+      <pubDate>Sun, 31 Dec 2023 22:38:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chris Isaak - Wicked Game (9 plays)</title>
+      <link>https://www.last.fm/music/Chris+Isaak/_/Wicked+Game</link>
+      <guid isPermaLink="false">ddgromit-1704080536--479497d4-e7c2-4e78-972e-56e78fac3995---Wicked Game</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/524cf31b83014fcd8db3d83dfcf7eaf0.png" length="198075" type="image/png"/>
+      <pubDate>Sun, 31 Dec 2023 22:42:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
