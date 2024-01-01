@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jan 2024 09:37:24 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - Run (5 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Run</link>
-      <guid isPermaLink="false">Arcade1996-1703564509--67f66c07-6e61-4026-ade5-7e782fad3a5d---Run</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d5d57d52ebe8e00879960dd7cdcf9709.png" length="146589" type="image/png"/>
-      <pubDate>Mon, 25 Dec 2023 23:21:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gee Tee - Goodnight Neanderthal (1 play)</title>
-      <link>https://www.last.fm/music/Gee+Tee/_/Goodnight+Neanderthal</link>
-      <guid isPermaLink="false">Arcade1996-1703564890--2ce1b4bf-4bff-4954-b741-2ca70cb35c7f---Goodnight Neanderthal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c14b7a139df24bc16a99b9972bef8e1.png" length="198743" type="image/png"/>
-      <pubDate>Mon, 25 Dec 2023 23:28:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jan 2024 11:13:37 +0000</lastBuildDate>
     <item>
       <title>Gee Tee - (I Hate) Drivin In The City (1 play)</title>
       <link>https://www.last.fm/music/Gee+Tee/_/(I+Hate)+Drivin+In+The+City</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1704100517--f053ae01-dae6-4aae-9883-e8c279fdbef4---Crazy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19221cc680594fa3cf00d5936fae0598.png" length="30539" type="image/png"/>
       <pubDate>Mon, 01 Jan 2024 04:15:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chicane - Saltwater (1 play)</title>
+      <link>https://www.last.fm/music/Chicane/_/Saltwater</link>
+      <guid isPermaLink="false">Arcade1996-1704100923--8b506e4a-c343-467b-aad6-300a9bfac355---Saltwater</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2c0a129c2d74854b005f2923ed11645.jpg" length="10184" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jan 2024 04:22:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Weather Report - Birdland (1 play)</title>
+      <link>https://www.last.fm/music/Weather+Report/_/Birdland</link>
+      <guid isPermaLink="false">Arcade1996-1704106434--0f9997bd-e079-429e-8ccd-9378c9b0c746---Birdland</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/73a9241c5b184dfca21a1512aa76187d.png" length="230084" type="image/png"/>
+      <pubDate>Mon, 01 Jan 2024 05:53:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
