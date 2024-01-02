@@ -7,63 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 03:52:09 +0000</lastBuildDate>
-    <item>
-      <title>Dustin O'Halloran - Home (1 play)</title>
-      <link>https://www.last.fm/music/Dustin+O%27Halloran/_/Home</link>
-      <guid isPermaLink="false">ddgromit-1704157059--40c9866d-ae1b-4445-9542-bcc4d5ab9d9e---Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c00fde6a99ffbfcd70bbcfb6b6a279f2.png" length="109632" type="image/png"/>
-      <pubDate>Mon, 01 Jan 2024 19:57:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>beabadoobee - Glue Song (feat. Clairo) (4 plays)</title>
-      <link>https://www.last.fm/music/beabadoobee/_/Glue+Song+(feat.+Clairo)</link>
-      <guid isPermaLink="false">ddgromit-1704157221--88d17133-abbc-42db-9526-4e2c1db60336---Glue Song (feat. Clairo)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45f7a9d361a2fa9df83dfefaada8749d.jpg" length="9057" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jan 2024 20:00:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Khruangbin - Mariella (2 plays)</title>
-      <link>https://www.last.fm/music/Khruangbin/_/Mariella</link>
-      <guid isPermaLink="false">ddgromit-1704157356--aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634---Mariella</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1abd41b69b5f00d7030c97ef5d2803fb.jpg" length="23091" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jan 2024 20:02:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Crumb - Ghostride (2 plays)</title>
-      <link>https://www.last.fm/music/Crumb/_/Ghostride</link>
-      <guid isPermaLink="false">ddgromit-1704157667--b747dabe-b66c-48f6-bae6-b5e16d86b9ab---Ghostride</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/56652e1b2b7b38035c843e3bd270b3ad.jpg" length="15705" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jan 2024 20:07:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>Leisure - Got It Bad (9 plays)</title>
-      <link>https://www.last.fm/music/Leisure/_/Got+It+Bad</link>
-      <guid isPermaLink="false">ddgromit-1704157794--f67d22da-7fe8-40f8-8495-b903e74fd094---Got It Bad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4334f03d9e6625100c9e51cc5e17fb39.jpg" length="10460" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jan 2024 20:09:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>TWO LANES - Healing (1 play)</title>
-      <link>https://www.last.fm/music/TWO+LANES/_/Healing</link>
-      <guid isPermaLink="false">ddgromit-1704158188--TWO LANES---Healing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30d361f7e4442f5e5bdee6884780c46f.jpg" length="10433" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jan 2024 20:16:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pop Goes Ambient - Somebody Else (1 play)</title>
-      <link>https://www.last.fm/music/Pop+Goes+Ambient/_/Somebody+Else</link>
-      <guid isPermaLink="false">ddgromit-1704158440--Pop Goes Ambient---Somebody Else</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79f24308858ad4a8f7753565c0744cd5.jpg" length="16798" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jan 2024 20:20:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Harry Styles - As It Was (9 plays)</title>
-      <link>https://www.last.fm/music/Harry+Styles/_/As+It+Was</link>
-      <guid isPermaLink="false">ddgromit-1704158627--7eb1ce54-a355-41f9-8d68-e018b096d427---As It Was</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg" length="11800" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jan 2024 20:23:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jan 2024 04:19:57 +0000</lastBuildDate>
     <item>
       <title>JVKE - golden hour (5 plays)</title>
       <link>https://www.last.fm/music/JVKE/_/golden+hour</link>
@@ -357,6 +301,62 @@
       <guid isPermaLink="false">ddgromit-1704167236--fa58cf24-0e44-421d-8519-8bf461dcfaa5---My Love Mine All Mine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/788dfbc94a424d3b344aa97e68f68eed.jpg" length="20331" type="image/jpeg"/>
       <pubDate>Mon, 01 Jan 2024 22:47:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bon Iver - Beach Baby (4 plays)</title>
+      <link>https://www.last.fm/music/Bon+Iver/_/Beach+Baby</link>
+      <guid isPermaLink="false">ddgromit-1704167375--437a0e49-c6ae-42f6-a6c1-84f25ed366bc---Beach Baby</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/982a1b665901461a8d109d631b3e6a15.png" length="95277" type="image/png"/>
+      <pubDate>Mon, 01 Jan 2024 22:49:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Men I Trust - Serenade of Water (3 plays)</title>
+      <link>https://www.last.fm/music/Men+I+Trust/_/Serenade+of+Water</link>
+      <guid isPermaLink="false">ddgromit-1704167535--25ab7547-a4d2-480b-b028-c7f3497bc858---Serenade of Water</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de915bce509904328f870e8c52a47c6b.png" length="185118" type="image/png"/>
+      <pubDate>Mon, 01 Jan 2024 22:52:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leisure - Miles Away (1 play)</title>
+      <link>https://www.last.fm/music/Leisure/_/Miles+Away</link>
+      <guid isPermaLink="false">ddgromit-1704167721--f67d22da-7fe8-40f8-8495-b903e74fd094---Miles Away</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3bc06f5fbf763ddc197d2fe68134b4f.jpg" length="15033" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jan 2024 22:55:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>TWO LANES - Belong (1 play)</title>
+      <link>https://www.last.fm/music/TWO+LANES/_/Belong</link>
+      <guid isPermaLink="false">ddgromit-1704167958--TWO LANES---Belong</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30d361f7e4442f5e5bdee6884780c46f.jpg" length="10433" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jan 2024 22:59:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Salvia Palth - (Dream) (1 play)</title>
+      <link>https://www.last.fm/music/Salvia+Palth/_/(Dream)</link>
+      <guid isPermaLink="false">ddgromit-1704168269--7aebd6f6-6af0-4beb-be1b-3957eb47de6d---(Dream)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/323152d84723dbc94145bfb5659ac354.png" length="212505" type="image/png"/>
+      <pubDate>Mon, 01 Jan 2024 23:04:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Free Nationals - Eternal Light (3 plays)</title>
+      <link>https://www.last.fm/music/Free+Nationals/_/Eternal+Light</link>
+      <guid isPermaLink="false">ddgromit-1704168354--a536dd07-131b-48ef-ab47-141b752ba082---Eternal Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a6820b92477ea180d2007640a56e8f7.jpg" length="12480" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jan 2024 23:05:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Seb Wildblood - amelia (7 plays)</title>
+      <link>https://www.last.fm/music/Seb+Wildblood/_/amelia</link>
+      <guid isPermaLink="false">ddgromit-1704168548--Seb Wildblood---amelia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7cffb6305fd7e506334b1ada5549eb95.jpg" length="15026" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jan 2024 23:09:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neil Frances - On the Lookout (6 plays)</title>
+      <link>https://www.last.fm/music/Neil+Frances/_/On+the+Lookout</link>
+      <guid isPermaLink="false">ddgromit-1704168811--Neil Frances---On the Lookout</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b404ce49345795abb6f36bda4a5db20.jpg" length="18108" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jan 2024 23:13:31 -0500</pubDate>
     </item>
   </channel>
 </rss>

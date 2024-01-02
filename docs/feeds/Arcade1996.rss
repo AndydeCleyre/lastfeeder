@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 03:52:32 +0000</lastBuildDate>
-    <item>
-      <title>Seal - Wild (3 plays)</title>
-      <link>https://www.last.fm/music/Seal/_/Wild</link>
-      <guid isPermaLink="false">Arcade1996-1703893886--f053ae01-dae6-4aae-9883-e8c279fdbef4---Wild</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19221cc680594fa3cf00d5936fae0598.png" length="30539" type="image/png"/>
-      <pubDate>Fri, 29 Dec 2023 18:51:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jan 2024 04:19:35 +0000</lastBuildDate>
     <item>
       <title>Seal - Show Me (2 plays)</title>
       <link>https://www.last.fm/music/Seal/_/Show+Me</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1704167183--77803ef6-1029-4901-adb9-29697fb97dad---Play The Ghost</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/877ba0db7cb1d89d05e6c8995a1c64c8.png" length="190076" type="image/png"/>
       <pubDate>Mon, 01 Jan 2024 22:46:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kllo - Affection (1 play)</title>
+      <link>https://www.last.fm/music/Kllo/_/Affection</link>
+      <guid isPermaLink="false">Arcade1996-1704167485--a1772ea7-2b4c-4f8d-973b-aac4efcafff0---Affection</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/313aaa21327394d57437fc2e1df11064.jpg" length="5697" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jan 2024 22:51:25 -0500</pubDate>
     </item>
   </channel>
 </rss>
