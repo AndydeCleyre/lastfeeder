@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jan 2024 10:52:24 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Lazarus (37 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Lazarus</link>
-      <guid isPermaLink="false">Frippertron-1704256721--5441c29d-3602-4898-b1a1-b77fa23b8e50---Lazarus</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
-      <pubDate>Tue, 02 Jan 2024 23:38:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Sue (Or in a Season of Crime) (63 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Sue+(Or+in+a+Season+of+Crime)</link>
-      <guid isPermaLink="false">Frippertron-1704257105--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sue (Or in a Season of Crime)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
-      <pubDate>Tue, 02 Jan 2024 23:45:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Girl Loves Me (37 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Girl+Loves+Me</link>
-      <guid isPermaLink="false">Frippertron-1704257388--5441c29d-3602-4898-b1a1-b77fa23b8e50---Girl Loves Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
-      <pubDate>Tue, 02 Jan 2024 23:49:48 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jan 2024 11:14:20 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Dollar Days (29 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Dollar+Days</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1704278668--Flash---Lifetime</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3615ac2268bf2750d2a3478ab84c33b6.jpg" length="20402" type="image/jpeg"/>
       <pubDate>Wed, 03 Jan 2024 05:44:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Flash - Dreams of Heaven (3 plays)</title>
+      <link>https://www.last.fm/music/Flash/_/Dreams+of+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1704279282--Flash---Dreams of Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/967a5fd2381740f1c04fe320e88bc92b.jpg" length="17188" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jan 2024 05:54:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wizzard - Gotta Crush (About You) (12 plays)</title>
+      <link>https://www.last.fm/music/Wizzard/_/Gotta+Crush+(About+You)</link>
+      <guid isPermaLink="false">Frippertron-1704280062--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Gotta Crush (About You)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a45b75946338a2a120b54aca770c006.jpg" length="24083" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jan 2024 06:07:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wizzard - See My Baby Jive (13 plays)</title>
+      <link>https://www.last.fm/music/Wizzard/_/See+My+Baby+Jive</link>
+      <guid isPermaLink="false">Frippertron-1704280283--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---See My Baby Jive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a45b75946338a2a120b54aca770c006.jpg" length="24083" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jan 2024 06:11:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
