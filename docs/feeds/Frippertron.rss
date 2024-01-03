@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jan 2024 10:17:32 +0000</lastBuildDate>
-    <item>
-      <title>Wizzard - Main Street (12 plays)</title>
-      <link>https://www.last.fm/music/Wizzard/_/Main+Street</link>
-      <guid isPermaLink="false">Frippertron-1704255093--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Main Street</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76374c6e7ef54ad7cab1a8113a374056.jpg" length="33655" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jan 2024 23:11:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Flick Of The Wrist (standalone version) (5 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Flick+Of+The+Wrist+(standalone+version)</link>
-      <guid isPermaLink="false">Frippertron-1704255452--Queen---Flick Of The Wrist (standalone version)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e677a1c6e7284a5799823fb8137c88ca.png" length="173493" type="image/png"/>
-      <pubDate>Tue, 02 Jan 2024 23:17:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>XTC - Meccanik Dancing (Oh We Go!) (19 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/Meccanik+Dancing+(Oh+We+Go!)</link>
-      <guid isPermaLink="false">Frippertron-1704255659--fbf3ad2d-2561-4d8b-9ae2-70a11696efbf---Meccanik Dancing (Oh We Go!)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30a053c0d8bb783dddd41c24d09b3eec.jpg" length="44403" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jan 2024 23:20:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jan 2024 10:37:43 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Blackstar (47 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Blackstar</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1704275893--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Olive Tree</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
       <pubDate>Wed, 03 Jan 2024 04:58:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Love Can Heal (7 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Love+Can+Heal</link>
+      <guid isPermaLink="false">Frippertron-1704277039--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Love Can Heal</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jan 2024 05:17:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - This is Home (7 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/This+is+Home</link>
+      <guid isPermaLink="false">Frippertron-1704277405--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---This is Home</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jan 2024 05:23:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - And Still (7 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/And+Still</link>
+      <guid isPermaLink="false">Frippertron-1704277712--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---And Still</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aba3e947061b788834d9415420e716ee.jpg" length="11057" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jan 2024 05:28:32 -0500</pubDate>
     </item>
   </channel>
 </rss>
