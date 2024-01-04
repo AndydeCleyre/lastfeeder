@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jan 2024 11:25:40 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Sheer Heart Attack (82 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Sheer+Heart+Attack</link>
-      <guid isPermaLink="false">Frippertron-1704343653--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Sheer Heart Attack</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2220b5d920e64379b920b1a2e29b4950.png" length="211756" type="image/png"/>
-      <pubDate>Wed, 03 Jan 2024 23:47:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - All Dead, All Dead (10 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/All+Dead,+All+Dead</link>
-      <guid isPermaLink="false">Frippertron-1704343863--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---All Dead, All Dead</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2220b5d920e64379b920b1a2e29b4950.png" length="211756" type="image/png"/>
-      <pubDate>Wed, 03 Jan 2024 23:51:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Jan 2024 11:37:27 +0000</lastBuildDate>
     <item>
       <title>Queen - Spread Your Wings (51 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Spread+Your+Wings</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1704367053--98572ea2-67a6-4ea5-8a3b-fcd1740c0115---Can U Dig It</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 04 Jan 2024 06:17:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Derrick May - To Be or Not to Be (Off the Cuff mix) (1 play)</title>
+      <link>https://www.last.fm/music/Derrick+May/_/To+Be+or+Not+to+Be+(Off+the+Cuff+mix)</link>
+      <guid isPermaLink="false">Frippertron-1704367494--371c8525-8111-4497-83ba-1ead9d7ed148---To Be or Not to Be (Off the Cuff mix)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 04 Jan 2024 06:24:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>black midi - Talking Heads (112 plays)</title>
+      <link>https://www.last.fm/music/black+midi/_/Talking+Heads</link>
+      <guid isPermaLink="false">Frippertron-1704367975--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Talking Heads</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 04 Jan 2024 06:32:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
