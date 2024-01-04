@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jan 2024 02:53:47 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - I Can't Give Everything Away (36 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/I+Can%27t+Give+Everything+Away</link>
-      <guid isPermaLink="false">Frippertron-1704257969--5441c29d-3602-4898-b1a1-b77fa23b8e50---I Can't Give Everything Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
-      <pubDate>Tue, 02 Jan 2024 23:59:29 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Jan 2024 03:17:47 +0000</lastBuildDate>
     <item>
       <title>Geese - 3D Country (25 plays)</title>
       <link>https://www.last.fm/music/Geese/_/3D+Country</link>
@@ -324,7 +317,7 @@
       <pubDate>Wed, 03 Jan 2024 05:37:53 -0500</pubDate>
     </item>
     <item>
-      <title>Flash - Lifetime (31 plays)</title>
+      <title>Flash - Lifetime (32 plays)</title>
       <link>https://www.last.fm/music/Flash/_/Lifetime</link>
       <guid isPermaLink="false">Frippertron-1704278668--Flash---Lifetime</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3615ac2268bf2750d2a3478ab84c33b6.jpg" length="20402" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1704280591--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Meet Me at the Jailhouse</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a45b75946338a2a120b54aca770c006.jpg" length="24083" type="image/jpeg"/>
       <pubDate>Wed, 03 Jan 2024 06:16:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Flash - Lifetime (32 plays)</title>
+      <link>https://www.last.fm/music/Flash/_/Lifetime</link>
+      <guid isPermaLink="false">Frippertron-1704337711--Flash---Lifetime</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3615ac2268bf2750d2a3478ab84c33b6.jpg" length="20402" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jan 2024 22:08:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
