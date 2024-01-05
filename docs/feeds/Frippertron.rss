@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jan 2024 08:20:41 +0000</lastBuildDate>
-    <item>
-      <title>XTC - Love At First Sight (14 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/Love+At+First+Sight</link>
-      <guid isPermaLink="false">Frippertron-1704425147--fbf3ad2d-2561-4d8b-9ae2-70a11696efbf---Love At First Sight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8281a0ac73000ce53b80b0065484070.jpg" length="28709" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jan 2024 22:25:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>XTC - Rocket From a Bottle (26 plays)</title>
-      <link>https://www.last.fm/music/XTC/_/Rocket+From+a+Bottle</link>
-      <guid isPermaLink="false">Frippertron-1704425340--fbf3ad2d-2561-4d8b-9ae2-70a11696efbf---Rocket From a Bottle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8281a0ac73000ce53b80b0065484070.jpg" length="28709" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jan 2024 22:29:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Jan 2024 08:38:05 +0000</lastBuildDate>
     <item>
       <title>XTC - No Language in Our Lungs (20 plays)</title>
       <link>https://www.last.fm/music/XTC/_/No+Language+in+Our+Lungs</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1704442312--Roy Wood---Life Is Wonderful</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
       <pubDate>Fri, 05 Jan 2024 03:11:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Another Wrong Night (20 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Another+Wrong+Night</link>
+      <guid isPermaLink="false">Frippertron-1704442826--Roy Wood---Another Wrong Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
+      <pubDate>Fri, 05 Jan 2024 03:20:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Focus - Hocus Pocus (19 plays)</title>
+      <link>https://www.last.fm/music/Focus/_/Hocus+Pocus</link>
+      <guid isPermaLink="false">Frippertron-1704443474--821e11d6-cfec-44a7-9615-06a4e631c975---Hocus Pocus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b847cac623a47609411afd6deca5aa5.jpg" length="6257" type="image/jpeg"/>
+      <pubDate>Fri, 05 Jan 2024 03:31:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
