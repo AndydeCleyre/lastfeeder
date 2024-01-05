@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jan 2024 04:52:11 +0000</lastBuildDate>
-    <item>
-      <title>Morgan - Fire in the Head (60 plays)</title>
-      <link>https://www.last.fm/music/Morgan/_/Fire+in+the+Head</link>
-      <guid isPermaLink="false">Frippertron-1704356513--0c2386fd-35f4-49a9-9fe4-a4913d3be710---Fire in the Head</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jan 2024 03:21:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>Morgan - The Sleeper Wakes (39 plays)</title>
-      <link>https://www.last.fm/music/Morgan/_/The+Sleeper+Wakes</link>
-      <guid isPermaLink="false">Frippertron-1704356814--0c2386fd-35f4-49a9-9fe4-a4913d3be710---The Sleeper Wakes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jan 2024 03:26:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Jan 2024 05:15:38 +0000</lastBuildDate>
     <item>
       <title>Morgan - The Right (37 plays)</title>
       <link>https://www.last.fm/music/Morgan/_/The+Right</link>
@@ -222,7 +208,6 @@
       <title>The Saints - Know Your Product (33 plays)</title>
       <link>https://www.last.fm/music/The+Saints/_/Know+Your+Product</link>
       <guid isPermaLink="false">Frippertron-1704424130--The Saints---Know Your Product</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05a7ac70a1ba4ddf8b9157ad84799476.jpg" length="26830" type="image/jpeg"/>
       <pubDate>Thu, 04 Jan 2024 22:08:50 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1704429967--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Sweet Lady</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53f9a7a666a54a2dac8aef408e491715.jpg" length="21094" type="image/jpeg"/>
       <pubDate>Thu, 04 Jan 2024 23:46:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - White Queen (As It Began) (56 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/White+Queen+(As+It+Began)</link>
+      <guid isPermaLink="false">Frippertron-1704430229--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---White Queen (As It Began)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53f9a7a666a54a2dac8aef408e491715.jpg" length="21094" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jan 2024 23:50:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Flick of the Wrist (76 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Flick+of+the+Wrist</link>
+      <guid isPermaLink="false">Frippertron-1704430596--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Flick of the Wrist</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53f9a7a666a54a2dac8aef408e491715.jpg" length="21094" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jan 2024 23:56:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
