@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jan 2024 10:39:07 +0000</lastBuildDate>
-    <item>
-      <title>Wizzard - Main Street (13 plays)</title>
-      <link>https://www.last.fm/music/Wizzard/_/Main+Street</link>
-      <guid isPermaLink="false">Frippertron-1704688556--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Main Street</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76374c6e7ef54ad7cab1a8113a374056.jpg" length="33655" type="image/jpeg"/>
-      <pubDate>Sun, 07 Jan 2024 23:35:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Japan - Talking Drum (92 plays)</title>
-      <link>https://www.last.fm/music/Japan/_/Talking+Drum</link>
-      <guid isPermaLink="false">Frippertron-1704689115--Japan---Talking Drum</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
-      <pubDate>Sun, 07 Jan 2024 23:45:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Jan 2024 10:52:16 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - 10538 Overture (44 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/10538+Overture</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1704709744--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---IMPERIAL SMOKE TOWN</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5698f9be99fb6b519ecdd069a2ca2606.jpg" length="9972" type="image/jpeg"/>
       <pubDate>Mon, 08 Jan 2024 05:29:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>青葉市子 - Mars 2027 (15 plays)</title>
+      <link>https://www.last.fm/music/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/_/Mars+2027</link>
+      <guid isPermaLink="false">Frippertron-1704710197--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---Mars 2027</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5698f9be99fb6b519ecdd069a2ca2606.jpg" length="9972" type="image/jpeg"/>
+      <pubDate>Mon, 08 Jan 2024 05:36:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>青葉市子 - ともしびの白百合 (7 plays)</title>
+      <link>https://www.last.fm/music/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/_/%E3%81%A8%E3%82%82%E3%81%97%E3%81%B3%E3%81%AE%E7%99%BD%E7%99%BE%E5%90%88</link>
+      <guid isPermaLink="false">Frippertron-1704710634--fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705---ともしびの白百合</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5698f9be99fb6b519ecdd069a2ca2606.jpg" length="9972" type="image/jpeg"/>
+      <pubDate>Mon, 08 Jan 2024 05:43:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
