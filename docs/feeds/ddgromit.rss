@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 03:37:58 +0000</lastBuildDate>
-    <item>
-      <title>Morten Schantz - Hidden Island (2 plays)</title>
-      <link>https://www.last.fm/music/Morten+Schantz/_/Hidden+Island</link>
-      <guid isPermaLink="false">ddgromit-1704936640--Morten Schantz---Hidden Island</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 10 Jan 2024 20:30:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Omer Klein - One Step at a Time (2 plays)</title>
-      <link>https://www.last.fm/music/Omer+Klein/_/One+Step+at+a+Time</link>
-      <guid isPermaLink="false">ddgromit-1704937057--44b1a6e2-731e-4b94-a73b-336183fb4484---One Step at a Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ac4b7226e3ce6a4ed25746577d537e2.jpg" length="27715" type="image/jpeg"/>
-      <pubDate>Wed, 10 Jan 2024 20:37:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jan 2024 03:52:42 +0000</lastBuildDate>
     <item>
       <title>Zander Jazz Trio - Let There Be Love (1 play)</title>
       <link>https://www.last.fm/music/Zander+Jazz+Trio/_/Let+There+Be+Love</link>
@@ -257,6 +243,7 @@
       <title>Sasha Allen - Aquarius (1 play)</title>
       <link>https://www.last.fm/music/Sasha+Allen/_/Aquarius</link>
       <guid isPermaLink="false">ddgromit-1704941719--4ef5a5a0-0134-4439-9d3b-e106c470e1bc---Aquarius</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e2a14fd609ebae8c121229e201dba6f.jpg" length="28812" type="image/jpeg"/>
       <pubDate>Wed, 10 Jan 2024 21:55:19 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1704944021--86013f55-0853-4689-b25e-b2df3dce29c0---Deep Blue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38cd7d135051d0759da0199810273027.jpg" length="17433" type="image/jpeg"/>
       <pubDate>Wed, 10 Jan 2024 22:33:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Midnight - Lost Boy (3 plays)</title>
+      <link>https://www.last.fm/music/The+Midnight/_/Lost+Boy</link>
+      <guid isPermaLink="false">ddgromit-1704944259--86013f55-0853-4689-b25e-b2df3dce29c0---Lost Boy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/271fe787620fe27994ff66616d529e1f.jpg" length="29039" type="image/jpeg"/>
+      <pubDate>Wed, 10 Jan 2024 22:37:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Midnight - Days of Thunder (3 plays)</title>
+      <link>https://www.last.fm/music/The+Midnight/_/Days+of+Thunder</link>
+      <guid isPermaLink="false">ddgromit-1704944536--86013f55-0853-4689-b25e-b2df3dce29c0---Days of Thunder</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b853fde2d4783803ce144d1c1b4ae87e.jpg" length="16692" type="image/jpeg"/>
+      <pubDate>Wed, 10 Jan 2024 22:42:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
