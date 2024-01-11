@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 21:38:15 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Jailhouse Rock (reprise) (1 play)</title>
-      <link>https://www.last.fm/music/Queen/_/Jailhouse+Rock+(reprise)</link>
-      <guid isPermaLink="false">Frippertron-1704954779--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Jailhouse Rock (reprise)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 11 Jan 2024 01:32:59 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Stupid Cupid (1 play)</title>
-      <link>https://www.last.fm/music/Queen/_/Stupid+Cupid</link>
-      <guid isPermaLink="false">Frippertron-1704954830--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Stupid Cupid</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 11 Jan 2024 01:33:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jan 2024 21:52:13 +0000</lastBuildDate>
     <item>
       <title>Queen - God Save the Queen (35 plays)</title>
       <link>https://www.last.fm/music/Queen/_/God+Save+the+Queen</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1705008683--5441c29d-3602-4898-b1a1-b77fa23b8e50---Five Years</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 11 Jan 2024 16:31:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Ziggy Stardust (130 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Ziggy+Stardust</link>
+      <guid isPermaLink="false">Frippertron-1705009026--5441c29d-3602-4898-b1a1-b77fa23b8e50---Ziggy Stardust</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 11 Jan 2024 16:37:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Rock 'n' Roll Suicide (118 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Rock+%27n%27+Roll+Suicide</link>
+      <guid isPermaLink="false">Frippertron-1705009236--5441c29d-3602-4898-b1a1-b77fa23b8e50---Rock 'n' Roll Suicide</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 11 Jan 2024 16:40:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
