@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 06:52:23 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Changes (147 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Changes</link>
-      <guid isPermaLink="false">Frippertron-1704885033--5441c29d-3602-4898-b1a1-b77fa23b8e50---Changes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Wed, 10 Jan 2024 06:10:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jan 2024 07:15:25 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Ashes to Ashes (128 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Ashes+to+Ashes</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1704955007--Roy Wood---Another Wrong Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
       <pubDate>Thu, 11 Jan 2024 01:36:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - The Last Thing You Should Do (51 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/The+Last+Thing+You+Should+Do</link>
+      <guid isPermaLink="false">Frippertron-1704956308--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Last Thing You Should Do</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jan 2024 01:58:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
