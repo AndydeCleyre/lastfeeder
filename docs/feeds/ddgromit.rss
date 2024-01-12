@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jan 2024 22:52:25 +0000</lastBuildDate>
-    <item>
-      <title>Super Simple Songs - The Wheels on the Bus (2 plays)</title>
-      <link>https://www.last.fm/music/Super+Simple+Songs/_/The+Wheels+on+the+Bus</link>
-      <guid isPermaLink="false">ddgromit-1704995336--Super Simple Songs---The Wheels on the Bus</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10fabdf5278dd5a67e97942a00fd4f2d.jpg" length="18498" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jan 2024 12:48:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Muffin Songs - Walking Walking (6 plays)</title>
-      <link>https://www.last.fm/music/Muffin+Songs/_/Walking+Walking</link>
-      <guid isPermaLink="false">ddgromit-1704995480--Muffin Songs---Walking Walking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c8eb07064d4b1c5ba7df6842fefcb5.jpg" length="31318" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jan 2024 12:51:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>LooLoo Kids - London Bridge Is Falling Down (1 play)</title>
-      <link>https://www.last.fm/music/LooLoo+Kids/_/London+Bridge+Is+Falling+Down</link>
-      <guid isPermaLink="false">ddgromit-1704995539--LooLoo Kids---London Bridge Is Falling Down</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 11 Jan 2024 12:52:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Vicky Arlidge - Twinkle Twinkle Little Star (5 plays)</title>
-      <link>https://www.last.fm/music/Vicky+Arlidge/_/Twinkle+Twinkle+Little+Star</link>
-      <guid isPermaLink="false">ddgromit-1704995641--75ce6a10-e448-4a8f-802a-e19bd4a71bc5---Twinkle Twinkle Little Star</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9a45cb13bf1d097c96ceb0e411c9e9f.jpg" length="23829" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jan 2024 12:54:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jan 2024 23:16:04 +0000</lastBuildDate>
     <item>
       <title>Elmo - Row Row Row Your Boat (4 plays)</title>
       <link>https://www.last.fm/music/Elmo/_/Row+Row+Row+Your+Boat</link>
@@ -357,6 +329,33 @@
       <guid isPermaLink="false">ddgromit-1705099539--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Don't Panic</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg" length="12459" type="image/jpeg"/>
       <pubDate>Fri, 12 Jan 2024 17:45:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ima Robot - Greenback Boogie (23 plays)</title>
+      <link>https://www.last.fm/music/Ima+Robot/_/Greenback+Boogie</link>
+      <guid isPermaLink="false">ddgromit-1705099676--aff5ddd6-f315-4187-8522-25bf11a0f91e---Greenback Boogie</guid>
+      <pubDate>Fri, 12 Jan 2024 17:47:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yusuf / Cat Stevens - The Wind - Remastered 2021 (4 plays)</title>
+      <link>https://www.last.fm/music/Yusuf+%2F+Cat+Stevens/_/The+Wind+-+Remastered+2021</link>
+      <guid isPermaLink="false">ddgromit-1705099974--Yusuf / Cat Stevens---The Wind - Remastered 2021</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0a0db74af2241c64fe972efc72ef7e.jpg" length="14425" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jan 2024 17:52:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fleetwood Mac - Never Going Back Again - 2004 Remaster (13 plays)</title>
+      <link>https://www.last.fm/music/Fleetwood+Mac/_/Never+Going+Back+Again+-+2004+Remaster</link>
+      <guid isPermaLink="false">ddgromit-1705100078--Fleetwood Mac---Never Going Back Again - 2004 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/164302af021c1cfd122222d57d564c59.jpg" length="14897" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jan 2024 17:54:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van Morrison - Crazy Love - 2013 Remaster (2 plays)</title>
+      <link>https://www.last.fm/music/Van+Morrison/_/Crazy+Love+-+2013+Remaster</link>
+      <guid isPermaLink="false">ddgromit-1705100212--Van Morrison---Crazy Love - 2013 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4558a80c48cfd30ba33d160e60d9043a.jpg" length="23944" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jan 2024 17:56:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
