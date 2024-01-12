@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jan 2024 01:14:48 +0000</lastBuildDate>
-    <item>
-      <title>Rick James - Give It To Me Baby (4 plays)</title>
-      <link>https://www.last.fm/music/Rick+James/_/Give+It+To+Me+Baby</link>
-      <guid isPermaLink="false">Arcade1996-1704930566--cba9cec2-be8d-41bd-91b4-a1cd7de39b0c---Give It To Me Baby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b804a556f544cee0a1a3a8334f1c953.jpg" length="25069" type="image/jpeg"/>
-      <pubDate>Wed, 10 Jan 2024 18:49:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jan 2024 09:16:56 +0000</lastBuildDate>
     <item>
       <title>Rick James - Super Freak (2 plays)</title>
       <link>https://www.last.fm/music/Rick+James/_/Super+Freak</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1705019998--Westside Gunn---Judas</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d79ec648f2f9c55c16b90b58badeacc.jpg" length="27118" type="image/jpeg"/>
       <pubDate>Thu, 11 Jan 2024 19:39:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Westside Gunn - Hall &amp; Nash 2 (1 play)</title>
+      <link>https://www.last.fm/music/Westside+Gunn/_/Hall+&amp;+Nash+2</link>
+      <guid isPermaLink="false">Arcade1996-1705020228--Westside Gunn---Hall &amp; Nash 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d79ec648f2f9c55c16b90b58badeacc.jpg" length="27118" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jan 2024 19:43:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
