@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jan 2024 04:20:57 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Ziggy Stardust (130 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Ziggy+Stardust</link>
-      <guid isPermaLink="false">Frippertron-1705009026--5441c29d-3602-4898-b1a1-b77fa23b8e50---Ziggy Stardust</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 11 Jan 2024 16:37:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Rock 'n' Roll Suicide (118 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Rock+%27n%27+Roll+Suicide</link>
-      <guid isPermaLink="false">Frippertron-1705009236--5441c29d-3602-4898-b1a1-b77fa23b8e50---Rock 'n' Roll Suicide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 11 Jan 2024 16:40:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Serú Girán - A Los Jóvenes De Ayer (1 play)</title>
-      <link>https://www.last.fm/music/Ser%C3%BA+Gir%C3%A1n/_/A+Los+J%C3%B3venes+De+Ayer</link>
-      <guid isPermaLink="false">Frippertron-1705009473--f1cd52dc-49d1-4df6-93ea-3587d8fba30b---A Los Jóvenes De Ayer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4575c8e4c5b5285b8b4bb5452614a2d.jpg" length="20035" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jan 2024 16:44:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jan 2024 04:38:58 +0000</lastBuildDate>
     <item>
       <title>Serú Girán - ¿Cuánto Tiempo Más Llevará? (1 play)</title>
       <link>https://www.last.fm/music/Ser%C3%BA+Gir%C3%A1n/_/%C2%BFCu%C3%A1nto+Tiempo+M%C3%A1s+Llevar%C3%A1%3F</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1705032980--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---The Rain Came Down On Everything</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/943f8e408aa94287a6b9b80580f2ba6e.jpg" length="33314" type="image/jpeg"/>
       <pubDate>Thu, 11 Jan 2024 23:16:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Morgan - Fire in the Head (61 plays)</title>
+      <link>https://www.last.fm/music/Morgan/_/Fire+in+the+Head</link>
+      <guid isPermaLink="false">Frippertron-1705033417--0c2386fd-35f4-49a9-9fe4-a4913d3be710---Fire in the Head</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1002c15824399d4b08d772aeae05bbc4.jpg" length="13942" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jan 2024 23:23:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bruce Johnston - Pipeline (14 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Johnston/_/Pipeline</link>
+      <guid isPermaLink="false">Frippertron-1705033718--38bcc90c-2a59-4e62-ac5a-8034cd49ae44---Pipeline</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab7e2d7e30446e17d2678c0432ba23f4.jpg" length="18329" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jan 2024 23:28:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alan Palomo - Nudista Mundial '89 (22 plays)</title>
+      <link>https://www.last.fm/music/Alan+Palomo/_/Nudista+Mundial+%2789</link>
+      <guid isPermaLink="false">Frippertron-1705034096--Alan Palomo---Nudista Mundial '89</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dff7a9cbe0c4bb4d3354708dad475e69.jpg" length="28709" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jan 2024 23:34:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
