@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jan 2024 12:51:24 +0000</lastBuildDate>
-    <item>
-      <title>The Gathering - Waking Hour (2 plays)</title>
-      <link>https://www.last.fm/music/The+Gathering/_/Waking+Hour</link>
-      <guid isPermaLink="false">manosg--1705041977--5dd705e6-f1a8-46da-90db-de68ee4a3d64---Waking Hour</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af5e3b598b0f1013f865cb0bcac37a34.jpg" length="20834" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jan 2024 01:46:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Gathering - Fatigue (1 play)</title>
-      <link>https://www.last.fm/music/The+Gathering/_/Fatigue</link>
-      <guid isPermaLink="false">manosg--1705042316--5dd705e6-f1a8-46da-90db-de68ee4a3d64---Fatigue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af5e3b598b0f1013f865cb0bcac37a34.jpg" length="20834" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jan 2024 01:51:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Jan 2024 13:17:38 +0000</lastBuildDate>
     <item>
       <title>The Gathering - A Noise Severe (2 plays)</title>
       <link>https://www.last.fm/music/The+Gathering/_/A+Noise+Severe</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1705147956--07911fb2-9741-4155-bfc6-e6d7873ec86c---Mr. Know It All</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b106742af5553824fb3eabfbd4a4df45.jpg" length="33506" type="image/jpeg"/>
       <pubDate>Sat, 13 Jan 2024 07:12:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hitten - Unholy Games (1 play)</title>
+      <link>https://www.last.fm/music/Hitten/_/Unholy+Games</link>
+      <guid isPermaLink="false">manosg--1705150284--07911fb2-9741-4155-bfc6-e6d7873ec86c---Unholy Games</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b106742af5553824fb3eabfbd4a4df45.jpg" length="33506" type="image/jpeg"/>
+      <pubDate>Sat, 13 Jan 2024 07:51:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hitten - Dark Stalker (1 play)</title>
+      <link>https://www.last.fm/music/Hitten/_/Dark+Stalker</link>
+      <guid isPermaLink="false">manosg--1705150532--07911fb2-9741-4155-bfc6-e6d7873ec86c---Dark Stalker</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b106742af5553824fb3eabfbd4a4df45.jpg" length="33506" type="image/jpeg"/>
+      <pubDate>Sat, 13 Jan 2024 07:55:32 -0500</pubDate>
     </item>
   </channel>
 </rss>
