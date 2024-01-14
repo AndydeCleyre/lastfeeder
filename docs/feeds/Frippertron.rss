@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jan 2024 16:46:09 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Loving the Alien (138 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Loving+the+Alien</link>
-      <guid isPermaLink="false">Frippertron-1705195213--5441c29d-3602-4898-b1a1-b77fa23b8e50---Loving the Alien</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41074d167de71669d15c43ae266b6830.jpg" length="33956" type="image/jpeg"/>
-      <pubDate>Sat, 13 Jan 2024 20:20:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Jan 2024 16:52:37 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Shadow Man (18 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Shadow+Man</link>
@@ -289,7 +282,7 @@
       <pubDate>Sun, 14 Jan 2024 10:50:27 -0500</pubDate>
     </item>
     <item>
-      <title>Cocteau Twins - Pur (1 play)</title>
+      <title>Cocteau Twins - Pur (2 plays)</title>
       <link>https://www.last.fm/music/Cocteau+Twins/_/Pur</link>
       <guid isPermaLink="false">Frippertron-1705247655--000fc734-b7e1-4a01-92d1-f544261b43f5---Pur</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21e70eb5720fc74cbff1fbe3731811ba.png" length="227286" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1705250514--000fc734-b7e1-4a01-92d1-f544261b43f5---My Truth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21e70eb5720fc74cbff1fbe3731811ba.png" length="227286" type="image/png"/>
       <pubDate>Sun, 14 Jan 2024 11:41:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cocteau Twins - Pur (2 plays)</title>
+      <link>https://www.last.fm/music/Cocteau+Twins/_/Pur</link>
+      <guid isPermaLink="false">Frippertron-1705250797--000fc734-b7e1-4a01-92d1-f544261b43f5---Pur</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21e70eb5720fc74cbff1fbe3731811ba.png" length="227286" type="image/png"/>
+      <pubDate>Sun, 14 Jan 2024 11:46:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
