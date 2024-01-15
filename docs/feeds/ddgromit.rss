@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jan 2024 02:45:57 +0000</lastBuildDate>
-    <item>
-      <title>Pinkfong - The Lion (3 plays)</title>
-      <link>https://www.last.fm/music/Pinkfong/_/The+Lion</link>
-      <guid isPermaLink="false">ddgromit-1705253796--1af169ca-2cbd-4280-adcf-23963301448e---The Lion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7fc43684bb10569ac2a57f847b1a86e9.jpg" length="27500" type="image/jpeg"/>
-      <pubDate>Sun, 14 Jan 2024 12:36:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jan 2024 03:17:50 +0000</lastBuildDate>
     <item>
       <title>Super Simple Songs - Twinkle Twinkle Little Star (15 plays)</title>
       <link>https://www.last.fm/music/Super+Simple+Songs/_/Twinkle+Twinkle+Little+Star</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1705286072--The Little Sunshine Kids---Incy Wincy Spider</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 14 Jan 2024 21:34:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Super Simple Songs - if you're happy (4 plays)</title>
+      <link>https://www.last.fm/music/Super+Simple+Songs/_/if+you%27re+happy</link>
+      <guid isPermaLink="false">ddgromit-1705286133--Super Simple Songs---if you're happy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10fabdf5278dd5a67e97942a00fd4f2d.jpg" length="18498" type="image/jpeg"/>
+      <pubDate>Sun, 14 Jan 2024 21:35:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
