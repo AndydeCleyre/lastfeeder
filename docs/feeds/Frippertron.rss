@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jan 2024 12:33:41 +0000</lastBuildDate>
-    <item>
-      <title>T. Rex - Mambo Sun (35 plays)</title>
-      <link>https://www.last.fm/music/T.+Rex/_/Mambo+Sun</link>
-      <guid isPermaLink="false">Frippertron-1705392664--c842d29f-a297-48cd-bb71-4f77fd672b16---Mambo Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ce19ce5cddf467ab64ea4d82a184dde.png" length="85799" type="image/png"/>
-      <pubDate>Tue, 16 Jan 2024 03:11:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Jan 2024 13:01:54 +0000</lastBuildDate>
     <item>
       <title>T. Rex - Jeepster (70 plays)</title>
       <link>https://www.last.fm/music/T.+Rex/_/Jeepster</link>
@@ -128,7 +121,7 @@
       <pubDate>Tue, 16 Jan 2024 04:01:39 -0500</pubDate>
     </item>
     <item>
-      <title>Iggy Pop &amp; James Williamson - Consolation Prizes (27 plays)</title>
+      <title>Iggy Pop &amp; James Williamson - Consolation Prizes</title>
       <link>https://www.last.fm/music/Iggy+Pop+&amp;+James+Williamson/_/Consolation+Prizes</link>
       <guid isPermaLink="false">Frippertron-1705395924--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Consolation Prizes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4133ddd918fc5e41c1e7a1a21e56504f.jpg" length="33636" type="image/jpeg"/>
@@ -338,7 +331,7 @@
       <pubDate>Tue, 16 Jan 2024 07:15:04 -0500</pubDate>
     </item>
     <item>
-      <title>Cocteau Twins - Pur</title>
+      <title>Cocteau Twins - Pur (12 plays)</title>
       <link>https://www.last.fm/music/Cocteau+Twins/_/Pur</link>
       <guid isPermaLink="false">Frippertron-1705407580--000fc734-b7e1-4a01-92d1-f544261b43f5---Pur</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21e70eb5720fc74cbff1fbe3731811ba.png" length="227286" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1705408083--5441c29d-3602-4898-b1a1-b77fa23b8e50---D.J.</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/622b452e302e470a132a71be9607ed6b.jpg" length="17140" type="image/jpeg"/>
       <pubDate>Tue, 16 Jan 2024 07:28:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Look Back in Anger (70 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Look+Back+in+Anger</link>
+      <guid isPermaLink="false">Frippertron-1705408330--5441c29d-3602-4898-b1a1-b77fa23b8e50---Look Back in Anger</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/622b452e302e470a132a71be9607ed6b.jpg" length="17140" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jan 2024 07:32:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
