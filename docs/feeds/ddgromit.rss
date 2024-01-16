@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jan 2024 19:37:12 +0000</lastBuildDate>
-    <item>
-      <title>Super Simple Songs - Five Little Speckled Frogs (2 plays)</title>
-      <link>https://www.last.fm/music/Super+Simple+Songs/_/Five+Little+Speckled+Frogs</link>
-      <guid isPermaLink="false">ddgromit-1705346546--Super Simple Songs---Five Little Speckled Frogs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90f3035c25c7f5f7bda041f607591c8a.jpg" length="21668" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jan 2024 14:22:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Hold Me Closer (1 play)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Hold+Me+Closer</link>
-      <guid isPermaLink="false">ddgromit-1705356513--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Hold Me Closer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96801445d852d8126ac1cf48cf79da50.jpg" length="14891" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jan 2024 17:08:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Jan 2024 19:52:14 +0000</lastBuildDate>
     <item>
       <title>Britney Spears - Toxic (1 play)</title>
       <link>https://www.last.fm/music/Britney+Spears/_/Toxic</link>
@@ -348,6 +334,7 @@
       <title>Emily James - that was then (2 plays)</title>
       <link>https://www.last.fm/music/Emily+James/_/that+was+then</link>
       <guid isPermaLink="false">ddgromit-1705433300--Emily James---that was then</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a7015b4c196aa862d2ae5fb46440096.png" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Tue, 16 Jan 2024 14:28:20 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1705433474--Gatlin---Really Funny</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95916c59b2de9066502c608fa4d5f85c.jpg" length="10001" type="image/jpeg"/>
       <pubDate>Tue, 16 Jan 2024 14:31:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sophie Holohan - Fault Line (2 plays)</title>
+      <link>https://www.last.fm/music/Sophie+Holohan/_/Fault+Line</link>
+      <guid isPermaLink="false">ddgromit-1705433676--0f1dffbe-a782-4654-b92e-4c67204cbf91---Fault Line</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9189648abe4c31e069ecac3ae3fb4dc5.jpg" length="39671" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jan 2024 14:34:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gracie Abrams - Feels Like (3 plays)</title>
+      <link>https://www.last.fm/music/Gracie+Abrams/_/Feels+Like</link>
+      <guid isPermaLink="false">ddgromit-1705433863--f7441bc7-d7de-4813-a2fc-31a4033d396d---Feels Like</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0dfb37d5d1a60bf8daefa69118523d49.jpg" length="27985" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jan 2024 14:37:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
