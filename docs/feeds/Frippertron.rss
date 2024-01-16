@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jan 2024 04:38:42 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Beauty and the Beast (158 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
-      <guid isPermaLink="false">Frippertron-1705307539--5441c29d-3602-4898-b1a1-b77fa23b8e50---Beauty and the Beast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2842d5f3c928b3e85b0d7ccd67307ec.jpg" length="21936" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jan 2024 03:32:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Stay (275 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
-      <guid isPermaLink="false">Frippertron-1705307833--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2842d5f3c928b3e85b0d7ccd67307ec.jpg" length="21936" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jan 2024 03:37:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>Queen - Somebody to Love (113 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Somebody+to+Love</link>
-      <guid isPermaLink="false">Frippertron-1705308254--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Somebody to Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 15 Jan 2024 03:44:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Jan 2024 04:52:24 +0000</lastBuildDate>
     <item>
       <title>Queen - Good Old-Fashioned Lover Boy (67 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Good+Old-Fashioned+Lover+Boy</link>
@@ -44,7 +23,7 @@
       <pubDate>Mon, 15 Jan 2024 03:53:21 -0500</pubDate>
     </item>
     <item>
-      <title>Richard Hawley - The Ocean (44 plays)</title>
+      <title>Richard Hawley - The Ocean (45 plays)</title>
       <link>https://www.last.fm/music/Richard+Hawley/_/The+Ocean</link>
       <guid isPermaLink="false">Frippertron-1705308982--006f0783-c5a0-458b-a9da-f8551f7ebe77---The Ocean</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de427c04e92f432383e3b16e981e1609.png" length="174445" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1705379758--9efff43b-3b29-4082-824e-bc82f646f93d---Waiting for the Sun</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0f83bed092424df60ca2f827a208a0e.jpg" length="24662" type="image/jpeg"/>
       <pubDate>Mon, 15 Jan 2024 23:35:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Doors - Peace Frog (18 plays)</title>
+      <link>https://www.last.fm/music/The+Doors/_/Peace+Frog</link>
+      <guid isPermaLink="false">Frippertron-1705380028--9efff43b-3b29-4082-824e-bc82f646f93d---Peace Frog</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0f83bed092424df60ca2f827a208a0e.jpg" length="24662" type="image/jpeg"/>
+      <pubDate>Mon, 15 Jan 2024 23:40:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Richard Hawley - Coles Corner (31 plays)</title>
+      <link>https://www.last.fm/music/Richard+Hawley/_/Coles+Corner</link>
+      <guid isPermaLink="false">Frippertron-1705380240--006f0783-c5a0-458b-a9da-f8551f7ebe77---Coles Corner</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de427c04e92f432383e3b16e981e1609.png" length="174445" type="image/png"/>
+      <pubDate>Mon, 15 Jan 2024 23:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Richard Hawley - The Ocean (45 plays)</title>
+      <link>https://www.last.fm/music/Richard+Hawley/_/The+Ocean</link>
+      <guid isPermaLink="false">Frippertron-1705380528--006f0783-c5a0-458b-a9da-f8551f7ebe77---The Ocean</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de427c04e92f432383e3b16e981e1609.png" length="174445" type="image/png"/>
+      <pubDate>Mon, 15 Jan 2024 23:48:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
