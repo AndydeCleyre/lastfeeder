@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jan 2024 15:37:40 +0000</lastBuildDate>
-    <item>
-      <title>Taylor Swift - All Too Well (13 plays)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/All+Too+Well</link>
-      <guid isPermaLink="false">gameofmetal-1705082977--20244d07-534f-4eff-b4d4-930878889970---All Too Well</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26231d970024c9fc9256af185959b0d6.jpg" length="16800" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jan 2024 13:09:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ava Max - Sweet but Psycho (10 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/Sweet+but+Psycho</link>
-      <guid isPermaLink="false">gameofmetal-1705083305--add5f522-25df-41c4-815e-0ca9f60b83e4---Sweet but Psycho</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3f879ed062c70fcc567a9793fccd610f.jpg" length="29305" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jan 2024 13:15:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jan 2024 13:37:13 +0000</lastBuildDate>
     <item>
       <title>Taylor Swift - All Too Well (13 plays)</title>
       <link>https://www.last.fm/music/Taylor+Swift/_/All+Too+Well</link>
@@ -257,6 +243,7 @@
       <title>Dylan Scott - Nobody (11 plays)</title>
       <link>https://www.last.fm/music/Dylan+Scott/_/Nobody</link>
       <guid isPermaLink="false">gameofmetal-1705250724--6f614d38-ad89-4130-9aef-835ad53c9653---Nobody</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e745ce810af7d2a4b45205fa54df98b.jpg" length="25985" type="image/jpeg"/>
       <pubDate>Sun, 14 Jan 2024 11:45:24 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1705366665--607edb17-d439-48db-8482-da92167e4a59---Every Girl</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3573ff2c89c5461ab1151ccb437c8430.jpg" length="25610" type="image/jpeg"/>
       <pubDate>Mon, 15 Jan 2024 19:57:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Metallica - Fight Fire With Fire (Remastered) (1 play)</title>
+      <link>https://www.last.fm/music/Metallica/_/Fight+Fire+With+Fire+(Remastered)</link>
+      <guid isPermaLink="false">gameofmetal-1705497825--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Fight Fire With Fire (Remastered)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da92d3110eec868c9e15f5cfdc8c1361.jpg" length="21094" type="image/jpeg"/>
+      <pubDate>Wed, 17 Jan 2024 08:23:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Metallica - Ride The Lightning (Remastered) (1 play)</title>
+      <link>https://www.last.fm/music/Metallica/_/Ride+The+Lightning+(Remastered)</link>
+      <guid isPermaLink="false">gameofmetal-1705498115--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Ride The Lightning (Remastered)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da92d3110eec868c9e15f5cfdc8c1361.jpg" length="21094" type="image/jpeg"/>
+      <pubDate>Wed, 17 Jan 2024 08:28:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
