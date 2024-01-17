@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 05:16:07 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Rebel Rebel (115 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Rebel+Rebel</link>
-      <guid isPermaLink="false">Frippertron-1705399073--5441c29d-3602-4898-b1a1-b77fa23b8e50---Rebel Rebel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2842d5f3c928b3e85b0d7ccd67307ec.jpg" length="21936" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jan 2024 04:57:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - It's No Game (Part 1) (74 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/It%27s+No+Game+(Part+1)</link>
-      <guid isPermaLink="false">Frippertron-1705399550--5441c29d-3602-4898-b1a1-b77fa23b8e50---It's No Game (Part 1)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jan 2024 05:05:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jan 2024 05:37:13 +0000</lastBuildDate>
     <item>
       <title>David Bowie - It's No Game (Part 2) (66 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/It%27s+No+Game+(Part+2)</link>
@@ -128,7 +114,7 @@
       <pubDate>Tue, 16 Jan 2024 07:06:24 -0500</pubDate>
     </item>
     <item>
-      <title>Cocteau Twins - Oil Of Angels (9 plays)</title>
+      <title>Cocteau Twins - Oil Of Angels (10 plays)</title>
       <link>https://www.last.fm/music/Cocteau+Twins/_/Oil+Of+Angels</link>
       <guid isPermaLink="false">Frippertron-1705407021--000fc734-b7e1-4a01-92d1-f544261b43f5---Oil Of Angels</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21e70eb5720fc74cbff1fbe3731811ba.png" length="227286" type="image/png"/>
@@ -320,7 +306,6 @@
       <title>Queen - You're My Best Friend (45 plays)</title>
       <link>https://www.last.fm/music/Queen/_/You%27re+My+Best+Friend</link>
       <guid isPermaLink="false">Frippertron-1705466599--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---You're My Best Friend</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
       <pubDate>Tue, 16 Jan 2024 23:43:19 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1705467654--000fc734-b7e1-4a01-92d1-f544261b43f5---Frou-Frou Foxes in Midsummer Fires</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/350066babb80493fc9fa9b63dd40086d.png" length="144304" type="image/png"/>
       <pubDate>Wed, 17 Jan 2024 00:00:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Another Wrong Night (27 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Another+Wrong+Night</link>
+      <guid isPermaLink="false">Frippertron-1705469057--Roy Wood---Another Wrong Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
+      <pubDate>Wed, 17 Jan 2024 00:24:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cocteau Twins - Oil Of Angels (10 plays)</title>
+      <link>https://www.last.fm/music/Cocteau+Twins/_/Oil+Of+Angels</link>
+      <guid isPermaLink="false">Frippertron-1705469604--000fc734-b7e1-4a01-92d1-f544261b43f5---Oil Of Angels</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21e70eb5720fc74cbff1fbe3731811ba.png" length="227286" type="image/png"/>
+      <pubDate>Wed, 17 Jan 2024 00:33:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
