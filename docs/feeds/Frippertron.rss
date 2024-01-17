@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 08:39:26 +0000</lastBuildDate>
-    <item>
-      <title>The Doors - Twentieth Century Fox (6 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Twentieth+Century+Fox</link>
-      <guid isPermaLink="false">Frippertron-1705462934--9efff43b-3b29-4082-824e-bc82f646f93d---Twentieth Century Fox</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24590e4ca3a94c748d6c8452ce52467b.png" length="173091" type="image/png"/>
-      <pubDate>Tue, 16 Jan 2024 22:42:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jan 2024 08:52:08 +0000</lastBuildDate>
     <item>
       <title>The Doors - Alabama Song (Whisky Bar) (8 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/Alabama+Song+(Whisky+Bar)</link>
@@ -268,7 +261,7 @@
       <pubDate>Wed, 17 Jan 2024 01:46:18 -0500</pubDate>
     </item>
     <item>
-      <title>David Bowie - Alabama Song (93 plays)</title>
+      <title>David Bowie - Alabama Song</title>
       <link>https://www.last.fm/music/David+Bowie/_/Alabama+Song</link>
       <guid isPermaLink="false">Frippertron-1705474250--5441c29d-3602-4898-b1a1-b77fa23b8e50---Alabama Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c7da1cc9a615c01b1513426660faa39.jpg" length="18376" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1705480565--5441c29d-3602-4898-b1a1-b77fa23b8e50---Changes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
       <pubDate>Wed, 17 Jan 2024 03:36:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Station to Station (100 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Station+to+Station</link>
+      <guid isPermaLink="false">Frippertron-1705480809--5441c29d-3602-4898-b1a1-b77fa23b8e50---Station to Station</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e8e74e523b2e89670a37436508b70ab.jpg" length="18745" type="image/jpeg"/>
+      <pubDate>Wed, 17 Jan 2024 03:40:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
