@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jan 2024 11:26:10 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Starman (115 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Starman</link>
-      <guid isPermaLink="false">Frippertron-1705557936--5441c29d-3602-4898-b1a1-b77fa23b8e50---Starman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jan 2024 01:05:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jan 2024 19:37:51 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Fame (186 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Fame</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1705576727--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---It's a Hard Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
       <pubDate>Thu, 18 Jan 2024 06:18:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - John, I'm Only Dancing (58 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/John,+I%27m+Only+Dancing</link>
+      <guid isPermaLink="false">Frippertron-1705606425--5441c29d-3602-4898-b1a1-b77fa23b8e50---John, I'm Only Dancing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa8fd1d94da2e0a2f3be86b1ec695ba8.png" length="118747" type="image/png"/>
+      <pubDate>Thu, 18 Jan 2024 14:33:45 -0500</pubDate>
     </item>
   </channel>
 </rss>

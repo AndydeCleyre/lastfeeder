@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jan 2024 17:37:45 +0000</lastBuildDate>
-    <item>
-      <title>Turnpike Troubadours - Every Girl (17 plays)</title>
-      <link>https://www.last.fm/music/Turnpike+Troubadours/_/Every+Girl</link>
-      <guid isPermaLink="false">gameofmetal-1705365686--607edb17-d439-48db-8482-da92167e4a59---Every Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3573ff2c89c5461ab1151ccb437c8430.jpg" length="25610" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jan 2024 19:41:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Turnpike Troubadours - 7 &amp; 7 (11 plays)</title>
-      <link>https://www.last.fm/music/Turnpike+Troubadours/_/7+&amp;+7</link>
-      <guid isPermaLink="false">gameofmetal-1705366665--607edb17-d439-48db-8482-da92167e4a59---7 &amp; 7</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3573ff2c89c5461ab1151ccb437c8430.jpg" length="25610" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jan 2024 19:57:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jan 2024 19:38:09 +0000</lastBuildDate>
     <item>
       <title>Turnpike Troubadours - Every Girl (17 plays)</title>
       <link>https://www.last.fm/music/Turnpike+Troubadours/_/Every+Girl</link>
@@ -184,7 +170,7 @@
       <pubDate>Wed, 17 Jan 2024 19:50:11 -0500</pubDate>
     </item>
     <item>
-      <title>Orville Peck - Let Me Drown (21 plays)</title>
+      <title>Orville Peck - Let Me Drown (22 plays)</title>
       <link>https://www.last.fm/music/Orville+Peck/_/Let+Me+Drown</link>
       <guid isPermaLink="false">gameofmetal-1705539657--437b356d-88f1-4dde-af5e-dec1c9d7dde4---Let Me Drown</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84c46be36a8333cb6ee5a0d8e37a0fbc.jpg" length="14801" type="image/jpeg"/>
@@ -212,7 +198,7 @@
       <pubDate>Wed, 17 Jan 2024 20:08:18 -0500</pubDate>
     </item>
     <item>
-      <title>Invent Animate - Shade Astray (10 plays)</title>
+      <title>Invent Animate - Shade Astray (11 plays)</title>
       <link>https://www.last.fm/music/Invent+Animate/_/Shade+Astray</link>
       <guid isPermaLink="false">gameofmetal-1705540515--af3fd27c-c59f-4eb7-9303-042ee3eef006---Shade Astray</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24f290b1eaa829d8ba24e19a1b57068d.jpg" length="19087" type="image/jpeg"/>
@@ -247,7 +233,7 @@
       <pubDate>Wed, 17 Jan 2024 20:32:51 -0500</pubDate>
     </item>
     <item>
-      <title>Invent Animate - Shade Astray (10 plays)</title>
+      <title>Invent Animate - Shade Astray (11 plays)</title>
       <link>https://www.last.fm/music/Invent+Animate/_/Shade+Astray</link>
       <guid isPermaLink="false">gameofmetal-1705587891--af3fd27c-c59f-4eb7-9303-042ee3eef006---Shade Astray</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24f290b1eaa829d8ba24e19a1b57068d.jpg" length="19087" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1705598303--437b356d-88f1-4dde-af5e-dec1c9d7dde4---Bronco</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84c46be36a8333cb6ee5a0d8e37a0fbc.jpg" length="14801" type="image/jpeg"/>
       <pubDate>Thu, 18 Jan 2024 12:18:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Orville Peck - Let Me Drown (22 plays)</title>
+      <link>https://www.last.fm/music/Orville+Peck/_/Let+Me+Drown</link>
+      <guid isPermaLink="false">gameofmetal-1705598530--437b356d-88f1-4dde-af5e-dec1c9d7dde4---Let Me Drown</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84c46be36a8333cb6ee5a0d8e37a0fbc.jpg" length="14801" type="image/jpeg"/>
+      <pubDate>Thu, 18 Jan 2024 12:22:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Invent Animate - Shade Astray (11 plays)</title>
+      <link>https://www.last.fm/music/Invent+Animate/_/Shade+Astray</link>
+      <guid isPermaLink="false">gameofmetal-1705606291--af3fd27c-c59f-4eb7-9303-042ee3eef006---Shade Astray</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24f290b1eaa829d8ba24e19a1b57068d.jpg" length="19087" type="image/jpeg"/>
+      <pubDate>Thu, 18 Jan 2024 14:31:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
