@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 11:14:59 +0000</lastBuildDate>
-    <item>
-      <title>The Gathering - My Electricity (14 plays)</title>
-      <link>https://www.last.fm/music/The+Gathering/_/My+Electricity</link>
-      <guid isPermaLink="false">manosg--1705485107--5dd705e6-f1a8-46da-90db-de68ee4a3d64---My Electricity</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58926f8b5c586a7fe3bf5d064b4f41bd.jpg" length="21275" type="image/jpeg"/>
-      <pubDate>Wed, 17 Jan 2024 04:51:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Gathering - Liberty Bell (15 plays)</title>
-      <link>https://www.last.fm/music/The+Gathering/_/Liberty+Bell</link>
-      <guid isPermaLink="false">manosg--1705485319--5dd705e6-f1a8-46da-90db-de68ee4a3d64---Liberty Bell</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58926f8b5c586a7fe3bf5d064b4f41bd.jpg" length="21275" type="image/jpeg"/>
-      <pubDate>Wed, 17 Jan 2024 04:55:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Jan 2024 11:26:18 +0000</lastBuildDate>
     <item>
       <title>The Gathering - Red Is a Slow Colour (14 plays)</title>
       <link>https://www.last.fm/music/The+Gathering/_/Red+Is+a+Slow+Colour</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1705659182--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---There's Something In Roswell</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30c118e4fe7979e726d85ae37ff8a3c9.jpg" length="25494" type="image/jpeg"/>
       <pubDate>Fri, 19 Jan 2024 05:13:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Saxon - Kubla Khan And The Merchant Of Venice (1 play)</title>
+      <link>https://www.last.fm/music/Saxon/_/Kubla+Khan+And+The+Merchant+Of+Venice</link>
+      <guid isPermaLink="false">manosg--1705662801--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Kubla Khan And The Merchant Of Venice</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30c118e4fe7979e726d85ae37ff8a3c9.jpg" length="25494" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jan 2024 06:13:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Saxon - Pirates Of The Airwaves (1 play)</title>
+      <link>https://www.last.fm/music/Saxon/_/Pirates+Of+The+Airwaves</link>
+      <guid isPermaLink="false">manosg--1705663234--bbd80354-597e-4d53-94e4-92b3a7cb8f2c---Pirates Of The Airwaves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30c118e4fe7979e726d85ae37ff8a3c9.jpg" length="25494" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jan 2024 06:20:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
