@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 23:15:18 +0000</lastBuildDate>
-    <item>
-      <title>The Lonely Island - Jack Sparrow (26 plays)</title>
-      <link>https://www.last.fm/music/The+Lonely+Island/_/Jack+Sparrow</link>
-      <guid isPermaLink="false">ddgromit-1705685788--028e1863-cab4-4a3d-9dd9-91c682c91005---Jack Sparrow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10aa2a6ba6f5c5b5824b577446e2afda.jpg" length="18527" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jan 2024 12:36:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Hold Me Closer (2 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Hold+Me+Closer</link>
-      <guid isPermaLink="false">ddgromit-1705685976--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Hold Me Closer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa698fe8c75c532934bdd7a4ce13a5c5.jpg" length="16755" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jan 2024 12:39:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Jan 2024 23:26:58 +0000</lastBuildDate>
     <item>
       <title>Robyn - Dancing On My Own - Radio Edit (27 plays)</title>
       <link>https://www.last.fm/music/Robyn/_/Dancing+On+My+Own+-+Radio+Edit</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1705705832--4c445344-9df2-407e-9bf3-8a5c0b86777e---Body</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc78ed57b755d4b34c7b8b9524516bee.jpg" length="4237" type="image/jpeg"/>
       <pubDate>Fri, 19 Jan 2024 18:10:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Bjorn and John - Young Folks (11 plays)</title>
+      <link>https://www.last.fm/music/Peter+Bjorn+and+John/_/Young+Folks</link>
+      <guid isPermaLink="false">ddgromit-1705705996--32a83250-7e26-422d-b9ac-f4564343e9ce---Young Folks</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f6a65f5f23522ff6f1d6752fd12a3fde.jpg" length="23135" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jan 2024 18:13:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bicep - Saku (2 plays)</title>
+      <link>https://www.last.fm/music/Bicep/_/Saku</link>
+      <guid isPermaLink="false">ddgromit-1705706335--10e8f0df-90f9-4957-aedd-c4e0d187e3a8---Saku</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10f245d58ec7c9706f53b00010dfce18.jpg" length="21936" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jan 2024 18:18:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
