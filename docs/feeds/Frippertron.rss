@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 04:38:59 +0000</lastBuildDate>
-    <item>
-      <title>The Doors - Soul Kitchen (14 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Soul+Kitchen</link>
-      <guid isPermaLink="false">Frippertron-1705570325--9efff43b-3b29-4082-824e-bc82f646f93d---Soul Kitchen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24590e4ca3a94c748d6c8452ce52467b.png" length="173091" type="image/png"/>
-      <pubDate>Thu, 18 Jan 2024 04:32:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Doors - When the Music's Over (4 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/When+the+Music%27s+Over</link>
-      <guid isPermaLink="false">Frippertron-1705570645--9efff43b-3b29-4082-824e-bc82f646f93d---When the Music's Over</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4a3df5139914c5190350c0e1c59094b.png" length="232933" type="image/png"/>
-      <pubDate>Thu, 18 Jan 2024 04:37:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Doors - Waiting for the Sun (12 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Waiting+for+the+Sun</link>
-      <guid isPermaLink="false">Frippertron-1705571316--9efff43b-3b29-4082-824e-bc82f646f93d---Waiting for the Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0f83bed092424df60ca2f827a208a0e.jpg" length="24662" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jan 2024 04:48:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Jan 2024 04:52:16 +0000</lastBuildDate>
     <item>
       <title>The Doors - Five to One (37 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/Five+to+One</link>
@@ -198,7 +177,7 @@
       <pubDate>Thu, 18 Jan 2024 15:01:35 -0500</pubDate>
     </item>
     <item>
-      <title>David Bowie - Aladdin Sane (1913-1938-197?) (105 plays)</title>
+      <title>David Bowie - Aladdin Sane (1913-1938-197?) (106 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Aladdin+Sane+(1913-1938-197%3F)</link>
       <guid isPermaLink="false">Frippertron-1705608331--5441c29d-3602-4898-b1a1-b77fa23b8e50---Aladdin Sane (1913-1938-197?)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1705638796--5441c29d-3602-4898-b1a1-b77fa23b8e50---Space Oddity</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 18 Jan 2024 23:33:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - My Death (20 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/My+Death</link>
+      <guid isPermaLink="false">Frippertron-1705639093--5441c29d-3602-4898-b1a1-b77fa23b8e50---My Death</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 18 Jan 2024 23:38:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - The Supermen (47 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/The+Supermen</link>
+      <guid isPermaLink="false">Frippertron-1705639446--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Supermen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 18 Jan 2024 23:44:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Aladdin Sane (1913-1938-197?) (106 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Aladdin+Sane+(1913-1938-197%3F)</link>
+      <guid isPermaLink="false">Frippertron-1705639688--5441c29d-3602-4898-b1a1-b77fa23b8e50---Aladdin Sane (1913-1938-197?)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 18 Jan 2024 23:48:08 -0500</pubDate>
     </item>
   </channel>
 </rss>
