@@ -7,42 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 08:52:22 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - The Stars (Are Out Tonight) (25 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Stars+(Are+Out+Tonight)</link>
-      <guid isPermaLink="false">Frippertron-1705635715--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Stars (Are Out Tonight)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/607135eae4e07c150bd6f6fc40b4a41f.jpg" length="11890" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jan 2024 22:41:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Love Is Lost (27 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Love+Is+Lost</link>
-      <guid isPermaLink="false">Frippertron-1705635950--5441c29d-3602-4898-b1a1-b77fa23b8e50---Love Is Lost</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/607135eae4e07c150bd6f6fc40b4a41f.jpg" length="11890" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jan 2024 22:45:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - If You Can See Me (27 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/If+You+Can+See+Me</link>
-      <guid isPermaLink="false">Frippertron-1705636200--5441c29d-3602-4898-b1a1-b77fa23b8e50---If You Can See Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/607135eae4e07c150bd6f6fc40b4a41f.jpg" length="11890" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jan 2024 22:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Dancing Out in Space (10 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Dancing+Out+in+Space</link>
-      <guid isPermaLink="false">Frippertron-1705636493--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dancing Out in Space</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/607135eae4e07c150bd6f6fc40b4a41f.jpg" length="11890" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jan 2024 22:54:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Doors - Break on Through (to the Other Side) (33 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Break+on+Through+(to+the+Other+Side)</link>
-      <guid isPermaLink="false">Frippertron-1705636845--9efff43b-3b29-4082-824e-bc82f646f93d---Break on Through (to the Other Side)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24590e4ca3a94c748d6c8452ce52467b.png" length="173091" type="image/png"/>
-      <pubDate>Thu, 18 Jan 2024 23:00:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Jan 2024 09:16:34 +0000</lastBuildDate>
     <item>
       <title>The Doors - Not to Touch the Earth (12 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/Not+to+Touch+the+Earth</link>
@@ -257,18 +222,21 @@
       <title>坂本龍一 - fullmoon (24 plays)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/fullmoon</link>
       <guid isPermaLink="false">Frippertron-1705647066--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---fullmoon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c01650cd47761740289062025b96cd4.png" length="98555" type="image/png"/>
       <pubDate>Fri, 19 Jan 2024 01:51:06 -0500</pubDate>
     </item>
     <item>
       <title>坂本龍一 - async (23 plays)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/async</link>
       <guid isPermaLink="false">Frippertron-1705647381--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---async</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c01650cd47761740289062025b96cd4.png" length="98555" type="image/png"/>
       <pubDate>Fri, 19 Jan 2024 01:56:21 -0500</pubDate>
     </item>
     <item>
       <title>坂本龍一 - tri (23 plays)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/tri</link>
       <guid isPermaLink="false">Frippertron-1705647548--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---tri</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c01650cd47761740289062025b96cd4.png" length="98555" type="image/png"/>
       <pubDate>Fri, 19 Jan 2024 01:59:08 -0500</pubDate>
     </item>
     <item>
@@ -354,6 +322,41 @@
       <guid isPermaLink="false">Frippertron-1705654227--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Stone Cold Crazy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5789ad5ce40845abc57b02cc02ad0d61.jpg" length="24798" type="image/jpeg"/>
       <pubDate>Fri, 19 Jan 2024 03:50:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Miracle Goodnight (32 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Miracle+Goodnight</link>
+      <guid isPermaLink="false">Frippertron-1705654349--5441c29d-3602-4898-b1a1-b77fa23b8e50---Miracle Goodnight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e122446eb0fd03250249cc7c72a7597.png" length="175112" type="image/png"/>
+      <pubDate>Fri, 19 Jan 2024 03:52:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - I Feel Free (47 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/I+Feel+Free</link>
+      <guid isPermaLink="false">Frippertron-1705654597--5441c29d-3602-4898-b1a1-b77fa23b8e50---I Feel Free</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e122446eb0fd03250249cc7c72a7597.png" length="175112" type="image/png"/>
+      <pubDate>Fri, 19 Jan 2024 03:56:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Boys Keep Swinging (167 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Boys+Keep+Swinging</link>
+      <guid isPermaLink="false">Frippertron-1705654894--5441c29d-3602-4898-b1a1-b77fa23b8e50---Boys Keep Swinging</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/622b452e302e470a132a71be9607ed6b.jpg" length="17140" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jan 2024 04:01:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ride - Seagull (24 plays)</title>
+      <link>https://www.last.fm/music/Ride/_/Seagull</link>
+      <guid isPermaLink="false">Frippertron-1705655110--3f575ecd-627d-4f08-a89f-abd46d469c7e---Seagull</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7fa3704f8a01668d07930823e6577b83.jpg" length="18955" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jan 2024 04:05:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - 'Tis a Pity She Was a Whore (45 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/%27Tis+a+Pity+She+Was+a+Whore</link>
+      <guid isPermaLink="false">Frippertron-1705655537--5441c29d-3602-4898-b1a1-b77fa23b8e50---'Tis a Pity She Was a Whore</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
+      <pubDate>Fri, 19 Jan 2024 04:12:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
