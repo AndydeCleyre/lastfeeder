@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jan 2024 04:52:16 +0000</lastBuildDate>
-    <item>
-      <title>The Doors - Five to One (37 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Five+to+One</link>
-      <guid isPermaLink="false">Frippertron-1705571574--9efff43b-3b29-4082-824e-bc82f646f93d---Five to One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/008d234a81ca40939472a705da4bebbd.jpg" length="30058" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jan 2024 04:52:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Doors - Love Me Two Times (22 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Love+Me+Two+Times</link>
-      <guid isPermaLink="false">Frippertron-1705571863--9efff43b-3b29-4082-824e-bc82f646f93d---Love Me Two Times</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4a3df5139914c5190350c0e1c59094b.png" length="232933" type="image/png"/>
-      <pubDate>Thu, 18 Jan 2024 04:57:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Jan 2024 05:16:10 +0000</lastBuildDate>
     <item>
       <title>The Doors - People Are Strange (3 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/People+Are+Strange</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1705639688--5441c29d-3602-4898-b1a1-b77fa23b8e50---Aladdin Sane (1913-1938-197?)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 18 Jan 2024 23:48:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Panic in Detroit (36 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Panic+in+Detroit</link>
+      <guid isPermaLink="false">Frippertron-1705640033--5441c29d-3602-4898-b1a1-b77fa23b8e50---Panic in Detroit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 18 Jan 2024 23:53:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>The End - World Went Down (1 play)</title>
+      <link>https://www.last.fm/music/The+End/_/World+Went+Down</link>
+      <guid isPermaLink="false">Frippertron-1705640409--The End---World Went Down</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50afb3b8deaaf52229b5281e18a3f65e.jpg" length="20047" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jan 2024 00:00:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
