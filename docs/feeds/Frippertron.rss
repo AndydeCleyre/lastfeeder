@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jan 2024 22:15:32 +0000</lastBuildDate>
-    <item>
-      <title>Iggy Pop - Sister Midnight (71 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/Sister+Midnight</link>
-      <guid isPermaLink="false">Frippertron-1705658002--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Sister Midnight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/382eeddf65de4173b9269242b8d60c9f.jpg" length="18748" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jan 2024 04:53:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Iggy Pop - Funtime (87 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/Funtime</link>
-      <guid isPermaLink="false">Frippertron-1705658257--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Funtime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/382eeddf65de4173b9269242b8d60c9f.jpg" length="18748" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jan 2024 04:57:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>Iggy Pop - One, Two Brown Eyes (8 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/One,+Two+Brown+Eyes</link>
-      <guid isPermaLink="false">Frippertron-1705659492--Iggy Pop---One, Two Brown Eyes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b599b0eaced2424697a9988e2a0df8ed.jpg" length="22715" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jan 2024 05:18:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Jan 2024 22:29:49 +0000</lastBuildDate>
     <item>
       <title>Iggy Pop - I Wanna Be Your Dog (38 plays)</title>
       <link>https://www.last.fm/music/Iggy+Pop/_/I+Wanna+Be+Your+Dog</link>
@@ -348,6 +327,7 @@
       <title>Liquid - Sweet Harmony (1 play)</title>
       <link>https://www.last.fm/music/Liquid/_/Sweet+Harmony</link>
       <guid isPermaLink="false">Frippertron-1705874486--4efae70c-725c-4813-a779-069d63965f08---Sweet Harmony</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4743388c77734cf3b41e847d3c0e4086.jpg" length="20455" type="image/jpeg"/>
       <pubDate>Sun, 21 Jan 2024 17:01:26 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1705874988--8c538f11-c141-4588-8ecb-931083524186---Like Eating Glass</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/912efdc838584d69873450f9c1bfb033.png" length="47297" type="image/png"/>
       <pubDate>Sun, 21 Jan 2024 17:09:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bloc Party - Helicopter (1 play)</title>
+      <link>https://www.last.fm/music/Bloc+Party/_/Helicopter</link>
+      <guid isPermaLink="false">Frippertron-1705875260--8c538f11-c141-4588-8ecb-931083524186---Helicopter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/912efdc838584d69873450f9c1bfb033.png" length="47297" type="image/png"/>
+      <pubDate>Sun, 21 Jan 2024 17:14:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bloc Party - Ion Square (1 play)</title>
+      <link>https://www.last.fm/music/Bloc+Party/_/Ion+Square</link>
+      <guid isPermaLink="false">Frippertron-1705875502--8c538f11-c141-4588-8ecb-931083524186---Ion Square</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1317848dd590d5fefdebb8df0e388901.png" length="123355" type="image/png"/>
+      <pubDate>Sun, 21 Jan 2024 17:18:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bloc Party - Flux (1 play)</title>
+      <link>https://www.last.fm/music/Bloc+Party/_/Flux</link>
+      <guid isPermaLink="false">Frippertron-1705875913--8c538f11-c141-4588-8ecb-931083524186---Flux</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1317848dd590d5fefdebb8df0e388901.png" length="123355" type="image/png"/>
+      <pubDate>Sun, 21 Jan 2024 17:25:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
