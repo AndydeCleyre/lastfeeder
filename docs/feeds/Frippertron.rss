@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jan 2024 11:25:06 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Andy Warhol (45 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Andy+Warhol</link>
-      <guid isPermaLink="false">Frippertron-1705655832--5441c29d-3602-4898-b1a1-b77fa23b8e50---Andy Warhol</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6dc802ea9e1f30fecbeddda3ee854a2.jpg" length="27232" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jan 2024 04:17:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - The Man Who Sold the World (67 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Man+Who+Sold+the+World</link>
-      <guid isPermaLink="false">Frippertron-1705656055--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Man Who Sold the World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6dc802ea9e1f30fecbeddda3ee854a2.jpg" length="27232" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jan 2024 04:20:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Jan 2024 11:37:24 +0000</lastBuildDate>
     <item>
       <title>David Bowie - We Prick You (72 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/We+Prick+You</link>
@@ -289,7 +275,7 @@
       <pubDate>Sun, 21 Jan 2024 05:45:28 -0500</pubDate>
     </item>
     <item>
-      <title>The Doors - Break on Through (to the Other Side) (34 plays)</title>
+      <title>The Doors - Break on Through (to the Other Side) (35 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/Break+on+Through+(to+the+Other+Side)</link>
       <guid isPermaLink="false">Frippertron-1705834143--9efff43b-3b29-4082-824e-bc82f646f93d---Break on Through (to the Other Side)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24590e4ca3a94c748d6c8452ce52467b.png" length="173091" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1705836086--9efff43b-3b29-4082-824e-bc82f646f93d---Love Street</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/008d234a81ca40939472a705da4bebbd.jpg" length="30058" type="image/jpeg"/>
       <pubDate>Sun, 21 Jan 2024 06:21:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Doors - Five to One (38 plays)</title>
+      <link>https://www.last.fm/music/The+Doors/_/Five+to+One</link>
+      <guid isPermaLink="false">Frippertron-1705836255--9efff43b-3b29-4082-824e-bc82f646f93d---Five to One</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/008d234a81ca40939472a705da4bebbd.jpg" length="30058" type="image/jpeg"/>
+      <pubDate>Sun, 21 Jan 2024 06:24:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Doors - Break on Through (to the Other Side) (35 plays)</title>
+      <link>https://www.last.fm/music/The+Doors/_/Break+on+Through+(to+the+Other+Side)</link>
+      <guid isPermaLink="false">Frippertron-1705836526--9efff43b-3b29-4082-824e-bc82f646f93d---Break on Through (to the Other Side)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24590e4ca3a94c748d6c8452ce52467b.png" length="173091" type="image/png"/>
+      <pubDate>Sun, 21 Jan 2024 06:28:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
