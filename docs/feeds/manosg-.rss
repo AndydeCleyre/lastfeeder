@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jan 2024 17:37:18 +0000</lastBuildDate>
-    <item>
-      <title>Alice Cooper - Halo of Flies (2 plays)</title>
-      <link>https://www.last.fm/music/Alice+Cooper/_/Halo+of+Flies</link>
-      <guid isPermaLink="false">manosg--1705734036--ee58c59f-8e7f-4430-b8ca-236c4d3745ae---Halo of Flies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb50a7897358ae9567652a718bfa7e9.png" length="145240" type="image/png"/>
-      <pubDate>Sat, 20 Jan 2024 02:00:36 -0500</pubDate>
-    </item>
-    <item>
-      <title>Alice Cooper - Desperado (1 play)</title>
-      <link>https://www.last.fm/music/Alice+Cooper/_/Desperado</link>
-      <guid isPermaLink="false">manosg--1705734540--ee58c59f-8e7f-4430-b8ca-236c4d3745ae---Desperado</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/adb50a7897358ae9567652a718bfa7e9.png" length="145240" type="image/png"/>
-      <pubDate>Sat, 20 Jan 2024 02:09:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jan 2024 17:53:12 +0000</lastBuildDate>
     <item>
       <title>Alice Cooper - You Drive Me Nervous (1 play)</title>
       <link>https://www.last.fm/music/Alice+Cooper/_/You+Drive+Me+Nervous</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1705944223--Taste---If I Don't Sing I'll Cry</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd73373322ad490e06aacd0b73402faf.jpg" length="20127" type="image/jpeg"/>
       <pubDate>Mon, 22 Jan 2024 12:23:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Taste - See Here (1 play)</title>
+      <link>https://www.last.fm/music/Taste/_/See+Here</link>
+      <guid isPermaLink="false">manosg--1705944390--Taste---See Here</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd73373322ad490e06aacd0b73402faf.jpg" length="20127" type="image/jpeg"/>
+      <pubDate>Mon, 22 Jan 2024 12:26:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Taste - I'll Remember (1 play)</title>
+      <link>https://www.last.fm/music/Taste/_/I%27ll+Remember</link>
+      <guid isPermaLink="false">manosg--1705945714--Taste---I'll Remember</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd73373322ad490e06aacd0b73402faf.jpg" length="20127" type="image/jpeg"/>
+      <pubDate>Mon, 22 Jan 2024 12:48:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
