@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jan 2024 23:52:13 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Sunday (76 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Sunday</link>
-      <guid isPermaLink="false">Frippertron-1705662347--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sunday</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de189195ab834c449adfc34815549796.png" length="157830" type="image/png"/>
-      <pubDate>Fri, 19 Jan 2024 06:05:47 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Bring Me The Disco King (82 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Bring+Me+The+Disco+King</link>
-      <guid isPermaLink="false">Frippertron-1705662624--5441c29d-3602-4898-b1a1-b77fa23b8e50---Bring Me The Disco King</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45d9302a3796493dc908e8028dd0098e.png" length="180524" type="image/png"/>
-      <pubDate>Fri, 19 Jan 2024 06:10:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jan 2024 03:18:12 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Teenage Wildlife (210 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Teenage+Wildlife</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1705880459--c5c6e1e6-8862-4f0a-880b-925fcbd9611f---Airtight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 21 Jan 2024 18:40:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Spirit - Mendacity (1 play)</title>
+      <link>https://www.last.fm/music/The+Spirit/_/Mendacity</link>
+      <guid isPermaLink="false">Frippertron-1705880899--b3a5a222-e009-4739-8af8-1dae418a1281---Mendacity</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e80d1786f6e625ad6f7339a69c66885d.jpg" length="24232" type="image/jpeg"/>
+      <pubDate>Sun, 21 Jan 2024 18:48:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elvis Costello - Pump It Up (14 plays)</title>
+      <link>https://www.last.fm/music/Elvis+Costello/_/Pump+It+Up</link>
+      <guid isPermaLink="false">Frippertron-1705893283--8a338e06-d182-46f2-bd16-30a09bc840ba---Pump It Up</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f6366e5589770cf767b6274fd973b2f.jpg" length="17527" type="image/jpeg"/>
+      <pubDate>Sun, 21 Jan 2024 22:14:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
