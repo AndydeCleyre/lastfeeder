@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jan 2024 08:40:18 +0000</lastBuildDate>
-    <item>
-      <title>The Doors - Waiting for the Sun (13 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Waiting+for+the+Sun</link>
-      <guid isPermaLink="false">Frippertron-1705893808--9efff43b-3b29-4082-824e-bc82f646f93d---Waiting for the Sun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0f83bed092424df60ca2f827a208a0e.jpg" length="24662" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jan 2024 22:23:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Doors - Peace Frog (19 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Peace+Frog</link>
-      <guid isPermaLink="false">Frippertron-1705894064--9efff43b-3b29-4082-824e-bc82f646f93d---Peace Frog</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0f83bed092424df60ca2f827a208a0e.jpg" length="24662" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jan 2024 22:27:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jan 2024 08:52:21 +0000</lastBuildDate>
     <item>
       <title>The Doors - Blue Sunday (7 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/Blue+Sunday</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1705912586--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Rain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f230878be193eb342aac37493199f1f.jpg" length="9218" type="image/jpeg"/>
       <pubDate>Mon, 22 Jan 2024 03:36:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Tibetan Dance (30 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Tibetan+Dance</link>
+      <guid isPermaLink="false">Frippertron-1705912825--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Tibetan Dance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/645b4662e2fa4e0e9719e7baa4e270dd.png" length="29856" type="image/png"/>
+      <pubDate>Mon, 22 Jan 2024 03:40:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Thousand Knives (68 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Thousand+Knives</link>
+      <guid isPermaLink="false">Frippertron-1705913089--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Thousand Knives</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/645b4662e2fa4e0e9719e7baa4e270dd.png" length="29856" type="image/png"/>
+      <pubDate>Mon, 22 Jan 2024 03:44:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
