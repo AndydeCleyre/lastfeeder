@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 05:16:10 +0000</lastBuildDate>
-    <item>
-      <title>Underworld - Moaner (13 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Moaner</link>
-      <guid isPermaLink="false">Frippertron-1705919400--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Moaner</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c743fcd76479462e9ec2c0601eb489f.jpg" length="10308" type="image/jpeg"/>
-      <pubDate>Mon, 22 Jan 2024 05:30:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jan 2024 05:37:17 +0000</lastBuildDate>
     <item>
       <title>Kagami - Tiger Track (40 plays)</title>
       <link>https://www.last.fm/music/Kagami/_/Tiger+Track</link>
@@ -352,11 +345,18 @@
       <pubDate>Mon, 22 Jan 2024 23:54:11 -0500</pubDate>
     </item>
     <item>
-      <title>The Doors - When the Music's Over (7 plays)</title>
+      <title>The Doors - When the Music's Over (8 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/When+the+Music%27s+Over</link>
       <guid isPermaLink="false">Frippertron-1705985945--9efff43b-3b29-4082-824e-bc82f646f93d---When the Music's Over</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/985ddd3733581139325f2f7ecc201397.png" length="156615" type="image/png"/>
       <pubDate>Mon, 22 Jan 2024 23:59:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Doors - When the Music's Over (8 plays)</title>
+      <link>https://www.last.fm/music/The+Doors/_/When+the+Music%27s+Over</link>
+      <guid isPermaLink="false">Frippertron-1705986605--9efff43b-3b29-4082-824e-bc82f646f93d---When the Music's Over</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4a3df5139914c5190350c0e1c59094b.png" length="232933" type="image/png"/>
+      <pubDate>Tue, 23 Jan 2024 00:10:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
