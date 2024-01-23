@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 05:52:24 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Stay (280 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
-      <guid isPermaLink="false">Frippertron-1705921113--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e8e74e523b2e89670a37436508b70ab.jpg" length="18745" type="image/jpeg"/>
-      <pubDate>Mon, 22 Jan 2024 05:58:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Underworld - Jumbo (41 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Jumbo</link>
-      <guid isPermaLink="false">Frippertron-1705921599--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Jumbo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f54712883ab45a2c5b3e3449b31208b.png" length="11669" type="image/png"/>
-      <pubDate>Mon, 22 Jan 2024 06:06:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jan 2024 06:22:10 +0000</lastBuildDate>
     <item>
       <title>Yellow Magic Orchestra - Behind the Mask (84 plays)</title>
       <link>https://www.last.fm/music/Yellow+Magic+Orchestra/_/Behind+the+Mask</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1705988728--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 23 Jan 2024 00:45:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Kashmir (75 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Kashmir</link>
+      <guid isPermaLink="false">Frippertron-1705989042--678d88b2-87b0-403b-b63d-5da7465aecc3---Kashmir</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 23 Jan 2024 00:50:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Trampled Under Foot (69 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Trampled+Under+Foot</link>
+      <guid isPermaLink="false">Frippertron-1705989593--678d88b2-87b0-403b-b63d-5da7465aecc3---Trampled Under Foot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 23 Jan 2024 00:59:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
