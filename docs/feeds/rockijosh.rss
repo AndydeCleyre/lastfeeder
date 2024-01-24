@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 17:17:09 +0000</lastBuildDate>
-    <item>
-      <title>Charlotte Cardin - Dirty Dirty (101 plays)</title>
-      <link>https://www.last.fm/music/Charlotte+Cardin/_/Dirty+Dirty</link>
-      <guid isPermaLink="false">rockijosh-1706020003--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Dirty Dirty</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a65aba7f05156350056a8045b19fb802.jpg" length="10921" type="image/jpeg"/>
-      <pubDate>Tue, 23 Jan 2024 09:26:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kimbra - Settle Down (59 plays)</title>
-      <link>https://www.last.fm/music/Kimbra/_/Settle+Down</link>
-      <guid isPermaLink="false">rockijosh-1706020204--fad2875e-ba81-4637-b859-4684622dcb1c---Settle Down</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82ca6ba06d2641e422b9006e8cb5d869.png" length="90921" type="image/png"/>
-      <pubDate>Tue, 23 Jan 2024 09:30:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>Caroline Polachek - Sunset (56 plays)</title>
-      <link>https://www.last.fm/music/Caroline+Polachek/_/Sunset</link>
-      <guid isPermaLink="false">rockijosh-1706020446--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Sunset</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4bc4106e849c1d1926bb66ae6536c980.jpg" length="11836" type="image/jpeg"/>
-      <pubDate>Tue, 23 Jan 2024 09:34:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meg Myers - Numb (69 plays)</title>
-      <link>https://www.last.fm/music/Meg+Myers/_/Numb</link>
-      <guid isPermaLink="false">rockijosh-1706020609--a4abe6ab-fcaa-4433-96b5-4cc1f3528d4b---Numb</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65ffd87994cd18e53f87e9407878709d.jpg" length="43416" type="image/jpeg"/>
-      <pubDate>Tue, 23 Jan 2024 09:36:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jan 2024 17:30:44 +0000</lastBuildDate>
     <item>
       <title>Wiccan Babysitter - They Don't Know (64 plays)</title>
       <link>https://www.last.fm/music/Wiccan+Babysitter/_/They+Don%27t+Know</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">rockijosh-1706116334--db008806-16f6-48fc-8521-3d953709689d---If I Leave</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d05d163494c34751b14ba19f06d29676.png" length="201973" type="image/png"/>
       <pubDate>Wed, 24 Jan 2024 12:12:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Senses Fail - Can't Be Saved (335 plays)</title>
+      <link>https://www.last.fm/music/Senses+Fail/_/Can%27t+Be+Saved</link>
+      <guid isPermaLink="false">rockijosh-1706116539--b4946461-dacb-4aa9-a77c-7b3231317794---Can't Be Saved</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b32f39fcef351b8e01d071daa442289.jpg" length="35005" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jan 2024 12:15:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Used - Paralyzed (12 plays)</title>
+      <link>https://www.last.fm/music/The+Used/_/Paralyzed</link>
+      <guid isPermaLink="false">rockijosh-1706116726--The Used---Paralyzed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79b94bd821ce482f867947b4eb5c7981.png" length="196885" type="image/png"/>
+      <pubDate>Wed, 24 Jan 2024 12:18:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>New Found Glory - My Friends Over You (85 plays)</title>
+      <link>https://www.last.fm/music/New+Found+Glory/_/My+Friends+Over+You</link>
+      <guid isPermaLink="false">rockijosh-1706116921--6acb932e-840d-47ac-8e0d-725ad8a6e52c---My Friends Over You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e86f8f18ff3340b4c01eddafc844412a.png" length="206034" type="image/png"/>
+      <pubDate>Wed, 24 Jan 2024 12:22:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Taking Back Sunday - Error Operator (4 plays)</title>
+      <link>https://www.last.fm/music/Taking+Back+Sunday/_/Error+Operator</link>
+      <guid isPermaLink="false">rockijosh-1706117142--350bce49-c21b-4137-b50a-0766ded07e4d---Error Operator</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b7ea865002d93488cb6070f37dc8df3.jpg" length="19321" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jan 2024 12:25:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
