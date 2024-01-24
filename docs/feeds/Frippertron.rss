@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 16:21:58 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Let's Dance (61 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Let%27s+Dance</link>
-      <guid isPermaLink="false">Frippertron-1706078335--5441c29d-3602-4898-b1a1-b77fa23b8e50---Let's Dance</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12cd5ebef24922cd8110c609045c2cd0.jpg" length="21029" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jan 2024 01:38:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - It's No Game (Part 1) (76 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/It%27s+No+Game+(Part+1)</link>
-      <guid isPermaLink="false">Frippertron-1706079326--5441c29d-3602-4898-b1a1-b77fa23b8e50---It's No Game (Part 1)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jan 2024 01:55:26 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jan 2024 16:43:19 +0000</lastBuildDate>
     <item>
       <title>The Doors - Break on Through (to the Other Side) (43 plays)</title>
       <link>https://www.last.fm/music/The+Doors/_/Break+on+Through+(to+the+Other+Side)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1706113049--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Pearl's Girl</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f54712883ab45a2c5b3e3449b31208b.png" length="11669" type="image/png"/>
       <pubDate>Wed, 24 Jan 2024 11:17:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mr. Bungle - Travolta (3 plays)</title>
+      <link>https://www.last.fm/music/Mr.+Bungle/_/Travolta</link>
+      <guid isPermaLink="false">Frippertron-1706113944--277e21a9-2d64-452d-96c4-2d23a7af5891---Travolta</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c707dcaf2abbc6561b5b808a531510aa.jpg" length="29079" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jan 2024 11:32:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mr. Bungle - Slowly Growing Deaf (14 plays)</title>
+      <link>https://www.last.fm/music/Mr.+Bungle/_/Slowly+Growing+Deaf</link>
+      <guid isPermaLink="false">Frippertron-1706114361--277e21a9-2d64-452d-96c4-2d23a7af5891---Slowly Growing Deaf</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c707dcaf2abbc6561b5b808a531510aa.jpg" length="29079" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jan 2024 11:39:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
