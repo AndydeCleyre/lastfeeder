@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jan 2024 05:37:16 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Star (88 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Star</link>
-      <guid isPermaLink="false">Frippertron-1706095037--5441c29d-3602-4898-b1a1-b77fa23b8e50---Star</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c2b90cdffb49817f96f13746eafbe79.jpg" length="24706" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jan 2024 06:17:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Hang On to Yourself (106 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Hang+On+to+Yourself</link>
-      <guid isPermaLink="false">Frippertron-1706095207--5441c29d-3602-4898-b1a1-b77fa23b8e50---Hang On to Yourself</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c2b90cdffb49817f96f13746eafbe79.jpg" length="24706" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jan 2024 06:20:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jan 2024 05:52:23 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Ziggy Stardust (137 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Ziggy+Stardust</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1706160567--9efff43b-3b29-4082-824e-bc82f646f93d---When the Music's Over</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4a3df5139914c5190350c0e1c59094b.png" length="232933" type="image/png"/>
       <pubDate>Thu, 25 Jan 2024 00:29:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Doors - Been Down So Long (14 plays)</title>
+      <link>https://www.last.fm/music/The+Doors/_/Been+Down+So+Long</link>
+      <guid isPermaLink="false">Frippertron-1706161284--9efff43b-3b29-4082-824e-bc82f646f93d---Been Down So Long</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f1f75ac5348477cc7b34f5ad21c9dae.png" length="111459" type="image/png"/>
+      <pubDate>Thu, 25 Jan 2024 00:41:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Starman (118 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Starman</link>
+      <guid isPermaLink="false">Frippertron-1706161580--5441c29d-3602-4898-b1a1-b77fa23b8e50---Starman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jan 2024 00:46:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
