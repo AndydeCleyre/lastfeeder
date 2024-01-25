@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jan 2024 11:14:29 +0000</lastBuildDate>
-    <item>
-      <title>The Doors - Been Down So Long (14 plays)</title>
-      <link>https://www.last.fm/music/The+Doors/_/Been+Down+So+Long</link>
-      <guid isPermaLink="false">Frippertron-1706161284--9efff43b-3b29-4082-824e-bc82f646f93d---Been Down So Long</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f1f75ac5348477cc7b34f5ad21c9dae.png" length="111459" type="image/png"/>
-      <pubDate>Thu, 25 Jan 2024 00:41:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jan 2024 11:26:14 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Starman (118 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Starman</link>
@@ -93,7 +86,7 @@
       <pubDate>Thu, 25 Jan 2024 01:26:43 -0500</pubDate>
     </item>
     <item>
-      <title>Mr. Bungle - Sweet Charity (42 plays)</title>
+      <title>Mr. Bungle - Sweet Charity (43 plays)</title>
       <link>https://www.last.fm/music/Mr.+Bungle/_/Sweet+Charity</link>
       <guid isPermaLink="false">Frippertron-1706164287--277e21a9-2d64-452d-96c4-2d23a7af5891---Sweet Charity</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/816c50e7a551418f8978d9b29e9ce9d1.png" length="19229" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1706181033--277e21a9-2d64-452d-96c4-2d23a7af5891---Merry Go Bye Bye</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 25 Jan 2024 06:10:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mr. Bungle - Sweet Charity (43 plays)</title>
+      <link>https://www.last.fm/music/Mr.+Bungle/_/Sweet+Charity</link>
+      <guid isPermaLink="false">Frippertron-1706181666--277e21a9-2d64-452d-96c4-2d23a7af5891---Sweet Charity</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/816c50e7a551418f8978d9b29e9ce9d1.png" length="19229" type="image/png"/>
+      <pubDate>Thu, 25 Jan 2024 06:21:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
