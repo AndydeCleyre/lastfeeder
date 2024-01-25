@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 18:19:55 +0000</lastBuildDate>
-    <item>
-      <title>Kendrick Lamar - i (5 plays)</title>
-      <link>https://www.last.fm/music/Kendrick+Lamar/_/i</link>
-      <guid isPermaLink="false">TalonsOfFire-1705941025--381086ea-f511-4aba-bdf9-71c753dc5077---i</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86b35c4eb3c479da49c915d8771bbd1a.png" length="172128" type="image/png"/>
-      <pubDate>Mon, 22 Jan 2024 11:30:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Laraaji - Meditation #2 (10 plays)</title>
-      <link>https://www.last.fm/music/Laraaji/_/Meditation+%232</link>
-      <guid isPermaLink="false">TalonsOfFire-1705941362--249e0ab9-2690-47f3-8c9a-ef7bb62ee466---Meditation #2</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4619a91e11e92ca87459542325bd3774.png" length="261938" type="image/png"/>
-      <pubDate>Mon, 22 Jan 2024 11:36:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jan 2024 17:29:59 +0000</lastBuildDate>
     <item>
       <title>Mastodon - The Sparrow (5 plays)</title>
       <link>https://www.last.fm/music/Mastodon/_/The+Sparrow</link>
@@ -264,6 +250,7 @@
       <title>Autumn's Grey Solace - Fractured (4 plays)</title>
       <link>https://www.last.fm/music/Autumn%27s+Grey+Solace/_/Fractured</link>
       <guid isPermaLink="false">TalonsOfFire-1705955003--2f0c6064-1503-4a69-a580-9da411985772---Fractured</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9cc8e2d254115bb05bb38bce85cd0cd0.jpg" length="10156" type="image/jpeg"/>
       <pubDate>Mon, 22 Jan 2024 15:23:23 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1705959280--e8d1865b-e8c1-499a-8063-9286d51b5e66---Window Somewhere</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e10f27cbf2fa44b3eb5a14a5a17089dc.jpg" length="8702" type="image/jpeg"/>
       <pubDate>Mon, 22 Jan 2024 16:34:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Smile - Wall of Eyes (4 plays)</title>
+      <link>https://www.last.fm/music/The+Smile/_/Wall+of+Eyes</link>
+      <guid isPermaLink="false">TalonsOfFire-1706202713--9055fca5-69bc-4d47-b569-ab2012a19565---Wall of Eyes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a43c6cfd9d14f09ae31e7f1b00fae5b8.jpg" length="39529" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jan 2024 12:11:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Smile - Teleharmonic (3 plays)</title>
+      <link>https://www.last.fm/music/The+Smile/_/Teleharmonic</link>
+      <guid isPermaLink="false">TalonsOfFire-1706203020--9055fca5-69bc-4d47-b569-ab2012a19565---Teleharmonic</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a43c6cfd9d14f09ae31e7f1b00fae5b8.jpg" length="39529" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jan 2024 12:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
