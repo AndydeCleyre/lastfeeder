@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jan 2024 11:26:14 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Starman (118 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Starman</link>
-      <guid isPermaLink="false">Frippertron-1706161580--5441c29d-3602-4898-b1a1-b77fa23b8e50---Starman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jan 2024 00:46:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Velvet Underground - Pale Blue Eyes (15 plays)</title>
-      <link>https://www.last.fm/music/The+Velvet+Underground/_/Pale+Blue+Eyes</link>
-      <guid isPermaLink="false">Frippertron-1706161824--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---Pale Blue Eyes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9508856b4a0c8f380809017af9f61974.jpg" length="16770" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jan 2024 00:50:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jan 2024 11:38:41 +0000</lastBuildDate>
     <item>
       <title>The Velvet Underground - White Light/White Heat (111 plays)</title>
       <link>https://www.last.fm/music/The+Velvet+Underground/_/White+Light%2FWhite+Heat</link>
@@ -93,7 +79,7 @@
       <pubDate>Thu, 25 Jan 2024 01:31:27 -0500</pubDate>
     </item>
     <item>
-      <title>Mr. Bungle - None of Them Knew They Were Robots (73 plays)</title>
+      <title>Mr. Bungle - None of Them Knew They Were Robots (74 plays)</title>
       <link>https://www.last.fm/music/Mr.+Bungle/_/None+of+Them+Knew+They+Were+Robots</link>
       <guid isPermaLink="false">Frippertron-1706164593--277e21a9-2d64-452d-96c4-2d23a7af5891---None of Them Knew They Were Robots</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/816c50e7a551418f8978d9b29e9ce9d1.png" length="19229" type="image/png"/>
@@ -303,7 +289,7 @@
       <pubDate>Thu, 25 Jan 2024 05:43:45 -0500</pubDate>
     </item>
     <item>
-      <title>Mr. Bungle - Goodbye Sober Day (34 plays)</title>
+      <title>Mr. Bungle - Goodbye Sober Day (35 plays)</title>
       <link>https://www.last.fm/music/Mr.+Bungle/_/Goodbye+Sober+Day</link>
       <guid isPermaLink="false">Frippertron-1706179738--277e21a9-2d64-452d-96c4-2d23a7af5891---Goodbye Sober Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1706181666--277e21a9-2d64-452d-96c4-2d23a7af5891---Sweet Charity</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/816c50e7a551418f8978d9b29e9ce9d1.png" length="19229" type="image/png"/>
       <pubDate>Thu, 25 Jan 2024 06:21:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mr. Bungle - None of Them Knew They Were Robots (74 plays)</title>
+      <link>https://www.last.fm/music/Mr.+Bungle/_/None+of+Them+Knew+They+Were+Robots</link>
+      <guid isPermaLink="false">Frippertron-1706182029--277e21a9-2d64-452d-96c4-2d23a7af5891---None of Them Knew They Were Robots</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/816c50e7a551418f8978d9b29e9ce9d1.png" length="19229" type="image/png"/>
+      <pubDate>Thu, 25 Jan 2024 06:27:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mr. Bungle - Goodbye Sober Day (35 plays)</title>
+      <link>https://www.last.fm/music/Mr.+Bungle/_/Goodbye+Sober+Day</link>
+      <guid isPermaLink="false">Frippertron-1706182518--277e21a9-2d64-452d-96c4-2d23a7af5891---Goodbye Sober Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/816c50e7a551418f8978d9b29e9ce9d1.png" length="19229" type="image/png"/>
+      <pubDate>Thu, 25 Jan 2024 06:35:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
