@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jan 2024 10:52:23 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - All My Life (3 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/All+My+Life</link>
-      <guid isPermaLink="false">Arcade1996-1706239951--67f66c07-6e61-4026-ade5-7e782fad3a5d---All My Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c5da11278ee0a298360c2386f5d2d43d.jpg" length="11680" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jan 2024 22:32:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>Foo Fighters - Learn to Fly (13 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Learn+to+Fly</link>
-      <guid isPermaLink="false">Arcade1996-1706240215--67f66c07-6e61-4026-ade5-7e782fad3a5d---Learn to Fly</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f47acfda92b4ff488a52aee4b80da3f.png" length="148721" type="image/png"/>
-      <pubDate>Thu, 25 Jan 2024 22:36:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Jan 2024 11:13:10 +0000</lastBuildDate>
     <item>
       <title>Red Hot Chili Peppers - Can't Stop (5 plays)</title>
       <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%27t+Stop</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1706262196--4bd95eea-b9f6-4d70-a36c-cfea77431553---Nutshell</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4fc787619d07768309e5307e47cab9c3.gif" length="367445" type="image/gif"/>
       <pubDate>Fri, 26 Jan 2024 04:43:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Red Hot Chili Peppers - Breaking the Girl (7 plays)</title>
+      <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Breaking+the+Girl</link>
+      <guid isPermaLink="false">Arcade1996-1706265906--8bfac288-ccc5-448d-9573-c33ea2aa5c30---Breaking the Girl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/426f10a255a07002b3702e4bc275ec44.jpg" length="31769" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jan 2024 05:45:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Smashing Pumpkins - 1979 - Remastered 2012 (4 plays)</title>
+      <link>https://www.last.fm/music/The+Smashing+Pumpkins/_/1979+-+Remastered+2012</link>
+      <guid isPermaLink="false">Arcade1996-1706266930--ba0d6274-db14-4ef5-b28d-657ebde1a396---1979 - Remastered 2012</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a453e940a8945b4c5b2766f76ece94a.jpg" length="29852" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jan 2024 06:02:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
