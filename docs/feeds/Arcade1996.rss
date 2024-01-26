@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jan 2024 05:15:03 +0000</lastBuildDate>
-    <item>
-      <title>Justice - One Night/All Night (1 play)</title>
-      <link>https://www.last.fm/music/Justice/_/One+Night%2FAll+Night</link>
-      <guid isPermaLink="false">Arcade1996-1706139859--Justice---One Night/All Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/973e38df0c26524edb6f27e76b3812f4.jpg" length="11198" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jan 2024 18:44:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Justice - Generator (1 play)</title>
-      <link>https://www.last.fm/music/Justice/_/Generator</link>
-      <guid isPermaLink="false">Arcade1996-1706140135--Justice---Generator</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/973e38df0c26524edb6f27e76b3812f4.jpg" length="11198" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jan 2024 18:48:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>Squid - Fugue (Bin Song) (1 play)</title>
-      <link>https://www.last.fm/music/Squid/_/Fugue+(Bin+Song)</link>
-      <guid isPermaLink="false">Arcade1996-1706140419--5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45---Fugue (Bin Song)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ebe56ceca425f73e47979d002b6090c.jpg" length="18338" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jan 2024 18:53:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Bullion - Rare (1 play)</title>
-      <link>https://www.last.fm/music/Bullion/_/Rare</link>
-      <guid isPermaLink="false">Arcade1996-1706140742--9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08---Rare</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61493e11bf341620fce9afd679460e8f.jpg" length="10395" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jan 2024 18:59:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Jan 2024 05:28:19 +0000</lastBuildDate>
     <item>
       <title>Bleachers - Tiny Moves (4 plays)</title>
       <link>https://www.last.fm/music/Bleachers/_/Tiny+Moves</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">Arcade1996-1706245772--8bfac288-ccc5-448d-9573-c33ea2aa5c30---Higher Ground - Remastered 2003</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c854bd8b109948a2b882d7b97b042583.jpg" length="17345" type="image/jpeg"/>
       <pubDate>Fri, 26 Jan 2024 00:09:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Linkin Park - Bleed It Out (6 plays)</title>
+      <link>https://www.last.fm/music/Linkin+Park/_/Bleed+It+Out</link>
+      <guid isPermaLink="false">Arcade1996-1706245974--f59c5520-5f46-4d2c-b2c4-822eabf53419---Bleed It Out</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg" length="14047" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jan 2024 00:12:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>blink-182 - Mutt (2 plays)</title>
+      <link>https://www.last.fm/music/blink-182/_/Mutt</link>
+      <guid isPermaLink="false">Arcade1996-1706246139--0743b15a-3c32-48c8-ad58-cb325350befa---Mutt</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f84a1b9b2634750bdd014c2bb646d96.png" length="188402" type="image/png"/>
+      <pubDate>Fri, 26 Jan 2024 00:15:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Foo Fighters - DOA (3 plays)</title>
+      <link>https://www.last.fm/music/Foo+Fighters/_/DOA</link>
+      <guid isPermaLink="false">Arcade1996-1706246343--67f66c07-6e61-4026-ade5-7e782fad3a5d---DOA</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3b076a45d944b508d4455556b96b5ad.png" length="188854" type="image/png"/>
+      <pubDate>Fri, 26 Jan 2024 00:19:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Third Eye Blind - Semi-Charmed Life (12 plays)</title>
+      <link>https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life</link>
+      <guid isPermaLink="false">Arcade1996-1706246596--92a42e82-b36f-4308-82c1-68bad2e03c89---Semi-Charmed Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db988c17346e78cece2ac1f5d82c1802.jpg" length="12758" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jan 2024 00:23:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
