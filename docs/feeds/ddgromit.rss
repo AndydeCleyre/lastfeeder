@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jan 2024 03:16:21 +0000</lastBuildDate>
-    <item>
-      <title>Booka Shade - Blaze (1 play)</title>
-      <link>https://www.last.fm/music/Booka+Shade/_/Blaze</link>
-      <guid isPermaLink="false">ddgromit-1706225260--Booka Shade---Blaze</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb0b95accfc027554345bfe24552174e.jpg" length="20924" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jan 2024 18:27:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jan 2024 03:37:08 +0000</lastBuildDate>
     <item>
       <title>Bicep - JUST (1 play)</title>
       <link>https://www.last.fm/music/Bicep/_/JUST</link>
@@ -296,7 +289,7 @@
       <pubDate>Fri, 26 Jan 2024 21:46:47 -0500</pubDate>
     </item>
     <item>
-      <title>Muffin Songs - Five Little Monkeys (1 play)</title>
+      <title>Muffin Songs - Five Little Monkeys (2 plays)</title>
       <link>https://www.last.fm/music/Muffin+Songs/_/Five+Little+Monkeys</link>
       <guid isPermaLink="false">ddgromit-1706323712--Muffin Songs---Five Little Monkeys</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c8eb07064d4b1c5ba7df6842fefcb5.jpg" length="31318" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1706324792--The Little Sunshine Kids---Rain, Rain Go Away</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad4885538d9be8a3d029a19e6000f2d0.jpg" length="28960" type="image/jpeg"/>
       <pubDate>Fri, 26 Jan 2024 22:06:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Muffin Songs - Five Little Monkeys (2 plays)</title>
+      <link>https://www.last.fm/music/Muffin+Songs/_/Five+Little+Monkeys</link>
+      <guid isPermaLink="false">ddgromit-1706324891--Muffin Songs---Five Little Monkeys</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c8eb07064d4b1c5ba7df6842fefcb5.jpg" length="31318" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jan 2024 22:08:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
