@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jan 2024 04:37:19 +0000</lastBuildDate>
-    <item>
-      <title>Underworld - Kittens (1 play)</title>
-      <link>https://www.last.fm/music/Underworld/_/Kittens</link>
-      <guid isPermaLink="false">Frippertron-1706268497--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Kittens</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ebe5b9fcd0dc94feea1fa8c6200bb46.jpg" length="6565" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jan 2024 06:28:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mr. Bungle - Dead Goon (12 plays)</title>
-      <link>https://www.last.fm/music/Mr.+Bungle/_/Dead+Goon</link>
-      <guid isPermaLink="false">Frippertron-1706272487--277e21a9-2d64-452d-96c4-2d23a7af5891---Dead Goon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/929845b30904a0a37b4a5a94f5b8b271.jpg" length="20198" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jan 2024 07:34:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jan 2024 04:52:20 +0000</lastBuildDate>
     <item>
       <title>Mr. Bungle - The Stroke (1 play)</title>
       <link>https://www.last.fm/music/Mr.+Bungle/_/The+Stroke</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1706329909--277e21a9-2d64-452d-96c4-2d23a7af5891---Goodbye Sober Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/816c50e7a551418f8978d9b29e9ce9d1.png" length="19229" type="image/png"/>
       <pubDate>Fri, 26 Jan 2024 23:31:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Mayday Galliard (252 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
+      <guid isPermaLink="false">Frippertron-1706330185--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 26 Jan 2024 23:36:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - The Last Judgement (98 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/The+Last+Judgement</link>
+      <guid isPermaLink="false">Frippertron-1706330621--66f8692c-966d-4dfb-a2ed-babf51241922---The Last Judgement</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 26 Jan 2024 23:43:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
