@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jan 2024 04:52:20 +0000</lastBuildDate>
-    <item>
-      <title>Mr. Bungle - The Stroke (1 play)</title>
-      <link>https://www.last.fm/music/Mr.+Bungle/_/The+Stroke</link>
-      <guid isPermaLink="false">Frippertron-1706272749--277e21a9-2d64-452d-96c4-2d23a7af5891---The Stroke</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/929845b30904a0a37b4a5a94f5b8b271.jpg" length="20198" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jan 2024 07:39:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jan 2024 05:14:20 +0000</lastBuildDate>
     <item>
       <title>Mr. Bungle - Time (1 play)</title>
       <link>https://www.last.fm/music/Mr.+Bungle/_/Time</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1706330621--66f8692c-966d-4dfb-a2ed-babf51241922---The Last Judgement</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 26 Jan 2024 23:43:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Enid - In the Region of the Summer Stars (125 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/In+the+Region+of+the+Summer+Stars</link>
+      <guid isPermaLink="false">Frippertron-1706331181--66f8692c-966d-4dfb-a2ed-babf51241922---In the Region of the Summer Stars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 26 Jan 2024 23:53:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
