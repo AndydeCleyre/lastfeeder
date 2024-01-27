@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jan 2024 06:38:09 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - DOA (3 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/DOA</link>
-      <guid isPermaLink="false">Arcade1996-1706246343--67f66c07-6e61-4026-ade5-7e782fad3a5d---DOA</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3b076a45d944b508d4455556b96b5ad.png" length="188854" type="image/png"/>
-      <pubDate>Fri, 26 Jan 2024 00:19:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jan 2024 10:52:28 +0000</lastBuildDate>
     <item>
       <title>Third Eye Blind - Semi-Charmed Life (12 plays)</title>
       <link>https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1706337146--Everything But the Girl---Missing - Todd Terry Remix / Radio Edit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d0ccd404f0fc79eb73fc58ebf795bb3.jpg" length="14910" type="image/jpeg"/>
       <pubDate>Sat, 27 Jan 2024 01:32:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Massive Attack - Live With Me - Remastered 2006 (3 plays)</title>
+      <link>https://www.last.fm/music/Massive+Attack/_/Live+With+Me+-+Remastered+2006</link>
+      <guid isPermaLink="false">Arcade1996-1706337390--Massive Attack---Live With Me - Remastered 2006</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a13312b6637b94bd56cf45073ea5f255.jpg" length="15967" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jan 2024 01:36:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
