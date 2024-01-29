@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jan 2024 10:37:13 +0000</lastBuildDate>
-    <item>
-      <title>Cymbals - E.G.G. (18 plays)</title>
-      <link>https://www.last.fm/music/Cymbals/_/E.G.G.</link>
-      <guid isPermaLink="false">Frippertron-1706502794--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---E.G.G.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebb05e58820271771421c490de81714.png" length="169815" type="image/png"/>
-      <pubDate>Sun, 28 Jan 2024 23:33:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cymbals - Bonjour Bonsoir (9 plays)</title>
-      <link>https://www.last.fm/music/Cymbals/_/Bonjour+Bonsoir</link>
-      <guid isPermaLink="false">Frippertron-1706503053--43a623d8-c0c8-4ecb-af6c-cf2e3a1364c9---Bonjour Bonsoir</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aebb05e58820271771421c490de81714.png" length="169815" type="image/png"/>
-      <pubDate>Sun, 28 Jan 2024 23:37:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jan 2024 10:52:22 +0000</lastBuildDate>
     <item>
       <title>Underworld - Push Upstairs (8 plays)</title>
       <link>https://www.last.fm/music/Underworld/_/Push+Upstairs</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1706524387--bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810---Stayin' Alive</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d2aa2e3fb2f45c4a4c22738729fb8bd.png" length="126265" type="image/png"/>
       <pubDate>Mon, 29 Jan 2024 05:33:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swans Way - Soul Train (45 plays)</title>
+      <link>https://www.last.fm/music/Swans+Way/_/Soul+Train</link>
+      <guid isPermaLink="false">Frippertron-1706524671--45d9f04f-b6c8-4d01-9e02-0071b29302df---Soul Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47a9ee59b8d24813b2a0bd40a95cd31d.jpg" length="23852" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jan 2024 05:37:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Station to Station (102 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Station+to+Station</link>
+      <guid isPermaLink="false">Frippertron-1706524915--5441c29d-3602-4898-b1a1-b77fa23b8e50---Station to Station</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jan 2024 05:41:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
