@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jan 2024 02:52:45 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Joe the Lion (73 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Joe+the+Lion</link>
-      <guid isPermaLink="false">Frippertron-1706353498--5441c29d-3602-4898-b1a1-b77fa23b8e50---Joe the Lion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Sat, 27 Jan 2024 06:04:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jan 2024 03:16:51 +0000</lastBuildDate>
     <item>
       <title>David Bowie - "Heroes" (125 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/%22Heroes%22</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1706496673--9efff43b-3b29-4082-824e-bc82f646f93d---The Crystal Ship</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24590e4ca3a94c748d6c8452ce52467b.png" length="173091" type="image/png"/>
       <pubDate>Sun, 28 Jan 2024 21:51:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Saints - Know Your Product (34 plays)</title>
+      <link>https://www.last.fm/music/The+Saints/_/Know+Your+Product</link>
+      <guid isPermaLink="false">Frippertron-1706497861--The Saints---Know Your Product</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/05a7ac70a1ba4ddf8b9157ad84799476.jpg" length="26830" type="image/jpeg"/>
+      <pubDate>Sun, 28 Jan 2024 22:11:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
