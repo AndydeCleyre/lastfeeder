@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jan 2024 13:37:20 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - Best of You (8 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Best+of+You</link>
-      <guid isPermaLink="false">Arcade1996-1706506779--67f66c07-6e61-4026-ade5-7e782fad3a5d---Best of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3b076a45d944b508d4455556b96b5ad.png" length="188854" type="image/png"/>
-      <pubDate>Mon, 29 Jan 2024 00:39:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Jan 2024 13:52:22 +0000</lastBuildDate>
     <item>
       <title>Green Day - Jesus of Suburbia (2 plays)</title>
       <link>https://www.last.fm/music/Green+Day/_/Jesus+of+Suburbia</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1706621475--ea4dfa26-f633-4da6-a52a-f49ea4897b58---Nightswimming</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ceb7b050dee4411380a41135e7a68b16.png" length="204576" type="image/png"/>
       <pubDate>Tue, 30 Jan 2024 08:31:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>R.E.M. - Find the River (13 plays)</title>
+      <link>https://www.last.fm/music/R.E.M./_/Find+the+River</link>
+      <guid isPermaLink="false">Arcade1996-1706621745--ea4dfa26-f633-4da6-a52a-f49ea4897b58---Find the River</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ceb7b050dee4411380a41135e7a68b16.png" length="204576" type="image/png"/>
+      <pubDate>Tue, 30 Jan 2024 08:35:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
