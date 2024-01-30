@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jan 2024 10:17:51 +0000</lastBuildDate>
-    <item>
-      <title>Red Hot Chili Peppers - Venice Queen (2 plays)</title>
-      <link>https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Venice+Queen</link>
-      <guid isPermaLink="false">Arcade1996-1706496478--8bfac288-ccc5-448d-9573-c33ea2aa5c30---Venice Queen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/598b41917c70a08782be7986198fabdc.jpg" length="27931" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jan 2024 21:47:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Jan 2024 10:37:30 +0000</lastBuildDate>
     <item>
       <title>Nirvana - Something in the Way (2 plays)</title>
       <link>https://www.last.fm/music/Nirvana/_/Something+in+the+Way</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1706609619--5882e375-503f-4bd2-89b1-967e0bfcb199---Party Zone World</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e75455d2ea7938f4a46be4e31b2823f.jpg" length="13068" type="image/jpeg"/>
       <pubDate>Tue, 30 Jan 2024 05:13:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kim Gordon - BYE BYE (9 plays)</title>
+      <link>https://www.last.fm/music/Kim+Gordon/_/BYE+BYE</link>
+      <guid isPermaLink="false">Arcade1996-1706609810--19301485-ac9c-4dad-885b-cd8e8c8b4184---BYE BYE</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dfcd628bab824b6054f551266c5ed8b7.jpg" length="12272" type="image/jpeg"/>
+      <pubDate>Tue, 30 Jan 2024 05:16:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
