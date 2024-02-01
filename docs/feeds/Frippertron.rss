@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 06:21:28 +0000</lastBuildDate>
-    <item>
-      <title>Wizzard - Main Street (14 plays)</title>
-      <link>https://www.last.fm/music/Wizzard/_/Main+Street</link>
-      <guid isPermaLink="false">Frippertron-1706693797--eb787d5d-7f36-4632-9f81-5fe66e4c1f6a---Main Street</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76374c6e7ef54ad7cab1a8113a374056.jpg" length="33655" type="image/jpeg"/>
-      <pubDate>Wed, 31 Jan 2024 04:36:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Feb 2024 06:37:56 +0000</lastBuildDate>
     <item>
       <title>Roy Wood - Dancin' At The Rainbow's End (21 plays)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/Dancin%27+At+The+Rainbow%27s+End</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1706768257--20883363-1ea4-4d72-ad72-c0e767038f3e---The Widow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Thu, 01 Feb 2024 01:17:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - L'Via L'Viaquezł (6 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/L%27Via+L%27Viaquez%C5%82</link>
+      <guid isPermaLink="false">Frippertron-1706768610--The Mars Volta---L'Via L'Viaquezł</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Thu, 01 Feb 2024 01:23:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
