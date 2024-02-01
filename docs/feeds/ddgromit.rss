@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 02:01:54 +0000</lastBuildDate>
-    <item>
-      <title>The Wiggles - Shake Your Sillies Out (1 play)</title>
-      <link>https://www.last.fm/music/The+Wiggles/_/Shake+Your+Sillies+Out</link>
-      <guid isPermaLink="false">ddgromit-1706630430--e684ed8b-bced-4e0f-bdfa-462861891409---Shake Your Sillies Out</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee2fa338e0d34565b84a6be45fbed117.jpg" length="24785" type="image/jpeg"/>
-      <pubDate>Tue, 30 Jan 2024 11:00:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sure Sure - This Must Be the Place (10 plays)</title>
-      <link>https://www.last.fm/music/Sure+Sure/_/This+Must+Be+the+Place</link>
-      <guid isPermaLink="false">ddgromit-1706630548--861a735d-76b9-4ee1-b1e4-91d27b9129c1---This Must Be the Place</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be0fb985ba22b5d44f77e8a8fee40093.jpg" length="12267" type="image/jpeg"/>
-      <pubDate>Tue, 30 Jan 2024 11:02:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Feb 2024 02:31:47 +0000</lastBuildDate>
     <item>
       <title>Fleetwood Mac - Everywhere - 2017 Remaster (9 plays)</title>
       <link>https://www.last.fm/music/Fleetwood+Mac/_/Everywhere+-+2017+Remaster</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1706752502--e684ed8b-bced-4e0f-bdfa-462861891409---Here Come the Wiggles</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed10fe82d6f68f6cd081da7179f26b3d.jpg" length="28240" type="image/jpeg"/>
       <pubDate>Wed, 31 Jan 2024 20:55:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Raffi - Baby Beluga (44 plays)</title>
+      <link>https://www.last.fm/music/Raffi/_/Baby+Beluga</link>
+      <guid isPermaLink="false">ddgromit-1706752927--d5d5ba92-4bd4-4975-9806-99339eed3046---Baby Beluga</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24ec55558fcc4c2cae7242119563a70d.jpg" length="19879" type="image/jpeg"/>
+      <pubDate>Wed, 31 Jan 2024 21:02:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Raffi - Wheels on the Bus (25 plays)</title>
+      <link>https://www.last.fm/music/Raffi/_/Wheels+on+the+Bus</link>
+      <guid isPermaLink="false">ddgromit-1706753089--d5d5ba92-4bd4-4975-9806-99339eed3046---Wheels on the Bus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/351423c7772b46159d9f425738419989.jpg" length="17269" type="image/jpeg"/>
+      <pubDate>Wed, 31 Jan 2024 21:04:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
