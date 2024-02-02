@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 04:52:13 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Station to Station (104 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Station+to+Station</link>
-      <guid isPermaLink="false">Frippertron-1706781148--5441c29d-3602-4898-b1a1-b77fa23b8e50---Station to Station</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Thu, 01 Feb 2024 04:52:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Feb 2024 05:16:17 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Beauty and the Beast (175 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1706849193--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Thu, 01 Feb 2024 23:46:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Discipline (44 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Discipline</link>
+      <guid isPermaLink="false">Frippertron-1706849994--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Discipline</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 01 Feb 2024 23:59:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
