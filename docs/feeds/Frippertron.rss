@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 05:37:11 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Blackout (79 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Blackout</link>
-      <guid isPermaLink="false">Frippertron-1706782840--5441c29d-3602-4898-b1a1-b77fa23b8e50---Blackout</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Thu, 01 Feb 2024 05:20:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Feb 2024 05:52:08 +0000</lastBuildDate>
     <item>
       <title>Mr. Bungle - Sweet Charity (52 plays)</title>
       <link>https://www.last.fm/music/Mr.+Bungle/_/Sweet+Charity</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1706851961--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Our Day Will Come</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7499bd150f2ab72fb818a7c90793ac95.jpg" length="28797" type="image/jpeg"/>
       <pubDate>Fri, 02 Feb 2024 00:32:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Isaac Hayes - The Look of Love (5 plays)</title>
+      <link>https://www.last.fm/music/Isaac+Hayes/_/The+Look+of+Love</link>
+      <guid isPermaLink="false">Frippertron-1706852291--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---The Look of Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7499bd150f2ab72fb818a7c90793ac95.jpg" length="28797" type="image/jpeg"/>
+      <pubDate>Fri, 02 Feb 2024 00:38:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
