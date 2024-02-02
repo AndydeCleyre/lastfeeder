@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 10:37:24 +0000</lastBuildDate>
-    <item>
-      <title>EVILGIANE - BRANDY (2 plays)</title>
-      <link>https://www.last.fm/music/EVILGIANE/_/BRANDY</link>
-      <guid isPermaLink="false">Arcade1996-1706781007--18cf137c-6d0f-4e9b-ab9a-a2cc96283ad9---BRANDY</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fcee82e43cff8e0a139a160e94282c46.jpg" length="42429" type="image/jpeg"/>
-      <pubDate>Thu, 01 Feb 2024 04:50:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Feb 2024 10:52:17 +0000</lastBuildDate>
     <item>
       <title>EVILGIANE - SHOTTAZ (2 plays)</title>
       <link>https://www.last.fm/music/EVILGIANE/_/SHOTTAZ</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1706869734--2ba62367-f36f-4d49-9439-9a81f22a47ce---Emily G</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03ad203735a88088537fc5fe9f46d061.jpg" length="11083" type="image/jpeg"/>
       <pubDate>Fri, 02 Feb 2024 05:28:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>John Cale - Paris 1919 (15 plays)</title>
+      <link>https://www.last.fm/music/John+Cale/_/Paris+1919</link>
+      <guid isPermaLink="false">Arcade1996-1706870083--72c090b6-a68e-4cb9-b330-85278681a714---Paris 1919</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5578cab39b47730a9ac36882c44dcf4e.jpg" length="14319" type="image/jpeg"/>
+      <pubDate>Fri, 02 Feb 2024 05:34:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
