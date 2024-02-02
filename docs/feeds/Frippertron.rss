@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 08:37:09 +0000</lastBuildDate>
-    <item>
-      <title>Faith No More - Land of Sunshine (1 play)</title>
-      <link>https://www.last.fm/music/Faith+No+More/_/Land+of+Sunshine</link>
-      <guid isPermaLink="false">Frippertron-1706810468--b15ebd71-a252-417d-9e1c-3e6863da68f8---Land of Sunshine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9a158a88c169bb31fea3b83f3704d1c.jpg" length="18241" type="image/jpeg"/>
-      <pubDate>Thu, 01 Feb 2024 13:01:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>Faith No More - Caffeine (1 play)</title>
-      <link>https://www.last.fm/music/Faith+No+More/_/Caffeine</link>
-      <guid isPermaLink="false">Frippertron-1706810700--b15ebd71-a252-417d-9e1c-3e6863da68f8---Caffeine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9a158a88c169bb31fea3b83f3704d1c.jpg" length="18241" type="image/jpeg"/>
-      <pubDate>Thu, 01 Feb 2024 13:05:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Feb 2024 08:52:24 +0000</lastBuildDate>
     <item>
       <title>Joy Division - I Remember Nothing (14 plays)</title>
       <link>https://www.last.fm/music/Joy+Division/_/I+Remember+Nothing</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1706862592--678d88b2-87b0-403b-b63d-5da7465aecc3---The Wanton Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
       <pubDate>Fri, 02 Feb 2024 03:29:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - For Your Life (65 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/For+Your+Life</link>
+      <guid isPermaLink="false">Frippertron-1706862841--678d88b2-87b0-403b-b63d-5da7465aecc3---For Your Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Fri, 02 Feb 2024 03:34:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Achilles Last Stand (66 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Achilles+Last+Stand</link>
+      <guid isPermaLink="false">Frippertron-1706863228--678d88b2-87b0-403b-b63d-5da7465aecc3---Achilles Last Stand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b644baf6fa80462ac63b8d7db60834c6.png" length="63267" type="image/png"/>
+      <pubDate>Fri, 02 Feb 2024 03:40:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
