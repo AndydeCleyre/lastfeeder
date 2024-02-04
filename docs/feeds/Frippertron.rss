@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Feb 2024 08:37:45 +0000</lastBuildDate>
-    <item>
-      <title>Mr. Bungle - Vanity Fair (71 plays)</title>
-      <link>https://www.last.fm/music/Mr.+Bungle/_/Vanity+Fair</link>
-      <guid isPermaLink="false">Frippertron-1706866353--277e21a9-2d64-452d-96c4-2d23a7af5891---Vanity Fair</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/816c50e7a551418f8978d9b29e9ce9d1.png" length="19229" type="image/png"/>
-      <pubDate>Fri, 02 Feb 2024 04:32:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Feb 2024 08:52:20 +0000</lastBuildDate>
     <item>
       <title>Mr. Bungle - Goodbye Sober Day (52 plays)</title>
       <link>https://www.last.fm/music/Mr.+Bungle/_/Goodbye+Sober+Day</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1707035088--f6c6cb0b-3419-4076-b27b-786f3aaa862b---Sukhna</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41b2eb93dfdf616b7399c85ad660a1e5.jpg" length="22082" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 03:24:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>ROVO - Guiding Star (5 plays)</title>
+      <link>https://www.last.fm/music/ROVO/_/Guiding+Star</link>
+      <guid isPermaLink="false">Frippertron-1707035722--f6c6cb0b-3419-4076-b27b-786f3aaa862b---Guiding Star</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41b2eb93dfdf616b7399c85ad660a1e5.jpg" length="22082" type="image/jpeg"/>
+      <pubDate>Sun, 04 Feb 2024 03:35:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
