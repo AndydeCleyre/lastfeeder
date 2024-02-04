@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Feb 2024 22:52:08 +0000</lastBuildDate>
-    <item>
-      <title>BADBADNOTGOOD - In Your Eyes (8 plays)</title>
-      <link>https://www.last.fm/music/BADBADNOTGOOD/_/In+Your+Eyes</link>
-      <guid isPermaLink="false">lintmunro-1705868543--754294d5-d7d2-4ea2-8184-1dcaaf55a56f---In Your Eyes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee6a03301fe2bfc3f5f75645e49a2c5c.jpg" length="22501" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jan 2024 15:22:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Masego - Tadow (11 plays)</title>
-      <link>https://www.last.fm/music/Masego/_/Tadow</link>
-      <guid isPermaLink="false">lintmunro-1705868790--Masego---Tadow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6f6f5d54642e25270ceec12d7a74546.jpg" length="23241" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jan 2024 15:26:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>BADBADNOTGOOD - In Your Eyes (8 plays)</title>
-      <link>https://www.last.fm/music/BADBADNOTGOOD/_/In+Your+Eyes</link>
-      <guid isPermaLink="false">lintmunro-1705868790--754294d5-d7d2-4ea2-8184-1dcaaf55a56f---In Your Eyes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee6a03301fe2bfc3f5f75645e49a2c5c.jpg" length="22501" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jan 2024 15:26:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>Arin Ray - ZZZ (13 plays)</title>
-      <link>https://www.last.fm/music/Arin+Ray/_/ZZZ</link>
-      <guid isPermaLink="false">lintmunro-1705869092--ba09f88f-d95a-4dad-8e99-60ce49349251---ZZZ</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e060d1c1a3c5d3449d30ec28d60c310f.jpg" length="6547" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jan 2024 15:31:32 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Feb 2024 23:14:52 +0000</lastBuildDate>
     <item>
       <title>Masego - Tadow (11 plays)</title>
       <link>https://www.last.fm/music/Masego/_/Tadow</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">lintmunro-1707086849--d672fa4e-5a17-46bb-9bbd-57e073a90159---On A Grassy Knoll (We'll Bow Together)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/26dfb2df4d335037fa1e6533562af56e.jpg" length="22842" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 17:47:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Daedelus - New Dae (1 play)</title>
+      <link>https://www.last.fm/music/Daedelus/_/New+Dae</link>
+      <guid isPermaLink="false">lintmunro-1707087107--c787a7a5-e143-4ba6-86df-fab2354dcd44---New Dae</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb79610dc146732d12b384317d44ff41.jpg" length="12083" type="image/jpeg"/>
+      <pubDate>Sun, 04 Feb 2024 17:51:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ironsides - Violet Vanished (1 play)</title>
+      <link>https://www.last.fm/music/Ironsides/_/Violet+Vanished</link>
+      <guid isPermaLink="false">lintmunro-1707087353--Ironsides---Violet Vanished</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/510e0175947848c9ba2e4b76b6f541fe.jpg" length="14688" type="image/jpeg"/>
+      <pubDate>Sun, 04 Feb 2024 17:55:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stove - Duckling Fantasy (1 play)</title>
+      <link>https://www.last.fm/music/Stove/_/Duckling+Fantasy</link>
+      <guid isPermaLink="false">lintmunro-1707087576--4ba09a9b-a604-41c7-b373-5e181e36bddd---Duckling Fantasy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95ea2cce73f08704921dce9703269187.jpg" length="31368" type="image/jpeg"/>
+      <pubDate>Sun, 04 Feb 2024 17:59:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mohini Dey - Introverted Soul (1 play)</title>
+      <link>https://www.last.fm/music/Mohini+Dey/_/Introverted+Soul</link>
+      <guid isPermaLink="false">lintmunro-1707087960--Mohini Dey---Introverted Soul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d74f6cb6d1f711834828107b54bdea18.jpg" length="28471" type="image/jpeg"/>
+      <pubDate>Sun, 04 Feb 2024 18:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
