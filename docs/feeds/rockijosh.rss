@@ -7,138 +7,75 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Feb 2024 18:23:00 +0000</lastBuildDate>
-    <item>
-      <title>Ava Max - Kings &amp; Queens (19 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/Kings+&amp;+Queens</link>
-      <guid isPermaLink="false">rockijosh-1707061746--add5f522-25df-41c4-815e-0ca9f60b83e4---Kings &amp; Queens</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
-      <pubDate>Sun, 04 Feb 2024 10:49:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ava Max - Naked (4 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/Naked</link>
-      <guid isPermaLink="false">rockijosh-1707061909--add5f522-25df-41c4-815e-0ca9f60b83e4---Naked</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
-      <pubDate>Sun, 04 Feb 2024 10:51:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ava Max - Tattoo (4 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/Tattoo</link>
-      <guid isPermaLink="false">rockijosh-1707062130--add5f522-25df-41c4-815e-0ca9f60b83e4---Tattoo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
-      <pubDate>Sun, 04 Feb 2024 10:55:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ava Max - OMG What's Happening (3 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/OMG+What%27s+Happening</link>
-      <guid isPermaLink="false">rockijosh-1707062290--add5f522-25df-41c4-815e-0ca9f60b83e4---OMG What's Happening</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
-      <pubDate>Sun, 04 Feb 2024 10:58:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ava Max - Call Me Tonight (3 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/Call+Me+Tonight</link>
-      <guid isPermaLink="false">rockijosh-1707062470--add5f522-25df-41c4-815e-0ca9f60b83e4---Call Me Tonight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
-      <pubDate>Sun, 04 Feb 2024 11:01:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ava Max - Born to the Night (3 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/Born+to+the+Night</link>
-      <guid isPermaLink="false">rockijosh-1707062641--add5f522-25df-41c4-815e-0ca9f60b83e4---Born to the Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
-      <pubDate>Sun, 04 Feb 2024 11:04:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ava Max - Torn (3 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/Torn</link>
-      <guid isPermaLink="false">rockijosh-1707062841--add5f522-25df-41c4-815e-0ca9f60b83e4---Torn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
-      <pubDate>Sun, 04 Feb 2024 11:07:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ava Max - Take You to Hell (2 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/Take+You+to+Hell</link>
-      <guid isPermaLink="false">rockijosh-1707063038--add5f522-25df-41c4-815e-0ca9f60b83e4---Take You to Hell</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
-      <pubDate>Sun, 04 Feb 2024 11:10:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ava Max - Who's Laughing Now (2 plays)</title>
-      <link>https://www.last.fm/music/Ava+Max/_/Who%27s+Laughing+Now</link>
-      <guid isPermaLink="false">rockijosh-1707063203--add5f522-25df-41c4-815e-0ca9f60b83e4---Who's Laughing Now</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
-      <pubDate>Sun, 04 Feb 2024 11:13:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Feb 2024 12:29:27 +0000</lastBuildDate>
     <item>
       <title>Ava Max - Belladonna (2 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/Belladonna</link>
       <guid isPermaLink="false">rockijosh-1707063383--add5f522-25df-41c4-815e-0ca9f60b83e4---Belladonna</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 11:16:23 -0500</pubDate>
     </item>
     <item>
       <title>Ava Max - Rumors (2 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/Rumors</link>
       <guid isPermaLink="false">rockijosh-1707063587--add5f522-25df-41c4-815e-0ca9f60b83e4---Rumors</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 11:19:47 -0500</pubDate>
     </item>
     <item>
       <title>Ava Max - So Am I (2 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/So+Am+I</link>
       <guid isPermaLink="false">rockijosh-1707063779--add5f522-25df-41c4-815e-0ca9f60b83e4---So Am I</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 11:22:59 -0500</pubDate>
     </item>
     <item>
       <title>Ava Max - Salt (4 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/Salt</link>
       <guid isPermaLink="false">rockijosh-1707063962--add5f522-25df-41c4-815e-0ca9f60b83e4---Salt</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 11:26:02 -0500</pubDate>
     </item>
     <item>
       <title>Ava Max - Sweet but Psycho (12 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/Sweet+but+Psycho</link>
       <guid isPermaLink="false">rockijosh-1707064143--add5f522-25df-41c4-815e-0ca9f60b83e4---Sweet but Psycho</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 11:29:03 -0500</pubDate>
     </item>
     <item>
       <title>Ava Max - My Head &amp; My Heart (17 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/My+Head+&amp;+My+Heart</link>
       <guid isPermaLink="false">rockijosh-1707064330--add5f522-25df-41c4-815e-0ca9f60b83e4---My Head &amp; My Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 11:32:10 -0500</pubDate>
     </item>
     <item>
       <title>Ava Max - H.E.A.V.E.N (3 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/H.E.A.V.E.N</link>
       <guid isPermaLink="false">rockijosh-1707064505--add5f522-25df-41c4-815e-0ca9f60b83e4---H.E.A.V.E.N</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 11:35:05 -0500</pubDate>
     </item>
     <item>
       <title>Ava Max - Kings &amp; Queens (19 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/Kings+&amp;+Queens</link>
       <guid isPermaLink="false">rockijosh-1707064612--add5f522-25df-41c4-815e-0ca9f60b83e4---Kings &amp; Queens</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 11:36:52 -0500</pubDate>
     </item>
     <item>
       <title>Ava Max - Naked (4 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/Naked</link>
       <guid isPermaLink="false">rockijosh-1707064774--add5f522-25df-41c4-815e-0ca9f60b83e4---Naked</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Sun, 04 Feb 2024 11:39:34 -0500</pubDate>
     </item>
     <item>
       <title>Ava Max - Tattoo (4 plays)</title>
       <link>https://www.last.fm/music/Ava+Max/_/Tattoo</link>
       <guid isPermaLink="false">rockijosh-1707134791--add5f522-25df-41c4-815e-0ca9f60b83e4---Tattoo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb807605367c0fcdacd01e3c47a920c1.jpg" length="9854" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg" length="14590" type="image/jpeg"/>
       <pubDate>Mon, 05 Feb 2024 07:06:31 -0500</pubDate>
     </item>
     <item>
@@ -282,7 +219,7 @@
       <pubDate>Mon, 05 Feb 2024 12:19:29 -0500</pubDate>
     </item>
     <item>
-      <title>BANKS - Waiting Game (24 plays)</title>
+      <title>BANKS - Waiting Game (25 plays)</title>
       <link>https://www.last.fm/music/BANKS/_/Waiting+Game</link>
       <guid isPermaLink="false">rockijosh-1707153812--faa28a33-5470-4b90-90c3-e71955d93a44---Waiting Game</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f168fe63b59774c9626824a73a04fee2.png" length="101093" type="image/png"/>
@@ -357,6 +294,69 @@
       <guid isPermaLink="false">rockijosh-1707156452--faa28a33-5470-4b90-90c3-e71955d93a44---Under the Table</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ae7b73d66ab8558b1dd95957b33a43d2.jpg" length="15872" type="image/jpeg"/>
       <pubDate>Mon, 05 Feb 2024 13:07:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>BANKS - Waiting Game (25 plays)</title>
+      <link>https://www.last.fm/music/BANKS/_/Waiting+Game</link>
+      <guid isPermaLink="false">rockijosh-1707156702--faa28a33-5470-4b90-90c3-e71955d93a44---Waiting Game</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f168fe63b59774c9626824a73a04fee2.png" length="101093" type="image/png"/>
+      <pubDate>Mon, 05 Feb 2024 13:11:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Charlotte Cardin - Dirty Dirty (102 plays)</title>
+      <link>https://www.last.fm/music/Charlotte+Cardin/_/Dirty+Dirty</link>
+      <guid isPermaLink="false">rockijosh-1707220315--62a6ba5d-6e8a-406d-a768-44a433ff1f7f---Dirty Dirty</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a65aba7f05156350056a8045b19fb802.jpg" length="10921" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 06:51:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pierce the Veil - May These Noises Startle You in Your Sleep Tonight (53 plays)</title>
+      <link>https://www.last.fm/music/Pierce+the+Veil/_/May+These+Noises+Startle+You+in+Your+Sleep+Tonight</link>
+      <guid isPermaLink="false">rockijosh-1707221050--8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d---May These Noises Startle You in Your Sleep Tonight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b70dc17a80ca46d9ba87ef4588ca186d.jpg" length="31344" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 07:04:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pierce the Veil - Hell Above (49 plays)</title>
+      <link>https://www.last.fm/music/Pierce+the+Veil/_/Hell+Above</link>
+      <guid isPermaLink="false">rockijosh-1707221131--8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d---Hell Above</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b70dc17a80ca46d9ba87ef4588ca186d.jpg" length="31344" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 07:05:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pierce the Veil - A Match Into Water (56 plays)</title>
+      <link>https://www.last.fm/music/Pierce+the+Veil/_/A+Match+Into+Water</link>
+      <guid isPermaLink="false">rockijosh-1707221354--8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d---A Match Into Water</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b70dc17a80ca46d9ba87ef4588ca186d.jpg" length="31344" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 07:09:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pierce the Veil - King for a Day (309 plays)</title>
+      <link>https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day</link>
+      <guid isPermaLink="false">rockijosh-1707221565--8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d---King for a Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b70dc17a80ca46d9ba87ef4588ca186d.jpg" length="31344" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 07:12:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pierce the Veil - Bulls in the Bronx (44 plays)</title>
+      <link>https://www.last.fm/music/Pierce+the+Veil/_/Bulls+in+the+Bronx</link>
+      <guid isPermaLink="false">rockijosh-1707221802--8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d---Bulls in the Bronx</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b70dc17a80ca46d9ba87ef4588ca186d.jpg" length="31344" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 07:16:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pierce the Veil - Props &amp; Mayhem (123 plays)</title>
+      <link>https://www.last.fm/music/Pierce+the+Veil/_/Props+&amp;+Mayhem</link>
+      <guid isPermaLink="false">rockijosh-1707222070--8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d---Props &amp; Mayhem</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b70dc17a80ca46d9ba87ef4588ca186d.jpg" length="31344" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 07:21:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>TWICE - Dance the Night Away (6 plays)</title>
+      <link>https://www.last.fm/music/TWICE/_/Dance+the+Night+Away</link>
+      <guid isPermaLink="false">rockijosh-1707222315--81b06580-9723-4160-bf0c-e295a3b7a40a---Dance the Night Away</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86ac21ab36bbd416b225228745866bfe.jpg" length="33796" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 07:25:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
