@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Feb 2024 19:37:20 +0000</lastBuildDate>
-    <item>
-      <title>The Who - Who Are You (15 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/Who+Are+You</link>
-      <guid isPermaLink="false">Frippertron-1707212682--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Who Are You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25475d7303344df0b9fe6dfe0bc0f573.png" length="241813" type="image/png"/>
-      <pubDate>Tue, 06 Feb 2024 04:44:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Custard Pie (47 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Custard+Pie</link>
-      <guid isPermaLink="false">Frippertron-1707213057--678d88b2-87b0-403b-b63d-5da7465aecc3---Custard Pie</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Tue, 06 Feb 2024 04:50:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Feb 2024 19:52:45 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Houses of the Holy (51 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Houses+of+the+Holy</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1707247807--2382cbc9-dd4e-4fc8-a92e-5391f70bd3b2---String Quartet No. 1: I. Sonata</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bcb8137ece0716db99c7e55b1827ce2b.jpg" length="26703" type="image/jpeg"/>
       <pubDate>Tue, 06 Feb 2024 14:30:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alfred Schnittke - String Quartet No. 1: II. Canon (1 play)</title>
+      <link>https://www.last.fm/music/Alfred+Schnittke/_/String+Quartet+No.+1:+II.+Canon</link>
+      <guid isPermaLink="false">Frippertron-1707248300--2382cbc9-dd4e-4fc8-a92e-5391f70bd3b2---String Quartet No. 1: II. Canon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bcb8137ece0716db99c7e55b1827ce2b.jpg" length="26703" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 14:38:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alfred Schnittke - String Quartet No. 1: III. Cadenza (1 play)</title>
+      <link>https://www.last.fm/music/Alfred+Schnittke/_/String+Quartet+No.+1:+III.+Cadenza</link>
+      <guid isPermaLink="false">Frippertron-1707248555--2382cbc9-dd4e-4fc8-a92e-5391f70bd3b2---String Quartet No. 1: III. Cadenza</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bcb8137ece0716db99c7e55b1827ce2b.jpg" length="26703" type="image/jpeg"/>
+      <pubDate>Tue, 06 Feb 2024 14:42:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
