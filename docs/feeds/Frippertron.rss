@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Feb 2024 05:15:19 +0000</lastBuildDate>
-    <item>
-      <title>Audience - Raviole (1 play)</title>
-      <link>https://www.last.fm/music/Audience/_/Raviole</link>
-      <guid isPermaLink="false">Frippertron-1707220725--Audience---Raviole</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e550b37728a294e160821ca9d25ad67d.jpg" length="247885" type="image/jpeg"/>
-      <pubDate>Tue, 06 Feb 2024 06:58:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Arco Iris - Obertura (2 plays)</title>
-      <link>https://www.last.fm/music/Arco+Iris/_/Obertura</link>
-      <guid isPermaLink="false">Frippertron-1707220979--ab30a356-59f4-435e-bc1c-2d2a1f95b8c5---Obertura</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a5c124fd014ae75c1b24987ae4485ba4.jpg" length="15187" type="image/jpeg"/>
-      <pubDate>Tue, 06 Feb 2024 07:02:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Feb 2024 05:40:08 +0000</lastBuildDate>
     <item>
       <title>Arco Iris - La canción de Nahuel (1 play)</title>
       <link>https://www.last.fm/music/Arco+Iris/_/La+canci%C3%B3n+de+Nahuel</link>
@@ -352,11 +338,25 @@
       <pubDate>Tue, 06 Feb 2024 23:56:55 -0500</pubDate>
     </item>
     <item>
-      <title>U.K. - Caesar's Palace Blues (36 plays)</title>
+      <title>U.K. - Caesar's Palace Blues (37 plays)</title>
       <link>https://www.last.fm/music/U.K./_/Caesar%27s+Palace+Blues</link>
       <guid isPermaLink="false">Frippertron-1707282104--U.K.---Caesar's Palace Blues</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f0af2981dfc002b0c5ee97faf1f0e85.png" length="204913" type="image/png"/>
       <pubDate>Wed, 07 Feb 2024 00:01:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>U.K. - Caesar's Palace Blues (37 plays)</title>
+      <link>https://www.last.fm/music/U.K./_/Caesar%27s+Palace+Blues</link>
+      <guid isPermaLink="false">Frippertron-1707282389--U.K.---Caesar's Palace Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f0af2981dfc002b0c5ee97faf1f0e85.png" length="204913" type="image/png"/>
+      <pubDate>Wed, 07 Feb 2024 00:06:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Béla Bartók - String Quartet No. 1 in A Minor, Op. 7, Sz. 40: I. Lento (1 play)</title>
+      <link>https://www.last.fm/music/B%C3%A9la+Bart%C3%B3k/_/String+Quartet+No.+1+in+A+Minor,+Op.+7,+Sz.+40:+I.+Lento</link>
+      <guid isPermaLink="false">Frippertron-1707283873--Béla Bartók---String Quartet No. 1 in A Minor, Op. 7, Sz. 40: I. Lento</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9ac2dfe69764c87775744676d3f0be7.jpg" length="21390" type="image/jpeg"/>
+      <pubDate>Wed, 07 Feb 2024 00:31:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
