@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Feb 2024 20:16:31 +0000</lastBuildDate>
-    <item>
-      <title>The Smile - You Know Me! (4 plays)</title>
-      <link>https://www.last.fm/music/The+Smile/_/You+Know+Me!</link>
-      <guid isPermaLink="false">TalonsOfFire-1706730030--9055fca5-69bc-4d47-b569-ab2012a19565---You Know Me!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a43c6cfd9d14f09ae31e7f1b00fae5b8.jpg" length="39529" type="image/jpeg"/>
-      <pubDate>Wed, 31 Jan 2024 14:40:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>Atoms for Peace - Before Your Very Eyes... (7 plays)</title>
-      <link>https://www.last.fm/music/Atoms+for+Peace/_/Before+Your+Very+Eyes...</link>
-      <guid isPermaLink="false">TalonsOfFire-1706809621--9e299bee-d7e2-49f3-8cd7-d6b28ab204d1---Before Your Very Eyes...</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5c96f49307a165bdb028e7b732d0c69.png" length="87207" type="image/png"/>
-      <pubDate>Thu, 01 Feb 2024 12:47:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Feb 2024 15:53:20 +0000</lastBuildDate>
     <item>
       <title>Atoms for Peace - Default (4 plays)</title>
       <link>https://www.last.fm/music/Atoms+for+Peace/_/Default</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1707248966--20244d07-534f-4eff-b4d4-930878889970---Mastermind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8914bab2a0e4e454c6892f151d57208f.png" length="137297" type="image/png"/>
       <pubDate>Tue, 06 Feb 2024 14:49:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thom Yorke - 5.17 (5 plays)</title>
+      <link>https://www.last.fm/music/Thom+Yorke/_/5.17</link>
+      <guid isPermaLink="false">TalonsOfFire-1707320575--8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b---5.17</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fb3eaad9828706e76b6d0fcd6805732.jpg" length="16995" type="image/jpeg"/>
+      <pubDate>Wed, 07 Feb 2024 10:42:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thom Yorke - That's How Horses Are (6 plays)</title>
+      <link>https://www.last.fm/music/Thom+Yorke/_/That%27s+How+Horses+Are</link>
+      <guid isPermaLink="false">TalonsOfFire-1707320816--8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b---That's How Horses Are</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fb3eaad9828706e76b6d0fcd6805732.jpg" length="16995" type="image/jpeg"/>
+      <pubDate>Wed, 07 Feb 2024 10:46:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
