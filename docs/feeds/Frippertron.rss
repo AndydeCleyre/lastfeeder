@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Feb 2024 06:19:54 +0000</lastBuildDate>
-    <item>
-      <title>George Michael - Freeek! (37 plays)</title>
-      <link>https://www.last.fm/music/George+Michael/_/Freeek!</link>
-      <guid isPermaLink="false">Frippertron-1707222888--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Freeek!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9d8229d3f304028c05364e498ad34e8.png" length="36545" type="image/png"/>
-      <pubDate>Tue, 06 Feb 2024 07:34:48 -0500</pubDate>
-    </item>
-    <item>
-      <title>Underworld - Push Upstairs (12 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Push+Upstairs</link>
-      <guid isPermaLink="false">Frippertron-1707223174--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Push Upstairs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 06 Feb 2024 07:39:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Feb 2024 06:37:12 +0000</lastBuildDate>
     <item>
       <title>Underworld - Pearl's Girl (19 plays)</title>
       <link>https://www.last.fm/music/Underworld/_/Pearl%27s+Girl</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1707286211--Béla Bartók---String Quartet No. 3 in C-sharp major, Sz. 85: III. Ricapitulazione della prima parte. Moderato</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9ac2dfe69764c87775744676d3f0be7.jpg" length="21390" type="image/jpeg"/>
       <pubDate>Wed, 07 Feb 2024 01:10:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Cardigans - Carnival (4 plays)</title>
+      <link>https://www.last.fm/music/The+Cardigans/_/Carnival</link>
+      <guid isPermaLink="false">Frippertron-1707287315--3e55d51d-687f-4a9d-af96-2fabccf802e5---Carnival</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d0ccdd0209bbc3ea976e0a5be14493b.png" length="136118" type="image/png"/>
+      <pubDate>Wed, 07 Feb 2024 01:28:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Cardigans - Gordon's Gardenparty (4 plays)</title>
+      <link>https://www.last.fm/music/The+Cardigans/_/Gordon%27s+Gardenparty</link>
+      <guid isPermaLink="false">Frippertron-1707287533--3e55d51d-687f-4a9d-af96-2fabccf802e5---Gordon's Gardenparty</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d0ccdd0209bbc3ea976e0a5be14493b.png" length="136118" type="image/png"/>
+      <pubDate>Wed, 07 Feb 2024 01:32:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
