@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Feb 2024 18:52:18 +0000</lastBuildDate>
-    <item>
-      <title>Super Simple Songs - The Muffin Man (1 play)</title>
-      <link>https://www.last.fm/music/Super+Simple+Songs/_/The+Muffin+Man</link>
-      <guid isPermaLink="false">ddgromit-1707343567--Super Simple Songs---The Muffin Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90f3035c25c7f5f7bda041f607591c8a.jpg" length="21668" type="image/jpeg"/>
-      <pubDate>Wed, 07 Feb 2024 17:06:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>Muffin Songs - Rain, Rain, Go Away (1 play)</title>
-      <link>https://www.last.fm/music/Muffin+Songs/_/Rain,+Rain,+Go+Away</link>
-      <guid isPermaLink="false">ddgromit-1707343689--Muffin Songs---Rain, Rain, Go Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66c8eb07064d4b1c5ba7df6842fefcb5.jpg" length="31318" type="image/jpeg"/>
-      <pubDate>Wed, 07 Feb 2024 17:08:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Feb 2024 19:12:58 +0000</lastBuildDate>
     <item>
       <title>Vicky Arlidge - Heads, shoulders, knees and toes (15 plays)</title>
       <link>https://www.last.fm/music/Vicky+Arlidge/_/Heads,+shoulders,+knees+and+toes</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1707417978--8e018193-119b-42f3-8ef8-b9575b0208ca---What You Like</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a43540acd0fb529bc9069bbe20002e83.png" length="109299" type="image/png"/>
       <pubDate>Thu, 08 Feb 2024 13:46:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ben Böhmer - Maelstrom (1 play)</title>
+      <link>https://www.last.fm/music/Ben+B%C3%B6hmer/_/Maelstrom</link>
+      <guid isPermaLink="false">ddgromit-1707418173--e4f12dfc-1ee7-4250-8e24-549b6d46676d---Maelstrom</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6965e884798309fda4f0fa0fa01bc92.jpg" length="22843" type="image/jpeg"/>
+      <pubDate>Thu, 08 Feb 2024 13:49:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bicep - Waterfall (3 plays)</title>
+      <link>https://www.last.fm/music/Bicep/_/Waterfall</link>
+      <guid isPermaLink="false">ddgromit-1707418410--10e8f0df-90f9-4957-aedd-c4e0d187e3a8---Waterfall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34d7ad955af5ea05a7289032e3c48edf.jpg" length="18539" type="image/jpeg"/>
+      <pubDate>Thu, 08 Feb 2024 13:53:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
