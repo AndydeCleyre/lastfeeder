@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Feb 2024 09:38:05 +0000</lastBuildDate>
-    <item>
-      <title>Michel Normandeau - Berceuse pour ma ville (3 plays)</title>
-      <link>https://www.last.fm/music/Michel+Normandeau/_/Berceuse+pour+ma+ville</link>
-      <guid isPermaLink="false">Frippertron-1707452610--ab8cf3ec-3002-46fa-82ee-7b45ef839847---Berceuse pour ma ville</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/995454ea9d7341859149e80ddecc3605.jpg" length="22855" type="image/jpeg"/>
-      <pubDate>Thu, 08 Feb 2024 23:23:30 -0500</pubDate>
-    </item>
-    <item>
-      <title>Arthur Brown - Fanfare/Fire Poem (33 plays)</title>
-      <link>https://www.last.fm/music/Arthur+Brown/_/Fanfare%2FFire+Poem</link>
-      <guid isPermaLink="false">Frippertron-1707452944--Arthur Brown---Fanfare/Fire Poem</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e63c01cf52f4fcaddfa571b31007d4af.png" length="186038" type="image/png"/>
-      <pubDate>Thu, 08 Feb 2024 23:29:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Feb 2024 09:52:26 +0000</lastBuildDate>
     <item>
       <title>Arthur Brown - Fire (39 plays)</title>
       <link>https://www.last.fm/music/Arthur+Brown/_/Fire</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1707471092--Genesis---Dance on a Volcano</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
       <pubDate>Fri, 09 Feb 2024 04:31:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Entangled (37 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Entangled</link>
+      <guid isPermaLink="false">Frippertron-1707471446--Genesis---Entangled</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
+      <pubDate>Fri, 09 Feb 2024 04:37:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ripples (136 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
+      <guid isPermaLink="false">Frippertron-1707471836--Genesis---Ripples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
+      <pubDate>Fri, 09 Feb 2024 04:43:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
