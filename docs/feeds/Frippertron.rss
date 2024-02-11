@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Feb 2024 21:14:10 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Sons of the Silent Age (80 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Sons+of+the+Silent+Age</link>
-      <guid isPermaLink="false">Frippertron-1707475590--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sons of the Silent Age</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Fri, 09 Feb 2024 05:46:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Feb 2024 21:26:33 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Alabama Song (95 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Alabama+Song</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1707685867--919bac95-5e4f-44a7-be71-231d8230b10e---Flow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6824c9af21108cfd5e458118690875e.png" length="213781" type="image/png"/>
       <pubDate>Sun, 11 Feb 2024 16:11:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Orbital - Halcyon + On + On (1 play)</title>
+      <link>https://www.last.fm/music/Orbital/_/Halcyon+%252B+On+%252B+On</link>
+      <guid isPermaLink="false">Frippertron-1707686034--f3e2a7d9-c6bb-4848-95e5-04c0a1e2f511---Halcyon + On + On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b48e716b372f4bad89c2aff92f9b24be.png" length="168004" type="image/png"/>
+      <pubDate>Sun, 11 Feb 2024 16:13:54 -0500</pubDate>
     </item>
   </channel>
 </rss>
