@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Feb 2024 08:37:41 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Street Life (58 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Street+Life</link>
-      <guid isPermaLink="false">Frippertron-1707707613--331ce348-1b08-40b9-8ed7-0763b92bd003---Street Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/684261636ec5f2f2dc24e4f040f64cad.png" length="223903" type="image/png"/>
-      <pubDate>Sun, 11 Feb 2024 22:13:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Feb 2024 08:52:53 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - The Thrill of It All (84 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/The+Thrill+of+It+All</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1707726648--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Pearl's Girl</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 12 Feb 2024 03:30:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Moaner (27 plays)</title>
+      <link>https://www.last.fm/music/Underworld/_/Moaner</link>
+      <guid isPermaLink="false">Frippertron-1707727222--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Moaner</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 12 Feb 2024 03:40:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
