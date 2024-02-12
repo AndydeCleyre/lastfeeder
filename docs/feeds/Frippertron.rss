@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Feb 2024 02:52:23 +0000</lastBuildDate>
-    <item>
-      <title>Geese - Gravity Blues (25 plays)</title>
-      <link>https://www.last.fm/music/Geese/_/Gravity+Blues</link>
-      <guid isPermaLink="false">Frippertron-1707477161--e0c97a4d-c392-41a9-a374-57af3e3eeab3---Gravity Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
-      <pubDate>Fri, 09 Feb 2024 06:12:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Geese - Mysterious Love (22 plays)</title>
-      <link>https://www.last.fm/music/Geese/_/Mysterious+Love</link>
-      <guid isPermaLink="false">Frippertron-1707477404--e0c97a4d-c392-41a9-a374-57af3e3eeab3---Mysterious Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
-      <pubDate>Fri, 09 Feb 2024 06:16:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Feb 2024 03:16:23 +0000</lastBuildDate>
     <item>
       <title>Geese - St. Elmo (35 plays)</title>
       <link>https://www.last.fm/music/Geese/_/St.+Elmo</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1707705602--331ce348-1b08-40b9-8ed7-0763b92bd003---For Your Pleasure</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
       <pubDate>Sun, 11 Feb 2024 21:40:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Whirlwind (33 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Whirlwind</link>
+      <guid isPermaLink="false">Frippertron-1707707398--331ce348-1b08-40b9-8ed7-0763b92bd003---Whirlwind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
+      <pubDate>Sun, 11 Feb 2024 22:09:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Street Life (58 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Street+Life</link>
+      <guid isPermaLink="false">Frippertron-1707707613--331ce348-1b08-40b9-8ed7-0763b92bd003---Street Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/684261636ec5f2f2dc24e4f040f64cad.png" length="223903" type="image/png"/>
+      <pubDate>Sun, 11 Feb 2024 22:13:33 -0500</pubDate>
     </item>
   </channel>
 </rss>
