@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Feb 2024 08:20:24 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - For Your Pleasure (23 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/For+Your+Pleasure</link>
-      <guid isPermaLink="false">Frippertron-1707705602--331ce348-1b08-40b9-8ed7-0763b92bd003---For Your Pleasure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Sun, 11 Feb 2024 21:40:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Whirlwind (33 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Whirlwind</link>
-      <guid isPermaLink="false">Frippertron-1707707398--331ce348-1b08-40b9-8ed7-0763b92bd003---Whirlwind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434ddd24be4347f146b9726853b5c8cf.png" length="219610" type="image/png"/>
-      <pubDate>Sun, 11 Feb 2024 22:09:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Feb 2024 08:37:41 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - Street Life (58 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Street+Life</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1707725676--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Where Have All The Good Times Gone?</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 12 Feb 2024 03:14:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>LCD Soundsystem - Yeah (Crass Version) (15 plays)</title>
+      <link>https://www.last.fm/music/LCD+Soundsystem/_/Yeah+(Crass+Version)</link>
+      <guid isPermaLink="false">Frippertron-1707726085--2aaf7396-6ab8-40f3-9776-a41c42c8e26b---Yeah (Crass Version)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/824df6bad69f6f1bd74deb9c093d92d0.jpg" length="23124" type="image/jpeg"/>
+      <pubDate>Mon, 12 Feb 2024 03:21:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Pearl's Girl (20 plays)</title>
+      <link>https://www.last.fm/music/Underworld/_/Pearl%27s+Girl</link>
+      <guid isPermaLink="false">Frippertron-1707726648--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Pearl's Girl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 12 Feb 2024 03:30:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
