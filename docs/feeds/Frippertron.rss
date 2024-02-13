@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 05:15:25 +0000</lastBuildDate>
-    <item>
-      <title>Squarepusher - Chunk - S (8 plays)</title>
-      <link>https://www.last.fm/music/Squarepusher/_/Chunk+-+S</link>
-      <guid isPermaLink="false">Frippertron-1707729826--4d86ad4e-28d8-4e9f-8cf4-735c57060fdc---Chunk - S</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e433c31638c5432cb22906e9d2d3618a.png" length="195831" type="image/png"/>
-      <pubDate>Mon, 12 Feb 2024 04:23:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Feb 2024 05:28:27 +0000</lastBuildDate>
     <item>
       <title>Octobre - Violence (37 plays)</title>
       <link>https://www.last.fm/music/Octobre/_/Violence</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1707800413--60e8e938-365e-4429-a141-4c79eb49588d---Tunnel Lights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e8c9b4eb6197b0ffd4067d71910b10.jpg" length="15510" type="image/jpeg"/>
       <pubDate>Tue, 13 Feb 2024 00:00:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chelsea Wolfe - The Liminal (1 play)</title>
+      <link>https://www.last.fm/music/Chelsea+Wolfe/_/The+Liminal</link>
+      <guid isPermaLink="false">Frippertron-1707800665--60e8e938-365e-4429-a141-4c79eb49588d---The Liminal</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e8c9b4eb6197b0ffd4067d71910b10.jpg" length="15510" type="image/jpeg"/>
+      <pubDate>Tue, 13 Feb 2024 00:04:25 -0500</pubDate>
     </item>
   </channel>
 </rss>
