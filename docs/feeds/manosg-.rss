@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 15:15:56 +0000</lastBuildDate>
-    <item>
-      <title>Cro-Mags - Then and Now (2 plays)</title>
-      <link>https://www.last.fm/music/Cro-Mags/_/Then+and+Now</link>
-      <guid isPermaLink="false">manosg--1707720514--Cro-Mags---Then and Now</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3c4443e2d720d925ed407f7934c57f9.jpg" length="20811" type="image/jpeg"/>
-      <pubDate>Mon, 12 Feb 2024 01:48:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cro-Mags - Age of Quarrel (1 play)</title>
-      <link>https://www.last.fm/music/Cro-Mags/_/Age+of+Quarrel</link>
-      <guid isPermaLink="false">manosg--1707720514--Cro-Mags---Age of Quarrel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f3c4443e2d720d925ed407f7934c57f9.jpg" length="20811" type="image/jpeg"/>
-      <pubDate>Mon, 12 Feb 2024 01:48:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Feb 2024 15:37:31 +0000</lastBuildDate>
     <item>
       <title>Judas Priest - Exciter (11 plays)</title>
       <link>https://www.last.fm/music/Judas+Priest/_/Exciter</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1707837151--Sodom---Cold Sweat</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5666a14910a2fcc5f875898b606ffdaa.jpg" length="28046" type="image/jpeg"/>
       <pubDate>Tue, 13 Feb 2024 10:12:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sodom - Bloodtrails (1 play)</title>
+      <link>https://www.last.fm/music/Sodom/_/Bloodtrails</link>
+      <guid isPermaLink="false">manosg--1707837341--Sodom---Bloodtrails</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5666a14910a2fcc5f875898b606ffdaa.jpg" length="28046" type="image/jpeg"/>
+      <pubDate>Tue, 13 Feb 2024 10:15:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sodom - Never Healing Wound (1 play)</title>
+      <link>https://www.last.fm/music/Sodom/_/Never+Healing+Wound</link>
+      <guid isPermaLink="false">manosg--1707837629--Sodom---Never Healing Wound</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5666a14910a2fcc5f875898b606ffdaa.jpg" length="28046" type="image/jpeg"/>
+      <pubDate>Tue, 13 Feb 2024 10:20:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
