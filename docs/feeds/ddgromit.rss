@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 16:41:07 +0000</lastBuildDate>
-    <item>
-      <title>Sammie - Count (1 play)</title>
-      <link>https://www.last.fm/music/Sammie/_/Count</link>
-      <guid isPermaLink="false">ddgromit-1707752638--3ee95be0-a86c-4354-938d-faff8aec4e2d---Count</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2c689d7a10e2ec406c89eb00458d949.jpg" length="24561" type="image/jpeg"/>
-      <pubDate>Mon, 12 Feb 2024 10:43:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Feb 2024 16:52:53 +0000</lastBuildDate>
     <item>
       <title>Music Together - Hello Song (7 plays)</title>
       <link>https://www.last.fm/music/Music+Together/_/Hello+Song</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1707842187--Cocomelon---Wheels on the Bus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e40c9d1e7ec71d46432901e1e14191e.jpg" length="27988" type="image/jpeg"/>
       <pubDate>Tue, 13 Feb 2024 11:36:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Music Together - She Sells Sea Shells (2 plays)</title>
+      <link>https://www.last.fm/music/Music+Together/_/She+Sells+Sea+Shells</link>
+      <guid isPermaLink="false">ddgromit-1707842395--Music Together---She Sells Sea Shells</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fd693acfd89d87b3c0b552371b03341.jpg" length="21319" type="image/jpeg"/>
+      <pubDate>Tue, 13 Feb 2024 11:39:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
