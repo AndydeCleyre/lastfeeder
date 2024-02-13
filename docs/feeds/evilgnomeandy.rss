@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 01:57:26 +0000</lastBuildDate>
-    <item>
-      <title>Sola Rosa - Humanised (4 plays)</title>
-      <link>https://www.last.fm/music/Sola+Rosa/_/Humanised</link>
-      <guid isPermaLink="false">evilgnomeandy-1706594998--e496e515-de72-4d40-a527-df48003e1dd9---Humanised</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4385a7b18696466c904120b8dc22229c.jpg" length="35806" type="image/jpeg"/>
-      <pubDate>Tue, 30 Jan 2024 01:09:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Feb 2024 22:16:48 +0000</lastBuildDate>
     <item>
       <title>Desmond Dekker - Israelites (12 plays)</title>
       <link>https://www.last.fm/music/Desmond+Dekker/_/Israelites</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1707784128--Drug Cabin---On The Mountain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0567cb4cf01f499dbd127a479778810b.jpg" length="22447" type="image/jpeg"/>
       <pubDate>Mon, 12 Feb 2024 19:28:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Drug Cabin - Goldenwall (15 plays)</title>
+      <link>https://www.last.fm/music/Drug+Cabin/_/Goldenwall</link>
+      <guid isPermaLink="false">evilgnomeandy-1707786851--Drug Cabin---Goldenwall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c50cd182a195403dc0f3632047756c0c.jpg" length="16334" type="image/jpeg"/>
+      <pubDate>Mon, 12 Feb 2024 20:14:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
