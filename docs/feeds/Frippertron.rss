@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 12:28:10 +0000</lastBuildDate>
-    <item>
-      <title>Michel Normandeau - L'air de rien (1 play)</title>
-      <link>https://www.last.fm/music/Michel+Normandeau/_/L%27air+de+rien</link>
-      <guid isPermaLink="false">Frippertron-1707805107--ab8cf3ec-3002-46fa-82ee-7b45ef839847---L'air de rien</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/995454ea9d7341859149e80ddecc3605.jpg" length="22855" type="image/jpeg"/>
-      <pubDate>Tue, 13 Feb 2024 01:18:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Feb 2024 02:37:22 +0000</lastBuildDate>
     <item>
       <title>Michel Normandeau - Valse A '80</title>
       <link>https://www.last.fm/music/Michel+Normandeau/_/Valse+A+%2780</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1707827038--9e414497-23b7-4ab7-9ec6-8ea9864c9e87---意識</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3360ba3fe55ef866d53e3daefa5cd880.jpg" length="12687" type="image/jpeg"/>
       <pubDate>Tue, 13 Feb 2024 07:23:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Friends (56 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Friends</link>
+      <guid isPermaLink="false">Frippertron-1707877975--678d88b2-87b0-403b-b63d-5da7465aecc3---Friends</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b3b92b3b5cdc47eec7ed970f3b38346a.png" length="181550" type="image/png"/>
+      <pubDate>Tue, 13 Feb 2024 21:32:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
