@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Feb 2024 04:52:27 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - The Song Remains the Same (172 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
-      <guid isPermaLink="false">Frippertron-1707989854--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
-      <pubDate>Thu, 15 Feb 2024 04:37:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Ten Years Gone (66 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Ten+Years+Gone</link>
-      <guid isPermaLink="false">Frippertron-1707990260--678d88b2-87b0-403b-b63d-5da7465aecc3---Ten Years Gone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/afda1e0f83e94234c22bac691f92b2b0.png" length="244959" type="image/png"/>
-      <pubDate>Thu, 15 Feb 2024 04:44:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Feb 2024 05:15:29 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Custard Pie (49 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Custard+Pie</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1708058917--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---I've Had Enough</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
       <pubDate>Thu, 15 Feb 2024 23:48:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Who - 5:15 (58 plays)</title>
+      <link>https://www.last.fm/music/The+Who/_/5:15</link>
+      <guid isPermaLink="false">Frippertron-1708059293--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---5:15</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
+      <pubDate>Thu, 15 Feb 2024 23:54:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Symmetrical Arizona (80 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Symmetrical+Arizona</link>
+      <guid isPermaLink="false">Frippertron-1708059627--3979eee5-c72a-4b0a-9191-a0243881250a---Symmetrical Arizona</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
+      <pubDate>Fri, 16 Feb 2024 00:00:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
