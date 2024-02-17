@@ -7,42 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Feb 2024 02:37:31 +0000</lastBuildDate>
-    <item>
-      <title>Bill Withers - Ruby Lee (2 plays)</title>
-      <link>https://www.last.fm/music/Bill+Withers/_/Ruby+Lee</link>
-      <guid isPermaLink="false">ddgromit-1708105163--fd1a2d9d-9bb6-44de-83a3-41560658aba9---Ruby Lee</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0380dc3efd335ed2ecaeb08add29dcfb.jpg" length="29535" type="image/jpeg"/>
-      <pubDate>Fri, 16 Feb 2024 12:39:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Aretha Franklin - One Step Ahead (3 plays)</title>
-      <link>https://www.last.fm/music/Aretha+Franklin/_/One+Step+Ahead</link>
-      <guid isPermaLink="false">ddgromit-1708117540--2f9ecbed-27be-40e6-abca-6de49d50299e---One Step Ahead</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f2cf2028bbbfd57f72fdca6fa3dc48a8.jpg" length="14218" type="image/jpeg"/>
-      <pubDate>Fri, 16 Feb 2024 16:05:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>Aaron Frazer - Bad News (2 plays)</title>
-      <link>https://www.last.fm/music/Aaron+Frazer/_/Bad+News</link>
-      <guid isPermaLink="false">ddgromit-1708117694--Aaron Frazer---Bad News</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa045b79d592d19edd3a9a131f04a9d2.jpg" length="20050" type="image/jpeg"/>
-      <pubDate>Fri, 16 Feb 2024 16:08:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>STEVE MONITE - Only You (7 plays)</title>
-      <link>https://www.last.fm/music/STEVE+MONITE/_/Only+You</link>
-      <guid isPermaLink="false">ddgromit-1708117923--53c7987c-25f8-4d1a-9c64-248355de1bcc---Only You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93cad54f59a40b73305dc88b9401576c.jpg" length="27931" type="image/jpeg"/>
-      <pubDate>Fri, 16 Feb 2024 16:12:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Wayne Snow - Nothing Wrong (1 play)</title>
-      <link>https://www.last.fm/music/Wayne+Snow/_/Nothing+Wrong</link>
-      <guid isPermaLink="false">ddgromit-1708120335--3e5a0d6e-407d-4c9f-8866-62ad92faac5d---Nothing Wrong</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/759a7d997f2be634f9c634f5d4124898.jpg" length="7263" type="image/jpeg"/>
-      <pubDate>Fri, 16 Feb 2024 16:52:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Feb 2024 02:52:10 +0000</lastBuildDate>
     <item>
       <title>Uncle Louie - Full Tilt Boogie (1 play)</title>
       <link>https://www.last.fm/music/Uncle+Louie/_/Full+Tilt+Boogie</link>
@@ -357,6 +322,41 @@
       <guid isPermaLink="false">ddgromit-1708137121--3dfc4a98-6c2f-4b27-bd57-09dba26ab614---A Night In Tunisia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db1fd27b2a7c45b4bd0eb176d8b97d85.jpg" length="11274" type="image/jpeg"/>
       <pubDate>Fri, 16 Feb 2024 21:32:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Willie Burell - Stella By Starlight</title>
+      <link>https://www.last.fm/music/Willie+Burell/_/Stella+By+Starlight</link>
+      <guid isPermaLink="false">ddgromit-1708137372--Willie Burell---Stella By Starlight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db1fd27b2a7c45b4bd0eb176d8b97d85.jpg" length="11274" type="image/jpeg"/>
+      <pubDate>Fri, 16 Feb 2024 21:36:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bath Music - Bath Music (1 play)</title>
+      <link>https://www.last.fm/music/Bath+Music/_/Bath+Music</link>
+      <guid isPermaLink="false">ddgromit-1708137667--Bath Music---Bath Music</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 16 Feb 2024 21:41:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bath Music - Calm Bath Music (1 play)</title>
+      <link>https://www.last.fm/music/Bath+Music/_/Calm+Bath+Music</link>
+      <guid isPermaLink="false">ddgromit-1708137810--Bath Music---Calm Bath Music</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 16 Feb 2024 21:43:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bath Music - Background Bath Music (1 play)</title>
+      <link>https://www.last.fm/music/Bath+Music/_/Background+Bath+Music</link>
+      <guid isPermaLink="false">ddgromit-1708137943--Bath Music---Background Bath Music</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 16 Feb 2024 21:45:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bath Music - Soothing Bath Music (1 play)</title>
+      <link>https://www.last.fm/music/Bath+Music/_/Soothing+Bath+Music</link>
+      <guid isPermaLink="false">ddgromit-1708138093--Bath Music---Soothing Bath Music</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 16 Feb 2024 21:48:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
