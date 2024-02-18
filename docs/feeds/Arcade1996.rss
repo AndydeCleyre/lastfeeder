@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Feb 2024 11:23:40 +0000</lastBuildDate>
-    <item>
-      <title>Wild Nothing - Shadow (4 plays)</title>
-      <link>https://www.last.fm/music/Wild+Nothing/_/Shadow</link>
-      <guid isPermaLink="false">Arcade1996-1708093845--a181595e-5b84-4439-a5f4-f548ddfb64df---Shadow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3601d7b9f23e43aea6f9fa002672c6eb.png" length="152782" type="image/png"/>
-      <pubDate>Fri, 16 Feb 2024 09:30:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Feb 2024 12:26:58 +0000</lastBuildDate>
     <item>
       <title>Wild Nothing - Only Heather (1 play)</title>
       <link>https://www.last.fm/music/Wild+Nothing/_/Only+Heather</link>
@@ -96,7 +89,6 @@
       <title>Kim Gordon - I’m A Man (1 play)</title>
       <link>https://www.last.fm/music/Kim+Gordon/_/I%E2%80%99m+A+Man</link>
       <guid isPermaLink="false">Arcade1996-1708151797--Kim Gordon---I’m A Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee5229b87a0845dfb3641b9da59094bf.jpg" length="12128" type="image/jpeg"/>
       <pubDate>Sat, 17 Feb 2024 01:36:37 -0500</pubDate>
     </item>
     <item>
@@ -352,11 +344,18 @@
       <pubDate>Sun, 18 Feb 2024 03:33:04 -0500</pubDate>
     </item>
     <item>
-      <title>Eyedress - Mrs. Valentine (1 play)</title>
+      <title>Eyedress - Mrs. Valentine (2 plays)</title>
       <link>https://www.last.fm/music/Eyedress/_/Mrs.+Valentine</link>
       <guid isPermaLink="false">Arcade1996-1708254128--0b619a94-481c-40ac-abae-85f33f2b1588---Mrs. Valentine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b50dba9077617fa1967b26612259f67.jpg" length="19975" type="image/jpeg"/>
       <pubDate>Sun, 18 Feb 2024 06:02:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Eyedress - Mrs. Valentine (2 plays)</title>
+      <link>https://www.last.fm/music/Eyedress/_/Mrs.+Valentine</link>
+      <guid isPermaLink="false">Arcade1996-1708257860--0b619a94-481c-40ac-abae-85f33f2b1588---Mrs. Valentine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b50dba9077617fa1967b26612259f67.jpg" length="19975" type="image/jpeg"/>
+      <pubDate>Sun, 18 Feb 2024 07:04:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
