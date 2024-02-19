@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Feb 2024 20:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - If There Is Something (36 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/If+There+Is+Something</link>
-      <guid isPermaLink="false">Frippertron-1708085943--331ce348-1b08-40b9-8ed7-0763b92bd003---If There Is Something</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
-      <pubDate>Fri, 16 Feb 2024 07:19:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Virginia Plain (160 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Virginia+Plain</link>
-      <guid isPermaLink="false">Frippertron-1708086340--331ce348-1b08-40b9-8ed7-0763b92bd003---Virginia Plain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
-      <pubDate>Fri, 16 Feb 2024 07:25:40 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Feb 2024 02:37:20 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - Chance Meeting (26 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Chance+Meeting</link>
@@ -170,7 +156,7 @@
       <pubDate>Sun, 18 Feb 2024 10:05:08 -0500</pubDate>
     </item>
     <item>
-      <title>Steely Dan - The Boston Rag (39 plays)</title>
+      <title>Steely Dan - The Boston Rag (40 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/The+Boston+Rag</link>
       <guid isPermaLink="false">Frippertron-1708269031--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Boston Rag</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1708288609--The KLF---3AM Eternal (From The Black Room The Justified Ancients of Mu Mu vs Extreme Noise Terror)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fbc9ad02ad84b10f37c309f804ff7fa4.jpg" length="16385" type="image/jpeg"/>
       <pubDate>Sun, 18 Feb 2024 15:36:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>椎名林檎 - 愛妻家の朝食 (44 plays)</title>
+      <link>https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/_/%E6%84%9B%E5%A6%BB%E5%AE%B6%E3%81%AE%E6%9C%9D%E9%A3%9F</link>
+      <guid isPermaLink="false">Frippertron-1708309679--9e414497-23b7-4ab7-9ec6-8ea9864c9e87---愛妻家の朝食</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70260f84da9549d4ad3d0531d80b477d.jpg" length="27641" type="image/jpeg"/>
+      <pubDate>Sun, 18 Feb 2024 21:27:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - The Boston Rag (40 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/The+Boston+Rag</link>
+      <guid isPermaLink="false">Frippertron-1708309917--e01c3376-15fa-40d7-b747-5f219bdefdd7---The Boston Rag</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1c4a381249d4cd3cca813f6c4119e3e.png" length="168314" type="image/png"/>
+      <pubDate>Sun, 18 Feb 2024 21:31:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
