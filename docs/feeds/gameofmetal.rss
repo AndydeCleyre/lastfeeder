@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Feb 2024 15:26:47 +0000</lastBuildDate>
-    <item>
-      <title>Saor - Monadh (1 play)</title>
-      <link>https://www.last.fm/music/Saor/_/Monadh</link>
-      <guid isPermaLink="false">gameofmetal-1708051632--cf55e880-3750-4e4f-a772-0482801a7d3a---Monadh</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e9fa6538b991cc13fd4dd5e6b7b6fc4.jpg" length="30618" type="image/jpeg"/>
-      <pubDate>Thu, 15 Feb 2024 21:47:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Feminazgul - a mallacht (1 play)</title>
-      <link>https://www.last.fm/music/Feminazgul/_/a+mallacht</link>
-      <guid isPermaLink="false">gameofmetal-1708092254--253e97a1-2366-49e1-9fa2-f4c4bdba12dd---a mallacht</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/611094857cd741c6cf94be50c41bcbe4.jpg" length="18388" type="image/jpeg"/>
-      <pubDate>Fri, 16 Feb 2024 09:04:14 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Feb 2024 15:39:01 +0000</lastBuildDate>
     <item>
       <title>Feminazgul - A Mallacht (A Keening) (1 play)</title>
       <link>https://www.last.fm/music/Feminazgul/_/A+Mallacht+(A+Keening)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1708442330--bc5e2ad6-0a4a-4d90-b911-e9a7e6861727---Skeleton of Splendor</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff796b6a79235686379576ae1c70a0a5.png" length="196034" type="image/png"/>
       <pubDate>Tue, 20 Feb 2024 10:18:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mastodon - Teardrinker (1 play)</title>
+      <link>https://www.last.fm/music/Mastodon/_/Teardrinker</link>
+      <guid isPermaLink="false">gameofmetal-1708442635--bc5e2ad6-0a4a-4d90-b911-e9a7e6861727---Teardrinker</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff796b6a79235686379576ae1c70a0a5.png" length="196034" type="image/png"/>
+      <pubDate>Tue, 20 Feb 2024 10:23:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mastodon - Pushing the Tides (1 play)</title>
+      <link>https://www.last.fm/music/Mastodon/_/Pushing+the+Tides</link>
+      <guid isPermaLink="false">gameofmetal-1708443328--bc5e2ad6-0a4a-4d90-b911-e9a7e6861727---Pushing the Tides</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff796b6a79235686379576ae1c70a0a5.png" length="196034" type="image/png"/>
+      <pubDate>Tue, 20 Feb 2024 10:35:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
