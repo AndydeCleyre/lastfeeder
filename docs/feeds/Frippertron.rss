@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Feb 2024 09:37:15 +0000</lastBuildDate>
-    <item>
-      <title>The Who - The Punk and the Godfather (32 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/The+Punk+and+the+Godfather</link>
-      <guid isPermaLink="false">Frippertron-1708403333--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---The Punk and the Godfather</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Mon, 19 Feb 2024 23:28:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Who - I'm One (21 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/I%27m+One</link>
-      <guid isPermaLink="false">Frippertron-1708403644--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---I'm One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e68ee49abf6daf2f36a29cdf9089c9f3.jpg" length="15390" type="image/jpeg"/>
-      <pubDate>Mon, 19 Feb 2024 23:34:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Feb 2024 09:52:08 +0000</lastBuildDate>
     <item>
       <title>The Who - The Dirty Jobs (21 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/The+Dirty+Jobs</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1708421450--331ce348-1b08-40b9-8ed7-0763b92bd003---If There Is Something</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
       <pubDate>Tue, 20 Feb 2024 04:30:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Editions of You (93 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
+      <guid isPermaLink="false">Frippertron-1708421853--331ce348-1b08-40b9-8ed7-0763b92bd003---Editions of You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
+      <pubDate>Tue, 20 Feb 2024 04:37:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - In Every Dream Home a Heartache (53 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/In+Every+Dream+Home+a+Heartache</link>
+      <guid isPermaLink="false">Frippertron-1708422083--331ce348-1b08-40b9-8ed7-0763b92bd003---In Every Dream Home a Heartache</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
+      <pubDate>Tue, 20 Feb 2024 04:41:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
