@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Feb 2024 04:37:28 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - If There Is Something (37 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/If+There+Is+Something</link>
-      <guid isPermaLink="false">Frippertron-1708421450--331ce348-1b08-40b9-8ed7-0763b92bd003---If There Is Something</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/475f4e880fcc4f7bcf39e9d96a70272d.png" length="175571" type="image/png"/>
-      <pubDate>Tue, 20 Feb 2024 04:30:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Editions of You (93 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
-      <guid isPermaLink="false">Frippertron-1708421853--331ce348-1b08-40b9-8ed7-0763b92bd003---Editions of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Tue, 20 Feb 2024 04:37:33 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Feb 2024 04:52:24 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - In Every Dream Home a Heartache (53 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/In+Every+Dream+Home+a+Heartache</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1708489711--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Little Jeannie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 20 Feb 2024 23:28:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Bennie and the Jets (86 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
+      <guid isPermaLink="false">Frippertron-1708490077--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bennie and the Jets</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 20 Feb 2024 23:34:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Queen - Ogre Battle (83 plays)</title>
+      <link>https://www.last.fm/music/Queen/_/Ogre+Battle</link>
+      <guid isPermaLink="false">Frippertron-1708490820--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Ogre Battle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/090eb7f6fedb433f8c57a8b0a26c120c.png" length="109639" type="image/png"/>
+      <pubDate>Tue, 20 Feb 2024 23:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
