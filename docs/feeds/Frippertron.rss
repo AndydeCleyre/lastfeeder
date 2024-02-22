@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Feb 2024 02:37:43 +0000</lastBuildDate>
-    <item>
-      <title>Danny Wilson - You Remain An Angel (9 plays)</title>
-      <link>https://www.last.fm/music/Danny+Wilson/_/You+Remain+An+Angel</link>
-      <guid isPermaLink="false">Frippertron-1708496322--06cae8a2-622f-4033-a13e-f965c5289ecc---You Remain An Angel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d41888d2707871ff88047b22e92d94d5.jpg" length="10578" type="image/jpeg"/>
-      <pubDate>Wed, 21 Feb 2024 01:18:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>Danny Wilson - Ruby's Golden Wedding (9 plays)</title>
-      <link>https://www.last.fm/music/Danny+Wilson/_/Ruby%27s+Golden+Wedding</link>
-      <guid isPermaLink="false">Frippertron-1708496615--06cae8a2-622f-4033-a13e-f965c5289ecc---Ruby's Golden Wedding</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d41888d2707871ff88047b22e92d94d5.jpg" length="10578" type="image/jpeg"/>
-      <pubDate>Wed, 21 Feb 2024 01:23:35 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Feb 2024 02:52:31 +0000</lastBuildDate>
     <item>
       <title>Danny Wilson - Five Friendly Aliens (9 plays)</title>
       <link>https://www.last.fm/music/Danny+Wilson/_/Five+Friendly+Aliens</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1708569290--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---I Have the Touch</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e26f1c92b99c46b9aa94060e9173bc56.png" length="126218" type="image/png"/>
       <pubDate>Wed, 21 Feb 2024 21:34:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Have Mercy On The Criminal (15 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Have+Mercy+On+The+Criminal</link>
+      <guid isPermaLink="false">Frippertron-1708569641--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Have Mercy On The Criminal</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/959e1e54f65c489b985b1c4cfcc2e45c.jpg" length="18427" type="image/jpeg"/>
+      <pubDate>Wed, 21 Feb 2024 21:40:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Mama Can't Buy You Love (22 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Mama+Can%27t+Buy+You+Love</link>
+      <guid isPermaLink="false">Frippertron-1708570059--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Mama Can't Buy You Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a304ec432a366edc6eb5b0c0fc221c1.jpg" length="20586" type="image/jpeg"/>
+      <pubDate>Wed, 21 Feb 2024 21:47:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
