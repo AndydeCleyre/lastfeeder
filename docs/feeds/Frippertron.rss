@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Feb 2024 05:15:53 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Jesse James Symphony (104 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Jesse+James+Symphony</link>
-      <guid isPermaLink="false">Frippertron-1708591659--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Jesse James Symphony</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9be258d654d000529cc34f76ba6e77d1.jpg" length="29372" type="image/jpeg"/>
-      <pubDate>Thu, 22 Feb 2024 03:47:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Jesse James Bolero (104 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Jesse+James+Bolero</link>
-      <guid isPermaLink="false">Frippertron-1708591795--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Jesse James Bolero</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9be258d654d000529cc34f76ba6e77d1.jpg" length="29372" type="image/jpeg"/>
-      <pubDate>Thu, 22 Feb 2024 03:49:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Feb 2024 05:52:13 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Moon Dog (105 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Moon+Dog</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1708664108--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Thu, 22 Feb 2024 23:55:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Mama Can't Buy You Love (23 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Mama+Can%27t+Buy+You+Love</link>
+      <guid isPermaLink="false">Frippertron-1708666902--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Mama Can't Buy You Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a304ec432a366edc6eb5b0c0fc221c1.jpg" length="20586" type="image/jpeg"/>
+      <pubDate>Fri, 23 Feb 2024 00:41:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - One Horse Town (82 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/One+Horse+Town</link>
+      <guid isPermaLink="false">Frippertron-1708667213--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---One Horse Town</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
+      <pubDate>Fri, 23 Feb 2024 00:46:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
