@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Feb 2024 11:37:10 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Ego (43 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Ego</link>
-      <guid isPermaLink="false">Frippertron-1708667962--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Ego</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eab83910012b105769681c12183000c1.png" length="170239" type="image/png"/>
-      <pubDate>Fri, 23 Feb 2024 00:59:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Feb 2024 14:14:45 +0000</lastBuildDate>
     <item>
       <title>Elton John - Tonight (49 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Tonight</link>
@@ -191,7 +184,7 @@
       <pubDate>Fri, 23 Feb 2024 03:54:38 -0500</pubDate>
     </item>
     <item>
-      <title>Melt-Banana - Red Data, Red Stage (2 plays)</title>
+      <title>Melt-Banana - Red Data, Red Stage</title>
       <link>https://www.last.fm/music/Melt-Banana/_/Red+Data,+Red+Stage</link>
       <guid isPermaLink="false">Frippertron-1708678602--6d3f44c3-132d-42a6-a45b-16560b30a1fc---Red Data, Red Stage</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca2f75a0958349d2803f5afd9aba6936.png" length="176653" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1708687647--20883363-1ea4-4d72-ad72-c0e767038f3e---Inertiatic ESP</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
       <pubDate>Fri, 23 Feb 2024 06:27:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cassandra Gemini (15 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cassandra+Gemini</link>
+      <guid isPermaLink="false">Frippertron-1708696155--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Fri, 23 Feb 2024 08:49:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
