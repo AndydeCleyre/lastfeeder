@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Feb 2024 16:19:23 +0000</lastBuildDate>
-    <item>
-      <title>Super Simple Songs - Baby Shark (6 plays)</title>
-      <link>https://www.last.fm/music/Super+Simple+Songs/_/Baby+Shark</link>
-      <guid isPermaLink="false">ddgromit-1708621455--Super Simple Songs---Baby Shark</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90f3035c25c7f5f7bda041f607591c8a.jpg" length="21668" type="image/jpeg"/>
-      <pubDate>Thu, 22 Feb 2024 12:04:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Feb 2024 23:52:10 +0000</lastBuildDate>
     <item>
       <title>The Wiggles - Hot Potato (9 plays)</title>
       <link>https://www.last.fm/music/The+Wiggles/_/Hot+Potato</link>
@@ -222,6 +215,7 @@
       <title>Vansire - Précis Two (2 plays)</title>
       <link>https://www.last.fm/music/Vansire/_/Pr%C3%A9cis+Two</link>
       <guid isPermaLink="false">ddgromit-1708658397--0a7920d5-135b-4bca-885c-ebd79f0d5d9f---Précis Two</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cca4140d260bf0df68144720f7b8e8bb.jpg" length="12091" type="image/jpeg"/>
       <pubDate>Thu, 22 Feb 2024 22:19:57 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1708704782--Toddler Tunes---The Table Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 23 Feb 2024 11:13:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Trees - The Poo Poo Song (2 plays)</title>
+      <link>https://www.last.fm/music/The+Trees/_/The+Poo+Poo+Song</link>
+      <guid isPermaLink="false">ddgromit-1708704889--308ce147-6e3e-4879-ae06-1d25c222ada3---The Poo Poo Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 23 Feb 2024 11:14:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
