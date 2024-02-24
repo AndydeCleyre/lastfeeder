@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Feb 2024 06:52:09 +0000</lastBuildDate>
-    <item>
-      <title>Savatage - A Little Too Far (8 plays)</title>
-      <link>https://www.last.fm/music/Savatage/_/A+Little+Too+Far</link>
-      <guid isPermaLink="false">manosg--1708496725--ac15222f-fb8a-4d2b-b4da-bde1c19f0a9f---A Little Too Far</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb67100fa72379ba373b2859bf9b4499.jpg" length="27711" type="image/jpeg"/>
-      <pubDate>Wed, 21 Feb 2024 01:25:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Feb 2024 13:52:12 +0000</lastBuildDate>
     <item>
       <title>Savatage - You're Alive (8 plays)</title>
       <link>https://www.last.fm/music/Savatage/_/You%27re+Alive</link>
@@ -285,6 +278,7 @@
       <title>Cathedral - Imprisoned in Flesh (2 plays)</title>
       <link>https://www.last.fm/music/Cathedral/_/Imprisoned+in+Flesh</link>
       <guid isPermaLink="false">manosg--1708625271--Cathedral---Imprisoned in Flesh</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbb9973ab3cfc489108fb9e022d7e9a9.jpg" length="29873" type="image/jpeg"/>
       <pubDate>Thu, 22 Feb 2024 13:07:51 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1708757190--North Sea Echoes---Touch the Sky</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d70d651db9e90b400002dda863ee2e88.jpg" length="22701" type="image/jpeg"/>
       <pubDate>Sat, 24 Feb 2024 01:46:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>North Sea Echoes - No Maps (1 play)</title>
+      <link>https://www.last.fm/music/North+Sea+Echoes/_/No+Maps</link>
+      <guid isPermaLink="false">manosg--1708757424--North Sea Echoes---No Maps</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d70d651db9e90b400002dda863ee2e88.jpg" length="22701" type="image/jpeg"/>
+      <pubDate>Sat, 24 Feb 2024 01:50:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
