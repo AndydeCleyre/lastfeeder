@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Feb 2024 04:37:34 +0000</lastBuildDate>
-    <item>
-      <title>MGMT - Bubblegum Dog (5 plays)</title>
-      <link>https://www.last.fm/music/MGMT/_/Bubblegum+Dog</link>
-      <guid isPermaLink="false">Arcade1996-1708647902--c485632c-b784-4ee9-8ea1-c5fb365681fc---Bubblegum Dog</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/291b9672315eae8a777410f4f80395c4.jpg" length="8386" type="image/jpeg"/>
-      <pubDate>Thu, 22 Feb 2024 19:25:02 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Feb 2024 05:41:37 +0000</lastBuildDate>
     <item>
       <title>MGMT - Nothing To Declare (4 plays)</title>
       <link>https://www.last.fm/music/MGMT/_/Nothing+To+Declare</link>
@@ -334,7 +327,6 @@
       <title>Depeche Mode - Strangelove (31 plays)</title>
       <link>https://www.last.fm/music/Depeche+Mode/_/Strangelove</link>
       <guid isPermaLink="false">Arcade1996-1708748217--8538e728-ca0b-4321-b7e5-cff6565dd4c0---Strangelove</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ba65b2afc0dc7e478ab22af3c94d8b6.png" length="126211" type="image/png"/>
       <pubDate>Fri, 23 Feb 2024 23:16:57 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">Arcade1996-1708748991--183d6ef6-e161-47ff-9085-063c8b897e97---Don't Let's Start</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c9729cf4d0e4d95b65ff091bd05ff47.png" length="215645" type="image/png"/>
       <pubDate>Fri, 23 Feb 2024 23:29:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>U2 - Until the End of the World (20 plays)</title>
+      <link>https://www.last.fm/music/U2/_/Until+the+End+of+the+World</link>
+      <guid isPermaLink="false">Arcade1996-1708749148--a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432---Until the End of the World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a482040d21924ddacd5fe75dedbb1ef2.png" length="220174" type="image/png"/>
+      <pubDate>Fri, 23 Feb 2024 23:32:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
