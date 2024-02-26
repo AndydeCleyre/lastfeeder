@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Feb 2024 16:20:39 +0000</lastBuildDate>
-    <item>
-      <title>Corinne Bailey Rae - Put Your Records On (9 plays)</title>
-      <link>https://www.last.fm/music/Corinne+Bailey+Rae/_/Put+Your+Records+On</link>
-      <guid isPermaLink="false">ddgromit-1708735745--bc85c6f6-6b06-44c1-8754-ef32c1e6b824---Put Your Records On</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52f1205e591943e89627b5a4511b24a0.jpg" length="21768" type="image/jpeg"/>
-      <pubDate>Fri, 23 Feb 2024 19:49:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Richard Rodgers - My Favourite Things (1 play)</title>
-      <link>https://www.last.fm/music/Richard+Rodgers/_/My+Favourite+Things</link>
-      <guid isPermaLink="false">ddgromit-1708789626--346448f5-25a0-4f78-bbd6-acc0205f7513---My Favourite Things</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/042c1f187c10fad969c47dd3ed861a48.jpg" length="29934" type="image/jpeg"/>
-      <pubDate>Sat, 24 Feb 2024 10:47:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gnarls Barkley - Crazy (4 plays)</title>
-      <link>https://www.last.fm/music/Gnarls+Barkley/_/Crazy</link>
-      <guid isPermaLink="false">ddgromit-1708789683--a47c3aa2-7d87-475c-a2c7-1e2047dafb09---Crazy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14e90317dfbf38c010029f350dfb031f.jpg" length="17527" type="image/jpeg"/>
-      <pubDate>Sat, 24 Feb 2024 10:48:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Feb 2024 20:17:14 +0000</lastBuildDate>
     <item>
       <title>Moby - You &amp; Me (1 play)</title>
       <link>https://www.last.fm/music/Moby/_/You+&amp;+Me</link>
@@ -58,11 +37,18 @@
       <pubDate>Sat, 24 Feb 2024 11:01:22 -0500</pubDate>
     </item>
     <item>
-      <title>Schlafende Musik - Hilfe zum Einschlafen - Ruhige Musik (1 play)</title>
+      <title>Schlafende Musik - Hilfe zum Einschlafen - Ruhige Musik (2 plays)</title>
       <link>https://www.last.fm/music/Schlafende+Musik/_/Hilfe+zum+Einschlafen+-+Ruhige+Musik</link>
       <guid isPermaLink="false">ddgromit-1708790604--Schlafende Musik---Hilfe zum Einschlafen - Ruhige Musik</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 24 Feb 2024 11:03:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Schlafende Musik - Hilfe zum Einschlafen - Ruhige Musik (2 plays)</title>
+      <link>https://www.last.fm/music/Schlafende+Musik/_/Hilfe+zum+Einschlafen+-+Ruhige+Musik</link>
+      <guid isPermaLink="false">ddgromit-1708790736--Schlafende Musik---Hilfe zum Einschlafen - Ruhige Musik</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 24 Feb 2024 11:05:36 -0500</pubDate>
     </item>
     <item>
       <title>Sing n Play - Old Macdonald (1 play)</title>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1708963756--Cheree D Be---Up on the Housetop</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 26 Feb 2024 11:09:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Denise King - Christmas Time Is Here (1 play)</title>
+      <link>https://www.last.fm/music/Denise+King/_/Christmas+Time+Is+Here</link>
+      <guid isPermaLink="false">ddgromit-1708963849--Denise King---Christmas Time Is Here</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 26 Feb 2024 11:10:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Herb Alpert &amp; The Tijuana Brass - Ladyfingers (1 play)</title>
+      <link>https://www.last.fm/music/Herb+Alpert+&amp;+The+Tijuana+Brass/_/Ladyfingers</link>
+      <guid isPermaLink="false">ddgromit-1708978285--012ef4f9-2d35-4000-86e5-bc761f87dab9---Ladyfingers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7827e55f163be775cd1a24c45c716e80.jpg" length="21386" type="image/jpeg"/>
+      <pubDate>Mon, 26 Feb 2024 15:11:25 -0500</pubDate>
     </item>
   </channel>
 </rss>
