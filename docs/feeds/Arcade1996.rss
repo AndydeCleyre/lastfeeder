@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Feb 2024 10:37:51 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - My Hero (46 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/My+Hero</link>
-      <guid isPermaLink="false">Arcade1996-1708830519--67f66c07-6e61-4026-ade5-7e782fad3a5d---My Hero</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2ecd547171fc923b5b32718a8e8780a.jpg" length="11379" type="image/jpeg"/>
-      <pubDate>Sat, 24 Feb 2024 22:08:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Feb 2024 11:37:17 +0000</lastBuildDate>
     <item>
       <title>Kelis - Millionaire (2 plays)</title>
       <link>https://www.last.fm/music/Kelis/_/Millionaire</link>
@@ -184,7 +177,7 @@
       <pubDate>Sun, 25 Feb 2024 08:20:14 -0500</pubDate>
     </item>
     <item>
-      <title>COOLING PRONGS - Midnight (1 play)</title>
+      <title>COOLING PRONGS - Midnight (2 plays)</title>
       <link>https://www.last.fm/music/COOLING+PRONGS/_/Midnight</link>
       <guid isPermaLink="false">Arcade1996-1708867445--86bddba9-f258-4681-97b8-e45fcf9e87f8---Midnight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fd4c075d2492205d2f957c2eff285f2.jpg" length="28171" type="image/jpeg"/>
@@ -348,7 +341,6 @@
       <title>Depeche Mode - Fly on the Windscreen (Final) (39 plays)</title>
       <link>https://www.last.fm/music/Depeche+Mode/_/Fly+on+the+Windscreen+(Final)</link>
       <guid isPermaLink="false">Arcade1996-1708942258--8538e728-ca0b-4321-b7e5-cff6565dd4c0---Fly on the Windscreen (Final)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9292ef02a6d33cb527e9c31ab76fdd76.jpg" length="17479" type="image/jpeg"/>
       <pubDate>Mon, 26 Feb 2024 05:10:58 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">Arcade1996-1708942575--84ca8fa4-7cca-4948-a90a-cb44db29853d---Tipsy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fd4c075d2492205d2f957c2eff285f2.jpg" length="28171" type="image/jpeg"/>
       <pubDate>Mon, 26 Feb 2024 05:16:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>COOLING PRONGS - Midnight (2 plays)</title>
+      <link>https://www.last.fm/music/COOLING+PRONGS/_/Midnight</link>
+      <guid isPermaLink="false">Arcade1996-1708946660--86bddba9-f258-4681-97b8-e45fcf9e87f8---Midnight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fd4c075d2492205d2f957c2eff285f2.jpg" length="28171" type="image/jpeg"/>
+      <pubDate>Mon, 26 Feb 2024 06:24:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
