@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Feb 2024 10:18:34 +0000</lastBuildDate>
-    <item>
-      <title>Halford - Locked and Loaded (2 plays)</title>
-      <link>https://www.last.fm/music/Halford/_/Locked+and+Loaded</link>
-      <guid isPermaLink="false">manosg--1708502150--9b96dcab-ed89-42f4-9863-ca5ec473860e---Locked and Loaded</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/194120daeedc425281069798d68c8e5c.jpg" length="19851" type="image/jpeg"/>
-      <pubDate>Wed, 21 Feb 2024 02:55:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Halford - Night Fall (2 plays)</title>
-      <link>https://www.last.fm/music/Halford/_/Night+Fall</link>
-      <guid isPermaLink="false">manosg--1708502779--9b96dcab-ed89-42f4-9863-ca5ec473860e---Night Fall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/194120daeedc425281069798d68c8e5c.jpg" length="19851" type="image/jpeg"/>
-      <pubDate>Wed, 21 Feb 2024 03:06:19 -0500</pubDate>
-    </item>
-    <item>
-      <title>Halford - Silent Screams (2 plays)</title>
-      <link>https://www.last.fm/music/Halford/_/Silent+Screams</link>
-      <guid isPermaLink="false">manosg--1708503227--9b96dcab-ed89-42f4-9863-ca5ec473860e---Silent Screams</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/194120daeedc425281069798d68c8e5c.jpg" length="19851" type="image/jpeg"/>
-      <pubDate>Wed, 21 Feb 2024 03:13:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Feb 2024 10:37:36 +0000</lastBuildDate>
     <item>
       <title>Halford - The One You Love To Hate (2 plays)</title>
       <link>https://www.last.fm/music/Halford/_/The+One+You+Love+To+Hate</link>
@@ -341,6 +320,7 @@
       <title>Coltre - Oblivion (1 play)</title>
       <link>https://www.last.fm/music/Coltre/_/Oblivion</link>
       <guid isPermaLink="false">manosg--1708884022--Coltre---Oblivion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e72889a95adfc4e9be87c0e6adf7ca63.jpg" length="26191" type="image/jpeg"/>
       <pubDate>Sun, 25 Feb 2024 13:00:22 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">manosg--1708942096--Witchorious---Catharsis</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c2beebb4ad3b70a0c2ecaf21f58bc86.jpg" length="46685" type="image/jpeg"/>
       <pubDate>Mon, 26 Feb 2024 05:08:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Witchorious - The Witch (1 play)</title>
+      <link>https://www.last.fm/music/Witchorious/_/The+Witch</link>
+      <guid isPermaLink="false">manosg--1708942459--0033cfa2-e385-4521-b93e-c09508b2bb34---The Witch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c2beebb4ad3b70a0c2ecaf21f58bc86.jpg" length="46685" type="image/jpeg"/>
+      <pubDate>Mon, 26 Feb 2024 05:14:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Witchorious - Blood (1 play)</title>
+      <link>https://www.last.fm/music/Witchorious/_/Blood</link>
+      <guid isPermaLink="false">manosg--1708942828--0033cfa2-e385-4521-b93e-c09508b2bb34---Blood</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c2beebb4ad3b70a0c2ecaf21f58bc86.jpg" length="46685" type="image/jpeg"/>
+      <pubDate>Mon, 26 Feb 2024 05:20:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Witchorious - Eternal Night (1 play)</title>
+      <link>https://www.last.fm/music/Witchorious/_/Eternal+Night</link>
+      <guid isPermaLink="false">manosg--1708943229--0033cfa2-e385-4521-b93e-c09508b2bb34---Eternal Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c2beebb4ad3b70a0c2ecaf21f58bc86.jpg" length="46685" type="image/jpeg"/>
+      <pubDate>Mon, 26 Feb 2024 05:27:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
