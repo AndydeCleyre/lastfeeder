@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Feb 2024 12:28:54 +0000</lastBuildDate>
-    <item>
-      <title>Akon - Don't Matter (1 play)</title>
-      <link>https://www.last.fm/music/Akon/_/Don%27t+Matter</link>
-      <guid isPermaLink="false">rockijosh-1708552966--1138a764-2212-4d0a-b02d-0dc14df91e08---Don't Matter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0956ddf2bd294e55ce6ba63dc3b8d98b.png" length="145181" type="image/png"/>
-      <pubDate>Wed, 21 Feb 2024 17:02:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Feb 2024 12:49:26 +0000</lastBuildDate>
     <item>
       <title>Snoop Dogg - Boss' Life (1 play)</title>
       <link>https://www.last.fm/music/Snoop+Dogg/_/Boss%27+Life</link>
@@ -40,12 +33,14 @@
       <title>BLACKPINK - Ice Cream (with Selena Gomez) (66 plays)</title>
       <link>https://www.last.fm/music/BLACKPINK/_/Ice+Cream+(with+Selena+Gomez)</link>
       <guid isPermaLink="false">rockijosh-1708605053--48646387-1664-4c9a-9139-9bfd091b823c---Ice Cream (with Selena Gomez)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d10188b06a56cdd5de8a3a3242984e66.jpg" length="24251" type="image/jpeg"/>
       <pubDate>Thu, 22 Feb 2024 07:30:53 -0500</pubDate>
     </item>
     <item>
       <title>BLACKPINK - Ice Cream (with Selena Gomez) (66 plays)</title>
       <link>https://www.last.fm/music/BLACKPINK/_/Ice+Cream+(with+Selena+Gomez)</link>
       <guid isPermaLink="false">rockijosh-1708614824--48646387-1664-4c9a-9139-9bfd091b823c---Ice Cream (with Selena Gomez)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d10188b06a56cdd5de8a3a3242984e66.jpg" length="24251" type="image/jpeg"/>
       <pubDate>Thu, 22 Feb 2024 10:13:44 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1708950298--Marina---Orange Trees</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12b7415100a00f4c7c1d4dc27f9e8fbf.jpg" length="12709" type="image/jpeg"/>
       <pubDate>Mon, 26 Feb 2024 07:24:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Marina - Man's World (23 plays)</title>
+      <link>https://www.last.fm/music/Marina/_/Man%27s+World</link>
+      <guid isPermaLink="false">rockijosh-1708950488--Marina---Man's World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7173c083865106abd0694a4fa6d66419.jpg" length="33062" type="image/jpeg"/>
+      <pubDate>Mon, 26 Feb 2024 07:28:08 -0500</pubDate>
     </item>
   </channel>
 </rss>
