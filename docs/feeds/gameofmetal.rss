@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Feb 2024 20:37:57 +0000</lastBuildDate>
-    <item>
-      <title>Inanimate Existence - The Masquerade (2 plays)</title>
-      <link>https://www.last.fm/music/Inanimate+Existence/_/The+Masquerade</link>
-      <guid isPermaLink="false">gameofmetal-1708700245--Inanimate Existence---The Masquerade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8e3c0731dcbd3ba39fecd0e459aea95.jpg" length="22504" type="image/jpeg"/>
-      <pubDate>Fri, 23 Feb 2024 09:57:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Inanimate Existence - Into the Underworld (2 plays)</title>
-      <link>https://www.last.fm/music/Inanimate+Existence/_/Into+the+Underworld</link>
-      <guid isPermaLink="false">gameofmetal-1708700586--d6b60ee7-aac3-4501-8dc6-a59e6ebbec1c---Into the Underworld</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8e3c0731dcbd3ba39fecd0e459aea95.jpg" length="22504" type="image/jpeg"/>
-      <pubDate>Fri, 23 Feb 2024 10:03:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Inanimate Existence - Wandering White Halls (2 plays)</title>
-      <link>https://www.last.fm/music/Inanimate+Existence/_/Wandering+White+Halls</link>
-      <guid isPermaLink="false">gameofmetal-1708700937--Inanimate Existence---Wandering White Halls</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8e3c0731dcbd3ba39fecd0e459aea95.jpg" length="22504" type="image/jpeg"/>
-      <pubDate>Fri, 23 Feb 2024 10:08:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Feb 2024 20:52:09 +0000</lastBuildDate>
     <item>
       <title>Inanimate Existence - Return to the Dream (2 plays)</title>
       <link>https://www.last.fm/music/Inanimate+Existence/_/Return+to+the+Dream</link>
@@ -341,6 +320,7 @@
       <title>The Wise Man's Fear - Carry On (1 play)</title>
       <link>https://www.last.fm/music/The+Wise+Man%27s+Fear/_/Carry+On</link>
       <guid isPermaLink="false">gameofmetal-1708973569--The Wise Man's Fear---Carry On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b8a1a0536a9999d86b15dfa31c16b83.jpg" length="17290" type="image/jpeg"/>
       <pubDate>Mon, 26 Feb 2024 13:52:49 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">gameofmetal-1708979562--709b6c87-4870-4596-b981-afdc61f39476---Beyond the Chemical Doorway</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16a17b31670bd54c8ac0b1342ed99f51.jpg" length="37150" type="image/jpeg"/>
       <pubDate>Mon, 26 Feb 2024 15:32:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Job for a Cowboy - Etched in Oblivion (1 play)</title>
+      <link>https://www.last.fm/music/Job+for+a+Cowboy/_/Etched+in+Oblivion</link>
+      <guid isPermaLink="false">gameofmetal-1708979870--709b6c87-4870-4596-b981-afdc61f39476---Etched in Oblivion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16a17b31670bd54c8ac0b1342ed99f51.jpg" length="37150" type="image/jpeg"/>
+      <pubDate>Mon, 26 Feb 2024 15:37:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Job for a Cowboy - Bearing The Serpents Lamb (3 plays)</title>
+      <link>https://www.last.fm/music/Job+for+a+Cowboy/_/Bearing+The+Serpents+Lamb</link>
+      <guid isPermaLink="false">gameofmetal-1708980215--Job for a Cowboy---Bearing The Serpents Lamb</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ecf04bd2e10b4433a616c2eb7302bc1e.jpg" length="31226" type="image/jpeg"/>
+      <pubDate>Mon, 26 Feb 2024 15:43:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Job for a Cowboy - Reduced To Mere Filth (1 play)</title>
+      <link>https://www.last.fm/music/Job+for+a+Cowboy/_/Reduced+To+Mere+Filth</link>
+      <guid isPermaLink="false">gameofmetal-1708980384--709b6c87-4870-4596-b981-afdc61f39476---Reduced To Mere Filth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ecf04bd2e10b4433a616c2eb7302bc1e.jpg" length="31226" type="image/jpeg"/>
+      <pubDate>Mon, 26 Feb 2024 15:46:24 -0500</pubDate>
     </item>
   </channel>
 </rss>
