@@ -7,13 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Feb 2024 03:17:25 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Bite Your Lip (Get Up And Dance!) (43 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Bite+Your+Lip+(Get+Up+And+Dance!)</link>
-      <guid isPermaLink="false">Frippertron-1708670978--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bite Your Lip (Get Up And Dance!)</guid>
-      <pubDate>Fri, 23 Feb 2024 01:49:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Feb 2024 03:52:08 +0000</lastBuildDate>
     <item>
       <title>Melt-Banana - Schemes of the Tails (3 plays)</title>
       <link>https://www.last.fm/music/Melt-Banana/_/Schemes+of+the+Tails</link>
@@ -186,6 +180,7 @@
       <title>The Mars Volta - Day of the Baphomets (3 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Day+of+the+Baphomets</link>
       <guid isPermaLink="false">Frippertron-1708679876--20883363-1ea4-4d72-ad72-c0e767038f3e---Day of the Baphomets</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
       <pubDate>Fri, 23 Feb 2024 04:17:56 -0500</pubDate>
     </item>
     <item>
@@ -287,7 +282,7 @@
       <pubDate>Fri, 23 Feb 2024 06:04:25 -0500</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Cygnus....Vismund Cygnus (19 plays)</title>
+      <title>The Mars Volta - Cygnus....Vismund Cygnus (20 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
       <guid isPermaLink="false">Frippertron-1708686607--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1708917168--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Sun, 25 Feb 2024 22:12:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cygnus....Vismund Cygnus (20 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
+      <guid isPermaLink="false">Frippertron-1708919161--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Sun, 25 Feb 2024 22:46:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
