@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Feb 2024 21:13:13 +0000</lastBuildDate>
-    <item>
-      <title>boygenius - Ketchum, ID (1 play)</title>
-      <link>https://www.last.fm/music/boygenius/_/Ketchum,+ID</link>
-      <guid isPermaLink="false">rockijosh-1709052519--3ceeddbd-fba5-4bdb-99f7-2d028ed5afda---Ketchum, ID</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0aa2439a50ab73d77729f4573e4d5558.jpg" length="10724" type="image/jpeg"/>
-      <pubDate>Tue, 27 Feb 2024 11:48:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Feb 2024 21:25:11 +0000</lastBuildDate>
     <item>
       <title>boygenius - Leonard Cohen (1 play)</title>
       <link>https://www.last.fm/music/boygenius/_/Leonard+Cohen</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1709067963--af37c51c-0790-4a29-b995-456f98a6b8c9---Capricorn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1e56e5819e2cd13b9ff9b97a0146aaa.jpg" length="22489" type="image/jpeg"/>
       <pubDate>Tue, 27 Feb 2024 16:06:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Last Dinner Party - Sinner (2 plays)</title>
+      <link>https://www.last.fm/music/The+Last+Dinner+Party/_/Sinner</link>
+      <guid isPermaLink="false">rockijosh-1709068213--2f0c90b1-84d5-47f1-ad75-ad8d30f53f70---Sinner</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/169af4a90c577b825696b7ce947fb371.png" length="168764" type="image/png"/>
+      <pubDate>Tue, 27 Feb 2024 16:10:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
