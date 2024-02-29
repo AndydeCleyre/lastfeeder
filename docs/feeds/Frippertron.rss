@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Feb 2024 08:37:13 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Goliath (6 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
-      <guid isPermaLink="false">Frippertron-1709173946--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Wed, 28 Feb 2024 21:32:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Don't Let the Sun Go Down on Me (18 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Don%27t+Let+the+Sun+Go+Down+on+Me</link>
-      <guid isPermaLink="false">Frippertron-1709174383--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Don't Let the Sun Go Down on Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e9f1e73ab44886d52ae85a6e192e636.jpg" length="32553" type="image/jpeg"/>
-      <pubDate>Wed, 28 Feb 2024 21:39:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Feb 2024 08:52:27 +0000</lastBuildDate>
     <item>
       <title>Elton John - Ticking (36 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Ticking</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1709195508--20883363-1ea4-4d72-ad72-c0e767038f3e---Drunkship of Lanterns</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
       <pubDate>Thu, 29 Feb 2024 03:31:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Eriatarka (4 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Eriatarka</link>
+      <guid isPermaLink="false">Frippertron-1709195935--20883363-1ea4-4d72-ad72-c0e767038f3e---Eriatarka</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
+      <pubDate>Thu, 29 Feb 2024 03:38:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cicatriz ESP (6 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cicatriz+ESP</link>
+      <guid isPermaLink="false">Frippertron-1709196316--20883363-1ea4-4d72-ad72-c0e767038f3e---Cicatriz ESP</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
+      <pubDate>Thu, 29 Feb 2024 03:45:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
