@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Feb 2024 09:52:40 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - For Your Pleasure (29 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/For+Your+Pleasure</link>
-      <guid isPermaLink="false">Frippertron-1709178731--331ce348-1b08-40b9-8ed7-0763b92bd003---For Your Pleasure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Wed, 28 Feb 2024 22:52:11 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Feb 2024 10:19:05 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Goliath (6 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1709199997--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Wild Horses</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9be258d654d000529cc34f76ba6e77d1.jpg" length="29372" type="image/jpeg"/>
       <pubDate>Thu, 29 Feb 2024 04:46:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - The Sound Of Crying (44 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/The+Sound+Of+Crying</link>
+      <guid isPermaLink="false">Frippertron-1709200325--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The Sound Of Crying</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9be258d654d000529cc34f76ba6e77d1.jpg" length="29372" type="image/jpeg"/>
+      <pubDate>Thu, 29 Feb 2024 04:52:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
