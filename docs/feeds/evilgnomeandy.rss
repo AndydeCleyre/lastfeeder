@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Mar 2024 16:18:02 +0000</lastBuildDate>
-    <item>
-      <title>Michael Andrews - Gretchen Ross (1 play)</title>
-      <link>https://www.last.fm/music/Michael+Andrews/_/Gretchen+Ross</link>
-      <guid isPermaLink="false">evilgnomeandy-1707869755--ee6e8790-7123-40ab-b7e9-03c4fe6aa08f---Gretchen Ross</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7510588afc2405516f5899c52dd177fb.png" length="126393" type="image/png"/>
-      <pubDate>Tue, 13 Feb 2024 19:15:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>Michael Andrews - Burn it to the Ground (1 play)</title>
-      <link>https://www.last.fm/music/Michael+Andrews/_/Burn+it+to+the+Ground</link>
-      <guid isPermaLink="false">evilgnomeandy-1707869810--ee6e8790-7123-40ab-b7e9-03c4fe6aa08f---Burn it to the Ground</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7510588afc2405516f5899c52dd177fb.png" length="126393" type="image/png"/>
-      <pubDate>Tue, 13 Feb 2024 19:16:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Mar 2024 17:13:01 +0000</lastBuildDate>
     <item>
       <title>Michael Andrews - Slipping Away (1 play)</title>
       <link>https://www.last.fm/music/Michael+Andrews/_/Slipping+Away</link>
@@ -344,9 +330,10 @@
       <pubDate>Sun, 03 Mar 2024 10:49:52 -0500</pubDate>
     </item>
     <item>
-      <title>Art Lown - Deep Blue Sea (1 play)</title>
+      <title>Art Lown - Deep Blue Sea (2 plays)</title>
       <link>https://www.last.fm/music/Art+Lown/_/Deep+Blue+Sea</link>
       <guid isPermaLink="false">evilgnomeandy-1709481112--Art Lown---Deep Blue Sea</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9804f6e4bc159174c96836e2e54da4a2.jpg" length="28040" type="image/jpeg"/>
       <pubDate>Sun, 03 Mar 2024 10:51:52 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +342,20 @@
       <guid isPermaLink="false">evilgnomeandy-1709481274--Art Lown---What It Takes To Make You Love Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7915c15715bece6f079e9bd6b6636bbc.jpg" length="22539" type="image/jpeg"/>
       <pubDate>Sun, 03 Mar 2024 10:54:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Art Lown - Deep Blue Sea (2 plays)</title>
+      <link>https://www.last.fm/music/Art+Lown/_/Deep+Blue+Sea</link>
+      <guid isPermaLink="false">evilgnomeandy-1709481397--Art Lown---Deep Blue Sea</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9804f6e4bc159174c96836e2e54da4a2.jpg" length="28040" type="image/jpeg"/>
+      <pubDate>Sun, 03 Mar 2024 10:56:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yellow Ostrich - How Do You Do It (1 play)</title>
+      <link>https://www.last.fm/music/Yellow+Ostrich/_/How+Do+You+Do+It</link>
+      <guid isPermaLink="false">evilgnomeandy-1709485237--01808d27-cc1a-4d96-94de-f3dba97d5340---How Do You Do It</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f870cf26e98944cfc44f17501c38224b.jpg" length="22157" type="image/jpeg"/>
+      <pubDate>Sun, 03 Mar 2024 12:00:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
