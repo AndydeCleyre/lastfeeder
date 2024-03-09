@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Mar 2024 01:05:50 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Editions of You (103 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
-      <guid isPermaLink="false">Frippertron-1709875677--331ce348-1b08-40b9-8ed7-0763b92bd003---Editions of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Fri, 08 Mar 2024 00:27:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 09 Mar 2024 02:37:53 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - Street Life (60 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Street+Life</link>
@@ -170,7 +163,7 @@
       <pubDate>Fri, 08 Mar 2024 03:34:22 -0500</pubDate>
     </item>
     <item>
-      <title>George Michael - Freeek! (44 plays)</title>
+      <title>George Michael - Freeek! (45 plays)</title>
       <link>https://www.last.fm/music/George+Michael/_/Freeek!</link>
       <guid isPermaLink="false">Frippertron-1709887137--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Freeek!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9d8229d3f304028c05364e498ad34e8.png" length="36545" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1709943884--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bite Your Lip (Get Up And Dance!)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
       <pubDate>Fri, 08 Mar 2024 19:24:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>George Michael - Freeek! (45 plays)</title>
+      <link>https://www.last.fm/music/George+Michael/_/Freeek!</link>
+      <guid isPermaLink="false">Frippertron-1709951492--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Freeek!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9d8229d3f304028c05364e498ad34e8.png" length="36545" type="image/png"/>
+      <pubDate>Fri, 08 Mar 2024 21:31:32 -0500</pubDate>
     </item>
   </channel>
 </rss>
