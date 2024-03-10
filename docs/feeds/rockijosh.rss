@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Mar 2024 18:55:42 +0000</lastBuildDate>
-    <item>
-      <title>Hans Zimmer - Message from Home (1 play)</title>
-      <link>https://www.last.fm/music/Hans+Zimmer/_/Message+from+Home</link>
-      <guid isPermaLink="false">rockijosh-1709821710--e6de1f3b-6484-491c-88dd-6d619f142abc---Message from Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d6322c6d784708fd7723b991714e51d.jpg" length="29074" type="image/jpeg"/>
-      <pubDate>Thu, 07 Mar 2024 09:28:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 Mar 2024 05:52:10 +0000</lastBuildDate>
     <item>
       <title>Hans Zimmer - The Wormhole (1 play)</title>
       <link>https://www.last.fm/music/Hans+Zimmer/_/The+Wormhole</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1710000640--6f500293-7396-4903-b4fd-118127d06f9e---First Part Time Job As Sunshine Girl</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3748e67123d7fded58bcb3132fbdf46a.jpg" length="20827" type="image/jpeg"/>
       <pubDate>Sat, 09 Mar 2024 11:10:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rihanna - Umbrella (112 plays)</title>
+      <link>https://www.last.fm/music/Rihanna/_/Umbrella</link>
+      <guid isPermaLink="false">rockijosh-1710001354--73e5e69d-3554-40d8-8516-00cb38737a1c---Umbrella</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ba6843d054b4f449948bdb13957248c.png" length="75116" type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 11:22:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
