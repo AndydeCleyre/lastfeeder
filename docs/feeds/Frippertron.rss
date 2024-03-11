@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Mar 2024 01:57:20 +0000</lastBuildDate>
-    <item>
-      <title>At the Drive-In - Hourglass (1 play)</title>
-      <link>https://www.last.fm/music/At+the+Drive-In/_/Hourglass</link>
-      <guid isPermaLink="false">Frippertron-1709895253--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Hourglass</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe0b326b76fa4bb4cbfaf5d395a0b578.png" length="42714" type="image/png"/>
-      <pubDate>Fri, 08 Mar 2024 05:54:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>At the Drive-In - Transatlantic Foe (1 play)</title>
-      <link>https://www.last.fm/music/At+the+Drive-In/_/Transatlantic+Foe</link>
-      <guid isPermaLink="false">Frippertron-1709895458--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Transatlantic Foe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe0b326b76fa4bb4cbfaf5d395a0b578.png" length="42714" type="image/png"/>
-      <pubDate>Fri, 08 Mar 2024 05:57:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Funeral for a Friend/Love Lies Bleeding (45 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Funeral+for+a+Friend%2FLove+Lies+Bleeding</link>
-      <guid isPermaLink="false">Frippertron-1709896645--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Funeral for a Friend/Love Lies Bleeding</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d4e915760f54d96cd76c9919ff22e65.png" length="203951" type="image/png"/>
-      <pubDate>Fri, 08 Mar 2024 06:17:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Mar 2024 02:25:15 +0000</lastBuildDate>
     <item>
       <title>Elton John - Bennie and the Jets (93 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
@@ -282,7 +261,7 @@
       <pubDate>Sun, 10 Mar 2024 19:52:22 -0400</pubDate>
     </item>
     <item>
-      <title>Sofia Kourtesis - Si Te Portas Bonito (1 play)</title>
+      <title>Sofia Kourtesis - Si Te Portas Bonito (2 plays)</title>
       <link>https://www.last.fm/music/Sofia+Kourtesis/_/Si+Te+Portas+Bonito</link>
       <guid isPermaLink="false">Frippertron-1710114873--2f8d2007-7666-45af-89d4-dec4921dce04---Si Te Portas Bonito</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca8c6fb10261d53621e9aed0e563c918.jpg" length="20202" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1710121070--Genesis---Inside and Out</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8825bb16c376478bc7fd8b88be8b3b93.png" length="125092" type="image/png"/>
       <pubDate>Sun, 10 Mar 2024 21:37:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - ...In That Quiet Earth' (60 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/...In+That+Quiet+Earth%27</link>
+      <guid isPermaLink="false">Frippertron-1710121474--Genesis---...In That Quiet Earth'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8825bb16c376478bc7fd8b88be8b3b93.png" length="125092" type="image/png"/>
+      <pubDate>Sun, 10 Mar 2024 21:44:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Johnston - Pipeline (16 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Johnston/_/Pipeline</link>
+      <guid isPermaLink="false">Frippertron-1710123262--38bcc90c-2a59-4e62-ac5a-8034cd49ae44---Pipeline</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab7e2d7e30446e17d2678c0432ba23f4.jpg" length="18329" type="image/jpeg"/>
+      <pubDate>Sun, 10 Mar 2024 22:14:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sofia Kourtesis - Si Te Portas Bonito (2 plays)</title>
+      <link>https://www.last.fm/music/Sofia+Kourtesis/_/Si+Te+Portas+Bonito</link>
+      <guid isPermaLink="false">Frippertron-1710123655--2f8d2007-7666-45af-89d4-dec4921dce04---Si Te Portas Bonito</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca8c6fb10261d53621e9aed0e563c918.jpg" length="20202" type="image/jpeg"/>
+      <pubDate>Sun, 10 Mar 2024 22:20:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
