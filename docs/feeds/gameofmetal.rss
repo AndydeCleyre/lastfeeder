@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Mar 2024 15:38:40 +0000</lastBuildDate>
-    <item>
-      <title>The Weeknd - Scared to Live (1 play)</title>
-      <link>https://www.last.fm/music/The+Weeknd/_/Scared+to+Live</link>
-      <guid isPermaLink="false">gameofmetal-1709658147--c8b03190-306c-4120-bb0b-6f2ebfc06ea9---Scared to Live</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg" length="14066" type="image/jpeg"/>
-      <pubDate>Tue, 05 Mar 2024 12:02:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>System of a Down - Deer Dance (1 play)</title>
-      <link>https://www.last.fm/music/System+of+a+Down/_/Deer+Dance</link>
-      <guid isPermaLink="false">gameofmetal-1709667862--cc0b7089-c08d-4c10-b6b0-873582c17fd6---Deer Dance</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/faa79372c53139010902e67938ccf78e.jpg" length="31283" type="image/jpeg"/>
-      <pubDate>Tue, 05 Mar 2024 14:44:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Mar 2024 16:52:23 +0000</lastBuildDate>
     <item>
       <title>System of a Down - Chop Suey! (1 play)</title>
       <link>https://www.last.fm/music/System+of+a+Down/_/Chop+Suey!</link>
@@ -47,6 +33,7 @@
       <title>Black Blood Invocation - Evocation of the Alla Xul (3 plays)</title>
       <link>https://www.last.fm/music/Black+Blood+Invocation/_/Evocation+of+the+Alla+Xul</link>
       <guid isPermaLink="false">gameofmetal-1709749778--eeaf7463-428d-485c-ac9e-d0fecaf927ec---Evocation of the Alla Xul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/477a5363e29f168f2e35346d0c20c816.jpg" length="32993" type="image/jpeg"/>
       <pubDate>Wed, 06 Mar 2024 13:29:38 -0500</pubDate>
     </item>
     <item>
@@ -109,14 +96,12 @@
       <title>Invultation - The Howling Convocation (4 plays)</title>
       <link>https://www.last.fm/music/Invultation/_/The+Howling+Convocation</link>
       <guid isPermaLink="false">gameofmetal-1709818077--36d112b0-2649-42d5-bd8d-fa08c35fe37b---The Howling Convocation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14702601998e3196d6898f5cd4dc8ef2.jpg" length="22880" type="image/jpeg"/>
       <pubDate>Thu, 07 Mar 2024 08:27:57 -0500</pubDate>
     </item>
     <item>
       <title>Invultation - Severed Umbilical Chaos (2 plays)</title>
       <link>https://www.last.fm/music/Invultation/_/Severed+Umbilical+Chaos</link>
       <guid isPermaLink="false">gameofmetal-1709818366--36d112b0-2649-42d5-bd8d-fa08c35fe37b---Severed Umbilical Chaos</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14702601998e3196d6898f5cd4dc8ef2.jpg" length="22880" type="image/jpeg"/>
       <pubDate>Thu, 07 Mar 2024 08:32:46 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +341,20 @@
       <guid isPermaLink="false">gameofmetal-1710166052--0b159139-cd34-424f-8b1f-9cc19a982f22---Blood Thirst</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3312687eb30f022f2a0de946c5228f6.jpg" length="38920" type="image/jpeg"/>
       <pubDate>Mon, 11 Mar 2024 10:07:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Noah Kahan - Northern Attitude (2 plays)</title>
+      <link>https://www.last.fm/music/Noah+Kahan/_/Northern+Attitude</link>
+      <guid isPermaLink="false">gameofmetal-1710175486--a2a3f910-b188-43e7-81d0-f1ac2a2f3e12---Northern Attitude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/370510f1781a9bd351389b6633c517ed.jpg" length="20377" type="image/jpeg"/>
+      <pubDate>Mon, 11 Mar 2024 12:44:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Noah Kahan - Stick Season (9 plays)</title>
+      <link>https://www.last.fm/music/Noah+Kahan/_/Stick+Season</link>
+      <guid isPermaLink="false">gameofmetal-1710175752--a2a3f910-b188-43e7-81d0-f1ac2a2f3e12---Stick Season</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/370510f1781a9bd351389b6633c517ed.jpg" length="20377" type="image/jpeg"/>
+      <pubDate>Mon, 11 Mar 2024 12:49:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
