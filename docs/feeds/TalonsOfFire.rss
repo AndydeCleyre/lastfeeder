@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Mar 2024 16:39:04 +0000</lastBuildDate>
-    <item>
-      <title>MGMT - TSLAMP (2 plays)</title>
-      <link>https://www.last.fm/music/MGMT/_/TSLAMP</link>
-      <guid isPermaLink="false">TalonsOfFire-1709653741--c485632c-b784-4ee9-8ea1-c5fb365681fc---TSLAMP</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28700d076e5afb3bc0fba47ab8e71975.png" length="118649" type="image/png"/>
-      <pubDate>Tue, 05 Mar 2024 10:49:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>MGMT - James (3 plays)</title>
-      <link>https://www.last.fm/music/MGMT/_/James</link>
-      <guid isPermaLink="false">TalonsOfFire-1709654011--c485632c-b784-4ee9-8ea1-c5fb365681fc---James</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28700d076e5afb3bc0fba47ab8e71975.png" length="118649" type="image/png"/>
-      <pubDate>Tue, 05 Mar 2024 10:53:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Mar 2024 16:52:17 +0000</lastBuildDate>
     <item>
       <title>MGMT - Days That Got Away (8 plays)</title>
       <link>https://www.last.fm/music/MGMT/_/Days+That+Got+Away</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1710261370--83b9cbe7-9857-49e2-ab8e-b57b01038103---Oceans</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dfa0959e9534f8dcfd24d5dc5110589.jpg" length="24768" type="image/jpeg"/>
       <pubDate>Tue, 12 Mar 2024 12:36:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pearl Jam - Porch (1 play)</title>
+      <link>https://www.last.fm/music/Pearl+Jam/_/Porch</link>
+      <guid isPermaLink="false">TalonsOfFire-1710261801--83b9cbe7-9857-49e2-ab8e-b57b01038103---Porch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dfa0959e9534f8dcfd24d5dc5110589.jpg" length="24768" type="image/jpeg"/>
+      <pubDate>Tue, 12 Mar 2024 12:43:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pearl Jam - Garden (1 play)</title>
+      <link>https://www.last.fm/music/Pearl+Jam/_/Garden</link>
+      <guid isPermaLink="false">TalonsOfFire-1710262010--83b9cbe7-9857-49e2-ab8e-b57b01038103---Garden</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dfa0959e9534f8dcfd24d5dc5110589.jpg" length="24768" type="image/jpeg"/>
+      <pubDate>Tue, 12 Mar 2024 12:46:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
