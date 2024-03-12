@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Mar 2024 11:12:39 +0000</lastBuildDate>
-    <item>
-      <title>Geese - Undoer (30 plays)</title>
-      <link>https://www.last.fm/music/Geese/_/Undoer</link>
-      <guid isPermaLink="false">Frippertron-1710218871--e0c97a4d-c392-41a9-a374-57af3e3eeab3---Undoer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
-      <pubDate>Tue, 12 Mar 2024 00:47:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Mar 2024 11:24:44 +0000</lastBuildDate>
     <item>
       <title>Geese - Crusades (53 plays)</title>
       <link>https://www.last.fm/music/Geese/_/Crusades</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1710241478--719db6b1-0d91-458c-8d18-875ec44105bf---I Do Nothing</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca6bae7e714e418aa70ff77da7e9b994.png" length="50565" type="image/png"/>
       <pubDate>Tue, 12 Mar 2024 07:04:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - I Surrender (50 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/I+Surrender</link>
+      <guid isPermaLink="false">Frippertron-1710241869--719db6b1-0d91-458c-8d18-875ec44105bf---I Surrender</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be8d1b4cf0824270bd1b86344bc62a21.png" length="180662" type="image/png"/>
+      <pubDate>Tue, 12 Mar 2024 07:11:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
