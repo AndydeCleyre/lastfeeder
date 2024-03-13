@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Mar 2024 10:16:48 +0000</lastBuildDate>
-    <item>
-      <title>Kim Gordon - I'm a Man (4 plays)</title>
-      <link>https://www.last.fm/music/Kim+Gordon/_/I%27m+a+Man</link>
-      <guid isPermaLink="false">Arcade1996-1710115985--19301485-ac9c-4dad-885b-cd8e8c8b4184---I'm a Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1914379ce4e72c120f7a018666ccb1ec.jpg" length="19001" type="image/jpeg"/>
-      <pubDate>Sun, 10 Mar 2024 20:13:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kim Gordon - Trophies (3 plays)</title>
-      <link>https://www.last.fm/music/Kim+Gordon/_/Trophies</link>
-      <guid isPermaLink="false">Arcade1996-1710116257--19301485-ac9c-4dad-885b-cd8e8c8b4184---Trophies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1914379ce4e72c120f7a018666ccb1ec.jpg" length="19001" type="image/jpeg"/>
-      <pubDate>Sun, 10 Mar 2024 20:17:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Mar 2024 10:37:42 +0000</lastBuildDate>
     <item>
       <title>Kim Gordon - It's Dark Inside (2 plays)</title>
       <link>https://www.last.fm/music/Kim+Gordon/_/It%27s+Dark+Inside</link>
@@ -72,7 +58,7 @@
       <pubDate>Sun, 10 Mar 2024 20:44:05 -0400</pubDate>
     </item>
     <item>
-      <title>Courting - Throw (14 plays)</title>
+      <title>Courting - Throw (15 plays)</title>
       <link>https://www.last.fm/music/Courting/_/Throw</link>
       <guid isPermaLink="false">Arcade1996-1710149543--2ba62367-f36f-4d49-9439-9a81f22a47ce---Throw</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03ad203735a88088537fc5fe9f46d061.jpg" length="11083" type="image/jpeg"/>
@@ -338,7 +324,7 @@
       <pubDate>Tue, 12 Mar 2024 20:16:58 -0400</pubDate>
     </item>
     <item>
-      <title>Depeche Mode - The Things You Said (12 plays)</title>
+      <title>Depeche Mode - The Things You Said (13 plays)</title>
       <link>https://www.last.fm/music/Depeche+Mode/_/The+Things+You+Said</link>
       <guid isPermaLink="false">Arcade1996-1710289219--8538e728-ca0b-4321-b7e5-cff6565dd4c0---The Things You Said</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d804a48d32ecdfe467d2706fb0ac4d36.jpg" length="14965" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1710323625--ffa12b9b-3842-443c-8da2-3e06dace2970---Bang The Bus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8f6aebebd2ec6c7ce2198a813273b22.png" length="61219" type="image/png"/>
       <pubDate>Wed, 13 Mar 2024 05:53:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Depeche Mode - The Things You Said (13 plays)</title>
+      <link>https://www.last.fm/music/Depeche+Mode/_/The+Things+You+Said</link>
+      <guid isPermaLink="false">Arcade1996-1710323801--8538e728-ca0b-4321-b7e5-cff6565dd4c0---The Things You Said</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d804a48d32ecdfe467d2706fb0ac4d36.jpg" length="14965" type="image/jpeg"/>
+      <pubDate>Wed, 13 Mar 2024 05:56:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Courting - Throw (15 plays)</title>
+      <link>https://www.last.fm/music/Courting/_/Throw</link>
+      <guid isPermaLink="false">Arcade1996-1710325143--2ba62367-f36f-4d49-9439-9a81f22a47ce---Throw</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03ad203735a88088537fc5fe9f46d061.jpg" length="11083" type="image/jpeg"/>
+      <pubDate>Wed, 13 Mar 2024 06:19:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
