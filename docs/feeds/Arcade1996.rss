@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Mar 2024 10:37:42 +0000</lastBuildDate>
-    <item>
-      <title>Kim Gordon - It's Dark Inside (2 plays)</title>
-      <link>https://www.last.fm/music/Kim+Gordon/_/It%27s+Dark+Inside</link>
-      <guid isPermaLink="false">Arcade1996-1710116413--19301485-ac9c-4dad-885b-cd8e8c8b4184---It's Dark Inside</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1914379ce4e72c120f7a018666ccb1ec.jpg" length="19001" type="image/jpeg"/>
-      <pubDate>Sun, 10 Mar 2024 20:20:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Mar 2024 10:52:09 +0000</lastBuildDate>
     <item>
       <title>Kim Gordon - Psychedelic Orgasm (2 plays)</title>
       <link>https://www.last.fm/music/Kim+Gordon/_/Psychedelic+Orgasm</link>
@@ -310,7 +303,7 @@
       <pubDate>Tue, 12 Mar 2024 20:10:54 -0400</pubDate>
     </item>
     <item>
-      <title>Eyedress - Mrs. Valentine (9 plays)</title>
+      <title>Eyedress - Mrs. Valentine (10 plays)</title>
       <link>https://www.last.fm/music/Eyedress/_/Mrs.+Valentine</link>
       <guid isPermaLink="false">Arcade1996-1710288868--0b619a94-481c-40ac-abae-85f33f2b1588---Mrs. Valentine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b50dba9077617fa1967b26612259f67.jpg" length="19975" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1710325143--2ba62367-f36f-4d49-9439-9a81f22a47ce---Throw</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03ad203735a88088537fc5fe9f46d061.jpg" length="11083" type="image/jpeg"/>
       <pubDate>Wed, 13 Mar 2024 06:19:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eyedress - Mrs. Valentine (10 plays)</title>
+      <link>https://www.last.fm/music/Eyedress/_/Mrs.+Valentine</link>
+      <guid isPermaLink="false">Arcade1996-1710325406--0b619a94-481c-40ac-abae-85f33f2b1588---Mrs. Valentine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b50dba9077617fa1967b26612259f67.jpg" length="19975" type="image/jpeg"/>
+      <pubDate>Wed, 13 Mar 2024 06:23:26 -0400</pubDate>
     </item>
   </channel>
 </rss>
