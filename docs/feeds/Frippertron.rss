@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Mar 2024 05:14:55 +0000</lastBuildDate>
-    <item>
-      <title>Michael Jackson - Rock with You (19 plays)</title>
-      <link>https://www.last.fm/music/Michael+Jackson/_/Rock+with+You</link>
-      <guid isPermaLink="false">Frippertron-1710385192--f27ec8db-af05-4f36-916e-3d57f91ecf5e---Rock with You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9886c8edc2b5995943719f6377ccee5.jpg" length="16728" type="image/jpeg"/>
-      <pubDate>Wed, 13 Mar 2024 22:59:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Rob Base &amp; DJ E-Z Rock - It Takes 2 (2 plays)</title>
-      <link>https://www.last.fm/music/Rob+Base+&amp;+DJ+E-Z+Rock/_/It+Takes+2</link>
-      <guid isPermaLink="false">Frippertron-1710385256--Rob Base &amp; DJ E-Z Rock---It Takes 2</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52f34e01f6076bf513e9e2e454faeb34.jpg" length="16728" type="image/jpeg"/>
-      <pubDate>Wed, 13 Mar 2024 23:00:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Mar 2024 05:27:29 +0000</lastBuildDate>
     <item>
       <title>Flat Circuit - Feel My D.I.Y.M. (2 plays)</title>
       <link>https://www.last.fm/music/Flat+Circuit/_/Feel+My+D.I.Y.M.</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1710393143--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Idol</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
       <pubDate>Thu, 14 Mar 2024 01:12:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Tower of Babel (23 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Tower+of+Babel</link>
+      <guid isPermaLink="false">Frippertron-1710393396--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Tower of Babel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Thu, 14 Mar 2024 01:16:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Someone Saved My Life Tonight (23 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Someone+Saved+My+Life+Tonight</link>
+      <guid isPermaLink="false">Frippertron-1710393668--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Someone Saved My Life Tonight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Thu, 14 Mar 2024 01:21:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
