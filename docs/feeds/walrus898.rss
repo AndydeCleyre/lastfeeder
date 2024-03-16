@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Mar 2024 16:39:00 +0000</lastBuildDate>
-    <item>
-      <title>DIIV - soul-net (1 play)</title>
-      <link>https://www.last.fm/music/DIIV/_/soul-net</link>
-      <guid isPermaLink="false">walrus898-1709917392--b5ff61dd-0154-4e80-b46b-c733f87db602---soul-net</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27965edeac438033f625dcec53e136da.jpg" length="35904" type="image/jpeg"/>
-      <pubDate>Fri, 08 Mar 2024 12:03:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOTO BANDIT - THIS IS THE DAY (1 play)</title>
-      <link>https://www.last.fm/music/MOTO+BANDIT/_/THIS+IS+THE+DAY</link>
-      <guid isPermaLink="false">walrus898-1709917657--fee0dd40-a6d4-4215-990a-c4ddba863ab5---THIS IS THE DAY</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 08 Mar 2024 12:07:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 Mar 2024 16:38:16 +0000</lastBuildDate>
     <item>
       <title>Tristan - The Way You Are (1 play)</title>
       <link>https://www.last.fm/music/Tristan/_/The+Way+You+Are</link>
@@ -152,6 +138,7 @@
       <title>Seago - Cheapshot (1 play)</title>
       <link>https://www.last.fm/music/Seago/_/Cheapshot</link>
       <guid isPermaLink="false">walrus898-1710272949--Seago---Cheapshot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14e059dceb1195529d3b71dca8372fda.jpg" length="27084" type="image/jpeg"/>
       <pubDate>Tue, 12 Mar 2024 15:49:09 -0400</pubDate>
     </item>
     <item>
@@ -211,7 +198,7 @@
       <pubDate>Wed, 13 Mar 2024 19:07:41 -0400</pubDate>
     </item>
     <item>
-      <title>BE/HOLD - The Emotion Knight (1 play)</title>
+      <title>BE/HOLD - The Emotion Knight (2 plays)</title>
       <link>https://www.last.fm/music/BE%2FHOLD/_/The+Emotion+Knight</link>
       <guid isPermaLink="false">walrus898-1710371358--BE/HOLD---The Emotion Knight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2477d0f601715c1efc0808e0634f50b0.jpg" length="23168" type="image/jpeg"/>
@@ -344,7 +331,7 @@
       <pubDate>Thu, 14 Mar 2024 11:16:59 -0400</pubDate>
     </item>
     <item>
-      <title>Walter Slide - Lot On Ur Mind (1 play)</title>
+      <title>Walter Slide - Lot On Ur Mind (2 plays)</title>
       <link>https://www.last.fm/music/Walter+Slide/_/Lot+On+Ur+Mind</link>
       <guid isPermaLink="false">walrus898-1710433876--Walter Slide---Lot On Ur Mind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cdd0bdbad927772ea9e4745b19ac7a9.jpg" length="27493" type="image/jpeg"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">walrus898-1710434123--d1f0b0db-db43-42eb-a374-6fb358a3e95e---Cheerleader</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aafab3273b936f097bfe6eb07a164b18.jpg" length="20131" type="image/jpeg"/>
       <pubDate>Thu, 14 Mar 2024 12:35:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>BE/HOLD - The Emotion Knight (2 plays)</title>
+      <link>https://www.last.fm/music/BE%2FHOLD/_/The+Emotion+Knight</link>
+      <guid isPermaLink="false">walrus898-1710606705--BE/HOLD---The Emotion Knight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2477d0f601715c1efc0808e0634f50b0.jpg" length="23168" type="image/jpeg"/>
+      <pubDate>Sat, 16 Mar 2024 12:31:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Walter Slide - Lot On Ur Mind (2 plays)</title>
+      <link>https://www.last.fm/music/Walter+Slide/_/Lot+On+Ur+Mind</link>
+      <guid isPermaLink="false">walrus898-1710606868--Walter Slide---Lot On Ur Mind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cdd0bdbad927772ea9e4745b19ac7a9.jpg" length="27493" type="image/jpeg"/>
+      <pubDate>Sat, 16 Mar 2024 12:34:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
