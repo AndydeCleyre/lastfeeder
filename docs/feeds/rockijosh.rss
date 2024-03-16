@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Mar 2024 09:14:38 +0000</lastBuildDate>
-    <item>
-      <title>Mumford &amp; Sons - Reminder (2 plays)</title>
-      <link>https://www.last.fm/music/Mumford+&amp;+Sons/_/Reminder</link>
-      <guid isPermaLink="false">rockijosh-1710504874--c44e9c22-ef82-4a77-9bcd-af6c958446d6---Reminder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7af1c40494c4f1ab1152a3a614de416.png" length="238760" type="image/png"/>
-      <pubDate>Fri, 15 Mar 2024 08:14:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gregory Alan Isakov - Time Will Tell (3 plays)</title>
-      <link>https://www.last.fm/music/Gregory+Alan+Isakov/_/Time+Will+Tell</link>
-      <guid isPermaLink="false">rockijosh-1710504999--5c61efe6-3cdf-4160-b43c-9274944369e6---Time Will Tell</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/657b1b8d097f482fb5f6a63a494af70e.jpg" length="20335" type="image/jpeg"/>
-      <pubDate>Fri, 15 Mar 2024 08:16:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 Mar 2024 09:26:18 +0000</lastBuildDate>
     <item>
       <title>Zach Bryan - Spotless (feat. The Lumineers) (8 plays)</title>
       <link>https://www.last.fm/music/Zach+Bryan/_/Spotless+(feat.+The+Lumineers)</link>
@@ -357,6 +343,18 @@
       <guid isPermaLink="false">rockijosh-1710580245--Rush---The Twilight Zone</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/692bc269c47ed077a348b3d38d629fbd.jpg" length="18436" type="image/jpeg"/>
       <pubDate>Sat, 16 Mar 2024 05:10:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rush - Lessons (35 plays)</title>
+      <link>https://www.last.fm/music/Rush/_/Lessons</link>
+      <guid isPermaLink="false">rockijosh-1710580447--Rush---Lessons</guid>
+      <pubDate>Sat, 16 Mar 2024 05:14:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rush - Tears (21 plays)</title>
+      <link>https://www.last.fm/music/Rush/_/Tears</link>
+      <guid isPermaLink="false">rockijosh-1710580680--Rush---Tears</guid>
+      <pubDate>Sat, 16 Mar 2024 05:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
