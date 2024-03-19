@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 14:28:50 +0000</lastBuildDate>
-    <item>
-      <title>Clairo - Sofia (1 play)</title>
-      <link>https://www.last.fm/music/Clairo/_/Sofia</link>
-      <guid isPermaLink="false">rockijosh-1710848638--d786f59b-1836-4ddb-8393-ab753edbe984---Sofia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2389b806dd5061b6a75e360c4c46c88.jpg" length="11677" type="image/jpeg"/>
-      <pubDate>Tue, 19 Mar 2024 07:43:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Marina - Bubblegum Bitch (5 plays)</title>
-      <link>https://www.last.fm/music/Marina/_/Bubblegum+Bitch</link>
-      <guid isPermaLink="false">rockijosh-1710848827--Marina---Bubblegum Bitch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1253ecded0f570df1f63074ce6db1e42.png" length="171617" type="image/png"/>
-      <pubDate>Tue, 19 Mar 2024 07:47:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>girl in red - 4am (1 play)</title>
-      <link>https://www.last.fm/music/girl+in+red/_/4am</link>
-      <guid isPermaLink="false">rockijosh-1710848982--4ae429fe-735c-4968-8253-a591421b1bd0---4am</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b09e8cf4315bff8168505cf698577c.jpg" length="20381" type="image/jpeg"/>
-      <pubDate>Tue, 19 Mar 2024 07:49:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Mar 2024 14:40:24 +0000</lastBuildDate>
     <item>
       <title>Lorde - Perfect Places (5 plays)</title>
       <link>https://www.last.fm/music/Lorde/_/Perfect+Places</link>
@@ -51,7 +30,7 @@
       <pubDate>Tue, 19 Mar 2024 07:59:06 -0400</pubDate>
     </item>
     <item>
-      <title>Marina - Ancient Dreams in a Modern Land (15 plays)</title>
+      <title>Marina - Ancient Dreams in a Modern Land (16 plays)</title>
       <link>https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land</link>
       <guid isPermaLink="false">rockijosh-1710849693--Marina---Ancient Dreams in a Modern Land</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7173c083865106abd0694a4fa6d66419.jpg" length="33062" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">rockijosh-1710858291--bdb2e504-7372-4f5b-a6c7-d578021c53b5---Cloud 9</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b7cb247f6816db2a6ceb25412497a76.jpg" length="13425" type="image/jpeg"/>
       <pubDate>Tue, 19 Mar 2024 10:24:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grimes - Genesis (5 plays)</title>
+      <link>https://www.last.fm/music/Grimes/_/Genesis</link>
+      <guid isPermaLink="false">rockijosh-1710858439--7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222---Genesis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ba3983be4621972cc7beb4fcae72461.jpg" length="29500" type="image/jpeg"/>
+      <pubDate>Tue, 19 Mar 2024 10:27:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Marina - Ancient Dreams in a Modern Land (16 plays)</title>
+      <link>https://www.last.fm/music/Marina/_/Ancient+Dreams+in+a+Modern+Land</link>
+      <guid isPermaLink="false">rockijosh-1710858694--Marina---Ancient Dreams in a Modern Land</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7173c083865106abd0694a4fa6d66419.jpg" length="33062" type="image/jpeg"/>
+      <pubDate>Tue, 19 Mar 2024 10:31:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>girl in red - 4am (2 plays)</title>
+      <link>https://www.last.fm/music/girl+in+red/_/4am</link>
+      <guid isPermaLink="false">rockijosh-1710858901--4ae429fe-735c-4968-8253-a591421b1bd0---4am</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94b09e8cf4315bff8168505cf698577c.jpg" length="20381" type="image/jpeg"/>
+      <pubDate>Tue, 19 Mar 2024 10:35:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
