@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 18:52:34 +0000</lastBuildDate>
-    <item>
-      <title>Lorde - Writer in the Dark (3 plays)</title>
-      <link>https://www.last.fm/music/Lorde/_/Writer+in+the+Dark</link>
-      <guid isPermaLink="false">rockijosh-1710852804--8e494408-8620-4c6a-82c2-c2ca4a1e4f12---Writer in the Dark</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06483355fe8ff1b4eb335c7d9704d84c.jpg" length="22892" type="image/jpeg"/>
-      <pubDate>Tue, 19 Mar 2024 08:53:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Taylor Swift - Look What You Made Me Do (1 play)</title>
-      <link>https://www.last.fm/music/Taylor+Swift/_/Look+What+You+Made+Me+Do</link>
-      <guid isPermaLink="false">rockijosh-1710853021--20244d07-534f-4eff-b4d4-930878889970---Look What You Made Me Do</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dddb96a470fecc69d281f45c81a44d2a.jpg" length="27467" type="image/jpeg"/>
-      <pubDate>Tue, 19 Mar 2024 08:57:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Mar 2024 20:52:22 +0000</lastBuildDate>
     <item>
       <title>Paris Paloma - Labour (1 play)</title>
       <link>https://www.last.fm/music/Paris+Paloma/_/Labour</link>
@@ -40,6 +26,7 @@
       <title>Marina &amp; the Diamonds - Oh No! (48 plays)</title>
       <link>https://www.last.fm/music/Marina+&amp;+the+Diamonds/_/Oh+No!</link>
       <guid isPermaLink="false">rockijosh-1710853657--Marina &amp; the Diamonds---Oh No!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f53a06e136cc9178f899c095289903b0.jpg" length="28745" type="image/jpeg"/>
       <pubDate>Tue, 19 Mar 2024 09:07:37 -0400</pubDate>
     </item>
     <item>
@@ -204,7 +191,7 @@
       <pubDate>Tue, 19 Mar 2024 10:24:51 -0400</pubDate>
     </item>
     <item>
-      <title>Grimes - Genesis (5 plays)</title>
+      <title>Grimes - Genesis (6 plays)</title>
       <link>https://www.last.fm/music/Grimes/_/Genesis</link>
       <guid isPermaLink="false">rockijosh-1710858439--7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222---Genesis</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ba3983be4621972cc7beb4fcae72461.jpg" length="29500" type="image/jpeg"/>
@@ -316,7 +303,7 @@
       <pubDate>Tue, 19 Mar 2024 11:18:15 -0400</pubDate>
     </item>
     <item>
-      <title>Marina - Bubblegum Bitch (6 plays)</title>
+      <title>Marina - Bubblegum Bitch (7 plays)</title>
       <link>https://www.last.fm/music/Marina/_/Bubblegum+Bitch</link>
       <guid isPermaLink="false">rockijosh-1710861614--Marina---Bubblegum Bitch</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1253ecded0f570df1f63074ce6db1e42.png" length="171617" type="image/png"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1710873653--d786f59b-1836-4ddb-8393-ab753edbe984---Sofia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2389b806dd5061b6a75e360c4c46c88.jpg" length="11677" type="image/jpeg"/>
       <pubDate>Tue, 19 Mar 2024 14:40:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Marina - Bubblegum Bitch (7 plays)</title>
+      <link>https://www.last.fm/music/Marina/_/Bubblegum+Bitch</link>
+      <guid isPermaLink="false">rockijosh-1710873842--Marina---Bubblegum Bitch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1253ecded0f570df1f63074ce6db1e42.png" length="171617" type="image/png"/>
+      <pubDate>Tue, 19 Mar 2024 14:44:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grimes - Genesis (6 plays)</title>
+      <link>https://www.last.fm/music/Grimes/_/Genesis</link>
+      <guid isPermaLink="false">rockijosh-1710881134--7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222---Genesis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ba3983be4621972cc7beb4fcae72461.jpg" length="29500" type="image/jpeg"/>
+      <pubDate>Tue, 19 Mar 2024 16:45:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
