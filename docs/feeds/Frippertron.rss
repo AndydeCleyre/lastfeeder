@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 05:16:03 +0000</lastBuildDate>
-    <item>
-      <title>Jammin Gerald - Holy Stomp (4 plays)</title>
-      <link>https://www.last.fm/music/Jammin+Gerald/_/Holy+Stomp</link>
-      <guid isPermaLink="false">Frippertron-1710817748--79770c33-ff90-48ea-b9ab-917ccc8adbb7---Holy Stomp</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0240ee7f5adb477438b27666b4073e72.jpg" length="16728" type="image/jpeg"/>
-      <pubDate>Mon, 18 Mar 2024 23:09:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>DJ DEEON PRESENTS DJ PUFF - Work this m.f. (4 plays)</title>
-      <link>https://www.last.fm/music/DJ+DEEON+PRESENTS+DJ+PUFF/_/Work+this+m.f.</link>
-      <guid isPermaLink="false">Frippertron-1710817804--DJ DEEON PRESENTS DJ PUFF---Work this m.f.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d252d6ddf26959f5b7cbef51fffdcc0b.jpg" length="14403" type="image/jpeg"/>
-      <pubDate>Mon, 18 Mar 2024 23:10:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>8-Bit Construction Set - Dollars (4 plays)</title>
-      <link>https://www.last.fm/music/8-Bit+Construction+Set/_/Dollars</link>
-      <guid isPermaLink="false">Frippertron-1710817850--4e155d91-5dfd-4d71-ad04-39159879b59e---Dollars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dc54c2b5e37955e7385d373849cea34.jpg" length="16728" type="image/jpeg"/>
-      <pubDate>Mon, 18 Mar 2024 23:10:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Mar 2024 05:37:34 +0000</lastBuildDate>
     <item>
       <title>DJ Deeon - Freaks (4 plays)</title>
       <link>https://www.last.fm/music/DJ+Deeon/_/Freaks</link>
@@ -356,6 +335,27 @@
       <guid isPermaLink="false">Frippertron-1710824501--06cae8a2-622f-4033-a13e-f965c5289ecc---Mary's Prayer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d41888d2707871ff88047b22e92d94d5.jpg" length="10578" type="image/jpeg"/>
       <pubDate>Tue, 19 Mar 2024 01:01:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Sylvian - I Do Nothing (20 plays)</title>
+      <link>https://www.last.fm/music/David+Sylvian/_/I+Do+Nothing</link>
+      <guid isPermaLink="false">Frippertron-1710825513--719db6b1-0d91-458c-8d18-875ec44105bf---I Do Nothing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca6bae7e714e418aa70ff77da7e9b994.png" length="50565" type="image/png"/>
+      <pubDate>Tue, 19 Mar 2024 01:18:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Empty Sky (20 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Empty+Sky</link>
+      <guid isPermaLink="false">Frippertron-1710825858--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Empty Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6bbf20945aa4a0dcad8d520ed8524e9.png" length="182437" type="image/png"/>
+      <pubDate>Tue, 19 Mar 2024 01:24:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Come Down In Time (Jazz Version) (1 play)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Come+Down+In+Time+(Jazz+Version)</link>
+      <guid isPermaLink="false">Frippertron-1710826339--Elton John---Come Down In Time (Jazz Version)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/464a2e765330edbb94b5416f49f9ef26.jpg" length="14194" type="image/jpeg"/>
+      <pubDate>Tue, 19 Mar 2024 01:32:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
