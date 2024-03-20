@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 17:28:52 +0000</lastBuildDate>
-    <item>
-      <title>DJ D-Man - Dooky Boody (6 plays)</title>
-      <link>https://www.last.fm/music/DJ+D-Man/_/Dooky+Boody</link>
-      <guid isPermaLink="false">Frippertron-1710819424--45e3668f-d0ec-49a2-8851-75518a848588---Dooky Boody</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90f0279e76e582025fb56fe1a3764b11.jpg" length="16728" type="image/jpeg"/>
-      <pubDate>Mon, 18 Mar 2024 23:37:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jaydee - Plastic Dreams (4 plays)</title>
-      <link>https://www.last.fm/music/Jaydee/_/Plastic+Dreams</link>
-      <guid isPermaLink="false">Frippertron-1710819597--af84fdf4-22ac-4ce5-8ed0-6fad3b949172---Plastic Dreams</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24012a0c409b0769325d77f78e6663a8.jpg" length="16728" type="image/jpeg"/>
-      <pubDate>Mon, 18 Mar 2024 23:39:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Mar 2024 13:37:17 +0000</lastBuildDate>
     <item>
       <title>Jeff Mills - Kat Race (4 plays)</title>
       <link>https://www.last.fm/music/Jeff+Mills/_/Kat+Race</link>
@@ -355,6 +341,20 @@
       <guid isPermaLink="false">Frippertron-1710868931--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bennie and the Jets</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 19 Mar 2024 13:22:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Skyline Pigeon (Piano Demo) (1 play)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Skyline+Pigeon+(Piano+Demo)</link>
+      <guid isPermaLink="false">Frippertron-1710941284--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Skyline Pigeon (Piano Demo)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/004b2b1ce4649ac1ac2871abde93efe8.jpg" length="14897" type="image/jpeg"/>
+      <pubDate>Wed, 20 Mar 2024 09:28:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Madman Across The Water (Piano Demo) (1 play)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Madman+Across+The+Water+(Piano+Demo)</link>
+      <guid isPermaLink="false">Frippertron-1710941499--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Madman Across The Water (Piano Demo)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/004b2b1ce4649ac1ac2871abde93efe8.jpg" length="14897" type="image/jpeg"/>
+      <pubDate>Wed, 20 Mar 2024 09:31:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
