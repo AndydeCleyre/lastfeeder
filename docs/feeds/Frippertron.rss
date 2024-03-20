@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Mar 2024 14:41:29 +0000</lastBuildDate>
-    <item>
-      <title>DJ Chip - Bang Ski (5 plays)</title>
-      <link>https://www.last.fm/music/DJ+Chip/_/Bang+Ski</link>
-      <guid isPermaLink="false">Frippertron-1710820563--f2e8a147-82e6-46a6-a1a2-85227cb40962---Bang Ski</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cceb46892db758209e43790d3b73b23.jpg" length="16728" type="image/jpeg"/>
-      <pubDate>Mon, 18 Mar 2024 23:56:03 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Mar 2024 14:53:21 +0000</lastBuildDate>
     <item>
       <title>David Rose - Little House Theme (8 plays)</title>
       <link>https://www.last.fm/music/David+Rose/_/Little+House+Theme</link>
@@ -355,6 +348,13 @@
       <guid isPermaLink="false">Frippertron-1710945456--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Tiny Dancer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
       <pubDate>Wed, 20 Mar 2024 10:37:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Levon (65 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Levon</link>
+      <guid isPermaLink="false">Frippertron-1710945834--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Levon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
+      <pubDate>Wed, 20 Mar 2024 10:43:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
