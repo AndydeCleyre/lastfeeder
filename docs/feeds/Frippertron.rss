@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 05:52:13 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Western Ford Gateway (2 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Western+Ford+Gateway</link>
-      <guid isPermaLink="false">Frippertron-1710945277--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Western Ford Gateway</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6bbf20945aa4a0dcad8d520ed8524e9.png" length="182437" type="image/png"/>
-      <pubDate>Wed, 20 Mar 2024 10:34:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Tiny Dancer (27 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Tiny+Dancer</link>
-      <guid isPermaLink="false">Frippertron-1710945456--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Tiny Dancer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
-      <pubDate>Wed, 20 Mar 2024 10:37:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Levon (65 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Levon</link>
-      <guid isPermaLink="false">Frippertron-1710945834--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Levon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
-      <pubDate>Wed, 20 Mar 2024 10:43:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Mar 2024 06:20:31 +0000</lastBuildDate>
     <item>
       <title>Elton John - Goodbye (Piano Demo) (1 play)</title>
       <link>https://www.last.fm/music/Elton+John/_/Goodbye+(Piano+Demo)</link>
@@ -254,7 +233,7 @@
       <pubDate>Thu, 21 Mar 2024 00:00:05 -0400</pubDate>
     </item>
     <item>
-      <title>Remote/DJ Assault - The Swarm/Jungle Love (8 plays)</title>
+      <title>Remote/DJ Assault - The Swarm/Jungle Love (10 plays)</title>
       <link>https://www.last.fm/music/Remote%2FDJ+Assault/_/The+Swarm%2FJungle+Love</link>
       <guid isPermaLink="false">Frippertron-1710993702--Remote/DJ Assault---The Swarm/Jungle Love</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1710999830--d29658ea-c7d1-45a1-b272-9628a06c28e9---Blues For Ceausescu</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef728684cfd42c8016de2fbb6a928fa8.jpg" length="29915" type="image/jpeg"/>
       <pubDate>Thu, 21 Mar 2024 01:43:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Luomo - Tessio (33 plays)</title>
+      <link>https://www.last.fm/music/Luomo/_/Tessio</link>
+      <guid isPermaLink="false">Frippertron-1711000158--d0eb9b16-9fb0-4368-9024-2042a60f2ee2---Tessio</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f09585018fc90cd48134773302f7f95.jpg" length="24885" type="image/jpeg"/>
+      <pubDate>Thu, 21 Mar 2024 01:49:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Remote/DJ Assault - The Swarm/Jungle Love (10 plays)</title>
+      <link>https://www.last.fm/music/Remote%2FDJ+Assault/_/The+Swarm%2FJungle+Love</link>
+      <guid isPermaLink="false">Frippertron-1711000816--Remote/DJ Assault---The Swarm/Jungle Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 21 Mar 2024 02:00:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Remote/DJ Assault - The Swarm/Jungle Love (10 plays)</title>
+      <link>https://www.last.fm/music/Remote%2FDJ+Assault/_/The+Swarm%2FJungle+Love</link>
+      <guid isPermaLink="false">Frippertron-1711001014--Remote/DJ Assault---The Swarm/Jungle Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 21 Mar 2024 02:03:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
