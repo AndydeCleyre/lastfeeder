@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 07:38:55 +0000</lastBuildDate>
-    <item>
-      <title>Wire - Map Ref. 41ºN 93ºW (122 plays)</title>
-      <link>https://www.last.fm/music/Wire/_/Map+Ref.+41%C2%BAN+93%C2%BAW</link>
-      <guid isPermaLink="false">Frippertron-1710987311--7f2a8098-50e3-451c-8696-c5d9f64f4762---Map Ref. 41ºN 93ºW</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9a735db747c4774aafa9fb929dca5f6.jpg" length="10851" type="image/jpeg"/>
-      <pubDate>Wed, 20 Mar 2024 22:15:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Geese - 2122 (40 plays)</title>
-      <link>https://www.last.fm/music/Geese/_/2122</link>
-      <guid isPermaLink="false">Frippertron-1710987577--e0c97a4d-c392-41a9-a374-57af3e3eeab3---2122</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
-      <pubDate>Wed, 20 Mar 2024 22:19:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Mar 2024 07:52:26 +0000</lastBuildDate>
     <item>
       <title>Geese - 3D Country (29 plays)</title>
       <link>https://www.last.fm/music/Geese/_/3D+Country</link>
@@ -356,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1711006385--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Who Are You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25475d7303344df0b9fe6dfe0bc0f573.png" length="241813" type="image/png"/>
       <pubDate>Thu, 21 Mar 2024 03:33:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fiona Apple - Shameika (20 plays)</title>
+      <link>https://www.last.fm/music/Fiona+Apple/_/Shameika</link>
+      <guid isPermaLink="false">Frippertron-1711006791--a9ee533f-8871-4f62-a6bb-91eb264abc90---Shameika</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76ce066e3dd48b6aae77e27227088aa9.jpg" length="17545" type="image/jpeg"/>
+      <pubDate>Thu, 21 Mar 2024 03:39:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Michael Jackson - Billie Jean (5 plays)</title>
+      <link>https://www.last.fm/music/Michael+Jackson/_/Billie+Jean</link>
+      <guid isPermaLink="false">Frippertron-1711007112--f27ec8db-af05-4f36-916e-3d57f91ecf5e---Billie Jean</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5f40ae3767cf5b6184776f97e52b8ca.jpg" length="18682" type="image/jpeg"/>
+      <pubDate>Thu, 21 Mar 2024 03:45:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
