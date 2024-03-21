@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Mar 2024 05:28:10 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Empty Sky (22 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Empty+Sky</link>
-      <guid isPermaLink="false">Frippertron-1710944516--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Empty Sky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6bbf20945aa4a0dcad8d520ed8524e9.png" length="182437" type="image/png"/>
-      <pubDate>Wed, 20 Mar 2024 10:21:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Val-Hala (2 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Val-Hala</link>
-      <guid isPermaLink="false">Frippertron-1710945025--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Val-Hala</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6bbf20945aa4a0dcad8d520ed8524e9.png" length="182437" type="image/png"/>
-      <pubDate>Wed, 20 Mar 2024 10:30:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Mar 2024 05:52:13 +0000</lastBuildDate>
     <item>
       <title>Elton John - Western Ford Gateway (2 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Western+Ford+Gateway</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1710998505--f2fc3767-1688-4a84-be35-38b7928a1fcc---Juno</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02ae4abc69fd4a39ca1dcde648510ddb.jpg" length="16299" type="image/jpeg"/>
       <pubDate>Thu, 21 Mar 2024 01:21:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Fatima Mansions - Angel's Delight (11 plays)</title>
+      <link>https://www.last.fm/music/The+Fatima+Mansions/_/Angel%27s+Delight</link>
+      <guid isPermaLink="false">Frippertron-1710999548--d29658ea-c7d1-45a1-b272-9628a06c28e9---Angel's Delight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef728684cfd42c8016de2fbb6a928fa8.jpg" length="29915" type="image/jpeg"/>
+      <pubDate>Thu, 21 Mar 2024 01:39:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Fatima Mansions - Blues For Ceausescu (20 plays)</title>
+      <link>https://www.last.fm/music/The+Fatima+Mansions/_/Blues+For+Ceausescu</link>
+      <guid isPermaLink="false">Frippertron-1710999830--d29658ea-c7d1-45a1-b272-9628a06c28e9---Blues For Ceausescu</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef728684cfd42c8016de2fbb6a928fa8.jpg" length="29915" type="image/jpeg"/>
+      <pubDate>Thu, 21 Mar 2024 01:43:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
