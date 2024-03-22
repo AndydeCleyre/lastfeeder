@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 08:37:24 +0000</lastBuildDate>
-    <item>
-      <title>Julia Holter - Ocean (1 play)</title>
-      <link>https://www.last.fm/music/Julia+Holter/_/Ocean</link>
-      <guid isPermaLink="false">Frippertron-1711078467--45610c1f-41a4-44f1-9da6-227510073ffc---Ocean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/586533d37a5fab3e10f8c66c5df44939.jpg" length="17910" type="image/jpeg"/>
-      <pubDate>Thu, 21 Mar 2024 23:34:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Mar 2024 08:52:16 +0000</lastBuildDate>
     <item>
       <title>Julia Holter - Evening Mood (1 play)</title>
       <link>https://www.last.fm/music/Julia+Holter/_/Evening+Mood</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1711096238--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
       <pubDate>Fri, 22 Mar 2024 04:30:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Empty Sky (23 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Empty+Sky</link>
+      <guid isPermaLink="false">Frippertron-1711096927--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Empty Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6bbf20945aa4a0dcad8d520ed8524e9.png" length="182437" type="image/png"/>
+      <pubDate>Fri, 22 Mar 2024 04:42:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
