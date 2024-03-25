@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Mar 2024 02:39:31 +0000</lastBuildDate>
-    <item>
-      <title>Minutemen - Corona (38 plays)</title>
-      <link>https://www.last.fm/music/Minutemen/_/Corona</link>
-      <guid isPermaLink="false">Frippertron-1711090960--d4ad0149-d8ae-4105-8009-0221fce9ff35---Corona</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8879f81513ea2f1bc32e2f493f1eaa7f.jpg" length="22059" type="image/jpeg"/>
-      <pubDate>Fri, 22 Mar 2024 03:02:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yes - Five Percent For Nothing (32 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Five+Percent+For+Nothing</link>
-      <guid isPermaLink="false">Frippertron-1711091109--8353f93f-163e-48c2-bb75-9f18987a3d46---Five Percent For Nothing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
-      <pubDate>Fri, 22 Mar 2024 03:05:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yes - Roundabout (97 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Roundabout</link>
-      <guid isPermaLink="false">Frippertron-1711091158--8353f93f-163e-48c2-bb75-9f18987a3d46---Roundabout</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/561ca09091497d9c717e1606418332ad.png" length="171176" type="image/png"/>
-      <pubDate>Fri, 22 Mar 2024 03:05:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Mar 2024 02:52:10 +0000</lastBuildDate>
     <item>
       <title>David Sylvian - Backwaters (92 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Backwaters</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1711334070--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Someone Saved My Life Tonight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
       <pubDate>Sun, 24 Mar 2024 22:34:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Better Off Dead (36 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Better+Off+Dead</link>
+      <guid isPermaLink="false">Frippertron-1711334487--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Better Off Dead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Sun, 24 Mar 2024 22:41:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Writing (20 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Writing</link>
+      <guid isPermaLink="false">Frippertron-1711334645--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Writing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Sun, 24 Mar 2024 22:44:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - We All Fall in Love Sometimes (55 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/We+All+Fall+in+Love+Sometimes</link>
+      <guid isPermaLink="false">Frippertron-1711334866--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---We All Fall in Love Sometimes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Sun, 24 Mar 2024 22:47:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
