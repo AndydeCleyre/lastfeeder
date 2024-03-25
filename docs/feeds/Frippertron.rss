@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Mar 2024 10:37:48 +0000</lastBuildDate>
-    <item>
-      <title>Ivan Lins - Dinorah, Dinorah (35 plays)</title>
-      <link>https://www.last.fm/music/Ivan+Lins/_/Dinorah,+Dinorah</link>
-      <guid isPermaLink="false">Frippertron-1711341705--2f31098d-1258-4f8f-af5f-95815b02f2d2---Dinorah, Dinorah</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ef82d3e285162a2551ab11ecf79b1ef.jpg" length="27139" type="image/jpeg"/>
-      <pubDate>Mon, 25 Mar 2024 00:41:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Mar 2024 10:52:15 +0000</lastBuildDate>
     <item>
       <title>Marvin Gaye - Sparrow (30 plays)</title>
       <link>https://www.last.fm/music/Marvin+Gaye/_/Sparrow</link>
@@ -261,7 +254,7 @@
       <pubDate>Mon, 25 Mar 2024 04:48:38 -0400</pubDate>
     </item>
     <item>
-      <title>Julia Holter - Spinning (4 plays)</title>
+      <title>Julia Holter - Spinning (5 plays)</title>
       <link>https://www.last.fm/music/Julia+Holter/_/Spinning</link>
       <guid isPermaLink="false">Frippertron-1711356916--45610c1f-41a4-44f1-9da6-227510073ffc---Spinning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/586533d37a5fab3e10f8c66c5df44939.jpg" length="17910" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1711362640--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---The King Must Die</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cb0412a67aa4f899121146a0987216a.png" length="34905" type="image/png"/>
       <pubDate>Mon, 25 Mar 2024 06:30:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Julia Holter - Spinning (5 plays)</title>
+      <link>https://www.last.fm/music/Julia+Holter/_/Spinning</link>
+      <guid isPermaLink="false">Frippertron-1711363244--45610c1f-41a4-44f1-9da6-227510073ffc---Spinning</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/586533d37a5fab3e10f8c66c5df44939.jpg" length="17910" type="image/jpeg"/>
+      <pubDate>Mon, 25 Mar 2024 06:40:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
