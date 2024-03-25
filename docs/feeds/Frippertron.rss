@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Mar 2024 05:52:21 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - The King Must Die (23 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/The+King+Must+Die</link>
-      <guid isPermaLink="false">Frippertron-1711103141--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---The King Must Die</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cb0412a67aa4f899121146a0987216a.png" length="34905" type="image/png"/>
-      <pubDate>Fri, 22 Mar 2024 06:25:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Mar 2024 06:22:15 +0000</lastBuildDate>
     <item>
       <title>Elton John - Honky Cat (29 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Honky+Cat</link>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">Frippertron-1711345635--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Pictures of a City</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 25 Mar 2024 01:47:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Goliath (38 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
+      <guid isPermaLink="false">Frippertron-1711346118--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Mon, 25 Mar 2024 01:55:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
