@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Mar 2024 10:16:57 +0000</lastBuildDate>
-    <item>
-      <title>Steve Jones - Gimme Love (1 play)</title>
-      <link>https://www.last.fm/music/Steve+Jones/_/Gimme+Love</link>
-      <guid isPermaLink="false">manosg--1711128470--88d86d18-9ccd-431e-8602-85a91d82009e---Gimme Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/351ad9ea239d66b15e59676968bceb25.png" length="172422" type="image/png"/>
-      <pubDate>Fri, 22 Mar 2024 13:27:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Mar 2024 10:37:33 +0000</lastBuildDate>
     <item>
       <title>Steve Jones - Wild Wheels (1 play)</title>
       <link>https://www.last.fm/music/Steve+Jones/_/Wild+Wheels</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1711361235--4c2d130b-4f27-492e-a0f0-4e893f8517a5---The Exit Garden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8053656c55771829133aca5559aa57e3.jpg" length="38821" type="image/jpeg"/>
       <pubDate>Mon, 25 Mar 2024 06:07:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Wizards - Full Moon in Scorpio (2 plays)</title>
+      <link>https://www.last.fm/music/The+Wizards/_/Full+Moon+in+Scorpio</link>
+      <guid isPermaLink="false">manosg--1711361677--4c2d130b-4f27-492e-a0f0-4e893f8517a5---Full Moon in Scorpio</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8053656c55771829133aca5559aa57e3.jpg" length="38821" type="image/jpeg"/>
+      <pubDate>Mon, 25 Mar 2024 06:14:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
