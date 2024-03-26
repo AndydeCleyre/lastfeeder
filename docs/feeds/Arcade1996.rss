@@ -7,13 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Mar 2024 10:39:08 +0000</lastBuildDate>
-    <item>
-      <title>Yung Lean - Things Happen (1 play)</title>
-      <link>https://www.last.fm/music/Yung+Lean/_/Things+Happen</link>
-      <guid isPermaLink="false">Arcade1996-1711287644--Yung Lean---Things Happen</guid>
-      <pubDate>Sun, 24 Mar 2024 09:40:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Mar 2024 12:30:06 +0000</lastBuildDate>
     <item>
       <title>Lucki - All Love (1 play)</title>
       <link>https://www.last.fm/music/Lucki/_/All+Love</link>
@@ -221,6 +215,7 @@
       <title>Justice - Saturnine (1 play)</title>
       <link>https://www.last.fm/music/Justice/_/Saturnine</link>
       <guid isPermaLink="false">Arcade1996-1711413863--Justice---Saturnine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a9224a77e31d4711a068089439907fb.png" length="66110" type="image/png"/>
       <pubDate>Mon, 25 Mar 2024 20:44:23 -0400</pubDate>
     </item>
     <item>
@@ -269,6 +264,7 @@
       <title>Future - MAGIC DON JUAN (PRINCESS DIANA) (4 plays)</title>
       <link>https://www.last.fm/music/Future/_/MAGIC+DON+JUAN+(PRINCESS+DIANA)</link>
       <guid isPermaLink="false">Arcade1996-1711445638--48262e82-db9f-4a92-b650-dfef979b73ec---MAGIC DON JUAN (PRINCESS DIANA)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/edba4e87b2ce983ee136723a809b0a0a.jpg" length="12072" type="image/jpeg"/>
       <pubDate>Tue, 26 Mar 2024 05:33:58 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1711448446--763cb144-afdb-471e-bd86-d4f5b9b58641---Free Treasure</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80416ed9549211926a15d88cac7498a2.jpg" length="12146" type="image/jpeg"/>
       <pubDate>Tue, 26 Mar 2024 06:20:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jungle - Back on 74 (1 play)</title>
+      <link>https://www.last.fm/music/Jungle/_/Back+on+74</link>
+      <guid isPermaLink="false">Arcade1996-1711455304--6bbb3983-ce8a-4971-96e0-7cae73268fc4---Back on 74</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9a2ed33d293d14649500d483c74a144.jpg" length="15881" type="image/jpeg"/>
+      <pubDate>Tue, 26 Mar 2024 08:15:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
