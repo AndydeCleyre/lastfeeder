@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Mar 2024 14:37:11 +0000</lastBuildDate>
-    <item>
-      <title>Sierra Ferrell - Money Train (3 plays)</title>
-      <link>https://www.last.fm/music/Sierra+Ferrell/_/Money+Train</link>
-      <guid isPermaLink="false">gameofmetal-1711303302--4a27848e-ffdc-45d2-bed4-f5d62b85dc3e---Money Train</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75260801169d3db2c83a4a9adddea70a.jpg" length="30063" type="image/jpeg"/>
-      <pubDate>Sun, 24 Mar 2024 14:01:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sierra Ferrell - I Could Drive You Crazy (3 plays)</title>
-      <link>https://www.last.fm/music/Sierra+Ferrell/_/I+Could+Drive+You+Crazy</link>
-      <guid isPermaLink="false">gameofmetal-1711304021--4a27848e-ffdc-45d2-bed4-f5d62b85dc3e---I Could Drive You Crazy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75260801169d3db2c83a4a9adddea70a.jpg" length="30063" type="image/jpeg"/>
-      <pubDate>Sun, 24 Mar 2024 14:13:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Mar 2024 15:16:31 +0000</lastBuildDate>
     <item>
       <title>Wovenhand - Dirty Blue (10 plays)</title>
       <link>https://www.last.fm/music/Wovenhand/_/Dirty+Blue</link>
@@ -208,18 +194,21 @@
       <title>Wayfarer - 1934 (5 plays)</title>
       <link>https://www.last.fm/music/Wayfarer/_/1934</link>
       <guid isPermaLink="false">gameofmetal-1711379298--Wayfarer---1934</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ae6a16c817ae86d980d385ef23d05c5.jpg" length="20700" type="image/jpeg"/>
       <pubDate>Mon, 25 Mar 2024 11:08:18 -0400</pubDate>
     </item>
     <item>
       <title>Wayfarer - Black Plumes Over God's Country (5 plays)</title>
       <link>https://www.last.fm/music/Wayfarer/_/Black+Plumes+Over+God%27s+Country</link>
       <guid isPermaLink="false">gameofmetal-1711379383--Wayfarer---Black Plumes Over God's Country</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ae6a16c817ae86d980d385ef23d05c5.jpg" length="20700" type="image/jpeg"/>
       <pubDate>Mon, 25 Mar 2024 11:09:43 -0400</pubDate>
     </item>
     <item>
       <title>Wayfarer - False Constellation (5 plays)</title>
       <link>https://www.last.fm/music/Wayfarer/_/False+Constellation</link>
       <guid isPermaLink="false">gameofmetal-1711379729--Wayfarer---False Constellation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ae6a16c817ae86d980d385ef23d05c5.jpg" length="20700" type="image/jpeg"/>
       <pubDate>Mon, 25 Mar 2024 11:15:29 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1711461815--a32308fc-a31a-4d64-9823-86e4d29f5c44---Feigð</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbb0eb13c722c2096972f341f6d52b65.jpg" length="16019" type="image/jpeg"/>
       <pubDate>Tue, 26 Mar 2024 10:03:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Auðn - Landvættur (1 play)</title>
+      <link>https://www.last.fm/music/Au%C3%B0n/_/Landv%C3%A6ttur</link>
+      <guid isPermaLink="false">gameofmetal-1711463769--a32308fc-a31a-4d64-9823-86e4d29f5c44---Landvættur</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbb0eb13c722c2096972f341f6d52b65.jpg" length="16019" type="image/jpeg"/>
+      <pubDate>Tue, 26 Mar 2024 10:36:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Auðn - Þjáning Heillar Þjóðar (1 play)</title>
+      <link>https://www.last.fm/music/Au%C3%B0n/_/%C3%9Ej%C3%A1ning+Heillar+%C3%9Ej%C3%B3%C3%B0ar</link>
+      <guid isPermaLink="false">gameofmetal-1711465034--a32308fc-a31a-4d64-9823-86e4d29f5c44---Þjáning Heillar Þjóðar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbb0eb13c722c2096972f341f6d52b65.jpg" length="16019" type="image/jpeg"/>
+      <pubDate>Tue, 26 Mar 2024 10:57:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
