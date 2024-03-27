@@ -7,23 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Mar 2024 01:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 19:52:09 +0000</lastBuildDate>
     <item>
-      <title>Danny Gatton - Funky Mama (4 plays)</title>
-      <link>https://www.last.fm/music/Danny+Gatton/_/Funky+Mama</link>
-      <guid isPermaLink="false">ddgromit-1711396988--bd38cc7b-dc36-4a39-86cb-3579ba936f82---Funky Mama</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41672b92aebc5cec8175541d331efe31.jpg" length="20406" type="image/jpeg"/>
-      <pubDate>Mon, 25 Mar 2024 16:03:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Danny Gatton - Sun Medley: Mystery Train / My Baby Left Me / That's All Right (1 play)</title>
-      <link>https://www.last.fm/music/Danny+Gatton/_/Sun+Medley:+Mystery+Train+%2F+My+Baby+Left+Me+%2F+That%27s+All+Right</link>
-      <guid isPermaLink="false">ddgromit-1711397330--Danny Gatton---Sun Medley: Mystery Train / My Baby Left Me / That's All Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e22d66d2a8816f3761f492f6dfc2c77.jpg" length="19466" type="image/jpeg"/>
-      <pubDate>Mon, 25 Mar 2024 16:08:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jain - Makeba - Ian Asher Remix (1 play)</title>
+      <title>Jain - Makeba - Ian Asher Remix (2 plays)</title>
       <link>https://www.last.fm/music/Jain/_/Makeba+-+Ian+Asher+Remix</link>
       <guid isPermaLink="false">ddgromit-1711397533--Jain---Makeba - Ian Asher Remix</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d907a820e870adc5e421598c153e4d1.jpg" length="12552" type="image/jpeg"/>
@@ -44,11 +30,18 @@
       <pubDate>Mon, 25 Mar 2024 16:18:16 -0400</pubDate>
     </item>
     <item>
-      <title>Alan Gogoll - Mulberry Mouse (1 play)</title>
+      <title>Alan Gogoll - Mulberry Mouse (2 plays)</title>
       <link>https://www.last.fm/music/Alan+Gogoll/_/Mulberry+Mouse</link>
       <guid isPermaLink="false">ddgromit-1711398053--60a50c38-153a-4657-ad25-1c7a745aca95---Mulberry Mouse</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/041ecd37ccda44f9a498c5749c88f003.jpg" length="4346" type="image/jpeg"/>
       <pubDate>Mon, 25 Mar 2024 16:20:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alan Gogoll - Mulberry Mouse (2 plays)</title>
+      <link>https://www.last.fm/music/Alan+Gogoll/_/Mulberry+Mouse</link>
+      <guid isPermaLink="false">ddgromit-1711398238--60a50c38-153a-4657-ad25-1c7a745aca95---Mulberry Mouse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/041ecd37ccda44f9a498c5749c88f003.jpg" length="4346" type="image/jpeg"/>
+      <pubDate>Mon, 25 Mar 2024 16:23:58 -0400</pubDate>
     </item>
     <item>
       <title>Cornershop - Brimful Of Asha - Norman Cook Remix Single Version (1 play)</title>
@@ -289,7 +282,7 @@
       <pubDate>Tue, 26 Mar 2024 20:28:02 -0400</pubDate>
     </item>
     <item>
-      <title>Ryan Gosling - I'm Just Ken (1 play)</title>
+      <title>Ryan Gosling - I'm Just Ken (2 plays)</title>
       <link>https://www.last.fm/music/Ryan+Gosling/_/I%27m+Just+Ken</link>
       <guid isPermaLink="false">ddgromit-1711499369--a992d757-1207-499c-8be9-6537da8db2a8---I'm Just Ken</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2412d0aae7f1c360bdd2ac7fd84fab23.png" length="56003" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1711503536--63aa26c3-d59b-4da4-84ac-716b54f1ef4d---Journey to the Real World</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2412d0aae7f1c360bdd2ac7fd84fab23.png" length="56003" type="image/png"/>
       <pubDate>Tue, 26 Mar 2024 21:38:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ryan Gosling - I'm Just Ken (2 plays)</title>
+      <link>https://www.last.fm/music/Ryan+Gosling/_/I%27m+Just+Ken</link>
+      <guid isPermaLink="false">ddgromit-1711503625--a992d757-1207-499c-8be9-6537da8db2a8---I'm Just Ken</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2412d0aae7f1c360bdd2ac7fd84fab23.png" length="56003" type="image/png"/>
+      <pubDate>Tue, 26 Mar 2024 21:40:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
