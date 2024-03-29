@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Mar 2024 20:18:09 +0000</lastBuildDate>
-    <item>
-      <title>Paolo Nutini - Candy (2 plays)</title>
-      <link>https://www.last.fm/music/Paolo+Nutini/_/Candy</link>
-      <guid isPermaLink="false">ddgromit-1711571005--24ea074c-59cc-41c5-a5de-f68c2952965f---Candy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01109af55e654c5ba71e69d21a6e3ddd.png" length="245973" type="image/png"/>
-      <pubDate>Wed, 27 Mar 2024 16:23:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Mar 2024 20:37:58 +0000</lastBuildDate>
     <item>
       <title>The Beaches - Blame Brett (1 play)</title>
       <link>https://www.last.fm/music/The+Beaches/_/Blame+Brett</link>
@@ -243,6 +236,7 @@
       <title>Barry Can't Swim - God Is The Space Between Us (9 plays)</title>
       <link>https://www.last.fm/music/Barry+Can%27t+Swim/_/God+Is+The+Space+Between+Us</link>
       <guid isPermaLink="false">ddgromit-1711737079--7dcf3b98-701a-4309-a90c-eb4179b96ea9---God Is The Space Between Us</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d22ebdae6f2bfbfd062d9d6cd3669c2b.jpg" length="13766" type="image/jpeg"/>
       <pubDate>Fri, 29 Mar 2024 14:31:19 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1711743172--b4691384-50c3-4afd-9988-51d3ec5db65d---Too Sweet</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6fca66574bfc4642d9ad279af5aa235.jpg" length="27260" type="image/jpeg"/>
       <pubDate>Fri, 29 Mar 2024 16:12:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hozier - Work Song (2 plays)</title>
+      <link>https://www.last.fm/music/Hozier/_/Work+Song</link>
+      <guid isPermaLink="false">ddgromit-1711743424--b4691384-50c3-4afd-9988-51d3ec5db65d---Work Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/edc416f16adf29c3097deade4acf8390.jpg" length="26735" type="image/jpeg"/>
+      <pubDate>Fri, 29 Mar 2024 16:17:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
