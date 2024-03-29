@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Mar 2024 05:52:14 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Out Of The Blue (25 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Out+Of+The+Blue</link>
-      <guid isPermaLink="false">Frippertron-1711612906--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Out Of The Blue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
-      <pubDate>Thu, 28 Mar 2024 04:01:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Idol (56 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Idol</link>
-      <guid isPermaLink="false">Frippertron-1711613281--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Idol</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
-      <pubDate>Thu, 28 Mar 2024 04:08:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Mar 2024 06:20:15 +0000</lastBuildDate>
     <item>
       <title>Elton John - Bite Your Lip (Get Up And Dance!) (45 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Bite+Your+Lip+(Get+Up+And+Dance!)</link>
@@ -124,6 +110,7 @@
       <title>Freddie Mercury - Living On My Own (No More Brothers radio mix) (20 plays)</title>
       <link>https://www.last.fm/music/Freddie+Mercury/_/Living+On+My+Own+(No+More+Brothers+radio+mix)</link>
       <guid isPermaLink="false">Frippertron-1711621559--022589ac-7177-460d-a178-9976cf70e29f---Living On My Own (No More Brothers radio mix)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89185693dd062051de6b1b41e527678a.png" length="175015" type="image/png"/>
       <pubDate>Thu, 28 Mar 2024 06:25:59 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1711690401--Roy Wood---Life Is Wonderful</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
       <pubDate>Fri, 29 Mar 2024 01:33:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kagami - Tiger Track (43 plays)</title>
+      <link>https://www.last.fm/music/Kagami/_/Tiger+Track</link>
+      <guid isPermaLink="false">Frippertron-1711691860--Kagami---Tiger Track</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f6b460d2bb2e58784006db481e45dea.png" length="60724" type="image/png"/>
+      <pubDate>Fri, 29 Mar 2024 01:57:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kagami - Tiger Track (43 plays)</title>
+      <link>https://www.last.fm/music/Kagami/_/Tiger+Track</link>
+      <guid isPermaLink="false">Frippertron-1711692193--Kagami---Tiger Track</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f6b460d2bb2e58784006db481e45dea.png" length="60724" type="image/png"/>
+      <pubDate>Fri, 29 Mar 2024 02:03:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
