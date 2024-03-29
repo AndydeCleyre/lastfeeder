@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Mar 2024 05:37:20 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - The Wide-Eyed And Laughing (45 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/The+Wide-Eyed+And+Laughing</link>
-      <guid isPermaLink="false">Frippertron-1711612698--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---The Wide-Eyed And Laughing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
-      <pubDate>Thu, 28 Mar 2024 03:58:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Mar 2024 05:52:14 +0000</lastBuildDate>
     <item>
       <title>Elton John - Out Of The Blue (25 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Out+Of+The+Blue</link>
@@ -131,7 +124,6 @@
       <title>Freddie Mercury - Living On My Own (No More Brothers radio mix) (20 plays)</title>
       <link>https://www.last.fm/music/Freddie+Mercury/_/Living+On+My+Own+(No+More+Brothers+radio+mix)</link>
       <guid isPermaLink="false">Frippertron-1711621559--022589ac-7177-460d-a178-9976cf70e29f---Living On My Own (No More Brothers radio mix)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89185693dd062051de6b1b41e527678a.png" length="175015" type="image/png"/>
       <pubDate>Thu, 28 Mar 2024 06:25:59 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">Frippertron-1711690100--Chicago---A Hit by Varèse</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fddfc0bd9cd95ce0d646cd2980bcf78c.jpg" length="25981" type="image/jpeg"/>
       <pubDate>Fri, 29 Mar 2024 01:28:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Life Is Wonderful (88 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Life+Is+Wonderful</link>
+      <guid isPermaLink="false">Frippertron-1711690401--Roy Wood---Life Is Wonderful</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c23be9f0969b06038698b7a26406c7.png" length="142240" type="image/png"/>
+      <pubDate>Fri, 29 Mar 2024 01:33:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
