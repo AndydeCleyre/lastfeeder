@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Mar 2024 02:37:13 +0000</lastBuildDate>
-    <item>
-      <title>Julia Holter - World (23 plays)</title>
-      <link>https://www.last.fm/music/Julia+Holter/_/World</link>
-      <guid isPermaLink="false">Frippertron-1711600937--45610c1f-41a4-44f1-9da6-227510073ffc---World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6988e93906c42939d0892061944f6bd.png" length="137512" type="image/png"/>
-      <pubDate>Thu, 28 Mar 2024 00:42:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Julia Holter - Maxim's I (12 plays)</title>
-      <link>https://www.last.fm/music/Julia+Holter/_/Maxim%27s+I</link>
-      <guid isPermaLink="false">Frippertron-1711601150--45610c1f-41a4-44f1-9da6-227510073ffc---Maxim's I</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6988e93906c42939d0892061944f6bd.png" length="137512" type="image/png"/>
-      <pubDate>Thu, 28 Mar 2024 00:45:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Mar 2024 02:52:26 +0000</lastBuildDate>
     <item>
       <title>Julia Holter - Horns Surrounding Me (11 plays)</title>
       <link>https://www.last.fm/music/Julia+Holter/_/Horns+Surrounding+Me</link>
@@ -278,20 +264,21 @@
       <title>Freddie Mercury - Love Kills (70 plays)</title>
       <link>https://www.last.fm/music/Freddie+Mercury/_/Love+Kills</link>
       <guid isPermaLink="false">Frippertron-1711621064--022589ac-7177-460d-a178-9976cf70e29f---Love Kills</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89185693dd062051de6b1b41e527678a.png" length="0" type="text/html; charset=UTF-8"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89185693dd062051de6b1b41e527678a.png" length="175015" type="image/png"/>
       <pubDate>Thu, 28 Mar 2024 06:17:44 -0400</pubDate>
     </item>
     <item>
       <title>Freddie Mercury - How Can I Go On (single version) (1 play)</title>
       <link>https://www.last.fm/music/Freddie+Mercury/_/How+Can+I+Go+On+(single+version)</link>
       <guid isPermaLink="false">Frippertron-1711621333--022589ac-7177-460d-a178-9976cf70e29f---How Can I Go On (single version)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89185693dd062051de6b1b41e527678a.png" length="0" type="text/html; charset=UTF-8"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89185693dd062051de6b1b41e527678a.png" length="175015" type="image/png"/>
       <pubDate>Thu, 28 Mar 2024 06:22:13 -0400</pubDate>
     </item>
     <item>
       <title>Freddie Mercury - Living On My Own (No More Brothers radio mix) (20 plays)</title>
       <link>https://www.last.fm/music/Freddie+Mercury/_/Living+On+My+Own+(No+More+Brothers+radio+mix)</link>
       <guid isPermaLink="false">Frippertron-1711621559--022589ac-7177-460d-a178-9976cf70e29f---Living On My Own (No More Brothers radio mix)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89185693dd062051de6b1b41e527678a.png" length="175015" type="image/png"/>
       <pubDate>Thu, 28 Mar 2024 06:25:59 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1711679175--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Thu, 28 Mar 2024 22:26:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cygnus....Vismund Cygnus (30 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
+      <guid isPermaLink="false">Frippertron-1711679617--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Thu, 28 Mar 2024 22:33:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - L'Via L'Viaquezł (10 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/L%27Via+L%27Viaquez%C5%82</link>
+      <guid isPermaLink="false">Frippertron-1711680195--The Mars Volta---L'Via L'Viaquezł</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Thu, 28 Mar 2024 22:43:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
