@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Mar 2024 03:38:01 +0000</lastBuildDate>
-    <item>
-      <title>Julia Holter - Hello Stranger (8 plays)</title>
-      <link>https://www.last.fm/music/Julia+Holter/_/Hello+Stranger</link>
-      <guid isPermaLink="false">Frippertron-1711602051--45610c1f-41a4-44f1-9da6-227510073ffc---Hello Stranger</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6988e93906c42939d0892061944f6bd.png" length="137512" type="image/png"/>
-      <pubDate>Thu, 28 Mar 2024 01:00:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Julia Holter - Maxim's II (7 plays)</title>
-      <link>https://www.last.fm/music/Julia+Holter/_/Maxim%27s+II</link>
-      <guid isPermaLink="false">Frippertron-1711602428--45610c1f-41a4-44f1-9da6-227510073ffc---Maxim's II</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6988e93906c42939d0892061944f6bd.png" length="137512" type="image/png"/>
-      <pubDate>Thu, 28 Mar 2024 01:07:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Julia Holter - He's Running Through My Eyes (9 plays)</title>
-      <link>https://www.last.fm/music/Julia+Holter/_/He%27s+Running+Through+My+Eyes</link>
-      <guid isPermaLink="false">Frippertron-1711602756--45610c1f-41a4-44f1-9da6-227510073ffc---He's Running Through My Eyes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6988e93906c42939d0892061944f6bd.png" length="137512" type="image/png"/>
-      <pubDate>Thu, 28 Mar 2024 01:12:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Mar 2024 03:52:09 +0000</lastBuildDate>
     <item>
       <title>Julia Holter - This Is a True Heart (12 plays)</title>
       <link>https://www.last.fm/music/Julia+Holter/_/This+Is+a+True+Heart</link>
@@ -128,7 +107,7 @@
       <pubDate>Thu, 28 Mar 2024 03:40:01 -0400</pubDate>
     </item>
     <item>
-      <title>Elton John - Sorry Seems to Be the Hardest Word (42 plays)</title>
+      <title>Elton John - Sorry Seems to Be the Hardest Word (43 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Sorry+Seems+to+Be+the+Hardest+Word</link>
       <guid isPermaLink="false">Frippertron-1711612074--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Sorry Seems to Be the Hardest Word</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0988b3e23437d5d98b28e39fd490e019.jpg" length="25880" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1711683296--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Better Off Dead</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
       <pubDate>Thu, 28 Mar 2024 23:34:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Someone Saved My Life Tonight (26 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Someone+Saved+My+Life+Tonight</link>
+      <guid isPermaLink="false">Frippertron-1711683455--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Someone Saved My Life Tonight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Thu, 28 Mar 2024 23:37:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Elton's Song (6 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Elton%27s+Song</link>
+      <guid isPermaLink="false">Frippertron-1711683876--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Elton's Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac6c15e5b7157666b5128445b5b79a9f.jpg" length="19499" type="image/jpeg"/>
+      <pubDate>Thu, 28 Mar 2024 23:44:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Sorry Seems to Be the Hardest Word (43 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Sorry+Seems+to+Be+the+Hardest+Word</link>
+      <guid isPermaLink="false">Frippertron-1711684088--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Sorry Seems to Be the Hardest Word</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7fd4da8d007a49d59c563e40ac28c257.jpg" length="19597" type="image/jpeg"/>
+      <pubDate>Thu, 28 Mar 2024 23:48:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
