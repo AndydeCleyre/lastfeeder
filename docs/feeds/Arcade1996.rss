@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Mar 2024 15:37:29 +0000</lastBuildDate>
-    <item>
-      <title>Moor Mother - DEATH BY LONGITUDE (1 play)</title>
-      <link>https://www.last.fm/music/Moor+Mother/_/DEATH+BY+LONGITUDE</link>
-      <guid isPermaLink="false">Arcade1996-1711585953--16610cf1-5ed5-4770-89b4-bf7e7aca7ebf---DEATH BY LONGITUDE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/872bb4598627f7bc281e0c6ae1ddd6bc.jpg" length="17284" type="image/jpeg"/>
-      <pubDate>Wed, 27 Mar 2024 20:32:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 Mar 2024 15:52:45 +0000</lastBuildDate>
     <item>
       <title>Future - Like That (13 plays)</title>
       <link>https://www.last.fm/music/Future/_/Like+That</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1711812265--The Streets---Has It Come to This?</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95ec108587524b32bb0bfa59c6015488.png" length="186980" type="image/png"/>
       <pubDate>Sat, 30 Mar 2024 11:24:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Streets - Let's Push Things Forward (5 plays)</title>
+      <link>https://www.last.fm/music/The+Streets/_/Let%27s+Push+Things+Forward</link>
+      <guid isPermaLink="false">Arcade1996-1711812510--The Streets---Let's Push Things Forward</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/95ec108587524b32bb0bfa59c6015488.png" length="186980" type="image/png"/>
+      <pubDate>Sat, 30 Mar 2024 11:28:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
