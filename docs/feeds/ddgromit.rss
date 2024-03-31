@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Mar 2024 16:38:47 +0000</lastBuildDate>
-    <item>
-      <title>Robert Paul Corless - me and jesse [part one] (7 plays)</title>
-      <link>https://www.last.fm/music/Robert+Paul+Corless/_/me+and+jesse+%5Bpart+one%5D</link>
-      <guid isPermaLink="false">ddgromit-1711748381--26f8d27a-8c08-419e-bb7a-b7ab065deb53---me and jesse [part one]</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 29 Mar 2024 17:39:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Mar 2024 17:14:07 +0000</lastBuildDate>
     <item>
       <title>Cristobal Tapia de Veer - Drugs (3 plays)</title>
       <link>https://www.last.fm/music/Cristobal+Tapia+de+Veer/_/Drugs</link>
@@ -54,6 +47,7 @@
       <title>Grandbrothers - Valentin's Blood Flows (3 plays)</title>
       <link>https://www.last.fm/music/Grandbrothers/_/Valentin%27s+Blood+Flows</link>
       <guid isPermaLink="false">ddgromit-1711749021--36250550-80c6-4f83-819b-092d12db5575---Valentin's Blood Flows</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0284f73520ee6c0c7489e5cb4af74f0.jpg" length="13059" type="image/jpeg"/>
       <pubDate>Fri, 29 Mar 2024 17:50:21 -0400</pubDate>
     </item>
     <item>
@@ -151,7 +145,6 @@
       <title>Kronos Quartet - When Our Wings Are Cut, Can We Still Fly? (3 plays)</title>
       <link>https://www.last.fm/music/Kronos+Quartet/_/When+Our+Wings+Are+Cut,+Can+We+Still+Fly%3F</link>
       <guid isPermaLink="false">ddgromit-1711750721--f5586dfa-7031-4af0-8042-19b6a1170389---When Our Wings Are Cut, Can We Still Fly?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad2df37747c5a8032fb4f32880f35264.jpg" length="14386" type="image/jpeg"/>
       <pubDate>Fri, 29 Mar 2024 18:18:41 -0400</pubDate>
     </item>
     <item>
@@ -256,7 +249,6 @@
       <title>DeVotchKa - The Winner Is (1 play)</title>
       <link>https://www.last.fm/music/DeVotchKa/_/The+Winner+Is</link>
       <guid isPermaLink="false">ddgromit-1711851810--a66cc38c-e6cd-4725-a8fd-7d32b998347f---The Winner Is</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b1152f28a364dd3bcd703cccd646b72.png" length="90830" type="image/png"/>
       <pubDate>Sat, 30 Mar 2024 22:23:30 -0400</pubDate>
     </item>
     <item>
@@ -354,7 +346,15 @@
       <title>Yojimbo - The Pussycat Bourgeoisie (1 play)</title>
       <link>https://www.last.fm/music/Yojimbo/_/The+Pussycat+Bourgeoisie</link>
       <guid isPermaLink="false">ddgromit-1711902067--95ac058e-ec83-4700-8acb-8ca67a12b32a---The Pussycat Bourgeoisie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e25b85499cd54693aa00c507d66c6ee6.jpg" length="28307" type="image/jpeg"/>
       <pubDate>Sun, 31 Mar 2024 12:21:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Yojimbo - We Are Evil Dogs (1 play)</title>
+      <link>https://www.last.fm/music/Yojimbo/_/We+Are+Evil+Dogs</link>
+      <guid isPermaLink="false">ddgromit-1711902301--95ac058e-ec83-4700-8acb-8ca67a12b32a---We Are Evil Dogs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e25b85499cd54693aa00c507d66c6ee6.jpg" length="28307" type="image/jpeg"/>
+      <pubDate>Sun, 31 Mar 2024 12:25:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
