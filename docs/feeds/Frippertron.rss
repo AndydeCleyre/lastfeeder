@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Apr 2024 08:20:47 +0000</lastBuildDate>
-    <item>
-      <title>Sylvester - Stars (2 plays)</title>
-      <link>https://www.last.fm/music/Sylvester/_/Stars</link>
-      <guid isPermaLink="false">Frippertron-1712191493--4d3b710b-a5f0-4772-97db-f09e47fbc6d8---Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddca3e42e5ff3b70674735e7a33bcb31.jpg" length="14778" type="image/jpeg"/>
-      <pubDate>Wed, 03 Apr 2024 20:44:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Nona Reeves - Love Together (17 plays)</title>
-      <link>https://www.last.fm/music/Nona+Reeves/_/Love+Together</link>
-      <guid isPermaLink="false">Frippertron-1712193625--e3742063-06ef-4c81-be08-598497e26f6c---Love Together</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22615503f3c03fe1000a51809baad3c0.jpg" length="29321" type="image/jpeg"/>
-      <pubDate>Wed, 03 Apr 2024 21:20:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Apr 2024 08:38:20 +0000</lastBuildDate>
     <item>
       <title>Nona Reeves - 二十歳の夏 (19 plays)</title>
       <link>https://www.last.fm/music/Nona+Reeves/_/%E4%BA%8C%E5%8D%81%E6%AD%B3%E3%81%AE%E5%A4%8F</link>
@@ -355,7 +341,22 @@
       <title>Elton John - Come Down In Time (Jazz Version) (8 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Come+Down+In+Time+(Jazz+Version)</link>
       <guid isPermaLink="false">Frippertron-1712218390--Elton John---Come Down In Time (Jazz Version)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/004b2b1ce4649ac1ac2871abde93efe8.jpg" length="14897" type="image/jpeg"/>
       <pubDate>Thu, 04 Apr 2024 04:13:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cindy Lee - diamond jubilee (1 play)</title>
+      <link>https://www.last.fm/music/Cindy+Lee/_/diamond+jubilee</link>
+      <guid isPermaLink="false">Frippertron-1712218842--a7537f5b-ef6f-424e-9f4d-9b990cb8866f---diamond jubilee</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e08a87a091d9db75ce1bf39ee14ca53.png" length="180747" type="image/png"/>
+      <pubDate>Thu, 04 Apr 2024 04:20:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cindy Lee - Glitz (1 play)</title>
+      <link>https://www.last.fm/music/Cindy+Lee/_/Glitz</link>
+      <guid isPermaLink="false">Frippertron-1712219164--a7537f5b-ef6f-424e-9f4d-9b990cb8866f---Glitz</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e08a87a091d9db75ce1bf39ee14ca53.png" length="180747" type="image/png"/>
+      <pubDate>Thu, 04 Apr 2024 04:26:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
