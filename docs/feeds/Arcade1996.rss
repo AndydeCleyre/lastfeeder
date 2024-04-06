@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Apr 2024 08:52:09 +0000</lastBuildDate>
-    <item>
-      <title>Erika de Casier - What U Wanna Do? (1 play)</title>
-      <link>https://www.last.fm/music/Erika+de+Casier/_/What+U+Wanna+Do%3F</link>
-      <guid isPermaLink="false">Arcade1996-1712067824--071409d0-ce21-4f03-a111-aec4dbc1590d---What U Wanna Do?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8913a544c48d5235d434d9b26c480c43.jpg" length="12029" type="image/jpeg"/>
-      <pubDate>Tue, 02 Apr 2024 10:23:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Erika de Casier - ice (3 plays)</title>
-      <link>https://www.last.fm/music/Erika+de+Casier/_/ice</link>
-      <guid isPermaLink="false">Arcade1996-1712102635--071409d0-ce21-4f03-a111-aec4dbc1590d---ice</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ebbf4d8d460f7e96d931a42f9b465b4.jpg" length="22791" type="image/jpeg"/>
-      <pubDate>Tue, 02 Apr 2024 20:03:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Apr 2024 15:27:18 +0000</lastBuildDate>
     <item>
       <title>Erika de Casier - Test It (3 plays)</title>
       <link>https://www.last.fm/music/Erika+de+Casier/_/Test+It</link>
@@ -166,7 +152,6 @@
       <title>Yeat - Breathe (13 plays)</title>
       <link>https://www.last.fm/music/Yeat/_/Breathe</link>
       <guid isPermaLink="false">Arcade1996-1712224822--9e6a6a2f-f696-4cc0-87f1-e4f712e46802---Breathe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/125700a0ef6faac975b7611bc8bcb6b1.jpg" length="15305" type="image/jpeg"/>
       <pubDate>Thu, 04 Apr 2024 06:00:22 -0400</pubDate>
     </item>
     <item>
@@ -275,7 +260,7 @@
       <pubDate>Fri, 05 Apr 2024 05:39:47 -0400</pubDate>
     </item>
     <item>
-      <title>Sematary - WENDIGO (2 plays)</title>
+      <title>Sematary - WENDIGO (3 plays)</title>
       <link>https://www.last.fm/music/Sematary/_/WENDIGO</link>
       <guid isPermaLink="false">Arcade1996-1712310246--8f4d9eb5-7b8f-4e7e-8c05-86cb211d7a7c---WENDIGO</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8b7b29f5a95d9c827220b0b87ef0799.jpg" length="41126" type="image/jpeg"/>
@@ -296,7 +281,7 @@
       <pubDate>Fri, 05 Apr 2024 11:23:01 -0400</pubDate>
     </item>
     <item>
-      <title>Sematary - WENDIGO (2 plays)</title>
+      <title>Sematary - WENDIGO (3 plays)</title>
       <link>https://www.last.fm/music/Sematary/_/WENDIGO</link>
       <guid isPermaLink="false">Arcade1996-1712330841--8f4d9eb5-7b8f-4e7e-8c05-86cb211d7a7c---WENDIGO</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8b7b29f5a95d9c827220b0b87ef0799.jpg" length="41126" type="image/jpeg"/>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Arcade1996-1712392600--d1353a0c-26fb-4318-a116-defde9c7c9ad---Thank You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fcc4e689bbcdf6c9e605b2ad1a07c5d.png" length="82163" type="image/png"/>
       <pubDate>Sat, 06 Apr 2024 04:36:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dido - White Flag (7 plays)</title>
+      <link>https://www.last.fm/music/Dido/_/White+Flag</link>
+      <guid isPermaLink="false">Arcade1996-1712395389--d1353a0c-26fb-4318-a116-defde9c7c9ad---White Flag</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a21eae91d777f257a5c73798a2064fcd.png" length="158985" type="image/png"/>
+      <pubDate>Sat, 06 Apr 2024 05:23:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sematary - WENDIGO (3 plays)</title>
+      <link>https://www.last.fm/music/Sematary/_/WENDIGO</link>
+      <guid isPermaLink="false">Arcade1996-1712416988--8f4d9eb5-7b8f-4e7e-8c05-86cb211d7a7c---WENDIGO</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8b7b29f5a95d9c827220b0b87ef0799.jpg" length="41126" type="image/jpeg"/>
+      <pubDate>Sat, 06 Apr 2024 11:23:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
