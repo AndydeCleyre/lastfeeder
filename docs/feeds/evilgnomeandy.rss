@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Apr 2024 18:53:20 +0000</lastBuildDate>
-    <item>
-      <title>Holly Golightly - Tell Me Now So I Know (23 plays)</title>
-      <link>https://www.last.fm/music/Holly+Golightly/_/Tell+Me+Now+So+I+Know</link>
-      <guid isPermaLink="false">evilgnomeandy-1711149342--c0d96e6b-ee48-422d-8c28-f169ada973a8---Tell Me Now So I Know</guid>
-      <pubDate>Fri, 22 Mar 2024 19:15:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Harry Nilsson - One (26 plays)</title>
-      <link>https://www.last.fm/music/Harry+Nilsson/_/One</link>
-      <guid isPermaLink="false">evilgnomeandy-1711149466--e5963d26-01fa-40f5-b200-e0127f410a45---One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/109c61c9b5a643aac3d255ae59a30ec7.jpg" length="21317" type="image/jpeg"/>
-      <pubDate>Fri, 22 Mar 2024 19:17:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Apr 2024 19:12:08 +0000</lastBuildDate>
     <item>
       <title>The Phenomenauts - Infinite Frontier (7 plays)</title>
       <link>https://www.last.fm/music/The+Phenomenauts/_/Infinite+Frontier</link>
@@ -137,6 +124,7 @@
       <title>Holly Golightly &amp; The Brokeoffs - Escalator (12 plays)</title>
       <link>https://www.last.fm/music/Holly+Golightly+&amp;+The+Brokeoffs/_/Escalator</link>
       <guid isPermaLink="false">evilgnomeandy-1711986147--Holly Golightly &amp; The Brokeoffs---Escalator</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60761998d23b45e76ef8f9c637b7ba01.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Mon, 01 Apr 2024 11:42:27 -0400</pubDate>
     </item>
     <item>
@@ -157,6 +145,7 @@
       <title>The Detroit Cobras - Bye Bye Baby (14 plays)</title>
       <link>https://www.last.fm/music/The+Detroit+Cobras/_/Bye+Bye+Baby</link>
       <guid isPermaLink="false">evilgnomeandy-1711986849--9b8d6e11-05a4-4688-9d96-ad746bfedc41---Bye Bye Baby</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1f916331cf241c484f1098a12b99552.jpg" length="19531" type="image/jpeg"/>
       <pubDate>Mon, 01 Apr 2024 11:54:09 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1712425788--e0647eee-82ce-40e6-af54-953395ad1c08---Don't Haunt This Place</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd00f4263f8c4e919382d401712b86f9.png" length="152658" type="image/png"/>
       <pubDate>Sat, 06 Apr 2024 13:49:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Fabulous Downey Brothers, Sean Nelson - Rising Falling</title>
+      <link>https://www.last.fm/music/The+Fabulous+Downey+Brothers,+Sean+Nelson/_/Rising+Falling</link>
+      <guid isPermaLink="false">evilgnomeandy-1712429500--The Fabulous Downey Brothers, Sean Nelson---Rising Falling</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 06 Apr 2024 14:51:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Long Winters, Sean Nelson - Samaritan - Duo Version (1 play)</title>
+      <link>https://www.last.fm/music/The+Long+Winters,+Sean+Nelson/_/Samaritan+-+Duo+Version</link>
+      <guid isPermaLink="false">evilgnomeandy-1712429903--The Long Winters, Sean Nelson---Samaritan - Duo Version</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 06 Apr 2024 14:58:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
