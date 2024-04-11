@@ -6,13 +6,13 @@ charset-normalizer==3.3.2
     # via requests
 click==8.1.7
     # via black
-docutils==0.21
+docutils==0.21.1
     # via flit
 flit==3.9.0
     # via -r dev-requirements.in
 flit-core==3.9.0
     # via flit
-idna==3.6
+idna==3.7
     # via requests
 isort==5.13.2
     # via -r dev-requirements.in
