@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 03:16:54 +0000</lastBuildDate>
-    <item>
-      <title>Glassjaw - Tip Your Bartender (5 plays)</title>
-      <link>https://www.last.fm/music/Glassjaw/_/Tip+Your+Bartender</link>
-      <guid isPermaLink="false">Frippertron-1712733474--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---Tip Your Bartender</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7106ad42476fc081ada421ce2a88847a.jpg" length="23729" type="image/jpeg"/>
-      <pubDate>Wed, 10 Apr 2024 03:17:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Apr 2024 03:37:33 +0000</lastBuildDate>
     <item>
       <title>Glassjaw - Mu Empire (4 plays)</title>
       <link>https://www.last.fm/music/Glassjaw/_/Mu+Empire</link>
@@ -114,7 +107,7 @@
       <pubDate>Wed, 10 Apr 2024 04:31:26 -0400</pubDate>
     </item>
     <item>
-      <title>Swans - The Apostate (49 plays)</title>
+      <title>Swans - The Apostate (50 plays)</title>
       <link>https://www.last.fm/music/Swans/_/The+Apostate</link>
       <guid isPermaLink="false">Frippertron-1712739062--3285dc48-9505-469d-ad8a-bdf2d3dba632---The Apostate</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58852d2df4a50f1e4f4c91074844ac1b.png" length="113471" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1712805037--3285dc48-9505-469d-ad8a-bdf2d3dba632---A Little God In My Hands</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfaeae64a4344c50ccfd7f4608c190e2.png" length="192782" type="image/png"/>
       <pubDate>Wed, 10 Apr 2024 23:10:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - The Apostate (50 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/The+Apostate</link>
+      <guid isPermaLink="false">Frippertron-1712805498--3285dc48-9505-469d-ad8a-bdf2d3dba632---The Apostate</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58852d2df4a50f1e4f4c91074844ac1b.png" length="113471" type="image/png"/>
+      <pubDate>Wed, 10 Apr 2024 23:18:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
