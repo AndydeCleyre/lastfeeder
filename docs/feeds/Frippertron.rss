@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Apr 2024 05:52:28 +0000</lastBuildDate>
-    <item>
-      <title>Glassjaw - Stars (73 plays)</title>
-      <link>https://www.last.fm/music/Glassjaw/_/Stars</link>
-      <guid isPermaLink="false">Frippertron-1712825042--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
-      <pubDate>Thu, 11 Apr 2024 04:44:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>Glassjaw - You Think You're (John Fucking Lennon) (77 plays)</title>
-      <link>https://www.last.fm/music/Glassjaw/_/You+Think+You%27re+(John+Fucking+Lennon)</link>
-      <guid isPermaLink="false">Frippertron-1712825282--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---You Think You're (John Fucking Lennon)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
-      <pubDate>Thu, 11 Apr 2024 04:48:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Apr 2024 06:21:11 +0000</lastBuildDate>
     <item>
       <title>Everything But the Girl - Each and Every One (135 plays)</title>
       <link>https://www.last.fm/music/Everything+But+the+Girl/_/Each+and+Every+One</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1712900755--3285dc48-9505-469d-ad8a-bdf2d3dba632---Song for a Warrior</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58852d2df4a50f1e4f4c91074844ac1b.png" length="113471" type="image/png"/>
       <pubDate>Fri, 12 Apr 2024 01:45:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - Avatar (20 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/Avatar</link>
+      <guid isPermaLink="false">Frippertron-1712900993--3285dc48-9505-469d-ad8a-bdf2d3dba632---Avatar</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58852d2df4a50f1e4f4c91074844ac1b.png" length="113471" type="image/png"/>
+      <pubDate>Fri, 12 Apr 2024 01:49:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - A Piece of the Sky (55 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/A+Piece+of+the+Sky</link>
+      <guid isPermaLink="false">Frippertron-1712901525--3285dc48-9505-469d-ad8a-bdf2d3dba632---A Piece of the Sky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58852d2df4a50f1e4f4c91074844ac1b.png" length="113471" type="image/png"/>
+      <pubDate>Fri, 12 Apr 2024 01:58:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
