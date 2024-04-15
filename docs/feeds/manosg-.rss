@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 14:38:21 +0000</lastBuildDate>
-    <item>
-      <title>Green Day - Bobby Sox (1 play)</title>
-      <link>https://www.last.fm/music/Green+Day/_/Bobby+Sox</link>
-      <guid isPermaLink="false">manosg--1712822557--084308bd-1654-436f-ba03-df6697104e19---Bobby Sox</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1c6fce0017dd020be57e2414be8e04a.jpg" length="23210" type="image/jpeg"/>
-      <pubDate>Thu, 11 Apr 2024 04:02:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Green Day - One Eyed Bastard (1 play)</title>
-      <link>https://www.last.fm/music/Green+Day/_/One+Eyed+Bastard</link>
-      <guid isPermaLink="false">manosg--1712823463--084308bd-1654-436f-ba03-df6697104e19---One Eyed Bastard</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1c6fce0017dd020be57e2414be8e04a.jpg" length="23210" type="image/jpeg"/>
-      <pubDate>Thu, 11 Apr 2024 04:17:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Apr 2024 14:52:44 +0000</lastBuildDate>
     <item>
       <title>Green Day - Dilemma (1 play)</title>
       <link>https://www.last.fm/music/Green+Day/_/Dilemma</link>
@@ -128,14 +114,14 @@
       <pubDate>Fri, 12 Apr 2024 05:27:57 -0400</pubDate>
     </item>
     <item>
-      <title>Tarot - The Winding Road (1 play)</title>
+      <title>Tarot - The Winding Road (2 plays)</title>
       <link>https://www.last.fm/music/Tarot/_/The+Winding+Road</link>
       <guid isPermaLink="false">manosg--1712914402--Tarot---The Winding Road</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521c95a6f180f10470617b438dfdd6da.jpg" length="24822" type="image/jpeg"/>
       <pubDate>Fri, 12 Apr 2024 05:33:22 -0400</pubDate>
     </item>
     <item>
-      <title>Tarot - Leshy's Warning (1 play)</title>
+      <title>Tarot - Leshy's Warning (2 plays)</title>
       <link>https://www.last.fm/music/Tarot/_/Leshy%27s+Warning</link>
       <guid isPermaLink="false">manosg--1712915010--Tarot---Leshy's Warning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521c95a6f180f10470617b438dfdd6da.jpg" length="24822" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1713191051--Tarot---Glimpse of the Dawn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521c95a6f180f10470617b438dfdd6da.jpg" length="24822" type="image/jpeg"/>
       <pubDate>Mon, 15 Apr 2024 10:24:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tarot - The Winding Road (2 plays)</title>
+      <link>https://www.last.fm/music/Tarot/_/The+Winding+Road</link>
+      <guid isPermaLink="false">manosg--1713191372--Tarot---The Winding Road</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521c95a6f180f10470617b438dfdd6da.jpg" length="24822" type="image/jpeg"/>
+      <pubDate>Mon, 15 Apr 2024 10:29:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tarot - Leshy's Warning (2 plays)</title>
+      <link>https://www.last.fm/music/Tarot/_/Leshy%27s+Warning</link>
+      <guid isPermaLink="false">manosg--1713192432--Tarot---Leshy's Warning</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521c95a6f180f10470617b438dfdd6da.jpg" length="24822" type="image/jpeg"/>
+      <pubDate>Mon, 15 Apr 2024 10:47:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
