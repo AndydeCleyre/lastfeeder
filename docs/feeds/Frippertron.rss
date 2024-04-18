@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Apr 2024 03:38:05 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Elton's Song (10 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Elton%27s+Song</link>
-      <guid isPermaLink="false">Frippertron-1713331741--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Elton's Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac6c15e5b7157666b5128445b5b79a9f.jpg" length="19499" type="image/jpeg"/>
-      <pubDate>Wed, 17 Apr 2024 01:29:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Who - Who Are You (22 plays)</title>
-      <link>https://www.last.fm/music/The+Who/_/Who+Are+You</link>
-      <guid isPermaLink="false">Frippertron-1713331922--9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa---Who Are You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25475d7303344df0b9fe6dfe0bc0f573.png" length="241813" type="image/png"/>
-      <pubDate>Wed, 17 Apr 2024 01:32:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Apr 2024 04:37:16 +0000</lastBuildDate>
     <item>
       <title>Swans - The Glowing Man (14 plays)</title>
       <link>https://www.last.fm/music/Swans/_/The+Glowing+Man</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1713411137--66f8692c-966d-4dfb-a2ed-babf51241922---Albion Fair</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
       <pubDate>Wed, 17 Apr 2024 23:32:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>George Michael - Freeek! (50 plays)</title>
+      <link>https://www.last.fm/music/George+Michael/_/Freeek!</link>
+      <guid isPermaLink="false">Frippertron-1713413002--ccb8f30e-4d71-40c4-8b1d-846dafe73e2c---Freeek!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3eb766b2e2f424a5ddf0d3762398360b.png" length="31237" type="image/png"/>
+      <pubDate>Thu, 18 Apr 2024 00:03:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cassandra Gemini (40 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cassandra+Gemini</link>
+      <guid isPermaLink="false">Frippertron-1713414781--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Thu, 18 Apr 2024 00:33:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
