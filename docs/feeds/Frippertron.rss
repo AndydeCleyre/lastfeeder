@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Apr 2024 03:38:11 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Chameleon (74 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Chameleon</link>
-      <guid isPermaLink="false">Frippertron-1713418503--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Chameleon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/004b2b1ce4649ac1ac2871abde93efe8.jpg" length="14897" type="image/jpeg"/>
-      <pubDate>Thu, 18 Apr 2024 01:35:03 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Apr 2024 03:52:11 +0000</lastBuildDate>
     <item>
       <title>Elton John - Shoot Down The Moon (9 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Shoot+Down+The+Moon</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1713497562--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Harmony</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d4e915760f54d96cd76c9919ff22e65.png" length="203951" type="image/png"/>
       <pubDate>Thu, 18 Apr 2024 23:32:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cicatriz ESP (22 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cicatriz+ESP</link>
+      <guid isPermaLink="false">Frippertron-1713497736--20883363-1ea4-4d72-ad72-c0e767038f3e---Cicatriz ESP</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 18 Apr 2024 23:35:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
