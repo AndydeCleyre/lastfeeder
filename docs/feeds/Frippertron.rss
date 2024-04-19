@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Apr 2024 06:22:05 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Don't Stop Me Now (54 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Don%27t+Stop+Me+Now</link>
-      <guid isPermaLink="false">Frippertron-1713427107--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Don't Stop Me Now</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 18 Apr 2024 03:58:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Apr 2024 07:16:38 +0000</lastBuildDate>
     <item>
       <title>Elton John - Bennie and the Jets (114 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1713506408--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---The Race Is About To Begin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02e4eb1da9d19cb35f5970d7bbdf2b48.jpg" length="44309" type="image/jpeg"/>
       <pubDate>Fri, 19 Apr 2024 02:00:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Day of the Baphomets (23 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Day+of+the+Baphomets</link>
+      <guid isPermaLink="false">Frippertron-1713510190--20883363-1ea4-4d72-ad72-c0e767038f3e---Day of the Baphomets</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Fri, 19 Apr 2024 03:03:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
