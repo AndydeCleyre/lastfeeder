@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Apr 2024 17:52:14 +0000</lastBuildDate>
-    <item>
-      <title>Deep Purple - Jam Stew - Instrumental (1 play)</title>
-      <link>https://www.last.fm/music/Deep+Purple/_/Jam+Stew+-+Instrumental</link>
-      <guid isPermaLink="false">manosg--1713508356--79491354-3d83-40e3-9d8e-7592d58d790a---Jam Stew - Instrumental</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a41e148cea539ba0fa76f472237e4038.jpg" length="27778" type="image/jpeg"/>
-      <pubDate>Fri, 19 Apr 2024 02:32:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Apr 2024 18:20:35 +0000</lastBuildDate>
     <item>
       <title>Deep Purple - Studio Chat 4 (1 play)</title>
       <link>https://www.last.fm/music/Deep+Purple/_/Studio+Chat+4</link>
@@ -173,6 +166,7 @@
       <title>Deep Purple - Lay Down, Stay Down - Remastered 2004 (5 plays)</title>
       <link>https://www.last.fm/music/Deep+Purple/_/Lay+Down,+Stay+Down+-+Remastered+2004</link>
       <guid isPermaLink="false">manosg--1713519655--Deep Purple---Lay Down, Stay Down - Remastered 2004</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b5f5cade3a5abb2185c7c9a8f7c7d61.jpg" length="15272" type="image/jpeg"/>
       <pubDate>Fri, 19 Apr 2024 05:40:55 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1713721252--Rory Gallagher---Bad Penny</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c82104b2cd8d5ba6ec1455201b21c90.jpg" length="16001" type="image/jpeg"/>
       <pubDate>Sun, 21 Apr 2024 13:40:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Rory Gallagher - Just Hit Town (2 plays)</title>
+      <link>https://www.last.fm/music/Rory+Gallagher/_/Just+Hit+Town</link>
+      <guid isPermaLink="false">manosg--1713721498--Rory Gallagher---Just Hit Town</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c82104b2cd8d5ba6ec1455201b21c90.jpg" length="16001" type="image/jpeg"/>
+      <pubDate>Sun, 21 Apr 2024 13:44:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
