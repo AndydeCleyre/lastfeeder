@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Apr 2024 04:52:23 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Sleepless (78 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Sleepless</link>
-      <guid isPermaLink="false">Frippertron-1713612636--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Sleepless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sat, 20 Apr 2024 07:30:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - Bennie and the Jets (117 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
-      <guid isPermaLink="false">Frippertron-1713612962--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bennie and the Jets</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sat, 20 Apr 2024 07:36:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Apr 2024 05:16:17 +0000</lastBuildDate>
     <item>
       <title>The Music Machine - Talk Talk (9 plays)</title>
       <link>https://www.last.fm/music/The+Music+Machine/_/Talk+Talk</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1713761218--13453b40-1d9c-4281-b73f-b7c1b45c7ebd---The Downtown Lights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2198bb7f07b97ee3d13bb90b850cadf9.png" length="86619" type="image/png"/>
       <pubDate>Mon, 22 Apr 2024 00:46:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Better Off Dead (47 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Better+Off+Dead</link>
+      <guid isPermaLink="false">Frippertron-1713761631--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Better Off Dead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Mon, 22 Apr 2024 00:53:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Writing (22 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Writing</link>
+      <guid isPermaLink="false">Frippertron-1713761787--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Writing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
+      <pubDate>Mon, 22 Apr 2024 00:56:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
