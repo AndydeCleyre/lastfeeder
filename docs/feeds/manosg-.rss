@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Apr 2024 16:38:16 +0000</lastBuildDate>
-    <item>
-      <title>AC/DC - Rock 'N' Roll Singer (17 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/Rock+%27N%27+Roll+Singer</link>
-      <guid isPermaLink="false">manosg--1713513514--66c662b6-6e2f-4930-8610-912e24c63ed1---Rock 'N' Roll Singer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591095f2549b4d9bbde16f471fa76e83.png" length="153302" type="image/png"/>
-      <pubDate>Fri, 19 Apr 2024 03:58:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Deep Purple - Lay Down, Stay Down - Remastered 2004 (5 plays)</title>
-      <link>https://www.last.fm/music/Deep+Purple/_/Lay+Down,+Stay+Down+-+Remastered+2004</link>
-      <guid isPermaLink="false">manosg--1713513821--Deep Purple---Lay Down, Stay Down - Remastered 2004</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b5f5cade3a5abb2185c7c9a8f7c7d61.jpg" length="15272" type="image/jpeg"/>
-      <pubDate>Fri, 19 Apr 2024 04:03:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Apr 2024 16:52:19 +0000</lastBuildDate>
     <item>
       <title>Free - Worry (3 plays)</title>
       <link>https://www.last.fm/music/Free/_/Worry</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1713799321--c7423e0c-ab3e-4ab4-be10-cdff5a9d3062---Soul Jive</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8bd4dfdeb5c248fad5e06dd4dfa05f1.jpg" length="20530" type="image/jpeg"/>
       <pubDate>Mon, 22 Apr 2024 11:22:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Blue Öyster Cult - Gun (1 play)</title>
+      <link>https://www.last.fm/music/Blue+%C3%96yster+Cult/_/Gun</link>
+      <guid isPermaLink="false">manosg--1713803139--c7423e0c-ab3e-4ab4-be10-cdff5a9d3062---Gun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8bd4dfdeb5c248fad5e06dd4dfa05f1.jpg" length="20530" type="image/jpeg"/>
+      <pubDate>Mon, 22 Apr 2024 12:25:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Blue Öyster Cult - Shot In The Dark (1 play)</title>
+      <link>https://www.last.fm/music/Blue+%C3%96yster+Cult/_/Shot+In+The+Dark</link>
+      <guid isPermaLink="false">manosg--1713804288--c7423e0c-ab3e-4ab4-be10-cdff5a9d3062---Shot In The Dark</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8bd4dfdeb5c248fad5e06dd4dfa05f1.jpg" length="20530" type="image/jpeg"/>
+      <pubDate>Mon, 22 Apr 2024 12:44:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
