@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Apr 2024 17:27:38 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - The Moor (Remastered) (9 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/The+Moor+(Remastered)</link>
-      <guid isPermaLink="false">manosg--1713541097--c14b4180-dc87-481e-b17a-64e4150f90f6---The Moor (Remastered)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c4586413476e432b3eba2e74fcc096a.jpg" length="17084" type="image/jpeg"/>
-      <pubDate>Fri, 19 Apr 2024 11:38:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Apr 2024 17:39:14 +0000</lastBuildDate>
     <item>
       <title>Opeth - Godhead's Lament (9 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/Godhead%27s+Lament</link>
@@ -355,7 +348,15 @@
       <title>Aeonian Sorrow - Anemos (1 play)</title>
       <link>https://www.last.fm/music/Aeonian+Sorrow/_/Anemos</link>
       <guid isPermaLink="false">manosg--1713805567--c9fa37ed-f8da-4d1b-a919-b1ed8b79adb9---Anemos</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a425a337cfbcf57751a16d5f2aa91236.png" length="209194" type="image/png"/>
       <pubDate>Mon, 22 Apr 2024 13:06:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Aeonian Sorrow - Elumia (1 play)</title>
+      <link>https://www.last.fm/music/Aeonian+Sorrow/_/Elumia</link>
+      <guid isPermaLink="false">manosg--1713806087--c9fa37ed-f8da-4d1b-a919-b1ed8b79adb9---Elumia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a425a337cfbcf57751a16d5f2aa91236.png" length="209194" type="image/png"/>
+      <pubDate>Mon, 22 Apr 2024 13:14:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
