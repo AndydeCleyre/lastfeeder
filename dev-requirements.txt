@@ -6,7 +6,7 @@ charset-normalizer==3.3.2
     # via requests
 click==8.1.7
     # via black
-docutils==0.21.1
+docutils==0.21.2
     # via flit
 flit==3.9.0
     # via -r dev-requirements.in
@@ -22,7 +22,7 @@ packaging==24.0
     # via black
 pathspec==0.12.1
     # via black
-platformdirs==4.2.0
+platformdirs==4.2.1
     # via black
 requests==2.31.0
     # via flit
