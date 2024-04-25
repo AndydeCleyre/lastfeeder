@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Apr 2024 08:52:19 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Honky Cat (30 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Honky+Cat</link>
-      <guid isPermaLink="false">Frippertron-1714011682--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Honky Cat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9194f7f823e853aa688f5ed5f827413d.jpg" length="21059" type="image/jpeg"/>
-      <pubDate>Wed, 24 Apr 2024 22:21:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - I Think I'm Going To Kill Myself (54 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/I+Think+I%27m+Going+To+Kill+Myself</link>
-      <guid isPermaLink="false">Frippertron-1714012000--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---I Think I'm Going To Kill Myself</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9194f7f823e853aa688f5ed5f827413d.jpg" length="21059" type="image/jpeg"/>
-      <pubDate>Wed, 24 Apr 2024 22:26:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Apr 2024 09:17:29 +0000</lastBuildDate>
     <item>
       <title>Elton John - Island Girl (40 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Island+Girl</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1714034837--80b717b0-562d-4811-b268-978f5e075486---SEASON'S CALL</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8a1cf9d22dddf7a70141c391ac2d6a6.jpg" length="30459" type="image/jpeg"/>
       <pubDate>Thu, 25 Apr 2024 04:47:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Caroline Polachek - Coma (5 plays)</title>
+      <link>https://www.last.fm/music/Caroline+Polachek/_/Coma</link>
+      <guid isPermaLink="false">Frippertron-1714035237--d8f43dc5-4613-48ac-8c23-a62b82f8c67a---Coma</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg" length="25678" type="image/jpeg"/>
+      <pubDate>Thu, 25 Apr 2024 04:53:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Arthur Brown - I Put A Spell On You (31 plays)</title>
+      <link>https://www.last.fm/music/Arthur+Brown/_/I+Put+A+Spell+On+You</link>
+      <guid isPermaLink="false">Frippertron-1714035541--8373c711-1043-42bd-bf7d-b17ab26de5c7---I Put A Spell On You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e63c01cf52f4fcaddfa571b31007d4af.png" length="186038" type="image/png"/>
+      <pubDate>Thu, 25 Apr 2024 04:59:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
