@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Apr 2024 02:52:20 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Take the Veil Cerpin Taxt (53 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Take+the+Veil+Cerpin+Taxt</link>
-      <guid isPermaLink="false">Frippertron-1713934378--20883363-1ea4-4d72-ad72-c0e767038f3e---Take the Veil Cerpin Taxt</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
-      <pubDate>Wed, 24 Apr 2024 00:52:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Enid - O Salome (250 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/O+Salome</link>
-      <guid isPermaLink="false">Frippertron-1713935900--66f8692c-966d-4dfb-a2ed-babf51241922---O Salome</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017073b2445e401daebeae96368f1365.jpg" length="20967" type="image/jpeg"/>
-      <pubDate>Wed, 24 Apr 2024 01:18:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Apr 2024 03:17:24 +0000</lastBuildDate>
     <item>
       <title>10cc - Sand In My Face (26 plays)</title>
       <link>https://www.last.fm/music/10cc/_/Sand+In+My+Face</link>
@@ -47,6 +33,7 @@
       <title>John Cale - Chicken Shit (34 plays)</title>
       <link>https://www.last.fm/music/John+Cale/_/Chicken+Shit</link>
       <guid isPermaLink="false">Frippertron-1713937229--72c090b6-a68e-4cb9-b330-85278681a714---Chicken Shit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bb7ec4cfa164d26be8769e576f03f51.jpg" length="37014" type="image/jpeg"/>
       <pubDate>Wed, 24 Apr 2024 01:40:29 -0400</pubDate>
     </item>
     <item>
@@ -130,6 +117,7 @@
       <title>Acetone - rumble (3 plays)</title>
       <link>https://www.last.fm/music/Acetone/_/rumble</link>
       <guid isPermaLink="false">Frippertron-1713945883--Acetone---rumble</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9996b11a69e874eac2588e7209ba7605.png" length="172706" type="image/png"/>
       <pubDate>Wed, 24 Apr 2024 04:04:43 -0400</pubDate>
     </item>
     <item>
@@ -189,7 +177,7 @@
       <pubDate>Wed, 24 Apr 2024 04:52:49 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Tetragrammaton (11 plays)</title>
+      <title>The Mars Volta - Tetragrammaton (12 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
       <guid isPermaLink="false">Frippertron-1713949537--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1714012923--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Wed, 24 Apr 2024 22:42:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Vicarious Atonement (3 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Vicarious+Atonement</link>
+      <guid isPermaLink="false">Frippertron-1714013514--20883363-1ea4-4d72-ad72-c0e767038f3e---Vicarious Atonement</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Wed, 24 Apr 2024 22:51:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (12 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1714013954--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Wed, 24 Apr 2024 22:59:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
