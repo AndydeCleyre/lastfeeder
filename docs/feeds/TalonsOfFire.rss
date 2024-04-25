@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Apr 2024 16:20:34 +0000</lastBuildDate>
-    <item>
-      <title>Goldfrapp - Jo (9 plays)</title>
-      <link>https://www.last.fm/music/Goldfrapp/_/Jo</link>
-      <guid isPermaLink="false">TalonsOfFire-1713470823--7b885d42-3c41-4f43-9944-a5855ec5155e---Jo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f396875ecc704f39cfe99dbb3520099a.jpg" length="12538" type="image/jpeg"/>
-      <pubDate>Thu, 18 Apr 2024 16:07:03 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Apr 2024 16:38:38 +0000</lastBuildDate>
     <item>
       <title>Goldfrapp - Ulla (9 plays)</title>
       <link>https://www.last.fm/music/Goldfrapp/_/Ulla</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1714061112--Shpongle---Electroplasm - 2020 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ec63fe25942031f1469b279d72bee015.jpg" length="25724" type="image/jpeg"/>
       <pubDate>Thu, 25 Apr 2024 12:05:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Shpongle - Shpongolese Spoken Here - 2020 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Shpongle/_/Shpongolese+Spoken+Here+-+2020+Remaster</link>
+      <guid isPermaLink="false">TalonsOfFire-1714061676--Shpongle---Shpongolese Spoken Here - 2020 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ec63fe25942031f1469b279d72bee015.jpg" length="25724" type="image/jpeg"/>
+      <pubDate>Thu, 25 Apr 2024 12:14:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
