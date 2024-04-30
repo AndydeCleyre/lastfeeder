@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Apr 2024 08:21:10 +0000</lastBuildDate>
-    <item>
-      <title>The Chronicles of Father Robin - Lost in the Palace Gardens (1 play)</title>
-      <link>https://www.last.fm/music/The+Chronicles+of+Father+Robin/_/Lost+in+the+Palace+Gardens</link>
-      <guid isPermaLink="false">manosg--1714200185--d3bd3121-0294-4912-888c-b954fd79ea5f---Lost in the Palace Gardens</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de7c6d650942d997e4f192b27f489de3.jpg" length="20734" type="image/jpeg"/>
-      <pubDate>Sat, 27 Apr 2024 02:43:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Chronicles of Father Robin - Prologue (2 plays)</title>
-      <link>https://www.last.fm/music/The+Chronicles+of+Father+Robin/_/Prologue</link>
-      <guid isPermaLink="false">manosg--1714283986--d3bd3121-0294-4912-888c-b954fd79ea5f---Prologue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a068a1176462261aaa577dc426f80bc7.jpg" length="29278" type="image/jpeg"/>
-      <pubDate>Sun, 28 Apr 2024 01:59:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Apr 2024 09:38:24 +0000</lastBuildDate>
     <item>
       <title>The Chronicles of Father Robin - The Tale of Father Robin (2 plays)</title>
       <link>https://www.last.fm/music/The+Chronicles+of+Father+Robin/_/The+Tale+of+Father+Robin</link>
@@ -355,8 +341,19 @@
       <title>Eloy - Danger (1 play)</title>
       <link>https://www.last.fm/music/Eloy/_/Danger</link>
       <guid isPermaLink="false">manosg--1714462401--bc154a90-890b-409e-b850-53ca299ab0d6---Danger</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ed57d78367458729604fb66dd9417e7.jpg" length="34273" type="image/jpeg"/>
       <pubDate>Tue, 30 Apr 2024 03:33:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eloy - Deceptive Glory (1 play)</title>
+      <link>https://www.last.fm/music/Eloy/_/Deceptive+Glory</link>
+      <guid isPermaLink="false">manosg--1714464677--bc154a90-890b-409e-b850-53ca299ab0d6---Deceptive Glory</guid>
+      <pubDate>Tue, 30 Apr 2024 04:11:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eloy - Warning Signs (1 play)</title>
+      <link>https://www.last.fm/music/Eloy/_/Warning+Signs</link>
+      <guid isPermaLink="false">manosg--1714468884--bc154a90-890b-409e-b850-53ca299ab0d6---Warning Signs</guid>
+      <pubDate>Tue, 30 Apr 2024 05:21:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
