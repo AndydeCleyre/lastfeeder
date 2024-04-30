@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Apr 2024 15:52:30 +0000</lastBuildDate>
-    <item>
-      <title>AC/DC - What's Next to the Moon (19 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/What%27s+Next+to+the+Moon</link>
-      <guid isPermaLink="false">manosg--1714384276--66c662b6-6e2f-4930-8610-912e24c63ed1---What's Next to the Moon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43535ee483a1459fb803d49e12de22a5.png" length="152745" type="image/png"/>
-      <pubDate>Mon, 29 Apr 2024 05:51:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>AC/DC - Gone Shootin' (18 plays)</title>
-      <link>https://www.last.fm/music/AC%2FDC/_/Gone+Shootin%27</link>
-      <guid isPermaLink="false">manosg--1714384494--66c662b6-6e2f-4930-8610-912e24c63ed1---Gone Shootin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43535ee483a1459fb803d49e12de22a5.png" length="152745" type="image/png"/>
-      <pubDate>Mon, 29 Apr 2024 05:54:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Apr 2024 16:22:23 +0000</lastBuildDate>
     <item>
       <title>AC/DC - Up to My Neck in You (18 plays)</title>
       <link>https://www.last.fm/music/AC%2FDC/_/Up+to+My+Neck+in+You</link>
@@ -355,8 +341,19 @@
       <title>Collegium Musicum - Strange Theme, Part I. (1 play)</title>
       <link>https://www.last.fm/music/Collegium+Musicum/_/Strange+Theme,+Part+I.</link>
       <guid isPermaLink="false">manosg--1714490862--42471f38-7976-45c7-a18b-bbbdb2133620---Strange Theme, Part I.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/631e8598e631efeb71c92b8627130224.jpg" length="27606" type="image/jpeg"/>
       <pubDate>Tue, 30 Apr 2024 11:27:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Collegium Musicum - Strange Theme, Part II. (1 play)</title>
+      <link>https://www.last.fm/music/Collegium+Musicum/_/Strange+Theme,+Part+II.</link>
+      <guid isPermaLink="false">manosg--1714492197--42471f38-7976-45c7-a18b-bbbdb2133620---Strange Theme, Part II.</guid>
+      <pubDate>Tue, 30 Apr 2024 11:49:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Collegium Musicum - Concerto in D (1 play)</title>
+      <link>https://www.last.fm/music/Collegium+Musicum/_/Concerto+in+D</link>
+      <guid isPermaLink="false">manosg--1714492888--42471f38-7976-45c7-a18b-bbbdb2133620---Concerto in D</guid>
+      <pubDate>Tue, 30 Apr 2024 12:01:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
