@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 May 2024 10:39:52 +0000</lastBuildDate>
-    <item>
-      <title>Fontaines D.C. - Starburster (5 plays)</title>
-      <link>https://www.last.fm/music/Fontaines+D.C./_/Starburster</link>
-      <guid isPermaLink="false">Arcade1996-1714435516--fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68---Starburster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb5b2a615f93ddbd2fa59ebb81890057.jpg" length="24407" type="image/jpeg"/>
-      <pubDate>Mon, 29 Apr 2024 20:05:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 May 2024 11:52:26 +0000</lastBuildDate>
     <item>
       <title>Doves - Black and White Town (17 plays)</title>
       <link>https://www.last.fm/music/Doves/_/Black+and+White+Town</link>
@@ -145,7 +138,6 @@
       <title>Gene - Haunted By You (39 plays)</title>
       <link>https://www.last.fm/music/Gene/_/Haunted+By+You</link>
       <guid isPermaLink="false">Arcade1996-1714472028--38b6fae0-dd60-47c2-8f46-cf5023d23664---Haunted By You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcb5fa8e5154fd98709ba97dbffa6d2a.png" length="180932" type="image/png"/>
       <pubDate>Tue, 30 Apr 2024 06:13:48 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">Arcade1996-1714559595--Pet Shop Boys---The End of the World - 2018 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b6aacede8c769523298c5069bafccac.jpg" length="7655" type="image/jpeg"/>
       <pubDate>Wed, 01 May 2024 06:33:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pet Shop Boys - Jealousy - 2018 Remaster (2 plays)</title>
+      <link>https://www.last.fm/music/Pet+Shop+Boys/_/Jealousy+-+2018+Remaster</link>
+      <guid isPermaLink="false">Arcade1996-1714559879--Pet Shop Boys---Jealousy - 2018 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b6aacede8c769523298c5069bafccac.jpg" length="7655" type="image/jpeg"/>
+      <pubDate>Wed, 01 May 2024 06:37:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
