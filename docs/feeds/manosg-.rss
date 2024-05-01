@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 May 2024 06:52:22 +0000</lastBuildDate>
-    <item>
-      <title>Def Leppard - Another Hit and Run (7 plays)</title>
-      <link>https://www.last.fm/music/Def+Leppard/_/Another+Hit+and+Run</link>
-      <guid isPermaLink="false">manosg--1714386157--7249b899-8db8-43e7-9e6e-22f1e736024e---Another Hit and Run</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9899e9c1e21a6fb72974e90c0a8bf51c.jpg" length="32403" type="image/jpeg"/>
-      <pubDate>Mon, 29 Apr 2024 06:22:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 May 2024 09:37:14 +0000</lastBuildDate>
     <item>
       <title>The Who - Bargain (6 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/Bargain</link>
@@ -334,6 +327,7 @@
       <title>Omega - Finálé (1 play)</title>
       <link>https://www.last.fm/music/Omega/_/Fin%C3%A1l%C3%A9</link>
       <guid isPermaLink="false">manosg--1714544928--Omega---Finálé</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a315ae6b4e1442a890d584c88f30b57d.jpg" length="27948" type="image/jpeg"/>
       <pubDate>Wed, 01 May 2024 02:28:48 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1714545534--Gravy Train---Starlight Starbright</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b16585ec96af4a7eca9b6c216811df79.png" length="222689" type="image/png"/>
       <pubDate>Wed, 01 May 2024 02:38:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Agitation Free - Malesch (1 play)</title>
+      <link>https://www.last.fm/music/Agitation+Free/_/Malesch</link>
+      <guid isPermaLink="false">manosg--1714545803--354c739d-eb31-45b0-b5b4-7931df983eb2---Malesch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c01522f3caee4462a5e8ce121a03ae6d.jpg" length="24303" type="image/jpeg"/>
+      <pubDate>Wed, 01 May 2024 02:43:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
