@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 May 2024 18:52:07 +0000</lastBuildDate>
-    <item>
-      <title>Gizmo Varillas - Paraiso (4 plays)</title>
-      <link>https://www.last.fm/music/Gizmo+Varillas/_/Paraiso</link>
-      <guid isPermaLink="false">ddgromit-1714755269--8d1948bf-194d-42c7-a1dc-3bdd7a52fc4c---Paraiso</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1327a0bcddfd932864cb9fa711688f5a.jpg" length="35613" type="image/jpeg"/>
-      <pubDate>Fri, 03 May 2024 12:54:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 May 2024 19:13:14 +0000</lastBuildDate>
     <item>
       <title>Monster Rally - Bahia Mar (1 play)</title>
       <link>https://www.last.fm/music/Monster+Rally/_/Bahia+Mar</link>
@@ -313,6 +306,7 @@
       <title>Bremer/McCoy - Derindad (1 play)</title>
       <link>https://www.last.fm/music/Bremer%2FMcCoy/_/Derindad</link>
       <guid isPermaLink="false">ddgromit-1714761272--d3fe0251-0d0d-4d3a-ad2e-53188d7065d5---Derindad</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4cae4851382106ccf27726969559483e.png" length="246835" type="image/png"/>
       <pubDate>Fri, 03 May 2024 14:34:32 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1714762109--140bd83c-475b-4eb3-bf82-27ff4dc92abc---Trying to Escape</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a5c644fe9fb2b6f7caaf5a8b4461859.jpg" length="31395" type="image/jpeg"/>
       <pubDate>Fri, 03 May 2024 14:48:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Koresma - Trails (1 play)</title>
+      <link>https://www.last.fm/music/Koresma/_/Trails</link>
+      <guid isPermaLink="false">ddgromit-1714762285--Koresma---Trails</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 03 May 2024 14:51:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
