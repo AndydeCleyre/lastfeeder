@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 May 2024 07:14:22 +0000</lastBuildDate>
-    <item>
-      <title>Rory Gallagher - Just The Smile (4 plays)</title>
-      <link>https://www.last.fm/music/Rory+Gallagher/_/Just+The+Smile</link>
-      <guid isPermaLink="false">manosg--1714719324--Rory Gallagher---Just The Smile</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/620c8ecae60fdf299fecd6cfa2be87c5.jpg" length="9701" type="image/jpeg"/>
-      <pubDate>Fri, 03 May 2024 02:55:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 May 2024 07:26:18 +0000</lastBuildDate>
     <item>
       <title>Rory Gallagher - I Fall Apart (5 plays)</title>
       <link>https://www.last.fm/music/Rory+Gallagher/_/I+Fall+Apart</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1714892662--Paul Turner---Elements</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 05 May 2024 03:04:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Headlund - Dahlia (1 play)</title>
+      <link>https://www.last.fm/music/Headlund/_/Dahlia</link>
+      <guid isPermaLink="false">manosg--1714892727--Headlund---Dahlia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e67a7853de3e9b1b3f2d09a2aa850a34.jpg" length="10197" type="image/jpeg"/>
+      <pubDate>Sun, 05 May 2024 03:05:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
