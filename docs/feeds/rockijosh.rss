@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 May 2024 17:15:28 +0000</lastBuildDate>
-    <item>
-      <title>fun. - One Foot (4 plays)</title>
-      <link>https://www.last.fm/music/fun./_/One+Foot</link>
-      <guid isPermaLink="false">rockijosh-1715019342--136c4166-85b3-4994-aa04-59857c434199---One Foot</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2c64d81d94943443fadb2ba11315f2d.jpg" length="14160" type="image/jpeg"/>
-      <pubDate>Mon, 06 May 2024 14:15:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>fun. - Stars (2 plays)</title>
-      <link>https://www.last.fm/music/fun./_/Stars</link>
-      <guid isPermaLink="false">rockijosh-1715019342--136c4166-85b3-4994-aa04-59857c434199---Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2c64d81d94943443fadb2ba11315f2d.jpg" length="14160" type="image/jpeg"/>
-      <pubDate>Mon, 06 May 2024 14:15:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 May 2024 17:27:31 +0000</lastBuildDate>
     <item>
       <title>Chappell Roan - Good Luck, Babe! (5 plays)</title>
       <link>https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe!</link>
@@ -142,7 +128,7 @@
       <pubDate>Tue, 07 May 2024 08:04:55 -0400</pubDate>
     </item>
     <item>
-      <title>Sum 41 - Screaming Bloody Murder (24 plays)</title>
+      <title>Sum 41 - Screaming Bloody Murder</title>
       <link>https://www.last.fm/music/Sum+41/_/Screaming+Bloody+Murder</link>
       <guid isPermaLink="false">rockijosh-1715083738--f2eef649-a6d5-4114-afba-e50ab26254d2---Screaming Bloody Murder</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c77acadb6e8f431dbe38b90fe450a5a2.png" length="170426" type="image/png"/>
@@ -289,14 +275,14 @@
       <pubDate>Wed, 08 May 2024 12:27:40 -0400</pubDate>
     </item>
     <item>
-      <title>Chelsea Wolfe - Everything Turns Blue (1 play)</title>
+      <title>Chelsea Wolfe - Everything Turns Blue (2 plays)</title>
       <link>https://www.last.fm/music/Chelsea+Wolfe/_/Everything+Turns+Blue</link>
       <guid isPermaLink="false">rockijosh-1715185923--60e8e938-365e-4429-a141-4c79eb49588d---Everything Turns Blue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e8c9b4eb6197b0ffd4067d71910b10.jpg" length="15510" type="image/jpeg"/>
       <pubDate>Wed, 08 May 2024 12:32:03 -0400</pubDate>
     </item>
     <item>
-      <title>Chelsea Wolfe - Tunnel Lights (1 play)</title>
+      <title>Chelsea Wolfe - Tunnel Lights (2 plays)</title>
       <link>https://www.last.fm/music/Chelsea+Wolfe/_/Tunnel+Lights</link>
       <guid isPermaLink="false">rockijosh-1715186189--60e8e938-365e-4429-a141-4c79eb49588d---Tunnel Lights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e8c9b4eb6197b0ffd4067d71910b10.jpg" length="15510" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1715188283--f4d4b515-0b74-423f-a161-db184330c37c---Faces in the Hall</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d426c47568b0493192297b1268095d0b.png" length="159503" type="image/png"/>
       <pubDate>Wed, 08 May 2024 13:11:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chelsea Wolfe - Everything Turns Blue (2 plays)</title>
+      <link>https://www.last.fm/music/Chelsea+Wolfe/_/Everything+Turns+Blue</link>
+      <guid isPermaLink="false">rockijosh-1715188451--60e8e938-365e-4429-a141-4c79eb49588d---Everything Turns Blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e8c9b4eb6197b0ffd4067d71910b10.jpg" length="15510" type="image/jpeg"/>
+      <pubDate>Wed, 08 May 2024 13:14:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chelsea Wolfe - Tunnel Lights (2 plays)</title>
+      <link>https://www.last.fm/music/Chelsea+Wolfe/_/Tunnel+Lights</link>
+      <guid isPermaLink="false">rockijosh-1715188715--60e8e938-365e-4429-a141-4c79eb49588d---Tunnel Lights</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e8c9b4eb6197b0ffd4067d71910b10.jpg" length="15510" type="image/jpeg"/>
+      <pubDate>Wed, 08 May 2024 13:18:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
