@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 May 2024 05:37:09 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - This Apparatus Must Be Unearthed (19 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/This+Apparatus+Must+Be+Unearthed</link>
-      <guid isPermaLink="false">Frippertron-1715250693--20883363-1ea4-4d72-ad72-c0e767038f3e---This Apparatus Must Be Unearthed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
-      <pubDate>Thu, 09 May 2024 06:31:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Flow - DAYS (70 plays)</title>
-      <link>https://www.last.fm/music/Flow/_/DAYS</link>
-      <guid isPermaLink="false">Frippertron-1715251278--Flow---DAYS</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fce82801fb3547bbbf34b228702eec4c.jpg" length="23769" type="image/jpeg"/>
-      <pubDate>Thu, 09 May 2024 06:41:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Flow - Re:member (22 plays)</title>
-      <link>https://www.last.fm/music/Flow/_/Re:member</link>
-      <guid isPermaLink="false">Frippertron-1715251750--Flow---Re:member</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fce82801fb3547bbbf34b228702eec4c.jpg" length="23769" type="image/jpeg"/>
-      <pubDate>Thu, 09 May 2024 06:49:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 May 2024 05:52:08 +0000</lastBuildDate>
     <item>
       <title>Flow - DAYS (70 plays)</title>
       <link>https://www.last.fm/music/Flow/_/DAYS</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1715319248--9ca10859-49e2-44e3-b3d6-04c535207bc2---Sit &amp; Mourn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a2415031849936ecfece68a99da257e.jpg" length="9914" type="image/jpeg"/>
       <pubDate>Fri, 10 May 2024 01:34:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>ASIAN KUNG-FU GENERATION - 振動核 (15 plays)</title>
+      <link>https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E6%8C%AF%E5%8B%95%E6%A0%B8</link>
+      <guid isPermaLink="false">Frippertron-1715319631--ASIAN KUNG-FU GENERATION---振動核</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5930b18ae36f4bfc99110a6cf87e2b12.png" length="166392" type="image/png"/>
+      <pubDate>Fri, 10 May 2024 01:40:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>ASIAN KUNG-FU GENERATION - Rewrite (43 plays)</title>
+      <link>https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/Rewrite</link>
+      <guid isPermaLink="false">Frippertron-1715319759--14e410f5-97f2-48ba-b1f7-a3a44cbea05c---Rewrite</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5930b18ae36f4bfc99110a6cf87e2b12.png" length="166392" type="image/png"/>
+      <pubDate>Fri, 10 May 2024 01:42:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>ASIAN KUNG-FU GENERATION - Haruka Kanata (39 plays)</title>
+      <link>https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/Haruka+Kanata</link>
+      <guid isPermaLink="false">Frippertron-1715319987--14e410f5-97f2-48ba-b1f7-a3a44cbea05c---Haruka Kanata</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bf4e6661eea136a26f426c8d953f868.png" length="92290" type="image/png"/>
+      <pubDate>Fri, 10 May 2024 01:46:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
