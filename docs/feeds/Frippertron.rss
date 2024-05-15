@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 May 2024 05:37:26 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Take the Veil Cerpin Taxt (62 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Take+the+Veil+Cerpin+Taxt</link>
-      <guid isPermaLink="false">Frippertron-1715680692--20883363-1ea4-4d72-ad72-c0e767038f3e---Take the Veil Cerpin Taxt</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
-      <pubDate>Tue, 14 May 2024 05:58:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Japan - Swing (18 plays)</title>
-      <link>https://www.last.fm/music/Japan/_/Swing</link>
-      <guid isPermaLink="false">Frippertron-1715682476--Japan---Swing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/10c675c080ecf175df7467e34a7ac2cd.jpg" length="20630" type="image/jpeg"/>
-      <pubDate>Tue, 14 May 2024 06:27:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Japan - Visions Of China (83 plays)</title>
-      <link>https://www.last.fm/music/Japan/_/Visions+Of+China</link>
-      <guid isPermaLink="false">Frippertron-1715682785--Japan---Visions Of China</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/46e90e8e82bb46838f0454c275ece20a.png" length="169875" type="image/png"/>
-      <pubDate>Tue, 14 May 2024 06:33:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 May 2024 05:52:31 +0000</lastBuildDate>
     <item>
       <title>Japan - Cantonese Boy (122 plays)</title>
       <link>https://www.last.fm/music/Japan/_/Cantonese+Boy</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1715751150--b7ffd2af-418f-4be2-bdd1-22f8b48613da---March of the Pigs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2140ed83a28566a400a29fb17c3330d3.jpg" length="24957" type="image/jpeg"/>
       <pubDate>Wed, 15 May 2024 01:32:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nine Inch Nails - Eraser (12 plays)</title>
+      <link>https://www.last.fm/music/Nine+Inch+Nails/_/Eraser</link>
+      <guid isPermaLink="false">Frippertron-1715751385--b7ffd2af-418f-4be2-bdd1-22f8b48613da---Eraser</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2140ed83a28566a400a29fb17c3330d3.jpg" length="24957" type="image/jpeg"/>
+      <pubDate>Wed, 15 May 2024 01:36:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Subterraneans (55 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Subterraneans</link>
+      <guid isPermaLink="false">Frippertron-1715751613--5441c29d-3602-4898-b1a1-b77fa23b8e50---Subterraneans</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6dc802ea9e1f30fecbeddda3ee854a2.jpg" length="27232" type="image/jpeg"/>
+      <pubDate>Wed, 15 May 2024 01:40:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Scary Monsters (and Super Creeps) (81 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Scary+Monsters+(and+Super+Creeps)</link>
+      <guid isPermaLink="false">Frippertron-1715751870--5441c29d-3602-4898-b1a1-b77fa23b8e50---Scary Monsters (and Super Creeps)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6dc802ea9e1f30fecbeddda3ee854a2.jpg" length="27232" type="image/jpeg"/>
+      <pubDate>Wed, 15 May 2024 01:44:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
