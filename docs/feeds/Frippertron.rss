@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 May 2024 09:37:35 +0000</lastBuildDate>
-    <item>
-      <title>Bun B - I'm Fresh (4 plays)</title>
-      <link>https://www.last.fm/music/Bun+B/_/I%27m+Fresh</link>
-      <guid isPermaLink="false">Frippertron-1715743245--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---I'm Fresh</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c54ed3a4e2cc0c48c0a068a789af88.jpg" length="26536" type="image/jpeg"/>
-      <pubDate>Tue, 14 May 2024 23:20:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bun B - Trill Recognize Trill (2 plays)</title>
-      <link>https://www.last.fm/music/Bun+B/_/Trill+Recognize+Trill</link>
-      <guid isPermaLink="false">Frippertron-1715743502--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Trill Recognize Trill</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c54ed3a4e2cc0c48c0a068a789af88.jpg" length="26536" type="image/jpeg"/>
-      <pubDate>Tue, 14 May 2024 23:25:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 May 2024 09:52:18 +0000</lastBuildDate>
     <item>
       <title>Bun B - Pushin' (1 play)</title>
       <link>https://www.last.fm/music/Bun+B/_/Pushin%27</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1715765409--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 15 May 2024 05:30:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Pre-Asilos Magdalena (1 play)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Pre-Asilos+Magdalena</link>
+      <guid isPermaLink="false">Frippertron-1715766367--The Mars Volta---Pre-Asilos Magdalena</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 15 May 2024 05:46:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Asilos Magdalena (7 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Asilos+Magdalena</link>
+      <guid isPermaLink="false">Frippertron-1715766409--20883363-1ea4-4d72-ad72-c0e767038f3e---Asilos Magdalena</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 15 May 2024 05:46:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
