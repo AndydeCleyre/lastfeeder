@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 May 2024 09:19:55 +0000</lastBuildDate>
-    <item>
-      <title>Bun B - Bun (13 plays)</title>
-      <link>https://www.last.fm/music/Bun+B/_/Bun</link>
-      <guid isPermaLink="false">Frippertron-1715742507--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Bun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c54ed3a4e2cc0c48c0a068a789af88.jpg" length="26536" type="image/jpeg"/>
-      <pubDate>Tue, 14 May 2024 23:08:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bun B - Get Throwed (5 plays)</title>
-      <link>https://www.last.fm/music/Bun+B/_/Get+Throwed</link>
-      <guid isPermaLink="false">Frippertron-1715742753--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Get Throwed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c54ed3a4e2cc0c48c0a068a789af88.jpg" length="26536" type="image/jpeg"/>
-      <pubDate>Tue, 14 May 2024 23:12:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bun B - Draped Up (6 plays)</title>
-      <link>https://www.last.fm/music/Bun+B/_/Draped+Up</link>
-      <guid isPermaLink="false">Frippertron-1715742989--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Draped Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c54ed3a4e2cc0c48c0a068a789af88.jpg" length="26536" type="image/jpeg"/>
-      <pubDate>Tue, 14 May 2024 23:16:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 May 2024 09:37:35 +0000</lastBuildDate>
     <item>
       <title>Bun B - I'm Fresh (4 plays)</title>
       <link>https://www.last.fm/music/Bun+B/_/I%27m+Fresh</link>
@@ -212,7 +191,7 @@
       <pubDate>Wed, 15 May 2024 01:57:23 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Tetragrammaton (26 plays)</title>
+      <title>The Mars Volta - Tetragrammaton (27 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
       <guid isPermaLink="false">Frippertron-1715752996--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1715764581--20883363-1ea4-4d72-ad72-c0e767038f3e---The Widow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 15 May 2024 05:16:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Frances The Mute (23 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Frances+The+Mute</link>
+      <guid isPermaLink="false">Frippertron-1715764788--20883363-1ea4-4d72-ad72-c0e767038f3e---Frances The Mute</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 15 May 2024 05:19:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Pre-Tetragrammaton (1 play)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Pre-Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1715765327--The Mars Volta---Pre-Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 15 May 2024 05:28:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (27 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1715765409--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 15 May 2024 05:30:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
