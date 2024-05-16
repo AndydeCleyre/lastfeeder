@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 May 2024 03:20:41 +0000</lastBuildDate>
-    <item>
-      <title>Curtis Mayfield - Superfly (10 plays)</title>
-      <link>https://www.last.fm/music/Curtis+Mayfield/_/Superfly</link>
-      <guid isPermaLink="false">Frippertron-1715748860--4dca4bb2-23ba-4103-97e6-5810311db33a---Superfly</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a847ccbf704a0aca17d38f02f11dae.png" length="166128" type="image/png"/>
-      <pubDate>Wed, 15 May 2024 00:54:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 May 2024 03:37:24 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Cassandra Gemini (58 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cassandra+Gemini</link>
@@ -205,7 +198,7 @@
       <pubDate>Wed, 15 May 2024 05:04:14 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - The Widow (20 plays)</title>
+      <title>The Mars Volta - The Widow (21 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/The+Widow</link>
       <guid isPermaLink="false">Frippertron-1715764581--20883363-1ea4-4d72-ad72-c0e767038f3e---The Widow</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1715828530--20883363-1ea4-4d72-ad72-c0e767038f3e---Drunkship of Lanterns</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 15 May 2024 23:02:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - The Widow (21 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/The+Widow</link>
+      <guid isPermaLink="false">Frippertron-1715830474--20883363-1ea4-4d72-ad72-c0e767038f3e---The Widow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Wed, 15 May 2024 23:34:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
