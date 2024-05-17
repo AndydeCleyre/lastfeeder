@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 May 2024 05:52:21 +0000</lastBuildDate>
-    <item>
-      <title>Geese - Crusades (57 plays)</title>
-      <link>https://www.last.fm/music/Geese/_/Crusades</link>
-      <guid isPermaLink="false">Frippertron-1715838979--e0c97a4d-c392-41a9-a374-57af3e3eeab3---Crusades</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
-      <pubDate>Thu, 16 May 2024 01:56:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Geese - St. Elmo (38 plays)</title>
-      <link>https://www.last.fm/music/Geese/_/St.+Elmo</link>
-      <guid isPermaLink="false">Frippertron-1715839142--e0c97a4d-c392-41a9-a374-57af3e3eeab3---St. Elmo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cacb005926cc26320a5ff537288cc466.jpg" length="25014" type="image/jpeg"/>
-      <pubDate>Thu, 16 May 2024 01:59:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 May 2024 06:23:14 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Drunkship of Lanterns (33 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Drunkship+of+Lanterns</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1715925004--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Bun</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c54ed3a4e2cc0c48c0a068a789af88.jpg" length="26536" type="image/jpeg"/>
       <pubDate>Fri, 17 May 2024 01:50:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bun B - Get Throwed (6 plays)</title>
+      <link>https://www.last.fm/music/Bun+B/_/Get+Throwed</link>
+      <guid isPermaLink="false">Frippertron-1715925250--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Get Throwed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c54ed3a4e2cc0c48c0a068a789af88.jpg" length="26536" type="image/jpeg"/>
+      <pubDate>Fri, 17 May 2024 01:54:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sofia Kourtesis - Si Te Portas Bonito (7 plays)</title>
+      <link>https://www.last.fm/music/Sofia+Kourtesis/_/Si+Te+Portas+Bonito</link>
+      <guid isPermaLink="false">Frippertron-1715925577--2f8d2007-7666-45af-89d4-dec4921dce04---Si Te Portas Bonito</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca8c6fb10261d53621e9aed0e563c918.jpg" length="20202" type="image/jpeg"/>
+      <pubDate>Fri, 17 May 2024 01:59:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
