@@ -24,7 +24,7 @@ pathspec==0.12.1
     # via black
 platformdirs==4.2.2
     # via black
-requests==2.31.0
+requests==2.32.1
     # via flit
 tomli==2.0.1
     # via black
