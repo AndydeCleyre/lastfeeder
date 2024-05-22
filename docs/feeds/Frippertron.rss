@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 May 2024 02:05:49 +0000</lastBuildDate>
-    <item>
-      <title>Soft Cell - Slave To This (7 plays)</title>
-      <link>https://www.last.fm/music/Soft+Cell/_/Slave+To+This</link>
-      <guid isPermaLink="false">Frippertron-1716180614--7fb50287-029d-47cc-825a-235ca28024b2---Slave To This</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3634986d9b08d15968f43b17192fbaf7.png" length="71042" type="image/png"/>
-      <pubDate>Mon, 20 May 2024 00:50:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Starman (123 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Starman</link>
-      <guid isPermaLink="false">Frippertron-1716180912--5441c29d-3602-4898-b1a1-b77fa23b8e50---Starman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Mon, 20 May 2024 00:55:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 May 2024 02:52:18 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Blacklight Shine (23 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Blacklight+Shine</link>
@@ -142,7 +128,7 @@
       <pubDate>Mon, 20 May 2024 01:58:33 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Tetragrammaton (34 plays)</title>
+      <title>The Mars Volta - Tetragrammaton (35 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
       <guid isPermaLink="false">Frippertron-1716188587--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1716342480--20883363-1ea4-4d72-ad72-c0e767038f3e---Drunkship of Lanterns</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
       <pubDate>Tue, 21 May 2024 21:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Thousand Knives (71 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Thousand+Knives</link>
+      <guid isPermaLink="false">Frippertron-1716345364--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Thousand Knives</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f84ae4d6261be905ee2fb8b11ff1ab4.jpg" length="21132" type="image/jpeg"/>
+      <pubDate>Tue, 21 May 2024 22:36:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (35 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1716346020--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Tue, 21 May 2024 22:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
