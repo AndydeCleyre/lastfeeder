@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 May 2024 03:19:04 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Beauty and the Beast (184 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
-      <guid isPermaLink="false">Frippertron-1716367468--5441c29d-3602-4898-b1a1-b77fa23b8e50---Beauty and the Beast</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19c01c91fe0889cd41ad5222455e7363.png" length="113880" type="image/png"/>
-      <pubDate>Wed, 22 May 2024 04:44:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 May 2024 03:37:20 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Joe the Lion (80 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Joe+the+Lion</link>
@@ -191,7 +184,7 @@
       <pubDate>Wed, 22 May 2024 07:22:15 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Tetragrammaton (36 plays)</title>
+      <title>The Mars Volta - Tetragrammaton (37 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
       <guid isPermaLink="false">Frippertron-1716414622--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1716433991--e3742063-06ef-4c81-be08-598497e26f6c---二十歳の夏</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22615503f3c03fe1000a51809baad3c0.jpg" length="29321" type="image/jpeg"/>
       <pubDate>Wed, 22 May 2024 23:13:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (37 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1716434415--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Wed, 22 May 2024 23:20:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
