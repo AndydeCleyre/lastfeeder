@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 May 2024 16:38:56 +0000</lastBuildDate>
-    <item>
-      <title>The Weeknd - Save Your Tears (1 play)</title>
-      <link>https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears</link>
-      <guid isPermaLink="false">rockijosh-1716643189--c8b03190-306c-4120-bb0b-6f2ebfc06ea9---Save Your Tears</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg" length="14066" type="image/jpeg"/>
-      <pubDate>Sat, 25 May 2024 09:19:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Weeknd - Blinding Lights (2 plays)</title>
-      <link>https://www.last.fm/music/The+Weeknd/_/Blinding+Lights</link>
-      <guid isPermaLink="false">rockijosh-1716643405--c8b03190-306c-4120-bb0b-6f2ebfc06ea9---Blinding Lights</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg" length="14066" type="image/jpeg"/>
-      <pubDate>Sat, 25 May 2024 09:23:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Weeknd - Gasoline (1 play)</title>
-      <link>https://www.last.fm/music/The+Weeknd/_/Gasoline</link>
-      <guid isPermaLink="false">rockijosh-1716643606--c8b03190-306c-4120-bb0b-6f2ebfc06ea9---Gasoline</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5853cf3c4aafa6867d5d3e72be793a2c.jpg" length="13087" type="image/jpeg"/>
-      <pubDate>Sat, 25 May 2024 09:26:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Future - All To Myself (1 play)</title>
-      <link>https://www.last.fm/music/Future/_/All+To+Myself</link>
-      <guid isPermaLink="false">rockijosh-1716643819--48262e82-db9f-4a92-b650-dfef979b73ec---All To Myself</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a3dd879bb20457745a12ac0872c8821.jpg" length="14965" type="image/jpeg"/>
-      <pubDate>Sat, 25 May 2024 09:30:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 May 2024 16:52:19 +0000</lastBuildDate>
     <item>
       <title>The Weeknd - The Hills (1 play)</title>
       <link>https://www.last.fm/music/The+Weeknd/_/The+Hills</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">rockijosh-1716654809--f2eef649-a6d5-4114-afba-e50ab26254d2---With Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/59bc2761533f4dafabf0893da188ddfa.png" length="124337" type="image/png"/>
       <pubDate>Sat, 25 May 2024 12:33:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sum 41 - Noots (20 plays)</title>
+      <link>https://www.last.fm/music/Sum+41/_/Noots</link>
+      <guid isPermaLink="false">rockijosh-1716655109--f2eef649-a6d5-4114-afba-e50ab26254d2---Noots</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d399d4947494dbd803ca44d587ee08a.png" length="208979" type="image/png"/>
+      <pubDate>Sat, 25 May 2024 12:38:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sum 41 - Rhythms (41 plays)</title>
+      <link>https://www.last.fm/music/Sum+41/_/Rhythms</link>
+      <guid isPermaLink="false">rockijosh-1716655338--f2eef649-a6d5-4114-afba-e50ab26254d2---Rhythms</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c423974e266c9b30a4045e1ed88006fd.jpg" length="25641" type="image/jpeg"/>
+      <pubDate>Sat, 25 May 2024 12:42:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sum 41 - The Hell Song (69 plays)</title>
+      <link>https://www.last.fm/music/Sum+41/_/The+Hell+Song</link>
+      <guid isPermaLink="false">rockijosh-1716655524--f2eef649-a6d5-4114-afba-e50ab26254d2---The Hell Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c5cabf8c75f9448b944a1a24b753724c.png" length="163803" type="image/png"/>
+      <pubDate>Sat, 25 May 2024 12:45:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sum 41 - Motivation (15 plays)</title>
+      <link>https://www.last.fm/music/Sum+41/_/Motivation</link>
+      <guid isPermaLink="false">rockijosh-1716655737--f2eef649-a6d5-4114-afba-e50ab26254d2---Motivation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c423974e266c9b30a4045e1ed88006fd.jpg" length="25641" type="image/jpeg"/>
+      <pubDate>Sat, 25 May 2024 12:48:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
