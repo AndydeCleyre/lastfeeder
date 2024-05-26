@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 May 2024 12:30:24 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Fame (199 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Fame</link>
-      <guid isPermaLink="false">Frippertron-1716542679--5441c29d-3602-4898-b1a1-b77fa23b8e50---Fame</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2842d5f3c928b3e85b0d7ccd67307ec.jpg" length="21936" type="image/jpeg"/>
-      <pubDate>Fri, 24 May 2024 05:24:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 May 2024 15:37:28 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Beauty and the Beast (187 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Beauty+and+the+Beast</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1716726256--fa0e2024-95ff-44b6-9a86-f0ab120b6a72---Sunshine : Sunrise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d9993e609e6f78247080d46dd9ed90c.jpg" length="35384" type="image/jpeg"/>
       <pubDate>Sun, 26 May 2024 08:24:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Brown - When The Saints Go Marching In (2 plays)</title>
+      <link>https://www.last.fm/music/James+Brown/_/When+The+Saints+Go+Marching+In</link>
+      <guid isPermaLink="false">Frippertron-1716737713--James Brown---When The Saints Go Marching In</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06057693599282c95345f36af89f82d1.jpg" length="42819" type="image/jpeg"/>
+      <pubDate>Sun, 26 May 2024 11:35:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
