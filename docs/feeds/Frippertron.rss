@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 09:37:20 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Speed of Life (70 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Speed+of+Life</link>
-      <guid isPermaLink="false">Frippertron-1716781652--5441c29d-3602-4898-b1a1-b77fa23b8e50---Speed of Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8a61f4842d94e43ff30c2cfc47e4c4e.jpg" length="26206" type="image/jpeg"/>
-      <pubDate>Sun, 26 May 2024 23:47:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 May 2024 09:52:12 +0000</lastBuildDate>
     <item>
       <title>David Bowie - What in the World (67 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/What+in+the+World</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1716802342--20883363-1ea4-4d72-ad72-c0e767038f3e---Drunkship of Lanterns</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
       <pubDate>Mon, 27 May 2024 05:32:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cicatriz ESP (42 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cicatriz+ESP</link>
+      <guid isPermaLink="false">Frippertron-1716802701--20883363-1ea4-4d72-ad72-c0e767038f3e---Cicatriz ESP</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
+      <pubDate>Mon, 27 May 2024 05:38:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
