@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 05:37:08 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Sweet Thing (reprise) (138 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Sweet+Thing+(reprise)</link>
-      <guid isPermaLink="false">Frippertron-1716804697--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sweet Thing (reprise)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c502e85f1096b5ee462e10d45faf951.jpg" length="29325" type="image/jpeg"/>
-      <pubDate>Mon, 27 May 2024 06:11:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 May 2024 05:52:06 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Rebel Rebel (120 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Rebel+Rebel</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1716874163--92de643f-fa8f-4e68-b627-4376711b7b33---Days Like These</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
       <pubDate>Tue, 28 May 2024 01:29:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - There's a Comma After Still (9 plays)</title>
+      <link>https://www.last.fm/music/Low/_/There%27s+a+Comma+After+Still</link>
+      <guid isPermaLink="false">Frippertron-1716874484--92de643f-fa8f-4e68-b627-4376711b7b33---There's a Comma After Still</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
+      <pubDate>Tue, 28 May 2024 01:34:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
