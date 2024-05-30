@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 May 2024 09:37:46 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - 1984 (104 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/1984</link>
-      <guid isPermaLink="false">Frippertron-1717040234--5441c29d-3602-4898-b1a1-b77fa23b8e50---1984</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c502e85f1096b5ee462e10d45faf951.jpg" length="29325" type="image/jpeg"/>
-      <pubDate>Wed, 29 May 2024 23:37:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Killing a Little Time (13 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Killing+a+Little+Time</link>
-      <guid isPermaLink="false">Frippertron-1717040448--5441c29d-3602-4898-b1a1-b77fa23b8e50---Killing a Little Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ead82b7fbdf7d6847f345c6eba32debc.jpg" length="22946" type="image/jpeg"/>
-      <pubDate>Wed, 29 May 2024 23:40:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 May 2024 09:52:25 +0000</lastBuildDate>
     <item>
       <title>David Bowie - The Next Day (63 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/The+Next+Day</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1717061512--20883363-1ea4-4d72-ad72-c0e767038f3e---Asilos Magdalena</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
       <pubDate>Thu, 30 May 2024 05:31:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Miranda That Ghost Just Isn't Holy Anymore (18 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Miranda+That+Ghost+Just+Isn%27t+Holy+Anymore</link>
+      <guid isPermaLink="false">Frippertron-1717061884--20883363-1ea4-4d72-ad72-c0e767038f3e---Miranda That Ghost Just Isn't Holy Anymore</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Thu, 30 May 2024 05:38:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cassandra Gemini (67 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cassandra+Gemini</link>
+      <guid isPermaLink="false">Frippertron-1717062249--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Thu, 30 May 2024 05:44:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
