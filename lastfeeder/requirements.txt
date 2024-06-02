@@ -2,7 +2,7 @@ anyio==4.4.0
     # via httpx
 babel==2.15.0
     # via delorean
-certifi==2024.2.2
+certifi==2024.6.2
     # via
     #   httpcore
     #   httpx
@@ -42,7 +42,7 @@ sniffio==1.3.1
     #   httpx
 structlog==24.2.0
     # via -r requirements.in
-typing-extensions==4.12.0
+typing-extensions==4.12.1
     # via anyio
 tzlocal==5.2
     # via delorean
