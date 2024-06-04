@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 04:20:23 +0000</lastBuildDate>
-    <item>
-      <title>Iggy Pop - Nightclubbing (195 plays)</title>
-      <link>https://www.last.fm/music/Iggy+Pop/_/Nightclubbing</link>
-      <guid isPermaLink="false">Frippertron-1717389212--f37b3f31-b1f8-4b88-8cb5-b34f709b17d7---Nightclubbing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7d9060e4e0042ba9efed6e2534d38cd.png" length="93291" type="image/png"/>
-      <pubDate>Mon, 03 Jun 2024 00:33:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - It's a Hard Life (58 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/It%27s+a+Hard+Life</link>
-      <guid isPermaLink="false">Frippertron-1717389467--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---It's a Hard Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e33d4e91052227bd1f56b3193ac10278.png" length="144976" type="image/png"/>
-      <pubDate>Mon, 03 Jun 2024 00:37:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jun 2024 04:38:05 +0000</lastBuildDate>
     <item>
       <title>Queen - Mad The Swine (16 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Mad+The+Swine</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1717473800--5441c29d-3602-4898-b1a1-b77fa23b8e50---White Light/White Heat</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5888b1eed10c4efeb2b3301492ea5f84.jpg" length="25143" type="image/jpeg"/>
       <pubDate>Tue, 04 Jun 2024 00:03:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - I Lost My Head (30 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/I+Lost+My+Head</link>
+      <guid isPermaLink="false">Frippertron-1717475176--f795c501-1c41-4be2-bc2a-875eba75aa31---I Lost My Head</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88e9d8f495f646488979addbbb6cedee.jpg" length="24946" type="image/jpeg"/>
+      <pubDate>Tue, 04 Jun 2024 00:26:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Proclamation (23 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Proclamation</link>
+      <guid isPermaLink="false">Frippertron-1717475586--f795c501-1c41-4be2-bc2a-875eba75aa31---Proclamation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc0cc5c317dd44fdba829ce907f50544.jpg" length="32135" type="image/jpeg"/>
+      <pubDate>Tue, 04 Jun 2024 00:33:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
