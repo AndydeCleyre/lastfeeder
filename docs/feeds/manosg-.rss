@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 07:37:42 +0000</lastBuildDate>
-    <item>
-      <title>Phil Collins - You Can't Hurry Love - 2016 Remaster (13 plays)</title>
-      <link>https://www.last.fm/music/Phil+Collins/_/You+Can%27t+Hurry+Love+-+2016+Remaster</link>
-      <guid isPermaLink="false">manosg--1717488435--401c3991-b76b-499d-8082-9f2df958ef78---You Can't Hurry Love - 2016 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f40a603633e2808b2c9e9493cdb737da.jpg" length="11879" type="image/jpeg"/>
-      <pubDate>Tue, 04 Jun 2024 04:07:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Guns N' Roses - Welcome to the Jungle (5 plays)</title>
-      <link>https://www.last.fm/music/Guns+N%27+Roses/_/Welcome+to+the+Jungle</link>
-      <guid isPermaLink="false">manosg--1717488611--eeb1195b-f213-4ce1-b28c-8565211f8e43---Welcome to the Jungle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eed51418bdbc41bc9aa959de2d65dd5d.png" length="79649" type="image/png"/>
-      <pubDate>Tue, 04 Jun 2024 04:10:11 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Jun 2024 08:21:54 +0000</lastBuildDate>
     <item>
       <title>Simple Minds - Don't You (Forget About Me) - Remastered 2001 (4 plays)</title>
       <link>https://www.last.fm/music/Simple+Minds/_/Don%27t+You+(Forget+About+Me)+-+Remastered+2001</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1717572158--Sharon Jones and the Dap-Kings---Something's Changed</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/965b06493c1946aa9a033f1d060a838a.jpg" length="18192" type="image/jpeg"/>
       <pubDate>Wed, 05 Jun 2024 03:22:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sharon Jones and the Dap-Kings - Humble Me (1 play)</title>
+      <link>https://www.last.fm/music/Sharon+Jones+and+the+Dap-Kings/_/Humble+Me</link>
+      <guid isPermaLink="false">manosg--1717572554--Sharon Jones and the Dap-Kings---Humble Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/965b06493c1946aa9a033f1d060a838a.jpg" length="18192" type="image/jpeg"/>
+      <pubDate>Wed, 05 Jun 2024 03:29:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sharon Jones and the Dap-Kings - Keep On Looking (1 play)</title>
+      <link>https://www.last.fm/music/Sharon+Jones+and+the+Dap-Kings/_/Keep+On+Looking</link>
+      <guid isPermaLink="false">manosg--1717574120--Sharon Jones and the Dap-Kings---Keep On Looking</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/965b06493c1946aa9a033f1d060a838a.jpg" length="18192" type="image/jpeg"/>
+      <pubDate>Wed, 05 Jun 2024 03:55:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
