@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 05:17:42 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Lady Grinning Soul (60 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Lady+Grinning+Soul</link>
-      <guid isPermaLink="false">Frippertron-1717572407--5441c29d-3602-4898-b1a1-b77fa23b8e50---Lady Grinning Soul</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
-      <pubDate>Wed, 05 Jun 2024 03:26:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jun 2024 05:52:16 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Let's Spend the Night Together (76 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Let%27s+Spend+the+Night+Together</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1717650375--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Thu, 06 Jun 2024 01:06:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Funny Ways (26 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Funny+Ways</link>
+      <guid isPermaLink="false">Frippertron-1717652573--f795c501-1c41-4be2-bc2a-875eba75aa31---Funny Ways</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff768ce2e6bf181de04ce3684eab07ff.png" length="160763" type="image/png"/>
+      <pubDate>Thu, 06 Jun 2024 01:42:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
