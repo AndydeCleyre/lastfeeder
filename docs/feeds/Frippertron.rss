@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 03:38:32 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Cavalettas (4 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Cavalettas</link>
-      <guid isPermaLink="false">Frippertron-1717563322--20883363-1ea4-4d72-ad72-c0e767038f3e---Cavalettas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Wed, 05 Jun 2024 00:55:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Agadez (30 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Agadez</link>
-      <guid isPermaLink="false">Frippertron-1717564852--20883363-1ea4-4d72-ad72-c0e767038f3e---Agadez</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Wed, 05 Jun 2024 01:20:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Askepios (7 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Askepios</link>
-      <guid isPermaLink="false">Frippertron-1717565275--20883363-1ea4-4d72-ad72-c0e767038f3e---Askepios</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Wed, 05 Jun 2024 01:27:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jun 2024 03:52:13 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Ouroborous (6 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Ouroborous</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1717644836--f795c501-1c41-4be2-bc2a-875eba75aa31---Playing the Game</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc0cc5c317dd44fdba829ce907f50544.jpg" length="32135" type="image/jpeg"/>
       <pubDate>Wed, 05 Jun 2024 23:33:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - We Are the Dead (80 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/We+Are+the+Dead</link>
+      <guid isPermaLink="false">Frippertron-1717645247--5441c29d-3602-4898-b1a1-b77fa23b8e50---We Are the Dead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c502e85f1096b5ee462e10d45faf951.jpg" length="29325" type="image/jpeg"/>
+      <pubDate>Wed, 05 Jun 2024 23:40:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - 1984 (105 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/1984</link>
+      <guid isPermaLink="false">Frippertron-1717645549--5441c29d-3602-4898-b1a1-b77fa23b8e50---1984</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c502e85f1096b5ee462e10d45faf951.jpg" length="29325" type="image/jpeg"/>
+      <pubDate>Wed, 05 Jun 2024 23:45:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Low - I Can Wait (18 plays)</title>
+      <link>https://www.last.fm/music/Low/_/I+Can+Wait</link>
+      <guid isPermaLink="false">Frippertron-1717645752--92de643f-fa8f-4e68-b627-4376711b7b33---I Can Wait</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg" length="36303" type="image/jpeg"/>
+      <pubDate>Wed, 05 Jun 2024 23:49:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
