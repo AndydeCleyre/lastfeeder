@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 02:45:13 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - 1984/Dodo (42 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/1984%2FDodo</link>
-      <guid isPermaLink="false">Frippertron-1717559977--5441c29d-3602-4898-b1a1-b77fa23b8e50---1984/Dodo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 04 Jun 2024 23:59:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - All The Young Dudes (121 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/All+The+Young+Dudes</link>
-      <guid isPermaLink="false">Frippertron-1717560257--5441c29d-3602-4898-b1a1-b77fa23b8e50---All The Young Dudes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 05 Jun 2024 00:04:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jun 2024 02:56:58 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Aberinkula (17 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
@@ -51,7 +37,7 @@
       <pubDate>Wed, 05 Jun 2024 00:42:49 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Goliath (96 plays)</title>
+      <title>The Mars Volta - Goliath (97 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
       <guid isPermaLink="false">Frippertron-1717562728--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
@@ -72,7 +58,7 @@
       <pubDate>Wed, 05 Jun 2024 00:55:22 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Agadez (29 plays)</title>
+      <title>The Mars Volta - Agadez (30 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Agadez</link>
       <guid isPermaLink="false">Frippertron-1717564852--20883363-1ea4-4d72-ad72-c0e767038f3e---Agadez</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1717641647--20883363-1ea4-4d72-ad72-c0e767038f3e---Wax Simulacra</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Wed, 05 Jun 2024 22:40:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Goliath (97 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
+      <guid isPermaLink="false">Frippertron-1717641810--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Wed, 05 Jun 2024 22:43:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Agadez (30 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Agadez</link>
+      <guid isPermaLink="false">Frippertron-1717642251--20883363-1ea4-4d72-ad72-c0e767038f3e---Agadez</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Wed, 05 Jun 2024 22:50:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
