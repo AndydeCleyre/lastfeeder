@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 04:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Flick of the Wrist (79 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Flick+of+the+Wrist</link>
-      <guid isPermaLink="false">Frippertron-1717572020--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Flick of the Wrist</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e677a1c6e7284a5799823fb8137c88ca.png" length="173493" type="image/png"/>
-      <pubDate>Wed, 05 Jun 2024 03:20:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Cracked Actor (165 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Cracked+Actor</link>
-      <guid isPermaLink="false">Frippertron-1717572233--5441c29d-3602-4898-b1a1-b77fa23b8e50---Cracked Actor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44e400c8a87c94e62a6376d7e53ef764.png" length="88344" type="image/png"/>
-      <pubDate>Wed, 05 Jun 2024 03:23:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jun 2024 05:17:42 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Lady Grinning Soul (60 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Lady+Grinning+Soul</link>
@@ -114,14 +100,14 @@
       <pubDate>Wed, 05 Jun 2024 04:52:20 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Miranda That Ghost Just Isn't Holy Anymore (20 plays)</title>
+      <title>The Mars Volta - Miranda That Ghost Just Isn't Holy Anymore (21 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Miranda+That+Ghost+Just+Isn%27t+Holy+Anymore</link>
       <guid isPermaLink="false">Frippertron-1717578261--20883363-1ea4-4d72-ad72-c0e767038f3e---Miranda That Ghost Just Isn't Holy Anymore</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Wed, 05 Jun 2024 05:04:21 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Cassandra Gemini (70 plays)</title>
+      <title>The Mars Volta - Cassandra Gemini (71 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cassandra+Gemini</link>
       <guid isPermaLink="false">Frippertron-1717578811--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1717649150--The Mars Volta---L'Via L'Viaquezł</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
       <pubDate>Thu, 06 Jun 2024 00:45:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Miranda That Ghost Just Isn't Holy Anymore (21 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Miranda+That+Ghost+Just+Isn%27t+Holy+Anymore</link>
+      <guid isPermaLink="false">Frippertron-1717649894--20883363-1ea4-4d72-ad72-c0e767038f3e---Miranda That Ghost Just Isn't Holy Anymore</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Thu, 06 Jun 2024 00:58:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cassandra Gemini (71 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cassandra+Gemini</link>
+      <guid isPermaLink="false">Frippertron-1717650375--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Thu, 06 Jun 2024 01:06:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
