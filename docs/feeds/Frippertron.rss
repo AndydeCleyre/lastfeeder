@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 05:38:39 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Deirdre (86 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Deirdre</link>
-      <guid isPermaLink="false">Frippertron-1717663770--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Deirdre</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png" length="139263" type="image/png"/>
-      <pubDate>Thu, 06 Jun 2024 04:49:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - All I Wanna Do (152 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/All+I+Wanna+Do</link>
-      <guid isPermaLink="false">Frippertron-1717663980--ebfc1398-8d96-47e3-82c3-f782abcdb13d---All I Wanna Do</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png" length="139263" type="image/png"/>
-      <pubDate>Thu, 06 Jun 2024 04:53:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jun 2024 05:52:23 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Tetragrammaton (54 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1717738312--20883363-1ea4-4d72-ad72-c0e767038f3e---Askepios</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Fri, 07 Jun 2024 01:31:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Ouroborous (7 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Ouroborous</link>
+      <guid isPermaLink="false">Frippertron-1717738623--20883363-1ea4-4d72-ad72-c0e767038f3e---Ouroborous</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jun 2024 01:37:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Soothsayer (5 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Soothsayer</link>
+      <guid isPermaLink="false">Frippertron-1717739020--20883363-1ea4-4d72-ad72-c0e767038f3e---Soothsayer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Fri, 07 Jun 2024 01:43:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
