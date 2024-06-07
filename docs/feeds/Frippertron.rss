@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 03:20:53 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Metatron (24 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
-      <guid isPermaLink="false">Frippertron-1717657335--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Thu, 06 Jun 2024 03:02:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Cicatriz ESP (43 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Cicatriz+ESP</link>
-      <guid isPermaLink="false">Frippertron-1717657839--20883363-1ea4-4d72-ad72-c0e767038f3e---Cicatriz ESP</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
-      <pubDate>Thu, 06 Jun 2024 03:10:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - This Apparatus Must Be Unearthed (29 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/This+Apparatus+Must+Be+Unearthed</link>
-      <guid isPermaLink="false">Frippertron-1717658587--20883363-1ea4-4d72-ad72-c0e767038f3e---This Apparatus Must Be Unearthed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
-      <pubDate>Thu, 06 Jun 2024 03:23:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Jun 2024 03:38:21 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Take the Veil Cerpin Taxt (80 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Take+the+Veil+Cerpin+Taxt</link>
@@ -156,7 +135,7 @@
       <pubDate>Thu, 06 Jun 2024 04:36:50 -0400</pubDate>
     </item>
     <item>
-      <title>Teenage Fanclub - The Concept (10 plays)</title>
+      <title>Teenage Fanclub - The Concept (11 plays)</title>
       <link>https://www.last.fm/music/Teenage+Fanclub/_/The+Concept</link>
       <guid isPermaLink="false">Frippertron-1717663356--e6f8912b-7df9-4aae-b551-2cd03dc29588---The Concept</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/325679f84d274c55a544409d44a9ae73.png" length="37722" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1717729822--Genesis---Tonight, Tonight, Tonight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bf202251fb7131f6dbc08be64d0a43c5.png" length="137052" type="image/png"/>
       <pubDate>Thu, 06 Jun 2024 23:10:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Teenage Fanclub - The Concept (11 plays)</title>
+      <link>https://www.last.fm/music/Teenage+Fanclub/_/The+Concept</link>
+      <guid isPermaLink="false">Frippertron-1717730384--e6f8912b-7df9-4aae-b551-2cd03dc29588---The Concept</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/325679f84d274c55a544409d44a9ae73.png" length="37722" type="image/png"/>
+      <pubDate>Thu, 06 Jun 2024 23:19:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Shohei Amimori - Sonasile (5 plays)</title>
+      <link>https://www.last.fm/music/Shohei+Amimori/_/Sonasile</link>
+      <guid isPermaLink="false">Frippertron-1717730926--Shohei Amimori---Sonasile</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7408e98e38e9ba96d16a331374b5494.jpg" length="18072" type="image/jpeg"/>
+      <pubDate>Thu, 06 Jun 2024 23:28:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Shohei Amimori - Pool Table (5 plays)</title>
+      <link>https://www.last.fm/music/Shohei+Amimori/_/Pool+Table</link>
+      <guid isPermaLink="false">Frippertron-1717731220--Shohei Amimori---Pool Table</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7408e98e38e9ba96d16a331374b5494.jpg" length="18072" type="image/jpeg"/>
+      <pubDate>Thu, 06 Jun 2024 23:33:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
