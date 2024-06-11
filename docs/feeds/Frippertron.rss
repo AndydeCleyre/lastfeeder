@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 03:38:05 +0000</lastBuildDate>
-    <item>
-      <title>Charli XCX - So I (3 plays)</title>
-      <link>https://www.last.fm/music/Charli+XCX/_/So+I</link>
-      <guid isPermaLink="false">Frippertron-1717995911--260b6184-8828-48eb-945c-bc4cb6fc34ca---So I</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b00527c6ae0cd1d4c9bf3706b130ad56.jpg" length="3917" type="image/jpeg"/>
-      <pubDate>Mon, 10 Jun 2024 01:05:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Charli XCX - Girl, so confusing (3 plays)</title>
-      <link>https://www.last.fm/music/Charli+XCX/_/Girl,+so+confusing</link>
-      <guid isPermaLink="false">Frippertron-1717996123--260b6184-8828-48eb-945c-bc4cb6fc34ca---Girl, so confusing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b00527c6ae0cd1d4c9bf3706b130ad56.jpg" length="3917" type="image/jpeg"/>
-      <pubDate>Mon, 10 Jun 2024 01:08:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jun 2024 03:52:18 +0000</lastBuildDate>
     <item>
       <title>Charli XCX - Apple (4 plays)</title>
       <link>https://www.last.fm/music/Charli+XCX/_/Apple</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1718076490--678d88b2-87b0-403b-b63d-5da7465aecc3---In My Time of Dying</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 10 Jun 2024 23:28:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Song Remains the Same (174 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1718077281--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 10 Jun 2024 23:41:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Rain Song (105 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Rain+Song</link>
+      <guid isPermaLink="false">Frippertron-1718077590--678d88b2-87b0-403b-b63d-5da7465aecc3---The Rain Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 10 Jun 2024 23:46:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
