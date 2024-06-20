@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 12:34:15 +0000</lastBuildDate>
-    <item>
-      <title>The Menzingers - America (You're Freaking Me Out) (70 plays)</title>
-      <link>https://www.last.fm/music/The+Menzingers/_/America+(You%27re+Freaking+Me+Out)</link>
-      <guid isPermaLink="false">rockijosh-1718419512--3071d829-b9ca-4499-b4f5-74d6d8531aed---America (You're Freaking Me Out)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbef399b8286a4046f7df280ceaf6e74.jpg" length="17463" type="image/jpeg"/>
-      <pubDate>Fri, 14 Jun 2024 22:45:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Jun 2024 12:34:00 +0000</lastBuildDate>
     <item>
       <title>Kiiara - Wishlist (117 plays)</title>
       <link>https://www.last.fm/music/Kiiara/_/Wishlist</link>
@@ -352,11 +345,18 @@
       <pubDate>Tue, 18 Jun 2024 16:29:10 -0400</pubDate>
     </item>
     <item>
-      <title>The Killers - The Man (23 plays)</title>
+      <title>The Killers - The Man (24 plays)</title>
       <link>https://www.last.fm/music/The+Killers/_/The+Man</link>
       <guid isPermaLink="false">rockijosh-1718798532--95e1ead9-4d31-4808-a7ac-32c3614c116b---The Man</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80bd9d8fca45d2539a173f74ab95cd42.png" length="148089" type="image/png"/>
       <pubDate>Wed, 19 Jun 2024 08:02:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Killers - The Man (24 plays)</title>
+      <link>https://www.last.fm/music/The+Killers/_/The+Man</link>
+      <guid isPermaLink="false">rockijosh-1718800835--95e1ead9-4d31-4808-a7ac-32c3614c116b---The Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80bd9d8fca45d2539a173f74ab95cd42.png" length="148089" type="image/png"/>
+      <pubDate>Wed, 19 Jun 2024 08:40:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
