@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Jun 2024 01:16:14 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - Flamingo (109 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Flamingo</link>
-      <guid isPermaLink="false">Frippertron-1718701173--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Flamingo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58a0b35dae94252478938e42d6afbc94.jpg" length="44490" type="image/jpeg"/>
-      <pubDate>Tue, 18 Jun 2024 04:59:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Jun 2024 02:18:18 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Zen Archer (161 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Zen+Archer</link>
@@ -93,7 +86,7 @@
       <pubDate>Tue, 18 Jun 2024 05:40:18 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Viscera Eyes (11 plays)</title>
+      <title>The Mars Volta - Viscera Eyes (12 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Viscera+Eyes</link>
       <guid isPermaLink="false">Frippertron-1718703956--20883363-1ea4-4d72-ad72-c0e767038f3e---Viscera Eyes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1718844353--20883363-1ea4-4d72-ad72-c0e767038f3e---Drunkship of Lanterns</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f15f888aaf48a6971fd6b12ce532064f.jpg" length="15234" type="image/jpeg"/>
       <pubDate>Wed, 19 Jun 2024 20:45:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Viscera Eyes (12 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Viscera+Eyes</link>
+      <guid isPermaLink="false">Frippertron-1718849357--20883363-1ea4-4d72-ad72-c0e767038f3e---Viscera Eyes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Wed, 19 Jun 2024 22:09:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
