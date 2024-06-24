@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jun 2024 05:37:11 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Goliath (104 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
-      <guid isPermaLink="false">Frippertron-1718936942--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Thu, 20 Jun 2024 22:29:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Tourniquet Man (8 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Tourniquet+Man</link>
-      <guid isPermaLink="false">Frippertron-1718937377--20883363-1ea4-4d72-ad72-c0e767038f3e---Tourniquet Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Thu, 20 Jun 2024 22:36:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Cavalettas (6 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Cavalettas</link>
-      <guid isPermaLink="false">Frippertron-1718937535--20883363-1ea4-4d72-ad72-c0e767038f3e---Cavalettas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Thu, 20 Jun 2024 22:38:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jun 2024 05:52:13 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Metatron (48 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
@@ -100,7 +79,7 @@
       <pubDate>Sun, 23 Jun 2024 22:23:58 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Tetragrammaton (64 plays)</title>
+      <title>The Mars Volta - Tetragrammaton</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
       <guid isPermaLink="false">Frippertron-1719196342--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1719207081--XTC---Rocket From a Bottle</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8281a0ac73000ce53b80b0065484070.jpg" length="28709" type="image/jpeg"/>
       <pubDate>Mon, 24 Jun 2024 01:31:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Fuses (49 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Fuses</link>
+      <guid isPermaLink="false">Frippertron-1719207341--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Fuses</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5be4db107cf7f8e9def9338b87030ec7.jpg" length="9204" type="image/jpeg"/>
+      <pubDate>Mon, 24 Jun 2024 01:35:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Cybele's Reverie (32 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Cybele%27s+Reverie</link>
+      <guid isPermaLink="false">Frippertron-1719207569--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Cybele's Reverie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c6d45b90bbb0292d9da39e500da8103a.jpg" length="28509" type="image/jpeg"/>
+      <pubDate>Mon, 24 Jun 2024 01:39:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Dear Marge (10 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Dear+Marge</link>
+      <guid isPermaLink="false">Frippertron-1719207861--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Dear Marge</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1d64213cfe0aadaa44e3742014d02e4.jpg" length="17733" type="image/jpeg"/>
+      <pubDate>Mon, 24 Jun 2024 01:44:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
