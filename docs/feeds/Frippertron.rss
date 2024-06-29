@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Jun 2024 13:37:36 +0000</lastBuildDate>
-    <item>
-      <title>Van der Graaf Generator - Killer (45 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Killer</link>
-      <guid isPermaLink="false">Frippertron-1719564793--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Killer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0b078c13fab849c0c9d24bae6d42e0ee.jpg" length="19551" type="image/jpeg"/>
-      <pubDate>Fri, 28 Jun 2024 04:53:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Jun 2024 13:52:22 +0000</lastBuildDate>
     <item>
       <title>Scott Walker - The Seventh Seal (66 plays)</title>
       <link>https://www.last.fm/music/Scott+Walker/_/The+Seventh+Seal</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1719667663--b972f589-fb0e-474e-b64a-803b0364fa75---Requiem</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff6bd1c8845d12823e87dc6c2231f960.jpg" length="24980" type="image/jpeg"/>
       <pubDate>Sat, 29 Jun 2024 09:27:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wolfgang Amadeus Mozart - Dies Irae (3 plays)</title>
+      <link>https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Dies+Irae</link>
+      <guid isPermaLink="false">Frippertron-1719668239--b972f589-fb0e-474e-b64a-803b0364fa75---Dies Irae</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff6bd1c8845d12823e87dc6c2231f960.jpg" length="24980" type="image/jpeg"/>
+      <pubDate>Sat, 29 Jun 2024 09:37:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
