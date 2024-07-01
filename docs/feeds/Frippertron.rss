@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jul 2024 04:21:12 +0000</lastBuildDate>
-    <item>
-      <title>James Blake &amp; Lil Yachty - Missing Man (1 play)</title>
-      <link>https://www.last.fm/music/James+Blake+&amp;+Lil+Yachty/_/Missing+Man</link>
-      <guid isPermaLink="false">Frippertron-1719762330--James Blake &amp; Lil Yachty---Missing Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a40e9d2d1c297f8a445906f284d84b45.jpg" length="25004" type="image/jpeg"/>
-      <pubDate>Sun, 30 Jun 2024 11:45:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>James Blake &amp; Lil Yachty - Twice (1 play)</title>
-      <link>https://www.last.fm/music/James+Blake+&amp;+Lil+Yachty/_/Twice</link>
-      <guid isPermaLink="false">Frippertron-1719762567--James Blake &amp; Lil Yachty---Twice</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a40e9d2d1c297f8a445906f284d84b45.jpg" length="25004" type="image/jpeg"/>
-      <pubDate>Sun, 30 Jun 2024 11:49:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jul 2024 04:39:04 +0000</lastBuildDate>
     <item>
       <title>James Blake &amp; Lil Yachty - Transport Me (1 play)</title>
       <link>https://www.last.fm/music/James+Blake+&amp;+Lil+Yachty/_/Transport+Me</link>
@@ -184,7 +170,7 @@
       <pubDate>Sun, 30 Jun 2024 22:05:33 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Metatron (55 plays)</title>
+      <title>The Mars Volta - Metatron (56 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
       <guid isPermaLink="false">Frippertron-1719799953--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1719807478--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Mon, 01 Jul 2024 00:17:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Metatron (56 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
+      <guid isPermaLink="false">Frippertron-1719807825--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jul 2024 00:23:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Rain (56 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Rain</link>
+      <guid isPermaLink="false">Frippertron-1719808547--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Rain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f230878be193eb342aac37493199f1f.jpg" length="9218" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jul 2024 00:35:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
