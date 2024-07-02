@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jul 2024 05:37:33 +0000</lastBuildDate>
-    <item>
-      <title>Underworld - Pearl's Girl (28 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Pearl%27s+Girl</link>
-      <guid isPermaLink="false">Frippertron-1719810867--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Pearl's Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 01 Jul 2024 01:14:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Underworld - Jumbo (67 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Jumbo</link>
-      <guid isPermaLink="false">Frippertron-1719811503--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Jumbo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c743fcd76479462e9ec2c0601eb489f.jpg" length="10308" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jul 2024 01:25:03 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jul 2024 06:26:20 +0000</lastBuildDate>
     <item>
       <title>Underworld - Moaner (38 plays)</title>
       <link>https://www.last.fm/music/Underworld/_/Moaner</link>
@@ -79,7 +65,7 @@
       <pubDate>Mon, 01 Jul 2024 03:20:28 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Cygnus....Vismund Cygnus (80 plays)</title>
+      <title>The Mars Volta - Cygnus....Vismund Cygnus (81 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
       <guid isPermaLink="false">Frippertron-1719818944--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
@@ -142,7 +128,7 @@
       <pubDate>Mon, 01 Jul 2024 05:22:33 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Conjugal Burns (30 plays)</title>
+      <title>The Mars Volta - Conjugal Burns (31 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Conjugal+Burns</link>
       <guid isPermaLink="false">Frippertron-1719825853--20883363-1ea4-4d72-ad72-c0e767038f3e---Conjugal Burns</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1719897373--b892f72d-05e2-4ff7-b863-3d5dec6331fd---A Plague of Lighthouse Keepers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
       <pubDate>Tue, 02 Jul 2024 01:16:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Conjugal Burns (31 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Conjugal+Burns</link>
+      <guid isPermaLink="false">Frippertron-1719899597--20883363-1ea4-4d72-ad72-c0e767038f3e---Conjugal Burns</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jul 2024 01:53:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cygnus....Vismund Cygnus (81 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
+      <guid isPermaLink="false">Frippertron-1719900005--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jul 2024 02:00:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
