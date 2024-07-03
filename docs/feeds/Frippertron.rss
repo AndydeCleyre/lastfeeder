@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 02:45:39 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Down by the Seaside (43 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Down+by+the+Seaside</link>
-      <guid isPermaLink="false">Frippertron-1719897080--678d88b2-87b0-403b-b63d-5da7465aecc3---Down by the Seaside</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0a7049748eb25a46fee9c65116d9417.jpg" length="41587" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jul 2024 01:11:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>Van der Graaf Generator - A Plague of Lighthouse Keepers (53 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/A+Plague+of+Lighthouse+Keepers</link>
-      <guid isPermaLink="false">Frippertron-1719897373--b892f72d-05e2-4ff7-b863-3d5dec6331fd---A Plague of Lighthouse Keepers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jul 2024 01:16:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Conjugal Burns (32 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Conjugal+Burns</link>
-      <guid isPermaLink="false">Frippertron-1719899597--20883363-1ea4-4d72-ad72-c0e767038f3e---Conjugal Burns</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jul 2024 01:53:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jul 2024 03:20:00 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Cygnus....Vismund Cygnus (81 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
@@ -240,7 +219,7 @@
       <pubDate>Tue, 02 Jul 2024 05:49:32 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Tetragrammaton (73 plays)</title>
+      <title>The Mars Volta - Tetragrammaton (74 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
       <guid isPermaLink="false">Frippertron-1719914097--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1719974375--20883363-1ea4-4d72-ad72-c0e767038f3e---Drunkship of Lanterns</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
       <pubDate>Tue, 02 Jul 2024 22:39:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Eriatarka (23 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Eriatarka</link>
+      <guid isPermaLink="false">Frippertron-1719974826--20883363-1ea4-4d72-ad72-c0e767038f3e---Eriatarka</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
+      <pubDate>Tue, 02 Jul 2024 22:47:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Take the Veil Cerpin Taxt (91 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Take+the+Veil+Cerpin+Taxt</link>
+      <guid isPermaLink="false">Frippertron-1719975243--20883363-1ea4-4d72-ad72-c0e767038f3e---Take the Veil Cerpin Taxt</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
+      <pubDate>Tue, 02 Jul 2024 22:54:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (74 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1719975810--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jul 2024 23:03:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
