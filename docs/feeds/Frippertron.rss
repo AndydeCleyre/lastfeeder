@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 09:19:21 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - Too Far Gone (9 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Too+Far+Gone</link>
-      <guid isPermaLink="false">Frippertron-1719977549--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Too Far Gone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4ec07cf3d0ac97b82d023e7f31c0d69.jpg" length="22400" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jul 2024 23:32:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Todd Rundgren - Onomatopoeia (7 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Onomatopoeia</link>
-      <guid isPermaLink="false">Frippertron-1719977708--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Onomatopoeia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4ec07cf3d0ac97b82d023e7f31c0d69.jpg" length="22400" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jul 2024 23:35:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jul 2024 09:37:27 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Determination (7 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Determination</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1719998218--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Velvet Water</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5be4db107cf7f8e9def9338b87030ec7.jpg" length="9204" type="image/jpeg"/>
       <pubDate>Wed, 03 Jul 2024 05:16:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Blue Milk (21 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Blue+Milk</link>
+      <guid isPermaLink="false">Frippertron-1719998483--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Blue Milk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5be4db107cf7f8e9def9338b87030ec7.jpg" length="9204" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jul 2024 05:21:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stereolab - Caleidoscopic Gaze (17 plays)</title>
+      <link>https://www.last.fm/music/Stereolab/_/Caleidoscopic+Gaze</link>
+      <guid isPermaLink="false">Frippertron-1719999172--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Caleidoscopic Gaze</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5be4db107cf7f8e9def9338b87030ec7.jpg" length="9204" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jul 2024 05:32:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
