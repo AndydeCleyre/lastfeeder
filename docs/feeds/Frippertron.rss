@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 10:20:20 +0000</lastBuildDate>
-    <item>
-      <title>Todd Rundgren - You Cried Wolf (7 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/You+Cried+Wolf</link>
-      <guid isPermaLink="false">Frippertron-1719978360--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---You Cried Wolf</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4ec07cf3d0ac97b82d023e7f31c0d69.jpg" length="22400" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jul 2024 23:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Todd Rundgren - Lucky Guy (15 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/Lucky+Guy</link>
-      <guid isPermaLink="false">Frippertron-1719978513--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---Lucky Guy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4ec07cf3d0ac97b82d023e7f31c0d69.jpg" length="22400" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jul 2024 23:48:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jul 2024 10:39:51 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - Out Of Control (10 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/Out+Of+Control</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1720001829--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---Come And Play In The Milky Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5be4db107cf7f8e9def9338b87030ec7.jpg" length="9204" type="image/jpeg"/>
       <pubDate>Wed, 03 Jul 2024 06:17:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Custard Pie (56 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Custard+Pie</link>
+      <guid isPermaLink="false">Frippertron-1720002129--678d88b2-87b0-403b-b63d-5da7465aecc3---Custard Pie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0a7049748eb25a46fee9c65116d9417.jpg" length="41587" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jul 2024 06:22:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - In My Time of Dying (61 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/In+My+Time+of+Dying</link>
+      <guid isPermaLink="false">Frippertron-1720002380--678d88b2-87b0-403b-b63d-5da7465aecc3---In My Time of Dying</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0a7049748eb25a46fee9c65116d9417.jpg" length="41587" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jul 2024 06:26:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
