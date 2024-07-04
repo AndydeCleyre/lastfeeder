@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jul 2024 17:37:11 +0000</lastBuildDate>
-    <item>
-      <title>Alec Benjamin - Oh My God (10 plays)</title>
-      <link>https://www.last.fm/music/Alec+Benjamin/_/Oh+My+God</link>
-      <guid isPermaLink="false">gameofmetal-1719960849--21a14ee3-cede-420a-9d6d-a33517d2f952---Oh My God</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32b0a302b23f60dc3772a54680ab54a5.png" length="127565" type="image/png"/>
-      <pubDate>Tue, 02 Jul 2024 18:54:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Jul 2024 17:52:15 +0000</lastBuildDate>
     <item>
       <title>Woven Hand - White Bird (3 plays)</title>
       <link>https://www.last.fm/music/Woven+Hand/_/White+Bird</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1720114336--Slipknot---Three Nil</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17ee7d8b0afe402cc099e93149de5e56.png" length="184593" type="image/png"/>
       <pubDate>Thu, 04 Jul 2024 13:32:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Slipknot - Duality (2 plays)</title>
+      <link>https://www.last.fm/music/Slipknot/_/Duality</link>
+      <guid isPermaLink="false">gameofmetal-1720114624--Slipknot---Duality</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17ee7d8b0afe402cc099e93149de5e56.png" length="184593" type="image/png"/>
+      <pubDate>Thu, 04 Jul 2024 13:37:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
