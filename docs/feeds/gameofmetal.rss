@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jul 2024 04:23:09 +0000</lastBuildDate>
-    <item>
-      <title>Slipknot - Duality (2 plays)</title>
-      <link>https://www.last.fm/music/Slipknot/_/Duality</link>
-      <guid isPermaLink="false">gameofmetal-1720114624--Slipknot---Duality</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17ee7d8b0afe402cc099e93149de5e56.png" length="184593" type="image/png"/>
-      <pubDate>Thu, 04 Jul 2024 13:37:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Jul 2024 13:52:28 +0000</lastBuildDate>
     <item>
       <title>Slipknot - Opium of the People (2 plays)</title>
       <link>https://www.last.fm/music/Slipknot/_/Opium+of+the+People</link>
@@ -226,7 +219,7 @@
       <pubDate>Thu, 04 Jul 2024 21:46:27 -0400</pubDate>
     </item>
     <item>
-      <title>Zach Bryan - American Nights (1 play)</title>
+      <title>Zach Bryan - American Nights (2 plays)</title>
       <link>https://www.last.fm/music/Zach+Bryan/_/American+Nights</link>
       <guid isPermaLink="false">gameofmetal-1720144219--51e90731-08c0-4f60-89b6-5b78e5844de8---American Nights</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75a12d682dfc355068dbb83fb4ec458b.jpg" length="19559" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1720147775--51e90731-08c0-4f60-89b6-5b78e5844de8---28</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75a12d682dfc355068dbb83fb4ec458b.jpg" length="19559" type="image/jpeg"/>
       <pubDate>Thu, 04 Jul 2024 22:49:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Zach Bryan - American Nights (2 plays)</title>
+      <link>https://www.last.fm/music/Zach+Bryan/_/American+Nights</link>
+      <guid isPermaLink="false">gameofmetal-1720148008--51e90731-08c0-4f60-89b6-5b78e5844de8---American Nights</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75a12d682dfc355068dbb83fb4ec458b.jpg" length="19559" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jul 2024 22:53:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
