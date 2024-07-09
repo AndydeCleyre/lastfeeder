@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 19:52:11 +0000</lastBuildDate>
-    <item>
-      <title>Tones and I - Dance Monkey (11 plays)</title>
-      <link>https://www.last.fm/music/Tones+and+I/_/Dance+Monkey</link>
-      <guid isPermaLink="false">ddgromit-1720546801--663f33f4-8e5f-4773-93ea-493a1135de9a---Dance Monkey</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8fbef2e12a553040ae1cfdb86580acf.png" length="225067" type="image/png"/>
-      <pubDate>Tue, 09 Jul 2024 13:40:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>SG Lewis - Time (16 plays)</title>
-      <link>https://www.last.fm/music/SG+Lewis/_/Time</link>
-      <guid isPermaLink="false">ddgromit-1720547010--ab413f29-71af-4f7f-8ca8-5ece68beeaf3---Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96e71595a5af425183e5cd5ab32f414f.jpg" length="23851" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jul 2024 13:43:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Justice - Afterimage (4 plays)</title>
-      <link>https://www.last.fm/music/Justice/_/Afterimage</link>
-      <guid isPermaLink="false">ddgromit-1720547270--Justice---Afterimage</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ba0779aa934bfc8a4c885862f142add.jpg" length="11198" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jul 2024 13:47:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jul 2024 20:19:07 +0000</lastBuildDate>
     <item>
       <title>The Presets - This Boy's In Love (12 plays)</title>
       <link>https://www.last.fm/music/The+Presets/_/This+Boy%27s+In+Love</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">ddgromit-1720554559--183f1729-d4bd-4b5e-8907-69a91af03d2e---Sinuosity</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7836cf38c43b78e6eafb8aefe00cb51.jpg" length="12910" type="image/jpeg"/>
       <pubDate>Tue, 09 Jul 2024 15:49:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jóhann Jóhannsson - Camping (2 plays)</title>
+      <link>https://www.last.fm/music/J%C3%B3hann+J%C3%B3hannsson/_/Camping</link>
+      <guid isPermaLink="false">ddgromit-1720554651--578c1e77-4756-44dd-86a9-b1e71a5b635e---Camping</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f6804662865412fc15e40fd5778390f.jpg" length="38858" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jul 2024 15:50:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Angus MacRae - Lighthouse (1 play)</title>
+      <link>https://www.last.fm/music/Angus+MacRae/_/Lighthouse</link>
+      <guid isPermaLink="false">ddgromit-1720554731--4d354f10-35fb-4685-9e20-280bf33e5e05---Lighthouse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0aa9cb3bed2446282fd7e01923692f79.jpg" length="15536" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jul 2024 15:52:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>City of the Sun - Máscaras En El Viento (1 play)</title>
+      <link>https://www.last.fm/music/City+of+the+Sun/_/M%C3%A1scaras+En+El+Viento</link>
+      <guid isPermaLink="false">ddgromit-1720554881--055012f8-421f-448e-9741-23e8d82638f2---Máscaras En El Viento</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fbb2b7a9813e124ed2904796d795b83.jpg" length="5509" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jul 2024 15:54:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
