@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 22:39:05 +0000</lastBuildDate>
-    <item>
-      <title>Coldplay - Oceans (8 plays)</title>
-      <link>https://www.last.fm/music/Coldplay/_/Oceans</link>
-      <guid isPermaLink="false">TalonsOfFire-1720035688--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Oceans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7be747d414943fdc3f4de682eac3c7c.jpg" length="15471" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jul 2024 15:41:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jul 2024 22:52:10 +0000</lastBuildDate>
     <item>
       <title>Coldplay - Orphans (5 plays)</title>
       <link>https://www.last.fm/music/Coldplay/_/Orphans</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1720823532--959cf5bf-ee29-4af6-a85a-0b480181d988---Wrong</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19da134e5800bf86f00da3e4aeadc805.jpg" length="21087" type="image/jpeg"/>
       <pubDate>Fri, 12 Jul 2024 18:32:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bon Iver - 00000 Million (11 plays)</title>
+      <link>https://www.last.fm/music/Bon+Iver/_/00000+Million</link>
+      <guid isPermaLink="false">TalonsOfFire-1720823836--437a0e49-c6ae-42f6-a6c1-84f25ed366bc---00000 Million</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd5a54c0665691d78477d301755d7706.jpg" length="36646" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jul 2024 18:37:16 -0400</pubDate>
     </item>
   </channel>
 </rss>
