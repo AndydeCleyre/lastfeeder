@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 09:52:13 +0000</lastBuildDate>
-    <item>
-      <title>Peter Hammill - Tapeworm (44 plays)</title>
-      <link>https://www.last.fm/music/Peter+Hammill/_/Tapeworm</link>
-      <guid isPermaLink="false">Frippertron-1721014314--3b972356-4410-4858-ab9c-6e3c3cf76609---Tapeworm</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/146dd5cfc6093c67c24f8b045dee68c6.jpg" length="12619" type="image/jpeg"/>
-      <pubDate>Sun, 14 Jul 2024 23:31:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Peter Hammill - Gog Magog (In Bromine Chambers) (25 plays)</title>
-      <link>https://www.last.fm/music/Peter+Hammill/_/Gog+Magog+(In+Bromine+Chambers)</link>
-      <guid isPermaLink="false">Frippertron-1721014580--3b972356-4410-4858-ab9c-6e3c3cf76609---Gog Magog (In Bromine Chambers)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/146dd5cfc6093c67c24f8b045dee68c6.jpg" length="12619" type="image/jpeg"/>
-      <pubDate>Sun, 14 Jul 2024 23:36:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jul 2024 10:19:37 +0000</lastBuildDate>
     <item>
       <title>Todd Rundgren - The Verb to Love (16 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/The+Verb+to+Love</link>
@@ -72,7 +58,7 @@
       <pubDate>Mon, 15 Jul 2024 00:30:13 -0400</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Vicarious Atonement (8 plays)</title>
+      <title>The Mars Volta - Vicarious Atonement (9 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Vicarious+Atonement</link>
       <guid isPermaLink="false">Frippertron-1721018090--20883363-1ea4-4d72-ad72-c0e767038f3e---Vicarious Atonement</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
@@ -100,7 +86,7 @@
       <pubDate>Mon, 15 Jul 2024 01:13:28 -0400</pubDate>
     </item>
     <item>
-      <title>Van der Graaf Generator - Still Life (41 plays)</title>
+      <title>Van der Graaf Generator - Still Life (42 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Still+Life</link>
       <guid isPermaLink="false">Frippertron-1721020748--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f5ab94c05d4bcd0d1dcb60b03d741d1.jpg" length="14198" type="image/jpeg"/>
@@ -331,7 +317,7 @@
       <pubDate>Mon, 15 Jul 2024 04:52:45 -0400</pubDate>
     </item>
     <item>
-      <title>Van der Graaf Generator - Still Life (41 plays)</title>
+      <title>Van der Graaf Generator - Still Life (42 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Still+Life</link>
       <guid isPermaLink="false">Frippertron-1721033958--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65fbda46e75bfbe6a65c024b7b5c12ff.jpg" length="30577" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1721036582--b892f72d-05e2-4ff7-b863-3d5dec6331fd---A Plague of Lighthouse Keepers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e82d6d7d8cb90af0402fb28c9bd23083.jpg" length="29589" type="image/jpeg"/>
       <pubDate>Mon, 15 Jul 2024 05:43:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Vicarious Atonement (9 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Vicarious+Atonement</link>
+      <guid isPermaLink="false">Frippertron-1721037987--20883363-1ea4-4d72-ad72-c0e767038f3e---Vicarious Atonement</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Mon, 15 Jul 2024 06:06:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - Still Life (42 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/Still+Life</link>
+      <guid isPermaLink="false">Frippertron-1721038533--b892f72d-05e2-4ff7-b863-3d5dec6331fd---Still Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65fbda46e75bfbe6a65c024b7b5c12ff.jpg" length="30577" type="image/jpeg"/>
+      <pubDate>Mon, 15 Jul 2024 06:15:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
