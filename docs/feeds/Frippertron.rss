@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 05:52:11 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Baby Blue (20 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Baby+Blue</link>
-      <guid isPermaLink="false">Frippertron-1720972321--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Baby Blue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04b7083f32c345f5c5cef688b5fc123c.jpg" length="32731" type="image/jpeg"/>
-      <pubDate>Sun, 14 Jul 2024 11:52:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Shortenin' Bread (7 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Shortenin%27+Bread</link>
-      <guid isPermaLink="false">Frippertron-1720972537--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Shortenin' Bread</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04b7083f32c345f5c5cef688b5fc123c.jpg" length="32731" type="image/jpeg"/>
-      <pubDate>Sun, 14 Jul 2024 11:55:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jul 2024 06:27:34 +0000</lastBuildDate>
     <item>
       <title>Clarissa Connelly - Into This, Called Loneliness (1 play)</title>
       <link>https://www.last.fm/music/Clarissa+Connelly/_/Into+This,+Called+Loneliness</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1721022339--7d209631-ccb8-4a87-8516-64abe4c22dba---Nowhere/Catastrophe</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c96a7f2cc854dc1332030ea697a82f44.jpg" length="19427" type="image/jpeg"/>
       <pubDate>Mon, 15 Jul 2024 01:45:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ulver - Rolling Stone (22 plays)</title>
+      <link>https://www.last.fm/music/Ulver/_/Rolling+Stone</link>
+      <guid isPermaLink="false">Frippertron-1721022619--7d209631-ccb8-4a87-8516-64abe4c22dba---Rolling Stone</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c3085462af4c55e6f62a9e1c8dff2a4.jpg" length="12805" type="image/jpeg"/>
+      <pubDate>Mon, 15 Jul 2024 01:50:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - The Venus Of The Soup Kitchen (74 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/The+Venus+Of+The+Soup+Kitchen</link>
+      <guid isPermaLink="false">Frippertron-1721023005--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The Venus Of The Soup Kitchen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
+      <pubDate>Mon, 15 Jul 2024 01:56:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
