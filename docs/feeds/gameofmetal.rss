@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jul 2024 01:20:54 +0000</lastBuildDate>
-    <item>
-      <title>Tyler Childers - Jenny Lynn (1 play)</title>
-      <link>https://www.last.fm/music/Tyler+Childers/_/Jenny+Lynn</link>
-      <guid isPermaLink="false">gameofmetal-1721741511--9947e874-ddd0-4e1a-b0d4-a76f6532fe45---Jenny Lynn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e39dbf58f775adc67754bbe3cc5c436.jpg" length="17647" type="image/jpeg"/>
-      <pubDate>Tue, 23 Jul 2024 09:31:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jul 2024 12:35:11 +0000</lastBuildDate>
     <item>
       <title>Tyler Childers - Bonaparte's Retreat (1 play)</title>
       <link>https://www.last.fm/music/Tyler+Childers/_/Bonaparte%27s+Retreat</link>
@@ -352,11 +345,18 @@
       <pubDate>Tue, 23 Jul 2024 20:58:26 -0400</pubDate>
     </item>
     <item>
-      <title>Sorgsvart - Landesorg (1 play)</title>
+      <title>Sorgsvart - Landesorg (2 plays)</title>
       <link>https://www.last.fm/music/Sorgsvart/_/Landesorg</link>
       <guid isPermaLink="false">gameofmetal-1721783000--0ffc5e1e-bb85-4599-9369-518709648463---Landesorg</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b77ebb6038cbbe0d872cc603db6016bb.jpg" length="15677" type="image/jpeg"/>
       <pubDate>Tue, 23 Jul 2024 21:03:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sorgsvart - Landesorg (2 plays)</title>
+      <link>https://www.last.fm/music/Sorgsvart/_/Landesorg</link>
+      <guid isPermaLink="false">gameofmetal-1721783605--0ffc5e1e-bb85-4599-9369-518709648463---Landesorg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b77ebb6038cbbe0d872cc603db6016bb.jpg" length="15677" type="image/jpeg"/>
+      <pubDate>Tue, 23 Jul 2024 21:13:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
