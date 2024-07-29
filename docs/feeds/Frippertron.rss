@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jul 2024 05:38:21 +0000</lastBuildDate>
-    <item>
-      <title>Olivier Messiaen - Abime des oiseaux (1 play)</title>
-      <link>https://www.last.fm/music/Olivier+Messiaen/_/Abime+des+oiseaux</link>
-      <guid isPermaLink="false">Frippertron-1722175547--c6e5c5f4-984e-432a-87b8-b6afa288bca1---Abime des oiseaux</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0e2721f1d8d6ec74cdd8b4b8cdb9c83.jpg" length="17122" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jul 2024 10:05:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Olivier Messiaen - Intermède (2 plays)</title>
-      <link>https://www.last.fm/music/Olivier+Messiaen/_/Interm%C3%A8de</link>
-      <guid isPermaLink="false">Frippertron-1722176074--c6e5c5f4-984e-432a-87b8-b6afa288bca1---Intermède</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0e2721f1d8d6ec74cdd8b4b8cdb9c83.jpg" length="17122" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jul 2024 10:14:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jul 2024 05:52:15 +0000</lastBuildDate>
     <item>
       <title>Olivier Messiaen - Louange à l'Eternité de Jèsus (1 play)</title>
       <link>https://www.last.fm/music/Olivier+Messiaen/_/Louange+%C3%A0+l%27Eternit%C3%A9+de+J%C3%A8sus</link>
@@ -51,7 +37,7 @@
       <pubDate>Sun, 28 Jul 2024 10:40:21 -0400</pubDate>
     </item>
     <item>
-      <title>Van der Graaf Generator - The Sleepwalkers (41 plays)</title>
+      <title>Van der Graaf Generator - The Sleepwalkers (42 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
       <guid isPermaLink="false">Frippertron-1722219142--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1722230602--202b775a-83a8-4545-a165-2b54fca201ef---Below The Belt</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c31c27ae1fdc418f84e8e148a85203fd.jpg" length="35683" type="image/jpeg"/>
       <pubDate>Mon, 29 Jul 2024 01:23:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Scientist - Knock Out (2 plays)</title>
+      <link>https://www.last.fm/music/Scientist/_/Knock+Out</link>
+      <guid isPermaLink="false">Frippertron-1722230788--202b775a-83a8-4545-a165-2b54fca201ef---Knock Out</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c31c27ae1fdc418f84e8e148a85203fd.jpg" length="35683" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jul 2024 01:26:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - The Sleepwalkers (42 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
+      <guid isPermaLink="false">Frippertron-1722231883--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
+      <pubDate>Mon, 29 Jul 2024 01:44:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
