@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jul 2024 09:37:44 +0000</lastBuildDate>
-    <item>
-      <title>Queen - God Save the Queen (36 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/God+Save+the+Queen</link>
-      <guid isPermaLink="false">Frippertron-1722228940--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---God Save the Queen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53f9a7a666a54a2dac8aef408e491715.jpg" length="21094" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jul 2024 00:55:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Scientist - Seconds Away (2 plays)</title>
-      <link>https://www.last.fm/music/Scientist/_/Seconds+Away</link>
-      <guid isPermaLink="false">Frippertron-1722229017--202b775a-83a8-4545-a165-2b54fca201ef---Seconds Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c31c27ae1fdc418f84e8e148a85203fd.jpg" length="35683" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jul 2024 00:56:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jul 2024 09:52:38 +0000</lastBuildDate>
     <item>
       <title>Scientist - Straight Left (2 plays)</title>
       <link>https://www.last.fm/music/Scientist/_/Straight+Left</link>
@@ -86,7 +72,7 @@
       <pubDate>Mon, 29 Jul 2024 01:26:28 -0400</pubDate>
     </item>
     <item>
-      <title>Van der Graaf Generator - The Sleepwalkers (42 plays)</title>
+      <title>Van der Graaf Generator - The Sleepwalkers (43 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
       <guid isPermaLink="false">Frippertron-1722231883--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
@@ -219,7 +205,7 @@
       <pubDate>Mon, 29 Jul 2024 03:31:46 -0400</pubDate>
     </item>
     <item>
-      <title>Converge - Eagles Become Vultures</title>
+      <title>Converge - Eagles Become Vultures (13 plays)</title>
       <link>https://www.last.fm/music/Converge/_/Eagles+Become+Vultures</link>
       <guid isPermaLink="false">Frippertron-1722238691--fa31e7d4-a03a-4110-98fc-f8826e95ec25---Eagles Become Vultures</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/970e55ad87a14564adcfd9c44784405f.png" length="45133" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1722245605--fa31e7d4-a03a-4110-98fc-f8826e95ec25---Cruel Bloom</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d291ab9ac7f0cdbae2c100c7595853e7.png" length="269074" type="image/png"/>
       <pubDate>Mon, 29 Jul 2024 05:33:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Converge - Wretched World (3 plays)</title>
+      <link>https://www.last.fm/music/Converge/_/Wretched+World</link>
+      <guid isPermaLink="false">Frippertron-1722245847--fa31e7d4-a03a-4110-98fc-f8826e95ec25---Wretched World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d291ab9ac7f0cdbae2c100c7595853e7.png" length="269074" type="image/png"/>
+      <pubDate>Mon, 29 Jul 2024 05:37:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - The Sleepwalkers (43 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
+      <guid isPermaLink="false">Frippertron-1722246306--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
+      <pubDate>Mon, 29 Jul 2024 05:45:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
