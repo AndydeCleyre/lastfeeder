@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Aug 2024 21:52:32 +0000</lastBuildDate>
-    <item>
-      <title>Boris - Starship Narrator (2 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/Starship+Narrator</link>
-      <guid isPermaLink="false">lintmunro-1719717392--590702b8-e5fd-43f7-9472-5f062f8e311e---Starship Narrator</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08fd02ea77e218ec391e07dfd40b4156.jpg" length="26950" type="image/jpeg"/>
-      <pubDate>Sat, 29 Jun 2024 23:16:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Boris - My Rain (2 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/My+Rain</link>
-      <guid isPermaLink="false">lintmunro-1719717634--590702b8-e5fd-43f7-9472-5f062f8e311e---My Rain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08fd02ea77e218ec391e07dfd40b4156.jpg" length="26950" type="image/jpeg"/>
-      <pubDate>Sat, 29 Jun 2024 23:20:34 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Aug 2024 22:17:40 +0000</lastBuildDate>
     <item>
       <title>Kenny Beats - Leonard (2 plays)</title>
       <link>https://www.last.fm/music/Kenny+Beats/_/Leonard</link>
@@ -103,6 +89,7 @@
       <title>Seth - Et Que Vive le Diable ! (1 play)</title>
       <link>https://www.last.fm/music/Seth/_/Et+Que+Vive+le+Diable+!</link>
       <guid isPermaLink="false">lintmunro-1719959237--Seth---Et Que Vive le Diable !</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e82e5e0fda977232b113c959b6577f2.jpg" length="19679" type="image/jpeg"/>
       <pubDate>Tue, 02 Jul 2024 18:27:17 -0400</pubDate>
     </item>
     <item>
@@ -158,13 +145,13 @@
       <title>Beyond Creation - Elevation Path (1 play)</title>
       <link>https://www.last.fm/music/Beyond+Creation/_/Elevation+Path</link>
       <guid isPermaLink="false">lintmunro-1719960590--27a11ee4-9fcd-4834-978e-10f60faae646---Elevation Path</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cf2e34109edf493e99fbe191aca8e69a.png" length="239348" type="image/png"/>
       <pubDate>Tue, 02 Jul 2024 18:49:50 -0400</pubDate>
     </item>
     <item>
       <title>MØL - Sundrowned (1 play)</title>
       <link>https://www.last.fm/music/M%C3%98L/_/Sundrowned</link>
       <guid isPermaLink="false">lintmunro-1719960695--4e8dcb84-5d64-48fa-8182-7f8894551ad6---Sundrowned</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85bdfdc7d7e24787c70bf434a3080e64.jpg" length="12274" type="image/jpeg"/>
       <pubDate>Tue, 02 Jul 2024 18:51:35 -0400</pubDate>
     </item>
     <item>
@@ -213,7 +200,6 @@
       <title>Fred again.. - Desert Island Duvet - Mixed, Skinners Version (1 play)</title>
       <link>https://www.last.fm/music/Fred+again../_/Desert+Island+Duvet+-+Mixed,+Skinners+Version</link>
       <guid isPermaLink="false">lintmunro-1720822628--Fred again..---Desert Island Duvet - Mixed, Skinners Version</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2fca929895cf4d376e0290f363a89d6.jpg" length="23737" type="image/jpeg"/>
       <pubDate>Fri, 12 Jul 2024 18:17:08 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +341,20 @@
       <guid isPermaLink="false">lintmunro-1722548489--CIVEROUS---The Azure Eye</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c7a0b9457663aefd56b9161a26fbe0a.jpg" length="34589" type="image/jpeg"/>
       <pubDate>Thu, 01 Aug 2024 17:41:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>CIVEROUS - Shrouded In Crystals (1 play)</title>
+      <link>https://www.last.fm/music/CIVEROUS/_/Shrouded+In+Crystals</link>
+      <guid isPermaLink="false">lintmunro-1722548622--CIVEROUS---Shrouded In Crystals</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c7a0b9457663aefd56b9161a26fbe0a.jpg" length="34589" type="image/jpeg"/>
+      <pubDate>Thu, 01 Aug 2024 17:43:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>CIVEROUS - Endless Symmetry (1 play)</title>
+      <link>https://www.last.fm/music/CIVEROUS/_/Endless+Symmetry</link>
+      <guid isPermaLink="false">lintmunro-1722549620--CIVEROUS---Endless Symmetry</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c7a0b9457663aefd56b9161a26fbe0a.jpg" length="34589" type="image/jpeg"/>
+      <pubDate>Thu, 01 Aug 2024 18:00:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
