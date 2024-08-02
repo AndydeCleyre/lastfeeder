@@ -7,70 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Aug 2024 12:35:16 +0000</lastBuildDate>
-    <item>
-      <title>LUNA SEA - IN FUTURE (2 plays)</title>
-      <link>https://www.last.fm/music/LUNA+SEA/_/IN+FUTURE</link>
-      <guid isPermaLink="false">Frippertron-1722556531--e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5---IN FUTURE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78dbf72d1799f50ed5d2c20027496fd1.png" length="79937" type="image/png"/>
-      <pubDate>Thu, 01 Aug 2024 19:55:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>LUNA SEA - FAKE (2 plays)</title>
-      <link>https://www.last.fm/music/LUNA+SEA/_/FAKE</link>
-      <guid isPermaLink="false">Frippertron-1722556788--e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5---FAKE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78dbf72d1799f50ed5d2c20027496fd1.png" length="79937" type="image/png"/>
-      <pubDate>Thu, 01 Aug 2024 19:59:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>LUNA SEA - TRUE BLUE (2 plays)</title>
-      <link>https://www.last.fm/music/LUNA+SEA/_/TRUE+BLUE</link>
-      <guid isPermaLink="false">Frippertron-1722556980--e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5---TRUE BLUE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78dbf72d1799f50ed5d2c20027496fd1.png" length="79937" type="image/png"/>
-      <pubDate>Thu, 01 Aug 2024 20:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LUNA SEA - MOTHER (2 plays)</title>
-      <link>https://www.last.fm/music/LUNA+SEA/_/MOTHER</link>
-      <guid isPermaLink="false">Frippertron-1722557207--e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5---MOTHER</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78dbf72d1799f50ed5d2c20027496fd1.png" length="79937" type="image/png"/>
-      <pubDate>Thu, 01 Aug 2024 20:06:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>L'Arc~en~Ciel - Link -KISS Mix- (30 plays)</title>
-      <link>https://www.last.fm/music/L%27Arc~en~Ciel/_/Link+-KISS+Mix-</link>
-      <guid isPermaLink="false">Frippertron-1722557596--L'Arc~en~Ciel---Link -KISS Mix-</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b6c0bb56bd8464d90bfb7827488a341.jpg" length="13036" type="image/jpeg"/>
-      <pubDate>Thu, 01 Aug 2024 20:13:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>MALICE MIZER - au revoir (8 plays)</title>
-      <link>https://www.last.fm/music/MALICE+MIZER/_/au+revoir</link>
-      <guid isPermaLink="false">Frippertron-1722557889--3897cf7f-9aac-4eef-aacb-ca0accdee9a2---au revoir</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9133c519feb9bbd83cb701fe503c9734.png" length="103635" type="image/png"/>
-      <pubDate>Thu, 01 Aug 2024 20:18:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>MALICE MIZER - au revoir (8 plays)</title>
-      <link>https://www.last.fm/music/MALICE+MIZER/_/au+revoir</link>
-      <guid isPermaLink="false">Frippertron-1722558183--3897cf7f-9aac-4eef-aacb-ca0accdee9a2---au revoir</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9133c519feb9bbd83cb701fe503c9734.png" length="103635" type="image/png"/>
-      <pubDate>Thu, 01 Aug 2024 20:23:03 -0400</pubDate>
-    </item>
-    <item>
-      <title>GACKT - Ares (1 play)</title>
-      <link>https://www.last.fm/music/GACKT/_/Ares</link>
-      <guid isPermaLink="false">Frippertron-1722558477--e7a8e086-16df-44a7-91e4-640986bcff72---Ares</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96700b0f7f0fdf66e1acde11944aa097.png" length="181509" type="image/png"/>
-      <pubDate>Thu, 01 Aug 2024 20:27:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>GACKT - Asrun Dream (1 play)</title>
-      <link>https://www.last.fm/music/GACKT/_/Asrun+Dream</link>
-      <guid isPermaLink="false">Frippertron-1722558577--e7a8e086-16df-44a7-91e4-640986bcff72---Asrun Dream</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96700b0f7f0fdf66e1acde11944aa097.png" length="181509" type="image/png"/>
-      <pubDate>Thu, 01 Aug 2024 20:29:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Aug 2024 13:00:43 +0000</lastBuildDate>
     <item>
       <title>GACKT - 絵夢 ~for my dear~ (1 play)</title>
       <link>https://www.last.fm/music/GACKT/_/%E7%B5%B5%E5%A4%A2+~for+my+dear~</link>
@@ -355,7 +292,71 @@
       <title>Nick Garrie - Deeper Tones Of Blue (1 play)</title>
       <link>https://www.last.fm/music/Nick+Garrie/_/Deeper+Tones+Of+Blue</link>
       <guid isPermaLink="false">Frippertron-1722602013--551cc80d-d074-4c83-bb24-2fa5f654100c---Deeper Tones Of Blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b19fe8a748047bfa2c600a90d403c8e.jpg" length="29903" type="image/jpeg"/>
       <pubDate>Fri, 02 Aug 2024 08:33:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nick Garrie - Queen Of Dreams (1 play)</title>
+      <link>https://www.last.fm/music/Nick+Garrie/_/Queen+Of+Dreams</link>
+      <guid isPermaLink="false">Frippertron-1722602171--Nick Garrie---Queen Of Dreams</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b19fe8a748047bfa2c600a90d403c8e.jpg" length="29903" type="image/jpeg"/>
+      <pubDate>Fri, 02 Aug 2024 08:36:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nick Garrie - Wheel Of Fortune (1 play)</title>
+      <link>https://www.last.fm/music/Nick+Garrie/_/Wheel+Of+Fortune</link>
+      <guid isPermaLink="false">Frippertron-1722602369--551cc80d-d074-4c83-bb24-2fa5f654100c---Wheel Of Fortune</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b19fe8a748047bfa2c600a90d403c8e.jpg" length="29903" type="image/jpeg"/>
+      <pubDate>Fri, 02 Aug 2024 08:39:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nick Garrie - Evening (1 play)</title>
+      <link>https://www.last.fm/music/Nick+Garrie/_/Evening</link>
+      <guid isPermaLink="false">Frippertron-1722602596--551cc80d-d074-4c83-bb24-2fa5f654100c---Evening</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5b19fe8a748047bfa2c600a90d403c8e.jpg" length="29903" type="image/jpeg"/>
+      <pubDate>Fri, 02 Aug 2024 08:43:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>JPEGMAFIA - I SCREAM THIS IN THE MIRROR BEFORE I INTERACT WITH ANYONE (1 play)</title>
+      <link>https://www.last.fm/music/JPEGMAFIA/_/I+SCREAM+THIS+IN+THE+MIRROR+BEFORE+I+INTERACT+WITH+ANYONE</link>
+      <guid isPermaLink="false">Frippertron-1722602747--c42e60f4-4520-4954-b6e4-82bbdf532c11---I SCREAM THIS IN THE MIRROR BEFORE I INTERACT WITH ANYONE</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0fbf0601a554a6e1c61226c22f7909.jpg" length="15377" type="image/jpeg"/>
+      <pubDate>Fri, 02 Aug 2024 08:45:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>JPEGMAFIA - SIN MIEDO (1 play)</title>
+      <link>https://www.last.fm/music/JPEGMAFIA/_/SIN+MIEDO</link>
+      <guid isPermaLink="false">Frippertron-1722602857--c42e60f4-4520-4954-b6e4-82bbdf532c11---SIN MIEDO</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0fbf0601a554a6e1c61226c22f7909.jpg" length="15377" type="image/jpeg"/>
+      <pubDate>Fri, 02 Aug 2024 08:47:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>JPEGMAFIA - I'll Be Right There (1 play)</title>
+      <link>https://www.last.fm/music/JPEGMAFIA/_/I%27ll+Be+Right+There</link>
+      <guid isPermaLink="false">Frippertron-1722603023--c42e60f4-4520-4954-b6e4-82bbdf532c11---I'll Be Right There</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0fbf0601a554a6e1c61226c22f7909.jpg" length="15377" type="image/jpeg"/>
+      <pubDate>Fri, 02 Aug 2024 08:50:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>JPEGMAFIA - it's dark and hell is hot (1 play)</title>
+      <link>https://www.last.fm/music/JPEGMAFIA/_/it%27s+dark+and+hell+is+hot</link>
+      <guid isPermaLink="false">Frippertron-1722603191--c42e60f4-4520-4954-b6e4-82bbdf532c11---it's dark and hell is hot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0fbf0601a554a6e1c61226c22f7909.jpg" length="15377" type="image/jpeg"/>
+      <pubDate>Fri, 02 Aug 2024 08:53:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>JPEGMAFIA - New Black History (1 play)</title>
+      <link>https://www.last.fm/music/JPEGMAFIA/_/New+Black+History</link>
+      <guid isPermaLink="false">Frippertron-1722603342--JPEGMAFIA---New Black History</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0fbf0601a554a6e1c61226c22f7909.jpg" length="15377" type="image/jpeg"/>
+      <pubDate>Fri, 02 Aug 2024 08:55:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>JPEGMAFIA - don't rely on other men (1 play)</title>
+      <link>https://www.last.fm/music/JPEGMAFIA/_/don%27t+rely+on+other+men</link>
+      <guid isPermaLink="false">Frippertron-1722603478--c42e60f4-4520-4954-b6e4-82bbdf532c11---don't rely on other men</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0fbf0601a554a6e1c61226c22f7909.jpg" length="15377" type="image/jpeg"/>
+      <pubDate>Fri, 02 Aug 2024 08:57:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
