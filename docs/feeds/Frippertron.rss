@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 14:38:39 +0000</lastBuildDate>
-    <item>
-      <title>Van der Graaf Generator - The Sleepwalkers (50 plays)</title>
-      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
-      <guid isPermaLink="false">Frippertron-1722920529--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
-      <pubDate>Tue, 06 Aug 2024 01:02:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Aug 2024 17:18:13 +0000</lastBuildDate>
     <item>
       <title>Converge - You Fail Me (21 plays)</title>
       <link>https://www.last.fm/music/Converge/_/You+Fail+Me</link>
@@ -352,11 +345,18 @@
       <pubDate>Tue, 06 Aug 2024 06:41:17 -0400</pubDate>
     </item>
     <item>
-      <title>Beck - Debra (4 plays)</title>
+      <title>Beck - Debra (5 plays)</title>
       <link>https://www.last.fm/music/Beck/_/Debra</link>
       <guid isPermaLink="false">Frippertron-1722941232--Beck---Debra</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/458760ad7889b0019bee0403fce9629f.png" length="182454" type="image/png"/>
       <pubDate>Tue, 06 Aug 2024 06:47:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Beck - Debra (5 plays)</title>
+      <link>https://www.last.fm/music/Beck/_/Debra</link>
+      <guid isPermaLink="false">Frippertron-1722941491--Beck---Debra</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/458760ad7889b0019bee0403fce9629f.png" length="182454" type="image/png"/>
+      <pubDate>Tue, 06 Aug 2024 06:51:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
