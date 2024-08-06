@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 04:52:56 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Somebody to Love (123 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Somebody+to+Love</link>
-      <guid isPermaLink="false">Frippertron-1722847037--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Somebody to Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521b9bbc9a8b43ceb2eb008f5a23f90d.png" length="71521" type="image/png"/>
-      <pubDate>Mon, 05 Aug 2024 04:37:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Queen - White Man (38 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/White+Man</link>
-      <guid isPermaLink="false">Frippertron-1722847336--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---White Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/521b9bbc9a8b43ceb2eb008f5a23f90d.png" length="71521" type="image/png"/>
-      <pubDate>Mon, 05 Aug 2024 04:42:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Aug 2024 05:17:53 +0000</lastBuildDate>
     <item>
       <title>Queen - Good Old-Fashioned Lover Boy (78 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Good+Old-Fashioned+Lover+Boy</link>
@@ -163,7 +149,7 @@
       <pubDate>Mon, 05 Aug 2024 06:45:03 -0400</pubDate>
     </item>
     <item>
-      <title>Van der Graaf Generator - The Sleepwalkers (49 plays)</title>
+      <title>Van der Graaf Generator - The Sleepwalkers (50 plays)</title>
       <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
       <guid isPermaLink="false">Frippertron-1722910568--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1722919162--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---VROOOM</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 06 Aug 2024 00:39:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Van der Graaf Generator - The Sleepwalkers (50 plays)</title>
+      <link>https://www.last.fm/music/Van+der+Graaf+Generator/_/The+Sleepwalkers</link>
+      <guid isPermaLink="false">Frippertron-1722920529--b892f72d-05e2-4ff7-b863-3d5dec6331fd---The Sleepwalkers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7aacdf522bae46b1c63926f0271e0acf.png" length="50289" type="image/png"/>
+      <pubDate>Tue, 06 Aug 2024 01:02:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Converge - You Fail Me (21 plays)</title>
+      <link>https://www.last.fm/music/Converge/_/You+Fail+Me</link>
+      <guid isPermaLink="false">Frippertron-1722921177--fa31e7d4-a03a-4110-98fc-f8826e95ec25---You Fail Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/970e55ad87a14564adcfd9c44784405f.png" length="45133" type="image/png"/>
+      <pubDate>Tue, 06 Aug 2024 01:12:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
