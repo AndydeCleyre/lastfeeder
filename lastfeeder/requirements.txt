@@ -1,6 +1,6 @@
 anyio==4.4.0
     # via httpx
-babel==2.15.0
+babel==2.16.0
     # via delorean
 certifi==2024.7.4
     # via
