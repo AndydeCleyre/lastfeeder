@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Aug 2024 19:37:56 +0000</lastBuildDate>
-    <item>
-      <title>Rik Schaffer - The Heart of Nirn (1 play)</title>
-      <link>https://www.last.fm/music/Rik+Schaffer/_/The+Heart+of+Nirn</link>
-      <guid isPermaLink="false">TalonsOfFire-1722801970--Rik Schaffer---The Heart of Nirn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/120ad6edafa9446fc453a76e1dccfbd5.jpg" length="23347" type="image/jpeg"/>
-      <pubDate>Sun, 04 Aug 2024 16:06:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Aug 2024 20:19:43 +0000</lastBuildDate>
     <item>
       <title>Inon Zur - Coming Home (1 play)</title>
       <link>https://www.last.fm/music/Inon+Zur/_/Coming+Home</link>
@@ -40,12 +33,14 @@
       <title>Inon Zur - Anew (1 play)</title>
       <link>https://www.last.fm/music/Inon+Zur/_/Anew</link>
       <guid isPermaLink="false">TalonsOfFire-1722802940--ba23bac1-2b00-43fb-95e5-c3c0fd286e7e---Anew</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6fa15b4af43f48a8e2b56fd5b199ee1f.jpg" length="24773" type="image/jpeg"/>
       <pubDate>Sun, 04 Aug 2024 16:22:20 -0400</pubDate>
     </item>
     <item>
       <title>Inon Zur - Ancient Fragments (1 play)</title>
       <link>https://www.last.fm/music/Inon+Zur/_/Ancient+Fragments</link>
       <guid isPermaLink="false">TalonsOfFire-1722803120--ba23bac1-2b00-43fb-95e5-c3c0fd286e7e---Ancient Fragments</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6fa15b4af43f48a8e2b56fd5b199ee1f.jpg" length="24773" type="image/jpeg"/>
       <pubDate>Sun, 04 Aug 2024 16:25:20 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1723230215--Alora Crucible---Unseen Ending in the Grass Above</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4144831180169dd564490ab62eafc2a3.jpg" length="35371" type="image/jpeg"/>
       <pubDate>Fri, 09 Aug 2024 15:03:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Alora Crucible - Spindle's Whorl (1 play)</title>
+      <link>https://www.last.fm/music/Alora+Crucible/_/Spindle%27s+Whorl</link>
+      <guid isPermaLink="false">TalonsOfFire-1723231434--Alora Crucible---Spindle's Whorl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4144831180169dd564490ab62eafc2a3.jpg" length="35371" type="image/jpeg"/>
+      <pubDate>Fri, 09 Aug 2024 15:23:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
