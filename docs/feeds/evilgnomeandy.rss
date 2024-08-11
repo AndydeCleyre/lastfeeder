@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Aug 2024 22:37:39 +0000</lastBuildDate>
-    <item>
-      <title>LA LOM - San Fernando Rose (2 plays)</title>
-      <link>https://www.last.fm/music/LA+LOM/_/San+Fernando+Rose</link>
-      <guid isPermaLink="false">evilgnomeandy-1723060060--bf1bfb17-109c-4b28-bf36-aef587976343---San Fernando Rose</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 07 Aug 2024 15:47:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Aug 2024 20:19:12 +0000</lastBuildDate>
     <item>
       <title>LA LOM - Alvarado (2 plays)</title>
       <link>https://www.last.fm/music/LA+LOM/_/Alvarado</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1723329035--f96de591-5dae-41da-855b-eb387d88d7d4---Eatin' Dust</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/83952976a0ce19fcbe11809985ce6981.png" length="91290" type="image/png"/>
       <pubDate>Sat, 10 Aug 2024 18:30:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sheva - Salaam (2 plays)</title>
+      <link>https://www.last.fm/music/Sheva/_/Salaam</link>
+      <guid isPermaLink="false">evilgnomeandy-1723329161--82ba2800-dafc-4792-8a85-e492eea5416a---Salaam</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 10 Aug 2024 18:32:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
