@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 06:26:51 +0000</lastBuildDate>
-    <item>
-      <title>Michael Jackson - 2 Bad (1 play)</title>
-      <link>https://www.last.fm/music/Michael+Jackson/_/2+Bad</link>
-      <guid isPermaLink="false">Frippertron-1723419390--f27ec8db-af05-4f36-916e-3d57f91ecf5e---2 Bad</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/124d91edf558a82a897dbd4c798fdaca.jpg" length="24138" type="image/jpeg"/>
-      <pubDate>Sun, 11 Aug 2024 19:36:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Aug 2024 07:17:37 +0000</lastBuildDate>
     <item>
       <title>Michael Jackson - You Are Not Alone (1 play)</title>
       <link>https://www.last.fm/music/Michael+Jackson/_/You+Are+Not+Alone</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1723442381--429f9fbf-0a0b-4a9e-a88c-94d48aa466ed---Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1b2cc00b0a64a06970ec026ecedbbda.png" length="122369" type="image/png"/>
       <pubDate>Mon, 12 Aug 2024 01:59:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cassandra Gemini (94 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cassandra+Gemini</link>
+      <guid isPermaLink="false">Frippertron-1723446268--20883363-1ea4-4d72-ad72-c0e767038f3e---Cassandra Gemini</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
+      <pubDate>Mon, 12 Aug 2024 03:04:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
