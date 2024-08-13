@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 04:22:15 +0000</lastBuildDate>
-    <item>
-      <title>black midi - Ascending Forth (127 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/Ascending+Forth</link>
-      <guid isPermaLink="false">Frippertron-1723452712--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---Ascending Forth</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
-      <pubDate>Mon, 12 Aug 2024 04:51:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Tetragrammaton (90 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
-      <guid isPermaLink="false">Frippertron-1723454371--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
-      <pubDate>Mon, 12 Aug 2024 05:19:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Aug 2024 04:40:04 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Wax Simulacra (108 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Wax+Simulacra</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1723521977--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Lament</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 13 Aug 2024 00:06:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bun B - The Inauguration (38 plays)</title>
+      <link>https://www.last.fm/music/Bun+B/_/The+Inauguration</link>
+      <guid isPermaLink="false">Frippertron-1723523645--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---The Inauguration</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c54ed3a4e2cc0c48c0a068a789af88.jpg" length="26536" type="image/jpeg"/>
+      <pubDate>Tue, 13 Aug 2024 00:34:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bun B - Bun (16 plays)</title>
+      <link>https://www.last.fm/music/Bun+B/_/Bun</link>
+      <guid isPermaLink="false">Frippertron-1723523759--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Bun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1c54ed3a4e2cc0c48c0a068a789af88.jpg" length="26536" type="image/jpeg"/>
+      <pubDate>Tue, 13 Aug 2024 00:35:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
