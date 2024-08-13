@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 17:17:06 +0000</lastBuildDate>
-    <item>
-      <title>Chris Stapleton - What Am I Gonna Do (4 plays)</title>
-      <link>https://www.last.fm/music/Chris+Stapleton/_/What+Am+I+Gonna+Do</link>
-      <guid isPermaLink="false">gameofmetal-1723486540--71d58182-aa37-4c04-b21a-efe46ea0f221---What Am I Gonna Do</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17ee2917ae8c0d0fe89f6e8cc03de842.png" length="68739" type="image/png"/>
-      <pubDate>Mon, 12 Aug 2024 14:15:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Chris Stapleton - South Dakota (4 plays)</title>
-      <link>https://www.last.fm/music/Chris+Stapleton/_/South+Dakota</link>
-      <guid isPermaLink="false">gameofmetal-1723487396--71d58182-aa37-4c04-b21a-efe46ea0f221---South Dakota</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17ee2917ae8c0d0fe89f6e8cc03de842.png" length="68739" type="image/png"/>
-      <pubDate>Mon, 12 Aug 2024 14:29:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Aug 2024 17:38:21 +0000</lastBuildDate>
     <item>
       <title>Chris Stapleton - Trust (5 plays)</title>
       <link>https://www.last.fm/music/Chris+Stapleton/_/Trust</link>
@@ -348,6 +334,7 @@
       <title>Sam Barber - Straight and Narrow (1 play)</title>
       <link>https://www.last.fm/music/Sam+Barber/_/Straight+and+Narrow</link>
       <guid isPermaLink="false">gameofmetal-1723568578--Sam Barber---Straight and Narrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a1502850eb4624e174f3dd0420f9dd9.png" length="162492" type="image/png"/>
       <pubDate>Tue, 13 Aug 2024 13:02:58 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1723568881--Woven Hand---Sparrow Falls</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a253b500e02b46778c0b10fdc97fb514.png" length="188560" type="image/png"/>
       <pubDate>Tue, 13 Aug 2024 13:08:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Woven Hand - Bleary Eyed Duty (1 play)</title>
+      <link>https://www.last.fm/music/Woven+Hand/_/Bleary+Eyed+Duty</link>
+      <guid isPermaLink="false">gameofmetal-1723569165--Woven Hand---Bleary Eyed Duty</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a253b500e02b46778c0b10fdc97fb514.png" length="188560" type="image/png"/>
+      <pubDate>Tue, 13 Aug 2024 13:12:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Woven Hand - To Make a Ring (1 play)</title>
+      <link>https://www.last.fm/music/Woven+Hand/_/To+Make+a+Ring</link>
+      <guid isPermaLink="false">gameofmetal-1723569436--Woven Hand---To Make a Ring</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a253b500e02b46778c0b10fdc97fb514.png" length="188560" type="image/png"/>
+      <pubDate>Tue, 13 Aug 2024 13:17:16 -0400</pubDate>
     </item>
   </channel>
 </rss>
