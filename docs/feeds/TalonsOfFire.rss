@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 19:52:51 +0000</lastBuildDate>
-    <item>
-      <title>坂本龍一 - Bachata (1 play)</title>
-      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Bachata</link>
-      <guid isPermaLink="false">TalonsOfFire-1723404743--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Bachata</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d0bd91a2d3928fe5ddd389639ec33e7.jpg" length="2176" type="image/jpeg"/>
-      <pubDate>Sun, 11 Aug 2024 15:32:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>坂本龍一 - Chanson (1 play)</title>
-      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Chanson</link>
-      <guid isPermaLink="false">TalonsOfFire-1723405778--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Chanson</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6d0bd91a2d3928fe5ddd389639ec33e7.jpg" length="2176" type="image/jpeg"/>
-      <pubDate>Sun, 11 Aug 2024 15:49:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Aug 2024 18:25:08 +0000</lastBuildDate>
     <item>
       <title>坂本龍一 - Distant Echo (1 play)</title>
       <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Distant+Echo</link>
@@ -303,11 +289,18 @@
       <pubDate>Tue, 13 Aug 2024 15:09:55 -0400</pubDate>
     </item>
     <item>
-      <title>Ramin Djawadi - Lament (1 play)</title>
+      <title>Ramin Djawadi - Lament (2 plays)</title>
       <link>https://www.last.fm/music/Ramin+Djawadi/_/Lament</link>
       <guid isPermaLink="false">TalonsOfFire-1723576379--f089f636-6b85-4e0e-a192-0d30ed2b44d1---Lament</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c92628a2ae4e00b477cb1bbe8c7b17a6.png" length="210760" type="image/png"/>
       <pubDate>Tue, 13 Aug 2024 15:12:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ramin Djawadi - Lament (2 plays)</title>
+      <link>https://www.last.fm/music/Ramin+Djawadi/_/Lament</link>
+      <guid isPermaLink="false">TalonsOfFire-1723576590--f089f636-6b85-4e0e-a192-0d30ed2b44d1---Lament</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c92628a2ae4e00b477cb1bbe8c7b17a6.png" length="210760" type="image/png"/>
+      <pubDate>Tue, 13 Aug 2024 15:16:30 -0400</pubDate>
     </item>
     <item>
       <title>Ramin Djawadi - The Language of Girls (1 play)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1723578209--f089f636-6b85-4e0e-a192-0d30ed2b44d1---Remembering Those Who Came Before</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/371b15c18ecb48d17576bea730f0e7c1.jpg" length="20801" type="image/jpeg"/>
       <pubDate>Tue, 13 Aug 2024 15:43:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ramin Djawadi - A Raven from King's Landing (1 play)</title>
+      <link>https://www.last.fm/music/Ramin+Djawadi/_/A+Raven+from+King%27s+Landing</link>
+      <guid isPermaLink="false">TalonsOfFire-1723659599--f089f636-6b85-4e0e-a192-0d30ed2b44d1---A Raven from King's Landing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0506c302f7c4fbc99f555751dc1b2a6.png" length="140830" type="image/png"/>
+      <pubDate>Wed, 14 Aug 2024 14:19:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
