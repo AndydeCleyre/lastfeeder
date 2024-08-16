@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Aug 2024 06:42:18 +0000</lastBuildDate>
-    <item>
-      <title>Steely Dan - Home At Last (11 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/Home+At+Last</link>
-      <guid isPermaLink="false">manosg--1723703646--e01c3376-15fa-40d7-b747-5f219bdefdd7---Home At Last</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Thu, 15 Aug 2024 02:34:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Steely Dan - I Got The News (9 plays)</title>
-      <link>https://www.last.fm/music/Steely+Dan/_/I+Got+The+News</link>
-      <guid isPermaLink="false">manosg--1723703981--e01c3376-15fa-40d7-b747-5f219bdefdd7---I Got The News</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
-      <pubDate>Thu, 15 Aug 2024 02:39:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Aug 2024 06:53:57 +0000</lastBuildDate>
     <item>
       <title>Steely Dan - Josie (11 plays)</title>
       <link>https://www.last.fm/music/Steely+Dan/_/Josie</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1723789777--Leonard Cohen---Hey, That's No Way To Say Goodbye - Live In London</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/625f99bef48d46088549519a6502ab8b.png" length="155223" type="image/png"/>
       <pubDate>Fri, 16 Aug 2024 02:29:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Anthem - Live In London (4 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Anthem+-+Live+In+London</link>
+      <guid isPermaLink="false">manosg--1723790521--65314b12-0e08-43fa-ba33-baaa7b874c15---Anthem - Live In London</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/625f99bef48d46088549519a6502ab8b.png" length="155223" type="image/png"/>
+      <pubDate>Fri, 16 Aug 2024 02:42:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leonard Cohen - Introduction - Live In London (3 plays)</title>
+      <link>https://www.last.fm/music/Leonard+Cohen/_/Introduction+-+Live+In+London</link>
+      <guid isPermaLink="false">manosg--1723790963--65314b12-0e08-43fa-ba33-baaa7b874c15---Introduction - Live In London</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/625f99bef48d46088549519a6502ab8b.png" length="155223" type="image/png"/>
+      <pubDate>Fri, 16 Aug 2024 02:49:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
