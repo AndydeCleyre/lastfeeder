@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 18:39:22 +0000</lastBuildDate>
-    <item>
-      <title>Sault - Why Why Why Why Why (3 plays)</title>
-      <link>https://www.last.fm/music/Sault/_/Why+Why+Why+Why+Why</link>
-      <guid isPermaLink="false">ddgromit-1723752502--23b19bc5-813e-4456-bbae-ac3ca118f535---Why Why Why Why Why</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b4174b192e503b25420a484913fb764.jpg" length="3605" type="image/jpeg"/>
-      <pubDate>Thu, 15 Aug 2024 16:08:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>John Vincent III - Topanga Canyon (3 plays)</title>
-      <link>https://www.last.fm/music/John+Vincent+III/_/Topanga+Canyon</link>
-      <guid isPermaLink="false">ddgromit-1723752740--John Vincent III---Topanga Canyon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8dbb89655e5a420dffaa0f028a0abe97.jpg" length="25742" type="image/jpeg"/>
-      <pubDate>Thu, 15 Aug 2024 16:12:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Aug 2024 04:21:40 +0000</lastBuildDate>
     <item>
       <title>Bay Ledges - Pink Sky (3 plays)</title>
       <link>https://www.last.fm/music/Bay+Ledges/_/Pink+Sky</link>
@@ -352,11 +338,24 @@
       <pubDate>Sun, 18 Aug 2024 11:56:51 -0400</pubDate>
     </item>
     <item>
+      <title>Jewel - Intuition (2 plays)</title>
+      <link>https://www.last.fm/music/Jewel/_/Intuition</link>
+      <guid isPermaLink="false">ddgromit-1724005703--Jewel---Intuition</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe9e8f87940e4df8adf97810ebb2f22f.png" length="117255" type="image/png"/>
+      <pubDate>Sun, 18 Aug 2024 14:28:23 -0400</pubDate>
+    </item>
+    <item>
       <title>Solar Heavy - It's Not Too Late (1 play)</title>
       <link>https://www.last.fm/music/Solar+Heavy/_/It%27s+Not+Too+Late</link>
       <guid isPermaLink="false">ddgromit-1724005725--caa70356-278c-468c-baa9-f29ff76fd867---It's Not Too Late</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/545ef121f273c8b8e8ae5b3590b45260.jpg" length="19215" type="image/jpeg"/>
       <pubDate>Sun, 18 Aug 2024 14:28:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Solar Heavy - Memories (1 play)</title>
+      <link>https://www.last.fm/music/Solar+Heavy/_/Memories</link>
+      <guid isPermaLink="false">ddgromit-1724005938--caa70356-278c-468c-baa9-f29ff76fd867---Memories</guid>
+      <pubDate>Sun, 18 Aug 2024 14:32:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
