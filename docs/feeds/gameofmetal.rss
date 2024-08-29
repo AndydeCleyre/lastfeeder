@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 19:16:04 +0000</lastBuildDate>
-    <item>
-      <title>Sturgill Simpson - Some Days (2 plays)</title>
-      <link>https://www.last.fm/music/Sturgill+Simpson/_/Some+Days</link>
-      <guid isPermaLink="false">gameofmetal-1724780069--f6e61750-a6b7-4d88-979b-052345cd0e4a---Some Days</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/497278cdb9f9441c9d9fc237ed37420a.jpg" length="35673" type="image/jpeg"/>
-      <pubDate>Tue, 27 Aug 2024 13:34:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sturgill Simpson - Old King Coal (2 plays)</title>
-      <link>https://www.last.fm/music/Sturgill+Simpson/_/Old+King+Coal</link>
-      <guid isPermaLink="false">gameofmetal-1724780279--f6e61750-a6b7-4d88-979b-052345cd0e4a---Old King Coal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/497278cdb9f9441c9d9fc237ed37420a.jpg" length="35673" type="image/jpeg"/>
-      <pubDate>Tue, 27 Aug 2024 13:37:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Aug 2024 19:38:23 +0000</lastBuildDate>
     <item>
       <title>Sturgill Simpson - Poor Rambler (2 plays)</title>
       <link>https://www.last.fm/music/Sturgill+Simpson/_/Poor+Rambler</link>
@@ -355,7 +341,22 @@
       <title>Fauna - Rain, Pt. 1 (2 plays)</title>
       <link>https://www.last.fm/music/Fauna/_/Rain,+Pt.+1</link>
       <guid isPermaLink="false">gameofmetal-1724955055--Fauna---Rain, Pt. 1</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b655dd978c44ea0a61308d4ff0484c4.jpg" length="8346" type="image/jpeg"/>
       <pubDate>Thu, 29 Aug 2024 14:10:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fauna - Rain, Pt. 2 (1 play)</title>
+      <link>https://www.last.fm/music/Fauna/_/Rain,+Pt.+2</link>
+      <guid isPermaLink="false">gameofmetal-1724958349--Fauna---Rain, Pt. 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b655dd978c44ea0a61308d4ff0484c4.jpg" length="8346" type="image/jpeg"/>
+      <pubDate>Thu, 29 Aug 2024 15:05:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>svrm - Corvus cornix (1 play)</title>
+      <link>https://www.last.fm/music/svrm/_/Corvus+cornix</link>
+      <guid isPermaLink="false">gameofmetal-1724960016--cde5d98d-307c-48f5-b708-c881aba05655---Corvus cornix</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e4db747047b7d4aac17b0e91726f0a40.jpg" length="19245" type="image/jpeg"/>
+      <pubDate>Thu, 29 Aug 2024 15:33:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
