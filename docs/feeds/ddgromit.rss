@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 11:39:14 +0000</lastBuildDate>
-    <item>
-      <title>Chappell Roan - Pink Pony Club (3 plays)</title>
-      <link>https://www.last.fm/music/Chappell+Roan/_/Pink+Pony+Club</link>
-      <guid isPermaLink="false">ddgromit-1725036600--56a55378-f155-48de-80a5-d80104221267---Pink Pony Club</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00ea6feb47ffedb1aa6dde74ed613bd5.jpg" length="15099" type="image/jpeg"/>
-      <pubDate>Fri, 30 Aug 2024 12:50:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Sep 2024 12:38:44 +0000</lastBuildDate>
     <item>
       <title>Chappell Roan - Red Wine Supernova (11 plays)</title>
       <link>https://www.last.fm/music/Chappell+Roan/_/Red+Wine+Supernova</link>
@@ -138,6 +131,7 @@
       <title>Cocomelon - Five Little Monkeys Jumping on the Bed (7 plays)</title>
       <link>https://www.last.fm/music/Cocomelon/_/Five+Little+Monkeys+Jumping+on+the+Bed</link>
       <guid isPermaLink="false">ddgromit-1725203996--Cocomelon---Five Little Monkeys Jumping on the Bed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8b6e9ac2e7f13c364482b094f238275.jpg" length="23896" type="image/jpeg"/>
       <pubDate>Sun, 01 Sep 2024 11:19:56 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1725275862--Acerting Art---Nature Sounds Night</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4073e22d3a98c95ec159e0c42b44380c.jpg" length="20555" type="image/jpeg"/>
       <pubDate>Mon, 02 Sep 2024 07:17:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Acerting Art - Summer Night Sounds (1 play)</title>
+      <link>https://www.last.fm/music/Acerting+Art/_/Summer+Night+Sounds</link>
+      <guid isPermaLink="false">ddgromit-1725277062--Acerting Art---Summer Night Sounds</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4073e22d3a98c95ec159e0c42b44380c.jpg" length="20555" type="image/jpeg"/>
+      <pubDate>Mon, 02 Sep 2024 07:37:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
