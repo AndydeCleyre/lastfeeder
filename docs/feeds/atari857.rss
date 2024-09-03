@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Sep 2024 04:24:29 +0000</lastBuildDate>
-    <item>
-      <title>Four Year Strong - uncooked (6 plays)</title>
-      <link>https://www.last.fm/music/Four+Year+Strong/_/uncooked</link>
-      <guid isPermaLink="false">atari857-1723478478--c0a138e2-cef7-471b-8fbb-524e1076256a---uncooked</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f5c7e05fdc2d4ee53ca7a5a016bafbf.jpg" length="25669" type="image/jpeg"/>
-      <pubDate>Mon, 12 Aug 2024 12:01:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Four Year Strong - bad habit (2 plays)</title>
-      <link>https://www.last.fm/music/Four+Year+Strong/_/bad+habit</link>
-      <guid isPermaLink="false">atari857-1723478687--c0a138e2-cef7-471b-8fbb-524e1076256a---bad habit</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f5c7e05fdc2d4ee53ca7a5a016bafbf.jpg" length="25669" type="image/jpeg"/>
-      <pubDate>Mon, 12 Aug 2024 12:04:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Four Year Strong - aftermath/afterthought (2 plays)</title>
-      <link>https://www.last.fm/music/Four+Year+Strong/_/aftermath%2Fafterthought</link>
-      <guid isPermaLink="false">atari857-1723478857--c0a138e2-cef7-471b-8fbb-524e1076256a---aftermath/afterthought</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f5c7e05fdc2d4ee53ca7a5a016bafbf.jpg" length="25669" type="image/jpeg"/>
-      <pubDate>Mon, 12 Aug 2024 12:07:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Sep 2024 01:24:38 +0000</lastBuildDate>
     <item>
       <title>Four Year Strong - paranoia (2 plays)</title>
       <link>https://www.last.fm/music/Four+Year+Strong/_/paranoia</link>
@@ -313,7 +292,6 @@
       <title>Born of Osiris - A Solution (1 play)</title>
       <link>https://www.last.fm/music/Born+of+Osiris/_/A+Solution</link>
       <guid isPermaLink="false">atari857-1724126909--132ca1ea-0891-420f-b129-50247bb144b5---A Solution</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/63c89cfb9f9929dbe60b11a1af617e20.jpg" length="32653" type="image/jpeg"/>
       <pubDate>Tue, 20 Aug 2024 00:08:29 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +335,27 @@
       <guid isPermaLink="false">atari857-1725162813--6e5c61e6-182e-4796-a63b-590bdd4bfb07---For Posterity</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f27f9e214c5fb398106130ff56a65b2e.jpg" length="38849" type="image/jpeg"/>
       <pubDate>Sat, 31 Aug 2024 23:53:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Oolong - Better Be Better (1 play)</title>
+      <link>https://www.last.fm/music/Oolong/_/Better+Be+Better</link>
+      <guid isPermaLink="false">atari857-1725316942--a7adb8dc-2802-43fe-a0c7-6215e59a4266---Better Be Better</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4bfc25eb4b1971824e7ebfeed98bceea.jpg" length="23669" type="image/jpeg"/>
+      <pubDate>Mon, 02 Sep 2024 18:42:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ogbert the Nerd - Don't Quit, Get Fired (1 play)</title>
+      <link>https://www.last.fm/music/Ogbert+the+Nerd/_/Don%27t+Quit,+Get+Fired</link>
+      <guid isPermaLink="false">atari857-1725323782--6e5c61e6-182e-4796-a63b-590bdd4bfb07---Don't Quit, Get Fired</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f27f9e214c5fb398106130ff56a65b2e.jpg" length="38849" type="image/jpeg"/>
+      <pubDate>Mon, 02 Sep 2024 20:36:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ogbert the Nerd - Really, It's Fine (1 play)</title>
+      <link>https://www.last.fm/music/Ogbert+the+Nerd/_/Really,+It%27s+Fine</link>
+      <guid isPermaLink="false">atari857-1725323914--6e5c61e6-182e-4796-a63b-590bdd4bfb07---Really, It's Fine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33c3e9d6e149a123b6f854de69da6df8.jpg" length="12525" type="image/jpeg"/>
+      <pubDate>Mon, 02 Sep 2024 20:38:34 -0400</pubDate>
     </item>
   </channel>
 </rss>
