@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 11:37:41 +0000</lastBuildDate>
-    <item>
-      <title>Tom Jones - It's Not Unusual (1 play)</title>
-      <link>https://www.last.fm/music/Tom+Jones/_/It%27s+Not+Unusual</link>
-      <guid isPermaLink="false">manosg--1725292935--57c6f649-6cde-48a7-8114-2a200247601a---It's Not Unusual</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb43ade6d733bad9ab8d500f0918b3a5.png" length="169289" type="image/png"/>
-      <pubDate>Mon, 02 Sep 2024 12:02:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Sep 2024 16:25:40 +0000</lastBuildDate>
     <item>
       <title>Tom Jones - Autumn Leaves (1 play)</title>
       <link>https://www.last.fm/music/Tom+Jones/_/Autumn+Leaves</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1725362456--Jeff Beck---Crazy Legs - Live</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc73a77fe46bd026af5f79dbf1827c00.jpg" length="23449" type="image/jpeg"/>
       <pubDate>Tue, 03 Sep 2024 07:20:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jeff Beck - Train Kept A Rollin’ - Live (1 play)</title>
+      <link>https://www.last.fm/music/Jeff+Beck/_/Train+Kept+A+Rollin%E2%80%99+-+Live</link>
+      <guid isPermaLink="false">manosg--1725362578--Jeff Beck---Train Kept A Rollin’ - Live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc73a77fe46bd026af5f79dbf1827c00.jpg" length="23449" type="image/jpeg"/>
+      <pubDate>Tue, 03 Sep 2024 07:22:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
