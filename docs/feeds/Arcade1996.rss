@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 01:25:14 +0000</lastBuildDate>
-    <item>
-      <title>Caribou - Volume (4 plays)</title>
-      <link>https://www.last.fm/music/Caribou/_/Volume</link>
-      <guid isPermaLink="false">Arcade1996-1725010598--735e3514-a8ae-401f-af3b-6300df1b8d2c---Volume</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/602e295c4d42fffd3cc9a2882d7fdb63.jpg" length="42586" type="image/jpeg"/>
-      <pubDate>Fri, 30 Aug 2024 05:36:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Caribou - Broke My Heart (3 plays)</title>
-      <link>https://www.last.fm/music/Caribou/_/Broke+My+Heart</link>
-      <guid isPermaLink="false">Arcade1996-1725010836--735e3514-a8ae-401f-af3b-6300df1b8d2c---Broke My Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/602e295c4d42fffd3cc9a2882d7fdb63.jpg" length="42586" type="image/jpeg"/>
-      <pubDate>Fri, 30 Aug 2024 05:40:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Sep 2024 10:40:40 +0000</lastBuildDate>
     <item>
       <title>The Who - Pinball Wizard (4 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/Pinball+Wizard</link>
@@ -338,7 +324,7 @@
       <pubDate>Mon, 02 Sep 2024 20:30:04 -0400</pubDate>
     </item>
     <item>
-      <title>James Taylor - Don't Let Me Be Lonely Tonight (3 plays)</title>
+      <title>James Taylor - Don't Let Me Be Lonely Tonight</title>
       <link>https://www.last.fm/music/James+Taylor/_/Don%27t+Let+Me+Be+Lonely+Tonight</link>
       <guid isPermaLink="false">Arcade1996-1725323672--James Taylor---Don't Let Me Be Lonely Tonight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0f0fb2660fb427cc22691a3c87c2c64.png" length="60374" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1725324040--James Taylor---How Sweet It Is (To Be Loved by You)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0f0fb2660fb427cc22691a3c87c2c64.png" length="60374" type="image/png"/>
       <pubDate>Mon, 02 Sep 2024 20:40:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Taylor - Mexico (2 plays)</title>
+      <link>https://www.last.fm/music/James+Taylor/_/Mexico</link>
+      <guid isPermaLink="false">Arcade1996-1725324255--James Taylor---Mexico</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0f0fb2660fb427cc22691a3c87c2c64.png" length="60374" type="image/png"/>
+      <pubDate>Mon, 02 Sep 2024 20:44:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Taylor - Shower the People (4 plays)</title>
+      <link>https://www.last.fm/music/James+Taylor/_/Shower+the+People</link>
+      <guid isPermaLink="false">Arcade1996-1725358844--James Taylor---Shower the People</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0f0fb2660fb427cc22691a3c87c2c64.png" length="60374" type="image/png"/>
+      <pubDate>Tue, 03 Sep 2024 06:20:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
