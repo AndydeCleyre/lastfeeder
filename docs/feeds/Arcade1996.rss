@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Sep 2024 10:40:58 +0000</lastBuildDate>
-    <item>
-      <title>New Order - Blue Monday (19 plays)</title>
-      <link>https://www.last.fm/music/New+Order/_/Blue+Monday</link>
-      <guid isPermaLink="false">Arcade1996-1725182304--f1106b17-dcbb-45f6-b938-199ccfab50cc---Blue Monday</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a50955c73be3cb3b0a644d615c06290d.jpg" length="6445" type="image/jpeg"/>
-      <pubDate>Sun, 01 Sep 2024 05:18:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>James Taylor - Fire and Rain (15 plays)</title>
-      <link>https://www.last.fm/music/James+Taylor/_/Fire+and+Rain</link>
-      <guid isPermaLink="false">Arcade1996-1725254712--James Taylor---Fire and Rain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0f0fb2660fb427cc22691a3c87c2c64.png" length="60374" type="image/png"/>
-      <pubDate>Mon, 02 Sep 2024 01:25:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Sep 2024 10:52:51 +0000</lastBuildDate>
     <item>
       <title>James Taylor - Sweet Baby James (4 plays)</title>
       <link>https://www.last.fm/music/James+Taylor/_/Sweet+Baby+James</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1725445884--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---Harry's House / Centerpiece</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/604e585bf73e8dbbcad8fb8cb8425d02.png" length="83000" type="image/png"/>
       <pubDate>Wed, 04 Sep 2024 06:31:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Joni Mitchell - River (1 play)</title>
+      <link>https://www.last.fm/music/Joni+Mitchell/_/River</link>
+      <guid isPermaLink="false">Arcade1996-1725446293--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---River</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4d60ef1d8d01200ed11d01c703f2ba8.jpg" length="10915" type="image/jpeg"/>
+      <pubDate>Wed, 04 Sep 2024 06:38:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>$quib - L'hôspital (1 play)</title>
+      <link>https://www.last.fm/music/$quib/_/L%27h%C3%B4spital</link>
+      <guid isPermaLink="false">Arcade1996-1725446542--$quib---L'hôspital</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e358075fbdc5ecd491dfc81d197205cf.jpg" length="16633" type="image/jpeg"/>
+      <pubDate>Wed, 04 Sep 2024 06:42:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
