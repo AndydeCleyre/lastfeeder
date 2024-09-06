@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 10:20:24 +0000</lastBuildDate>
-    <item>
-      <title>Joni Mitchell - Big Yellow Taxi (4 plays)</title>
-      <link>https://www.last.fm/music/Joni+Mitchell/_/Big+Yellow+Taxi</link>
-      <guid isPermaLink="false">Arcade1996-1725373652--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---Big Yellow Taxi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1e742815b78e6c33a3bd70dcc570fe3.jpg" length="10971" type="image/jpeg"/>
-      <pubDate>Tue, 03 Sep 2024 10:27:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Joni Mitchell - Both Sides Now (1 play)</title>
-      <link>https://www.last.fm/music/Joni+Mitchell/_/Both+Sides+Now</link>
-      <guid isPermaLink="false">Arcade1996-1725373786--a6de8ef9-b1a1-4756-97aa-481bbb8a4069---Both Sides Now</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/59bad29b04c5b6eecd3fca0a4a5a83f7.jpg" length="26241" type="image/jpeg"/>
-      <pubDate>Tue, 03 Sep 2024 10:29:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Sep 2024 10:41:02 +0000</lastBuildDate>
     <item>
       <title>Joni Mitchell - A Case of You (1 play)</title>
       <link>https://www.last.fm/music/Joni+Mitchell/_/A+Case+of+You</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1725615460--4f52595e-652d-4894-95ea-f925234629fc---Joker Lips</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2c44050058fb5260a113b962dec2bc2.png" length="142131" type="image/png"/>
       <pubDate>Fri, 06 Sep 2024 05:37:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>MJ Lenderman - Rudolph (2 plays)</title>
+      <link>https://www.last.fm/music/MJ+Lenderman/_/Rudolph</link>
+      <guid isPermaLink="false">Arcade1996-1725617846--4f52595e-652d-4894-95ea-f925234629fc---Rudolph</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2c44050058fb5260a113b962dec2bc2.png" length="142131" type="image/png"/>
+      <pubDate>Fri, 06 Sep 2024 06:17:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>MJ Lenderman - Wristwatch (1 play)</title>
+      <link>https://www.last.fm/music/MJ+Lenderman/_/Wristwatch</link>
+      <guid isPermaLink="false">Arcade1996-1725618056--4f52595e-652d-4894-95ea-f925234629fc---Wristwatch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2c44050058fb5260a113b962dec2bc2.png" length="142131" type="image/png"/>
+      <pubDate>Fri, 06 Sep 2024 06:20:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
