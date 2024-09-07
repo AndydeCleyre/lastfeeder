@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Sep 2024 10:40:18 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Dead on Time (51 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Dead+on+Time</link>
-      <guid isPermaLink="false">Frippertron-1725602351--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Dead on Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6682a933a9814d48bf1307e7a99cd655.png" length="138305" type="image/png"/>
-      <pubDate>Fri, 06 Sep 2024 01:59:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - No Reply at All (65 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/No+Reply+at+All</link>
-      <guid isPermaLink="false">Frippertron-1725602552--Genesis---No Reply at All</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/135f00330fff4739b9f9ea74ee9009d0.png" length="32968" type="image/png"/>
-      <pubDate>Fri, 06 Sep 2024 02:02:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Sep 2024 10:52:23 +0000</lastBuildDate>
     <item>
       <title>Phil Collins - Take Me Home (2 plays)</title>
       <link>https://www.last.fm/music/Phil+Collins/_/Take+Me+Home</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1725704974--Genesis---The Musical Box</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bdf358a48437f28e7c870089ff911296.png" length="207124" type="image/png"/>
       <pubDate>Sat, 07 Sep 2024 06:29:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Entangled (42 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Entangled</link>
+      <guid isPermaLink="false">Frippertron-1725705612--Genesis---Entangled</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
+      <pubDate>Sat, 07 Sep 2024 06:40:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Mad Man Moon (47 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Mad+Man+Moon</link>
+      <guid isPermaLink="false">Frippertron-1725705998--Genesis---Mad Man Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
+      <pubDate>Sat, 07 Sep 2024 06:46:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
