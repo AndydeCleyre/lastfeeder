@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 09:52:16 +0000</lastBuildDate>
-    <item>
-      <title>Phil Collins - Take Me Home (2 plays)</title>
-      <link>https://www.last.fm/music/Phil+Collins/_/Take+Me+Home</link>
-      <guid isPermaLink="false">Frippertron-1725694911--401c3991-b76b-499d-8082-9f2df958ef78---Take Me Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a7b185ef506836c5ffd5bd19e13fd93d.jpg" length="9489" type="image/jpeg"/>
-      <pubDate>Sat, 07 Sep 2024 03:41:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Sep 2024 15:39:19 +0000</lastBuildDate>
     <item>
       <title>Phil Collins - Do You Know, Do You Care? (9 plays)</title>
       <link>https://www.last.fm/music/Phil+Collins/_/Do+You+Know,+Do+You+Care%3F</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1725788119--Genesis---Twilight Alehouse</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87618c01384441adbaaf35b7640552e0.jpg" length="31524" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 05:35:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Watcher of the Skies (110 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Watcher+of+the+Skies</link>
+      <guid isPermaLink="false">Frippertron-1725788598--Genesis---Watcher of the Skies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87618c01384441adbaaf35b7640552e0.jpg" length="31524" type="image/jpeg"/>
+      <pubDate>Sun, 08 Sep 2024 05:43:18 -0400</pubDate>
     </item>
   </channel>
 </rss>

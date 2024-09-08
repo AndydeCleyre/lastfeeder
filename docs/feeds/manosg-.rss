@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 07:37:34 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - Hungry Heart (3 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/Hungry+Heart</link>
-      <guid isPermaLink="false">manosg--1725600305--70248960-cb53-4ea4-943a-edb18f7d336f---Hungry Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/548732191753ad2c189e29d4a868e976.png" length="190447" type="image/png"/>
-      <pubDate>Fri, 06 Sep 2024 01:25:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dire Straits - Where Do You Think You're Going? (1 play)</title>
-      <link>https://www.last.fm/music/Dire+Straits/_/Where+Do+You+Think+You%27re+Going%3F</link>
-      <guid isPermaLink="false">manosg--1725600505--614e3804-7d34-41ba-857f-811bad7c2b7a---Where Do You Think You're Going?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/23a8221058d3488eb685ea66de8ee104.png" length="53896" type="image/png"/>
-      <pubDate>Fri, 06 Sep 2024 01:28:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Sep 2024 15:40:02 +0000</lastBuildDate>
     <item>
       <title>The Who - Love Ain't for Keeping (11 plays)</title>
       <link>https://www.last.fm/music/The+Who/_/Love+Ain%27t+for+Keeping</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1725780695--109958eb-a335-4c5e-907e-597ff4c6af46---Side o' the Road</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25873df9f5c9efc659b76e181716905e.png" length="162857" type="image/png"/>
       <pubDate>Sun, 08 Sep 2024 03:31:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Creedence Clearwater Revival - Effigy (1 play)</title>
+      <link>https://www.last.fm/music/Creedence+Clearwater+Revival/_/Effigy</link>
+      <guid isPermaLink="false">manosg--1725780900--109958eb-a335-4c5e-907e-597ff4c6af46---Effigy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25873df9f5c9efc659b76e181716905e.png" length="162857" type="image/png"/>
+      <pubDate>Sun, 08 Sep 2024 03:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - Born in the U.S.A. (3 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/Born+in+the+U.S.A.</link>
+      <guid isPermaLink="false">manosg--1725809653--70248960-cb53-4ea4-943a-edb18f7d336f---Born in the U.S.A.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03426c63f1f44b53cb6ea5745ec08cda.png" length="161704" type="image/png"/>
+      <pubDate>Sun, 08 Sep 2024 11:34:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
