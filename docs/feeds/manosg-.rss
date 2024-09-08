@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 05:39:02 +0000</lastBuildDate>
-    <item>
-      <title>Tom Jones - The Rose (2 plays)</title>
-      <link>https://www.last.fm/music/Tom+Jones/_/The+Rose</link>
-      <guid isPermaLink="false">manosg--1725549078--57c6f649-6cde-48a7-8114-2a200247601a---The Rose</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4439e63e00756a9008ab538648288bad.jpg" length="18172" type="image/jpeg"/>
-      <pubDate>Thu, 05 Sep 2024 11:11:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tom Jones - Endlessly (2 plays)</title>
-      <link>https://www.last.fm/music/Tom+Jones/_/Endlessly</link>
-      <guid isPermaLink="false">manosg--1725549255--57c6f649-6cde-48a7-8114-2a200247601a---Endlessly</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4439e63e00756a9008ab538648288bad.jpg" length="18172" type="image/jpeg"/>
-      <pubDate>Thu, 05 Sep 2024 11:14:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tom Jones - I (Who Have Nothing) (4 plays)</title>
-      <link>https://www.last.fm/music/Tom+Jones/_/I+(Who+Have+Nothing)</link>
-      <guid isPermaLink="false">manosg--1725549462--57c6f649-6cde-48a7-8114-2a200247601a---I (Who Have Nothing)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e8d13a865ad903bad62f6384050415c.jpg" length="16247" type="image/jpeg"/>
-      <pubDate>Thu, 05 Sep 2024 11:17:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Sep 2024 06:25:19 +0000</lastBuildDate>
     <item>
       <title>Bruce Springsteen - Ain't Got You (2 plays)</title>
       <link>https://www.last.fm/music/Bruce+Springsteen/_/Ain%27t+Got+You</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1725772610--109958eb-a335-4c5e-907e-597ff4c6af46---Bootleg</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/308ab41969da4053a633234081bf9cba.png" length="213833" type="image/png"/>
       <pubDate>Sun, 08 Sep 2024 01:16:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Creedence Clearwater Revival - Graveyard Train (3 plays)</title>
+      <link>https://www.last.fm/music/Creedence+Clearwater+Revival/_/Graveyard+Train</link>
+      <guid isPermaLink="false">manosg--1725772793--109958eb-a335-4c5e-907e-597ff4c6af46---Graveyard Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/308ab41969da4053a633234081bf9cba.png" length="213833" type="image/png"/>
+      <pubDate>Sun, 08 Sep 2024 01:19:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Creedence Clearwater Revival - Good Golly Miss Molly (2 plays)</title>
+      <link>https://www.last.fm/music/Creedence+Clearwater+Revival/_/Good+Golly+Miss+Molly</link>
+      <guid isPermaLink="false">manosg--1725776320--109958eb-a335-4c5e-907e-597ff4c6af46---Good Golly Miss Molly</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/308ab41969da4053a633234081bf9cba.png" length="213833" type="image/png"/>
+      <pubDate>Sun, 08 Sep 2024 02:18:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Creedence Clearwater Revival - Penthouse Pauper (3 plays)</title>
+      <link>https://www.last.fm/music/Creedence+Clearwater+Revival/_/Penthouse+Pauper</link>
+      <guid isPermaLink="false">manosg--1725776481--109958eb-a335-4c5e-907e-597ff4c6af46---Penthouse Pauper</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/308ab41969da4053a633234081bf9cba.png" length="213833" type="image/png"/>
+      <pubDate>Sun, 08 Sep 2024 02:21:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
