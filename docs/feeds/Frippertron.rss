@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 09:37:28 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Mama (40 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Mama</link>
-      <guid isPermaLink="false">Frippertron-1725694206--Genesis---Mama</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sat, 07 Sep 2024 03:30:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Sep 2024 09:52:16 +0000</lastBuildDate>
     <item>
       <title>Phil Collins - Take Me Home (2 plays)</title>
       <link>https://www.last.fm/music/Phil+Collins/_/Take+Me+Home</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1725787640--Genesis---The Return of the Giant Hogweed</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87618c01384441adbaaf35b7640552e0.jpg" length="31524" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 05:27:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Twilight Alehouse (20 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Twilight+Alehouse</link>
+      <guid isPermaLink="false">Frippertron-1725788119--Genesis---Twilight Alehouse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87618c01384441adbaaf35b7640552e0.jpg" length="31524" type="image/jpeg"/>
+      <pubDate>Sun, 08 Sep 2024 05:35:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
