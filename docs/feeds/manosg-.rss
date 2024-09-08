@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 05:18:33 +0000</lastBuildDate>
-    <item>
-      <title>Tom Jones - I Tell The Sea (1 play)</title>
-      <link>https://www.last.fm/music/Tom+Jones/_/I+Tell+The+Sea</link>
-      <guid isPermaLink="false">manosg--1725548604--57c6f649-6cde-48a7-8114-2a200247601a---I Tell The Sea</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4439e63e00756a9008ab538648288bad.jpg" length="18172" type="image/jpeg"/>
-      <pubDate>Thu, 05 Sep 2024 11:03:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Sep 2024 05:39:02 +0000</lastBuildDate>
     <item>
       <title>Tom Jones - The Rose (2 plays)</title>
       <link>https://www.last.fm/music/Tom+Jones/_/The+Rose</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1725772295--109958eb-a335-4c5e-907e-597ff4c6af46---Born on the Bayou</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/308ab41969da4053a633234081bf9cba.png" length="213833" type="image/png"/>
       <pubDate>Sun, 08 Sep 2024 01:11:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Creedence Clearwater Revival - Bootleg (3 plays)</title>
+      <link>https://www.last.fm/music/Creedence+Clearwater+Revival/_/Bootleg</link>
+      <guid isPermaLink="false">manosg--1725772610--109958eb-a335-4c5e-907e-597ff4c6af46---Bootleg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/308ab41969da4053a633234081bf9cba.png" length="213833" type="image/png"/>
+      <pubDate>Sun, 08 Sep 2024 01:16:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
