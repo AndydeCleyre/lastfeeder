@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 15:52:57 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Avalon (2 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Avalon</link>
-      <guid isPermaLink="false">manosg--1725601100--331ce348-1b08-40b9-8ed7-0763b92bd003---Avalon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/254b715c587f42dbc25cbed0e3cda61e.png" length="134887" type="image/png"/>
-      <pubDate>Fri, 06 Sep 2024 01:38:20 -0400</pubDate>
-    </item>
-    <item>
-      <title>Thin Lizzy - Running Back (10 plays)</title>
-      <link>https://www.last.fm/music/Thin+Lizzy/_/Running+Back</link>
-      <guid isPermaLink="false">manosg--1725601357--6a726ac6-019e-455c-8bbb-571a77bed52e---Running Back</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6da2e4c2760944ee97b77c160041c4a0.jpg" length="32370" type="image/jpeg"/>
-      <pubDate>Fri, 06 Sep 2024 01:42:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bruce Springsteen - I'm on Fire (3 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/I%27m+on+Fire</link>
-      <guid isPermaLink="false">manosg--1725603137--70248960-cb53-4ea4-943a-edb18f7d336f---I'm on Fire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03426c63f1f44b53cb6ea5745ec08cda.png" length="161704" type="image/png"/>
-      <pubDate>Fri, 06 Sep 2024 02:12:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Sep 2024 16:43:32 +0000</lastBuildDate>
     <item>
       <title>Creedence Clearwater Revival - Lodi (3 plays)</title>
       <link>https://www.last.fm/music/Creedence+Clearwater+Revival/_/Lodi</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">manosg--1725810454--70248960-cb53-4ea4-943a-edb18f7d336f---Darlington County</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03426c63f1f44b53cb6ea5745ec08cda.png" length="161704" type="image/png"/>
       <pubDate>Sun, 08 Sep 2024 11:47:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - Working on the Highway (2 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/Working+on+the+Highway</link>
+      <guid isPermaLink="false">manosg--1725810760--70248960-cb53-4ea4-943a-edb18f7d336f---Working on the Highway</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03426c63f1f44b53cb6ea5745ec08cda.png" length="161704" type="image/png"/>
+      <pubDate>Sun, 08 Sep 2024 11:52:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - Downbound Train (3 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/Downbound+Train</link>
+      <guid isPermaLink="false">manosg--1725813349--70248960-cb53-4ea4-943a-edb18f7d336f---Downbound Train</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03426c63f1f44b53cb6ea5745ec08cda.png" length="161704" type="image/png"/>
+      <pubDate>Sun, 08 Sep 2024 12:35:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - I'm on Fire (4 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/I%27m+on+Fire</link>
+      <guid isPermaLink="false">manosg--1725813565--70248960-cb53-4ea4-943a-edb18f7d336f---I'm on Fire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03426c63f1f44b53cb6ea5745ec08cda.png" length="161704" type="image/png"/>
+      <pubDate>Sun, 08 Sep 2024 12:39:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
