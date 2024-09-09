@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 22:39:53 +0000</lastBuildDate>
-    <item>
-      <title>Famous Friend - Tanlines (25 plays)</title>
-      <link>https://www.last.fm/music/Famous+Friend/_/Tanlines</link>
-      <guid isPermaLink="false">walrus898-1725883536--Famous Friend---Tanlines</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1740823266fc4ae9ea70aa183ed5bf8c.png" length="175067" type="image/png"/>
-      <pubDate>Mon, 09 Sep 2024 08:05:36 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Sep 2024 22:52:06 +0000</lastBuildDate>
     <item>
       <title>HALA - Feels Like Yesterday (27 plays)</title>
       <link>https://www.last.fm/music/HALA/_/Feels+Like+Yesterday</link>
@@ -47,7 +40,7 @@
       <title>Jelani Aryeh - I'm in Love (15 plays)</title>
       <link>https://www.last.fm/music/Jelani+Aryeh/_/I%27m+in+Love</link>
       <guid isPermaLink="false">walrus898-1725884605--e4a42fa1-ae6a-4de8-81c7-af12ff3ea256---I'm in Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcf4fb7fc69c9e8fe3ef96b1bec39768.jpg" length="8849" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcf4fb7fc69c9e8fe3ef96b1bec39768.jpg" length="70" type="application/json"/>
       <pubDate>Mon, 09 Sep 2024 08:23:25 -0400</pubDate>
     </item>
     <item>
@@ -187,6 +180,7 @@
       <title>Saintseneca - Winter Breaking (31 plays)</title>
       <link>https://www.last.fm/music/Saintseneca/_/Winter+Breaking</link>
       <guid isPermaLink="false">walrus898-1725888103--aabc45ce-3a48-4b84-a25d-9c0d48b3fd29---Winter Breaking</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2df4703c6552418d3609605e38dc8744.jpg" length="31103" type="image/jpeg"/>
       <pubDate>Mon, 09 Sep 2024 09:21:43 -0400</pubDate>
     </item>
     <item>
@@ -207,7 +201,7 @@
       <title>Ian Sweet - Drink The Lake (22 plays)</title>
       <link>https://www.last.fm/music/Ian+Sweet/_/Drink+The+Lake</link>
       <guid isPermaLink="false">walrus898-1725888918--ce6fbc1a-7a8b-4596-a8bb-7ef87290d892---Drink The Lake</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6da5e7d3e4afaebd466e9b9955bd22e.jpg" length="70" type="application/json"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6da5e7d3e4afaebd466e9b9955bd22e.jpg" length="20044" type="image/jpeg"/>
       <pubDate>Mon, 09 Sep 2024 09:35:18 -0400</pubDate>
     </item>
     <item>
@@ -298,6 +292,7 @@
       <title>sjowgren - I Don't Know (9 plays)</title>
       <link>https://www.last.fm/music/sjowgren/_/I+Don%27t+Know</link>
       <guid isPermaLink="false">walrus898-1725919242--446dd82d-1de2-4ea0-a1f9-2a5467241e35---I Don't Know</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52351de9310454a53351725b8f079739.png" length="177519" type="image/png"/>
       <pubDate>Mon, 09 Sep 2024 18:00:42 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">walrus898-1725921401--6778d542-4159-4f09-be84-35cf37d3c33f---Time Walk</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f4ba0eef249d20ede72ec4a8f00b640e.jpg" length="9319" type="image/jpeg"/>
       <pubDate>Mon, 09 Sep 2024 18:36:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prince Innocence - Noches (1 play)</title>
+      <link>https://www.last.fm/music/Prince+Innocence/_/Noches</link>
+      <guid isPermaLink="false">walrus898-1725921494--de33950e-302c-439f-bc54-ddae8e972da3---Noches</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/633a62deb88d7f4df9666606d7c2f3ad.jpg" length="13422" type="image/jpeg"/>
+      <pubDate>Mon, 09 Sep 2024 18:38:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
