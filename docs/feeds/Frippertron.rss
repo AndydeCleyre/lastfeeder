@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 07:18:25 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - The Musical Box (99 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Musical+Box</link>
-      <guid isPermaLink="false">Frippertron-1725817762--Genesis---The Musical Box</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71d4aaa37def2ac4f18d53249019b4d9.jpg" length="30161" type="image/jpeg"/>
-      <pubDate>Sun, 08 Sep 2024 13:49:22 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - Old Michael Story (1 play)</title>
-      <link>https://www.last.fm/music/Genesis/_/Old+Michael+Story</link>
-      <guid isPermaLink="false">Frippertron-1725818394--Genesis---Old Michael Story</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71d4aaa37def2ac4f18d53249019b4d9.jpg" length="30161" type="image/jpeg"/>
-      <pubDate>Sun, 08 Sep 2024 13:59:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Sep 2024 07:37:56 +0000</lastBuildDate>
     <item>
       <title>Genesis - Horizons (43 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Horizons</link>
@@ -37,7 +23,7 @@
       <pubDate>Sun, 08 Sep 2024 14:04:50 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - One for the Vine (89 plays)</title>
+      <title>Genesis - One for the Vine (90 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/One+for+the+Vine</link>
       <guid isPermaLink="false">Frippertron-1725845057--Genesis---One for the Vine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/408ffd2f4632e64b69337c0adf879a68.jpg" length="25193" type="image/jpeg"/>
@@ -159,6 +145,7 @@
       <title>Todd Rundgren - I Saw The Light (241 plays)</title>
       <link>https://www.last.fm/music/Todd+Rundgren/_/I+Saw+The+Light</link>
       <guid isPermaLink="false">Frippertron-1725852501--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---I Saw The Light</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e0cb27c868af52a6902552aac2a089a.jpg" length="35724" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 23:28:21 -0400</pubDate>
     </item>
     <item>
@@ -280,7 +267,7 @@
       <pubDate>Mon, 09 Sep 2024 01:11:09 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - Ripples (149 plays)</title>
+      <title>Genesis - Ripples (150 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Ripples</link>
       <guid isPermaLink="false">Frippertron-1725859601--Genesis---Ripples</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
@@ -355,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1725865697--Genesis---The Lady Lies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
       <pubDate>Mon, 09 Sep 2024 03:08:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - One for the Vine (90 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/One+for+the+Vine</link>
+      <guid isPermaLink="false">Frippertron-1725866275--Genesis---One for the Vine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
+      <pubDate>Mon, 09 Sep 2024 03:17:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ripples (150 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
+      <guid isPermaLink="false">Frippertron-1725866945--Genesis---Ripples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/750a35a45df72d0d71d4bffdea275ebe.jpg" length="23645" type="image/jpeg"/>
+      <pubDate>Mon, 09 Sep 2024 03:29:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
