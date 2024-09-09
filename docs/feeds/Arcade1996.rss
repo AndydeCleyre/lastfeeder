@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 01:35:49 +0000</lastBuildDate>
-    <item>
-      <title>Sonique - It Feels So Good (9 plays)</title>
-      <link>https://www.last.fm/music/Sonique/_/It+Feels+So+Good</link>
-      <guid isPermaLink="false">Arcade1996-1725580070--e8b37da4-6cb2-4641-ab53-da42f02fbdfb---It Feels So Good</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bd597e4c3ed2d4795aad722fccd20a4.jpg" length="15622" type="image/jpeg"/>
-      <pubDate>Thu, 05 Sep 2024 19:47:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gorillaz - DARE (18 plays)</title>
-      <link>https://www.last.fm/music/Gorillaz/_/DARE</link>
-      <guid isPermaLink="false">Arcade1996-1725580311--e21857d5-3256-4547-afb3-4b6ded592596---DARE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/271483e955d2b255160f3361a7f5fb78.jpg" length="19173" type="image/jpeg"/>
-      <pubDate>Thu, 05 Sep 2024 19:51:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Alice in Chains - Nutshell (14 plays)</title>
-      <link>https://www.last.fm/music/Alice+in+Chains/_/Nutshell</link>
-      <guid isPermaLink="false">Arcade1996-1725580556--4bd95eea-b9f6-4d70-a36c-cfea77431553---Nutshell</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ffe9a83466f4c9abc2a7982d0772c08.jpg" length="15974" type="image/jpeg"/>
-      <pubDate>Thu, 05 Sep 2024 19:55:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>MJ Lenderman - Manning Fireworks (1 play)</title>
-      <link>https://www.last.fm/music/MJ+Lenderman/_/Manning+Fireworks</link>
-      <guid isPermaLink="false">Arcade1996-1725615283--4f52595e-652d-4894-95ea-f925234629fc---Manning Fireworks</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2c44050058fb5260a113b962dec2bc2.png" length="142131" type="image/png"/>
-      <pubDate>Fri, 06 Sep 2024 05:34:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Sep 2024 10:54:25 +0000</lastBuildDate>
     <item>
       <title>MJ Lenderman - Joker Lips (2 plays)</title>
       <link>https://www.last.fm/music/MJ+Lenderman/_/Joker+Lips</link>
@@ -124,20 +96,21 @@
       <title>Jane Remover - Magic I Want U (2 plays)</title>
       <link>https://www.last.fm/music/Jane+Remover/_/Magic+I+Want+U</link>
       <guid isPermaLink="false">Arcade1996-1725679828--f4b6e451-5dce-4842-a555-f793892299b3---Magic I Want U</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74c1482a91d28658a689e5197daf9666.jpg" length="28757" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74c1482a91d28658a689e5197daf9666.jpg" length="70" type="application/json"/>
       <pubDate>Fri, 06 Sep 2024 23:30:28 -0400</pubDate>
     </item>
     <item>
       <title>Jane Remover - How To Teleport (2 plays)</title>
       <link>https://www.last.fm/music/Jane+Remover/_/How+To+Teleport</link>
       <guid isPermaLink="false">Arcade1996-1725680127--Jane Remover---How To Teleport</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74c1482a91d28658a689e5197daf9666.jpg" length="28757" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74c1482a91d28658a689e5197daf9666.jpg" length="70" type="application/json"/>
       <pubDate>Fri, 06 Sep 2024 23:35:27 -0400</pubDate>
     </item>
     <item>
       <title>Mount Eerie - Broom of Wind (1 play)</title>
       <link>https://www.last.fm/music/Mount+Eerie/_/Broom+of+Wind</link>
       <guid isPermaLink="false">Arcade1996-1725680334--e5306b29-16c0-4520-bb05-6b21f041b2f0---Broom of Wind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa2a649c2f9d135cdef0c785da56f899.jpg" length="19461" type="image/jpeg"/>
       <pubDate>Fri, 06 Sep 2024 23:38:54 -0400</pubDate>
     </item>
     <item>
@@ -151,6 +124,7 @@
       <title>Party Dozen - Coup De Gronk (1 play)</title>
       <link>https://www.last.fm/music/Party+Dozen/_/Coup+De+Gronk</link>
       <guid isPermaLink="false">Arcade1996-1725680741--7fa3024f-7307-41ba-9bc9-57746a1bb3dc---Coup De Gronk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/412bc7af7ca848ab1329216f68958fa2.jpg" length="16896" type="image/jpeg"/>
       <pubDate>Fri, 06 Sep 2024 23:45:41 -0400</pubDate>
     </item>
     <item>
@@ -164,6 +138,7 @@
       <title>Safe Mind - 6' Pole (1 play)</title>
       <link>https://www.last.fm/music/Safe+Mind/_/6%27+Pole</link>
       <guid isPermaLink="false">Arcade1996-1725681134--Safe Mind---6' Pole</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a206c83f37f901ec83d99750c3ec799.png" length="76845" type="image/png"/>
       <pubDate>Fri, 06 Sep 2024 23:52:14 -0400</pubDate>
     </item>
     <item>
@@ -184,19 +159,21 @@
       <title>LE SSERAFIM - CRAZY (feat. PinkPantheress) (2 plays)</title>
       <link>https://www.last.fm/music/LE+SSERAFIM/_/CRAZY+(feat.+PinkPantheress)</link>
       <guid isPermaLink="false">Arcade1996-1725789468--1ee37742-1e3d-4e61-84d2-bc85f4c1459a---CRAZY (feat. PinkPantheress)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bcb9f1d83e269354d5e93f271da083e0.jpg" length="32830" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bf2a4404da2ec97941934ee6d8e7880.jpg" length="33303" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 05:57:48 -0400</pubDate>
     </item>
     <item>
       <title>The Body - End of Line (1 play)</title>
       <link>https://www.last.fm/music/The+Body/_/End+of+Line</link>
       <guid isPermaLink="false">Arcade1996-1725789636--The Body---End of Line</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bf90fb60363ae380e1a0ef19eb2e20b.jpg" length="70" type="application/json"/>
       <pubDate>Sun, 08 Sep 2024 06:00:36 -0400</pubDate>
     </item>
     <item>
       <title>Future Islands - Glimpse (1 play)</title>
       <link>https://www.last.fm/music/Future+Islands/_/Glimpse</link>
       <guid isPermaLink="false">Arcade1996-1725789891--74963434-dcb6-4b14-98cc-99873b06db66---Glimpse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60f5e67387ed481fa210708eaf578cd0.jpg" length="13249" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 06:04:51 -0400</pubDate>
     </item>
     <item>
@@ -224,7 +201,6 @@
       <title>Halsey - Lucky (1 play)</title>
       <link>https://www.last.fm/music/Halsey/_/Lucky</link>
       <guid isPermaLink="false">Arcade1996-1725790726--3377f3bb-60fc-4403-aea9-7e800612e060---Lucky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b3f07af23248c4bd2054b86823db569.jpg" length="10599" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 06:18:46 -0400</pubDate>
     </item>
     <item>
@@ -245,6 +221,7 @@
       <title>Joey Valence &amp; Brae - CAN'T STOP NOW (2 plays)</title>
       <link>https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/CAN%27T+STOP+NOW</link>
       <guid isPermaLink="false">Arcade1996-1725791395--93a4d03b-4f0e-42da-ae0b-a62876e46071---CAN'T STOP NOW</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de45c32d53d9f2903de0aa2207f531f.jpg" length="18795" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 06:29:55 -0400</pubDate>
     </item>
     <item>
@@ -299,13 +276,14 @@
       <title>Joey Valence &amp; Brae - CAN'T STOP NOW (2 plays)</title>
       <link>https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/CAN%27T+STOP+NOW</link>
       <guid isPermaLink="false">Arcade1996-1725841984--93a4d03b-4f0e-42da-ae0b-a62876e46071---CAN'T STOP NOW</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0de45c32d53d9f2903de0aa2207f531f.jpg" length="18795" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 20:33:04 -0400</pubDate>
     </item>
     <item>
       <title>LE SSERAFIM - CRAZY (feat. PinkPantheress) (2 plays)</title>
       <link>https://www.last.fm/music/LE+SSERAFIM/_/CRAZY+(feat.+PinkPantheress)</link>
       <guid isPermaLink="false">Arcade1996-1725842176--1ee37742-1e3d-4e61-84d2-bc85f4c1459a---CRAZY (feat. PinkPantheress)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bcb9f1d83e269354d5e93f271da083e0.jpg" length="32830" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bf2a4404da2ec97941934ee6d8e7880.jpg" length="33303" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 20:36:16 -0400</pubDate>
     </item>
     <item>
@@ -319,14 +297,14 @@
       <title>Jane Remover - How To Teleport (2 plays)</title>
       <link>https://www.last.fm/music/Jane+Remover/_/How+To+Teleport</link>
       <guid isPermaLink="false">Arcade1996-1725842668--Jane Remover---How To Teleport</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74c1482a91d28658a689e5197daf9666.jpg" length="28757" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74c1482a91d28658a689e5197daf9666.jpg" length="70" type="application/json"/>
       <pubDate>Sun, 08 Sep 2024 20:44:28 -0400</pubDate>
     </item>
     <item>
       <title>Jane Remover - Magic I Want U (2 plays)</title>
       <link>https://www.last.fm/music/Jane+Remover/_/Magic+I+Want+U</link>
       <guid isPermaLink="false">Arcade1996-1725842669--f4b6e451-5dce-4842-a555-f793892299b3---Magic I Want U</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74c1482a91d28658a689e5197daf9666.jpg" length="28757" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74c1482a91d28658a689e5197daf9666.jpg" length="70" type="application/json"/>
       <pubDate>Sun, 08 Sep 2024 20:44:29 -0400</pubDate>
     </item>
     <item>
@@ -349,6 +327,34 @@
       <guid isPermaLink="false">Arcade1996-1725843349--6b335658-22c8-485d-93de-0bc29a1d0349---Panic Attack</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52f1ff0c9b6c33ffd8efba8b61c0c57b.jpg" length="32913" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 20:55:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Dare - Girls (1 play)</title>
+      <link>https://www.last.fm/music/The+Dare/_/Girls</link>
+      <guid isPermaLink="false">Arcade1996-1725878578--7fe3380a-8e35-48d1-ac5a-174fe6b5060b---Girls</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d8d89b992e4d4a5556cb00cfc7c3ac8.jpg" length="11573" type="image/jpeg"/>
+      <pubDate>Mon, 09 Sep 2024 06:42:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Dare - Good Time (1 play)</title>
+      <link>https://www.last.fm/music/The+Dare/_/Good+Time</link>
+      <guid isPermaLink="false">Arcade1996-1725878698--7fe3380a-8e35-48d1-ac5a-174fe6b5060b---Good Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d8d89b992e4d4a5556cb00cfc7c3ac8.jpg" length="11573" type="image/jpeg"/>
+      <pubDate>Mon, 09 Sep 2024 06:44:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Dare - Perfume (1 play)</title>
+      <link>https://www.last.fm/music/The+Dare/_/Perfume</link>
+      <guid isPermaLink="false">Arcade1996-1725878830--7fe3380a-8e35-48d1-ac5a-174fe6b5060b---Perfume</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d8d89b992e4d4a5556cb00cfc7c3ac8.jpg" length="11573" type="image/jpeg"/>
+      <pubDate>Mon, 09 Sep 2024 06:47:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Dare - You're Invited (1 play)</title>
+      <link>https://www.last.fm/music/The+Dare/_/You%27re+Invited</link>
+      <guid isPermaLink="false">Arcade1996-1725878978--7fe3380a-8e35-48d1-ac5a-174fe6b5060b---You're Invited</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d8d89b992e4d4a5556cb00cfc7c3ac8.jpg" length="11573" type="image/jpeg"/>
+      <pubDate>Mon, 09 Sep 2024 06:49:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
