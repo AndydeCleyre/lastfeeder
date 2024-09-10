@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Sep 2024 19:38:48 +0000</lastBuildDate>
-    <item>
-      <title>The Undercover Dream Lovers - Sink or Swim (12 plays)</title>
-      <link>https://www.last.fm/music/The+Undercover+Dream+Lovers/_/Sink+or+Swim</link>
-      <guid isPermaLink="false">walrus898-1725884063--6487f9be-6802-467a-9f17-7d0900ae5660---Sink or Swim</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd067d404dc6ea4b505e4bc5228f793a.jpg" length="20454" type="image/jpeg"/>
-      <pubDate>Mon, 09 Sep 2024 08:14:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Sep 2024 19:52:12 +0000</lastBuildDate>
     <item>
       <title>Blank Space - You're Still Mine (14 plays)</title>
       <link>https://www.last.fm/music/Blank+Space/_/You%27re+Still+Mine</link>
@@ -40,7 +33,6 @@
       <title>Delacey - Drive Baby (15 plays)</title>
       <link>https://www.last.fm/music/Delacey/_/Drive+Baby</link>
       <guid isPermaLink="false">walrus898-1725885003--47577aa8-6f71-4840-9f1e-57b7319f546d---Drive Baby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18f30a615ac8124fc84777f071d84f74.jpg" length="17009" type="image/jpeg"/>
       <pubDate>Mon, 09 Sep 2024 08:30:03 -0400</pubDate>
     </item>
     <item>
@@ -124,7 +116,6 @@
       <title>foliage - What? (4 plays)</title>
       <link>https://www.last.fm/music/foliage/_/What%3F</link>
       <guid isPermaLink="false">walrus898-1725887074--foliage---What?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/668026a55895a33a2cdd27105a2fa0cf.jpg" length="7774" type="image/jpeg"/>
       <pubDate>Mon, 09 Sep 2024 09:04:34 -0400</pubDate>
     </item>
     <item>
@@ -208,7 +199,7 @@
       <title>dyan - Absence (44 plays)</title>
       <link>https://www.last.fm/music/dyan/_/Absence</link>
       <guid isPermaLink="false">walrus898-1725889584--a02fc8df-79fe-4e48-a873-8a553d69937a---Absence</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acd29944827b3fa7225a3cd49ce33322.jpg" length="23368" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acd29944827b3fa7225a3cd49ce33322.jpg" length="70" type="application/json"/>
       <pubDate>Mon, 09 Sep 2024 09:46:24 -0400</pubDate>
     </item>
     <item>
@@ -264,6 +255,7 @@
       <title>Tennis - Late Night (29 plays)</title>
       <link>https://www.last.fm/music/Tennis/_/Late+Night</link>
       <guid isPermaLink="false">walrus898-1725918851--Tennis---Late Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47fbd156883d32518f4360e71bde2384.jpg" length="13095" type="image/jpeg"/>
       <pubDate>Mon, 09 Sep 2024 17:54:11 -0400</pubDate>
     </item>
     <item>
@@ -326,7 +318,7 @@
       <title>Sports - Panama (2 plays)</title>
       <link>https://www.last.fm/music/Sports/_/Panama</link>
       <guid isPermaLink="false">walrus898-1725921201--Sports---Panama</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6fd35e60e53b206c37cb4e9dbb35fd8f.jpg" length="70" type="application/json"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6fd35e60e53b206c37cb4e9dbb35fd8f.jpg" length="17388" type="image/jpeg"/>
       <pubDate>Mon, 09 Sep 2024 18:33:21 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +348,13 @@
       <guid isPermaLink="false">walrus898-1725996681--9689f21c-bd22-4619-9129-bab9199d7e2b---Terror</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d70dc6b055efcc1b129a7cc2342782c.jpg" length="19080" type="image/jpeg"/>
       <pubDate>Tue, 10 Sep 2024 15:31:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>LionLimb - Hurricane (1 play)</title>
+      <link>https://www.last.fm/music/LionLimb/_/Hurricane</link>
+      <guid isPermaLink="false">walrus898-1725996974--417be40b-b026-4dbc-b98d-e1e19eb3d57e---Hurricane</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f0cfe6df7be29f0bfbca91c0ae57a8c.jpg" length="25958" type="image/jpeg"/>
+      <pubDate>Tue, 10 Sep 2024 15:36:14 -0400</pubDate>
     </item>
   </channel>
 </rss>
