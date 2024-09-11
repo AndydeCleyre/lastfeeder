@@ -7,13 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Sep 2024 15:38:54 +0000</lastBuildDate>
-    <item>
-      <title>FAKY - four (1 play)</title>
-      <link>https://www.last.fm/music/FAKY/_/four</link>
-      <guid isPermaLink="false">rockijosh-1725919866--a37c0d59-cce3-4141-8df4-f9285a226468---four</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Sep 2024 12:38:39 +0000</lastBuildDate>
     <item>
       <title>Heartsteel - PARANOIA (100 plays)</title>
       <link>https://www.last.fm/music/Heartsteel/_/PARANOIA</link>
@@ -179,7 +173,7 @@
       <title>Marianas Trench - Down To You (1 play)</title>
       <link>https://www.last.fm/music/Marianas+Trench/_/Down+To+You</link>
       <guid isPermaLink="false">rockijosh-1725973609--e358276d-4377-4b9b-88dd-db0d17b0e3c6---Down To You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3885f6d40406634d8bc7ce6d5209297.jpg" length="70" type="application/json"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3885f6d40406634d8bc7ce6d5209297.jpg" length="28372" type="image/jpeg"/>
       <pubDate>Tue, 10 Sep 2024 09:06:49 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1725981565--677e31f1-4035-463c-8ca4-41175440c919---Family Tree</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/22d11bc36e414094b227486963fe05f1.jpg" length="11690" type="image/jpeg"/>
       <pubDate>Tue, 10 Sep 2024 11:19:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dua Lipa - Training Season (10 plays)</title>
+      <link>https://www.last.fm/music/Dua+Lipa/_/Training+Season</link>
+      <guid isPermaLink="false">rockijosh-1725981996--6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f---Training Season</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d522e7559ad7c4b55613737b7079ed7.png" length="124076" type="image/png"/>
+      <pubDate>Tue, 10 Sep 2024 11:26:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
