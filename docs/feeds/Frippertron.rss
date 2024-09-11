@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 06:27:27 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - The Conqueror (1 play)</title>
-      <link>https://www.last.fm/music/Genesis/_/The+Conqueror</link>
-      <guid isPermaLink="false">Frippertron-1725946398--Genesis---The Conqueror</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c4ddc6f4a014aa0ca87aab4991d3164.jpg" length="2790" type="image/jpeg"/>
-      <pubDate>Tue, 10 Sep 2024 01:33:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genesis - In Hiding (1 play)</title>
-      <link>https://www.last.fm/music/Genesis/_/In+Hiding</link>
-      <guid isPermaLink="false">Frippertron-1725946619--Genesis---In Hiding</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c4ddc6f4a014aa0ca87aab4991d3164.jpg" length="2790" type="image/jpeg"/>
-      <pubDate>Tue, 10 Sep 2024 01:36:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Sep 2024 06:44:56 +0000</lastBuildDate>
     <item>
       <title>Genesis - One Day (1 play)</title>
       <link>https://www.last.fm/music/Genesis/_/One+Day</link>
@@ -149,14 +135,14 @@
       <pubDate>Tue, 10 Sep 2024 04:18:46 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - Mad Man Moon (49 plays)</title>
+      <title>Genesis - Mad Man Moon (50 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Mad+Man+Moon</link>
       <guid isPermaLink="false">Frippertron-1725956569--Genesis---Mad Man Moon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
       <pubDate>Tue, 10 Sep 2024 04:22:49 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - Ripples (151 plays)</title>
+      <title>Genesis - Ripples (152 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Ripples</link>
       <guid isPermaLink="false">Frippertron-1725957026--Genesis---Ripples</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1726035818--Genesis---Entangled</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
       <pubDate>Wed, 11 Sep 2024 02:23:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Mad Man Moon (50 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Mad+Man+Moon</link>
+      <guid isPermaLink="false">Frippertron-1726036207--Genesis---Mad Man Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
+      <pubDate>Wed, 11 Sep 2024 02:30:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Ripples (152 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Ripples</link>
+      <guid isPermaLink="false">Frippertron-1726036668--Genesis---Ripples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/08f9ed2c3b3f64f7582ccaaaec9adb2c.png" length="152755" type="image/png"/>
+      <pubDate>Wed, 11 Sep 2024 02:37:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
