@@ -32,7 +32,7 @@ python-dateutil==2.9.0.post0
     # via
     #   delorean
     #   feedgen
-pytz==2024.1
+pytz==2024.2
     # via delorean
 six==1.16.0
     # via python-dateutil
