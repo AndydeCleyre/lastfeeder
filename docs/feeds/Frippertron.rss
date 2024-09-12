@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Sep 2024 03:25:40 +0000</lastBuildDate>
-    <item>
-      <title>Anthony Phillips - Collections (41 plays)</title>
-      <link>https://www.last.fm/music/Anthony+Phillips/_/Collections</link>
-      <guid isPermaLink="false">Frippertron-1726038117--e62f6374-7e6f-4492-bb4a-3a1c62366e61---Collections</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16377ea368345f5478975d55ab6ec870.jpg" length="32853" type="image/jpeg"/>
-      <pubDate>Wed, 11 Sep 2024 03:01:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Anthony Phillips - Sleepfall: The Geese Fly West (21 plays)</title>
-      <link>https://www.last.fm/music/Anthony+Phillips/_/Sleepfall:+The+Geese+Fly+West</link>
-      <guid isPermaLink="false">Frippertron-1726038304--e62f6374-7e6f-4492-bb4a-3a1c62366e61---Sleepfall: The Geese Fly West</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16377ea368345f5478975d55ab6ec870.jpg" length="32853" type="image/jpeg"/>
-      <pubDate>Wed, 11 Sep 2024 03:05:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Sep 2024 03:40:43 +0000</lastBuildDate>
     <item>
       <title>Anthony Phillips - Regrets (64 plays)</title>
       <link>https://www.last.fm/music/Anthony+Phillips/_/Regrets</link>
@@ -44,7 +30,7 @@
       <pubDate>Wed, 11 Sep 2024 03:34:49 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - Watcher of the Skies (111 plays)</title>
+      <title>Genesis - Watcher of the Skies (112 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Watcher+of+the+Skies</link>
       <guid isPermaLink="false">Frippertron-1726040483--Genesis---Watcher of the Skies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/277be551b5fef8d7bdb88fd9add43c4e.jpg" length="30556" type="image/jpeg"/>
@@ -260,7 +246,7 @@
       <pubDate>Wed, 11 Sep 2024 12:04:21 -0400</pubDate>
     </item>
     <item>
-      <title>Genesis - Supper's Ready (105 plays)</title>
+      <title>Genesis - Supper's Ready (106 plays)</title>
       <link>https://www.last.fm/music/Genesis/_/Supper%27s+Ready</link>
       <guid isPermaLink="false">Frippertron-1726071218--Genesis---Supper's Ready</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -356,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1726110936--Genesis---The Lamia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1edfd465e2c6d85950625add8f9f0ceb.png" length="94975" type="image/png"/>
       <pubDate>Wed, 11 Sep 2024 23:15:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Watcher of the Skies (112 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Watcher+of+the+Skies</link>
+      <guid isPermaLink="false">Frippertron-1726111362--Genesis---Watcher of the Skies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
+      <pubDate>Wed, 11 Sep 2024 23:22:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genesis - Supper's Ready (106 plays)</title>
+      <link>https://www.last.fm/music/Genesis/_/Supper%27s+Ready</link>
+      <guid isPermaLink="false">Frippertron-1726111803--Genesis---Supper's Ready</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png" length="236988" type="image/png"/>
+      <pubDate>Wed, 11 Sep 2024 23:30:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
