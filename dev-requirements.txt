@@ -12,7 +12,7 @@ flit==3.9.0
     # via -r dev-requirements.in
 flit-core==3.9.0
     # via flit
-idna==3.8
+idna==3.9
     # via requests
 isort==5.13.2
     # via -r dev-requirements.in
@@ -22,7 +22,7 @@ packaging==24.1
     # via black
 pathspec==0.12.1
     # via black
-platformdirs==4.3.2
+platformdirs==4.3.3
     # via black
 requests==2.32.3
     # via flit
