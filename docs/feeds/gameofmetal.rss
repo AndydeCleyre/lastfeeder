@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 01:40:06 +0000</lastBuildDate>
-    <item>
-      <title>Confessor - Uncontrolled (3 plays)</title>
-      <link>https://www.last.fm/music/Confessor/_/Uncontrolled</link>
-      <guid isPermaLink="false">gameofmetal-1726419105--3a60bc55-15e7-4841-8801-f2fd3766e834---Uncontrolled</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c8b4d526aaa76a66ba6c7002054d1b1.jpg" length="28507" type="image/jpeg"/>
-      <pubDate>Sun, 15 Sep 2024 12:51:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Confessor - Condemned (2 plays)</title>
-      <link>https://www.last.fm/music/Confessor/_/Condemned</link>
-      <guid isPermaLink="false">gameofmetal-1726419344--3a60bc55-15e7-4841-8801-f2fd3766e834---Condemned</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c8b4d526aaa76a66ba6c7002054d1b1.jpg" length="28507" type="image/jpeg"/>
-      <pubDate>Sun, 15 Sep 2024 12:55:44 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Sep 2024 12:39:43 +0000</lastBuildDate>
     <item>
       <title>The Mountain Goats - Jaipur (4 plays)</title>
       <link>https://www.last.fm/music/The+Mountain+Goats/_/Jaipur</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1726445892--3d46727d-9367-47b8-8b8b-f7b6767f7d57---Pantheist</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e7e3cea2ec239739d1e2e81a80dea0a3.jpg" length="28414" type="image/jpeg"/>
       <pubDate>Sun, 15 Sep 2024 20:18:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Agalloch - A Celebration for the Death of Man (6 plays)</title>
+      <link>https://www.last.fm/music/Agalloch/_/A+Celebration+for+the+Death+of+Man</link>
+      <guid isPermaLink="false">gameofmetal-1726489113--3d46727d-9367-47b8-8b8b-f7b6767f7d57---A Celebration for the Death of Man</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb8b6b0db163433eb22c77accf436050.png" length="85747" type="image/png"/>
+      <pubDate>Mon, 16 Sep 2024 08:18:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Agalloch - In the Shadow of Our Pale Companion (6 plays)</title>
+      <link>https://www.last.fm/music/Agalloch/_/In+the+Shadow+of+Our+Pale+Companion</link>
+      <guid isPermaLink="false">gameofmetal-1726489257--3d46727d-9367-47b8-8b8b-f7b6767f7d57---In the Shadow of Our Pale Companion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb8b6b0db163433eb22c77accf436050.png" length="85747" type="image/png"/>
+      <pubDate>Mon, 16 Sep 2024 08:20:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
