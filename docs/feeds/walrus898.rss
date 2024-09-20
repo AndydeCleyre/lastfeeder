@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Sep 2024 18:26:39 +0000</lastBuildDate>
-    <item>
-      <title>bennytheghost - Lying To Myself (1 play)</title>
-      <link>https://www.last.fm/music/bennytheghost/_/Lying+To+Myself</link>
-      <guid isPermaLink="false">walrus898-1726714219--bennytheghost---Lying To Myself</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ed95077b3420a4d5a5e93272ba6d5a3.jpg" length="14766" type="image/jpeg"/>
-      <pubDate>Wed, 18 Sep 2024 22:50:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>JW Francis - Mississippi (1 play)</title>
-      <link>https://www.last.fm/music/JW+Francis/_/Mississippi</link>
-      <guid isPermaLink="false">walrus898-1726714427--0f37d5a9-77aa-41b0-99be-a140bc8c65d1---Mississippi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78dcac35a0d665be9a048d97b365a613.jpg" length="36089" type="image/jpeg"/>
-      <pubDate>Wed, 18 Sep 2024 22:53:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Sep 2024 18:44:43 +0000</lastBuildDate>
     <item>
       <title>Kaeto - U R MINE (1 play)</title>
       <link>https://www.last.fm/music/Kaeto/_/U+R+MINE</link>
@@ -100,7 +86,7 @@
       <pubDate>Wed, 18 Sep 2024 23:27:53 -0400</pubDate>
     </item>
     <item>
-      <title>True Blue - Youth (1 play)</title>
+      <title>True Blue - Youth (2 plays)</title>
       <link>https://www.last.fm/music/True+Blue/_/Youth</link>
       <guid isPermaLink="false">walrus898-1726716614--dde545bb-1a2e-448d-ba4c-30482d5f496f---Youth</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c9b237db28fcd0232995c60d701baed.jpg" length="11435" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">walrus898-1726856460--4173ee0d-e003-496a-98eb-a2eaa90cb3f7---Ready For Sun (Touch)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8e557c5e0b08733673d22fb8c1344115.png" length="186904" type="image/png"/>
       <pubDate>Fri, 20 Sep 2024 14:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>JW Francis - Mississippi (2 plays)</title>
+      <link>https://www.last.fm/music/JW+Francis/_/Mississippi</link>
+      <guid isPermaLink="false">walrus898-1726856691--0f37d5a9-77aa-41b0-99be-a140bc8c65d1---Mississippi</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/78dcac35a0d665be9a048d97b365a613.jpg" length="36089" type="image/jpeg"/>
+      <pubDate>Fri, 20 Sep 2024 14:24:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>True Blue - Youth (2 plays)</title>
+      <link>https://www.last.fm/music/True+Blue/_/Youth</link>
+      <guid isPermaLink="false">walrus898-1726856866--dde545bb-1a2e-448d-ba4c-30482d5f496f---Youth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c9b237db28fcd0232995c60d701baed.jpg" length="11435" type="image/jpeg"/>
+      <pubDate>Fri, 20 Sep 2024 14:27:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
