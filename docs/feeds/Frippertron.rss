@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Sep 2024 04:23:41 +0000</lastBuildDate>
-    <item>
-      <title>Anthony Phillips - Stranger (2 plays)</title>
-      <link>https://www.last.fm/music/Anthony+Phillips/_/Stranger</link>
-      <guid isPermaLink="false">Frippertron-1726743668--e62f6374-7e6f-4492-bb4a-3a1c62366e61---Stranger</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bac805ae3b72454da9b93f77ec4147bd.jpg" length="21696" type="image/jpeg"/>
-      <pubDate>Thu, 19 Sep 2024 07:01:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Blacklight Shine (30 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Blacklight+Shine</link>
-      <guid isPermaLink="false">Frippertron-1726744557--20883363-1ea4-4d72-ad72-c0e767038f3e---Blacklight Shine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/293703b61fd7e3cb361552272e57185d.jpg" length="8242" type="image/jpeg"/>
-      <pubDate>Thu, 19 Sep 2024 07:15:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Sep 2024 04:42:08 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Graveyard Love (3 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Graveyard+Love</link>
@@ -352,11 +338,25 @@
       <pubDate>Thu, 19 Sep 2024 23:59:09 -0400</pubDate>
     </item>
     <item>
-      <title>U.K. - Caesar's Palace Blues (49 plays)</title>
+      <title>U.K. - Caesar's Palace Blues (50 plays)</title>
       <link>https://www.last.fm/music/U.K./_/Caesar%27s+Palace+Blues</link>
       <guid isPermaLink="false">Frippertron-1726805060--U.K.---Caesar's Palace Blues</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f0af2981dfc002b0c5ee97faf1f0e85.png" length="204913" type="image/png"/>
       <pubDate>Fri, 20 Sep 2024 00:04:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>U.K. - Caesar's Palace Blues (50 plays)</title>
+      <link>https://www.last.fm/music/U.K./_/Caesar%27s+Palace+Blues</link>
+      <guid isPermaLink="false">Frippertron-1726806144--U.K.---Caesar's Palace Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f0af2981dfc002b0c5ee97faf1f0e85.png" length="204913" type="image/png"/>
+      <pubDate>Fri, 20 Sep 2024 00:22:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (105 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1726806435--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Fri, 20 Sep 2024 00:27:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
