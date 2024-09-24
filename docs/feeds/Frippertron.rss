@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Sep 2024 10:43:25 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Goliath (134 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
-      <guid isPermaLink="false">Frippertron-1727146628--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Mon, 23 Sep 2024 22:57:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Anthony Phillips - Wind - Tales (7 plays)</title>
-      <link>https://www.last.fm/music/Anthony+Phillips/_/Wind+-+Tales</link>
-      <guid isPermaLink="false">Frippertron-1727147552--e62f6374-7e6f-4492-bb4a-3a1c62366e61---Wind - Tales</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16377ea368345f5478975d55ab6ec870.jpg" length="32853" type="image/jpeg"/>
-      <pubDate>Mon, 23 Sep 2024 23:12:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Sep 2024 10:54:59 +0000</lastBuildDate>
     <item>
       <title>Anthony Phillips - Which Way The Wind Blows (26 plays)</title>
       <link>https://www.last.fm/music/Anthony+Phillips/_/Which+Way+The+Wind+Blows</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1727174395--20883363-1ea4-4d72-ad72-c0e767038f3e---Tira me a las arañas</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
       <pubDate>Tue, 24 Sep 2024 06:39:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Drunkship of Lanterns (93 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Drunkship+of+Lanterns</link>
+      <guid isPermaLink="false">Frippertron-1727174484--20883363-1ea4-4d72-ad72-c0e767038f3e---Drunkship of Lanterns</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 06:41:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Day of the Baphomets (111 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Day+of+the+Baphomets</link>
+      <guid isPermaLink="false">Frippertron-1727174849--20883363-1ea4-4d72-ad72-c0e767038f3e---Day of the Baphomets</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Tue, 24 Sep 2024 06:47:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
