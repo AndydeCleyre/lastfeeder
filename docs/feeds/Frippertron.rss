@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 04:55:00 +0000</lastBuildDate>
-    <item>
-      <title>clipping. - Something Underneath (5 plays)</title>
-      <link>https://www.last.fm/music/clipping./_/Something+Underneath</link>
-      <guid isPermaLink="false">Frippertron-1727254801--84ca8fa4-7cca-4948-a90a-cb44db29853d---Something Underneath</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/018cfaf835606f97de6dc3144a2bb38b.png" length="32273" type="image/png"/>
-      <pubDate>Wed, 25 Sep 2024 05:00:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Sep 2024 05:19:22 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Cavalettas (51 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cavalettas</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1727326182--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Ticking</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/004b2b1ce4649ac1ac2871abde93efe8.jpg" length="14897" type="image/jpeg"/>
       <pubDate>Thu, 26 Sep 2024 00:49:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - O Salome (257 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/O+Salome</link>
+      <guid isPermaLink="false">Frippertron-1727326625--66f8692c-966d-4dfb-a2ed-babf51241922---O Salome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017073b2445e401daebeae96368f1365.jpg" length="20967" type="image/jpeg"/>
+      <pubDate>Thu, 26 Sep 2024 00:57:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
