@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Sep 2024 17:38:25 +0000</lastBuildDate>
-    <item>
-      <title>David Landau - Icky Sticky Bubble Gum (42 plays)</title>
-      <link>https://www.last.fm/music/David+Landau/_/Icky+Sticky+Bubble+Gum</link>
-      <guid isPermaLink="false">ddgromit-1727316632--07a6fcb6-2df4-444b-b622-46b20dcf20f7---Icky Sticky Bubble Gum</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69f4fa00beaf97c42d8e32fb76ef2264.jpg" length="33072" type="image/jpeg"/>
-      <pubDate>Wed, 25 Sep 2024 22:10:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Sep 2024 17:52:20 +0000</lastBuildDate>
     <item>
       <title>Cocomelon - Itsy Bitsy Spider (23 plays)</title>
       <link>https://www.last.fm/music/Cocomelon/_/Itsy+Bitsy+Spider</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1727631055--The Groovy Ghouls---Scary Halloween Song 1</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 29 Sep 2024 13:30:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Groovy Ghouls - Scary Halloween Song 2 (1 play)</title>
+      <link>https://www.last.fm/music/The+Groovy+Ghouls/_/Scary+Halloween+Song+2</link>
+      <guid isPermaLink="false">ddgromit-1727631331--The Groovy Ghouls---Scary Halloween Song 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 29 Sep 2024 13:35:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
