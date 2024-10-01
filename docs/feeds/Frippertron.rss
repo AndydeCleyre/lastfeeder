@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Oct 2024 20:22:04 +0000</lastBuildDate>
-    <item>
-      <title>Sloche - J'un oeil (2 plays)</title>
-      <link>https://www.last.fm/music/Sloche/_/J%27un+oeil</link>
-      <guid isPermaLink="false">Frippertron-1727700551--806ceb17-9112-4631-b154-613f63e8ede9---J'un oeil</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dfe928064644084b8f29c5ac9c814f6.jpg" length="18543" type="image/jpeg"/>
-      <pubDate>Mon, 30 Sep 2024 08:49:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Sloche - Algébrique (2 plays)</title>
-      <link>https://www.last.fm/music/Sloche/_/Alg%C3%A9brique</link>
-      <guid isPermaLink="false">Frippertron-1727700838--806ceb17-9112-4631-b154-613f63e8ede9---Algébrique</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dfe928064644084b8f29c5ac9c814f6.jpg" length="18543" type="image/jpeg"/>
-      <pubDate>Mon, 30 Sep 2024 08:53:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Oct 2024 20:40:21 +0000</lastBuildDate>
     <item>
       <title>Sloche - Potages Aux Herbes Douteuses (2 plays)</title>
       <link>https://www.last.fm/music/Sloche/_/Potages+Aux+Herbes+Douteuses</link>
@@ -51,7 +37,7 @@
       <pubDate>Mon, 30 Sep 2024 09:32:32 -0400</pubDate>
     </item>
     <item>
-      <title>The Enid - Earthborn (79 plays)</title>
+      <title>The Enid - Earthborn (80 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Earthborn</link>
       <guid isPermaLink="false">Frippertron-1727704112--66f8692c-966d-4dfb-a2ed-babf51241922---Earthborn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa5be6109c174cd19024712962285fd2.jpg" length="29501" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1727813133--66f8692c-966d-4dfb-a2ed-babf51241922---Longhome</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa5be6109c174cd19024712962285fd2.jpg" length="29501" type="image/jpeg"/>
       <pubDate>Tue, 01 Oct 2024 16:05:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Earthborn (80 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Earthborn</link>
+      <guid isPermaLink="false">Frippertron-1727814092--66f8692c-966d-4dfb-a2ed-babf51241922---Earthborn</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa5be6109c174cd19024712962285fd2.jpg" length="29501" type="image/jpeg"/>
+      <pubDate>Tue, 01 Oct 2024 16:21:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - O Salome (259 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/O+Salome</link>
+      <guid isPermaLink="false">Frippertron-1727814587--66f8692c-966d-4dfb-a2ed-babf51241922---O Salome</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/017073b2445e401daebeae96368f1365.jpg" length="20967" type="image/jpeg"/>
+      <pubDate>Tue, 01 Oct 2024 16:29:47 -0400</pubDate>
     </item>
   </channel>
 </rss>
