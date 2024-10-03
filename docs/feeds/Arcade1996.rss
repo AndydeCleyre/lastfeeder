@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Oct 2024 13:53:43 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Jesse James Symphony (7 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Jesse+James+Symphony</link>
-      <guid isPermaLink="false">Arcade1996-1727776541--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Jesse James Symphony</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24cdf257f968524275cd2c8fd6682a67.jpg" length="23814" type="image/jpeg"/>
-      <pubDate>Tue, 01 Oct 2024 05:55:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Oct 2024 14:19:45 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Jesse James Bolero (7 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Jesse+James+Bolero</link>
@@ -317,7 +310,7 @@
       <pubDate>Thu, 03 Oct 2024 06:30:02 -0400</pubDate>
     </item>
     <item>
-      <title>Geordie Greep - Blues (1 play)</title>
+      <title>Geordie Greep - Blues (2 plays)</title>
       <link>https://www.last.fm/music/Geordie+Greep/_/Blues</link>
       <guid isPermaLink="false">Arcade1996-1727951766--Geordie Greep---Blues</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11df295b09e8ff4d30cb074997b5c3ef.jpg" length="26506" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1727963060--Geordie Greep---Holy, Holy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/301057c67f26d9a6604e17e0cf43b76e.jpg" length="26506" type="image/jpeg"/>
       <pubDate>Thu, 03 Oct 2024 09:44:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Geordie Greep - Blues (2 plays)</title>
+      <link>https://www.last.fm/music/Geordie+Greep/_/Blues</link>
+      <guid isPermaLink="false">Arcade1996-1727963446--Geordie Greep---Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11df295b09e8ff4d30cb074997b5c3ef.jpg" length="26506" type="image/jpeg"/>
+      <pubDate>Thu, 03 Oct 2024 09:50:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
