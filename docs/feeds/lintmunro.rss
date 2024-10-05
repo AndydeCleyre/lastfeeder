@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 01:36:26 +0000</lastBuildDate>
-    <item>
-      <title>Fred again.. - fear less (1 play)</title>
-      <link>https://www.last.fm/music/Fred+again../_/fear+less</link>
-      <guid isPermaLink="false">lintmunro-1725734973--Fred again..---fear less</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb0f3b13cd053e93d27f5a62a5a20425.jpg" length="8342" type="image/jpeg"/>
-      <pubDate>Sat, 07 Sep 2024 14:49:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fred again.. - Places to Be (2 plays)</title>
-      <link>https://www.last.fm/music/Fred+again../_/Places+to+Be</link>
-      <guid isPermaLink="false">lintmunro-1725735228--Fred again..---Places to Be</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb0f3b13cd053e93d27f5a62a5a20425.jpg" length="8342" type="image/jpeg"/>
-      <pubDate>Sat, 07 Sep 2024 14:53:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Oct 2024 02:40:27 +0000</lastBuildDate>
     <item>
       <title>Fred again.. - Glow (1 play)</title>
       <link>https://www.last.fm/music/Fred+again../_/Glow</link>
@@ -44,7 +30,7 @@
       <pubDate>Sat, 07 Sep 2024 15:07:17 -0400</pubDate>
     </item>
     <item>
-      <title>Opeth - §1 - Radio Edit (2 plays)</title>
+      <title>Opeth - §1 - Radio Edit</title>
       <link>https://www.last.fm/music/Opeth/_/%C2%A71+-+Radio+Edit</link>
       <guid isPermaLink="false">lintmunro-1725810430--Opeth---§1 - Radio Edit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8cd9320facb6c59adfa174f175518282.jpg" length="20138" type="image/jpeg"/>
@@ -54,7 +40,6 @@
       <title>Opeth - §3 (1 play)</title>
       <link>https://www.last.fm/music/Opeth/_/%C2%A73</link>
       <guid isPermaLink="false">lintmunro-1725810720--c14b4180-dc87-481e-b17a-64e4150f90f6---§3</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ec42ad1a6e5687efdf1895a05f4548e4.jpg" length="16174" type="image/jpeg"/>
       <pubDate>Sun, 08 Sep 2024 11:52:00 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">lintmunro-1728091172--a5f0f298-776a-4909-bc09-4fd56a680542---The Message [Tablet I]</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90fd13ba3951c06f1cc2d65a0d28deff.png" length="231901" type="image/png"/>
       <pubDate>Fri, 04 Oct 2024 21:19:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Blood Incantation - The Message [Tablet II] (1 play)</title>
+      <link>https://www.last.fm/music/Blood+Incantation/_/The+Message+%5BTablet+II%5D</link>
+      <guid isPermaLink="false">lintmunro-1728091641--a5f0f298-776a-4909-bc09-4fd56a680542---The Message [Tablet II]</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90fd13ba3951c06f1cc2d65a0d28deff.png" length="231901" type="image/png"/>
+      <pubDate>Fri, 04 Oct 2024 21:27:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Blood Incantation - The Message [Tablet III] (1 play)</title>
+      <link>https://www.last.fm/music/Blood+Incantation/_/The+Message+%5BTablet+III%5D</link>
+      <guid isPermaLink="false">lintmunro-1728093168--a5f0f298-776a-4909-bc09-4fd56a680542---The Message [Tablet III]</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90fd13ba3951c06f1cc2d65a0d28deff.png" length="231901" type="image/png"/>
+      <pubDate>Fri, 04 Oct 2024 21:52:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
