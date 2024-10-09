@@ -2,7 +2,7 @@ black==24.10.0
     # via -r dev-requirements.in
 certifi==2024.8.30
     # via requests
-charset-normalizer==3.3.2
+charset-normalizer==3.4.0
     # via requests
 click==8.1.7
     # via black
@@ -28,7 +28,7 @@ requests==2.32.3
     # via flit
 tomli==2.0.2
     # via black
-tomli-w==1.0.0
+tomli-w==1.1.0
     # via flit
 typing-extensions==4.12.2
     # via black
