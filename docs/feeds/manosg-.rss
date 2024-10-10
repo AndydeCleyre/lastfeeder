@@ -7,23 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 09:24:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 09:40:03 +0000</lastBuildDate>
     <item>
-      <title>Amethyst - Stand Up And Fight (3 plays)</title>
-      <link>https://www.last.fm/music/Amethyst/_/Stand+Up+And+Fight</link>
-      <guid isPermaLink="false">manosg--1728363180--d992c8f7-844e-4e54-8d1f-b1eeec540a47---Stand Up And Fight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/189ec04389f4e6ca70e51ccd3e88b794.jpg" length="39120" type="image/jpeg"/>
-      <pubDate>Tue, 08 Oct 2024 00:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Amethyst - Won't Do It Again (2 plays)</title>
-      <link>https://www.last.fm/music/Amethyst/_/Won%27t+Do+It+Again</link>
-      <guid isPermaLink="false">manosg--1728363537--d992c8f7-844e-4e54-8d1f-b1eeec540a47---Won't Do It Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/189ec04389f4e6ca70e51ccd3e88b794.jpg" length="39120" type="image/jpeg"/>
-      <pubDate>Tue, 08 Oct 2024 00:58:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Amethyst - Running Out of Time (2 plays)</title>
+      <title>Amethyst - Running Out of Time (3 plays)</title>
       <link>https://www.last.fm/music/Amethyst/_/Running+Out+of+Time</link>
       <guid isPermaLink="false">manosg--1728364769--d992c8f7-844e-4e54-8d1f-b1eeec540a47---Running Out of Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/189ec04389f4e6ca70e51ccd3e88b794.jpg" length="39120" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1728551614--d992c8f7-844e-4e54-8d1f-b1eeec540a47---Stand Up And Fight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/189ec04389f4e6ca70e51ccd3e88b794.jpg" length="39120" type="image/jpeg"/>
       <pubDate>Thu, 10 Oct 2024 05:13:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Amethyst - Won't Do It Again (3 plays)</title>
+      <link>https://www.last.fm/music/Amethyst/_/Won%27t+Do+It+Again</link>
+      <guid isPermaLink="false">manosg--1728552023--d992c8f7-844e-4e54-8d1f-b1eeec540a47---Won't Do It Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/189ec04389f4e6ca70e51ccd3e88b794.jpg" length="39120" type="image/jpeg"/>
+      <pubDate>Thu, 10 Oct 2024 05:20:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Amethyst - Running Out of Time (3 plays)</title>
+      <link>https://www.last.fm/music/Amethyst/_/Running+Out+of+Time</link>
+      <guid isPermaLink="false">manosg--1728552270--d992c8f7-844e-4e54-8d1f-b1eeec540a47---Running Out of Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/189ec04389f4e6ca70e51ccd3e88b794.jpg" length="39120" type="image/jpeg"/>
+      <pubDate>Thu, 10 Oct 2024 05:24:30 -0400</pubDate>
     </item>
   </channel>
 </rss>
