@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 09:40:20 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Cotopaxi (35 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Cotopaxi</link>
-      <guid isPermaLink="false">Frippertron-1729132681--20883363-1ea4-4d72-ad72-c0e767038f3e---Cotopaxi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fd343871112bd1e24193af142a38f7e.jpg" length="26295" type="image/jpeg"/>
-      <pubDate>Wed, 16 Oct 2024 22:38:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Oct 2024 09:52:11 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Desperate Graves (40 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Desperate+Graves</link>
@@ -198,7 +191,7 @@
       <pubDate>Thu, 17 Oct 2024 03:01:03 -0400</pubDate>
     </item>
     <item>
-      <title>geordie greep - The Magician (27 plays)</title>
+      <title>geordie greep - The Magician (28 plays)</title>
       <link>https://www.last.fm/music/geordie+greep/_/The+Magician</link>
       <guid isPermaLink="false">Frippertron-1729148838--geordie greep---The Magician</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1729157736--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Thu, 17 Oct 2024 05:35:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>geordie greep - The Magician (28 plays)</title>
+      <link>https://www.last.fm/music/geordie+greep/_/The+Magician</link>
+      <guid isPermaLink="false">Frippertron-1729158247--geordie greep---The Magician</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
+      <pubDate>Thu, 17 Oct 2024 05:44:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
