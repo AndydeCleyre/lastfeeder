@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 10:21:27 +0000</lastBuildDate>
-    <item>
-      <title>Geordie Greep - Blues (29 plays)</title>
-      <link>https://www.last.fm/music/Geordie+Greep/_/Blues</link>
-      <guid isPermaLink="false">Frippertron-1729134188--6ca6f49f-41f3-49ae-8403-44d07bc6f564---Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
-      <pubDate>Wed, 16 Oct 2024 23:03:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>black midi - John L (149 plays)</title>
-      <link>https://www.last.fm/music/black+midi/_/John+L</link>
-      <guid isPermaLink="false">Frippertron-1729134534--4afbef0a-05ee-4551-b0e0-f1f1870d8f1c---John L</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67a4d6e9f3425753c90e0eb0e2d19c7c.jpg" length="39395" type="image/jpeg"/>
-      <pubDate>Wed, 16 Oct 2024 23:08:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Finch - Register Magister (5 plays)</title>
-      <link>https://www.last.fm/music/Finch/_/Register+Magister</link>
-      <guid isPermaLink="false">Frippertron-1729134859--746737be-e792-42bb-b18c-fb46d7935d7a---Register Magister</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e20bbc15610e7b0e8f3a0e6d200536b9.jpg" length="30549" type="image/jpeg"/>
-      <pubDate>Wed, 16 Oct 2024 23:14:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Oct 2024 10:42:52 +0000</lastBuildDate>
     <item>
       <title>Jeff Wayne - The Eve of the War (27 plays)</title>
       <link>https://www.last.fm/music/Jeff+Wayne/_/The+Eve+of+the+War</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1729159898--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Sailor's Tale</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 17 Oct 2024 06:11:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - The Letters (77 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/The+Letters</link>
+      <guid isPermaLink="false">Frippertron-1729160353--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Letters</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 17 Oct 2024 06:19:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Ladies of the Road (112 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Ladies+of+the+Road</link>
+      <guid isPermaLink="false">Frippertron-1729160622--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Ladies of the Road</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 17 Oct 2024 06:23:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Islands (71 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Islands</link>
+      <guid isPermaLink="false">Frippertron-1729160989--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Islands</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 17 Oct 2024 06:29:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
