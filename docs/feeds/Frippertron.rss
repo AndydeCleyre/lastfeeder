@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Oct 2024 04:25:27 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Cotopaxi (38 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Cotopaxi</link>
-      <guid isPermaLink="false">Frippertron-1729503644--20883363-1ea4-4d72-ad72-c0e767038f3e---Cotopaxi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fd343871112bd1e24193af142a38f7e.jpg" length="26295" type="image/jpeg"/>
-      <pubDate>Mon, 21 Oct 2024 05:40:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Summer of Love (3 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Summer+of+Love</link>
-      <guid isPermaLink="false">Frippertron-1729503905--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Summer of Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60be2ec8d07c4f36a5b6752261aac48c.jpg" length="27725" type="image/jpeg"/>
-      <pubDate>Mon, 21 Oct 2024 05:45:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Oct 2024 04:44:06 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Aberinkula (109 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1729570456--5193ce6b-a315-4c50-ae49-54e69ffbc988---Orange Skin Food</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32f0f92a188a4607af54ee8a3dd8b54a.jpg" length="39501" type="image/jpeg"/>
       <pubDate>Tue, 22 Oct 2024 00:14:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soft Machine - A Door Opens and Closes (13 plays)</title>
+      <link>https://www.last.fm/music/Soft+Machine/_/A+Door+Opens+and+Closes</link>
+      <guid isPermaLink="false">Frippertron-1729571690--5193ce6b-a315-4c50-ae49-54e69ffbc988---A Door Opens and Closes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32f0f92a188a4607af54ee8a3dd8b54a.jpg" length="39501" type="image/jpeg"/>
+      <pubDate>Tue, 22 Oct 2024 00:34:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Soft Machine - 10:30 Returns To the Bedroom (14 plays)</title>
+      <link>https://www.last.fm/music/Soft+Machine/_/10:30+Returns+To+the+Bedroom</link>
+      <guid isPermaLink="false">Frippertron-1729571759--5193ce6b-a315-4c50-ae49-54e69ffbc988---10:30 Returns To the Bedroom</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32f0f92a188a4607af54ee8a3dd8b54a.jpg" length="39501" type="image/jpeg"/>
+      <pubDate>Tue, 22 Oct 2024 00:35:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
