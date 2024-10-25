@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Oct 2024 09:24:07 +0000</lastBuildDate>
-    <item>
-      <title>Geordie Greep - Blues (33 plays)</title>
-      <link>https://www.last.fm/music/Geordie+Greep/_/Blues</link>
-      <guid isPermaLink="false">Frippertron-1729823774--6ca6f49f-41f3-49ae-8403-44d07bc6f564---Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
-      <pubDate>Thu, 24 Oct 2024 22:36:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Geordie Greep - Terra (13 plays)</title>
-      <link>https://www.last.fm/music/Geordie+Greep/_/Terra</link>
-      <guid isPermaLink="false">Frippertron-1729824117--6ca6f49f-41f3-49ae-8403-44d07bc6f564---Terra</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
-      <pubDate>Thu, 24 Oct 2024 22:41:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Oct 2024 09:40:16 +0000</lastBuildDate>
     <item>
       <title>Geordie Greep - Holy, Holy (42 plays)</title>
       <link>https://www.last.fm/music/Geordie+Greep/_/Holy,+Holy</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1729846746--4efc4d86-18b5-4b6f-9380-6b8910482d37---Get Stupid</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e77c732e375d4b44b5085ad8aff668c2.png" length="219748" type="image/png"/>
       <pubDate>Fri, 25 Oct 2024 04:59:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Isaac Hayes - (They Long to Be) Close to You (37 plays)</title>
+      <link>https://www.last.fm/music/Isaac+Hayes/_/(They+Long+to+Be)+Close+to+You</link>
+      <guid isPermaLink="false">Frippertron-1729848045--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---(They Long to Be) Close to You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb9dd2d55dd1a1a34970c7b25c5f0a83.png" length="150722" type="image/png"/>
+      <pubDate>Fri, 25 Oct 2024 05:20:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Drunkship of Lanterns (101 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Drunkship+of+Lanterns</link>
+      <guid isPermaLink="false">Frippertron-1729848867--20883363-1ea4-4d72-ad72-c0e767038f3e---Drunkship of Lanterns</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd757ae20efd45dfb68d8303646afa7d.png" length="131170" type="image/png"/>
+      <pubDate>Fri, 25 Oct 2024 05:34:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
