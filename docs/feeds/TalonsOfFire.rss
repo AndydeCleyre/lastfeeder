@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Oct 2024 02:47:39 +0000</lastBuildDate>
-    <item>
-      <title>HAIM - If I Could Change Your Mind (4 plays)</title>
-      <link>https://www.last.fm/music/HAIM/_/If+I+Could+Change+Your+Mind</link>
-      <guid isPermaLink="false">TalonsOfFire-1728768425--aef06569-098f-4218-a577-b413944d9493---If I Could Change Your Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/433656941a78d5d94ef39ab8a7e65c5a.png" length="247067" type="image/png"/>
-      <pubDate>Sat, 12 Oct 2024 17:27:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Oct 2024 18:54:06 +0000</lastBuildDate>
     <item>
       <title>Eddie Vedder - Rise (1 play)</title>
       <link>https://www.last.fm/music/Eddie+Vedder/_/Rise</link>
@@ -26,6 +19,7 @@
       <title>Toby Driver - N.G.H.4.M. (Never Gonna Happen 4 Me) (3 plays)</title>
       <link>https://www.last.fm/music/Toby+Driver/_/N.G.H.4.M.+(Never+Gonna+Happen+4+Me)</link>
       <guid isPermaLink="false">TalonsOfFire-1728768840--3dfa29d2-6a2e-4092-9bef-6e336782dca9---N.G.H.4.M. (Never Gonna Happen 4 Me)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6924dc22cea0ddc2ee6ee0e8542d436c.jpg" length="10515" type="image/jpeg"/>
       <pubDate>Sat, 12 Oct 2024 17:34:00 -0400</pubDate>
     </item>
     <item>
@@ -284,7 +278,6 @@
       <title>Hildur Guðnadóttir - The Dress (3 plays)</title>
       <link>https://www.last.fm/music/Hildur+Gu%C3%B0nad%C3%B3ttir/_/The+Dress</link>
       <guid isPermaLink="false">TalonsOfFire-1729775396--8a399a51-6b93-448e-82c0-f86c83602605---The Dress</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c78f86cea01ced4694d153894eee261.jpg" length="15691" type="image/jpeg"/>
       <pubDate>Thu, 24 Oct 2024 09:09:56 -0400</pubDate>
     </item>
     <item>
@@ -351,11 +344,18 @@
       <pubDate>Sat, 26 Oct 2024 18:40:22 -0400</pubDate>
     </item>
     <item>
-      <title>Joe Hisaishi - Summer (1 play)</title>
+      <title>Joe Hisaishi - Summer (2 plays)</title>
       <link>https://www.last.fm/music/Joe+Hisaishi/_/Summer</link>
       <guid isPermaLink="false">TalonsOfFire-1729982676--Joe Hisaishi---Summer</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d23961ce62933c3dc1c06bb892e46f72.jpg" length="12176" type="image/jpeg"/>
       <pubDate>Sat, 26 Oct 2024 18:44:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Joe Hisaishi - Summer (2 plays)</title>
+      <link>https://www.last.fm/music/Joe+Hisaishi/_/Summer</link>
+      <guid isPermaLink="false">TalonsOfFire-1730054787--Joe Hisaishi---Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d23961ce62933c3dc1c06bb892e46f72.jpg" length="12176" type="image/jpeg"/>
+      <pubDate>Sun, 27 Oct 2024 14:46:27 -0400</pubDate>
     </item>
   </channel>
 </rss>
