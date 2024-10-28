@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 10:44:23 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Modern Times Rock 'n' Roll (34 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Modern+Times+Rock+%27n%27+Roll</link>
-      <guid isPermaLink="false">Frippertron-1730087483--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Modern Times Rock 'n' Roll</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
-      <pubDate>Sun, 27 Oct 2024 23:51:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Oct 2024 10:55:46 +0000</lastBuildDate>
     <item>
       <title>Queen - Son and Daughter (81 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Son+and+Daughter</link>
@@ -229,6 +222,7 @@
       <title>Roy Wood - Dancin' At The Rainbow's End (31 plays)</title>
       <link>https://www.last.fm/music/Roy+Wood/_/Dancin%27+At+The+Rainbow%27s+End</link>
       <guid isPermaLink="false">Frippertron-1730102338--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---Dancin' At The Rainbow's End</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/02bae8917d1f47f2ba02e3a76f349a4b.jpg" length="25202" type="image/jpeg"/>
       <pubDate>Mon, 28 Oct 2024 03:58:58 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1730111739--66f8692c-966d-4dfb-a2ed-babf51241922---Salome</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
       <pubDate>Mon, 28 Oct 2024 06:35:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Enid - Truth Drug (62 plays)</title>
+      <link>https://www.last.fm/music/The+Enid/_/Truth+Drug</link>
+      <guid isPermaLink="false">Frippertron-1730112279--66f8692c-966d-4dfb-a2ed-babf51241922---Truth Drug</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9596a511a8d0801839344e5de8dbe201.jpg" length="33069" type="image/jpeg"/>
+      <pubDate>Mon, 28 Oct 2024 06:44:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
