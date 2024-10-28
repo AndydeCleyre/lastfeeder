@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 17:41:11 +0000</lastBuildDate>
-    <item>
-      <title>Arthur Brown - Prelude/Nightmare (23 plays)</title>
-      <link>https://www.last.fm/music/Arthur+Brown/_/Prelude%2FNightmare</link>
-      <guid isPermaLink="false">Frippertron-1730089444--Arthur Brown---Prelude/Nightmare</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e63c01cf52f4fcaddfa571b31007d4af.png" length="186038" type="image/png"/>
-      <pubDate>Mon, 28 Oct 2024 00:24:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Oct 2024 17:52:56 +0000</lastBuildDate>
     <item>
       <title>Arthur Brown - Fanfare/Fire Poem (34 plays)</title>
       <link>https://www.last.fm/music/Arthur+Brown/_/Fanfare%2FFire+Poem</link>
@@ -166,6 +159,7 @@
       <title>Sweet Trip - Acting (5 plays)</title>
       <link>https://www.last.fm/music/Sweet+Trip/_/Acting</link>
       <guid isPermaLink="false">Frippertron-1730100756--52fbc948-398c-45f6-833b-dd75164b896a---Acting</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a57f395a7b21653e569012419d602d6.jpg" length="11772" type="image/jpeg"/>
       <pubDate>Mon, 28 Oct 2024 03:32:36 -0400</pubDate>
     </item>
     <item>
@@ -221,6 +215,7 @@
       <title>Prefab Sprout - The Venus Of The Soup Kitchen (76 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/The+Venus+Of+The+Soup+Kitchen</link>
       <guid isPermaLink="false">Frippertron-1730103580--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The Venus Of The Soup Kitchen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8818ebec42dbb0e9e4343271709cefec.jpg" length="27706" type="image/jpeg"/>
       <pubDate>Mon, 28 Oct 2024 04:19:40 -0400</pubDate>
     </item>
     <item>
@@ -353,7 +348,15 @@
       <title>Magma - Otis (5 plays)</title>
       <link>https://www.last.fm/music/Magma/_/Otis</link>
       <guid isPermaLink="false">Frippertron-1730136989--Magma---Otis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/719fc3b6c9fe48aebafadce6e669b255.png" length="163960" type="image/png"/>
       <pubDate>Mon, 28 Oct 2024 13:36:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Magma - Malaria (2 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Malaria</link>
+      <guid isPermaLink="false">Frippertron-1730137842--Magma---Malaria</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5b0688502ee47c69460215537a8143e.png" length="162387" type="image/png"/>
+      <pubDate>Mon, 28 Oct 2024 13:50:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
