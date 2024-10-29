@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 06:49:32 +0000</lastBuildDate>
-    <item>
-      <title>Finch - Register Magister (7 plays)</title>
-      <link>https://www.last.fm/music/Finch/_/Register+Magister</link>
-      <guid isPermaLink="false">Frippertron-1730108853--746737be-e792-42bb-b18c-fb46d7935d7a---Register Magister</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e20bbc15610e7b0e8f3a0e6d200536b9.jpg" length="30549" type="image/jpeg"/>
-      <pubDate>Mon, 28 Oct 2024 05:47:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Enid - Mayday Galliard (275 plays)</title>
-      <link>https://www.last.fm/music/The+Enid/_/Mayday+Galliard</link>
-      <guid isPermaLink="false">Frippertron-1730109257--66f8692c-966d-4dfb-a2ed-babf51241922---Mayday Galliard</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb75ff1018139cf98d1ff6341e68cd53.jpg" length="21110" type="image/jpeg"/>
-      <pubDate>Mon, 28 Oct 2024 05:54:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Oct 2024 07:20:15 +0000</lastBuildDate>
     <item>
       <title>The Enid - Albion Fair (72 plays)</title>
       <link>https://www.last.fm/music/The+Enid/_/Albion+Fair</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1730184134--20883363-1ea4-4d72-ad72-c0e767038f3e---Viscera Eyes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Tue, 29 Oct 2024 02:42:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Goliath (149 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
+      <guid isPermaLink="false">Frippertron-1730184623--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Tue, 29 Oct 2024 02:50:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (120 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1730185372--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Tue, 29 Oct 2024 03:02:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
