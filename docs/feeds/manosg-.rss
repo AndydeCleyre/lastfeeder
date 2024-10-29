@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 18:47:52 +0000</lastBuildDate>
-    <item>
-      <title>Eloy - Paris (1 play)</title>
-      <link>https://www.last.fm/music/Eloy/_/Paris</link>
-      <guid isPermaLink="false">manosg--1730109449--bc154a90-890b-409e-b850-53ca299ab0d6---Paris</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20dc3aa1ecaebe4ad4ceab656ae7905c.jpg" length="23191" type="image/jpeg"/>
-      <pubDate>Mon, 28 Oct 2024 05:57:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Oct 2024 19:18:27 +0000</lastBuildDate>
     <item>
       <title>Eloy - Abandoned (1 play)</title>
       <link>https://www.last.fm/music/Eloy/_/Abandoned</link>
@@ -341,12 +334,14 @@
       <title>Writhen Hilt - Swords of the East (1 play)</title>
       <link>https://www.last.fm/music/Writhen+Hilt/_/Swords+of+the+East</link>
       <guid isPermaLink="false">manosg--1730225728--6a7f4b33-fe0b-426b-822d-9dc2eb777e4b---Swords of the East</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34bfaabef74ac40e9a27642dd6185eec.jpg" length="26654" type="image/jpeg"/>
       <pubDate>Tue, 29 Oct 2024 14:15:28 -0400</pubDate>
     </item>
     <item>
       <title>Writhen Hilt - The Rider’s Moon (1 play)</title>
       <link>https://www.last.fm/music/Writhen+Hilt/_/The+Rider%E2%80%99s+Moon</link>
       <guid isPermaLink="false">manosg--1730227240--6a7f4b33-fe0b-426b-822d-9dc2eb777e4b---The Rider’s Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34bfaabef74ac40e9a27642dd6185eec.jpg" length="26654" type="image/jpeg"/>
       <pubDate>Tue, 29 Oct 2024 14:40:40 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">manosg--1730227486--83fbfa8e-616d-4da8-b8f7-aee37ec399f7---To Heorot</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c3aa5814aeeca3ca7c453924513c976.jpg" length="26543" type="image/jpeg"/>
       <pubDate>Tue, 29 Oct 2024 14:44:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Amyl and the Sniffers - Jerkin' (1 play)</title>
+      <link>https://www.last.fm/music/Amyl+and+the+Sniffers/_/Jerkin%27</link>
+      <guid isPermaLink="false">manosg--1730227688--0f74b263-65bf-4027-9708-45aadf40122d---Jerkin'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/359d747565d85c2a4be4abda6d593c77.png" length="223664" type="image/png"/>
+      <pubDate>Tue, 29 Oct 2024 14:48:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
