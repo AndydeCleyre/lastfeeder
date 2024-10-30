@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 04:43:27 +0000</lastBuildDate>
-    <item>
-      <title>Queen - Hangman (5 plays)</title>
-      <link>https://www.last.fm/music/Queen/_/Hangman</link>
-      <guid isPermaLink="false">Frippertron-1730190016--0383dadf-2a4e-4d10-a46a-e9e041da8eb3---Hangman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ecb0f909b134737a560afa31ad58ae0.png" length="166379" type="image/png"/>
-      <pubDate>Tue, 29 Oct 2024 04:20:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Oct 2024 05:20:54 +0000</lastBuildDate>
     <item>
       <title>Queen - Doing All Right (24 plays)</title>
       <link>https://www.last.fm/music/Queen/_/Doing+All+Right</link>
@@ -107,7 +100,7 @@
       <pubDate>Tue, 29 Oct 2024 06:52:48 -0400</pubDate>
     </item>
     <item>
-      <title>Magma - Otis (7 plays)</title>
+      <title>Magma - Otis (8 plays)</title>
       <link>https://www.last.fm/music/Magma/_/Otis</link>
       <guid isPermaLink="false">Frippertron-1730216974--Magma---Otis</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce97988d3a65577e410f233d94400c45.png" length="123855" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1730262386--Magma---Mëkanïk Dëstruktïẁ Kömmandöh</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 30 Oct 2024 00:26:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Magma - Otis (8 plays)</title>
+      <link>https://www.last.fm/music/Magma/_/Otis</link>
+      <guid isPermaLink="false">Frippertron-1730264772--Magma---Otis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/719fc3b6c9fe48aebafadce6e669b255.png" length="163960" type="image/png"/>
+      <pubDate>Wed, 30 Oct 2024 01:06:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
