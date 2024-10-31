@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 19:52:16 +0000</lastBuildDate>
-    <item>
-      <title>Kyson - You (4 plays)</title>
-      <link>https://www.last.fm/music/Kyson/_/You</link>
-      <guid isPermaLink="false">ddgromit-1730227548--0f6cd9f3-d2d5-4bb8-9e77-98adea731e53---You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c32ac0aada264c8d7487f79d698c802.jpg" length="12415" type="image/jpeg"/>
-      <pubDate>Tue, 29 Oct 2024 14:45:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Dig - Break The Silence (2 plays)</title>
-      <link>https://www.last.fm/music/The+Dig/_/Break+The+Silence</link>
-      <guid isPermaLink="false">ddgromit-1730227785--c030c896-d4d9-4c41-aab4-6a7a2a363cb8---Break The Silence</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/788d89edf71144538cb92369b9dc725c.jpg" length="16590" type="image/jpeg"/>
-      <pubDate>Tue, 29 Oct 2024 14:49:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Oct 2024 20:20:58 +0000</lastBuildDate>
     <item>
       <title>dyan - Reality (1 play)</title>
       <link>https://www.last.fm/music/dyan/_/Reality</link>
@@ -30,7 +16,7 @@
       <pubDate>Tue, 29 Oct 2024 14:53:31 -0400</pubDate>
     </item>
     <item>
-      <title>Minke - Gold Angel (1 play)</title>
+      <title>Minke - Gold Angel (2 plays)</title>
       <link>https://www.last.fm/music/Minke/_/Gold+Angel</link>
       <guid isPermaLink="false">ddgromit-1730228156--c987f1e7-362d-4c1f-a0e3-a215ef736a33---Gold Angel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c29b63ca811649937325bb119d86709.jpg" length="15787" type="image/jpeg"/>
@@ -320,6 +306,7 @@
       <title>dyan - Cycling Trivialities (1 play)</title>
       <link>https://www.last.fm/music/dyan/_/Cycling+Trivialities</link>
       <guid isPermaLink="false">ddgromit-1730402889--a02fc8df-79fe-4e48-a873-8a553d69937a---Cycling Trivialities</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/886bbbeef49e3631d365bd16c5d9ad03.jpg" length="23493" type="image/jpeg"/>
       <pubDate>Thu, 31 Oct 2024 15:28:09 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1730403954--a02fc8df-79fe-4e48-a873-8a553d69937a---Aging</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fd1c099903846f6ec81b397cfc0bccc.jpg" length="11448" type="image/jpeg"/>
       <pubDate>Thu, 31 Oct 2024 15:45:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Minke - Gold Angel (2 plays)</title>
+      <link>https://www.last.fm/music/Minke/_/Gold+Angel</link>
+      <guid isPermaLink="false">ddgromit-1730404199--c987f1e7-362d-4c1f-a0e3-a215ef736a33---Gold Angel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c29b63ca811649937325bb119d86709.jpg" length="15787" type="image/jpeg"/>
+      <pubDate>Thu, 31 Oct 2024 15:49:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Conner Youngblood - Los Angeles (2 plays)</title>
+      <link>https://www.last.fm/music/Conner+Youngblood/_/Los+Angeles</link>
+      <guid isPermaLink="false">ddgromit-1730404461--3cabc3a5-b831-49c2-94f6-8a7f936b922e---Los Angeles</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2c003222e70c310ce28c531f7465a7f.jpg" length="26420" type="image/jpeg"/>
+      <pubDate>Thu, 31 Oct 2024 15:54:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
