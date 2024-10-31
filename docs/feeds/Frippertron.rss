@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 10:43:04 +0000</lastBuildDate>
-    <item>
-      <title>Arthur Brown - Fanfare - Fire Poem (Mono) (1 play)</title>
-      <link>https://www.last.fm/music/Arthur+Brown/_/Fanfare+-+Fire+Poem+(Mono)</link>
-      <guid isPermaLink="false">Frippertron-1730346354--Arthur Brown---Fanfare - Fire Poem (Mono)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e63c01cf52f4fcaddfa571b31007d4af.png" length="186038" type="image/png"/>
-      <pubDate>Wed, 30 Oct 2024 23:45:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Oct 2024 11:17:01 +0000</lastBuildDate>
     <item>
       <title>Arthur Brown - Fire (42 plays)</title>
       <link>https://www.last.fm/music/Arthur+Brown/_/Fire</link>
@@ -334,6 +327,7 @@
       <title>Morgan - Nova Solis (37 plays)</title>
       <link>https://www.last.fm/music/Morgan/_/Nova+Solis</link>
       <guid isPermaLink="false">Frippertron-1730369395--0c2386fd-35f4-49a9-9fe4-a4913d3be710---Nova Solis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69203d00d8fa672136944f4ff9dbb9ea.jpg" length="23466" type="image/jpeg"/>
       <pubDate>Thu, 31 Oct 2024 06:09:55 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1730371095--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Lizard</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 31 Oct 2024 06:38:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Dinosaur (28 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Dinosaur</link>
+      <guid isPermaLink="false">Frippertron-1730372842--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Dinosaur</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 31 Oct 2024 07:07:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
