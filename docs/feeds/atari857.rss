@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 05:20:11 +0000</lastBuildDate>
-    <item>
-      <title>Ceres - 666 (4 plays)</title>
-      <link>https://www.last.fm/music/Ceres/_/666</link>
-      <guid isPermaLink="false">atari857-1728785389--Ceres---666</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7f51dd64a741c5dbb3db9c6c1f976c8.jpg" length="9789" type="image/jpeg"/>
-      <pubDate>Sat, 12 Oct 2024 22:09:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ceres - 1997 (3 plays)</title>
-      <link>https://www.last.fm/music/Ceres/_/1997</link>
-      <guid isPermaLink="false">atari857-1728785562--Ceres---1997</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7f51dd64a741c5dbb3db9c6c1f976c8.jpg" length="9789" type="image/jpeg"/>
-      <pubDate>Sat, 12 Oct 2024 22:12:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ceres - Go (3 plays)</title>
-      <link>https://www.last.fm/music/Ceres/_/Go</link>
-      <guid isPermaLink="false">atari857-1728785799--Ceres---Go</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7f51dd64a741c5dbb3db9c6c1f976c8.jpg" length="9789" type="image/jpeg"/>
-      <pubDate>Sat, 12 Oct 2024 22:16:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Oct 2024 22:53:46 +0000</lastBuildDate>
     <item>
       <title>Ceres - GUM (3 plays)</title>
       <link>https://www.last.fm/music/Ceres/_/GUM</link>
@@ -93,7 +72,7 @@
       <pubDate>Tue, 15 Oct 2024 00:25:33 -0400</pubDate>
     </item>
     <item>
-      <title>Ceres - MAXi (3 plays)</title>
+      <title>Ceres - MAXi (4 plays)</title>
       <link>https://www.last.fm/music/Ceres/_/MAXi</link>
       <guid isPermaLink="false">atari857-1728966385--Ceres---MAXi</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7f51dd64a741c5dbb3db9c6c1f976c8.jpg" length="9789" type="image/jpeg"/>
@@ -338,6 +317,13 @@
       <pubDate>Thu, 24 Oct 2024 12:26:38 -0400</pubDate>
     </item>
     <item>
+      <title>Ceres - MAXi (4 plays)</title>
+      <link>https://www.last.fm/music/Ceres/_/MAXi</link>
+      <guid isPermaLink="false">atari857-1730177826--Ceres---MAXi</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7f51dd64a741c5dbb3db9c6c1f976c8.jpg" length="9789" type="image/jpeg"/>
+      <pubDate>Tue, 29 Oct 2024 00:57:06 -0400</pubDate>
+    </item>
+    <item>
       <title>The Offspring - You Can't Get There From Here (2 plays)</title>
       <link>https://www.last.fm/music/The+Offspring/_/You+Can%27t+Get+There+From+Here</link>
       <guid isPermaLink="false">atari857-1730177886--23a03e33-a603-404e-bcbf-2c00159d7067---You Can't Get There From Here</guid>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">atari857-1730178299--23a03e33-a603-404e-bcbf-2c00159d7067---Come To Brazil</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86167177a7a6399f7fc05d467ff187f4.jpg" length="33331" type="image/jpeg"/>
       <pubDate>Tue, 29 Oct 2024 01:04:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Offspring - Come Out and Play (2 plays)</title>
+      <link>https://www.last.fm/music/The+Offspring/_/Come+Out+and+Play</link>
+      <guid isPermaLink="false">atari857-1730227236--23a03e33-a603-404e-bcbf-2c00159d7067---Come Out and Play</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32e39585c81aea5659da8433a29ec6a1.jpg" length="24422" type="image/jpeg"/>
+      <pubDate>Tue, 29 Oct 2024 14:40:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Dopamines - Parasites Lost (1 play)</title>
+      <link>https://www.last.fm/music/The+Dopamines/_/Parasites+Lost</link>
+      <guid isPermaLink="false">atari857-1730251332--c2807470-32a4-4bff-a517-8bece2cc43bf---Parasites Lost</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3214e649f53e31797462397c3431b8de.jpg" length="28020" type="image/jpeg"/>
+      <pubDate>Tue, 29 Oct 2024 21:22:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
