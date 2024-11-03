@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Nov 2024 22:52:33 +0000</lastBuildDate>
-    <item>
-      <title>The Olympians - Pluto's Lament (2 plays)</title>
-      <link>https://www.last.fm/music/The+Olympians/_/Pluto%27s+Lament</link>
-      <guid isPermaLink="false">ddgromit-1730501047--305386be-ef0f-4c62-a2b7-97c3e9e42b15---Pluto's Lament</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a297858982c3d3affac8e6abf8d32098.jpg" length="27538" type="image/jpeg"/>
-      <pubDate>Fri, 01 Nov 2024 18:44:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kyle McEvoy - true beholder (2 plays)</title>
-      <link>https://www.last.fm/music/Kyle+McEvoy/_/true+beholder</link>
-      <guid isPermaLink="false">ddgromit-1730501212--Kyle McEvoy---true beholder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 01 Nov 2024 18:46:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Nov 2024 15:52:08 +0000</lastBuildDate>
     <item>
       <title>Hermanos Gutiérrez - El Mar (1 play)</title>
       <link>https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/El+Mar</link>
@@ -313,14 +299,13 @@
       <title>Benson Boone - Sugar Sweet (12 plays)</title>
       <link>https://www.last.fm/music/Benson+Boone/_/Sugar+Sweet</link>
       <guid isPermaLink="false">ddgromit-1730586421--62b914a7-d775-4bb4-bb5e-d46e7df115b5---Sugar Sweet</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e195f795fa9755c1aa7f5f5473bd70be.jpg" length="17122" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e195f795fa9755c1aa7f5f5473bd70be.jpg" length="70" type="application/json"/>
       <pubDate>Sat, 02 Nov 2024 18:27:01 -0400</pubDate>
     </item>
     <item>
       <title>Chance Peña - I Am Not Who I Was (8 plays)</title>
       <link>https://www.last.fm/music/Chance+Pe%C3%B1a/_/I+Am+Not+Who+I+Was</link>
       <guid isPermaLink="false">ddgromit-1730586591--5263ef58-2c3d-40be-9146-d8192001f905---I Am Not Who I Was</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eede64ada47fb0eb721f7efedabcd155.jpg" length="19764" type="image/jpeg"/>
       <pubDate>Sat, 02 Nov 2024 18:29:51 -0400</pubDate>
     </item>
     <item>
@@ -345,6 +330,12 @@
       <pubDate>Sat, 02 Nov 2024 18:38:06 -0400</pubDate>
     </item>
     <item>
+      <title>BALTHVS - Johanna's Dream (3 plays)</title>
+      <link>https://www.last.fm/music/BALTHVS/_/Johanna%27s+Dream</link>
+      <guid isPermaLink="false">ddgromit-1730587271--947536b9-1e0a-4e93-bb07-4edc9c2c9ce4---Johanna's Dream</guid>
+      <pubDate>Sat, 02 Nov 2024 18:41:11 -0400</pubDate>
+    </item>
+    <item>
       <title>Henrik - Half of forever (8 plays)</title>
       <link>https://www.last.fm/music/Henrik/_/Half+of+forever</link>
       <guid isPermaLink="false">ddgromit-1730587348--11651bc2-ab6c-4115-bb91-4f2aeb3436b0---Half of forever</guid>
@@ -357,6 +348,13 @@
       <guid isPermaLink="false">ddgromit-1730587501--62b914a7-d775-4bb4-bb5e-d46e7df115b5---In the Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/543513879cff3506d3f22f8abbfcd3a1.jpg" length="13247" type="image/jpeg"/>
       <pubDate>Sat, 02 Nov 2024 18:45:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hozier - Would That I (6 plays)</title>
+      <link>https://www.last.fm/music/Hozier/_/Would+That+I</link>
+      <guid isPermaLink="false">ddgromit-1730587718--b4691384-50c3-4afd-9988-51d3ec5db65d---Would That I</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fad5cb49ef8ed3da329c08bd11d33e77.png" length="142593" type="image/png"/>
+      <pubDate>Sat, 02 Nov 2024 18:48:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
