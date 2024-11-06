@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 10:21:15 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Sound Chaser (74 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Sound+Chaser</link>
-      <guid isPermaLink="false">Frippertron-1730863016--8353f93f-163e-48c2-bb75-9f18987a3d46---Sound Chaser</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f9812061a7a2e966b72e55bd04a6673.png" length="203088" type="image/png"/>
-      <pubDate>Tue, 05 Nov 2024 22:16:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Underworld - Push Upstairs (29 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Push+Upstairs</link>
-      <guid isPermaLink="false">Frippertron-1730864410--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Push Upstairs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ebe5b9fcd0dc94feea1fa8c6200bb46.jpg" length="6565" type="image/jpeg"/>
-      <pubDate>Tue, 05 Nov 2024 22:40:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Underworld - Jumbo (78 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Jumbo</link>
-      <guid isPermaLink="false">Frippertron-1730864684--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Jumbo</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ebe5b9fcd0dc94feea1fa8c6200bb46.jpg" length="6565" type="image/jpeg"/>
-      <pubDate>Tue, 05 Nov 2024 22:44:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Nov 2024 10:42:05 +0000</lastBuildDate>
     <item>
       <title>D4L - Laffy Taffy (3 plays)</title>
       <link>https://www.last.fm/music/D4L/_/Laffy+Taffy</link>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1730888341--34e56f20-ddda-48c9-a4bb-6bb12df57de0---Life At A Top People's Health Farm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bcfe104f71f241078ff4cd070be7edb5.jpg" length="18844" type="image/jpeg"/>
       <pubDate>Wed, 06 Nov 2024 05:19:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Cups (6 plays)</title>
+      <link>https://www.last.fm/music/Underworld/_/Cups</link>
+      <guid isPermaLink="false">Frippertron-1730888481--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Cups</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ebe5b9fcd0dc94feea1fa8c6200bb46.jpg" length="6565" type="image/jpeg"/>
+      <pubDate>Wed, 06 Nov 2024 05:21:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Push Upstairs (30 plays)</title>
+      <link>https://www.last.fm/music/Underworld/_/Push+Upstairs</link>
+      <guid isPermaLink="false">Frippertron-1730889185--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Push Upstairs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ebe5b9fcd0dc94feea1fa8c6200bb46.jpg" length="6565" type="image/jpeg"/>
+      <pubDate>Wed, 06 Nov 2024 05:33:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Jumbo (79 plays)</title>
+      <link>https://www.last.fm/music/Underworld/_/Jumbo</link>
+      <guid isPermaLink="false">Frippertron-1730889462--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Jumbo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ebe5b9fcd0dc94feea1fa8c6200bb46.jpg" length="6565" type="image/jpeg"/>
+      <pubDate>Wed, 06 Nov 2024 05:37:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
