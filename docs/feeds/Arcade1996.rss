@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 14:52:52 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Heartbeat (1 play)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Heartbeat</link>
-      <guid isPermaLink="false">Arcade1996-1730640653--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Heartbeat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sun, 03 Nov 2024 08:30:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Elephant Talk (3 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Elephant+Talk</link>
-      <guid isPermaLink="false">Arcade1996-1730679305--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Elephant Talk</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Sun, 03 Nov 2024 19:15:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Nov 2024 15:21:43 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Frame by Frame (3 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Frame+by+Frame</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1730904555--Nico---Lawns of Dawn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9e45bbb93aa7d4e337ba822ba2a34ae.jpg" length="18466" type="image/jpeg"/>
       <pubDate>Wed, 06 Nov 2024 09:49:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nico - No One Is There (1 play)</title>
+      <link>https://www.last.fm/music/Nico/_/No+One+Is+There</link>
+      <guid isPermaLink="false">Arcade1996-1730904746--Nico---No One Is There</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9e45bbb93aa7d4e337ba822ba2a34ae.jpg" length="18466" type="image/jpeg"/>
+      <pubDate>Wed, 06 Nov 2024 09:52:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nico - Ari's Song (1 play)</title>
+      <link>https://www.last.fm/music/Nico/_/Ari%27s+Song</link>
+      <guid isPermaLink="false">Arcade1996-1730904962--Nico---Ari's Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9e45bbb93aa7d4e337ba822ba2a34ae.jpg" length="18466" type="image/jpeg"/>
+      <pubDate>Wed, 06 Nov 2024 09:56:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
