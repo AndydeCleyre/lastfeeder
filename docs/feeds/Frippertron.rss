@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 16:45:10 +0000</lastBuildDate>
-    <item>
-      <title>Robert Fripp - Disengage (49 plays)</title>
-      <link>https://www.last.fm/music/Robert+Fripp/_/Disengage</link>
-      <guid isPermaLink="false">Frippertron-1730972829--898b645e-eed2-490a-8ce2-0e7a4d2d5bc8---Disengage</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 07 Nov 2024 04:47:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Underworld - Born Slippy (18 plays)</title>
-      <link>https://www.last.fm/music/Underworld/_/Born+Slippy</link>
-      <guid isPermaLink="false">Frippertron-1730973060--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Born Slippy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5c743fcd76479462e9ec2c0601eb489f.jpg" length="10308" type="image/jpeg"/>
-      <pubDate>Thu, 07 Nov 2024 04:51:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Nov 2024 16:56:36 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Tetragrammaton (125 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
@@ -354,6 +340,20 @@
       <guid isPermaLink="false">Frippertron-1730997405--8c9b336e-acc8-4e20-9195-6ed0634da9fc---Infant Tango</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52e7abebbfbd42848db708d603c719c2.png" length="85536" type="image/png"/>
       <pubDate>Thu, 07 Nov 2024 11:36:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Residents - Seasoned Greetings (11 plays)</title>
+      <link>https://www.last.fm/music/The+Residents/_/Seasoned+Greetings</link>
+      <guid isPermaLink="false">Frippertron-1730997772--8c9b336e-acc8-4e20-9195-6ed0634da9fc---Seasoned Greetings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52e7abebbfbd42848db708d603c719c2.png" length="85536" type="image/png"/>
+      <pubDate>Thu, 07 Nov 2024 11:42:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Residents - N-ER-GEE (Crisis Blues) (13 plays)</title>
+      <link>https://www.last.fm/music/The+Residents/_/N-ER-GEE+(Crisis+Blues)</link>
+      <guid isPermaLink="false">Frippertron-1730998085--8c9b336e-acc8-4e20-9195-6ed0634da9fc---N-ER-GEE (Crisis Blues)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52e7abebbfbd42848db708d603c719c2.png" length="85536" type="image/png"/>
+      <pubDate>Thu, 07 Nov 2024 11:48:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
