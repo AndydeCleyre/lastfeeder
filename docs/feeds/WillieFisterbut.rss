@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/WillieFisterbut.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 16:25:20 +0000</lastBuildDate>
-    <item>
-      <title>Alcest - L'Envol (2 plays)</title>
-      <link>https://www.last.fm/music/Alcest/_/L%27Envol</link>
-      <guid isPermaLink="false">WillieFisterbut-1730851071--dd77b8da-cdc7-46b8-8a7f-10894ca0490e---L'Envol</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/255b804d4b2b2f794a4f61315f56cbec.jpg" length="14090" type="image/jpeg"/>
-      <pubDate>Tue, 05 Nov 2024 18:57:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Nov 2024 03:35:01 +0000</lastBuildDate>
     <item>
       <title>Alcest - Flamme Jumelle (1 play)</title>
       <link>https://www.last.fm/music/Alcest/_/Flamme+Jumelle</link>
@@ -75,12 +68,14 @@
       <title>Anomalie - A Cosmic Truth (1 play)</title>
       <link>https://www.last.fm/music/Anomalie/_/A+Cosmic+Truth</link>
       <guid isPermaLink="false">WillieFisterbut-1730855594--42616833-1821-4b46-9c4e-7ec3831cf4a7---A Cosmic Truth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c5c138aaecc8a5d0267c5f89089a219.jpg" length="22430" type="image/jpeg"/>
       <pubDate>Tue, 05 Nov 2024 20:13:14 -0500</pubDate>
     </item>
     <item>
       <title>The Black Pacific - I Think I'm Paranoid (1 play)</title>
       <link>https://www.last.fm/music/The+Black+Pacific/_/I+Think+I%27m+Paranoid</link>
       <guid isPermaLink="false">WillieFisterbut-1730857318--c0439f31-c577-4483-a544-8550bde040b3---I Think I'm Paranoid</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/192092ed4239a42842aa9088d80339a9.jpg" length="18089" type="image/jpeg"/>
       <pubDate>Tue, 05 Nov 2024 20:41:58 -0500</pubDate>
     </item>
     <item>
@@ -164,6 +159,7 @@
       <title>Charlotte Wessels - Soft Revolution (2024 Version) (1 play)</title>
       <link>https://www.last.fm/music/Charlotte+Wessels/_/Soft+Revolution+(2024+Version)</link>
       <guid isPermaLink="false">WillieFisterbut-1730861776--2105dbe1-1b52-4f48-8279-d4781a4ae637---Soft Revolution (2024 Version)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7be5cbca1241ca3c6378128fcf29f319.jpg" length="25368" type="image/jpeg"/>
       <pubDate>Tue, 05 Nov 2024 21:56:16 -0500</pubDate>
     </item>
     <item>
@@ -351,7 +347,15 @@
       <title>Envy - Piecemeal (1 play)</title>
       <link>https://www.last.fm/music/Envy/_/Piecemeal</link>
       <guid isPermaLink="false">WillieFisterbut-1730878320--Envy---Piecemeal</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbf63a04e6323aafdcf5333a379f2ce1.png" length="20972" type="image/png"/>
       <pubDate>Wed, 06 Nov 2024 02:32:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Front Line Assembly - Vigilante (18 plays)</title>
+      <link>https://www.last.fm/music/Front+Line+Assembly/_/Vigilante</link>
+      <guid isPermaLink="false">WillieFisterbut-1730938467--b847e9d2-c931-4daf-900c-42c7b2c42e16---Vigilante</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/884bf1f3928691bb09308f2dc2bde9a5.png" length="166667" type="image/png"/>
+      <pubDate>Wed, 06 Nov 2024 19:14:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
