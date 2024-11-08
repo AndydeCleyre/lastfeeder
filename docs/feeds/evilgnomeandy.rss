@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 20:39:24 +0000</lastBuildDate>
-    <item>
-      <title>Jorge Ben Jor - Bebete Vãobora (76 plays)</title>
-      <link>https://www.last.fm/music/Jorge+Ben+Jor/_/Bebete+V%C3%A3obora</link>
-      <guid isPermaLink="false">evilgnomeandy-1730588713--19499124-36d4-4ccc-b28d-04dde3d2076f---Bebete Vãobora</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db1ac8a3e2a745dcaeb500d79b4dd36e.jpg" length="35730" type="image/jpeg"/>
-      <pubDate>Sat, 02 Nov 2024 19:05:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Nov 2024 01:36:58 +0000</lastBuildDate>
     <item>
       <title>Annette Funicello - The Monkey's Uncle (10 plays)</title>
       <link>https://www.last.fm/music/Annette+Funicello/_/The+Monkey%27s+Uncle</link>
@@ -44,7 +37,7 @@
       <pubDate>Tue, 05 Nov 2024 19:57:51 -0500</pubDate>
     </item>
     <item>
-      <title>Dan Zanes, Friends, Andrew Bird - I Don't Need Sunny Skies (1 play)</title>
+      <title>Dan Zanes, Friends, Andrew Bird - I Don't Need Sunny Skies (2 plays)</title>
       <link>https://www.last.fm/music/Dan+Zanes,+Friends,+Andrew+Bird/_/I+Don%27t+Need+Sunny+Skies</link>
       <guid isPermaLink="false">evilgnomeandy-1730854875--Dan Zanes, Friends, Andrew Bird---I Don't Need Sunny Skies</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1730998199--88a13d24-7915-4b51-8d95-c8de00ab79ea---Claustrofobia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b1f76b3f38bdb71006a994399c9638e1.jpg" length="20763" type="image/jpeg"/>
       <pubDate>Thu, 07 Nov 2024 11:49:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dan Zanes, Friends, Andrew Bird - I Don't Need Sunny Skies (2 plays)</title>
+      <link>https://www.last.fm/music/Dan+Zanes,+Friends,+Andrew+Bird/_/I+Don%27t+Need+Sunny+Skies</link>
+      <guid isPermaLink="false">evilgnomeandy-1731011643--Dan Zanes, Friends, Andrew Bird---I Don't Need Sunny Skies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 07 Nov 2024 15:34:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
