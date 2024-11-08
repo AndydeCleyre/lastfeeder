@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Nov 2024 09:39:19 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Fallen Angel (104 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Fallen+Angel</link>
-      <guid isPermaLink="false">Frippertron-1731037204--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Fallen Angel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 07 Nov 2024 22:40:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Nov 2024 09:52:33 +0000</lastBuildDate>
     <item>
       <title>King Crimson - One More Red Nightmare (91 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/One+More+Red+Nightmare</link>
@@ -30,7 +23,7 @@
       <pubDate>Thu, 07 Nov 2024 22:53:41 -0500</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Aberinkula (121 plays)</title>
+      <title>The Mars Volta - Aberinkula (122 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
       <guid isPermaLink="false">Frippertron-1731038459--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1731058291--20883363-1ea4-4d72-ad72-c0e767038f3e---Cavalettas</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Fri, 08 Nov 2024 04:31:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Aberinkula (122 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
+      <guid isPermaLink="false">Frippertron-1731059087--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 08 Nov 2024 04:44:47 -0500</pubDate>
     </item>
   </channel>
 </rss>
