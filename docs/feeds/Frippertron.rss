@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Nov 2024 05:41:25 +0000</lastBuildDate>
-    <item>
-      <title>DJ Metro - Tekno Bangz (1 play)</title>
-      <link>https://www.last.fm/music/DJ+Metro/_/Tekno+Bangz</link>
-      <guid isPermaLink="false">Frippertron-1731601511--DJ Metro---Tekno Bangz</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c94e8879b9cf41ed83e1afc25be8300c.png" length="164578" type="image/png"/>
-      <pubDate>Thu, 14 Nov 2024 11:25:11 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Nov 2024 05:53:09 +0000</lastBuildDate>
     <item>
       <title>RP Boo - Off da Hook (1 play)</title>
       <link>https://www.last.fm/music/RP+Boo/_/Off+da+Hook</link>
@@ -352,7 +345,15 @@
       <title>Godspeed You! Black Emperor - BABYS IN A THUNDERCLOUD (2 plays)</title>
       <link>https://www.last.fm/music/Godspeed+You!+Black+Emperor/_/BABYS+IN+A+THUNDERCLOUD</link>
       <guid isPermaLink="false">Frippertron-1731648756--3648db01-b29d-4ab9-835c-83f6a5068fe4---BABYS IN A THUNDERCLOUD</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30c51c8e3617d3ccccd19bc25a482042.jpg" length="16312" type="image/jpeg"/>
       <pubDate>Fri, 15 Nov 2024 00:32:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Godspeed You! Black Emperor - RAINDROPS CAST IN LEAD (2 plays)</title>
+      <link>https://www.last.fm/music/Godspeed+You!+Black+Emperor/_/RAINDROPS+CAST+IN+LEAD</link>
+      <guid isPermaLink="false">Frippertron-1731649572--3648db01-b29d-4ab9-835c-83f6a5068fe4---RAINDROPS CAST IN LEAD</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30c51c8e3617d3ccccd19bc25a482042.jpg" length="16312" type="image/jpeg"/>
+      <pubDate>Fri, 15 Nov 2024 00:46:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
