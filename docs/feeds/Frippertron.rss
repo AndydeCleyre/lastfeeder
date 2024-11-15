@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Nov 2024 05:23:09 +0000</lastBuildDate>
-    <item>
-      <title>DJ Solo - What Have You Done (1 play)</title>
-      <link>https://www.last.fm/music/DJ+Solo/_/What+Have+You+Done</link>
-      <guid isPermaLink="false">Frippertron-1731600967--a3619f68-f612-4452-99bd-9f8792ed156c---What Have You Done</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/daea162d19854349b6bb5e8f2b8f517d.png" length="164578" type="image/png"/>
-      <pubDate>Thu, 14 Nov 2024 11:16:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>Young Smoke - Psycho War (1 play)</title>
-      <link>https://www.last.fm/music/Young+Smoke/_/Psycho+War</link>
-      <guid isPermaLink="false">Frippertron-1731601150--ad549d16-49a3-4a6b-8e8b-6a244ebabd6c---Psycho War</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66be363f8fc240138774aa69a98b9fcb.png" length="164578" type="image/png"/>
-      <pubDate>Thu, 14 Nov 2024 11:19:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Young Smoke - Wouldn't Get Far (1 play)</title>
-      <link>https://www.last.fm/music/Young+Smoke/_/Wouldn%27t+Get+Far</link>
-      <guid isPermaLink="false">Frippertron-1731601331--ad549d16-49a3-4a6b-8e8b-6a244ebabd6c---Wouldn't Get Far</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66be363f8fc240138774aa69a98b9fcb.png" length="164578" type="image/png"/>
-      <pubDate>Thu, 14 Nov 2024 11:22:11 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Nov 2024 05:41:25 +0000</lastBuildDate>
     <item>
       <title>DJ Metro - Tekno Bangz (1 play)</title>
       <link>https://www.last.fm/music/DJ+Metro/_/Tekno+Bangz</link>
@@ -338,6 +317,7 @@
       <title>Gil Scott-Heron - We Almost Lost Detroit (57 plays)</title>
       <link>https://www.last.fm/music/Gil+Scott-Heron/_/We+Almost+Lost+Detroit</link>
       <guid isPermaLink="false">Frippertron-1731646467--b5b89643-c488-4f39-a302-25cab31084a5---We Almost Lost Detroit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86fd8baba1f0381a7901f129f1ed9cb4.jpg" length="26213" type="image/jpeg"/>
       <pubDate>Thu, 14 Nov 2024 23:54:27 -0500</pubDate>
     </item>
     <item>
@@ -353,6 +333,26 @@
       <guid isPermaLink="false">Frippertron-1731646984--El Grupo Nuevo de Omar Rodriguez Lopez---Tuberculoids</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7061c41caedb49f4c981e43f8b8a431c.jpg" length="26015" type="image/jpeg"/>
       <pubDate>Fri, 15 Nov 2024 00:03:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Geordie Greep - Blues (37 plays)</title>
+      <link>https://www.last.fm/music/Geordie+Greep/_/Blues</link>
+      <guid isPermaLink="false">Frippertron-1731648079--6ca6f49f-41f3-49ae-8403-44d07bc6f564---Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
+      <pubDate>Fri, 15 Nov 2024 00:21:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Godspeed You! Black Emperor - SUN IS A HOLE SUN IS VAPORS (2 plays)</title>
+      <link>https://www.last.fm/music/Godspeed+You!+Black+Emperor/_/SUN+IS+A+HOLE+SUN+IS+VAPORS</link>
+      <guid isPermaLink="false">Frippertron-1731648424--3648db01-b29d-4ab9-835c-83f6a5068fe4---SUN IS A HOLE SUN IS VAPORS</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30c51c8e3617d3ccccd19bc25a482042.jpg" length="16312" type="image/jpeg"/>
+      <pubDate>Fri, 15 Nov 2024 00:27:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Godspeed You! Black Emperor - BABYS IN A THUNDERCLOUD (2 plays)</title>
+      <link>https://www.last.fm/music/Godspeed+You!+Black+Emperor/_/BABYS+IN+A+THUNDERCLOUD</link>
+      <guid isPermaLink="false">Frippertron-1731648756--3648db01-b29d-4ab9-835c-83f6a5068fe4---BABYS IN A THUNDERCLOUD</guid>
+      <pubDate>Fri, 15 Nov 2024 00:32:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
