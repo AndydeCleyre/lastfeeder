@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Nov 2024 20:42:16 +0000</lastBuildDate>
-    <item>
-      <title>Caspar Babypants - Itsy Bitsy Spider (5 plays)</title>
-      <link>https://www.last.fm/music/Caspar+Babypants/_/Itsy+Bitsy+Spider</link>
-      <guid isPermaLink="false">ddgromit-1731885211--Caspar Babypants---Itsy Bitsy Spider</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df23210705de46b094349a85d3257c0b.jpg" length="36160" type="image/jpeg"/>
-      <pubDate>Sun, 17 Nov 2024 18:13:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Nov 2024 20:54:22 +0000</lastBuildDate>
     <item>
       <title>KT Tunstall - Suddenly I See (8 plays)</title>
       <link>https://www.last.fm/music/KT+Tunstall/_/Suddenly+I+See</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1731962048--DJ Sorama---State Of Mind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04ab2f8a6179455786d53b555fc28303.jpg" length="53079" type="image/jpeg"/>
       <pubDate>Mon, 18 Nov 2024 15:34:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>DJ Sorama - Seba (2 plays)</title>
+      <link>https://www.last.fm/music/DJ+Sorama/_/Seba</link>
+      <guid isPermaLink="false">ddgromit-1731962319--DJ Sorama---Seba</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04ab2f8a6179455786d53b555fc28303.jpg" length="53079" type="image/jpeg"/>
+      <pubDate>Mon, 18 Nov 2024 15:38:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
