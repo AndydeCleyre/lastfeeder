@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Nov 2024 03:45:54 +0000</lastBuildDate>
-    <item>
-      <title>Nick Lutsko - Nice Weather! (1 play)</title>
-      <link>https://www.last.fm/music/Nick+Lutsko/_/Nice+Weather!</link>
-      <guid isPermaLink="false">lintmunro-1730502578--49870c09-e99b-48d8-b824-f4d6039ba0fb---Nice Weather!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 01 Nov 2024 19:09:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kruelty - Profane Usurpation (1 play)</title>
-      <link>https://www.last.fm/music/Kruelty/_/Profane+Usurpation</link>
-      <guid isPermaLink="false">lintmunro-1730502722--b2f912bf-2991-4798-94a9-fa7074c4ff01---Profane Usurpation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eef72c0c5086e35cf5081d4e9b3eacab.jpg" length="34434" type="image/jpeg"/>
-      <pubDate>Fri, 01 Nov 2024 19:12:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>The EFFENS - Darling Man (1 play)</title>
-      <link>https://www.last.fm/music/The+EFFENS/_/Darling+Man</link>
-      <guid isPermaLink="false">lintmunro-1730502948--7de6951b-cf6d-46d1-ad2e-9b556ee11cca---Darling Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 01 Nov 2024 19:15:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Nov 2024 20:21:00 +0000</lastBuildDate>
     <item>
       <title>Chat Pile - Camcorder (1 play)</title>
       <link>https://www.last.fm/music/Chat+Pile/_/Camcorder</link>
@@ -135,11 +114,18 @@
       <pubDate>Fri, 08 Nov 2024 17:24:28 -0500</pubDate>
     </item>
     <item>
-      <title>Stephen Wilson Jr. - billy (1 play)</title>
+      <title>Stephen Wilson Jr. - billy (2 plays)</title>
       <link>https://www.last.fm/music/Stephen+Wilson+Jr./_/billy</link>
       <guid isPermaLink="false">lintmunro-1731104937--Stephen Wilson Jr.---billy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ca67bfc2ff4f82720fbc32e446ec535.jpg" length="21092" type="image/jpeg"/>
       <pubDate>Fri, 08 Nov 2024 17:28:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>Stephen Wilson Jr. - billy (2 plays)</title>
+      <link>https://www.last.fm/music/Stephen+Wilson+Jr./_/billy</link>
+      <guid isPermaLink="false">lintmunro-1731184357--Stephen Wilson Jr.---billy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ca67bfc2ff4f82720fbc32e446ec535.jpg" length="21092" type="image/jpeg"/>
+      <pubDate>Sat, 09 Nov 2024 15:32:37 -0500</pubDate>
     </item>
     <item>
       <title>Uchu Conbini - Pyramid</title>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1732311026--381086ea-f511-4aba-bdf9-71c753dc5077---reincarnated</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a79564a9768d05272682b252deb02079.png" length="129857" type="image/png"/>
       <pubDate>Fri, 22 Nov 2024 16:30:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ecca Vandal - THEN THERE'S ONE (1 play)</title>
+      <link>https://www.last.fm/music/Ecca+Vandal/_/THEN+THERE%27S+ONE</link>
+      <guid isPermaLink="false">lintmunro-1732332672--6b4e962d-3dbc-4bda-82f0-25d35786f076---THEN THERE'S ONE</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c29bced1b362fb2b56d4de3b731a4310.png" length="139025" type="image/png"/>
+      <pubDate>Fri, 22 Nov 2024 22:31:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Opeth - §1 (1 play)</title>
+      <link>https://www.last.fm/music/Opeth/_/%C2%A71</link>
+      <guid isPermaLink="false">lintmunro-1732392827--c14b4180-dc87-481e-b17a-64e4150f90f6---§1</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f02e923f39b9d38bbaac207b58f02ba.jpg" length="17871" type="image/jpeg"/>
+      <pubDate>Sat, 23 Nov 2024 15:13:47 -0500</pubDate>
     </item>
   </channel>
 </rss>
