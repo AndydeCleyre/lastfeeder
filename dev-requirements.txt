@@ -26,7 +26,7 @@ platformdirs==4.3.6
     # via black
 requests==2.32.3
     # via flit
-tomli==2.1.0
+tomli==2.2.1
     # via black
 tomli-w==1.1.0
     # via flit
