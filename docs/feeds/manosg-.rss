@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 14:25:34 +0000</lastBuildDate>
-    <item>
-      <title>The Cure - Lullaby (9 plays)</title>
-      <link>https://www.last.fm/music/The+Cure/_/Lullaby</link>
-      <guid isPermaLink="false">manosg--1733133834--69ee3720-a7cb-4402-b48d-a02c366f2bcf---Lullaby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/429fd312f3d5cb652a9c9ec262495742.jpg" length="19240" type="image/jpeg"/>
-      <pubDate>Mon, 02 Dec 2024 05:03:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Cure - Fascination Street (3 plays)</title>
-      <link>https://www.last.fm/music/The+Cure/_/Fascination+Street</link>
-      <guid isPermaLink="false">manosg--1733134083--69ee3720-a7cb-4402-b48d-a02c366f2bcf---Fascination Street</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/429fd312f3d5cb652a9c9ec262495742.jpg" length="19240" type="image/jpeg"/>
-      <pubDate>Mon, 02 Dec 2024 05:08:03 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Dec 2024 14:46:20 +0000</lastBuildDate>
     <item>
       <title>The Cure - Prayers for Rain (3 plays)</title>
       <link>https://www.last.fm/music/The+Cure/_/Prayers+for+Rain</link>
@@ -107,7 +93,7 @@
       <pubDate>Mon, 02 Dec 2024 07:30:25 -0500</pubDate>
     </item>
     <item>
-      <title>The Cure - Why Can't I Be You? (10 plays)</title>
+      <title>The Cure - Why Can't I Be You?</title>
       <link>https://www.last.fm/music/The+Cure/_/Why+Can%27t+I+Be+You%3F</link>
       <guid isPermaLink="false">manosg--1733156934--69ee3720-a7cb-4402-b48d-a02c366f2bcf---Why Can't I Be You?</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a5401fd4ef19dfc6f8583f108d7023b.jpg" length="17970" type="image/jpeg"/>
@@ -226,14 +212,14 @@
       <pubDate>Wed, 04 Dec 2024 01:06:17 -0500</pubDate>
     </item>
     <item>
-      <title>Sade - Cherish the Day (31 plays)</title>
+      <title>Sade - Cherish the Day (32 plays)</title>
       <link>https://www.last.fm/music/Sade/_/Cherish+the+Day</link>
       <guid isPermaLink="false">manosg--1733292727--67930b3e-e00b-469f-8c74-fd69f20522ec---Cherish the Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c844725c98c7a9deadb4d0130a156df1.png" length="70294" type="image/png"/>
       <pubDate>Wed, 04 Dec 2024 01:12:07 -0500</pubDate>
     </item>
     <item>
-      <title>Sade - Pearls (24 plays)</title>
+      <title>Sade - Pearls (25 plays)</title>
       <link>https://www.last.fm/music/Sade/_/Pearls</link>
       <guid isPermaLink="false">manosg--1733295781--67930b3e-e00b-469f-8c74-fd69f20522ec---Pearls</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c844725c98c7a9deadb4d0130a156df1.png" length="70294" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1733321825--67930b3e-e00b-469f-8c74-fd69f20522ec---Please Send Me Someone to Love</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e9f44a18466985b01748600ee4892a3.png" length="148741" type="image/png"/>
       <pubDate>Wed, 04 Dec 2024 09:17:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sade - Cherish the Day (32 plays)</title>
+      <link>https://www.last.fm/music/Sade/_/Cherish+the+Day</link>
+      <guid isPermaLink="false">manosg--1733322046--67930b3e-e00b-469f-8c74-fd69f20522ec---Cherish the Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e9f44a18466985b01748600ee4892a3.png" length="148741" type="image/png"/>
+      <pubDate>Wed, 04 Dec 2024 09:20:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sade - Pearls (25 plays)</title>
+      <link>https://www.last.fm/music/Sade/_/Pearls</link>
+      <guid isPermaLink="false">manosg--1733322597--67930b3e-e00b-469f-8c74-fd69f20522ec---Pearls</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e9f44a18466985b01748600ee4892a3.png" length="148741" type="image/png"/>
+      <pubDate>Wed, 04 Dec 2024 09:29:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
