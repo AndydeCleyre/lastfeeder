@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 09:42:43 +0000</lastBuildDate>
-    <item>
-      <title>Daryl Hall - Sacred Songs (57 plays)</title>
-      <link>https://www.last.fm/music/Daryl+Hall/_/Sacred+Songs</link>
-      <guid isPermaLink="false">Frippertron-1733715369--31a4c5ca-1899-4a44-a4b1-31e1921ddf17---Sacred Songs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee9a75e33bb2ec5f742bf9bbf496bf0a.jpg" length="21503" type="image/jpeg"/>
-      <pubDate>Sun, 08 Dec 2024 22:36:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Daryl Hall - Something In 4/4 Time (41 plays)</title>
-      <link>https://www.last.fm/music/Daryl+Hall/_/Something+In+4%2F4+Time</link>
-      <guid isPermaLink="false">Frippertron-1733715567--31a4c5ca-1899-4a44-a4b1-31e1921ddf17---Something In 4/4 Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee9a75e33bb2ec5f742bf9bbf496bf0a.jpg" length="21503" type="image/jpeg"/>
-      <pubDate>Sun, 08 Dec 2024 22:39:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Dec 2024 09:54:26 +0000</lastBuildDate>
     <item>
       <title>Daryl Hall - Babs and Babs (27 plays)</title>
       <link>https://www.last.fm/music/Daryl+Hall/_/Babs+and+Babs</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1733737222--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Jordan: The Comeback</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24cdf257f968524275cd2c8fd6682a67.jpg" length="23814" type="image/jpeg"/>
       <pubDate>Mon, 09 Dec 2024 04:40:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Jesse James Symphony (107 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Jesse+James+Symphony</link>
+      <guid isPermaLink="false">Frippertron-1733737475--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Jesse James Symphony</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24cdf257f968524275cd2c8fd6682a67.jpg" length="23814" type="image/jpeg"/>
+      <pubDate>Mon, 09 Dec 2024 04:44:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Prefab Sprout - Jesse James Bolero (106 plays)</title>
+      <link>https://www.last.fm/music/Prefab+Sprout/_/Jesse+James+Bolero</link>
+      <guid isPermaLink="false">Frippertron-1733737611--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Jesse James Bolero</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24cdf257f968524275cd2c8fd6682a67.jpg" length="23814" type="image/jpeg"/>
+      <pubDate>Mon, 09 Dec 2024 04:46:51 -0500</pubDate>
     </item>
   </channel>
 </rss>
