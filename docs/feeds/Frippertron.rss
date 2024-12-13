@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 09:23:16 +0000</lastBuildDate>
-    <item>
-      <title>Grateful Dead - Sugaree (1 play)</title>
-      <link>https://www.last.fm/music/Grateful+Dead/_/Sugaree</link>
-      <guid isPermaLink="false">Frippertron-1734062633--6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6---Sugaree</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ce003ed3f26f44d6626ad0c8bfd9bcd.jpg" length="12774" type="image/jpeg"/>
-      <pubDate>Thu, 12 Dec 2024 23:03:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Dec 2024 10:23:23 +0000</lastBuildDate>
     <item>
       <title>Grateful Dead - Big River (1 play)</title>
       <link>https://www.last.fm/music/Grateful+Dead/_/Big+River</link>
@@ -212,7 +205,7 @@
       <pubDate>Fri, 13 Dec 2024 02:14:00 -0500</pubDate>
     </item>
     <item>
-      <title>Brian Eno - On Some Faraway Beach</title>
+      <title>Brian Eno - On Some Faraway Beach (34 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/On+Some+Faraway+Beach</link>
       <guid isPermaLink="false">Frippertron-1734074352--ff95eb47-41c4-4f7f-a104-cdc30f02e872---On Some Faraway Beach</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e89c8997eb8cc31f6b4c5cdddead3419.png" length="223108" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1734080567--6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6---Truckin'</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc0c8a55134474177ec69876d7b45fbe.jpg" length="33960" type="image/jpeg"/>
       <pubDate>Fri, 13 Dec 2024 04:02:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (141 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1734084464--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Fri, 13 Dec 2024 05:07:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
