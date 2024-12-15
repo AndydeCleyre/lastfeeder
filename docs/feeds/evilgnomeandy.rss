@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Dec 2024 18:45:58 +0000</lastBuildDate>
-    <item>
-      <title>Wham! - Last Christmas (1 play)</title>
-      <link>https://www.last.fm/music/Wham!/_/Last+Christmas</link>
-      <guid isPermaLink="false">evilgnomeandy-1733879671--d570bb31-b9ca-45a4-a2d9-11b186d9c159---Last Christmas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/77976ea0a663e3118baf479f51a768dc.png" length="220164" type="image/png"/>
-      <pubDate>Tue, 10 Dec 2024 20:14:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Dec 2024 19:15:46 +0000</lastBuildDate>
     <item>
       <title>Farizki - Last Christmas - Sped Up (1 play)</title>
       <link>https://www.last.fm/music/Farizki/_/Last+Christmas+-+Sped+Up</link>
@@ -299,6 +292,7 @@
       <title>Offthewally - Marmalade (5 plays)</title>
       <link>https://www.last.fm/music/Offthewally/_/Marmalade</link>
       <guid isPermaLink="false">evilgnomeandy-1734285251--Offthewally---Marmalade</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9cc8dcd04ef32868490d68e3aae8731b.jpg" length="27556" type="image/jpeg"/>
       <pubDate>Sun, 15 Dec 2024 12:54:11 -0500</pubDate>
     </item>
     <item>
@@ -319,6 +313,7 @@
       <title>Offthewally - A dance under the Sun (1 play)</title>
       <link>https://www.last.fm/music/Offthewally/_/A+dance+under+the+Sun</link>
       <guid isPermaLink="false">evilgnomeandy-1734286931--Offthewally---A dance under the Sun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d08fbe7d416d38207ea62a7fea835bf9.jpg" length="24312" type="image/jpeg"/>
       <pubDate>Sun, 15 Dec 2024 13:22:11 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">evilgnomeandy-1734287565--cfd1fdcc-3c1d-4854-a500-31d96a6d5184---Houston</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/697078378fa2b697a795566b4b56219d.jpg" length="16050" type="image/jpeg"/>
       <pubDate>Sun, 15 Dec 2024 13:32:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Offthewally - There and back again (1 play)</title>
+      <link>https://www.last.fm/music/Offthewally/_/There+and+back+again</link>
+      <guid isPermaLink="false">evilgnomeandy-1734287805--Offthewally---There and back again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d08fbe7d416d38207ea62a7fea835bf9.jpg" length="24312" type="image/jpeg"/>
+      <pubDate>Sun, 15 Dec 2024 13:36:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
