@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 05:42:23 +0000</lastBuildDate>
-    <item>
-      <title>Twine - Same Old Problems (3 plays)</title>
-      <link>https://www.last.fm/music/Twine/_/Same+Old+Problems</link>
-      <guid isPermaLink="false">Frippertron-1734122275--31ab8cbe-61bf-4b61-9490-eccffcb98885---Same Old Problems</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4772b1c3b9d28fa524bb84ecced89e0b.jpg" length="24472" type="image/jpeg"/>
-      <pubDate>Fri, 13 Dec 2024 15:37:55 -0500</pubDate>
-    </item>
-    <item>
-      <title>Fleetwood Mac - Albatross (28 plays)</title>
-      <link>https://www.last.fm/music/Fleetwood+Mac/_/Albatross</link>
-      <guid isPermaLink="false">Frippertron-1734122685--bd13909f-1c29-4c27-a874-d4aaf27c5b1a---Albatross</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db089f1f01dd82f668527454a7ce1257.jpg" length="36162" type="image/jpeg"/>
-      <pubDate>Fri, 13 Dec 2024 15:44:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Dec 2024 05:54:09 +0000</lastBuildDate>
     <item>
       <title>青葉市子 - airplane (20131125) (46 plays)</title>
       <link>https://www.last.fm/music/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/_/airplane+(20131125)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1734327443--678d88b2-87b0-403b-b63d-5da7465aecc3---Custard Pie</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0a7049748eb25a46fee9c65116d9417.jpg" length="41587" type="image/jpeg"/>
       <pubDate>Mon, 16 Dec 2024 00:37:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Rover (34 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Rover</link>
+      <guid isPermaLink="false">Frippertron-1734327700--678d88b2-87b0-403b-b63d-5da7465aecc3---The Rover</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0a7049748eb25a46fee9c65116d9417.jpg" length="41587" type="image/jpeg"/>
+      <pubDate>Mon, 16 Dec 2024 00:41:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - In My Time of Dying (63 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/In+My+Time+of+Dying</link>
+      <guid isPermaLink="false">Frippertron-1734328039--678d88b2-87b0-403b-b63d-5da7465aecc3---In My Time of Dying</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0a7049748eb25a46fee9c65116d9417.jpg" length="41587" type="image/jpeg"/>
+      <pubDate>Mon, 16 Dec 2024 00:47:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
