@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 09:39:05 +0000</lastBuildDate>
-    <item>
-      <title>John Cale - Mary Lou (44 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Mary+Lou</link>
-      <guid isPermaLink="false">Frippertron-1734924870--72c090b6-a68e-4cb9-b330-85278681a714---Mary Lou</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dd658db01724d6fa87a9f007b2e1202.jpg" length="11970" type="image/jpeg"/>
-      <pubDate>Sun, 22 Dec 2024 22:34:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Dec 2024 09:52:17 +0000</lastBuildDate>
     <item>
       <title>John Cale - Pablo Picasso (21 plays)</title>
       <link>https://www.last.fm/music/John+Cale/_/Pablo+Picasso</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1734946349--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---Diane</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f22c379346a6469785293388a1c33dc7.jpg" length="36836" type="image/jpeg"/>
       <pubDate>Mon, 23 Dec 2024 04:32:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Charles Mingus - Song with Orange (4 plays)</title>
+      <link>https://www.last.fm/music/Charles+Mingus/_/Song+with+Orange</link>
+      <guid isPermaLink="false">Frippertron-1734946803--f3b8e107-abe8-4743-b6a3-4a4ee995e71f---Song with Orange</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f22c379346a6469785293388a1c33dc7.jpg" length="36836" type="image/jpeg"/>
+      <pubDate>Mon, 23 Dec 2024 04:40:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
