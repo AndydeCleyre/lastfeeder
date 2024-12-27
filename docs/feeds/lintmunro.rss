@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Dec 2024 18:43:43 +0000</lastBuildDate>
-    <item>
-      <title>Tribal Gaze - Twitching On The Cross (2 plays)</title>
-      <link>https://www.last.fm/music/Tribal+Gaze/_/Twitching+On+The+Cross</link>
-      <guid isPermaLink="false">lintmunro-1734297821--28e8b621-abe1-494b-a87a-489086ace3bc---Twitching On The Cross</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8cef398466a7482cc692fb9e1a50450.jpg" length="33213" type="image/jpeg"/>
-      <pubDate>Sun, 15 Dec 2024 16:23:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Morgue Breath - Plaga Sin Rostro (1 play)</title>
-      <link>https://www.last.fm/music/Morgue+Breath/_/Plaga+Sin+Rostro</link>
-      <guid isPermaLink="false">lintmunro-1734298005--9da847c9-353c-4a34-949b-8db9c3fc231e---Plaga Sin Rostro</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a22d67edacf1e76ad4e4bb933a1b992e.jpg" length="48134" type="image/jpeg"/>
-      <pubDate>Sun, 15 Dec 2024 16:26:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Dec 2024 18:55:34 +0000</lastBuildDate>
     <item>
       <title>Morgue Breath - Devorando El Espectro Tumoral (1 play)</title>
       <link>https://www.last.fm/music/Morgue+Breath/_/Devorando+El+Espectro+Tumoral</link>
@@ -89,7 +75,6 @@
       <title>Morgue Breath - Execración Execrable Excrementa Mi Existencia (1 play)</title>
       <link>https://www.last.fm/music/Morgue+Breath/_/Execraci%C3%B3n+Execrable+Excrementa+Mi+Existencia</link>
       <guid isPermaLink="false">lintmunro-1734299940--9da847c9-353c-4a34-949b-8db9c3fc231e---Execración Execrable Excrementa Mi Existencia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a22d67edacf1e76ad4e4bb933a1b992e.jpg" length="48134" type="image/jpeg"/>
       <pubDate>Sun, 15 Dec 2024 16:59:00 -0500</pubDate>
     </item>
     <item>
@@ -278,7 +263,6 @@
       <title>Jimothy Lacoste - Night (1 play)</title>
       <link>https://www.last.fm/music/Jimothy+Lacoste/_/Night</link>
       <guid isPermaLink="false">lintmunro-1734751504--bc4d3a4c-25d0-4e90-8c22-3dc22c20c72e---Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f838c20f03d489897e887c608f562067.jpg" length="18156" type="image/jpeg"/>
       <pubDate>Fri, 20 Dec 2024 22:25:04 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +341,20 @@
       <guid isPermaLink="false">lintmunro-1735324840--c9f3a150-7e2c-4ba5-8168-41ace7fe85ed---Talk Real</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de54286fff05ed94e3ef19c1985503f8.png" length="142018" type="image/png"/>
       <pubDate>Fri, 27 Dec 2024 13:40:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Acid Bath - The Blue (1 play)</title>
+      <link>https://www.last.fm/music/Acid+Bath/_/The+Blue</link>
+      <guid isPermaLink="false">lintmunro-1735325016--f9941902-4286-4194-8d18-e3099a16cd58---The Blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9853c436cd1e19874a026911a04e9c90.jpg" length="33163" type="image/jpeg"/>
+      <pubDate>Fri, 27 Dec 2024 13:43:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Archspire - Drone Corpse Aviator (1 play)</title>
+      <link>https://www.last.fm/music/Archspire/_/Drone+Corpse+Aviator</link>
+      <guid isPermaLink="false">lintmunro-1735325390--89c3e96a-9dfe-4264-8995-4e5f9b0fb358---Drone Corpse Aviator</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a0d5303c3e6aabb035ada1db8ca2f6e.jpg" length="26216" type="image/jpeg"/>
+      <pubDate>Fri, 27 Dec 2024 13:49:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
