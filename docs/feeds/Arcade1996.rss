@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Dec 2024 04:41:16 +0000</lastBuildDate>
-    <item>
-      <title>Eyedress - Mrs. Valentine (17 plays)</title>
-      <link>https://www.last.fm/music/Eyedress/_/Mrs.+Valentine</link>
-      <guid isPermaLink="false">Arcade1996-1735127791--0b619a94-481c-40ac-abae-85f33f2b1588---Mrs. Valentine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b50dba9077617fa1967b26612259f67.jpg" length="19975" type="image/jpeg"/>
-      <pubDate>Wed, 25 Dec 2024 06:56:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>MJ Lenderman - She's Leaving You (4 plays)</title>
-      <link>https://www.last.fm/music/MJ+Lenderman/_/She%27s+Leaving+You</link>
-      <guid isPermaLink="false">Arcade1996-1735127938--4f52595e-652d-4894-95ea-f925234629fc---She's Leaving You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2c44050058fb5260a113b962dec2bc2.png" length="142131" type="image/png"/>
-      <pubDate>Wed, 25 Dec 2024 06:58:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Dec 2024 04:53:16 +0000</lastBuildDate>
     <item>
       <title>Danger Mouse - Belize (feat. MF DOOM) (3 plays)</title>
       <link>https://www.last.fm/music/Danger+Mouse/_/Belize+(feat.+MF+DOOM)</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1735360128--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Blue Lines</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71cbc7d78e7e146077ff2cfd3898e261.jpg" length="17011" type="image/jpeg"/>
       <pubDate>Fri, 27 Dec 2024 23:28:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Holmes - Rodney Yates (3 plays)</title>
+      <link>https://www.last.fm/music/David+Holmes/_/Rodney+Yates</link>
+      <guid isPermaLink="false">Arcade1996-1735360391--a53f5eed-f9f1-4cf1-9994-4c9374904790---Rodney Yates</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/898e68582ed11caf6ba36701fed5b692.jpg" length="21998" type="image/jpeg"/>
+      <pubDate>Fri, 27 Dec 2024 23:33:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Martina Topley-Bird - Sandpaper Kisses (1 play)</title>
+      <link>https://www.last.fm/music/Martina+Topley-Bird/_/Sandpaper+Kisses</link>
+      <guid isPermaLink="false">Arcade1996-1735361210--ed785ff1-8b1b-4bc0-8a24-dcc831013059---Sandpaper Kisses</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7f1feca1b40ba7b5015e601c3352d3b.jpg" length="19799" type="image/jpeg"/>
+      <pubDate>Fri, 27 Dec 2024 23:46:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
