@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Dec 2024 07:39:41 +0000</lastBuildDate>
-    <item>
-      <title>Sylvester - I (Who Have Nothing) (3 plays)</title>
-      <link>https://www.last.fm/music/Sylvester/_/I+(Who+Have+Nothing)</link>
-      <guid isPermaLink="false">Frippertron-1735435834--4d3b710b-a5f0-4772-97db-f09e47fbc6d8---I (Who Have Nothing)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddca3e42e5ff3b70674735e7a33bcb31.jpg" length="14778" type="image/jpeg"/>
-      <pubDate>Sat, 28 Dec 2024 20:30:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sylvester - I Need Somebody To Love Tonight (2 plays)</title>
-      <link>https://www.last.fm/music/Sylvester/_/I+Need+Somebody+To+Love+Tonight</link>
-      <guid isPermaLink="false">Frippertron-1735436509--4d3b710b-a5f0-4772-97db-f09e47fbc6d8---I Need Somebody To Love Tonight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddca3e42e5ff3b70674735e7a33bcb31.jpg" length="14778" type="image/jpeg"/>
-      <pubDate>Sat, 28 Dec 2024 20:41:49 -0500</pubDate>
-    </item>
-    <item>
-      <title>Music Inc. - Abscretions (4 plays)</title>
-      <link>https://www.last.fm/music/Music+Inc./_/Abscretions</link>
-      <guid isPermaLink="false">Frippertron-1735437056--Music Inc.---Abscretions</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7694e8c30a7ff79bbc8d569e21aebe8b.jpg" length="11133" type="image/jpeg"/>
-      <pubDate>Sat, 28 Dec 2024 20:50:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Dec 2024 08:26:41 +0000</lastBuildDate>
     <item>
       <title>Music Inc. - Household Of Saud (6 plays)</title>
       <link>https://www.last.fm/music/Music+Inc./_/Household+Of+Saud</link>
@@ -356,6 +335,27 @@
       <guid isPermaLink="false">Frippertron-1735543218--edbe5d7f-9511-4dfe-847a-8fe19080caaf---Comes Spring</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d35130244555a604049dbb57e51924.jpg" length="18014" type="image/jpeg"/>
       <pubDate>Mon, 30 Dec 2024 02:20:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bobby Hutcherson - Dave's Chant (2 plays)</title>
+      <link>https://www.last.fm/music/Bobby+Hutcherson/_/Dave%27s+Chant</link>
+      <guid isPermaLink="false">Frippertron-1735546133--edbe5d7f-9511-4dfe-847a-8fe19080caaf---Dave's Chant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d35130244555a604049dbb57e51924.jpg" length="18014" type="image/jpeg"/>
+      <pubDate>Mon, 30 Dec 2024 03:08:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bobby Hutcherson - Orientale (2 plays)</title>
+      <link>https://www.last.fm/music/Bobby+Hutcherson/_/Orientale</link>
+      <guid isPermaLink="false">Frippertron-1735546454--edbe5d7f-9511-4dfe-847a-8fe19080caaf---Orientale</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d35130244555a604049dbb57e51924.jpg" length="18014" type="image/jpeg"/>
+      <pubDate>Mon, 30 Dec 2024 03:14:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bobby Hutcherson - Medina (2 plays)</title>
+      <link>https://www.last.fm/music/Bobby+Hutcherson/_/Medina</link>
+      <guid isPermaLink="false">Frippertron-1735546808--edbe5d7f-9511-4dfe-847a-8fe19080caaf---Medina</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/58d35130244555a604049dbb57e51924.jpg" length="18014" type="image/jpeg"/>
+      <pubDate>Mon, 30 Dec 2024 03:20:08 -0500</pubDate>
     </item>
   </channel>
 </rss>
