@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Dec 2024 17:38:34 +0000</lastBuildDate>
-    <item>
-      <title>Mahavishnu Orchestra - Resolution (3 plays)</title>
-      <link>https://www.last.fm/music/Mahavishnu+Orchestra/_/Resolution</link>
-      <guid isPermaLink="false">Frippertron-1735617953--a2be74f5-0735-46f7-a295-7e41aab30029---Resolution</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b53d229d89df4b01cba1e0cdbc64c348.png" length="192641" type="image/png"/>
-      <pubDate>Mon, 30 Dec 2024 23:05:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>Billy Joel - Laura (81 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/Laura</link>
-      <guid isPermaLink="false">Frippertron-1735618141--64b94289-9474-4d43-8c93-918ccc1920d1---Laura</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f04e1b359f6a427f9cf582b5f3546dac.png" length="91942" type="image/png"/>
-      <pubDate>Mon, 30 Dec 2024 23:09:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Dec 2024 17:52:31 +0000</lastBuildDate>
     <item>
       <title>Billy Joel - Careless Talk (32 plays)</title>
       <link>https://www.last.fm/music/Billy+Joel/_/Careless+Talk</link>
@@ -355,7 +341,22 @@
       <title>Larry Young - Softly As In A Morning Sunrise (1 play)</title>
       <link>https://www.last.fm/music/Larry+Young/_/Softly+As+In+A+Morning+Sunrise</link>
       <guid isPermaLink="false">Frippertron-1735666245--81971abd-8a02-4d66-a499-8487ba7f20d8---Softly As In A Morning Sunrise</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f68a37f8c7842c6f1b8228a89b1d69b.jpg" length="12920" type="image/jpeg"/>
       <pubDate>Tue, 31 Dec 2024 12:30:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Larry Young - Beyond All Limits (1 play)</title>
+      <link>https://www.last.fm/music/Larry+Young/_/Beyond+All+Limits</link>
+      <guid isPermaLink="false">Frippertron-1735666631--81971abd-8a02-4d66-a499-8487ba7f20d8---Beyond All Limits</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f68a37f8c7842c6f1b8228a89b1d69b.jpg" length="12920" type="image/jpeg"/>
+      <pubDate>Tue, 31 Dec 2024 12:37:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bobby Hutcherson - At the Source (1 play)</title>
+      <link>https://www.last.fm/music/Bobby+Hutcherson/_/At+the+Source</link>
+      <guid isPermaLink="false">Frippertron-1735667302--edbe5d7f-9511-4dfe-847a-8fe19080caaf---At the Source</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd5dfb6ad6264ab99f70010baa220861.png" length="162253" type="image/png"/>
+      <pubDate>Tue, 31 Dec 2024 12:48:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
