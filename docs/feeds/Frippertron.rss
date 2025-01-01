@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jan 2025 09:38:35 +0000</lastBuildDate>
-    <item>
-      <title>Larry Young - If (1 play)</title>
-      <link>https://www.last.fm/music/Larry+Young/_/If</link>
-      <guid isPermaLink="false">Frippertron-1735665294--81971abd-8a02-4d66-a499-8487ba7f20d8---If</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f68a37f8c7842c6f1b8228a89b1d69b.jpg" length="12920" type="image/jpeg"/>
-      <pubDate>Tue, 31 Dec 2024 12:14:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>Larry Young - The Moontrane (1 play)</title>
-      <link>https://www.last.fm/music/Larry+Young/_/The+Moontrane</link>
-      <guid isPermaLink="false">Frippertron-1735665804--81971abd-8a02-4d66-a499-8487ba7f20d8---The Moontrane</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f68a37f8c7842c6f1b8228a89b1d69b.jpg" length="12920" type="image/jpeg"/>
-      <pubDate>Tue, 31 Dec 2024 12:23:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jan 2025 09:52:05 +0000</lastBuildDate>
     <item>
       <title>Larry Young - Softly As In A Morning Sunrise (1 play)</title>
       <link>https://www.last.fm/music/Larry+Young/_/Softly+As+In+A+Morning+Sunrise</link>
@@ -357,6 +343,19 @@
       <guid isPermaLink="false">Frippertron-1735724048--22fe7b6f-af38-458e-87bd-8971e7a2912e---Once I Loved</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3490b0b5024fccb60ad9d7d9b548df.jpg" length="18750" type="image/jpeg"/>
       <pubDate>Wed, 01 Jan 2025 04:34:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Elvin (Sir) Jones (3 plays)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Elvin+(Sir)+Jones</link>
+      <guid isPermaLink="false">Frippertron-1735724523--22fe7b6f-af38-458e-87bd-8971e7a2912e---Elvin (Sir) Jones</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3490b0b5024fccb60ad9d7d9b548df.jpg" length="18750" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jan 2025 04:42:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Land Of The Lonely (2 plays)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Land+Of+The+Lonely</link>
+      <guid isPermaLink="false">Frippertron-1735724850--22fe7b6f-af38-458e-87bd-8971e7a2912e---Land Of The Lonely</guid>
+      <pubDate>Wed, 01 Jan 2025 04:47:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
