@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jan 2025 09:52:05 +0000</lastBuildDate>
-    <item>
-      <title>Larry Young - Softly As In A Morning Sunrise (1 play)</title>
-      <link>https://www.last.fm/music/Larry+Young/_/Softly+As+In+A+Morning+Sunrise</link>
-      <guid isPermaLink="false">Frippertron-1735666245--81971abd-8a02-4d66-a499-8487ba7f20d8---Softly As In A Morning Sunrise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f68a37f8c7842c6f1b8228a89b1d69b.jpg" length="12920" type="image/jpeg"/>
-      <pubDate>Tue, 31 Dec 2024 12:30:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Larry Young - Beyond All Limits (1 play)</title>
-      <link>https://www.last.fm/music/Larry+Young/_/Beyond+All+Limits</link>
-      <guid isPermaLink="false">Frippertron-1735666631--81971abd-8a02-4d66-a499-8487ba7f20d8---Beyond All Limits</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f68a37f8c7842c6f1b8228a89b1d69b.jpg" length="12920" type="image/jpeg"/>
-      <pubDate>Tue, 31 Dec 2024 12:37:11 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jan 2025 10:20:23 +0000</lastBuildDate>
     <item>
       <title>Bobby Hutcherson - At the Source (1 play)</title>
       <link>https://www.last.fm/music/Bobby+Hutcherson/_/At+the+Source</link>
@@ -356,6 +342,20 @@
       <link>https://www.last.fm/music/McCoy+Tyner/_/Land+Of+The+Lonely</link>
       <guid isPermaLink="false">Frippertron-1735724850--22fe7b6f-af38-458e-87bd-8971e7a2912e---Land Of The Lonely</guid>
       <pubDate>Wed, 01 Jan 2025 04:47:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Impressions (2 plays)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Impressions</link>
+      <guid isPermaLink="false">Frippertron-1735725303--22fe7b6f-af38-458e-87bd-8971e7a2912e---Impressions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3490b0b5024fccb60ad9d7d9b548df.jpg" length="18750" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jan 2025 04:55:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>McCoy Tyner - Ruby, My Dear (2 plays)</title>
+      <link>https://www.last.fm/music/McCoy+Tyner/_/Ruby,+My+Dear</link>
+      <guid isPermaLink="false">Frippertron-1735725607--22fe7b6f-af38-458e-87bd-8971e7a2912e---Ruby, My Dear</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3490b0b5024fccb60ad9d7d9b548df.jpg" length="18750" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jan 2025 05:00:07 -0500</pubDate>
     </item>
   </channel>
 </rss>
