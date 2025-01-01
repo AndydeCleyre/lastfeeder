@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jan 2025 22:18:59 +0000</lastBuildDate>
-    <item>
-      <title>My Morning Jacket - Santa Claus Is Back in Town (1 play)</title>
-      <link>https://www.last.fm/music/My+Morning+Jacket/_/Santa+Claus+Is+Back+in+Town</link>
-      <guid isPermaLink="false">TalonsOfFire-1735679125--ea5883b7-68ce-48b3-b115-61746ea53b8c---Santa Claus Is Back in Town</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97880f47359266c82d0fd34cf4b4a9b3.jpg" length="36107" type="image/jpeg"/>
-      <pubDate>Tue, 31 Dec 2024 16:05:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jan 2025 22:52:06 +0000</lastBuildDate>
     <item>
       <title>Céline Dion - Happy Xmas (War Is Over) (1 play)</title>
       <link>https://www.last.fm/music/C%C3%A9line+Dion/_/Happy+Xmas+(War+Is+Over)</link>
@@ -278,12 +271,14 @@
       <title>Andrea Balducci - Spooky (1 play)</title>
       <link>https://www.last.fm/music/Andrea+Balducci/_/Spooky</link>
       <guid isPermaLink="false">TalonsOfFire-1735701814--b7b427c2-6e1f-4f6c-9d8e-3a664a795609---Spooky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8bc99d39670dee9120ccac6bb15783c0.jpg" length="13796" type="image/jpeg"/>
       <pubDate>Tue, 31 Dec 2024 22:23:34 -0500</pubDate>
     </item>
     <item>
       <title>Blue Six - I've Given Enough (1 play)</title>
       <link>https://www.last.fm/music/Blue+Six/_/I%27ve+Given+Enough</link>
       <guid isPermaLink="false">TalonsOfFire-1735702061--008a551c-926a-48ae-aabf-8527fbec8bc5---I've Given Enough</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36951df891bc9c7b6b1a977628bdc4cc.jpg" length="22264" type="image/jpeg"/>
       <pubDate>Tue, 31 Dec 2024 22:27:41 -0500</pubDate>
     </item>
     <item>
@@ -318,6 +313,7 @@
       <title>Grinderman - Palaces of Montezuma (1 play)</title>
       <link>https://www.last.fm/music/Grinderman/_/Palaces+of+Montezuma</link>
       <guid isPermaLink="false">TalonsOfFire-1735704617--611f1230-7c2b-4610-b9e6-5a4fcb6e3cc7---Palaces of Montezuma</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dda0115fb1f4010a4e5817572ea9367.png" length="163544" type="image/png"/>
       <pubDate>Tue, 31 Dec 2024 23:10:17 -0500</pubDate>
     </item>
     <item>
@@ -354,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1735769670--c14b4180-dc87-481e-b17a-64e4150f90f6---§7</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f02e923f39b9d38bbaac207b58f02ba.jpg" length="17871" type="image/jpeg"/>
       <pubDate>Wed, 01 Jan 2025 17:14:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Opeth - A Story Never Told (5 plays)</title>
+      <link>https://www.last.fm/music/Opeth/_/A+Story+Never+Told</link>
+      <guid isPermaLink="false">TalonsOfFire-1735769909--c14b4180-dc87-481e-b17a-64e4150f90f6---A Story Never Told</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f02e923f39b9d38bbaac207b58f02ba.jpg" length="17871" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jan 2025 17:18:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
