@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jan 2025 08:25:50 +0000</lastBuildDate>
-    <item>
-      <title>Joe Henderson - Air (1 play)</title>
-      <link>https://www.last.fm/music/Joe+Henderson/_/Air</link>
-      <guid isPermaLink="false">Frippertron-1735637276--bcab8301-c7e5-4689-a4ad-9ee947b4ce37---Air</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b880a66058d7a5354fb73aef423dd581.jpg" length="17718" type="image/jpeg"/>
-      <pubDate>Tue, 31 Dec 2024 04:27:56 -0500</pubDate>
-    </item>
-    <item>
-      <title>Joe Henderson - Water (1 play)</title>
-      <link>https://www.last.fm/music/Joe+Henderson/_/Water</link>
-      <guid isPermaLink="false">Frippertron-1735637872--bcab8301-c7e5-4689-a4ad-9ee947b4ce37---Water</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b880a66058d7a5354fb73aef423dd581.jpg" length="17718" type="image/jpeg"/>
-      <pubDate>Tue, 31 Dec 2024 04:37:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jan 2025 08:43:56 +0000</lastBuildDate>
     <item>
       <title>Joe Henderson - Earth (1 play)</title>
       <link>https://www.last.fm/music/Joe+Henderson/_/Earth</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1735719715--22fe7b6f-af38-458e-87bd-8971e7a2912e---Isotope</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2dc335d07b69c2f888f3dc24dfb67b51.png" length="137336" type="image/png"/>
       <pubDate>Wed, 01 Jan 2025 03:21:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Aberinkula (139 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
+      <guid isPermaLink="false">Frippertron-1735720156--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jan 2025 03:29:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Metatron (175 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
+      <guid isPermaLink="false">Frippertron-1735720501--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jan 2025 03:35:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
