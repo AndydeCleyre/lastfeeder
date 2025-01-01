@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jan 2025 11:38:29 +0000</lastBuildDate>
-    <item>
-      <title>Blushing - Tamagotchi (1 play)</title>
-      <link>https://www.last.fm/music/Blushing/_/Tamagotchi</link>
-      <guid isPermaLink="false">Arcade1996-1735527290--b4c8edcb-9cc9-4900-89cc-6d8b9817d6c8---Tamagotchi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/63f35058881273a45ce7838d57d6d893.jpg" length="36769" type="image/jpeg"/>
-      <pubDate>Sun, 29 Dec 2024 21:54:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jan 2025 11:52:25 +0000</lastBuildDate>
     <item>
       <title>Midwife - Rock N Roll Never Forgets (1 play)</title>
       <link>https://www.last.fm/music/Midwife/_/Rock+N+Roll+Never+Forgets</link>
@@ -93,7 +86,7 @@
       <pubDate>Mon, 30 Dec 2024 02:46:08 -0500</pubDate>
     </item>
     <item>
-      <title>Fontaines D.C. - A Hero's Death (2 plays)</title>
+      <title>Fontaines D.C. - A Hero's Death (3 plays)</title>
       <link>https://www.last.fm/music/Fontaines+D.C./_/A+Hero%27s+Death</link>
       <guid isPermaLink="false">Arcade1996-1735545024--fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68---A Hero's Death</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c26a07bde7cb26e937acf90255fdf240.jpg" length="22463" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1735730579--fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68---Starburster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f4ae1fdc6b81d93c41c0054d596ccf0.png" length="165963" type="image/png"/>
       <pubDate>Wed, 01 Jan 2025 06:22:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fontaines D.C. - A Hero's Death (3 plays)</title>
+      <link>https://www.last.fm/music/Fontaines+D.C./_/A+Hero%27s+Death</link>
+      <guid isPermaLink="false">Arcade1996-1735730846--fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68---A Hero's Death</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c26a07bde7cb26e937acf90255fdf240.jpg" length="22463" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jan 2025 06:27:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
