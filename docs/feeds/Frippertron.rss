@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 07:52:08 +0000</lastBuildDate>
-    <item>
-      <title>McCoy Tyner - Impressions (3 plays)</title>
-      <link>https://www.last.fm/music/McCoy+Tyner/_/Impressions</link>
-      <guid isPermaLink="false">Frippertron-1735748214--22fe7b6f-af38-458e-87bd-8971e7a2912e---Impressions</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a3490b0b5024fccb60ad9d7d9b548df.jpg" length="18750" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jan 2025 11:16:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jan 2025 08:25:33 +0000</lastBuildDate>
     <item>
       <title>McCoy Tyner - Ruby, My Dear (3 plays)</title>
       <link>https://www.last.fm/music/McCoy+Tyner/_/Ruby,+My+Dear</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1735804026--a2be74f5-0735-46f7-a295-7e41aab30029---Birds Of Fire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b53d229d89df4b01cba1e0cdbc64c348.png" length="192641" type="image/png"/>
       <pubDate>Thu, 02 Jan 2025 02:47:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Music Inc. - Household Of Saud (12 plays)</title>
+      <link>https://www.last.fm/music/Music+Inc./_/Household+Of+Saud</link>
+      <guid isPermaLink="false">Frippertron-1735804390--Music Inc.---Household Of Saud</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7694e8c30a7ff79bbc8d569e21aebe8b.jpg" length="11133" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jan 2025 02:53:10 -0500</pubDate>
     </item>
   </channel>
 </rss>
