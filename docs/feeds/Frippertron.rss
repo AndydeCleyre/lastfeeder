@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 12:39:24 +0000</lastBuildDate>
-    <item>
-      <title>Billy Joel - Honesty (30 plays)</title>
-      <link>https://www.last.fm/music/Billy+Joel/_/Honesty</link>
-      <guid isPermaLink="false">Frippertron-1735797747--64b94289-9474-4d43-8c93-918ccc1920d1---Honesty</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8b0861be77d3918ef40802dfe3b23f4.jpg" length="25101" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jan 2025 01:02:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jan 2025 16:55:55 +0000</lastBuildDate>
     <item>
       <title>Billy Joel - My Life (49 plays)</title>
       <link>https://www.last.fm/music/Billy+Joel/_/My+Life</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1735820120--6ca6f49f-41f3-49ae-8403-44d07bc6f564---Terra</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
       <pubDate>Thu, 02 Jan 2025 07:15:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chick Corea &amp; Gary Burton - Señor Mouse (1 play)</title>
+      <link>https://www.last.fm/music/Chick+Corea+&amp;+Gary+Burton/_/Se%C3%B1or+Mouse</link>
+      <guid isPermaLink="false">Frippertron-1735836652--Chick Corea &amp; Gary Burton---Señor Mouse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e1ce07a8abc04004b041799ecf31862c.jpg" length="16351" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jan 2025 11:50:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
