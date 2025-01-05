@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jan 2025 14:38:08 +0000</lastBuildDate>
-    <item>
-      <title>Bobby Hutcherson - West 22nd Street Theme (2 plays)</title>
-      <link>https://www.last.fm/music/Bobby+Hutcherson/_/West+22nd+Street+Theme</link>
-      <guid isPermaLink="false">Frippertron-1735948801--edbe5d7f-9511-4dfe-847a-8fe19080caaf---West 22nd Street Theme</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9072e332e59487b967317bbe8eddbb77.jpg" length="24368" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jan 2025 19:00:01 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jan 2025 14:52:10 +0000</lastBuildDate>
     <item>
       <title>Chick Corea - Nefertitti (1 play)</title>
       <link>https://www.last.fm/music/Chick+Corea/_/Nefertitti</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1736087477--Tomasz Stańko---Boratka/Flute's Ballad</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eeae447bfab8cbff655e7bf95fd2debc.png" length="175496" type="image/png"/>
       <pubDate>Sun, 05 Jan 2025 09:31:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tomasz Stańko - My Night, My Day (1 play)</title>
+      <link>https://www.last.fm/music/Tomasz+Sta%C5%84ko/_/My+Night,+My+Day</link>
+      <guid isPermaLink="false">Frippertron-1736088322--Tomasz Stańko---My Night, My Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eeae447bfab8cbff655e7bf95fd2debc.png" length="175496" type="image/png"/>
+      <pubDate>Sun, 05 Jan 2025 09:45:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
