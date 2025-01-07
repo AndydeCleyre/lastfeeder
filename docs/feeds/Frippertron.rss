@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 05:18:57 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Right (72 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Right</link>
-      <guid isPermaLink="false">Frippertron-1736148247--5441c29d-3602-4898-b1a1-b77fa23b8e50---Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 06 Jan 2025 02:24:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jan 2025 05:39:49 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Somebody Up There Likes Me (68 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1736226773--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---White Light/White Heat</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3fcc935cdbf04a13ad66a7f21f3e4058.png" length="133672" type="image/png"/>
       <pubDate>Tue, 07 Jan 2025 00:12:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Song Remains the Same (199 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1736227864--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jan 2025 00:31:04 -0500</pubDate>
     </item>
   </channel>
 </rss>
