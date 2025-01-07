@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 05:39:49 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Somebody Up There Likes Me (68 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
-      <guid isPermaLink="false">Frippertron-1736148508--5441c29d-3602-4898-b1a1-b77fa23b8e50---Somebody Up There Likes Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 06 Jan 2025 02:28:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jan 2025 05:52:06 +0000</lastBuildDate>
     <item>
       <title>geordie greep - As If Waltz (30 plays)</title>
       <link>https://www.last.fm/music/geordie+greep/_/As+If+Waltz</link>
@@ -30,7 +23,7 @@
       <pubDate>Mon, 06 Jan 2025 03:06:26 -0500</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - No Quarter (88 plays)</title>
+      <title>Led Zeppelin - No Quarter (89 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/No+Quarter</link>
       <guid isPermaLink="false">Frippertron-1736151608--678d88b2-87b0-403b-b63d-5da7465aecc3---No Quarter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1736227864--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
       <pubDate>Tue, 07 Jan 2025 00:31:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - No Quarter (89 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/No+Quarter</link>
+      <guid isPermaLink="false">Frippertron-1736228199--678d88b2-87b0-403b-b63d-5da7465aecc3---No Quarter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a80e9c36eb0e1b9dd1c076357e297f1d.jpg" length="29642" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jan 2025 00:36:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
