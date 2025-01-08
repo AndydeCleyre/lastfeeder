@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jan 2025 07:52:23 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Right (74 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Right</link>
-      <guid isPermaLink="false">Frippertron-1736248080--5441c29d-3602-4898-b1a1-b77fa23b8e50---Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Tue, 07 Jan 2025 06:08:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jan 2025 08:26:51 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Somebody Up There Likes Me (70 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Somebody+Up+There+Likes+Me</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1736322136--20883363-1ea4-4d72-ad72-c0e767038f3e---Luciforms</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fd343871112bd1e24193af142a38f7e.jpg" length="26295" type="image/jpeg"/>
       <pubDate>Wed, 08 Jan 2025 02:42:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Astronomy Domine (43 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Astronomy+Domine</link>
+      <guid isPermaLink="false">Frippertron-1736323054--83d91898-7763-47d7-b03b-b92132375c47---Astronomy Domine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b4db1b8ef3cabd86e40a3f30b6597927.jpg" length="31882" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jan 2025 02:57:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
