@@ -8,8 +8,6 @@ certifi==2024.12.14
     #   httpx
 delorean==1.0.0
     # via -r requirements.in
-exceptiongroup==1.2.2
-    # via anyio
 feedgen==1.0.0
     # via -r requirements.in
 h11==0.14.0
