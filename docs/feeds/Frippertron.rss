@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jan 2025 17:52:53 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Stay (325 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
-      <guid isPermaLink="false">Frippertron-1736321704--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jan 2025 02:35:04 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Luciforms (20 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Luciforms</link>
-      <guid isPermaLink="false">Frippertron-1736322136--20883363-1ea4-4d72-ad72-c0e767038f3e---Luciforms</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fd343871112bd1e24193af142a38f7e.jpg" length="26295" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jan 2025 02:42:16 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jan 2025 18:28:21 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Astronomy Domine (43 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Astronomy+Domine</link>
@@ -299,7 +285,6 @@
       <title>Max Roach - In The Red (A Xmas Carol) (1 play)</title>
       <link>https://www.last.fm/music/Max+Roach/_/In+The+Red+(A+Xmas+Carol)</link>
       <guid isPermaLink="false">Frippertron-1736354264--0b6aea55-d855-4a33-ae08-b0280dd28684---In The Red (A Xmas Carol)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8a0b097facfe4c0585e69bdbb74b98c.jpg" length="26211" type="image/jpeg"/>
       <pubDate>Wed, 08 Jan 2025 11:37:44 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1736358500--Destroyer---A Light Travels Down the Catwalk</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/940cb0e9cd76aeb346deee5d361e6f1b.png" length="56784" type="image/png"/>
       <pubDate>Wed, 08 Jan 2025 12:48:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Destroyer - Saw You at the Hospital (34 plays)</title>
+      <link>https://www.last.fm/music/Destroyer/_/Saw+You+at+the+Hospital</link>
+      <guid isPermaLink="false">Frippertron-1736358691--Destroyer---Saw You at the Hospital</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/940cb0e9cd76aeb346deee5d361e6f1b.png" length="56784" type="image/png"/>
+      <pubDate>Wed, 08 Jan 2025 12:51:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Destroyer - Times Square (11 plays)</title>
+      <link>https://www.last.fm/music/Destroyer/_/Times+Square</link>
+      <guid isPermaLink="false">Frippertron-1736358906--Destroyer---Times Square</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcf5ef6926be8621f5361c82b6fec7ea.png" length="111937" type="image/png"/>
+      <pubDate>Wed, 08 Jan 2025 12:55:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
