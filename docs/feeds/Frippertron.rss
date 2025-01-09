@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 11:38:00 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Because You're Young (69 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Because+You%27re+Young</link>
-      <guid isPermaLink="false">Frippertron-1736399185--5441c29d-3602-4898-b1a1-b77fa23b8e50---Because You're Young</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jan 2025 00:06:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jan 2025 11:52:17 +0000</lastBuildDate>
     <item>
       <title>David Bowie - It's No Game (Part 2) (71 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/It%27s+No+Game+(Part+2)</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1736422220--5441c29d-3602-4898-b1a1-b77fa23b8e50---Strangers When We Meet</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007761d122d75d12c03305238399cab5.png" length="133268" type="image/png"/>
       <pubDate>Thu, 09 Jan 2025 06:30:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Luciforms (21 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Luciforms</link>
+      <guid isPermaLink="false">Frippertron-1736422548--20883363-1ea4-4d72-ad72-c0e767038f3e---Luciforms</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fd343871112bd1e24193af142a38f7e.jpg" length="26295" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jan 2025 06:35:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
