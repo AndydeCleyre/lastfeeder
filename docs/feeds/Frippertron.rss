@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 14:19:04 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Kooks (52 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Kooks</link>
-      <guid isPermaLink="false">Frippertron-1736401250--5441c29d-3602-4898-b1a1-b77fa23b8e50---Kooks</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Thu, 09 Jan 2025 00:40:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Quicksand (136 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Quicksand</link>
-      <guid isPermaLink="false">Frippertron-1736401423--5441c29d-3602-4898-b1a1-b77fa23b8e50---Quicksand</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Thu, 09 Jan 2025 00:43:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jan 2025 14:41:41 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Fill Your Heart (55 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Fill+Your+Heart</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1736432074--0b6aea55-d855-4a33-ae08-b0280dd28684---Spirit possession</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c05d67eec5f4682bf17a28f7fa19f7c.png" length="193487" type="image/png"/>
       <pubDate>Thu, 09 Jan 2025 09:14:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Max Roach &amp; Anthony Braxton - Soft shoe (1 play)</title>
+      <link>https://www.last.fm/music/Max+Roach+&amp;+Anthony+Braxton/_/Soft+shoe</link>
+      <guid isPermaLink="false">Frippertron-1736432475--0b6aea55-d855-4a33-ae08-b0280dd28684---Soft shoe</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c05d67eec5f4682bf17a28f7fa19f7c.png" length="193487" type="image/png"/>
+      <pubDate>Thu, 09 Jan 2025 09:21:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Max Roach &amp; Anthony Braxton - Rebirth (1 play)</title>
+      <link>https://www.last.fm/music/Max+Roach+&amp;+Anthony+Braxton/_/Rebirth</link>
+      <guid isPermaLink="false">Frippertron-1736432653--0b6aea55-d855-4a33-ae08-b0280dd28684---Rebirth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c05d67eec5f4682bf17a28f7fa19f7c.png" length="193487" type="image/png"/>
+      <pubDate>Thu, 09 Jan 2025 09:24:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
