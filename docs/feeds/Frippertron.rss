@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jan 2025 10:54:15 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - TVC 15 (163 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/TVC+15</link>
-      <guid isPermaLink="false">Frippertron-1736481181--5441c29d-3602-4898-b1a1-b77fa23b8e50---TVC 15</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jan 2025 22:53:01 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Stay (327 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Stay</link>
-      <guid isPermaLink="false">Frippertron-1736481513--5441c29d-3602-4898-b1a1-b77fa23b8e50---Stay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jan 2025 22:58:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Wild Is the Wind (80 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Wild+Is+the+Wind</link>
-      <guid isPermaLink="false">Frippertron-1736481890--5441c29d-3602-4898-b1a1-b77fa23b8e50---Wild Is the Wind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b548ca89d3fb077fe2805f4e17f2ac9b.jpg" length="13558" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jan 2025 23:04:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jan 2025 12:40:55 +0000</lastBuildDate>
     <item>
       <title>John Cale - Mary Lou (48 plays)</title>
       <link>https://www.last.fm/music/John+Cale/_/Mary+Lou</link>
@@ -352,11 +331,32 @@
       <pubDate>Fri, 10 Jan 2025 05:46:53 -0500</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - Nobody's Fault but Mine (38 plays)</title>
+      <title>Led Zeppelin - Nobody's Fault but Mine (39 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Nobody%27s+Fault+but+Mine</link>
       <guid isPermaLink="false">Frippertron-1736506192--678d88b2-87b0-403b-b63d-5da7465aecc3---Nobody's Fault but Mine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa04a03f62aad38f5ba4b54c4293dd73.jpg" length="16296" type="image/jpeg"/>
       <pubDate>Fri, 10 Jan 2025 05:49:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Nobody's Fault but Mine (39 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Nobody%27s+Fault+but+Mine</link>
+      <guid isPermaLink="false">Frippertron-1736506580--678d88b2-87b0-403b-b63d-5da7465aecc3---Nobody's Fault but Mine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa04a03f62aad38f5ba4b54c4293dd73.jpg" length="16296" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jan 2025 05:56:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Candy Store Rock (11 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Candy+Store+Rock</link>
+      <guid isPermaLink="false">Frippertron-1736511333--678d88b2-87b0-403b-b63d-5da7465aecc3---Candy Store Rock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa04a03f62aad38f5ba4b54c4293dd73.jpg" length="16296" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jan 2025 07:15:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Hots on for Nowhere (22 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Hots+on+for+Nowhere</link>
+      <guid isPermaLink="false">Frippertron-1736511584--678d88b2-87b0-403b-b63d-5da7465aecc3---Hots on for Nowhere</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa04a03f62aad38f5ba4b54c4293dd73.jpg" length="16296" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jan 2025 07:19:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
