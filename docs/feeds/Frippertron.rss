@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 09:38:27 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - It Ain't Easy (55 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/It+Ain%27t+Easy</link>
-      <guid isPermaLink="false">Frippertron-1736912111--5441c29d-3602-4898-b1a1-b77fa23b8e50---It Ain't Easy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Tue, 14 Jan 2025 22:35:11 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jan 2025 09:52:08 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Lady Stardust (79 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Lady+Stardust</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1736933477--2379937f-6e0d-46a2-b8ff-633fafd72002---Iska</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55e7f9c69d77ead88632adf068f8bc8d.jpg" length="14186" type="image/jpeg"/>
       <pubDate>Wed, 15 Jan 2025 04:31:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chick Corea - Return To Forever (1 play)</title>
+      <link>https://www.last.fm/music/Chick+Corea/_/Return+To+Forever</link>
+      <guid isPermaLink="false">Frippertron-1736934146--8446fcca-109e-4c6d-a2ff-5a269b32b4c2---Return To Forever</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/037fc09130c137fc7844f50b36826b4b.jpg" length="19341" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jan 2025 04:42:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
