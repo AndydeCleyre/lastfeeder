@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 09:20:29 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Soul Love (100 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Soul+Love</link>
-      <guid isPermaLink="false">Frippertron-1736911362--5441c29d-3602-4898-b1a1-b77fa23b8e50---Soul Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Tue, 14 Jan 2025 22:22:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Moonage Daydream (248 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Moonage+Daydream</link>
-      <guid isPermaLink="false">Frippertron-1736911576--5441c29d-3602-4898-b1a1-b77fa23b8e50---Moonage Daydream</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Tue, 14 Jan 2025 22:26:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Starman (129 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Starman</link>
-      <guid isPermaLink="false">Frippertron-1736911856--5441c29d-3602-4898-b1a1-b77fa23b8e50---Starman</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Tue, 14 Jan 2025 22:30:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jan 2025 09:38:27 +0000</lastBuildDate>
     <item>
       <title>David Bowie - It Ain't Easy (55 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/It+Ain%27t+Easy</link>
@@ -247,7 +226,7 @@
       <pubDate>Wed, 15 Jan 2025 01:20:48 -0500</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - Your Time Is Gonna Come (15 plays)</title>
+      <title>Led Zeppelin - Your Time Is Gonna Come</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Your+Time+Is+Gonna+Come</link>
       <guid isPermaLink="false">Frippertron-1736922439--678d88b2-87b0-403b-b63d-5da7465aecc3---Your Time Is Gonna Come</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82b68b8267234a289714c0e20c4e288d.png" length="96017" type="image/png"/>
@@ -357,6 +336,27 @@
       <guid isPermaLink="false">Frippertron-1736932357--2379937f-6e0d-46a2-b8ff-633fafd72002---Montezuma</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55e7f9c69d77ead88632adf068f8bc8d.jpg" length="14186" type="image/jpeg"/>
       <pubDate>Wed, 15 Jan 2025 04:12:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wayne Shorter - Antiqua (2 plays)</title>
+      <link>https://www.last.fm/music/Wayne+Shorter/_/Antiqua</link>
+      <guid isPermaLink="false">Frippertron-1736932828--2379937f-6e0d-46a2-b8ff-633fafd72002---Antiqua</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55e7f9c69d77ead88632adf068f8bc8d.jpg" length="14186" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jan 2025 04:20:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wayne Shorter - Vera Cruz (2 plays)</title>
+      <link>https://www.last.fm/music/Wayne+Shorter/_/Vera+Cruz</link>
+      <guid isPermaLink="false">Frippertron-1736933151--2379937f-6e0d-46a2-b8ff-633fafd72002---Vera Cruz</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55e7f9c69d77ead88632adf068f8bc8d.jpg" length="14186" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jan 2025 04:25:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wayne Shorter - Iska (2 plays)</title>
+      <link>https://www.last.fm/music/Wayne+Shorter/_/Iska</link>
+      <guid isPermaLink="false">Frippertron-1736933477--2379937f-6e0d-46a2-b8ff-633fafd72002---Iska</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55e7f9c69d77ead88632adf068f8bc8d.jpg" length="14186" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jan 2025 04:31:17 -0500</pubDate>
     </item>
   </channel>
 </rss>
