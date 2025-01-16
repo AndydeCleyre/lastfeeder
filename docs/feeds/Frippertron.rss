@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jan 2025 18:27:25 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Candy and a Currant Bun (2 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Candy+and+a+Currant+Bun</link>
-      <guid isPermaLink="false">Frippertron-1737009983--83d91898-7763-47d7-b03b-b92132375c47---Candy and a Currant Bun</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/495b50731f724667968bbe9ba8a921e7.png" length="180533" type="image/png"/>
-      <pubDate>Thu, 16 Jan 2025 01:46:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Childhood's End (9 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Childhood%27s+End</link>
-      <guid isPermaLink="false">Frippertron-1737010150--83d91898-7763-47d7-b03b-b92132375c47---Childhood's End</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66092948eafe43ffc331bfd6f13c875a.png" length="199360" type="image/png"/>
-      <pubDate>Thu, 16 Jan 2025 01:49:10 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jan 2025 18:43:53 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Have a Cigar (30 plays)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Have+a+Cigar</link>
@@ -357,6 +343,19 @@
       <guid isPermaLink="false">Frippertron-1737051681--e18f7cf8-9329-42a7-87f9-a7654ba4069a---Nightfall Pieces I</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e47aadf718a6432dcea3a8b3540ebbb.jpg" length="14348" type="image/jpeg"/>
       <pubDate>Thu, 16 Jan 2025 13:21:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bill Dixon - Voices (3 plays)</title>
+      <link>https://www.last.fm/music/Bill+Dixon/_/Voices</link>
+      <guid isPermaLink="false">Frippertron-1737051919--e18f7cf8-9329-42a7-87f9-a7654ba4069a---Voices</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e47aadf718a6432dcea3a8b3540ebbb.jpg" length="14348" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jan 2025 13:25:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bill Dixon - Nightfall Pieces II (3 plays)</title>
+      <link>https://www.last.fm/music/Bill+Dixon/_/Nightfall+Pieces+II</link>
+      <guid isPermaLink="false">Frippertron-1737052659--e18f7cf8-9329-42a7-87f9-a7654ba4069a---Nightfall Pieces II</guid>
+      <pubDate>Thu, 16 Jan 2025 13:37:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
