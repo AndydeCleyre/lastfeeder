@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jan 2025 18:43:53 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Have a Cigar (30 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Have+a+Cigar</link>
-      <guid isPermaLink="false">Frippertron-1737010512--83d91898-7763-47d7-b03b-b92132375c47---Have a Cigar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/394cfbc6b2a74766a4364778c641ca51.png" length="62978" type="image/png"/>
-      <pubDate>Thu, 16 Jan 2025 01:55:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pink Floyd - Fearless (58 plays)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Fearless</link>
-      <guid isPermaLink="false">Frippertron-1737010834--83d91898-7763-47d7-b03b-b92132375c47---Fearless</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55dc29cfc3264ee3cee981181ddead2a.png" length="193488" type="image/png"/>
-      <pubDate>Thu, 16 Jan 2025 02:00:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jan 2025 18:55:43 +0000</lastBuildDate>
     <item>
       <title>The Velvet Underground - White Light/White Heat (134 plays)</title>
       <link>https://www.last.fm/music/The+Velvet+Underground/_/White+Light%2FWhite+Heat</link>
@@ -355,7 +341,22 @@
       <title>Bill Dixon - Nightfall Pieces II (3 plays)</title>
       <link>https://www.last.fm/music/Bill+Dixon/_/Nightfall+Pieces+II</link>
       <guid isPermaLink="false">Frippertron-1737052659--e18f7cf8-9329-42a7-87f9-a7654ba4069a---Nightfall Pieces II</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e47aadf718a6432dcea3a8b3540ebbb.jpg" length="14348" type="image/jpeg"/>
       <pubDate>Thu, 16 Jan 2025 13:37:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sun Ra - Nuclear War (1 play)</title>
+      <link>https://www.last.fm/music/Sun+Ra/_/Nuclear+War</link>
+      <guid isPermaLink="false">Frippertron-1737052947--c27cac8e-4c4a-48c0-a4ba-41399b9c176d---Nuclear War</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/879615a99157d3ead373ad5e5d7cf718.jpg" length="23286" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jan 2025 13:42:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sun Ra - Retrospect (1 play)</title>
+      <link>https://www.last.fm/music/Sun+Ra/_/Retrospect</link>
+      <guid isPermaLink="false">Frippertron-1737053441--c27cac8e-4c4a-48c0-a4ba-41399b9c176d---Retrospect</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/879615a99157d3ead373ad5e5d7cf718.jpg" length="23286" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jan 2025 13:50:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
