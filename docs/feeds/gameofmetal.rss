@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jan 2025 01:26:53 +0000</lastBuildDate>
-    <item>
-      <title>Jimi Hendrix - I Don't Live Today (1 play)</title>
-      <link>https://www.last.fm/music/Jimi+Hendrix/_/I+Don%27t+Live+Today</link>
-      <guid isPermaLink="false">gameofmetal-1737044472--06fb1c8b-566e-4cb2-985b-b467c90781d4---I Don't Live Today</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3632b69727ac74689293746a7c33d84c.jpg" length="29733" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jan 2025 11:21:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jan 2025 13:37:24 +0000</lastBuildDate>
     <item>
       <title>Jimi Hendrix - The Wind Cries Mary (1 play)</title>
       <link>https://www.last.fm/music/Jimi+Hendrix/_/The+Wind+Cries+Mary</link>
@@ -299,6 +292,7 @@
       <title>GloRilla - Yeah Glo! (32 plays)</title>
       <link>https://www.last.fm/music/GloRilla/_/Yeah+Glo!</link>
       <guid isPermaLink="false">gameofmetal-1737157113--2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2---Yeah Glo!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15e3a5310a236025d0b2fa70e1b508b2.jpg" length="12563" type="image/jpeg"/>
       <pubDate>Fri, 17 Jan 2025 18:38:33 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1737162853--a0e8a1b1-5f8f-475a-a253-17415c17d0ff---Small Worlds</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ffccd2c839f30143a348dbcc57f5522.png" length="43473" type="image/png"/>
       <pubDate>Fri, 17 Jan 2025 20:14:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mac Miller - Conversation Pt. 1 (1 play)</title>
+      <link>https://www.last.fm/music/Mac+Miller/_/Conversation+Pt.+1</link>
+      <guid isPermaLink="false">gameofmetal-1737163125--a0e8a1b1-5f8f-475a-a253-17415c17d0ff---Conversation Pt. 1</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ffccd2c839f30143a348dbcc57f5522.png" length="43473" type="image/png"/>
+      <pubDate>Fri, 17 Jan 2025 20:18:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
