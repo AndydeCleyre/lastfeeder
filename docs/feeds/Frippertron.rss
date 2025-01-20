@@ -7,13 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Jan 2025 08:26:39 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Royal Orleans (49 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Royal+Orleans</link>
-      <guid isPermaLink="false">Frippertron-1737344413--678d88b2-87b0-403b-b63d-5da7465aecc3---Royal Orleans</guid>
-      <pubDate>Sun, 19 Jan 2025 22:40:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jan 2025 08:44:03 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Nobody's Fault but Mine (42 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Nobody%27s+Fault+but+Mine</link>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1737361203--678d88b2-87b0-403b-b63d-5da7465aecc3---Stairway to Heaven</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 20 Jan 2025 03:20:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - No Quarter (95 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/No+Quarter</link>
+      <guid isPermaLink="false">Frippertron-1737361803--678d88b2-87b0-403b-b63d-5da7465aecc3---No Quarter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jan 2025 03:30:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
