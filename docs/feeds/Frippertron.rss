@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 05:18:44 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - The Man Who Sold the World (70 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Man+Who+Sold+the+World</link>
-      <guid isPermaLink="false">Frippertron-1737620083--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Man Who Sold the World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
-      <pubDate>Thu, 23 Jan 2025 03:14:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - The Supermen (51 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/The+Supermen</link>
-      <guid isPermaLink="false">Frippertron-1737620325--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Supermen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ee9b608608241149fa36848fd3a549b.png" length="211438" type="image/png"/>
-      <pubDate>Thu, 23 Jan 2025 03:18:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jan 2025 05:52:21 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Nobody's Fault but Mine (43 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Nobody%27s+Fault+but+Mine</link>
@@ -356,6 +342,19 @@
       <guid isPermaLink="false">Frippertron-1737695256--83d91898-7763-47d7-b03b-b92132375c47---Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
       <pubDate>Fri, 24 Jan 2025 00:07:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - The Great Gig in the Sky (27 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/The+Great+Gig+in+the+Sky</link>
+      <guid isPermaLink="false">Frippertron-1737695650--83d91898-7763-47d7-b03b-b92132375c47---The Great Gig in the Sky</guid>
+      <pubDate>Fri, 24 Jan 2025 00:14:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pink Floyd - Money (25 plays)</title>
+      <link>https://www.last.fm/music/Pink+Floyd/_/Money</link>
+      <guid isPermaLink="false">Frippertron-1737697501--83d91898-7763-47d7-b03b-b92132375c47---Money</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5bee2e17e0cb49a1b8ed26294a23fdcf.jpg" length="23651" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jan 2025 00:45:01 -0500</pubDate>
     </item>
   </channel>
 </rss>
