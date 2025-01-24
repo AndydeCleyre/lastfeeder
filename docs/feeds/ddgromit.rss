@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 22:41:14 +0000</lastBuildDate>
-    <item>
-      <title>Charlie Hope - From You (11 plays)</title>
-      <link>https://www.last.fm/music/Charlie+Hope/_/From+You</link>
-      <guid isPermaLink="false">ddgromit-1737681459--3bb07565-ca05-4f25-839a-35d1245fc0be---From You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/993f204c51a657c6038592b8c3e2df13.jpg" length="34960" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jan 2025 20:17:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>French Horn Rebellion - Friday Nights (1 play)</title>
-      <link>https://www.last.fm/music/French+Horn+Rebellion/_/Friday+Nights</link>
-      <guid isPermaLink="false">ddgromit-1737681461--2808456b-4c88-4db3-af5c-bb16764b7572---Friday Nights</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/54dd9f6bba3c081d93135beee44e2463.jpg" length="19291" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jan 2025 20:17:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>Raffi - Apples and Bananas (70 plays)</title>
-      <link>https://www.last.fm/music/Raffi/_/Apples+and+Bananas</link>
-      <guid isPermaLink="false">ddgromit-1737681585--d5d5ba92-4bd4-4975-9806-99339eed3046---Apples and Bananas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4582d840d0a45ec95ad12495272c3cf.jpg" length="36174" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jan 2025 20:19:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Little Sunshine Kids - Incy Wincy Spider (40 plays)</title>
-      <link>https://www.last.fm/music/The+Little+Sunshine+Kids/_/Incy+Wincy+Spider</link>
-      <guid isPermaLink="false">ddgromit-1737681689--2b6a9416-7d4c-4ea3-a1ed-47e170c25e4c---Incy Wincy Spider</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a00a365de7f815df0e28a13053c6c7b.jpg" length="37154" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jan 2025 20:21:29 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jan 2025 22:52:24 +0000</lastBuildDate>
     <item>
       <title>Music Together - Great Big Stars (4 plays)</title>
       <link>https://www.last.fm/music/Music+Together/_/Great+Big+Stars</link>
@@ -352,11 +324,39 @@
       <pubDate>Fri, 24 Jan 2025 15:41:07 -0500</pubDate>
     </item>
     <item>
-      <title>Bremer/McCoy - Naturlig (1 play)</title>
+      <title>Bremer/McCoy - Naturlig (2 plays)</title>
       <link>https://www.last.fm/music/Bremer%2FMcCoy/_/Naturlig</link>
       <guid isPermaLink="false">ddgromit-1737758357--d3fe0251-0d0d-4d3a-ad2e-53188d7065d5---Naturlig</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62cc530318c04aa8ca41327e19d8f281.jpg" length="24317" type="image/jpeg"/>
       <pubDate>Fri, 24 Jan 2025 17:39:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Skúli Sverrisson - Instants (9 plays)</title>
+      <link>https://www.last.fm/music/Sk%C3%BAli+Sverrisson/_/Instants</link>
+      <guid isPermaLink="false">ddgromit-1737758454--52f26a62-680c-49cf-bfbb-3e4e38f9f591---Instants</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c4cbf5a49a644f7ab11f5d4df4ce763.png" length="72203" type="image/png"/>
+      <pubDate>Fri, 24 Jan 2025 17:40:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bremer/McCoy - Ny Begyndelse (1 play)</title>
+      <link>https://www.last.fm/music/Bremer%2FMcCoy/_/Ny+Begyndelse</link>
+      <guid isPermaLink="false">ddgromit-1737758605--d3fe0251-0d0d-4d3a-ad2e-53188d7065d5---Ny Begyndelse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e2033a04520d87abadbff5f9f68a183.jpg" length="10835" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jan 2025 17:43:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Arc De Soleil - The Thief in Marrakesh (3 plays)</title>
+      <link>https://www.last.fm/music/Arc+De+Soleil/_/The+Thief+in+Marrakesh</link>
+      <guid isPermaLink="false">ddgromit-1737758814--140bd83c-475b-4eb3-bf82-27ff4dc92abc---The Thief in Marrakesh</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a5c644fe9fb2b6f7caaf5a8b4461859.jpg" length="31395" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jan 2025 17:46:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Monster Rally - Vaqueros De La Isla (4 plays)</title>
+      <link>https://www.last.fm/music/Monster+Rally/_/Vaqueros+De+La+Isla</link>
+      <guid isPermaLink="false">ddgromit-1737758995--ba934f3d-4e53-482a-a632-6848935de50c---Vaqueros De La Isla</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df0dd47fab2e8039f48f1367a36b770f.jpg" length="16035" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jan 2025 17:49:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
