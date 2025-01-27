@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jan 2025 10:53:31 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - White Summer (3 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/White+Summer</link>
-      <guid isPermaLink="false">Frippertron-1737954625--678d88b2-87b0-403b-b63d-5da7465aecc3---White Summer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jan 2025 00:10:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Led Zeppelin - Black Mountain Side (12 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Black+Mountain+Side</link>
-      <guid isPermaLink="false">Frippertron-1737955656--678d88b2-87b0-403b-b63d-5da7465aecc3---Black Mountain Side</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/729789a8143c46d3a149fee327aa99dd.jpg" length="20637" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jan 2025 00:27:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Jan 2025 11:17:10 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Kashmir (99 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Kashmir</link>
@@ -324,7 +310,7 @@
       <pubDate>Mon, 27 Jan 2025 05:21:54 -0500</pubDate>
     </item>
     <item>
-      <title>Alex Cameron - Runnin' Outta Luck (9 plays)</title>
+      <title>Alex Cameron - Runnin' Outta Luck (10 plays)</title>
       <link>https://www.last.fm/music/Alex+Cameron/_/Runnin%27+Outta+Luck</link>
       <guid isPermaLink="false">Frippertron-1737973609--0eabad49-1814-453a-8555-8a21edfbf0f4---Runnin' Outta Luck</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b986dbd5a1f4a4739377fde864ad7a7d.jpg" length="35411" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1737974815--678d88b2-87b0-403b-b63d-5da7465aecc3---Kashmir</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Mon, 27 Jan 2025 05:46:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Destroyer - Dream Lover (17 plays)</title>
+      <link>https://www.last.fm/music/Destroyer/_/Dream+Lover</link>
+      <guid isPermaLink="false">Frippertron-1737975300--Destroyer---Dream Lover</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcf5ef6926be8621f5361c82b6fec7ea.png" length="111937" type="image/png"/>
+      <pubDate>Mon, 27 Jan 2025 05:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Alex Cameron - Runnin' Outta Luck (10 plays)</title>
+      <link>https://www.last.fm/music/Alex+Cameron/_/Runnin%27+Outta+Luck</link>
+      <guid isPermaLink="false">Frippertron-1737975561--0eabad49-1814-453a-8555-8a21edfbf0f4---Runnin' Outta Luck</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b986dbd5a1f4a4739377fde864ad7a7d.jpg" length="35411" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jan 2025 05:59:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
