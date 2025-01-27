@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jan 2025 02:43:47 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Introduction (7 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Introduction</link>
-      <guid isPermaLink="false">Frippertron-1737712586--5441c29d-3602-4898-b1a1-b77fa23b8e50---Introduction</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8d8b5dc2148ed9c857a000979043357.jpg" length="16850" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jan 2025 04:56:26 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - 1984 (106 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/1984</link>
-      <guid isPermaLink="false">Frippertron-1737712688--5441c29d-3602-4898-b1a1-b77fa23b8e50---1984</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8d8b5dc2148ed9c857a000979043357.jpg" length="16850" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jan 2025 04:58:08 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Jan 2025 03:01:33 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Rebel Rebel (121 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Rebel+Rebel</link>
@@ -345,7 +331,7 @@
       <pubDate>Sun, 26 Jan 2025 18:37:46 -0500</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - Since I've Been Loving You (120 plays)</title>
+      <title>Led Zeppelin - Since I've Been Loving You (121 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
       <guid isPermaLink="false">Frippertron-1737934835--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1737945087--678d88b2-87b0-403b-b63d-5da7465aecc3---In My Time of Dying</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c54363e9fd22eeb1a7a4d18166677d8.jpg" length="27637" type="image/jpeg"/>
       <pubDate>Sun, 26 Jan 2025 21:31:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - Since I've Been Loving You (121 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/Since+I%27ve+Been+Loving+You</link>
+      <guid isPermaLink="false">Frippertron-1737945763--678d88b2-87b0-403b-b63d-5da7465aecc3---Since I've Been Loving You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c54363e9fd22eeb1a7a4d18166677d8.jpg" length="27637" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jan 2025 21:42:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Song Remains the Same (206 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1737946315--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0c54363e9fd22eeb1a7a4d18166677d8.jpg" length="27637" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jan 2025 21:51:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
