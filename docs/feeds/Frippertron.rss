@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 08:41:22 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - The Battle of Evermore (8 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Battle+of+Evermore</link>
-      <guid isPermaLink="false">Frippertron-1738207762--678d88b2-87b0-403b-b63d-5da7465aecc3---The Battle of Evermore</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
-      <pubDate>Wed, 29 Jan 2025 22:29:22 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jan 2025 08:53:06 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Stairway to Heaven (47 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Stairway+to+Heaven</link>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">Frippertron-1738226328--5441c29d-3602-4898-b1a1-b77fa23b8e50---A New Career in a New Town</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8a61f4842d94e43ff30c2cfc47e4c4e.jpg" length="26206" type="image/jpeg"/>
       <pubDate>Thu, 30 Jan 2025 03:38:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Warszawa (59 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Warszawa</link>
+      <guid isPermaLink="false">Frippertron-1738226501--5441c29d-3602-4898-b1a1-b77fa23b8e50---Warszawa</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b8a61f4842d94e43ff30c2cfc47e4c4e.jpg" length="26206" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jan 2025 03:41:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
