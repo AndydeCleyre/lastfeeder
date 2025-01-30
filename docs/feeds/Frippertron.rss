@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 15:40:01 +0000</lastBuildDate>
-    <item>
-      <title>At the Drive-In - Pattern Against User (63 plays)</title>
-      <link>https://www.last.fm/music/At+the+Drive-In/_/Pattern+Against+User</link>
-      <guid isPermaLink="false">Frippertron-1738218397--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Pattern Against User</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/509a00756d5997721dc13f1578339f04.png" length="179176" type="image/png"/>
-      <pubDate>Thu, 30 Jan 2025 01:26:37 -0500</pubDate>
-    </item>
-    <item>
-      <title>At the Drive-In - One Armed Scissor (92 plays)</title>
-      <link>https://www.last.fm/music/At+the+Drive-In/_/One+Armed+Scissor</link>
-      <guid isPermaLink="false">Frippertron-1738218594--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---One Armed Scissor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/509a00756d5997721dc13f1578339f04.png" length="179176" type="image/png"/>
-      <pubDate>Thu, 30 Jan 2025 01:29:54 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jan 2025 15:52:23 +0000</lastBuildDate>
     <item>
       <title>At the Drive-In - Sleepwalk Capsules (24 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Sleepwalk+Capsules</link>
@@ -75,7 +61,6 @@
       <title>Alex Cameron - Runnin' Outta Luck (17 plays)</title>
       <link>https://www.last.fm/music/Alex+Cameron/_/Runnin%27+Outta+Luck</link>
       <guid isPermaLink="false">Frippertron-1738221802--0eabad49-1814-453a-8555-8a21edfbf0f4---Runnin' Outta Luck</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b986dbd5a1f4a4739377fde864ad7a7d.jpg" length="35411" type="image/jpeg"/>
       <pubDate>Thu, 30 Jan 2025 02:23:22 -0500</pubDate>
     </item>
     <item>
@@ -225,14 +210,14 @@
       <pubDate>Thu, 30 Jan 2025 05:41:04 -0500</pubDate>
     </item>
     <item>
-      <title>Natalia Lafourcade - Llévame viento (4 plays)</title>
+      <title>Natalia Lafourcade - Llévame viento (5 plays)</title>
       <link>https://www.last.fm/music/Natalia+Lafourcade/_/Ll%C3%A9vame+viento</link>
       <guid isPermaLink="false">Frippertron-1738234068--2ceb4e66-4eaa-4dba-ad3a-30df3b742557---Llévame viento</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0427d0ce362d4ba2aab4c1a902f62786.jpg" length="13233" type="image/jpeg"/>
       <pubDate>Thu, 30 Jan 2025 05:47:48 -0500</pubDate>
     </item>
     <item>
-      <title>Natalia Lafourcade - El lugar correcto (4 plays)</title>
+      <title>Natalia Lafourcade - El lugar correcto (5 plays)</title>
       <link>https://www.last.fm/music/Natalia+Lafourcade/_/El+lugar+correcto</link>
       <guid isPermaLink="false">Frippertron-1738234453--2ceb4e66-4eaa-4dba-ad3a-30df3b742557---El lugar correcto</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0427d0ce362d4ba2aab4c1a902f62786.jpg" length="13233" type="image/jpeg"/>
@@ -356,6 +341,20 @@
       <guid isPermaLink="false">Frippertron-1738251320--2ceb4e66-4eaa-4dba-ad3a-30df3b742557---Pasan los días</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0427d0ce362d4ba2aab4c1a902f62786.jpg" length="13233" type="image/jpeg"/>
       <pubDate>Thu, 30 Jan 2025 10:35:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Natalia Lafourcade - Llévame viento (5 plays)</title>
+      <link>https://www.last.fm/music/Natalia+Lafourcade/_/Ll%C3%A9vame+viento</link>
+      <guid isPermaLink="false">Frippertron-1738251723--2ceb4e66-4eaa-4dba-ad3a-30df3b742557---Llévame viento</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0427d0ce362d4ba2aab4c1a902f62786.jpg" length="13233" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jan 2025 10:42:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Natalia Lafourcade - El lugar correcto (5 plays)</title>
+      <link>https://www.last.fm/music/Natalia+Lafourcade/_/El+lugar+correcto</link>
+      <guid isPermaLink="false">Frippertron-1738252108--2ceb4e66-4eaa-4dba-ad3a-30df3b742557---El lugar correcto</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0427d0ce362d4ba2aab4c1a902f62786.jpg" length="13233" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jan 2025 10:48:28 -0500</pubDate>
     </item>
   </channel>
 </rss>
