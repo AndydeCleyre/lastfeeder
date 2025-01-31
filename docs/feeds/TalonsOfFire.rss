@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jan 2025 19:39:02 +0000</lastBuildDate>
-    <item>
-      <title>Michael Jones - Sunshine Canyon (1 play)</title>
-      <link>https://www.last.fm/music/Michael+Jones/_/Sunshine+Canyon</link>
-      <guid isPermaLink="false">TalonsOfFire-1738250225--Michael Jones---Sunshine Canyon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfc4dbc7bdda6c567a9aab4cd7e5b621.jpg" length="11160" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jan 2025 10:17:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>Michael Jones - Rainfall (1 play)</title>
-      <link>https://www.last.fm/music/Michael+Jones/_/Rainfall</link>
-      <guid isPermaLink="false">TalonsOfFire-1738250498--Michael Jones---Rainfall</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfc4dbc7bdda6c567a9aab4cd7e5b621.jpg" length="11160" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jan 2025 10:21:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Jan 2025 19:52:42 +0000</lastBuildDate>
     <item>
       <title>Ty Burhoe - Presence (1 play)</title>
       <link>https://www.last.fm/music/Ty+Burhoe/_/Presence</link>
@@ -352,11 +338,25 @@
       <pubDate>Fri, 31 Jan 2025 14:31:23 -0500</pubDate>
     </item>
     <item>
-      <title>Popol Vuh - Maria (Ave Maria)</title>
+      <title>Popol Vuh - Maria (Ave Maria) (1 play)</title>
       <link>https://www.last.fm/music/Popol+Vuh/_/Maria+(Ave+Maria)</link>
       <guid isPermaLink="false">TalonsOfFire-1738351932--2f4bf325-2bbb-4d5f-8681-b0fef130bff0---Maria (Ave Maria)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/646de2297f18495eb7e20c5da4675daa.jpg" length="19715" type="image/jpeg"/>
       <pubDate>Fri, 31 Jan 2025 14:32:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Popol Vuh - Brüder Des Schattens (3 plays)</title>
+      <link>https://www.last.fm/music/Popol+Vuh/_/Br%C3%BCder+Des+Schattens</link>
+      <guid isPermaLink="false">TalonsOfFire-1738352281--2f4bf325-2bbb-4d5f-8681-b0fef130bff0---Brüder Des Schattens</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f152f0c282a3a2fa5c8eeb5554d5b769.jpg" length="19080" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jan 2025 14:38:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Popol Vuh - Höre, Der Du Wagst (3 plays)</title>
+      <link>https://www.last.fm/music/Popol+Vuh/_/H%C3%B6re,+Der+Du+Wagst</link>
+      <guid isPermaLink="false">TalonsOfFire-1738352685--2f4bf325-2bbb-4d5f-8681-b0fef130bff0---Höre, Der Du Wagst</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f152f0c282a3a2fa5c8eeb5554d5b769.jpg" length="19080" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jan 2025 14:44:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
