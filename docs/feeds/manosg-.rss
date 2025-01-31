@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jan 2025 17:17:34 +0000</lastBuildDate>
-    <item>
-      <title>Lex - Alitiki Agapi (1 play)</title>
-      <link>https://www.last.fm/music/Lex/_/Alitiki+Agapi</link>
-      <guid isPermaLink="false">manosg--1738221006--Lex---Alitiki Agapi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e0ab61551529247718bb9da27137150.jpg" length="34276" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jan 2025 02:10:06 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Jan 2025 17:37:32 +0000</lastBuildDate>
     <item>
       <title>Lex - Ainta Tzoni (1 play)</title>
       <link>https://www.last.fm/music/Lex/_/Ainta+Tzoni</link>
@@ -355,7 +348,15 @@
       <title>Porcupine Tree - Sentimental (1 play)</title>
       <link>https://www.last.fm/music/Porcupine+Tree/_/Sentimental</link>
       <guid isPermaLink="false">manosg--1738343107--169c4c28-858e-497b-81a4-8bc15e0026ea---Sentimental</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c3c098793ab40d7b076dd2f9903d814.png" length="107277" type="image/png"/>
       <pubDate>Fri, 31 Jan 2025 12:05:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Porcupine Tree - Way Out of Here (2 plays)</title>
+      <link>https://www.last.fm/music/Porcupine+Tree/_/Way+Out+of+Here</link>
+      <guid isPermaLink="false">manosg--1738343629--169c4c28-858e-497b-81a4-8bc15e0026ea---Way Out of Here</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2c3c098793ab40d7b076dd2f9903d814.png" length="107277" type="image/png"/>
+      <pubDate>Fri, 31 Jan 2025 12:13:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
