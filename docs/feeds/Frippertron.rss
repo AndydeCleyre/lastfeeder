@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 22:53:14 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Lucro Sucio (2 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Lucro+Sucio</link>
-      <guid isPermaLink="false">Frippertron-1738908771--The Mars Volta---Lucro Sucio</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a167de4f825c34204d9c0a4abcbd1086.jpg" length="26265" type="image/jpeg"/>
-      <pubDate>Fri, 07 Feb 2025 01:12:51 -0500</pubDate>
-    </item>
-    <item>
-      <title>Squid - Sludge (1 play)</title>
-      <link>https://www.last.fm/music/Squid/_/Sludge</link>
-      <guid isPermaLink="false">Frippertron-1738909064--5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45---Sludge</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/629f6165cad76cd3baef2e196ea263d0.jpg" length="16224" type="image/jpeg"/>
-      <pubDate>Fri, 07 Feb 2025 01:17:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Feb 2025 23:19:09 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Achilles Last Stand (94 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Achilles+Last+Stand</link>
@@ -72,9 +58,10 @@
       <pubDate>Fri, 07 Feb 2025 01:58:15 -0500</pubDate>
     </item>
     <item>
-      <title>Afroman - Because I Got High (3 plays)</title>
+      <title>Afroman - Because I Got High (4 plays)</title>
       <link>https://www.last.fm/music/Afroman/_/Because+I+Got+High</link>
       <guid isPermaLink="false">Frippertron-1738911915--8c332797-2784-45a7-9b5c-3b86f07a03de---Because I Got High</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15b73762a268c75c83ededdd6f6d9f09.jpg" length="28357" type="image/jpeg"/>
       <pubDate>Fri, 07 Feb 2025 02:05:15 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1738968585--487a96f2-eefd-485e-892b-2cf240835bf4---Cryonic Suspension May Save Your Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fa51be253913168409f54cdd6c1cb7c.jpg" length="18313" type="image/jpeg"/>
       <pubDate>Fri, 07 Feb 2025 17:49:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Van Halen - Runnin' With the Devil (21 plays)</title>
+      <link>https://www.last.fm/music/Van+Halen/_/Runnin%27+With+the+Devil</link>
+      <guid isPermaLink="false">Frippertron-1738968929--b665b768-0d83-4363-950c-31ed39317c15---Runnin' With the Devil</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f280b5f42db4963c9b357fd8034ddc8.png" length="103319" type="image/png"/>
+      <pubDate>Fri, 07 Feb 2025 17:55:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Afroman - Because I Got High (4 plays)</title>
+      <link>https://www.last.fm/music/Afroman/_/Because+I+Got+High</link>
+      <guid isPermaLink="false">Frippertron-1738969146--8c332797-2784-45a7-9b5c-3b86f07a03de---Because I Got High</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15b73762a268c75c83ededdd6f6d9f09.jpg" length="28357" type="image/jpeg"/>
+      <pubDate>Fri, 07 Feb 2025 17:59:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
