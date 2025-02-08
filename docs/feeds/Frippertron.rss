@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Feb 2025 13:00:42 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - Whole Lotta Love (58 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/Whole+Lotta+Love</link>
-      <guid isPermaLink="false">Frippertron-1738910118--678d88b2-87b0-403b-b63d-5da7465aecc3---Whole Lotta Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/79eb7925a57079641e698093417efde7.jpg" length="23319" type="image/jpeg"/>
-      <pubDate>Fri, 07 Feb 2025 01:35:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Feb 2025 13:27:47 +0000</lastBuildDate>
     <item>
       <title>Led Zeppelin - Heartbreaker (25 plays)</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/Heartbreaker</link>
@@ -100,7 +93,7 @@
       <pubDate>Fri, 07 Feb 2025 02:41:10 -0500</pubDate>
     </item>
     <item>
-      <title>Wilco - Spiders (Kidsmoke) (2 plays)</title>
+      <title>Wilco - Spiders (Kidsmoke) (3 plays)</title>
       <link>https://www.last.fm/music/Wilco/_/Spiders+(Kidsmoke)</link>
       <guid isPermaLink="false">Frippertron-1738914348--9e53f84d-ef44-4c16-9677-5fd4d78cbd7d---Spiders (Kidsmoke)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d897ea291fa543a73cf9e754c8a83a3c.png" length="117908" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1739019176--2f31098d-1258-4f8f-af5f-95815b02f2d2---Novo Tempo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f70d6fbdd474c60a0a9615c2cca3bb6.jpg" length="28404" type="image/jpeg"/>
       <pubDate>Sat, 08 Feb 2025 07:52:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wilco - Spiders (Kidsmoke) (3 plays)</title>
+      <link>https://www.last.fm/music/Wilco/_/Spiders+(Kidsmoke)</link>
+      <guid isPermaLink="false">Frippertron-1739019500--9e53f84d-ef44-4c16-9677-5fd4d78cbd7d---Spiders (Kidsmoke)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d897ea291fa543a73cf9e754c8a83a3c.png" length="117908" type="image/png"/>
+      <pubDate>Sat, 08 Feb 2025 07:58:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
