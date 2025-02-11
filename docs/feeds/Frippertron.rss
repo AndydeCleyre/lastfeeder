@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 06:45:23 +0000</lastBuildDate>
-    <item>
-      <title>Led Zeppelin - How Many More Times (37 plays)</title>
-      <link>https://www.last.fm/music/Led+Zeppelin/_/How+Many+More+Times</link>
-      <guid isPermaLink="false">Frippertron-1738922529--678d88b2-87b0-403b-b63d-5da7465aecc3---How Many More Times</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82b68b8267234a289714c0e20c4e288d.png" length="96017" type="image/png"/>
-      <pubDate>Fri, 07 Feb 2025 05:02:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Squid - Swing (In A Dream) (49 plays)</title>
-      <link>https://www.last.fm/music/Squid/_/Swing+(In+A+Dream)</link>
-      <guid isPermaLink="false">Frippertron-1738923053--5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45---Swing (In A Dream)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49cd75fcaee1f8280a88cb4dd4ada0d3.png" length="152540" type="image/png"/>
-      <pubDate>Fri, 07 Feb 2025 05:10:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Feb 2025 06:57:19 +0000</lastBuildDate>
     <item>
       <title>Squid - Devil's Den (21 plays)</title>
       <link>https://www.last.fm/music/Squid/_/Devil%27s+Den</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1739255669--20883363-1ea4-4d72-ad72-c0e767038f3e---Viscera Eyes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
       <pubDate>Tue, 11 Feb 2025 01:34:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - The Song Remains the Same (224 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/The+Song+Remains+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1739256285--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 11 Feb 2025 01:44:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Oklou - endless (1 play)</title>
+      <link>https://www.last.fm/music/Oklou/_/endless</link>
+      <guid isPermaLink="false">Frippertron-1739256642--13e2db47-3010-48b8-a8b9-667551f37119---endless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ac17bf2160fd9d6503fc509e0841655.jpg" length="26523" type="image/jpeg"/>
+      <pubDate>Tue, 11 Feb 2025 01:50:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
