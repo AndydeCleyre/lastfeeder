@@ -7,13 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 06:28:36 +0000</lastBuildDate>
-    <item>
-      <title>Sonic Youth - Madonna, Sean, and Me (1 play)</title>
-      <link>https://www.last.fm/music/Sonic+Youth/_/Madonna,+Sean,+and+Me</link>
-      <guid isPermaLink="false">Arcade1996-1739094743--5cbef01b-cc35-4f52-af7b-d0df0c4f61b9---Madonna, Sean, and Me</guid>
-      <pubDate>Sun, 09 Feb 2025 04:52:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Feb 2025 11:17:14 +0000</lastBuildDate>
     <item>
       <title>Anika - In the City (1 play)</title>
       <link>https://www.last.fm/music/Anika/_/In+the+City</link>
@@ -81,6 +75,7 @@
       <title>A. K. Paul - Be Honest (2 plays)</title>
       <link>https://www.last.fm/music/A.+K.+Paul/_/Be+Honest</link>
       <guid isPermaLink="false">Arcade1996-1739104949--e652aad1-ed4f-4713-8a06-b4246cfd1a5e---Be Honest</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c675df4348f44a8ed9c2e3c50e747e1.png" length="98617" type="image/png"/>
       <pubDate>Sun, 09 Feb 2025 07:42:29 -0500</pubDate>
     </item>
     <item>
@@ -94,6 +89,7 @@
       <title>Cheek To Cheek - So Good So Nice (1 play)</title>
       <link>https://www.last.fm/music/Cheek+To+Cheek/_/So+Good+So+Nice</link>
       <guid isPermaLink="false">Arcade1996-1739105473--ba35b3ad-de85-4cc2-a9c0-1dccb700ae49---So Good So Nice</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/577b9a644f6941f682c67d8ce4a0372d.jpg" length="24466" type="image/jpeg"/>
       <pubDate>Sun, 09 Feb 2025 07:51:13 -0500</pubDate>
     </item>
     <item>
@@ -354,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1739254731--4f52595e-652d-4894-95ea-f925234629fc---Wristwatch</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2c44050058fb5260a113b962dec2bc2.png" length="142131" type="image/png"/>
       <pubDate>Tue, 11 Feb 2025 01:18:51 -0500</pubDate>
+    </item>
+    <item>
+      <title>MJ Lenderman - She's Leaving You (6 plays)</title>
+      <link>https://www.last.fm/music/MJ+Lenderman/_/She%27s+Leaving+You</link>
+      <guid isPermaLink="false">Arcade1996-1739254954--4f52595e-652d-4894-95ea-f925234629fc---She's Leaving You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a2c44050058fb5260a113b962dec2bc2.png" length="142131" type="image/png"/>
+      <pubDate>Tue, 11 Feb 2025 01:22:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
