@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 03:03:26 +0000</lastBuildDate>
-    <item>
-      <title>Sum 41 - Not Quite Myself (1 play)</title>
-      <link>https://www.last.fm/music/Sum+41/_/Not+Quite+Myself</link>
-      <guid isPermaLink="false">lintmunro-1738533043--f2eef649-a6d5-4114-afba-e50ab26254d2---Not Quite Myself</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c1384601eb98c144124dc9358509e68a.jpg" length="27295" type="image/jpeg"/>
-      <pubDate>Sun, 02 Feb 2025 16:50:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Feb 2025 03:33:15 +0000</lastBuildDate>
     <item>
       <title>Sum 41 - It's All Me (1 play)</title>
       <link>https://www.last.fm/music/Sum+41/_/It%27s+All+Me</link>
@@ -264,7 +257,6 @@
       <title>The Killjoys - Rave + Drool (2 plays)</title>
       <link>https://www.last.fm/music/The+Killjoys/_/Rave+%252B+Drool</link>
       <guid isPermaLink="false">lintmunro-1739067585--The Killjoys---Rave + Drool</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a95003c652da5ebcc5755551b0770a40.jpg" length="15358" type="image/jpeg"/>
       <pubDate>Sat, 08 Feb 2025 21:19:45 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">lintmunro-1739242164--56d8d7aa-e80e-4674-a8d2-433da1259883---Suspended</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/071980f5c6b06bed1746dc5fbad6283f.jpg" length="18561" type="image/jpeg"/>
       <pubDate>Mon, 10 Feb 2025 21:49:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Messa - Dark Horse (3 plays)</title>
+      <link>https://www.last.fm/music/Messa/_/Dark+Horse</link>
+      <guid isPermaLink="false">lintmunro-1739242599--56d8d7aa-e80e-4674-a8d2-433da1259883---Dark Horse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/071980f5c6b06bed1746dc5fbad6283f.jpg" length="18561" type="image/jpeg"/>
+      <pubDate>Mon, 10 Feb 2025 21:56:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
