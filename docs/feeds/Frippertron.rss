@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 05:21:44 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Right (78 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Right</link>
-      <guid isPermaLink="false">Frippertron-1739522572--5441c29d-3602-4898-b1a1-b77fa23b8e50---Right</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Fri, 14 Feb 2025 03:42:52 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Feb 2025 05:41:04 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Cavalettas (89 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cavalettas</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1739768557--045494aa-e913-4e62-bf4e-dcc276e0075a---Cherry Coffee (Prod. Jam City)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88c75efca01833406accbf7174ed2bd8.png" length="123124" type="image/png"/>
       <pubDate>Mon, 17 Feb 2025 00:02:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (148 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1739769020--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <pubDate>Mon, 17 Feb 2025 00:10:20 -0500</pubDate>
     </item>
   </channel>
 </rss>
