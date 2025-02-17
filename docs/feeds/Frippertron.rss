@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 03:37:26 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Springsteen - New York City Serenade (22 plays)</title>
-      <link>https://www.last.fm/music/Bruce+Springsteen/_/New+York+City+Serenade</link>
-      <guid isPermaLink="false">Frippertron-1739516651--70248960-cb53-4ea4-943a-edb18f7d336f---New York City Serenade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14d6a4f0c7249817c1d9d34f3c731d29.jpg" length="21459" type="image/jpeg"/>
-      <pubDate>Fri, 14 Feb 2025 02:04:11 -0500</pubDate>
-    </item>
-    <item>
-      <title>Richard Dawson - Bolt (1 play)</title>
-      <link>https://www.last.fm/music/Richard+Dawson/_/Bolt</link>
-      <guid isPermaLink="false">Frippertron-1739517252--ee7923b9-5850-47b5-97cc-5cecdc21578d---Bolt</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72ecddc3af532f7e800ddc1dc8e407c8.jpg" length="21582" type="image/jpeg"/>
-      <pubDate>Fri, 14 Feb 2025 02:14:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Feb 2025 03:52:49 +0000</lastBuildDate>
     <item>
       <title>Richard Dawson - Gondola (1 play)</title>
       <link>https://www.last.fm/music/Richard+Dawson/_/Gondola</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1739762895--678d88b2-87b0-403b-b63d-5da7465aecc3---The Song Remains the Same</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47e89fde1ce6442a995f6b0364bf8a5f.jpg" length="36501" type="image/jpeg"/>
       <pubDate>Sun, 16 Feb 2025 22:28:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Black Sabbath - N.I.B. (4 plays)</title>
+      <link>https://www.last.fm/music/Black+Sabbath/_/N.I.B.</link>
+      <guid isPermaLink="false">Frippertron-1739763241--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---N.I.B.</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f17c2caf98fd2e7336a06956c7fd574.jpg" length="38237" type="image/jpeg"/>
+      <pubDate>Sun, 16 Feb 2025 22:34:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Led Zeppelin - When the Levee Breaks (62 plays)</title>
+      <link>https://www.last.fm/music/Led+Zeppelin/_/When+the+Levee+Breaks</link>
+      <guid isPermaLink="false">Frippertron-1739763863--678d88b2-87b0-403b-b63d-5da7465aecc3---When the Levee Breaks</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6f99756d0342f891d3233ac1283d21.png" length="234370" type="image/png"/>
+      <pubDate>Sun, 16 Feb 2025 22:44:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
