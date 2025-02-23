@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 20:20:21 +0000</lastBuildDate>
-    <item>
-      <title>Leon Bridges - Coming Home (3 plays)</title>
-      <link>https://www.last.fm/music/Leon+Bridges/_/Coming+Home</link>
-      <guid isPermaLink="false">ddgromit-1740174143--69d9dfd7-19b7-4a75-8a53-9f733fb5d774---Coming Home</guid>
-      <pubDate>Fri, 21 Feb 2025 16:42:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Michael Kiwanuka - Home Again (9 plays)</title>
-      <link>https://www.last.fm/music/Michael+Kiwanuka/_/Home+Again</link>
-      <guid isPermaLink="false">ddgromit-1740174350--11f570ff-44d9-4e9c-8812-e6d56103c5c1---Home Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/652e5e069eea4094a2b5004be9a2a19d.png" length="96448" type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 16:45:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Feb 2025 20:52:30 +0000</lastBuildDate>
     <item>
       <title>RAYE - Genesis. (1 play)</title>
       <link>https://www.last.fm/music/RAYE/_/Genesis.</link>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1740341844--75ce6a10-e448-4a8f-802a-e19bd4a71bc5---Wind The Bobbin Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9a45cb13bf1d097c96ceb0e411c9e9f.jpg" length="23829" type="image/jpeg"/>
       <pubDate>Sun, 23 Feb 2025 15:17:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Charlie Hope - From You (14 plays)</title>
+      <link>https://www.last.fm/music/Charlie+Hope/_/From+You</link>
+      <guid isPermaLink="false">ddgromit-1740341924--3bb07565-ca05-4f25-839a-35d1245fc0be---From You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/993f204c51a657c6038592b8c3e2df13.jpg" length="34960" type="image/jpeg"/>
+      <pubDate>Sun, 23 Feb 2025 15:18:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Zen Gaya - Lost in the Clouds (3 plays)</title>
+      <link>https://www.last.fm/music/Zen+Gaya/_/Lost+in+the+Clouds</link>
+      <guid isPermaLink="false">ddgromit-1740343698--Zen Gaya---Lost in the Clouds</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b99dcff0e047d6f237384cd3a34290d.jpg" length="19798" type="image/jpeg"/>
+      <pubDate>Sun, 23 Feb 2025 15:48:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
