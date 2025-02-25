@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Feb 2025 04:24:55 +0000</lastBuildDate>
-    <item>
-      <title>Failure - Sergeant Politeness (22 plays)</title>
-      <link>https://www.last.fm/music/Failure/_/Sergeant+Politeness</link>
-      <guid isPermaLink="false">Frippertron-1740385914--Failure---Sergeant Politeness</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ba52b60a91a41eba6ee2b2eb4b52b5b.jpg" length="29503" type="image/jpeg"/>
-      <pubDate>Mon, 24 Feb 2025 03:31:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>Failure - Segue 1 (13 plays)</title>
-      <link>https://www.last.fm/music/Failure/_/Segue+1</link>
-      <guid isPermaLink="false">Frippertron-1740386159--Failure---Segue 1</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ba52b60a91a41eba6ee2b2eb4b52b5b.jpg" length="29503" type="image/jpeg"/>
-      <pubDate>Mon, 24 Feb 2025 03:35:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Feb 2025 04:42:00 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - With Twilight as My Guide (15 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/With+Twilight+as+My+Guide</link>
@@ -142,7 +128,7 @@
       <pubDate>Mon, 24 Feb 2025 05:07:39 -0500</pubDate>
     </item>
     <item>
-      <title>Bruce Springsteen - Hungry Heart (24 plays)</title>
+      <title>Bruce Springsteen - Hungry Heart (25 plays)</title>
       <link>https://www.last.fm/music/Bruce+Springsteen/_/Hungry+Heart</link>
       <guid isPermaLink="false">Frippertron-1740392408--70248960-cb53-4ea4-943a-edb18f7d336f---Hungry Heart</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5000c87dea3e962d35fa2d7c89af741f.jpg" length="21231" type="image/jpeg"/>
@@ -156,7 +142,7 @@
       <pubDate>Mon, 24 Feb 2025 05:23:20 -0500</pubDate>
     </item>
     <item>
-      <title>Sparks - The Number One Song in Heaven (88 plays)</title>
+      <title>Sparks - The Number One Song in Heaven (89 plays)</title>
       <link>https://www.last.fm/music/Sparks/_/The+Number+One+Song+in+Heaven</link>
       <guid isPermaLink="false">Frippertron-1740392955--Sparks---The Number One Song in Heaven</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20446a1d7ea9b6a965e32f63341a3a0f.jpg" length="14515" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1740456977--Caravan---The Love In Your Eye</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0371501bd9e44cb7ccd6e7801935300c.jpg" length="27890" type="image/jpeg"/>
       <pubDate>Mon, 24 Feb 2025 23:16:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bruce Springsteen - Hungry Heart (25 plays)</title>
+      <link>https://www.last.fm/music/Bruce+Springsteen/_/Hungry+Heart</link>
+      <guid isPermaLink="false">Frippertron-1740457877--70248960-cb53-4ea4-943a-edb18f7d336f---Hungry Heart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5000c87dea3e962d35fa2d7c89af741f.jpg" length="21231" type="image/jpeg"/>
+      <pubDate>Mon, 24 Feb 2025 23:31:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sparks - The Number One Song in Heaven (89 plays)</title>
+      <link>https://www.last.fm/music/Sparks/_/The+Number+One+Song+in+Heaven</link>
+      <guid isPermaLink="false">Frippertron-1740458121--Sparks---The Number One Song in Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20446a1d7ea9b6a965e32f63341a3a0f.jpg" length="14515" type="image/jpeg"/>
+      <pubDate>Mon, 24 Feb 2025 23:35:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
