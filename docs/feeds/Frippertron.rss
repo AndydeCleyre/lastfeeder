@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Feb 2025 06:29:17 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Aberinkula (159 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
-      <guid isPermaLink="false">Frippertron-1740397486--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Mon, 24 Feb 2025 06:44:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Mars Volta - Metatron (200 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
-      <guid isPermaLink="false">Frippertron-1740397830--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Mon, 24 Feb 2025 06:50:30 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Feb 2025 06:47:11 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Ilyena (48 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Ilyena</link>
@@ -65,7 +51,7 @@
       <pubDate>Mon, 24 Feb 2025 22:39:53 -0500</pubDate>
     </item>
     <item>
-      <title>The Mars Volta - Cygnus....Vismund Cygnus (135 plays)</title>
+      <title>The Mars Volta - Cygnus....Vismund Cygnus (136 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
       <guid isPermaLink="false">Frippertron-1740455184--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b28971e7034d4843c8ddaafd70918af3.jpg" length="18537" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1740464765--6ac47f31-3b2e-4f95-bef0-ce869af4ee98---Sharon &amp; Hope</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9136e5832425d366c40a1f9ab997760d.jpg" length="10457" type="image/jpeg"/>
       <pubDate>Tue, 25 Feb 2025 01:26:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Metatron (201 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
+      <guid isPermaLink="false">Frippertron-1740465006--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 25 Feb 2025 01:30:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cygnus....Vismund Cygnus (136 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
+      <guid isPermaLink="false">Frippertron-1740465493--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 25 Feb 2025 01:38:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
