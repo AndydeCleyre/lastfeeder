@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 17:19:07 +0000</lastBuildDate>
-    <item>
-      <title>Home - Resonance (5 plays)</title>
-      <link>https://www.last.fm/music/Home/_/Resonance</link>
-      <guid isPermaLink="false">ddgromit-1740608948--d7604213-38a4-4372-b682-16f9b831d3a8---Resonance</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41e1ed74a64f41c7c14a94439b422a04.jpg" length="24099" type="image/jpeg"/>
-      <pubDate>Wed, 26 Feb 2025 17:29:08 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Feb 2025 19:52:39 +0000</lastBuildDate>
     <item>
       <title>A.L.I.S.O.N - passenger (3 plays)</title>
       <link>https://www.last.fm/music/A.L.I.S.O.N/_/passenger</link>
@@ -292,6 +285,7 @@
       <title>Lazerhawk - King of the Streets (2 plays)</title>
       <link>https://www.last.fm/music/Lazerhawk/_/King+of+the+Streets</link>
       <guid isPermaLink="false">ddgromit-1740639465--b9e46d1a-9068-4615-9200-90b3d5eae68b---King of the Streets</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d444149eee374c0dcc37d0f33fe42747.png" length="162372" type="image/png"/>
       <pubDate>Thu, 27 Feb 2025 01:57:45 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1740676045--2465d7da-7da3-42ea-8440-e701775d856b---Protoss One</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24c9ff47d65b7901ae3b1b5b240a2c5c.jpg" length="27733" type="image/jpeg"/>
       <pubDate>Thu, 27 Feb 2025 12:07:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jason Hayes - Protoss Ready Room (1 play)</title>
+      <link>https://www.last.fm/music/Jason+Hayes/_/Protoss+Ready+Room</link>
+      <guid isPermaLink="false">ddgromit-1740676292--Jason Hayes---Protoss Ready Room</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/24c9ff47d65b7901ae3b1b5b240a2c5c.jpg" length="27733" type="image/jpeg"/>
+      <pubDate>Thu, 27 Feb 2025 12:11:32 -0500</pubDate>
     </item>
   </channel>
 </rss>
