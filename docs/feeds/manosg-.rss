@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Mar 2025 14:18:31 +0000</lastBuildDate>
-    <item>
-      <title>Motörhead - Fire Fire (15 plays)</title>
-      <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Fire+Fire</link>
-      <guid isPermaLink="false">manosg--1740652237--57961a97-3796-4bf7-9f02-a985a8979ae9---Fire Fire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcd1c57248faad46ebe93d6f550469f3.jpg" length="34170" type="image/jpeg"/>
-      <pubDate>Thu, 27 Feb 2025 05:30:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Mar 2025 14:52:37 +0000</lastBuildDate>
     <item>
       <title>Motörhead - Fire Fire (15 plays)</title>
       <link>https://www.last.fm/music/Mot%C3%B6rhead/_/Fire+Fire</link>
@@ -212,7 +205,7 @@
       <pubDate>Fri, 28 Feb 2025 09:09:01 -0500</pubDate>
     </item>
     <item>
-      <title>Renaissance - Ashes Are Burning (8 plays)</title>
+      <title>Renaissance - Ashes Are Burning (9 plays)</title>
       <link>https://www.last.fm/music/Renaissance/_/Ashes+Are+Burning</link>
       <guid isPermaLink="false">manosg--1740755792--Renaissance---Ashes Are Burning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00fb687b1a4c2697d67b6c1d3f3abb87.png" length="233476" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1740819429--6af15841-1d62-495a-8b52-74eb6d603c5f---King's Call</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9d5d4c9d9494856a630c0595a5d4682.png" length="157141" type="image/png"/>
       <pubDate>Sat, 01 Mar 2025 03:57:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Renaissance - Ashes Are Burning (9 plays)</title>
+      <link>https://www.last.fm/music/Renaissance/_/Ashes+Are+Burning</link>
+      <guid isPermaLink="false">manosg--1740839404--Renaissance---Ashes Are Burning</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00fb687b1a4c2697d67b6c1d3f3abb87.png" length="233476" type="image/png"/>
+      <pubDate>Sat, 01 Mar 2025 09:30:04 -0500</pubDate>
     </item>
   </channel>
 </rss>
