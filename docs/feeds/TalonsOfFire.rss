@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 14:54:10 +0000</lastBuildDate>
-    <item>
-      <title>U2 - Twilight (6 plays)</title>
-      <link>https://www.last.fm/music/U2/_/Twilight</link>
-      <guid isPermaLink="false">TalonsOfFire-1740523980--a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432---Twilight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a5178aeac6e49bea313b5b25757921f.png" length="101002" type="image/png"/>
-      <pubDate>Tue, 25 Feb 2025 17:53:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Mar 2025 15:23:03 +0000</lastBuildDate>
     <item>
       <title>U2 - Shadows And Tall Trees (6 plays)</title>
       <link>https://www.last.fm/music/U2/_/Shadows+And+Tall+Trees</link>
@@ -222,6 +215,7 @@
       <title>Astronauts - Breakout (4 plays)</title>
       <link>https://www.last.fm/music/Astronauts/_/Breakout</link>
       <guid isPermaLink="false">TalonsOfFire-1740947434--9b735e38-2d0c-4c9f-9b3f-052a7326d1eb---Breakout</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b243db3176b773ff6aa503c3466d5b2b.jpg" length="35689" type="image/jpeg"/>
       <pubDate>Sun, 02 Mar 2025 15:30:34 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1741099647--c8c021ad-6397-4990-b3b7-23d027c5931a---Mina/Dracula</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8a7b911e7ee7121c71a5d05709bdf8e.jpg" length="25608" type="image/jpeg"/>
       <pubDate>Tue, 04 Mar 2025 09:47:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tim Bowness - Beautiful Songs You Should Know (1 play)</title>
+      <link>https://www.last.fm/music/Tim+Bowness/_/Beautiful+Songs+You+Should+Know</link>
+      <guid isPermaLink="false">TalonsOfFire-1741100025--Tim Bowness---Beautiful Songs You Should Know</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e887f262c059523477346fadba2f488.jpg" length="22224" type="image/jpeg"/>
+      <pubDate>Tue, 04 Mar 2025 09:53:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
