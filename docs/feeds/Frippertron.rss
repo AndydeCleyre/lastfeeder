@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 10:52:19 +0000</lastBuildDate>
-    <item>
-      <title>clipping. - Change the Channel (3 plays)</title>
-      <link>https://www.last.fm/music/clipping./_/Change+the+Channel</link>
-      <guid isPermaLink="false">Frippertron-1741587252--84ca8fa4-7cca-4948-a90a-cb44db29853d---Change the Channel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed7fd62962ee0e28b8c26555d67521ba.png" length="50699" type="image/png"/>
-      <pubDate>Mon, 10 Mar 2025 02:14:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Mar 2025 11:15:40 +0000</lastBuildDate>
     <item>
       <title>clipping. - Run It (3 plays)</title>
       <link>https://www.last.fm/music/clipping./_/Run+It</link>
@@ -348,6 +341,13 @@
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cavalettas</link>
       <guid isPermaLink="false">Frippertron-1741603373--20883363-1ea4-4d72-ad72-c0e767038f3e---Cavalettas</guid>
       <pubDate>Mon, 10 Mar 2025 06:42:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Conjugal Burns (64 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Conjugal+Burns</link>
+      <guid isPermaLink="false">Frippertron-1741603838--20883363-1ea4-4d72-ad72-c0e767038f3e---Conjugal Burns</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Mon, 10 Mar 2025 06:50:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
