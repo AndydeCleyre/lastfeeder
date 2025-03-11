@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 12:42:43 +0000</lastBuildDate>
-    <item>
-      <title>Jason Isbell - Bury Me (3 plays)</title>
-      <link>https://www.last.fm/music/Jason+Isbell/_/Bury+Me</link>
-      <guid isPermaLink="false">Arcade1996-1741521917--4c501a41-5f23-41c9-a36a-5b86e894e08d---Bury Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91a57513a5c51f3fb98d4b26f1fae05f.jpg" length="15365" type="image/jpeg"/>
-      <pubDate>Sun, 09 Mar 2025 08:05:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jason Isbell - Ride to Robert's (1 play)</title>
-      <link>https://www.last.fm/music/Jason+Isbell/_/Ride+to+Robert%27s</link>
-      <guid isPermaLink="false">Arcade1996-1741522099--4c501a41-5f23-41c9-a36a-5b86e894e08d---Ride to Robert's</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/91a57513a5c51f3fb98d4b26f1fae05f.jpg" length="15365" type="image/jpeg"/>
-      <pubDate>Sun, 09 Mar 2025 08:08:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Mar 2025 13:14:46 +0000</lastBuildDate>
     <item>
       <title>Jason Isbell - Eileen (1 play)</title>
       <link>https://www.last.fm/music/Jason+Isbell/_/Eileen</link>
@@ -282,7 +268,7 @@
       <pubDate>Tue, 11 Mar 2025 05:13:10 -0400</pubDate>
     </item>
     <item>
-      <title>L7 - Shitlist (1 play)</title>
+      <title>L7 - Shitlist</title>
       <link>https://www.last.fm/music/L7/_/Shitlist</link>
       <guid isPermaLink="false">Arcade1996-1741684743--L7---Shitlist</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ffa75f10eb7c119cd98ebebe1f564556.jpg" length="27446" type="image/jpeg"/>
@@ -355,8 +341,19 @@
       <title>These New Puritans - Industrial Love Song</title>
       <link>https://www.last.fm/music/These+New+Puritans/_/Industrial+Love+Song</link>
       <guid isPermaLink="false">Arcade1996-1741696712--These New Puritans---Industrial Love Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1108ae767de142e6a8464ca7879c88ee.png" length="25958" type="image/png"/>
       <pubDate>Tue, 11 Mar 2025 08:38:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>These New Puritans - Bells</title>
+      <link>https://www.last.fm/music/These+New+Puritans/_/Bells</link>
+      <guid isPermaLink="false">Arcade1996-1741696942--These New Puritans---Bells</guid>
+      <pubDate>Tue, 11 Mar 2025 08:42:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Jesus and Mary Chain - Head On (2 plays)</title>
+      <link>https://www.last.fm/music/The+Jesus+and+Mary+Chain/_/Head+On</link>
+      <guid isPermaLink="false">Arcade1996-1741697373--e938a15c-b17e-4e7a-9f68-ff0d536cab44---Head On</guid>
+      <pubDate>Tue, 11 Mar 2025 08:49:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
