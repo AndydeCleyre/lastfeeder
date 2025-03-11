@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 05:22:49 +0000</lastBuildDate>
-    <item>
-      <title>At the Drive-In - One Armed Scissor (101 plays)</title>
-      <link>https://www.last.fm/music/At+the+Drive-In/_/One+Armed+Scissor</link>
-      <guid isPermaLink="false">Frippertron-1741597656--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---One Armed Scissor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/509a00756d5997721dc13f1578339f04.png" length="179176" type="image/png"/>
-      <pubDate>Mon, 10 Mar 2025 05:07:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>At the Drive-In - Sleepwalk Capsules (30 plays)</title>
-      <link>https://www.last.fm/music/At+the+Drive-In/_/Sleepwalk+Capsules</link>
-      <guid isPermaLink="false">Frippertron-1741597916--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Sleepwalk Capsules</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/509a00756d5997721dc13f1578339f04.png" length="179176" type="image/png"/>
-      <pubDate>Mon, 10 Mar 2025 05:11:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Mar 2025 05:40:47 +0000</lastBuildDate>
     <item>
       <title>At the Drive-In - Invalid Litter Dept. (38 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Invalid+Litter+Dept.</link>
@@ -339,6 +325,20 @@
       <guid isPermaLink="false">Frippertron-1741670252--John Fahey---A Raga Called Pat (Part 1)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/190c34ee51a7452f92597ad6282923c5.jpg" length="31036" type="image/jpeg"/>
       <pubDate>Tue, 11 Mar 2025 01:17:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Fahey - A Raga Called Pat (Part 2) (1 play)</title>
+      <link>https://www.last.fm/music/John+Fahey/_/A+Raga+Called+Pat+(Part+2)</link>
+      <guid isPermaLink="false">Frippertron-1741670638--John Fahey---A Raga Called Pat (Part 2)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/190c34ee51a7452f92597ad6282923c5.jpg" length="31036" type="image/jpeg"/>
+      <pubDate>Tue, 11 Mar 2025 01:23:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Fahey - My Shepherd Will Supply My Needs (1 play)</title>
+      <link>https://www.last.fm/music/John+Fahey/_/My+Shepherd+Will+Supply+My+Needs</link>
+      <guid isPermaLink="false">Frippertron-1741671131--95bb27d2-43c7-4a92-85ee-f95a245f0ee4---My Shepherd Will Supply My Needs</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/190c34ee51a7452f92597ad6282923c5.jpg" length="31036" type="image/jpeg"/>
+      <pubDate>Tue, 11 Mar 2025 01:32:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
