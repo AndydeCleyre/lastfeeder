@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 17:18:57 +0000</lastBuildDate>
-    <item>
-      <title>Metallica - Bleeding Me (9 plays)</title>
-      <link>https://www.last.fm/music/Metallica/_/Bleeding+Me</link>
-      <guid isPermaLink="false">manosg--1741608852--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Bleeding Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c32d240ba59d4491ba5ce25939cba1ab.png" length="167417" type="image/png"/>
-      <pubDate>Mon, 10 Mar 2025 08:14:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Mar 2025 18:29:54 +0000</lastBuildDate>
     <item>
       <title>Metallica - Ronnie (5 plays)</title>
       <link>https://www.last.fm/music/Metallica/_/Ronnie</link>
@@ -26,7 +19,6 @@
       <title>"Weird Al" Yankovic - My Bologna (26 plays)</title>
       <link>https://www.last.fm/music/%22Weird+Al%22+Yankovic/_/My+Bologna</link>
       <guid isPermaLink="false">manosg--1741614199--7746d775-9550-4360-b8d5-c37bd448ce01---My Bologna</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6417f7bc3bb69691323690c12fc360f.jpg" length="53798" type="image/jpeg"/>
       <pubDate>Mon, 10 Mar 2025 09:43:19 -0400</pubDate>
     </item>
     <item>
@@ -355,7 +347,15 @@
       <title>Mastodon - Gigantium (1 play)</title>
       <link>https://www.last.fm/music/Mastodon/_/Gigantium</link>
       <guid isPermaLink="false">manosg--1741798785--bc5e2ad6-0a4a-4d90-b911-e9a7e6861727---Gigantium</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff796b6a79235686379576ae1c70a0a5.png" length="196034" type="image/png"/>
       <pubDate>Wed, 12 Mar 2025 12:59:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eternal Champion - I Am the Hammer (3 plays)</title>
+      <link>https://www.last.fm/music/Eternal+Champion/_/I+Am+the+Hammer</link>
+      <guid isPermaLink="false">manosg--1741803223--a5e4a7e8-eed5-4d06-a56d-cb94eeaa20ca---I Am the Hammer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd26e670d1ad29b7e44d820058f1e911.png" length="181043" type="image/png"/>
+      <pubDate>Wed, 12 Mar 2025 14:13:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
