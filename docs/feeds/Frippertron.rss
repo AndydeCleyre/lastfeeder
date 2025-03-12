@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 06:49:48 +0000</lastBuildDate>
-    <item>
-      <title>Elton John - Blue Eyes (47 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/Blue+Eyes</link>
-      <guid isPermaLink="false">Frippertron-1741686747--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Blue Eyes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 11 Mar 2025 05:52:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>Elton John - I Guess That's Why They Call It the Blues (34 plays)</title>
-      <link>https://www.last.fm/music/Elton+John/_/I+Guess+That%27s+Why+They+Call+It+the+Blues</link>
-      <guid isPermaLink="false">Frippertron-1741686930--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---I Guess That's Why They Call It the Blues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 11 Mar 2025 05:55:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Mar 2025 07:21:53 +0000</lastBuildDate>
     <item>
       <title>Elton John - Sad Songs (Say So Much) (15 plays)</title>
       <link>https://www.last.fm/music/Elton+John/_/Sad+Songs+(Say+So+Much)</link>
@@ -334,6 +320,18 @@
       <link>https://www.last.fm/music/Swans/_/The+Glowing+Man</link>
       <guid isPermaLink="false">Frippertron-1741761896--3285dc48-9505-469d-ad8a-bdf2d3dba632---The Glowing Man</guid>
       <pubDate>Wed, 12 Mar 2025 02:44:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Fahey - Sunflower River Blues (2 plays)</title>
+      <link>https://www.last.fm/music/John+Fahey/_/Sunflower+River+Blues</link>
+      <guid isPermaLink="false">Frippertron-1741763625--95bb27d2-43c7-4a92-85ee-f95a245f0ee4---Sunflower River Blues</guid>
+      <pubDate>Wed, 12 Mar 2025 03:13:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Fahey - When The Springtime Comes Again (2 plays)</title>
+      <link>https://www.last.fm/music/John+Fahey/_/When+The+Springtime+Comes+Again</link>
+      <guid isPermaLink="false">Frippertron-1741763781--95bb27d2-43c7-4a92-85ee-f95a245f0ee4---When The Springtime Comes Again</guid>
+      <pubDate>Wed, 12 Mar 2025 03:16:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
