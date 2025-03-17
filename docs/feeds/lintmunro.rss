@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Mar 2025 17:19:08 +0000</lastBuildDate>
-    <item>
-      <title>Messa - Suspended (2 plays)</title>
-      <link>https://www.last.fm/music/Messa/_/Suspended</link>
-      <guid isPermaLink="false">lintmunro-1739242164--56d8d7aa-e80e-4674-a8d2-433da1259883---Suspended</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/071980f5c6b06bed1746dc5fbad6283f.jpg" length="18561" type="image/jpeg"/>
-      <pubDate>Mon, 10 Feb 2025 21:49:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Mar 2025 05:24:15 +0000</lastBuildDate>
     <item>
       <title>Messa - Dark Horse (3 plays)</title>
       <link>https://www.last.fm/music/Messa/_/Dark+Horse</link>
@@ -166,7 +159,6 @@
       <title>Sanguisugabogg - Face Ripped Off (feat. Aaron Heard) (3 plays)</title>
       <link>https://www.last.fm/music/Sanguisugabogg/_/Face+Ripped+Off+(feat.+Aaron+Heard)</link>
       <guid isPermaLink="false">lintmunro-1740350866--Sanguisugabogg---Face Ripped Off (feat. Aaron Heard)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0ba45e67772a87d19d7321511cfe5f00.jpg" length="29395" type="image/jpeg"/>
       <pubDate>Sun, 23 Feb 2025 17:47:46 -0500</pubDate>
     </item>
     <item>
@@ -208,6 +200,7 @@
       <title>Obituary - Don't Care (1 play)</title>
       <link>https://www.last.fm/music/Obituary/_/Don%27t+Care</link>
       <guid isPermaLink="false">lintmunro-1740352566--2e8ac3ed-2a89-4377-ba80-790106aba554---Don't Care</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f63088e6d09d4854bb9655f1965d1eec.jpg" length="23125" type="image/jpeg"/>
       <pubDate>Sun, 23 Feb 2025 18:16:06 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">lintmunro-1741914855--ae1b47d5-5128-431c-9d30-e08fd90e0767---Pearl of the Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/071c6afe2795988adf5ec3540e49d6c0.jpg" length="18117" type="image/jpeg"/>
       <pubDate>Thu, 13 Mar 2025 21:14:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coheed and Cambria - In the Flame of Error (3 plays)</title>
+      <link>https://www.last.fm/music/Coheed+and+Cambria/_/In+the+Flame+of+Error</link>
+      <guid isPermaLink="false">lintmunro-1742175577--ae1b47d5-5128-431c-9d30-e08fd90e0767---In the Flame of Error</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/071c6afe2795988adf5ec3540e49d6c0.jpg" length="18117" type="image/jpeg"/>
+      <pubDate>Sun, 16 Mar 2025 21:39:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
