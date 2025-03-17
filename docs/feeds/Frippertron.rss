@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 10:44:03 +0000</lastBuildDate>
-    <item>
-      <title>Arthur Russell - Fuzzbuster #10 (1 play)</title>
-      <link>https://www.last.fm/music/Arthur+Russell/_/Fuzzbuster+%2310</link>
-      <guid isPermaLink="false">Frippertron-1742189670--f43370e3-6d86-44e7-ae4c-ca098962dcd0---Fuzzbuster #10</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84d93975313829cf8f6e6ecbdbdc26e2.jpg" length="15231" type="image/jpeg"/>
-      <pubDate>Mon, 17 Mar 2025 01:34:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>Arthur Russell - Not Checking Up (1 play)</title>
-      <link>https://www.last.fm/music/Arthur+Russell/_/Not+Checking+Up</link>
-      <guid isPermaLink="false">Frippertron-1742189872--f43370e3-6d86-44e7-ae4c-ca098962dcd0---Not Checking Up</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/84d93975313829cf8f6e6ecbdbdc26e2.jpg" length="15231" type="image/jpeg"/>
-      <pubDate>Mon, 17 Mar 2025 01:37:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Mar 2025 10:55:51 +0000</lastBuildDate>
     <item>
       <title>Arthur Russell - Telling No One (1 play)</title>
       <link>https://www.last.fm/music/Arthur+Russell/_/Telling+No+One</link>
@@ -338,6 +324,20 @@
       <link>https://www.last.fm/music/Steely+Dan/_/Deacon+Blues</link>
       <guid isPermaLink="false">Frippertron-1742207812--e01c3376-15fa-40d7-b747-5f219bdefdd7---Deacon Blues</guid>
       <pubDate>Mon, 17 Mar 2025 06:36:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Peg (55 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Peg</link>
+      <guid isPermaLink="false">Frippertron-1742208269--e01c3376-15fa-40d7-b747-5f219bdefdd7---Peg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Mon, 17 Mar 2025 06:44:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Home At Last (44 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Home+At+Last</link>
+      <guid isPermaLink="false">Frippertron-1742208581--e01c3376-15fa-40d7-b747-5f219bdefdd7---Home At Last</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5467333ea26fa0d2aef1f49d3b982f04.jpg" length="4751" type="image/jpeg"/>
+      <pubDate>Mon, 17 Mar 2025 06:49:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
