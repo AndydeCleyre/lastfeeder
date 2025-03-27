@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 19:17:39 +0000</lastBuildDate>
-    <item>
-      <title>The Mars Volta - Goliath (183 plays)</title>
-      <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
-      <guid isPermaLink="false">Frippertron-1743071085--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
-      <pubDate>Thu, 27 Mar 2025 06:24:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Mar 2025 19:38:25 +0000</lastBuildDate>
     <item>
       <title>Hiroshi Yoshimura - Wet Land (2 plays)</title>
       <link>https://www.last.fm/music/Hiroshi+Yoshimura/_/Wet+Land</link>
@@ -171,6 +164,7 @@
       <title>Destroyer - Hydroplaning Off the Edge of the World (1 play)</title>
       <link>https://www.last.fm/music/Destroyer/_/Hydroplaning+Off+the+Edge+of+the+World</link>
       <guid isPermaLink="false">Frippertron-1743095745--Destroyer---Hydroplaning Off the Edge of the World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/796dd6510f291d42e1b0b6e276c01966.jpg" length="16979" type="image/jpeg"/>
       <pubDate>Thu, 27 Mar 2025 13:15:45 -0400</pubDate>
     </item>
     <item>
@@ -308,21 +302,20 @@
       <title>MALICE MIZER - 聖なる刻 永遠の祈り (10 plays)</title>
       <link>https://www.last.fm/music/MALICE+MIZER/_/%E8%81%96%E3%81%AA%E3%82%8B%E5%88%BB+%E6%B0%B8%E9%81%A0%E3%81%AE%E7%A5%88%E3%82%8A</link>
       <guid isPermaLink="false">Frippertron-1743100692--3897cf7f-9aac-4eef-aacb-ca0accdee9a2---聖なる刻 永遠の祈り</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1383f642b3834aa99d98e4b016361cd5.png" length="235360" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1383f642b3834aa99d98e4b016361cd5.png" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Thu, 27 Mar 2025 14:38:12 -0400</pubDate>
     </item>
     <item>
       <title>MALICE MIZER - 鏡の舞踏幻惑の夜 (8 plays)</title>
       <link>https://www.last.fm/music/MALICE+MIZER/_/%E9%8F%A1%E3%81%AE%E8%88%9E%E8%B8%8F%E5%B9%BB%E6%83%91%E3%81%AE%E5%A4%9C</link>
       <guid isPermaLink="false">Frippertron-1743101213--MALICE MIZER---鏡の舞踏幻惑の夜</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1383f642b3834aa99d98e4b016361cd5.png" length="235360" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1383f642b3834aa99d98e4b016361cd5.png" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Thu, 27 Mar 2025 14:46:53 -0400</pubDate>
     </item>
     <item>
       <title>MALICE MIZER - 真夜中に交わした約束 (20 plays)</title>
       <link>https://www.last.fm/music/MALICE+MIZER/_/%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AB%E4%BA%A4%E3%82%8F%E3%81%97%E3%81%9F%E7%B4%84%E6%9D%9F</link>
       <guid isPermaLink="false">Frippertron-1743101448--3897cf7f-9aac-4eef-aacb-ca0accdee9a2---真夜中に交わした約束</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1383f642b3834aa99d98e4b016361cd5.png" length="235360" type="image/png"/>
       <pubDate>Thu, 27 Mar 2025 14:50:48 -0400</pubDate>
     </item>
     <item>
@@ -342,6 +335,13 @@
       <link>https://www.last.fm/music/L%27Arc~en~Ciel/_/What+is+love</link>
       <guid isPermaLink="false">Frippertron-1743102577--L'Arc~en~Ciel---What is love</guid>
       <pubDate>Thu, 27 Mar 2025 15:09:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>L'Arc~en~Ciel - Pieces [ark mix] (40 plays)</title>
+      <link>https://www.last.fm/music/L%27Arc~en~Ciel/_/Pieces+%5Bark+mix%5D</link>
+      <guid isPermaLink="false">Frippertron-1743102832--L'Arc~en~Ciel---Pieces [ark mix]</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ee898307a20262d4dbe5f2f1605e582.png" length="144384" type="image/png"/>
+      <pubDate>Thu, 27 Mar 2025 15:13:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
