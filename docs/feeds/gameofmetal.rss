@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Mar 2025 14:42:39 +0000</lastBuildDate>
-    <item>
-      <title>Teitanblood - Rapture Below (5 plays)</title>
-      <link>https://www.last.fm/music/Teitanblood/_/Rapture+Below</link>
-      <guid isPermaLink="false">gameofmetal-1743115211--e63e2784-31af-437b-8174-31c27641b1e2---Rapture Below</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e39a57278df27811d580767b4485d6c2.jpg" length="20270" type="image/jpeg"/>
-      <pubDate>Thu, 27 Mar 2025 18:40:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Teitanblood - Black Vertebrae (5 plays)</title>
-      <link>https://www.last.fm/music/Teitanblood/_/Black+Vertebrae</link>
-      <guid isPermaLink="false">gameofmetal-1743115545--e63e2784-31af-437b-8174-31c27641b1e2---Black Vertebrae</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e39a57278df27811d580767b4485d6c2.jpg" length="20270" type="image/jpeg"/>
-      <pubDate>Thu, 27 Mar 2025 18:45:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Mar 2025 14:54:27 +0000</lastBuildDate>
     <item>
       <title>Teitanblood - Leprous Fire (4 plays)</title>
       <link>https://www.last.fm/music/Teitanblood/_/Leprous+Fire</link>
@@ -121,7 +107,7 @@
       <pubDate>Thu, 27 Mar 2025 19:59:49 -0400</pubDate>
     </item>
     <item>
-      <title>Drudkh - Dishonour II (1 play)</title>
+      <title>Drudkh - Dishonour II</title>
       <link>https://www.last.fm/music/Drudkh/_/Dishonour+II</link>
       <guid isPermaLink="false">gameofmetal-1743123022--469eb232-7163-47a8-96a3-8c82d24b2888---Dishonour II</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5152e9f0d94e743fae4a36ae03572532.png" length="195749" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1743172653--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Trapped Under Ice (Remastered)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0045696d4af535cdff923d4f5b257d94.jpg" length="21005" type="image/jpeg"/>
       <pubDate>Fri, 28 Mar 2025 10:37:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Metallica - Escape (Remastered) (2 plays)</title>
+      <link>https://www.last.fm/music/Metallica/_/Escape+(Remastered)</link>
+      <guid isPermaLink="false">gameofmetal-1743172896--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Escape (Remastered)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0045696d4af535cdff923d4f5b257d94.jpg" length="21005" type="image/jpeg"/>
+      <pubDate>Fri, 28 Mar 2025 10:41:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Metallica - Creeping Death (Remastered) (1 play)</title>
+      <link>https://www.last.fm/music/Metallica/_/Creeping+Death+(Remastered)</link>
+      <guid isPermaLink="false">gameofmetal-1743173160--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Creeping Death (Remastered)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0045696d4af535cdff923d4f5b257d94.jpg" length="21005" type="image/jpeg"/>
+      <pubDate>Fri, 28 Mar 2025 10:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
