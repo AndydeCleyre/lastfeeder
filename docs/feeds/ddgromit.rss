@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Mar 2025 19:19:23 +0000</lastBuildDate>
-    <item>
-      <title>Idina Menzel - Into the Unknown (25 plays)</title>
-      <link>https://www.last.fm/music/Idina+Menzel/_/Into+the+Unknown</link>
-      <guid isPermaLink="false">ddgromit-1743214610--929ca8c3-5df3-4fe9-bc59-f8d603780bce---Into the Unknown</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ef08224dcaa7171d2d09d229e4846bb.jpg" length="21306" type="image/jpeg"/>
-      <pubDate>Fri, 28 Mar 2025 22:16:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jack Black - Peaches (4 plays)</title>
-      <link>https://www.last.fm/music/Jack+Black/_/Peaches</link>
-      <guid isPermaLink="false">ddgromit-1743214806--Jack Black---Peaches</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbe64ca6f53d8ca06c730ea8cab4e035.jpg" length="36683" type="image/jpeg"/>
-      <pubDate>Fri, 28 Mar 2025 22:20:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Mar 2025 19:38:03 +0000</lastBuildDate>
     <item>
       <title>Jason Weaver - I Just Can't Wait to Be King (16 plays)</title>
       <link>https://www.last.fm/music/Jason+Weaver/_/I+Just+Can%27t+Wait+to+Be+King</link>
@@ -40,6 +26,7 @@
       <title>Auli'i Cravalho - We're Back (2 plays)</title>
       <link>https://www.last.fm/music/Auli%27i+Cravalho/_/We%27re+Back</link>
       <guid isPermaLink="false">ddgromit-1743215282--715d6b2d-9b1f-4615-8e7c-71cf5e9bcde3---We're Back</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/51b53e58fdde8f2d3495625fb5bdf3ec.jpg" length="20064" type="image/jpeg"/>
       <pubDate>Fri, 28 Mar 2025 22:28:02 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1743275352--6d7b7cd4-254b-4c25-83f6-dd20f98ceacd---Outro</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16fdad2898a167de51428b9ccbd2317a.jpg" length="21405" type="image/jpeg"/>
       <pubDate>Sat, 29 Mar 2025 15:09:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Rocket Man (I Think It's Going to Be a Long, Long Time) (10 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+to+Be+a+Long,+Long+Time)</link>
+      <guid isPermaLink="false">ddgromit-1743275598--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Rocket Man (I Think It's Going to Be a Long, Long Time)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/600850c3207f8a27ff77e49d91f78c1b.jpg" length="21059" type="image/jpeg"/>
+      <pubDate>Sat, 29 Mar 2025 15:13:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coldplay - Viva la Vida (4 plays)</title>
+      <link>https://www.last.fm/music/Coldplay/_/Viva+la+Vida</link>
+      <guid isPermaLink="false">ddgromit-1743276644--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Viva la Vida</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df7ea51b2826b60175d4c332e0f7b8ca.jpg" length="31467" type="image/jpeg"/>
+      <pubDate>Sat, 29 Mar 2025 15:30:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
