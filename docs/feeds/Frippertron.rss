@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 05:21:20 +0000</lastBuildDate>
-    <item>
-      <title>Cluster - Caramba (1 play)</title>
-      <link>https://www.last.fm/music/Cluster/_/Caramba</link>
-      <guid isPermaLink="false">Frippertron-1743608409--c439487d-5a02-4b9c-9b9a-6b235b059492---Caramba</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ef11681711c4267a8f0da74625f5de2.png" length="35178" type="image/png"/>
-      <pubDate>Wed, 02 Apr 2025 11:40:09 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cluster - Fotschi Tong (1 play)</title>
-      <link>https://www.last.fm/music/Cluster/_/Fotschi+Tong</link>
-      <guid isPermaLink="false">Frippertron-1743608646--c439487d-5a02-4b9c-9b9a-6b235b059492---Fotschi Tong</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ef11681711c4267a8f0da74625f5de2.png" length="35178" type="image/png"/>
-      <pubDate>Wed, 02 Apr 2025 11:44:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Apr 2025 05:41:44 +0000</lastBuildDate>
     <item>
       <title>Cluster - James (1 play)</title>
       <link>https://www.last.fm/music/Cluster/_/James</link>
@@ -342,6 +328,18 @@
       <link>https://www.last.fm/music/Frank+Zappa/_/Peaches+en+Regalia</link>
       <guid isPermaLink="false">Frippertron-1743657201--e20747e7-55a4-452e-8766-7b985585082d---Peaches en Regalia</guid>
       <pubDate>Thu, 03 Apr 2025 01:13:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Black Cow (31 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Black+Cow</link>
+      <guid isPermaLink="false">Frippertron-1743658250--e01c3376-15fa-40d7-b747-5f219bdefdd7---Black Cow</guid>
+      <pubDate>Thu, 03 Apr 2025 01:30:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roy Wood - Another Wrong Night (54 plays)</title>
+      <link>https://www.last.fm/music/Roy+Wood/_/Another+Wrong+Night</link>
+      <guid isPermaLink="false">Frippertron-1743658626--Roy Wood---Another Wrong Night</guid>
+      <pubDate>Thu, 03 Apr 2025 01:37:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
