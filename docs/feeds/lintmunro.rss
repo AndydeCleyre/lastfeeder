@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Apr 2025 19:15:53 +0000</lastBuildDate>
-    <item>
-      <title>Obituary - Don't Care (1 play)</title>
-      <link>https://www.last.fm/music/Obituary/_/Don%27t+Care</link>
-      <guid isPermaLink="false">lintmunro-1740352566--2e8ac3ed-2a89-4377-ba80-790106aba554---Don't Care</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f63088e6d09d4854bb9655f1965d1eec.jpg" length="23125" type="image/jpeg"/>
-      <pubDate>Sun, 23 Feb 2025 18:16:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthrax - Killing Box (1 play)</title>
-      <link>https://www.last.fm/music/Anthrax/_/Killing+Box</link>
-      <guid isPermaLink="false">lintmunro-1740352759--Anthrax---Killing Box</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f14b4064b9cc45bb5becffe121d1197a.png" length="267009" type="image/png"/>
-      <pubDate>Sun, 23 Feb 2025 18:19:19 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Apr 2025 19:38:40 +0000</lastBuildDate>
     <item>
       <title>Throwdown - Burn (1 play)</title>
       <link>https://www.last.fm/music/Throwdown/_/Burn</link>
@@ -306,6 +292,7 @@
       <title>Messa - The Dress (1 play)</title>
       <link>https://www.last.fm/music/Messa/_/The+Dress</link>
       <guid isPermaLink="false">lintmunro-1743290267--56d8d7aa-e80e-4674-a8d2-433da1259883---The Dress</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/796e4ec7c884ad3d86ad379043fd15b5.jpg" length="15449" type="image/jpeg"/>
       <pubDate>Sat, 29 Mar 2025 19:17:47 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">lintmunro-1743880294--f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302---Incidental I</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg" length="21567" type="image/jpeg"/>
       <pubDate>Sat, 05 Apr 2025 15:11:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Deafheaven - Doberman (1 play)</title>
+      <link>https://www.last.fm/music/Deafheaven/_/Doberman</link>
+      <guid isPermaLink="false">lintmunro-1743880351--f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302---Doberman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg" length="21567" type="image/jpeg"/>
+      <pubDate>Sat, 05 Apr 2025 15:12:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Deafheaven - Magnolia (1 play)</title>
+      <link>https://www.last.fm/music/Deafheaven/_/Magnolia</link>
+      <guid isPermaLink="false">lintmunro-1743880745--f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302---Magnolia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg" length="21567" type="image/jpeg"/>
+      <pubDate>Sat, 05 Apr 2025 15:19:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
