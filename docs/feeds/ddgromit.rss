@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 23:40:04 +0000</lastBuildDate>
-    <item>
-      <title>Hosini - Capella (3 plays)</title>
-      <link>https://www.last.fm/music/Hosini/_/Capella</link>
-      <guid isPermaLink="false">ddgromit-1744054780--fb8c65db-e2c4-4673-a99e-b45e0395e506---Capella</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/940100d25c8fb41bf5085c8af24bbd8f.jpg" length="13055" type="image/jpeg"/>
-      <pubDate>Mon, 07 Apr 2025 15:39:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Aiiso - Autumn Leaves (3 plays)</title>
-      <link>https://www.last.fm/music/Aiiso/_/Autumn+Leaves</link>
-      <guid isPermaLink="false">ddgromit-1744055062--Aiiso---Autumn Leaves</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/83a800ec558dd400cd0c1884376cf722.jpg" length="17155" type="image/jpeg"/>
-      <pubDate>Mon, 07 Apr 2025 15:44:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Apr 2025 23:52:14 +0000</lastBuildDate>
     <item>
       <title>Anderholm - Secrets (2 plays)</title>
       <link>https://www.last.fm/music/Anderholm/_/Secrets</link>
@@ -357,6 +343,19 @@
       <guid isPermaLink="false">ddgromit-1744155178--fb8c65db-e2c4-4673-a99e-b45e0395e506---Capella</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/940100d25c8fb41bf5085c8af24bbd8f.jpg" length="13055" type="image/jpeg"/>
       <pubDate>Tue, 08 Apr 2025 19:32:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Khåen - Kyrie - Edit (1 play)</title>
+      <link>https://www.last.fm/music/Kh%C3%A5en/_/Kyrie+-+Edit</link>
+      <guid isPermaLink="false">ddgromit-1744155445--Khåen---Kyrie - Edit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d14ee59dc0abe62d12bb587300b8f215.jpg" length="25035" type="image/jpeg"/>
+      <pubDate>Tue, 08 Apr 2025 19:37:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lane 8 - Fingerprint - Anderholm Remix (1 play)</title>
+      <link>https://www.last.fm/music/Lane+8/_/Fingerprint+-+Anderholm+Remix</link>
+      <guid isPermaLink="false">ddgromit-1744155685--Lane 8---Fingerprint - Anderholm Remix</guid>
+      <pubDate>Tue, 08 Apr 2025 19:41:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
