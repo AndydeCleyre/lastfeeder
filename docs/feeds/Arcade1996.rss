@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 01:46:51 +0000</lastBuildDate>
-    <item>
-      <title>The Rolling Stones - Tumbling Dice (16 plays)</title>
-      <link>https://www.last.fm/music/The+Rolling+Stones/_/Tumbling+Dice</link>
-      <guid isPermaLink="false">Arcade1996-1743838212--b071f9fa-14b0-4217-8e97-eb41da73f598---Tumbling Dice</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76653afcbf23473aabca4d39fbb7d390.jpg" length="38992" type="image/jpeg"/>
-      <pubDate>Sat, 05 Apr 2025 03:30:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>R.E.M. - Losing My Religion (14 plays)</title>
-      <link>https://www.last.fm/music/R.E.M./_/Losing+My+Religion</link>
-      <guid isPermaLink="false">Arcade1996-1743846239--R.E.M.---Losing My Religion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15a2ec88341c54c1ccd1d128eba29f65.jpg" length="23260" type="image/jpeg"/>
-      <pubDate>Sat, 05 Apr 2025 05:43:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Apr 2025 09:42:03 +0000</lastBuildDate>
     <item>
       <title>R.E.M. - The One I Love - Remastered 2012 (1 play)</title>
       <link>https://www.last.fm/music/R.E.M./_/The+One+I+Love+-+Remastered+2012</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1744072876--47135429-ed7c-4b08-a30c-f0e66777ec47---Past Life (feat. MAVI)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0c24d262dce26cfd0cfa476f23da580.jpg" length="18211" type="image/jpeg"/>
       <pubDate>Mon, 07 Apr 2025 20:41:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>ZelooperZ - Buggin' (1 play)</title>
+      <link>https://www.last.fm/music/ZelooperZ/_/Buggin%27</link>
+      <guid isPermaLink="false">Arcade1996-1744073224--47135429-ed7c-4b08-a30c-f0e66777ec47---Buggin'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0c24d262dce26cfd0cfa476f23da580.jpg" length="18211" type="image/jpeg"/>
+      <pubDate>Mon, 07 Apr 2025 20:47:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>ZelooperZ - Kingdom Come (Hyping Me Up) (1 play)</title>
+      <link>https://www.last.fm/music/ZelooperZ/_/Kingdom+Come+(Hyping+Me+Up)</link>
+      <guid isPermaLink="false">Arcade1996-1744105207--47135429-ed7c-4b08-a30c-f0e66777ec47---Kingdom Come (Hyping Me Up)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0c24d262dce26cfd0cfa476f23da580.jpg" length="18211" type="image/jpeg"/>
+      <pubDate>Tue, 08 Apr 2025 05:40:07 -0400</pubDate>
     </item>
   </channel>
 </rss>
