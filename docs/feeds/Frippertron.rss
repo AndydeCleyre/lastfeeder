@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 05:21:34 +0000</lastBuildDate>
-    <item>
-      <title>Frank Zappa - Project X (14 plays)</title>
-      <link>https://www.last.fm/music/Frank+Zappa/_/Project+X</link>
-      <guid isPermaLink="false">Frippertron-1744123666--e20747e7-55a4-452e-8766-7b985585082d---Project X</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca14b8a4e31d4c2a99ca549981311f98.jpg" length="31309" type="image/jpeg"/>
-      <pubDate>Tue, 08 Apr 2025 10:47:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Apr 2025 05:42:06 +0000</lastBuildDate>
     <item>
       <title>Frank Zappa - Po-Jama People (5 plays)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/Po-Jama+People</link>
@@ -345,6 +338,13 @@
       <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
       <guid isPermaLink="false">Frippertron-1744175692--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
       <pubDate>Wed, 09 Apr 2025 01:14:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Metatron (211 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
+      <guid isPermaLink="false">Frippertron-1744176036--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Wed, 09 Apr 2025 01:20:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
