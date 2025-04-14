@@ -7,137 +7,54 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 03:08:44 +0000</lastBuildDate>
-    <item>
-      <title>Genesis - Misunderstanding (46 plays)</title>
-      <link>https://www.last.fm/music/Genesis/_/Misunderstanding</link>
-      <guid isPermaLink="false">Frippertron-1744458065--Genesis---Misunderstanding</guid>
-      <pubDate>Sat, 12 Apr 2025 07:41:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Sylvian - Midnight Sun (57 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/Midnight+Sun</link>
-      <guid isPermaLink="false">Frippertron-1744458336--719db6b1-0d91-458c-8d18-875ec44105bf---Midnight Sun</guid>
-      <pubDate>Sat, 12 Apr 2025 07:45:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Big Star - O My Soul (31 plays)</title>
-      <link>https://www.last.fm/music/Big+Star/_/O+My+Soul</link>
-      <guid isPermaLink="false">Frippertron-1744458577--21d177ba-3d51-461e-9b3f-ad9a80b419dc---O My Soul</guid>
-      <pubDate>Sat, 12 Apr 2025 07:49:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Big Star - Life Is White (9 plays)</title>
-      <link>https://www.last.fm/music/Big+Star/_/Life+Is+White</link>
-      <guid isPermaLink="false">Frippertron-1744458917--21d177ba-3d51-461e-9b3f-ad9a80b419dc---Life Is White</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3530f60f301f5a56216badc4a7f7b61b.jpg" length="17086" type="image/jpeg"/>
-      <pubDate>Sat, 12 Apr 2025 07:55:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Big Star - Way Out West (6 plays)</title>
-      <link>https://www.last.fm/music/Big+Star/_/Way+Out+West</link>
-      <guid isPermaLink="false">Frippertron-1744459116--21d177ba-3d51-461e-9b3f-ad9a80b419dc---Way Out West</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3530f60f301f5a56216badc4a7f7b61b.jpg" length="17086" type="image/jpeg"/>
-      <pubDate>Sat, 12 Apr 2025 07:58:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>Big Star - What's Going Ahn (5 plays)</title>
-      <link>https://www.last.fm/music/Big+Star/_/What%27s+Going+Ahn</link>
-      <guid isPermaLink="false">Frippertron-1744459286--21d177ba-3d51-461e-9b3f-ad9a80b419dc---What's Going Ahn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3530f60f301f5a56216badc4a7f7b61b.jpg" length="17086" type="image/jpeg"/>
-      <pubDate>Sat, 12 Apr 2025 08:01:26 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - "Heroes" (132 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/%22Heroes%22</link>
-      <guid isPermaLink="false">Frippertron-1744459455--5441c29d-3602-4898-b1a1-b77fa23b8e50---"Heroes"</guid>
-      <pubDate>Sat, 12 Apr 2025 08:04:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tullio De Piscopo - Stop Bajon (Club Mix) (14 plays)</title>
-      <link>https://www.last.fm/music/Tullio+De+Piscopo/_/Stop+Bajon+(Club+Mix)</link>
-      <guid isPermaLink="false">Frippertron-1744459891--f5a2a32e-3fbb-46c9-b34d-dca87250aa47---Stop Bajon (Club Mix)</guid>
-      <pubDate>Sat, 12 Apr 2025 08:11:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Brother From Another Planet - Ishikawa Surfs the System (6 plays)</title>
-      <link>https://www.last.fm/music/Brother+From+Another+Planet/_/Ishikawa+Surfs+the+System</link>
-      <guid isPermaLink="false">Frippertron-1744460344--9a0b766c-af34-4134-b8e3-ad075edd16d9---Ishikawa Surfs the System</guid>
-      <pubDate>Sat, 12 Apr 2025 08:19:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Todd Rundgren - I Saw The Light (245 plays)</title>
-      <link>https://www.last.fm/music/Todd+Rundgren/_/I+Saw+The+Light</link>
-      <guid isPermaLink="false">Frippertron-1744460591--1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d---I Saw The Light</guid>
-      <pubDate>Sat, 12 Apr 2025 08:23:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - Here Comes the Sun (4 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Here+Comes+the+Sun</link>
-      <guid isPermaLink="false">Frippertron-1744460765--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Here Comes the Sun</guid>
-      <pubDate>Sat, 12 Apr 2025 08:26:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - Because (4 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Because</link>
-      <guid isPermaLink="false">Frippertron-1744460951--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Because</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f304ba0296794c6fc9d0e1cccd194ed0.jpg" length="30313" type="image/jpeg"/>
-      <pubDate>Sat, 12 Apr 2025 08:29:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beatles - You Never Give Me Your Money (16 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/You+Never+Give+Me+Your+Money</link>
-      <guid isPermaLink="false">Frippertron-1744461116--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---You Never Give Me Your Money</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f304ba0296794c6fc9d0e1cccd194ed0.jpg" length="30313" type="image/jpeg"/>
-      <pubDate>Sat, 12 Apr 2025 08:31:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Apr 2025 03:46:05 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Sun King (11 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Sun+King</link>
       <guid isPermaLink="false">Frippertron-1744461359--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Sun King</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f304ba0296794c6fc9d0e1cccd194ed0.jpg" length="30313" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 12 Apr 2025 08:35:59 -0400</pubDate>
     </item>
     <item>
       <title>The Beatles - Mean Mr. Mustard (12 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Mean+Mr.+Mustard</link>
       <guid isPermaLink="false">Frippertron-1744461505--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Mean Mr. Mustard</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f304ba0296794c6fc9d0e1cccd194ed0.jpg" length="30313" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 12 Apr 2025 08:38:25 -0400</pubDate>
     </item>
     <item>
       <title>The Beatles - Polythene Pam (12 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Polythene+Pam</link>
       <guid isPermaLink="false">Frippertron-1744461571--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Polythene Pam</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f304ba0296794c6fc9d0e1cccd194ed0.jpg" length="30313" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 12 Apr 2025 08:39:31 -0400</pubDate>
     </item>
     <item>
       <title>The Beatles - She Came in Through the Bathroom Window (11 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/She+Came+in+Through+the+Bathroom+Window</link>
       <guid isPermaLink="false">Frippertron-1744461645--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---She Came in Through the Bathroom Window</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f304ba0296794c6fc9d0e1cccd194ed0.jpg" length="30313" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 12 Apr 2025 08:40:45 -0400</pubDate>
     </item>
     <item>
       <title>The Beatles - Golden Slumbers (12 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Golden+Slumbers</link>
       <guid isPermaLink="false">Frippertron-1744461764--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Golden Slumbers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f304ba0296794c6fc9d0e1cccd194ed0.jpg" length="30313" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 12 Apr 2025 08:42:44 -0400</pubDate>
     </item>
     <item>
       <title>The Beatles - Carry That Weight (12 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Carry+That+Weight</link>
       <guid isPermaLink="false">Frippertron-1744461855--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Carry That Weight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f304ba0296794c6fc9d0e1cccd194ed0.jpg" length="30313" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 12 Apr 2025 08:44:15 -0400</pubDate>
     </item>
     <item>
       <title>The Beatles - The End (11 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/The+End</link>
       <guid isPermaLink="false">Frippertron-1744461951--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---The End</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f304ba0296794c6fc9d0e1cccd194ed0.jpg" length="30313" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sat, 12 Apr 2025 08:45:51 -0400</pubDate>
     </item>
     <item>
@@ -162,77 +79,77 @@
       <title>Lisa Germano - Trouble (2 plays)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/Trouble</link>
       <guid isPermaLink="false">Frippertron-1744559314--b4cadc83-7307-4196-9f2f-29ebf1650045---Trouble</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 11:48:34 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - Geek the Girl (2 plays)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/Geek+the+Girl</link>
       <guid isPermaLink="false">Frippertron-1744559454--b4cadc83-7307-4196-9f2f-29ebf1650045---Geek the Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 11:50:54 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - Just Geek (1 play)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/Just+Geek</link>
       <guid isPermaLink="false">Frippertron-1744559675--b4cadc83-7307-4196-9f2f-29ebf1650045---Just Geek</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 11:54:35 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - Cry Wolf (1 play)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/Cry+Wolf</link>
       <guid isPermaLink="false">Frippertron-1744559838--b4cadc83-7307-4196-9f2f-29ebf1650045---Cry Wolf</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 11:57:18 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - ... A Psychopath (1 play)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/...+A+Psychopath</link>
       <guid isPermaLink="false">Frippertron-1744560137--b4cadc83-7307-4196-9f2f-29ebf1650045---... A Psychopath</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 12:02:17 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - Sexy Little Girl Princess (1 play)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/Sexy+Little+Girl+Princess</link>
       <guid isPermaLink="false">Frippertron-1744560414--b4cadc83-7307-4196-9f2f-29ebf1650045---Sexy Little Girl Princess</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 12:06:54 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - Phantom Love (1 play)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/Phantom+Love</link>
       <guid isPermaLink="false">Frippertron-1744560633--b4cadc83-7307-4196-9f2f-29ebf1650045---Phantom Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 12:10:33 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - Cancer of Everything (1 play)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/Cancer+of+Everything</link>
       <guid isPermaLink="false">Frippertron-1744560835--b4cadc83-7307-4196-9f2f-29ebf1650045---Cancer of Everything</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 12:13:55 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - A Guy Like You (1 play)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/A+Guy+Like+You</link>
       <guid isPermaLink="false">Frippertron-1744561074--b4cadc83-7307-4196-9f2f-29ebf1650045---A Guy Like You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 12:17:54 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - ...of Love and Colors (1 play)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/...of+Love+and+Colors</link>
       <guid isPermaLink="false">Frippertron-1744561273--b4cadc83-7307-4196-9f2f-29ebf1650045---...of Love and Colors</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 12:21:13 -0400</pubDate>
     </item>
     <item>
       <title>Lisa Germano - Stars (1 play)</title>
       <link>https://www.last.fm/music/Lisa+Germano/_/Stars</link>
       <guid isPermaLink="false">Frippertron-1744561508--b4cadc83-7307-4196-9f2f-29ebf1650045---Stars</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e86b6f9923d16138424435bf8194fd.jpg" length="14163" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 12:25:08 -0400</pubDate>
     </item>
     <item>
@@ -277,14 +194,14 @@
       <title>At the Drive-In - Pattern Against User (100 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Pattern+Against+User</link>
       <guid isPermaLink="false">Frippertron-1744597080--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Pattern Against User</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 22:18:00 -0400</pubDate>
     </item>
     <item>
       <title>At the Drive-In - One Armed Scissor (108 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/One+Armed+Scissor</link>
       <guid isPermaLink="false">Frippertron-1744597278--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---One Armed Scissor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 22:21:18 -0400</pubDate>
     </item>
     <item>
@@ -297,21 +214,21 @@
       <title>At the Drive-In - Rolodex Propaganda (14 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Rolodex+Propaganda</link>
       <guid isPermaLink="false">Frippertron-1744597809--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Rolodex Propaganda</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 22:30:09 -0400</pubDate>
     </item>
     <item>
       <title>At the Drive-In - Quarantined (13 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Quarantined</link>
       <guid isPermaLink="false">Frippertron-1744597985--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Quarantined</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 22:33:05 -0400</pubDate>
     </item>
     <item>
       <title>At the Drive-In - Invalid Litter Dept. (43 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Invalid+Litter+Dept.</link>
       <guid isPermaLink="false">Frippertron-1744598175--7e13cd1c-0300-4d03-bd8e-5f86dd99d74f---Invalid Litter Dept.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 22:36:15 -0400</pubDate>
     </item>
     <item>
@@ -324,22 +241,112 @@
       <title>The Mars Volta - Metatron (212 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
       <guid isPermaLink="false">Frippertron-1744598958--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 22:49:18 -0400</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Ilyena (57 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Ilyena</link>
       <guid isPermaLink="false">Frippertron-1744599450--20883363-1ea4-4d72-ad72-c0e767038f3e---Ilyena</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 22:57:30 -0400</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Cavalettas (100 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Cavalettas</link>
       <guid isPermaLink="false">Frippertron-1744599712--20883363-1ea4-4d72-ad72-c0e767038f3e---Cavalettas</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 13 Apr 2025 23:01:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - Lightsabre Cocksucking Blues (4 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/Lightsabre+Cocksucking+Blues</link>
+      <guid isPermaLink="false">Frippertron-1744600329--mclusky---Lightsabre Cocksucking Blues</guid>
+      <pubDate>Sun, 13 Apr 2025 23:12:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - No New Wave No Fun (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/No+New+Wave+No+Fun</link>
+      <guid isPermaLink="false">Frippertron-1744600441--mclusky---No New Wave No Fun</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:14:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - Collagen Rock (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/Collagen+Rock</link>
+      <guid isPermaLink="false">Frippertron-1744600580--mclusky---Collagen Rock</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:16:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - What We've Learned (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/What+We%27ve+Learned</link>
+      <guid isPermaLink="false">Frippertron-1744600753--mclusky---What We've Learned</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:19:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - Day of the Deadringers (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/Day+of+the+Deadringers</link>
+      <guid isPermaLink="false">Frippertron-1744600867--mclusky---Day of the Deadringers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:21:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - Dethink to Survive (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/Dethink+to+Survive</link>
+      <guid isPermaLink="false">Frippertron-1744601049--mclusky---Dethink to Survive</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:24:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - Fuck this Band (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/Fuck+this+Band</link>
+      <guid isPermaLink="false">Frippertron-1744601168--mclusky---Fuck this Band</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:26:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - To Hell With Good Intentions (4 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/To+Hell+With+Good+Intentions</link>
+      <guid isPermaLink="false">Frippertron-1744601387--mclusky---To Hell With Good Intentions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:29:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - Clique Application Form (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/Clique+Application+Form</link>
+      <guid isPermaLink="false">Frippertron-1744601537--mclusky---Clique Application Form</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:32:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - The World Loves Us and Is Our Bitch (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/The+World+Loves+Us+and+Is+Our+Bitch</link>
+      <guid isPermaLink="false">Frippertron-1744601647--mclusky---The World Loves Us and Is Our Bitch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:34:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - Alan Is a Cowboy Killer (4 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/Alan+Is+a+Cowboy+Killer</link>
+      <guid isPermaLink="false">Frippertron-1744601791--mclusky---Alan Is a Cowboy Killer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:36:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - Gareth Brown Says (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/Gareth+Brown+Says</link>
+      <guid isPermaLink="false">Frippertron-1744602040--mclusky---Gareth Brown Says</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:40:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>mclusky - Chases (3 plays)</title>
+      <link>https://www.last.fm/music/mclusky/_/Chases</link>
+      <guid isPermaLink="false">Frippertron-1744602151--mclusky---Chases</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sun, 13 Apr 2025 23:42:31 -0400</pubDate>
     </item>
   </channel>
 </rss>
