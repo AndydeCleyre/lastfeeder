@@ -7,25 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 21:19:08 +0000</lastBuildDate>
-    <item>
-      <title>Old - Amoeba (2 plays)</title>
-      <link>https://www.last.fm/music/Old/_/Amoeba</link>
-      <guid isPermaLink="false">Frippertron-1744905358--Old---Amoeba</guid>
-      <pubDate>Thu, 17 Apr 2025 11:55:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Sylvian - Sleepwalkers (2 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/Sleepwalkers</link>
-      <guid isPermaLink="false">Frippertron-1744905886--719db6b1-0d91-458c-8d18-875ec44105bf---Sleepwalkers</guid>
-      <pubDate>Thu, 17 Apr 2025 12:04:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Sylvian - Five Lines (2 plays)</title>
-      <link>https://www.last.fm/music/David+Sylvian/_/Five+Lines</link>
-      <guid isPermaLink="false">Frippertron-1744906251--719db6b1-0d91-458c-8d18-875ec44105bf---Five Lines</guid>
-      <pubDate>Thu, 17 Apr 2025 12:10:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Apr 2025 21:38:26 +0000</lastBuildDate>
     <item>
       <title>David Sylvian - Exit/Delete (2 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Exit%2FDelete</link>
@@ -169,21 +151,21 @@
       <pubDate>Fri, 18 Apr 2025 20:35:06 -0400</pubDate>
     </item>
     <item>
-      <title>Old - Thug (2 plays)</title>
+      <title>Old - Thug (3 plays)</title>
       <link>https://www.last.fm/music/Old/_/Thug</link>
       <guid isPermaLink="false">Frippertron-1745023383--Old---Thug</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3dc5644e7c7949bec9ae549566a3ebc9.jpg" length="18257" type="image/jpeg"/>
       <pubDate>Fri, 18 Apr 2025 20:43:03 -0400</pubDate>
     </item>
     <item>
-      <title>Old - Rid (2 plays)</title>
+      <title>Old - Rid (3 plays)</title>
       <link>https://www.last.fm/music/Old/_/Rid</link>
       <guid isPermaLink="false">Frippertron-1745023684--Old---Rid</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3dc5644e7c7949bec9ae549566a3ebc9.jpg" length="18257" type="image/jpeg"/>
       <pubDate>Fri, 18 Apr 2025 20:48:04 -0400</pubDate>
     </item>
     <item>
-      <title>Old - Amoeba (2 plays)</title>
+      <title>Old - Amoeba (3 plays)</title>
       <link>https://www.last.fm/music/Old/_/Amoeba</link>
       <guid isPermaLink="false">Frippertron-1745024031--Old---Amoeba</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3dc5644e7c7949bec9ae549566a3ebc9.jpg" length="18257" type="image/jpeg"/>
@@ -343,6 +325,27 @@
       <guid isPermaLink="false">Frippertron-1745097051--Old---Underglass</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3dc5644e7c7949bec9ae549566a3ebc9.jpg" length="18257" type="image/jpeg"/>
       <pubDate>Sat, 19 Apr 2025 17:10:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Old - Thug (3 plays)</title>
+      <link>https://www.last.fm/music/Old/_/Thug</link>
+      <guid isPermaLink="false">Frippertron-1745097526--Old---Thug</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3dc5644e7c7949bec9ae549566a3ebc9.jpg" length="18257" type="image/jpeg"/>
+      <pubDate>Sat, 19 Apr 2025 17:18:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Old - Rid (3 plays)</title>
+      <link>https://www.last.fm/music/Old/_/Rid</link>
+      <guid isPermaLink="false">Frippertron-1745097827--Old---Rid</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3dc5644e7c7949bec9ae549566a3ebc9.jpg" length="18257" type="image/jpeg"/>
+      <pubDate>Sat, 19 Apr 2025 17:23:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Old - Amoeba (3 plays)</title>
+      <link>https://www.last.fm/music/Old/_/Amoeba</link>
+      <guid isPermaLink="false">Frippertron-1745098175--Old---Amoeba</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3dc5644e7c7949bec9ae549566a3ebc9.jpg" length="18257" type="image/jpeg"/>
+      <pubDate>Sat, 19 Apr 2025 17:29:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
