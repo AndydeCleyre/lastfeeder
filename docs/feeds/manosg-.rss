@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 17:39:53 +0000</lastBuildDate>
-    <item>
-      <title>Nevermore - Poison Godmachine (3 plays)</title>
-      <link>https://www.last.fm/music/Nevermore/_/Poison+Godmachine</link>
-      <guid isPermaLink="false">manosg--1744906115--7d093650-89be-4108-842b-ba7f5367504b---Poison Godmachine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8269ebb206a145fb97d2f29b67ba756b.png" length="212615" type="image/png"/>
-      <pubDate>Thu, 17 Apr 2025 12:08:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Nevermore - All Play Dead (3 plays)</title>
-      <link>https://www.last.fm/music/Nevermore/_/All+Play+Dead</link>
-      <guid isPermaLink="false">manosg--1744906491--7d093650-89be-4108-842b-ba7f5367504b---All Play Dead</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8269ebb206a145fb97d2f29b67ba756b.png" length="212615" type="image/png"/>
-      <pubDate>Thu, 17 Apr 2025 12:14:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Apr 2025 07:20:22 +0000</lastBuildDate>
     <item>
       <title>Nevermore - Cenotaph (3 plays)</title>
       <link>https://www.last.fm/music/Nevermore/_/Cenotaph</link>
@@ -320,12 +306,14 @@
       <title>Testament - Hammer Of The Gods (1 play)</title>
       <link>https://www.last.fm/music/Testament/_/Hammer+Of+The+Gods</link>
       <guid isPermaLink="false">manosg--1744995557--05106775-5d45-4131-aecc-1177f813ba11---Hammer Of The Gods</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74a633a5926d62097cc217d4c8f04e7c.jpg" length="27215" type="image/jpeg"/>
       <pubDate>Fri, 18 Apr 2025 12:59:17 -0400</pubDate>
     </item>
     <item>
       <title>Testament - Sins of Omission (1 play)</title>
       <link>https://www.last.fm/music/Testament/_/Sins+of+Omission</link>
       <guid isPermaLink="false">manosg--1744999152--05106775-5d45-4131-aecc-1177f813ba11---Sins of Omission</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5987c6bad6fc81b3284a48c1cb9ef40.jpg" length="24715" type="image/jpeg"/>
       <pubDate>Fri, 18 Apr 2025 13:59:12 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">manosg--1745083021--bdacc37b-8633-4bf8-9dd5-4662ee651aec---At Dawn They Sleep</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/069f9356cea289ff77b302b83373056b.png" length="214164" type="image/png"/>
       <pubDate>Sat, 19 Apr 2025 13:17:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Slayer - Praise of Death (3 plays)</title>
+      <link>https://www.last.fm/music/Slayer/_/Praise+of+Death</link>
+      <guid isPermaLink="false">manosg--1745087199--bdacc37b-8633-4bf8-9dd5-4662ee651aec---Praise of Death</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/069f9356cea289ff77b302b83373056b.png" length="214164" type="image/png"/>
+      <pubDate>Sat, 19 Apr 2025 14:26:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Do It Again (24 plays)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Do+It+Again</link>
+      <guid isPermaLink="false">manosg--1745133163--e01c3376-15fa-40d7-b747-5f219bdefdd7---Do It Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2550608de7d41d2c18bcd9f0db1bc00.png" length="212034" type="image/png"/>
+      <pubDate>Sun, 20 Apr 2025 03:12:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
