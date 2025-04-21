@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 13:43:55 +0000</lastBuildDate>
-    <item>
-      <title>Bathory - Armageddon (5 plays)</title>
-      <link>https://www.last.fm/music/Bathory/_/Armageddon</link>
-      <guid isPermaLink="false">gameofmetal-1745158578--d292b4cd-37bd-4a88-a823-8710f273cc31---Armageddon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1aae744c38e561d100c0d485ca8d8c79.jpg" length="17977" type="image/jpeg"/>
-      <pubDate>Sun, 20 Apr 2025 10:16:18 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Apr 2025 13:56:20 +0000</lastBuildDate>
     <item>
       <title>Bathory - Raise the Dead (4 plays)</title>
       <link>https://www.last.fm/music/Bathory/_/Raise+the+Dead</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1745241648--Nirvana---Something in the Way</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3324e5982f0d81338d2749d5161eb2a8.png" length="150968" type="image/png"/>
       <pubDate>Mon, 21 Apr 2025 09:20:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nirvana - Endless, Nameless (1 play)</title>
+      <link>https://www.last.fm/music/Nirvana/_/Endless,+Nameless</link>
+      <guid isPermaLink="false">gameofmetal-1745242822--Nirvana---Endless, Nameless</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3324e5982f0d81338d2749d5161eb2a8.png" length="150968" type="image/png"/>
+      <pubDate>Mon, 21 Apr 2025 09:40:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
