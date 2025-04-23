@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Apr 2025 19:18:28 +0000</lastBuildDate>
-    <item>
-      <title>The Strokes - Last Nite (3 plays)</title>
-      <link>https://www.last.fm/music/The+Strokes/_/Last+Nite</link>
-      <guid isPermaLink="false">TalonsOfFire-1745348539--f181961b-20f7-459e-89de-920ef03c7ed0---Last Nite</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80f256e56b1043cdbb99da3ac4dd69a0.png" length="81107" type="image/png"/>
-      <pubDate>Tue, 22 Apr 2025 15:02:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ice Cube - Hello (1 play)</title>
-      <link>https://www.last.fm/music/Ice+Cube/_/Hello</link>
-      <guid isPermaLink="false">TalonsOfFire-1745348817--1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2---Hello</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61f70251a5e84e7bce7d29732bec0fa0.jpg" length="27202" type="image/jpeg"/>
-      <pubDate>Tue, 22 Apr 2025 15:06:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Apr 2025 19:38:36 +0000</lastBuildDate>
     <item>
       <title>Pearl Jam - Nothingman (1 play)</title>
       <link>https://www.last.fm/music/Pearl+Jam/_/Nothingman</link>
@@ -271,6 +257,7 @@
       <title>Brian Eno - Spinning Away (2 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/Spinning+Away</link>
       <guid isPermaLink="false">TalonsOfFire-1745430718--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Spinning Away</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ce7e7f19d9bad1ba4d74360571a709f2.png" length="122073" type="image/png"/>
       <pubDate>Wed, 23 Apr 2025 13:51:58 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1745435296--1201e15c-3d8a-48a5-9e3c-d4275b7ed1fc---Pavane</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d9cdd430d467dbb2654e154353e9a8e.jpg" length="45444" type="image/jpeg"/>
       <pubDate>Wed, 23 Apr 2025 15:08:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Maurice Deebank - A Tale From Scriabin's Lonely Trail (1 play)</title>
+      <link>https://www.last.fm/music/Maurice+Deebank/_/A+Tale+From+Scriabin%27s+Lonely+Trail</link>
+      <guid isPermaLink="false">TalonsOfFire-1745435418--1201e15c-3d8a-48a5-9e3c-d4275b7ed1fc---A Tale From Scriabin's Lonely Trail</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d9cdd430d467dbb2654e154353e9a8e.jpg" length="45444" type="image/jpeg"/>
+      <pubDate>Wed, 23 Apr 2025 15:10:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Maurice Deebank - Maestoso Con Anima (1 play)</title>
+      <link>https://www.last.fm/music/Maurice+Deebank/_/Maestoso+Con+Anima</link>
+      <guid isPermaLink="false">TalonsOfFire-1745435979--1201e15c-3d8a-48a5-9e3c-d4275b7ed1fc---Maestoso Con Anima</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d9cdd430d467dbb2654e154353e9a8e.jpg" length="45444" type="image/jpeg"/>
+      <pubDate>Wed, 23 Apr 2025 15:19:39 -0400</pubDate>
     </item>
   </channel>
 </rss>
