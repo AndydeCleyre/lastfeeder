@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 05:22:15 +0000</lastBuildDate>
-    <item>
-      <title>The Smiths - How Soon Is Now? - 2011 Remaster (3 plays)</title>
-      <link>https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster</link>
-      <guid isPermaLink="false">Arcade1996-1745378582--40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27---How Soon Is Now? - 2011 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1795412592fe11f22c78aefb2e60beb9.png" length="82811" type="image/png"/>
-      <pubDate>Tue, 22 Apr 2025 23:23:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>New Order - Leave Me Alone - 2015 Remaster (3 plays)</title>
-      <link>https://www.last.fm/music/New+Order/_/Leave+Me+Alone+-+2015+Remaster</link>
-      <guid isPermaLink="false">Arcade1996-1745378991--New Order---Leave Me Alone - 2015 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3daadc08a5989cf9e2c8fe2477b9e86e.jpg" length="26816" type="image/jpeg"/>
-      <pubDate>Tue, 22 Apr 2025 23:29:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Apr 2025 05:43:34 +0000</lastBuildDate>
     <item>
       <title>The Smiths - Stop Me If You Think You've Heard This One Before - 2011 Remaster (3 plays)</title>
       <link>https://www.last.fm/music/The+Smiths/_/Stop+Me+If+You+Think+You%27ve+Heard+This+One+Before+-+2011+Remaster</link>
@@ -166,6 +152,7 @@
       <title>New Order - Your Silent Face - 2015 Remaster (1 play)</title>
       <link>https://www.last.fm/music/New+Order/_/Your+Silent+Face+-+2015+Remaster</link>
       <guid isPermaLink="false">Arcade1996-1745385713--New Order---Your Silent Face - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3daadc08a5989cf9e2c8fe2477b9e86e.jpg" length="26816" type="image/jpeg"/>
       <pubDate>Wed, 23 Apr 2025 01:21:53 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1745471831--Everything But the Girl---Two Star - 2013 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9ced5d78350ff0dd7313c91929d4942b.jpg" length="20867" type="image/jpeg"/>
       <pubDate>Thu, 24 Apr 2025 01:17:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fleet Foxes - Fool's Errand (3 plays)</title>
+      <link>https://www.last.fm/music/Fleet+Foxes/_/Fool%27s+Errand</link>
+      <guid isPermaLink="false">Arcade1996-1745472079--fa97dd36-1b82-43d7-a6e4-2adeafd59cef---Fool's Errand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b46a8d1ea1a835ab5cebb41e032677e.jpg" length="19527" type="image/jpeg"/>
+      <pubDate>Thu, 24 Apr 2025 01:21:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Moby - Porcelain (7 plays)</title>
+      <link>https://www.last.fm/music/Moby/_/Porcelain</link>
+      <guid isPermaLink="false">Arcade1996-1745473049--8970d868-0723-483b-a75b-51088913d3d4---Porcelain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/645ef9545c4ac26bc61563ca7a2c0bf3.png" length="201078" type="image/png"/>
+      <pubDate>Thu, 24 Apr 2025 01:37:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
