@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Apr 2025 14:22:57 +0000</lastBuildDate>
-    <item>
-      <title>The Menzingers - Boy Blue (5 plays)</title>
-      <link>https://www.last.fm/music/The+Menzingers/_/Boy+Blue</link>
-      <guid isPermaLink="false">gameofmetal-1745861326--3071d829-b9ca-4499-b4f5-74d6d8531aed---Boy Blue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e115d68486dcde60f3c4ac69526d6f.png" length="214002" type="image/png"/>
-      <pubDate>Mon, 28 Apr 2025 13:28:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Menzingers - Bad Catholics (4 plays)</title>
-      <link>https://www.last.fm/music/The+Menzingers/_/Bad+Catholics</link>
-      <guid isPermaLink="false">gameofmetal-1745861526--3071d829-b9ca-4499-b4f5-74d6d8531aed---Bad Catholics</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6e115d68486dcde60f3c4ac69526d6f.png" length="214002" type="image/png"/>
-      <pubDate>Mon, 28 Apr 2025 13:32:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Apr 2025 14:45:08 +0000</lastBuildDate>
     <item>
       <title>The Menzingers - After the Party (3 plays)</title>
       <link>https://www.last.fm/music/The+Menzingers/_/After+the+Party</link>
@@ -187,7 +173,6 @@
       <title>Sarcófago - Desecration of Virgin (7 plays)</title>
       <link>https://www.last.fm/music/Sarc%C3%B3fago/_/Desecration+of+Virgin</link>
       <guid isPermaLink="false">gameofmetal-1745890036--f5003609-10fb-478f-91c3-49277a074a42---Desecration of Virgin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4313d2a26fa5839d26b7d2f578adda59.jpg" length="21015" type="image/jpeg"/>
       <pubDate>Mon, 28 Apr 2025 21:27:16 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">gameofmetal-1745936344--Zao---March</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f726ac35f046423bc2c20c1b53f8adfa.png" length="178425" type="image/png"/>
       <pubDate>Tue, 29 Apr 2025 10:19:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Zao - Ember (3 plays)</title>
+      <link>https://www.last.fm/music/Zao/_/Ember</link>
+      <guid isPermaLink="false">gameofmetal-1745936575--Zao---Ember</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f726ac35f046423bc2c20c1b53f8adfa.png" length="178425" type="image/png"/>
+      <pubDate>Tue, 29 Apr 2025 10:22:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Zao - Ravage Ritual (3 plays)</title>
+      <link>https://www.last.fm/music/Zao/_/Ravage+Ritual</link>
+      <guid isPermaLink="false">gameofmetal-1745936722--Zao---Ravage Ritual</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f726ac35f046423bc2c20c1b53f8adfa.png" length="178425" type="image/png"/>
+      <pubDate>Tue, 29 Apr 2025 10:25:22 -0400</pubDate>
     </item>
   </channel>
 </rss>
