@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 11:18:57 +0000</lastBuildDate>
-    <item>
-      <title>The Cure - Friday I'm in Love (6 plays)</title>
-      <link>https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love</link>
-      <guid isPermaLink="false">manosg--1746011978--69ee3720-a7cb-4402-b48d-a02c366f2bcf---Friday I'm in Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e1f7cafa97e32a9fc549f5cf13061ae.jpg" length="31408" type="image/jpeg"/>
-      <pubDate>Wed, 30 Apr 2025 07:19:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 May 2025 11:38:47 +0000</lastBuildDate>
     <item>
       <title>The Cure - Trust (1 play)</title>
       <link>https://www.last.fm/music/The+Cure/_/Trust</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1746443486--Blood Incantation---Io: Fourth Movement</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2638ff6343f580a231487c232e730a2b.jpg" length="16109" type="image/jpeg"/>
       <pubDate>Mon, 05 May 2025 07:11:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Blood Incantation - Ea: First Movement (1 play)</title>
+      <link>https://www.last.fm/music/Blood+Incantation/_/Ea:+First+Movement</link>
+      <guid isPermaLink="false">manosg--1746443690--Blood Incantation---Ea: First Movement</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2638ff6343f580a231487c232e730a2b.jpg" length="16109" type="image/jpeg"/>
+      <pubDate>Mon, 05 May 2025 07:14:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
