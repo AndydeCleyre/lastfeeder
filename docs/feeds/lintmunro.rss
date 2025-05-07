@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 May 2025 15:46:56 +0000</lastBuildDate>
-    <item>
-      <title>Foxing - Secret History (2 plays)</title>
-      <link>https://www.last.fm/music/Foxing/_/Secret+History</link>
-      <guid isPermaLink="false">lintmunro-1745771738--b990fb27-aeed-4058-ad69-c5a4ae76f750---Secret History</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25191ad1c107ba68769a809bdb1517e6.jpg" length="38951" type="image/jpeg"/>
-      <pubDate>Sun, 27 Apr 2025 12:35:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 May 2025 15:57:02 +0000</lastBuildDate>
     <item>
       <title>Foxing - Hell 99 (2 plays)</title>
       <link>https://www.last.fm/music/Foxing/_/Hell+99</link>
@@ -54,7 +47,6 @@
       <title>Kadavar - El Matador (1 play)</title>
       <link>https://www.last.fm/music/Kadavar/_/El+Matador</link>
       <guid isPermaLink="false">lintmunro-1745781028--Kadavar---El Matador</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90e17d040c9ccddbe4ed312946707f86.jpg" length="15958" type="image/jpeg"/>
       <pubDate>Sun, 27 Apr 2025 15:10:28 -0400</pubDate>
     </item>
     <item>
@@ -292,12 +284,14 @@
       <title>Kneecap - Parful (2 plays)</title>
       <link>https://www.last.fm/music/Kneecap/_/Parful</link>
       <guid isPermaLink="false">lintmunro-1746468082--6ac275dd-eb37-42cf-9a60-6b147320c7be---Parful</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87b0de0f365c87e932b70ff03553603b.jpg" length="20720" type="image/jpeg"/>
       <pubDate>Mon, 05 May 2025 14:01:22 -0400</pubDate>
     </item>
     <item>
       <title>Kneecap - Rhino Ket (2 plays)</title>
       <link>https://www.last.fm/music/Kneecap/_/Rhino+Ket</link>
       <guid isPermaLink="false">lintmunro-1746469011--6ac275dd-eb37-42cf-9a60-6b147320c7be---Rhino Ket</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87b0de0f365c87e932b70ff03553603b.jpg" length="20720" type="image/jpeg"/>
       <pubDate>Mon, 05 May 2025 14:16:51 -0400</pubDate>
     </item>
     <item>
@@ -311,6 +305,7 @@
       <title>Kneecap - Better Way To Live (3 plays)</title>
       <link>https://www.last.fm/music/Kneecap/_/Better+Way+To+Live</link>
       <guid isPermaLink="false">lintmunro-1746480341--Kneecap---Better Way To Live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/87b0de0f365c87e932b70ff03553603b.jpg" length="20720" type="image/jpeg"/>
       <pubDate>Mon, 05 May 2025 17:25:41 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +349,13 @@
       <guid isPermaLink="false">lintmunro-1746632371--20bda792-eda9-487e-a46d-84ba15832ed2---A temple by the river</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42391cd3a9cfac455d34e017273cfc06.jpg" length="20100" type="image/jpeg"/>
       <pubDate>Wed, 07 May 2025 11:39:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>maud the moth - Exuviae (1 play)</title>
+      <link>https://www.last.fm/music/maud+the+moth/_/Exuviae</link>
+      <guid isPermaLink="false">lintmunro-1746632691--20bda792-eda9-487e-a46d-84ba15832ed2---Exuviae</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42391cd3a9cfac455d34e017273cfc06.jpg" length="20100" type="image/jpeg"/>
+      <pubDate>Wed, 07 May 2025 11:44:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
