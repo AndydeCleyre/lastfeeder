@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 19:41:09 +0000</lastBuildDate>
-    <item>
-      <title>Kadavar - El Matador (1 play)</title>
-      <link>https://www.last.fm/music/Kadavar/_/El+Matador</link>
-      <guid isPermaLink="false">lintmunro-1745781028--Kadavar---El Matador</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90e17d040c9ccddbe4ed312946707f86.jpg" length="15958" type="image/jpeg"/>
-      <pubDate>Sun, 27 Apr 2025 15:10:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>Brass Camel - First Contact (1 play)</title>
-      <link>https://www.last.fm/music/Brass+Camel/_/First+Contact</link>
-      <guid isPermaLink="false">lintmunro-1745781430--85f412a0-2a11-4e5a-92b2-6d7fd65b0c3a---First Contact</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb98252a92d9e7e0f6368aac59acc5d6.jpg" length="21744" type="image/jpeg"/>
-      <pubDate>Sun, 27 Apr 2025 15:17:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>Brass Camel - Dinger's in the Back (1 play)</title>
-      <link>https://www.last.fm/music/Brass+Camel/_/Dinger%27s+in+the+Back</link>
-      <guid isPermaLink="false">lintmunro-1745781545--85f412a0-2a11-4e5a-92b2-6d7fd65b0c3a---Dinger's in the Back</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb98252a92d9e7e0f6368aac59acc5d6.jpg" length="21744" type="image/jpeg"/>
-      <pubDate>Sun, 27 Apr 2025 15:19:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Havukruunu - Yönsynty (1 play)</title>
-      <link>https://www.last.fm/music/Havukruunu/_/Y%C3%B6nsynty</link>
-      <guid isPermaLink="false">lintmunro-1745961135--7f297ac5-95ee-40f2-8854-1fc8117bd4f4---Yönsynty</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30dbf2e0a2e9cc3e8631db107560dd8f.jpg" length="27082" type="image/jpeg"/>
-      <pubDate>Tue, 29 Apr 2025 17:12:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 May 2025 20:42:10 +0000</lastBuildDate>
     <item>
       <title>Faidra - The Depths (1 play)</title>
       <link>https://www.last.fm/music/Faidra/_/The+Depths</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">lintmunro-1746652599--Cave Sermon---Hopeless Magic</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61d358487a77b4c414fa35683a479fd3.jpg" length="15865" type="image/jpeg"/>
       <pubDate>Wed, 07 May 2025 17:16:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cave Sermon - Arrows and Clay (1 play)</title>
+      <link>https://www.last.fm/music/Cave+Sermon/_/Arrows+and+Clay</link>
+      <guid isPermaLink="false">lintmunro-1746715294--Cave Sermon---Arrows and Clay</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/61d358487a77b4c414fa35683a479fd3.jpg" length="15865" type="image/jpeg"/>
+      <pubDate>Thu, 08 May 2025 10:41:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Moses Sumney - I Like It I Like It (1 play)</title>
+      <link>https://www.last.fm/music/Moses+Sumney/_/I+Like+It+I+Like+It</link>
+      <guid isPermaLink="false">lintmunro-1746822634--Moses Sumney---I Like It I Like It</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66b8e3ec555f6665d2a029890fc23614.png" length="183072" type="image/png"/>
+      <pubDate>Fri, 09 May 2025 16:30:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bludgeoned by Deformity - False Deliverance (1 play)</title>
+      <link>https://www.last.fm/music/Bludgeoned+by+Deformity/_/False+Deliverance</link>
+      <guid isPermaLink="false">lintmunro-1746822890--Bludgeoned by Deformity---False Deliverance</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e22bebdeda4ea2898c24835522c23a1.jpg" length="21633" type="image/jpeg"/>
+      <pubDate>Fri, 09 May 2025 16:34:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Regina - Would You Like Some Fries with That? (1 play)</title>
+      <link>https://www.last.fm/music/Regina/_/Would+You+Like+Some+Fries+with+That%3F</link>
+      <guid isPermaLink="false">lintmunro-1746823087--Regina---Would You Like Some Fries with That?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 09 May 2025 16:38:07 -0400</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 May 2025 20:25:48 +0000</lastBuildDate>
-    <item>
-      <title>ODESZA - Equal x Boy (Live) (2 plays)</title>
-      <link>https://www.last.fm/music/ODESZA/_/Equal+x+Boy+(Live)</link>
-      <guid isPermaLink="false">ddgromit-1746810401--2e222fce-02ae-4221-b1c6-3c3242b423b6---Equal x Boy (Live)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9add86eac5aa56f7e36f916e4095380.gif" length="7302903" type="image/gif"/>
-      <pubDate>Fri, 09 May 2025 13:06:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODESZA - All My Life (Live) (2 plays)</title>
-      <link>https://www.last.fm/music/ODESZA/_/All+My+Life+(Live)</link>
-      <guid isPermaLink="false">ddgromit-1746810670--2e222fce-02ae-4221-b1c6-3c3242b423b6---All My Life (Live)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9add86eac5aa56f7e36f916e4095380.gif" length="7302903" type="image/gif"/>
-      <pubDate>Fri, 09 May 2025 13:11:10 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 May 2025 20:43:18 +0000</lastBuildDate>
     <item>
       <title>ODESZA - Better Now (Live) (2 plays)</title>
       <link>https://www.last.fm/music/ODESZA/_/Better+Now+(Live)</link>
@@ -299,12 +285,14 @@
       <title>SG Lewis - Sunsets - Pt. 2 (1 play)</title>
       <link>https://www.last.fm/music/SG+Lewis/_/Sunsets+-+Pt.+2</link>
       <guid isPermaLink="false">ddgromit-1746820481--ab413f29-71af-4f7f-8ca8-5ece68beeaf3---Sunsets - Pt. 2</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af5ae2fb4b81758f338bdebd631420dc.png" length="145301" type="image/png"/>
       <pubDate>Fri, 09 May 2025 15:54:41 -0400</pubDate>
     </item>
     <item>
       <title>Polar Inc. - Pastel (3 plays)</title>
       <link>https://www.last.fm/music/Polar+Inc./_/Pastel</link>
       <guid isPermaLink="false">ddgromit-1746820698--Polar Inc.---Pastel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d702807806c64e0f9848e017dd79b395.jpg" length="26707" type="image/jpeg"/>
       <pubDate>Fri, 09 May 2025 15:58:18 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +343,19 @@
       <guid isPermaLink="false">ddgromit-1746822085--2e222fce-02ae-4221-b1c6-3c3242b423b6---How Did I Get Here</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee26d039d6495895f5e952d4df35d9.jpg" length="11490" type="image/jpeg"/>
       <pubDate>Fri, 09 May 2025 16:21:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Big Wild - Awaken (4 plays)</title>
+      <link>https://www.last.fm/music/Big+Wild/_/Awaken</link>
+      <guid isPermaLink="false">ddgromit-1746822217--dc72d14d-28ce-4663-842c-f0b083b4a83f---Awaken</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8235dab6027e15473e5c1f6abe24855.jpg" length="12824" type="image/jpeg"/>
+      <pubDate>Fri, 09 May 2025 16:23:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Melvv - Vibe (3 plays)</title>
+      <link>https://www.last.fm/music/Melvv/_/Vibe</link>
+      <guid isPermaLink="false">ddgromit-1746822400--4b8458bd-8a3f-4f79-9014-26bb7d347350---Vibe</guid>
+      <pubDate>Fri, 09 May 2025 16:26:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
