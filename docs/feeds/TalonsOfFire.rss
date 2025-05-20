@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 19:21:45 +0000</lastBuildDate>
-    <item>
-      <title>Matt Berninger - Loved So Little (2 plays)</title>
-      <link>https://www.last.fm/music/Matt+Berninger/_/Loved+So+Little</link>
-      <guid isPermaLink="false">TalonsOfFire-1747410794--991813f5-27c6-4ff3-88dd-90e750dad545---Loved So Little</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2f5c1d3590ac2c83f357d0acb1a3f8a.jpg" length="15006" type="image/jpeg"/>
-      <pubDate>Fri, 16 May 2025 11:53:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Matt Berninger - Silver Springs (1 play)</title>
-      <link>https://www.last.fm/music/Matt+Berninger/_/Silver+Springs</link>
-      <guid isPermaLink="false">TalonsOfFire-1747411290--991813f5-27c6-4ff3-88dd-90e750dad545---Silver Springs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2f5c1d3590ac2c83f357d0acb1a3f8a.jpg" length="15006" type="image/jpeg"/>
-      <pubDate>Fri, 16 May 2025 12:01:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 May 2025 19:39:19 +0000</lastBuildDate>
     <item>
       <title>Matt Berninger - Oh Dearie (2 plays)</title>
       <link>https://www.last.fm/music/Matt+Berninger/_/Oh+Dearie</link>
@@ -131,6 +117,7 @@
       <title>Everything But the Girl - Five Fathoms - 2015 Remaster (1 play)</title>
       <link>https://www.last.fm/music/Everything+But+the+Girl/_/Five+Fathoms+-+2015+Remaster</link>
       <guid isPermaLink="false">TalonsOfFire-1747594200--Everything But the Girl---Five Fathoms - 2015 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8e9d3da1f05f8c449cb48d9916987bd.jpg" length="22165" type="image/jpeg"/>
       <pubDate>Sun, 18 May 2025 14:50:00 -0400</pubDate>
     </item>
     <item>
@@ -312,7 +299,6 @@
       <title>Ulver - Magic Hollow (5 plays)</title>
       <link>https://www.last.fm/music/Ulver/_/Magic+Hollow</link>
       <guid isPermaLink="false">TalonsOfFire-1747754234--7d209631-ccb8-4a87-8516-64abe4c22dba---Magic Hollow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c84310aecb9744fcbcfc9fdf28b4218d.png" length="212978" type="image/png"/>
       <pubDate>Tue, 20 May 2025 11:17:14 -0400</pubDate>
     </item>
     <item>
@@ -351,11 +337,25 @@
       <pubDate>Tue, 20 May 2025 14:57:32 -0400</pubDate>
     </item>
     <item>
+      <title>Panopticon - Norwegian Nights (8 plays)</title>
+      <link>https://www.last.fm/music/Panopticon/_/Norwegian+Nights</link>
+      <guid isPermaLink="false">TalonsOfFire-1747767462--4f00bd65-db98-4f18-85ab-a3a6b8ad32a0---Norwegian Nights</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4d0c8ce54da487ec8e9bfd0711dff4f.png" length="211594" type="image/png"/>
+      <pubDate>Tue, 20 May 2025 14:57:42 -0400</pubDate>
+    </item>
+    <item>
       <title>久石譲 - Nahoko (Her Destiny) (3 plays)</title>
       <link>https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/Nahoko+(Her+Destiny)</link>
       <guid isPermaLink="false">TalonsOfFire-1747767792--44c64a30-1d58-49c5-b314-6e02fba49526---Nahoko (Her Destiny)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5149d53bd67c48e8c86c72c749ad08bc.jpg" length="23905" type="image/jpeg"/>
       <pubDate>Tue, 20 May 2025 15:03:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tangerine Dream - Quichotte, Pt. I - Live (3 plays)</title>
+      <link>https://www.last.fm/music/Tangerine+Dream/_/Quichotte,+Pt.+I+-+Live</link>
+      <guid isPermaLink="false">TalonsOfFire-1747767837--Tangerine Dream---Quichotte, Pt. I - Live</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fcccb58c4ff45a8b1261ed5e5051cf9.jpg" length="25059" type="image/jpeg"/>
+      <pubDate>Tue, 20 May 2025 15:03:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
