@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 12:41:48 +0000</lastBuildDate>
-    <item>
-      <title>Randy Newman - Old Man (4 plays)</title>
-      <link>https://www.last.fm/music/Randy+Newman/_/Old+Man</link>
-      <guid isPermaLink="false">Frippertron-1747995162--da7bb7d8-557d-4635-9ca1-e6e985525bd5---Old Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68b3837ee15d334a059b72f65023f7ff.jpg" length="29252" type="image/jpeg"/>
-      <pubDate>Fri, 23 May 2025 06:12:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 May 2025 13:15:15 +0000</lastBuildDate>
     <item>
       <title>Randy Newman - Political Science (6 plays)</title>
       <link>https://www.last.fm/music/Randy+Newman/_/Political+Science</link>
@@ -103,7 +96,7 @@
       <pubDate>Fri, 23 May 2025 17:10:28 -0400</pubDate>
     </item>
     <item>
-      <title>geordie greep - The Magician (62 plays)</title>
+      <title>geordie greep - The Magician (63 plays)</title>
       <link>https://www.last.fm/music/geordie+greep/_/The+Magician</link>
       <guid isPermaLink="false">Frippertron-1748035096--geordie greep---The Magician</guid>
       <pubDate>Fri, 23 May 2025 17:18:16 -0400</pubDate>
@@ -303,6 +296,7 @@
       <title>Hum - The Scientists (1 play)</title>
       <link>https://www.last.fm/music/Hum/_/The+Scientists</link>
       <guid isPermaLink="false">Frippertron-1748083505--Hum---The Scientists</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9eeae58969e85ea2d205a3262b717cbd.jpg" length="32589" type="image/jpeg"/>
       <pubDate>Sat, 24 May 2025 06:45:05 -0400</pubDate>
     </item>
     <item>
@@ -344,6 +338,12 @@
       <guid isPermaLink="false">Frippertron-1748089609--95bab79d-e5e8-4d7a-9368-d51430763c69---I'm Already Here</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8a219eb7099774fdee37ae7c0dfce264.png" length="36302" type="image/png"/>
       <pubDate>Sat, 24 May 2025 08:26:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>geordie greep - The Magician (63 plays)</title>
+      <link>https://www.last.fm/music/geordie+greep/_/The+Magician</link>
+      <guid isPermaLink="false">Frippertron-1748090293--geordie greep---The Magician</guid>
+      <pubDate>Sat, 24 May 2025 08:38:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
