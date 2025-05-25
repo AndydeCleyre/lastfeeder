@@ -7,30 +7,16 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 17:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 17:52:30 +0000</lastBuildDate>
     <item>
-      <title>Varathron - Dismal King (2 plays)</title>
-      <link>https://www.last.fm/music/Varathron/_/Dismal+King</link>
-      <guid isPermaLink="false">gameofmetal-1748142701--fe54b9df-01d8-4126-a2e9-df47dda9a18a---Dismal King</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71529d110bdaefdaa81147d91d16dd7e.jpg" length="33054" type="image/jpeg"/>
-      <pubDate>Sat, 24 May 2025 23:11:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Varathron - Beyond the Darkness (1 play)</title>
-      <link>https://www.last.fm/music/Varathron/_/Beyond+the+Darkness</link>
-      <guid isPermaLink="false">gameofmetal-1748142908--fe54b9df-01d8-4126-a2e9-df47dda9a18a---Beyond the Darkness</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71529d110bdaefdaa81147d91d16dd7e.jpg" length="33054" type="image/jpeg"/>
-      <pubDate>Sat, 24 May 2025 23:15:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>Varathron - Demoniac Abysmal Realms (1 play)</title>
+      <title>Varathron - Demoniac Abysmal Realms (2 plays)</title>
       <link>https://www.last.fm/music/Varathron/_/Demoniac+Abysmal+Realms</link>
       <guid isPermaLink="false">gameofmetal-1748143027--fe54b9df-01d8-4126-a2e9-df47dda9a18a---Demoniac Abysmal Realms</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71529d110bdaefdaa81147d91d16dd7e.jpg" length="33054" type="image/jpeg"/>
       <pubDate>Sat, 24 May 2025 23:17:07 -0400</pubDate>
     </item>
     <item>
-      <title>Varathron - Lord of Illusions (1 play)</title>
+      <title>Varathron - Lord of Illusions (2 plays)</title>
       <link>https://www.last.fm/music/Varathron/_/Lord+of+Illusions</link>
       <guid isPermaLink="false">gameofmetal-1748143374--fe54b9df-01d8-4126-a2e9-df47dda9a18a---Lord of Illusions</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71529d110bdaefdaa81147d91d16dd7e.jpg" length="33054" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1748194589--fe54b9df-01d8-4126-a2e9-df47dda9a18a---Dismal King</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71529d110bdaefdaa81147d91d16dd7e.jpg" length="33054" type="image/jpeg"/>
       <pubDate>Sun, 25 May 2025 13:36:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Varathron - Beyond the Darkness (2 plays)</title>
+      <link>https://www.last.fm/music/Varathron/_/Beyond+the+Darkness</link>
+      <guid isPermaLink="false">gameofmetal-1748194796--fe54b9df-01d8-4126-a2e9-df47dda9a18a---Beyond the Darkness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71529d110bdaefdaa81147d91d16dd7e.jpg" length="33054" type="image/jpeg"/>
+      <pubDate>Sun, 25 May 2025 13:39:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Varathron - Demoniac Abysmal Realms (2 plays)</title>
+      <link>https://www.last.fm/music/Varathron/_/Demoniac+Abysmal+Realms</link>
+      <guid isPermaLink="false">gameofmetal-1748194914--fe54b9df-01d8-4126-a2e9-df47dda9a18a---Demoniac Abysmal Realms</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/71529d110bdaefdaa81147d91d16dd7e.jpg" length="33054" type="image/jpeg"/>
+      <pubDate>Sun, 25 May 2025 13:41:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
