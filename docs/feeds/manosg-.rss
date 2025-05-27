@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 15:44:15 +0000</lastBuildDate>
-    <item>
-      <title>The Cure - Alone (7 plays)</title>
-      <link>https://www.last.fm/music/The+Cure/_/Alone</link>
-      <guid isPermaLink="false">manosg--1748026893--69ee3720-a7cb-4402-b48d-a02c366f2bcf---Alone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/434fa54e5459058dc64ae00933bb9511.png" length="109121" type="image/png"/>
-      <pubDate>Fri, 23 May 2025 15:01:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Metallica - Ain't My Bitch (4 plays)</title>
-      <link>https://www.last.fm/music/Metallica/_/Ain%27t+My+Bitch</link>
-      <guid isPermaLink="false">manosg--1748095984--65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab---Ain't My Bitch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c32d240ba59d4491ba5ce25939cba1ab.png" length="167417" type="image/png"/>
-      <pubDate>Sat, 24 May 2025 10:13:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 May 2025 15:56:01 +0000</lastBuildDate>
     <item>
       <title>Metallica - 2 X 4 (4 plays)</title>
       <link>https://www.last.fm/music/Metallica/_/2+X+4</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1748360071--66fc5bf8-daa4-4241-b378-9bc9077939d2---Mantra</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5a5721a08264207c2df36bf07454005.jpg" length="48588" type="image/jpeg"/>
       <pubDate>Tue, 27 May 2025 11:34:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tool - Schism (1 play)</title>
+      <link>https://www.last.fm/music/Tool/_/Schism</link>
+      <guid isPermaLink="false">manosg--1748360144--66fc5bf8-daa4-4241-b378-9bc9077939d2---Schism</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5a5721a08264207c2df36bf07454005.jpg" length="48588" type="image/jpeg"/>
+      <pubDate>Tue, 27 May 2025 11:35:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tool - Parabol (1 play)</title>
+      <link>https://www.last.fm/music/Tool/_/Parabol</link>
+      <guid isPermaLink="false">manosg--1748360680--66fc5bf8-daa4-4241-b378-9bc9077939d2---Parabol</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b5a5721a08264207c2df36bf07454005.jpg" length="48588" type="image/jpeg"/>
+      <pubDate>Tue, 27 May 2025 11:44:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
