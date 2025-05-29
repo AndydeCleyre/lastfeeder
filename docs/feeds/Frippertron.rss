@@ -7,23 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 04:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 05:23:48 +0000</lastBuildDate>
     <item>
-      <title>Kayo Dot - The Awkward Wind Wheel (130 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/The+Awkward+Wind+Wheel</link>
-      <guid isPermaLink="false">Frippertron-1748429208--3979eee5-c72a-4b0a-9191-a0243881250a---The Awkward Wind Wheel</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/029299e78be8dfbb1d8749323059fdf3.jpg" length="38157" type="image/jpeg"/>
-      <pubDate>Wed, 28 May 2025 06:46:48 -0400</pubDate>
-    </item>
-    <item>
-      <title>Swans - The Healers (1 play)</title>
-      <link>https://www.last.fm/music/Swans/_/The+Healers</link>
-      <guid isPermaLink="false">Frippertron-1748441320--3285dc48-9505-469d-ad8a-bdf2d3dba632---The Healers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f43311b5b5e7de88e722be5ec6078404.jpg" length="18853" type="image/jpeg"/>
-      <pubDate>Wed, 28 May 2025 10:08:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Swans - I Am A Tower (1 play)</title>
+      <title>Swans - I Am A Tower (2 plays)</title>
       <link>https://www.last.fm/music/Swans/_/I+Am+A+Tower</link>
       <guid isPermaLink="false">Frippertron-1748442630--3285dc48-9505-469d-ad8a-bdf2d3dba632---I Am A Tower</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f43311b5b5e7de88e722be5ec6078404.jpg" length="18853" type="image/jpeg"/>
@@ -350,6 +336,19 @@
       <guid isPermaLink="false">Frippertron-1748493840--9434776a-bdd7-4f58-b719-b5d95b9d2a11---...My French</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8100872cf2438a1becc6f64859382cea.png" length="64893" type="image/png"/>
       <pubDate>Thu, 29 May 2025 00:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - The Healers (2 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/The+Healers</link>
+      <guid isPermaLink="false">Frippertron-1748494282--3285dc48-9505-469d-ad8a-bdf2d3dba632---The Healers</guid>
+      <pubDate>Thu, 29 May 2025 00:51:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swans - I Am A Tower (2 plays)</title>
+      <link>https://www.last.fm/music/Swans/_/I+Am+A+Tower</link>
+      <guid isPermaLink="false">Frippertron-1748495588--3285dc48-9505-469d-ad8a-bdf2d3dba632---I Am A Tower</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f43311b5b5e7de88e722be5ec6078404.jpg" length="18853" type="image/jpeg"/>
+      <pubDate>Thu, 29 May 2025 01:13:08 -0400</pubDate>
     </item>
   </channel>
 </rss>
