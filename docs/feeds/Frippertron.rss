@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 07:25:43 +0000</lastBuildDate>
-    <item>
-      <title>Boris - BUZZ-IN (3 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/BUZZ-IN</link>
-      <guid isPermaLink="false">Frippertron-1749175738--590702b8-e5fd-43f7-9472-5f062f8e311e---BUZZ-IN</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/927d36b42c90925b9b3c35e190d978c1.jpg" length="13733" type="image/jpeg"/>
-      <pubDate>Thu, 05 Jun 2025 22:08:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Boris - Laser Beam (3 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/Laser+Beam</link>
-      <guid isPermaLink="false">Frippertron-1749175915--590702b8-e5fd-43f7-9472-5f062f8e311e---Laser Beam</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/927d36b42c90925b9b3c35e190d978c1.jpg" length="13733" type="image/jpeg"/>
-      <pubDate>Thu, 05 Jun 2025 22:11:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Jun 2025 07:40:57 +0000</lastBuildDate>
     <item>
       <title>Boris - Vein (2 plays)</title>
       <link>https://www.last.fm/music/Boris/_/Vein</link>
@@ -352,6 +338,19 @@
       <link>https://www.last.fm/music/The+Beautiful+South/_/Song+For+Whoever</link>
       <guid isPermaLink="false">Frippertron-1749194245--eec43ebc-815a-4105-b1cb-205b8f57b4fa---Song For Whoever</guid>
       <pubDate>Fri, 06 Jun 2025 03:17:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Symmetrical Arizona (95 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Symmetrical+Arizona</link>
+      <guid isPermaLink="false">Frippertron-1749194683--3979eee5-c72a-4b0a-9191-a0243881250a---Symmetrical Arizona</guid>
+      <pubDate>Fri, 06 Jun 2025 03:24:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Aura on an Asylum Wall (69 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Aura+on+an+Asylum+Wall</link>
+      <guid isPermaLink="false">Frippertron-1749195343--3979eee5-c72a-4b0a-9191-a0243881250a---Aura on an Asylum Wall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jun 2025 03:35:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
