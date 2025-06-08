@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Jun 2025 12:43:08 +0000</lastBuildDate>
-    <item>
-      <title>Lifeguard - Like You'll Lose (1 play)</title>
-      <link>https://www.last.fm/music/Lifeguard/_/Like+You%27ll+Lose</link>
-      <guid isPermaLink="false">Arcade1996-1749130484--48accb6d-eafc-46db-9f59-c4838a63e2e2---Like You'll Lose</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/122d3b5a59fd9cbc4c026accf608b99a.jpg" length="21742" type="image/jpeg"/>
-      <pubDate>Thu, 05 Jun 2025 09:34:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Coldplay - Magic (3 plays)</title>
-      <link>https://www.last.fm/music/Coldplay/_/Magic</link>
-      <guid isPermaLink="false">Arcade1996-1749132677--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Magic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7be747d414943fdc3f4de682eac3c7c.jpg" length="15471" type="image/jpeg"/>
-      <pubDate>Thu, 05 Jun 2025 10:11:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Jun 2025 13:15:10 +0000</lastBuildDate>
     <item>
       <title>Tonic - If You Could Only See (4 plays)</title>
       <link>https://www.last.fm/music/Tonic/_/If+You+Could+Only+See</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1749386299--ddfa5ecf-fa16-4941-9573-a7897424d33b---Blitzkrieg Bop</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa80f9f3c3622024887a6708e5b4b6b0.jpg" length="31532" type="image/jpeg"/>
       <pubDate>Sun, 08 Jun 2025 08:38:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Daníel Hjálmtýsson - Beat on the Brat (1 play)</title>
+      <link>https://www.last.fm/music/Dan%C3%ADel+Hj%C3%A1lmt%C3%BDsson/_/Beat+on+the+Brat</link>
+      <guid isPermaLink="false">Arcade1996-1749386476--Daníel Hjálmtýsson---Beat on the Brat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa80f9f3c3622024887a6708e5b4b6b0.jpg" length="31532" type="image/jpeg"/>
+      <pubDate>Sun, 08 Jun 2025 08:41:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>Deathchant - Judy is a Punk (1 play)</title>
+      <link>https://www.last.fm/music/Deathchant/_/Judy+is+a+Punk</link>
+      <guid isPermaLink="false">Arcade1996-1749386682--d26a93c7-224d-4224-bb3c-539f286786e8---Judy is a Punk</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa80f9f3c3622024887a6708e5b4b6b0.jpg" length="31532" type="image/jpeg"/>
+      <pubDate>Sun, 08 Jun 2025 08:44:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
