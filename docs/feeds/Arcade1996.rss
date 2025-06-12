@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Jun 2025 14:24:18 +0000</lastBuildDate>
-    <item>
-      <title>Graham Hunt - Frog in the Shower (1 play)</title>
-      <link>https://www.last.fm/music/Graham+Hunt/_/Frog+in+the+Shower</link>
-      <guid isPermaLink="false">Arcade1996-1749602640--85940508-c168-4657-8788-e418cd4fcbde---Frog in the Shower</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 10 Jun 2025 20:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Graham Hunt - East Side Screamer (1 play)</title>
-      <link>https://www.last.fm/music/Graham+Hunt/_/East+Side+Screamer</link>
-      <guid isPermaLink="false">Arcade1996-1749602866--85940508-c168-4657-8788-e418cd4fcbde---East Side Screamer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 10 Jun 2025 20:47:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Jun 2025 14:47:56 +0000</lastBuildDate>
     <item>
       <title>Graham Hunt - Been There Done That (1 play)</title>
       <link>https://www.last.fm/music/Graham+Hunt/_/Been+There+Done+That</link>
@@ -54,7 +40,6 @@
       <title>Stereo MC's - Connected (10 plays)</title>
       <link>https://www.last.fm/music/Stereo+MC%27s/_/Connected</link>
       <guid isPermaLink="false">Arcade1996-1749654836--5e0ca89b-f5a6-4034-af31-17f10ff5a7d2---Connected</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5e48c923d6899f67650c45b24fea7e3.jpg" length="35950" type="image/jpeg"/>
       <pubDate>Wed, 11 Jun 2025 11:13:56 -0400</pubDate>
     </item>
     <item>
@@ -229,7 +214,6 @@
       <title>Spacehog - In the Meantime (1 play)</title>
       <link>https://www.last.fm/music/Spacehog/_/In+the+Meantime</link>
       <guid isPermaLink="false">Arcade1996-1749723370--e9022873-c482-46a0-bb78-33c15fc65b3b---In the Meantime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5470b063405a39415959415595637f80.jpg" length="41047" type="image/jpeg"/>
       <pubDate>Thu, 12 Jun 2025 06:16:10 -0400</pubDate>
     </item>
     <item>
@@ -352,11 +336,24 @@
       <pubDate>Thu, 12 Jun 2025 09:44:15 -0400</pubDate>
     </item>
     <item>
-      <title>Soundgarden - My Wave (1 play)</title>
+      <title>Soundgarden - My Wave (2 plays)</title>
       <link>https://www.last.fm/music/Soundgarden/_/My+Wave</link>
       <guid isPermaLink="false">Arcade1996-1749736122--153c9281-268f-4cf3-8938-f5a4593e5df4---My Wave</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1397dc507209cbdbe5b8575fbafa9878.png" length="111010" type="image/png"/>
       <pubDate>Thu, 12 Jun 2025 09:48:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Third Eye Blind - Graduate (1 play)</title>
+      <link>https://www.last.fm/music/Third+Eye+Blind/_/Graduate</link>
+      <guid isPermaLink="false">Arcade1996-1749738209--92a42e82-b36f-4308-82c1-68bad2e03c89---Graduate</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1993e45b36772b764495786820152ab.jpg" length="13904" type="image/jpeg"/>
+      <pubDate>Thu, 12 Jun 2025 10:23:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dick Dale &amp; His Del-Tones - Misirlou (2 plays)</title>
+      <link>https://www.last.fm/music/Dick+Dale+&amp;+His+Del-Tones/_/Misirlou</link>
+      <guid isPermaLink="false">Arcade1996-1749738397--Dick Dale &amp; His Del-Tones---Misirlou</guid>
+      <pubDate>Thu, 12 Jun 2025 10:26:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
