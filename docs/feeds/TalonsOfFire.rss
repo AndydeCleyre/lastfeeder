@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 20:42:10 +0000</lastBuildDate>
-    <item>
-      <title>The Gathering - Broken Glass (2 plays)</title>
-      <link>https://www.last.fm/music/The+Gathering/_/Broken+Glass</link>
-      <guid isPermaLink="false">TalonsOfFire-1749755228--5dd705e6-f1a8-46da-90db-de68ee4a3d64---Broken Glass</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e8693dd28904e1ecef65faf5d98cead.png" length="182166" type="image/png"/>
-      <pubDate>Thu, 12 Jun 2025 15:07:08 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Gathering - Souvenirs (3 plays)</title>
-      <link>https://www.last.fm/music/The+Gathering/_/Souvenirs</link>
-      <guid isPermaLink="false">TalonsOfFire-1749755657--5dd705e6-f1a8-46da-90db-de68ee4a3d64---Souvenirs</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e8693dd28904e1ecef65faf5d98cead.png" length="182166" type="image/png"/>
-      <pubDate>Thu, 12 Jun 2025 15:14:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Jun 2025 20:54:09 +0000</lastBuildDate>
     <item>
       <title>The Gathering - Even the Spirits Are Afraid (3 plays)</title>
       <link>https://www.last.fm/music/The+Gathering/_/Even+the+Spirits+Are+Afraid</link>
@@ -271,7 +257,6 @@
       <title>Lush - Desire Lines (1 play)</title>
       <link>https://www.last.fm/music/Lush/_/Desire+Lines</link>
       <guid isPermaLink="false">TalonsOfFire-1749844055--Lush---Desire Lines</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2208daedab2a4be7cb99bd8180634f95.png" length="169388" type="image/png"/>
       <pubDate>Fri, 13 Jun 2025 15:47:35 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">TalonsOfFire-1749933405--Brian Wilson---On a Holiday</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3755e6aa9449420097dd54f2b9092333.png" length="100359" type="image/png"/>
       <pubDate>Sat, 14 Jun 2025 16:36:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Brian Wilson - Wind Chimes (3 plays)</title>
+      <link>https://www.last.fm/music/Brian+Wilson/_/Wind+Chimes</link>
+      <guid isPermaLink="false">TalonsOfFire-1749933621--Brian Wilson---Wind Chimes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3755e6aa9449420097dd54f2b9092333.png" length="100359" type="image/png"/>
+      <pubDate>Sat, 14 Jun 2025 16:40:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Brian Wilson - Mrs. O'Leary's Cow (3 plays)</title>
+      <link>https://www.last.fm/music/Brian+Wilson/_/Mrs.+O%27Leary%27s+Cow</link>
+      <guid isPermaLink="false">TalonsOfFire-1749933794--Brian Wilson---Mrs. O'Leary's Cow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3755e6aa9449420097dd54f2b9092333.png" length="100359" type="image/png"/>
+      <pubDate>Sat, 14 Jun 2025 16:43:14 -0400</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/lintmunro.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 20:42:28 +0000</lastBuildDate>
-    <item>
-      <title>Contention - I.C.B.M. (2 plays)</title>
-      <link>https://www.last.fm/music/Contention/_/I.C.B.M.</link>
-      <guid isPermaLink="false">lintmunro-1749677730--Contention---I.C.B.M.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cf705cae59622efb5927faf81f8ae240.jpg" length="15192" type="image/jpeg"/>
-      <pubDate>Wed, 11 Jun 2025 17:35:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Jun 2025 20:53:30 +0000</lastBuildDate>
     <item>
       <title>Rivers of Nihil - More? (2 plays)</title>
       <link>https://www.last.fm/music/Rivers+of+Nihil/_/More%3F</link>
@@ -103,21 +96,19 @@
       <title>The Dillinger Escape Plan - Lurch (2 plays)</title>
       <link>https://www.last.fm/music/The+Dillinger+Escape+Plan/_/Lurch</link>
       <guid isPermaLink="false">lintmunro-1749690158--1bc41dff-5397-4c53-bb50-469d2c277197---Lurch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94e2f87e09510404df6d7404bb4c28c9.jpg" length="7536" type="image/jpeg"/>
       <pubDate>Wed, 11 Jun 2025 21:02:38 -0400</pubDate>
     </item>
     <item>
       <title>Mouse on the Keys - Plateau (3 plays)</title>
       <link>https://www.last.fm/music/Mouse+on+the+Keys/_/Plateau</link>
       <guid isPermaLink="false">lintmunro-1749691223--Mouse on the Keys---Plateau</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a99a75a7c683434abceee09156f9db04.jpg" length="13014" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a99a75a7c683434abceee09156f9db04.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Wed, 11 Jun 2025 21:20:23 -0400</pubDate>
     </item>
     <item>
       <title>Mouse on the Keys - Plateau (3 plays)</title>
       <link>https://www.last.fm/music/Mouse+on+the+Keys/_/Plateau</link>
       <guid isPermaLink="false">lintmunro-1749691243--Mouse on the Keys---Plateau</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a99a75a7c683434abceee09156f9db04.jpg" length="13014" type="image/jpeg"/>
       <pubDate>Wed, 11 Jun 2025 21:20:43 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +348,13 @@
       <guid isPermaLink="false">lintmunro-1749933447--54fc6a93-57bb-4192-a4cb-c5850d64afd2---In Stars We Drown</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/352aada830c90cd4542dff81fbf8c235.jpg" length="23849" type="image/jpeg"/>
       <pubDate>Sat, 14 Jun 2025 16:37:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fallujah - Kaleidoscopic Waves (1 play)</title>
+      <link>https://www.last.fm/music/Fallujah/_/Kaleidoscopic+Waves</link>
+      <guid isPermaLink="false">lintmunro-1749933633--54fc6a93-57bb-4192-a4cb-c5850d64afd2---Kaleidoscopic Waves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/352aada830c90cd4542dff81fbf8c235.jpg" length="23849" type="image/jpeg"/>
+      <pubDate>Sat, 14 Jun 2025 16:40:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
