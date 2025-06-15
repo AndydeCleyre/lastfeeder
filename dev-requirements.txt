@@ -1,6 +1,6 @@
 black==25.1.0
     # via -r dev-requirements.in
-certifi==2025.4.26
+certifi==2025.6.15
     # via requests
 charset-normalizer==3.4.2
     # via requests
