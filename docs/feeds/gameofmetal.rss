@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Jun 2025 19:17:41 +0000</lastBuildDate>
-    <item>
-      <title>Grave Pilgrim - Blood Memory (1 play)</title>
-      <link>https://www.last.fm/music/Grave+Pilgrim/_/Blood+Memory</link>
-      <guid isPermaLink="false">gameofmetal-1750515197--569405ed-f540-44c5-b003-09293afac379---Blood Memory</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01f035b3fe70ee83d5e20208407d3ada.jpg" length="31708" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jun 2025 10:13:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Grave Pilgrim - Young Hickory (1 play)</title>
-      <link>https://www.last.fm/music/Grave+Pilgrim/_/Young+Hickory</link>
-      <guid isPermaLink="false">gameofmetal-1750515235--569405ed-f540-44c5-b003-09293afac379---Young Hickory</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/01f035b3fe70ee83d5e20208407d3ada.jpg" length="31708" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jun 2025 10:13:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Jun 2025 19:39:03 +0000</lastBuildDate>
     <item>
       <title>Grave Pilgrim - Forged in the Fires of a Setting Sun (1 play)</title>
       <link>https://www.last.fm/music/Grave+Pilgrim/_/Forged+in+the+Fires+of+a+Setting+Sun</link>
@@ -86,7 +72,7 @@
       <pubDate>Sun, 22 Jun 2025 07:42:35 -0400</pubDate>
     </item>
     <item>
-      <title>Coroner - Sirens (1 play)</title>
+      <title>Coroner - Sirens (2 plays)</title>
       <link>https://www.last.fm/music/Coroner/_/Sirens</link>
       <guid isPermaLink="false">gameofmetal-1750592886--509dc5b1-f264-43f3-9035-473e7020e77f---Sirens</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cdaa86095802689f5906fbd9c0af2247.png" length="95136" type="image/png"/>
@@ -201,6 +187,7 @@
       <title>Zach Bryan - Pink Skies (32 plays)</title>
       <link>https://www.last.fm/music/Zach+Bryan/_/Pink+Skies</link>
       <guid isPermaLink="false">gameofmetal-1750609090--51e90731-08c0-4f60-89b6-5b78e5844de8---Pink Skies</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8be9da3772926a6f2993bf5e2ca86c78.png" length="229515" type="image/png"/>
       <pubDate>Sun, 22 Jun 2025 12:18:10 -0400</pubDate>
     </item>
     <item>
@@ -272,6 +259,13 @@
       <guid isPermaLink="false">gameofmetal-1750616414--044bc98e-e870-4100-afef-b8f2f66d8d86---To The Mistress Of Blackest Magic</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60dbfaede6c5f8bd4f8f267e87145086.jpg" length="14227" type="image/jpeg"/>
       <pubDate>Sun, 22 Jun 2025 14:20:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coroner - Sirens (2 plays)</title>
+      <link>https://www.last.fm/music/Coroner/_/Sirens</link>
+      <guid isPermaLink="false">gameofmetal-1750616991--509dc5b1-f264-43f3-9035-473e7020e77f---Sirens</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cdaa86095802689f5906fbd9c0af2247.png" length="95136" type="image/png"/>
+      <pubDate>Sun, 22 Jun 2025 14:29:51 -0400</pubDate>
     </item>
     <item>
       <title>Sargeist - Juravit Sanguine (1 play)</title>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">gameofmetal-1750619650--35f92c4a-69d0-4ed1-ab9e-05259db89d14---Nausea</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ec1041ef7cdc993b090bf26ca8a16b82.jpg" length="30463" type="image/jpeg"/>
       <pubDate>Sun, 22 Jun 2025 15:14:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mitochondrion - Flail, Faexregem! (7 plays)</title>
+      <link>https://www.last.fm/music/Mitochondrion/_/Flail,+Faexregem!</link>
+      <guid isPermaLink="false">gameofmetal-1750619932--2cd63fa0-2298-43d6-a4f9-a52b4acfd520---Flail, Faexregem!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19cc312c0f4fabca8971c5b9a7e1d744.jpg" length="27985" type="image/jpeg"/>
+      <pubDate>Sun, 22 Jun 2025 15:18:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
