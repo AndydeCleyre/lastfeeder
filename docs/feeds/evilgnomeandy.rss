@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 14:27:26 +0000</lastBuildDate>
-    <item>
-      <title>Electric Light Orchestra - Mr. Blue Sky (44 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky</link>
-      <guid isPermaLink="false">evilgnomeandy-1750453071--0c502791-4ee9-4c5f-9696-0602b721ff3b---Mr. Blue Sky</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png" length="171902" type="image/png"/>
-      <pubDate>Fri, 20 Jun 2025 16:57:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - Turn to Stone (34 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Turn+to+Stone</link>
-      <guid isPermaLink="false">evilgnomeandy-1750462394--0c502791-4ee9-4c5f-9696-0602b721ff3b---Turn to Stone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png" length="171902" type="image/png"/>
-      <pubDate>Fri, 20 Jun 2025 19:33:14 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 17:46:12 +0000</lastBuildDate>
     <item>
       <title>Sean Nelson - Born Without a Heart (16 plays)</title>
       <link>https://www.last.fm/music/Sean+Nelson/_/Born+Without+a+Heart</link>
@@ -313,10 +299,11 @@
       <title>Dion - Stagger Lee (5 plays)</title>
       <link>https://www.last.fm/music/Dion/_/Stagger+Lee</link>
       <guid isPermaLink="false">evilgnomeandy-1750716365--Dion---Stagger Lee</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3792415fa8e2a4ecc2671fd8f3feae51.jpg" length="23331" type="image/jpeg"/>
       <pubDate>Mon, 23 Jun 2025 18:06:05 -0400</pubDate>
     </item>
     <item>
-      <title>Weird Owl - Mountains On Top Of Buried Stars (14 plays)</title>
+      <title>Weird Owl - Mountains On Top Of Buried Stars (15 plays)</title>
       <link>https://www.last.fm/music/Weird+Owl/_/Mountains+On+Top+Of+Buried+Stars</link>
       <guid isPermaLink="false">evilgnomeandy-1750716512--636c1722-1a49-4f5a-bfc2-067789a0acfd---Mountains On Top Of Buried Stars</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/651e80f656d44e949402994be6613243.jpg" length="28198" type="image/jpeg"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">evilgnomeandy-1750774547--18b76828-4b12-44c1-b8d9-ae82b22557a0---Mojo Woman</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57da285fc5ab43b9b1dc80e3bfb5eb34.jpg" length="7965" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 10:15:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ernest Ranglin - Black Disciples (25 plays)</title>
+      <link>https://www.last.fm/music/Ernest+Ranglin/_/Black+Disciples</link>
+      <guid isPermaLink="false">evilgnomeandy-1750774801--924203bb-da5f-4bd0-9630-c753c7cb9774---Black Disciples</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f841f3cb026c4b3e97f52c0d51b9f286.jpg" length="22237" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 10:20:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Weird Owl - Mountains On Top Of Buried Stars (15 plays)</title>
+      <link>https://www.last.fm/music/Weird+Owl/_/Mountains+On+Top+Of+Buried+Stars</link>
+      <guid isPermaLink="false">evilgnomeandy-1750786918--636c1722-1a49-4f5a-bfc2-067789a0acfd---Mountains On Top Of Buried Stars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/651e80f656d44e949402994be6613243.jpg" length="28198" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 13:41:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
