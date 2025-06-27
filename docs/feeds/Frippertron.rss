@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jun 2025 07:27:39 +0000</lastBuildDate>
-    <item>
-      <title>The Beach Boys - Forever (108 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Forever</link>
-      <guid isPermaLink="false">Frippertron-1750991238--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Forever</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png" length="139263" type="image/png"/>
-      <pubDate>Thu, 26 Jun 2025 22:27:18 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Beach Boys - Our Sweet Love (67 plays)</title>
-      <link>https://www.last.fm/music/The+Beach+Boys/_/Our+Sweet+Love</link>
-      <guid isPermaLink="false">Frippertron-1750991400--ebfc1398-8d96-47e3-82c3-f782abcdb13d---Our Sweet Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acb7454b3f8041e4934347ab73a660ed.png" length="139263" type="image/png"/>
-      <pubDate>Thu, 26 Jun 2025 22:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Jun 2025 07:43:15 +0000</lastBuildDate>
     <item>
       <title>The Beach Boys - At My Window (58 plays)</title>
       <link>https://www.last.fm/music/The+Beach+Boys/_/At+My+Window</link>
@@ -344,6 +330,20 @@
       <link>https://www.last.fm/music/Oranssi+Pazuzu/_/Bioalkemisti</link>
       <guid isPermaLink="false">Frippertron-1751008798--e9d2cdf6-d485-4074-9a53-9990c9a4d8b1---Bioalkemisti</guid>
       <pubDate>Fri, 27 Jun 2025 03:19:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Oranssi Pazuzu - Muuntautuja (7 plays)</title>
+      <link>https://www.last.fm/music/Oranssi+Pazuzu/_/Muuntautuja</link>
+      <guid isPermaLink="false">Frippertron-1751009129--e9d2cdf6-d485-4074-9a53-9990c9a4d8b1---Muuntautuja</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f98822b81b362b86c046e962aa8979c6.jpg" length="25828" type="image/jpeg"/>
+      <pubDate>Fri, 27 Jun 2025 03:25:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Oranssi Pazuzu - Voitelu (6 plays)</title>
+      <link>https://www.last.fm/music/Oranssi+Pazuzu/_/Voitelu</link>
+      <guid isPermaLink="false">Frippertron-1751009400--e9d2cdf6-d485-4074-9a53-9990c9a4d8b1---Voitelu</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f98822b81b362b86c046e962aa8979c6.jpg" length="25828" type="image/jpeg"/>
+      <pubDate>Fri, 27 Jun 2025 03:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
