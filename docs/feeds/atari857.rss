@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 17:42:47 +0000</lastBuildDate>
-    <item>
-      <title>Zach Bryan - A Song For You (2 plays)</title>
-      <link>https://www.last.fm/music/Zach+Bryan/_/A+Song+For+You</link>
-      <guid isPermaLink="false">atari857-1751480921--Zach Bryan---A Song For You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Wed, 02 Jul 2025 14:28:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Winona Fighter - JUMPERCABLES (1 play)</title>
-      <link>https://www.last.fm/music/Winona+Fighter/_/JUMPERCABLES</link>
-      <guid isPermaLink="false">atari857-1751481580--18696c37-c6b4-47c0-898b-5db77305b6a7---JUMPERCABLES</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96ac9f98ede0c435ca4b57a7ac1aebae.jpg" length="25320" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 14:39:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Jul 2025 21:21:48 +0000</lastBuildDate>
     <item>
       <title>Winona Fighter - You Look Like a Drunk Phoebe Bridgers (4 plays)</title>
       <link>https://www.last.fm/music/Winona+Fighter/_/You+Look+Like+a+Drunk+Phoebe+Bridgers</link>
@@ -212,7 +198,7 @@
       <pubDate>Thu, 03 Jul 2025 16:14:39 -0400</pubDate>
     </item>
     <item>
-      <title>West Friends - It Is What It Is</title>
+      <title>West Friends - It Is What It Is (1 play)</title>
       <link>https://www.last.fm/music/West+Friends/_/It+Is+What+It+Is</link>
       <guid isPermaLink="false">atari857-1751573865--West Friends---It Is What It Is</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8e59c63e567feb03e1a480481f2723b.jpg" length="32022" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">atari857-1751644685--JID &amp; Eminem---Animals (Pt. I)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 04 Jul 2025 11:58:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>JID - Behold</title>
+      <link>https://www.last.fm/music/JID/_/Behold</link>
+      <guid isPermaLink="false">atari857-1751652399--JID---Behold</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 04 Jul 2025 14:06:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>JID - WRK (1 play)</title>
+      <link>https://www.last.fm/music/JID/_/WRK</link>
+      <guid isPermaLink="false">atari857-1751662516--d616b606-cf6a-4b6e-ab0f-e253b8db6610---WRK</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3aa09957f58df7621640a7903aeb04e6.jpg" length="15337" type="image/jpeg"/>
+      <pubDate>Fri, 04 Jul 2025 16:55:16 -0400</pubDate>
     </item>
   </channel>
 </rss>
