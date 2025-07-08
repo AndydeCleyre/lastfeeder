@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 23:26:47 +0000</lastBuildDate>
-    <item>
-      <title>Toto - Africa (19 plays)</title>
-      <link>https://www.last.fm/music/Toto/_/Africa</link>
-      <guid isPermaLink="false">ddgromit-1751467504--Toto---Africa</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png" length="74475" type="image/png"/>
-      <pubDate>Wed, 02 Jul 2025 10:45:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fleetwood Mac - Dreams - 2004 Remaster (33 plays)</title>
-      <link>https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster</link>
-      <guid isPermaLink="false">ddgromit-1751467505--bd13909f-1c29-4c27-a874-d4aaf27c5b1a---Dreams - 2004 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/164302af021c1cfd122222d57d564c59.jpg" length="14897" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 10:45:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 23:43:49 +0000</lastBuildDate>
     <item>
       <title>Lizzy McAlpine - reckless driving (12 plays)</title>
       <link>https://www.last.fm/music/Lizzy+McAlpine/_/reckless+driving</link>
@@ -117,6 +103,7 @@
       <title>Leslie Odom Jr. - Speak Now (7 plays)</title>
       <link>https://www.last.fm/music/Leslie+Odom+Jr./_/Speak+Now</link>
       <guid isPermaLink="false">ddgromit-1751581173--Leslie Odom Jr.---Speak Now</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f2970d031c592f8973c55a93dab274c9.png" length="151476" type="image/png"/>
       <pubDate>Thu, 03 Jul 2025 18:19:33 -0400</pubDate>
     </item>
     <item>
@@ -249,6 +236,7 @@
       <title>Maggie Rogers - Light On (9 plays)</title>
       <link>https://www.last.fm/music/Maggie+Rogers/_/Light+On</link>
       <guid isPermaLink="false">ddgromit-1751992592--dde26295-8cd4-474c-8740-3edb801b2776---Light On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cd218ed72b381a255794be47d4a8dac.jpg" length="18921" type="image/jpeg"/>
       <pubDate>Tue, 08 Jul 2025 12:36:32 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1752016945--545e6dac-993f-4841-8464-df0f5eadb7c2---Sometimes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4011010ab1b2388cdf92c61afc637c11.jpg" length="17532" type="image/jpeg"/>
       <pubDate>Tue, 08 Jul 2025 19:22:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sarah Jarosz - Song Up In Her Head (2 plays)</title>
+      <link>https://www.last.fm/music/Sarah+Jarosz/_/Song+Up+In+Her+Head</link>
+      <guid isPermaLink="false">ddgromit-1752017117--6c44e99b-3450-45b7-b240-6e7026d0bcff---Song Up In Her Head</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/33576af6b7fc480887f2b03690cc62a4.jpg" length="19919" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 19:25:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chris Thile - If The Sea Was Whiskey (1 play)</title>
+      <link>https://www.last.fm/music/Chris+Thile/_/If+The+Sea+Was+Whiskey</link>
+      <guid isPermaLink="false">ddgromit-1752017281--ca452a01-b9db-461d-8e62-23d68747f6ab---If The Sea Was Whiskey</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/77d216ff6473499298c0bebe4dd5a007.jpg" length="31646" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 19:28:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
