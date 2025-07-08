@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 16:59:15 +0000</lastBuildDate>
-    <item>
-      <title>Nathan Lane - Hakuna Matata (40 plays)</title>
-      <link>https://www.last.fm/music/Nathan+Lane/_/Hakuna+Matata</link>
-      <guid isPermaLink="false">ddgromit-1751385406--6744daab-306b-483c-81c3-d4f7cafd90df---Hakuna Matata</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d59f9fcc45fda1afcf11eb0cfebbcbb.jpg" length="26304" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 11:56:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 17:26:41 +0000</lastBuildDate>
     <item>
       <title>Josh Gad - When I Am Older (4 plays)</title>
       <link>https://www.last.fm/music/Josh+Gad/_/When+I+Am+Older</link>
@@ -74,14 +67,14 @@
     <item>
       <title>Electric Light Orchestra - Mr. Blue Sky (8 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky</link>
-      <guid isPermaLink="false">ddgromit-1751397093--0c502791-4ee9-4c5f-9696-0602b721ff3b---Mr. Blue Sky</guid>
+      <guid isPermaLink="false">ddgromit-1751397093--Electric Light Orchestra---Mr. Blue Sky</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png" length="171902" type="image/png"/>
       <pubDate>Tue, 01 Jul 2025 15:11:33 -0400</pubDate>
     </item>
     <item>
       <title>Electric Light Orchestra - Don't Bring Me Down (1 play)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Don%27t+Bring+Me+Down</link>
-      <guid isPermaLink="false">ddgromit-1751467002--0c502791-4ee9-4c5f-9696-0602b721ff3b---Don't Bring Me Down</guid>
+      <guid isPermaLink="false">ddgromit-1751467002--Electric Light Orchestra---Don't Bring Me Down</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/231f0a96465d56ec87ddb22039107824.jpg" length="22236" type="image/jpeg"/>
       <pubDate>Wed, 02 Jul 2025 10:36:42 -0400</pubDate>
     </item>
@@ -95,7 +88,7 @@
     <item>
       <title>Fleetwood Mac - Dreams - 2004 Remaster (33 plays)</title>
       <link>https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster</link>
-      <guid isPermaLink="false">ddgromit-1751467505--Fleetwood Mac---Dreams - 2004 Remaster</guid>
+      <guid isPermaLink="false">ddgromit-1751467505--bd13909f-1c29-4c27-a874-d4aaf27c5b1a---Dreams - 2004 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/164302af021c1cfd122222d57d564c59.jpg" length="14897" type="image/jpeg"/>
       <pubDate>Wed, 02 Jul 2025 10:45:05 -0400</pubDate>
     </item>
@@ -313,14 +306,12 @@
       <title>Solar Fields - Downtown District (2 plays)</title>
       <link>https://www.last.fm/music/Solar+Fields/_/Downtown+District</link>
       <guid isPermaLink="false">ddgromit-1751991638--a2af1f31-c9eb-4fff-990c-c4f547a11b75---Downtown District</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a97d468892be9912b9f1715232f9acf2.jpg" length="17679" type="image/jpeg"/>
       <pubDate>Tue, 08 Jul 2025 12:20:38 -0400</pubDate>
     </item>
     <item>
       <title>George Ezra - Blame It on Me (8 plays)</title>
       <link>https://www.last.fm/music/George+Ezra/_/Blame+It+on+Me</link>
       <guid isPermaLink="false">ddgromit-1751992396--2c5e2a98-d9ea-46b5-9618-d9bb4863a920---Blame It on Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/acec2d8c0cfe1b2df2babd65765a2331.jpg" length="28504" type="image/jpeg"/>
       <pubDate>Tue, 08 Jul 2025 12:33:16 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +348,13 @@
       <guid isPermaLink="false">ddgromit-1751993525--563201cb-721c-4cfb-acca-c1ba69e3d1fb---Baker Street</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa8592aa8d444bdfcb69dbbe39c579b9.png" length="219289" type="image/png"/>
       <pubDate>Tue, 08 Jul 2025 12:52:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Aretha Franklin - I Say a Little Prayer (6 plays)</title>
+      <link>https://www.last.fm/music/Aretha+Franklin/_/I+Say+a+Little+Prayer</link>
+      <guid isPermaLink="false">ddgromit-1751993891--2f9ecbed-27be-40e6-abca-6de49d50299e---I Say a Little Prayer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36afb685fb7043c8d43d43e8367bcb0f.jpg" length="22951" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 12:58:11 -0400</pubDate>
     </item>
   </channel>
 </rss>
