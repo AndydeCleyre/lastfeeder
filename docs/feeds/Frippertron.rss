@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 09:30:44 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - One More Red Nightmare (92 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/One+More+Red+Nightmare</link>
-      <guid isPermaLink="false">Frippertron-1752206366--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---One More Red Nightmare</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Thu, 10 Jul 2025 23:59:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 09:53:15 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Providence (80 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Providence</link>
@@ -348,6 +341,13 @@
       <link>https://www.last.fm/music/Fela+Kuti/_/Zombie</link>
       <guid isPermaLink="false">Frippertron-1752225881--6514cffa-fbe0-4965-ad88-e998ead8a82a---Zombie</guid>
       <pubDate>Fri, 11 Jul 2025 05:24:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Fela Kuti - Gentleman (2 plays)</title>
+      <link>https://www.last.fm/music/Fela+Kuti/_/Gentleman</link>
+      <guid isPermaLink="false">Frippertron-1752226640--6514cffa-fbe0-4965-ad88-e998ead8a82a---Gentleman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41b9a86acb5a473487a82c744df1e591.jpg" length="30076" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 05:37:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
