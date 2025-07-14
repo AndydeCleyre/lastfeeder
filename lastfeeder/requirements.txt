@@ -2,7 +2,7 @@ anyio==4.9.0
     # via httpx
 babel==2.17.0
     # via delorean
-certifi==2025.7.9
+certifi==2025.7.14
     # via
     #   httpcore
     #   httpx
