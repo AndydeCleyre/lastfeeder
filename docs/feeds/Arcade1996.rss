@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 02:06:19 +0000</lastBuildDate>
-    <item>
-      <title>Moby - In This World (6 plays)</title>
-      <link>https://www.last.fm/music/Moby/_/In+This+World</link>
-      <guid isPermaLink="false">Arcade1996-1752661105--8970d868-0723-483b-a75b-51088913d3d4---In This World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3d3301425b649e29cd22ba99c07aa38.png" length="165628" type="image/png"/>
-      <pubDate>Wed, 16 Jul 2025 06:18:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Crowded House - Private Universe (29 plays)</title>
-      <link>https://www.last.fm/music/Crowded+House/_/Private+Universe</link>
-      <guid isPermaLink="false">Arcade1996-1752661348--9854d99f-d954-4c0f-9ae5-58a0cdd885f5---Private Universe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/759f09219c6c77777807b1ae56cf9bc6.png" length="133019" type="image/png"/>
-      <pubDate>Wed, 16 Jul 2025 06:22:28 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 08:33:25 +0000</lastBuildDate>
     <item>
       <title>James - Getting Away With It (All Messed Up) (27 plays)</title>
       <link>https://www.last.fm/music/James/_/Getting+Away+With+It+(All+Messed+Up)</link>
@@ -317,7 +303,7 @@
       <pubDate>Thu, 17 Jul 2025 10:29:59 -0400</pubDate>
     </item>
     <item>
-      <title>Sleep Token - Caramel (1 play)</title>
+      <title>Sleep Token - Caramel (2 plays)</title>
       <link>https://www.last.fm/music/Sleep+Token/_/Caramel</link>
       <guid isPermaLink="false">Arcade1996-1752798218--775ad383-ac2d-479a-af9d-b561442cb749---Caramel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca59461ca9b6b14cfc9c1183dbd82a8b.jpg" length="27100" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1752799564--2819834e-4e08-47b0-a2c4-b7672318e8f0---The Christian Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70b9bab2f57e068f2de000751fe0e3df.jpg" length="42078" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 20:46:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sleep Token - Emergence (1 play)</title>
+      <link>https://www.last.fm/music/Sleep+Token/_/Emergence</link>
+      <guid isPermaLink="false">Arcade1996-1752827138--775ad383-ac2d-479a-af9d-b561442cb749---Emergence</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca59461ca9b6b14cfc9c1183dbd82a8b.jpg" length="27100" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 04:25:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sleep Token - Caramel (2 plays)</title>
+      <link>https://www.last.fm/music/Sleep+Token/_/Caramel</link>
+      <guid isPermaLink="false">Arcade1996-1752827153--775ad383-ac2d-479a-af9d-b561442cb749---Caramel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca59461ca9b6b14cfc9c1183dbd82a8b.jpg" length="27100" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 04:25:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
