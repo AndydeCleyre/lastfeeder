@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 03:44:11 +0000</lastBuildDate>
-    <item>
-      <title>Kim Gordon - Tree House (1 play)</title>
-      <link>https://www.last.fm/music/Kim+Gordon/_/Tree+House</link>
-      <guid isPermaLink="false">Frippertron-1752735833--19301485-ac9c-4dad-885b-cd8e8c8b4184---Tree House</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1914379ce4e72c120f7a018666ccb1ec.jpg" length="19001" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 03:03:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kim Gordon - Shelf Warmer (1 play)</title>
-      <link>https://www.last.fm/music/Kim+Gordon/_/Shelf+Warmer</link>
-      <guid isPermaLink="false">Frippertron-1752736078--19301485-ac9c-4dad-885b-cd8e8c8b4184---Shelf Warmer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1914379ce4e72c120f7a018666ccb1ec.jpg" length="19001" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 03:07:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 04:26:36 +0000</lastBuildDate>
     <item>
       <title>Kim Gordon - The Believers (1 play)</title>
       <link>https://www.last.fm/music/Kim+Gordon/_/The+Believers</link>
@@ -336,6 +322,20 @@
       <link>https://www.last.fm/music/Klaus+Schulze/_/Friedrich+Nietzsche</link>
       <guid isPermaLink="false">Frippertron-1752809201--2e710b0c-6ff3-4c21-87d5-16ebbbca212c---Friedrich Nietzsche</guid>
       <pubDate>Thu, 17 Jul 2025 23:26:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Klaus Schulze - Georg Trakl (1 play)</title>
+      <link>https://www.last.fm/music/Klaus+Schulze/_/Georg+Trakl</link>
+      <guid isPermaLink="false">Frippertron-1752810694--2e710b0c-6ff3-4c21-87d5-16ebbbca212c---Georg Trakl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df7b00d2ed4b40b8c056dc7c9eebdee0.png" length="65690" type="image/png"/>
+      <pubDate>Thu, 17 Jul 2025 23:51:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Klaus Schulze - Frank Herbert (1 play)</title>
+      <link>https://www.last.fm/music/Klaus+Schulze/_/Frank+Herbert</link>
+      <guid isPermaLink="false">Frippertron-1752812305--2e710b0c-6ff3-4c21-87d5-16ebbbca212c---Frank Herbert</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df7b00d2ed4b40b8c056dc7c9eebdee0.png" length="65690" type="image/png"/>
+      <pubDate>Fri, 18 Jul 2025 00:18:25 -0400</pubDate>
     </item>
   </channel>
 </rss>
