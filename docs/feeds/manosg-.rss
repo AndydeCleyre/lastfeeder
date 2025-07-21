@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 11:56:05 +0000</lastBuildDate>
-    <item>
-      <title>Alice Cooper - Nurse Rozetta (1 play)</title>
-      <link>https://www.last.fm/music/Alice+Cooper/_/Nurse+Rozetta</link>
-      <guid isPermaLink="false">manosg--1752578873--ee58c59f-8e7f-4430-b8ca-236c4d3745ae---Nurse Rozetta</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7993622bbc20442fa9bf60629f386097.png" length="183171" type="image/png"/>
-      <pubDate>Tue, 15 Jul 2025 07:27:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Jul 2025 12:56:36 +0000</lastBuildDate>
     <item>
       <title>Alice Cooper - Millie and Billie (1 play)</title>
       <link>https://www.last.fm/music/Alice+Cooper/_/Millie+and+Billie</link>
@@ -131,6 +124,7 @@
       <title>Paradise Lost - In Truth (1 play)</title>
       <link>https://www.last.fm/music/Paradise+Lost/_/In+Truth</link>
       <guid isPermaLink="false">manosg--1752593003--10bf95b6-30e3-44f1-817f-45762cdc0de0---In Truth</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06f7351bf6494cffbdca8095f0a886c6.png" length="218857" type="image/png"/>
       <pubDate>Tue, 15 Jul 2025 11:23:23 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1752941993--e51b51cf-6bc6-4be8-974c-f2fd92317c51---Remnants of Spite</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c4c29039ad0a4eeab6a44e6bd21a6e1.png" length="196218" type="image/png"/>
       <pubDate>Sat, 19 Jul 2025 12:19:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dissection - At The Fathomless Depths (2 plays)</title>
+      <link>https://www.last.fm/music/Dissection/_/At+The+Fathomless+Depths</link>
+      <guid isPermaLink="false">manosg--1753098875--Dissection---At The Fathomless Depths</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2bdb5e03d4edcf3898a454842a399768.jpg" length="36206" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 07:54:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
