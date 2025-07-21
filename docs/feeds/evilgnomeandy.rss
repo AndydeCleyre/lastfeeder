@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 14:56:12 +0000</lastBuildDate>
-    <item>
-      <title>Tommy McCook - Ali Baba (Version) (2 plays)</title>
-      <link>https://www.last.fm/music/Tommy+McCook/_/Ali+Baba+(Version)</link>
-      <guid isPermaLink="false">evilgnomeandy-1752550173--Tommy McCook---Ali Baba (Version)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 14 Jul 2025 23:29:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Hopeton Lewis - Drive Her Home (aka Drive It Home) (2 plays)</title>
-      <link>https://www.last.fm/music/Hopeton+Lewis/_/Drive+Her+Home+(aka+Drive+It+Home)</link>
-      <guid isPermaLink="false">evilgnomeandy-1752550333--014afff4-dc69-4542-afbf-4c0109142652---Drive Her Home (aka Drive It Home)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 14 Jul 2025 23:32:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Jul 2025 22:24:54 +0000</lastBuildDate>
     <item>
       <title>Alton Ellis - Rock Steady (1 play)</title>
       <link>https://www.last.fm/music/Alton+Ellis/_/Rock+Steady</link>
@@ -47,6 +33,7 @@
       <title>The Melodians - I Will Get Along Without You (aka Gonna Get Along Without You Now) (1 play)</title>
       <link>https://www.last.fm/music/The+Melodians/_/I+Will+Get+Along+Without+You+(aka+Gonna+Get+Along+Without+You+Now)</link>
       <guid isPermaLink="false">evilgnomeandy-1752551037--0afd3d98-b4fd-41e0-953a-84c29a9965c1---I Will Get Along Without You (aka Gonna Get Along Without You Now)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66aedcca6225c117b50120810156399e.png" length="143260" type="image/png"/>
       <pubDate>Mon, 14 Jul 2025 23:43:57 -0400</pubDate>
     </item>
     <item>
@@ -74,6 +61,7 @@
       <title>Alton Ellis - You Made Me So Very Happy (1 play)</title>
       <link>https://www.last.fm/music/Alton+Ellis/_/You+Made+Me+So+Very+Happy</link>
       <guid isPermaLink="false">evilgnomeandy-1752551720--b04d9207-306c-42db-8b6a-c94d49b4b08a---You Made Me So Very Happy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36102d3e42181c0b5fc1439e9432ef51.png" length="210078" type="image/png"/>
       <pubDate>Mon, 14 Jul 2025 23:55:20 -0400</pubDate>
     </item>
     <item>
@@ -122,6 +110,7 @@
       <title>Sugar Candy Mountain - 666 (4 plays)</title>
       <link>https://www.last.fm/music/Sugar+Candy+Mountain/_/666</link>
       <guid isPermaLink="false">evilgnomeandy-1752553027--06181fca-00bf-4f50-9d8a-39fd0efb879e---666</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9d3060acd1608815734ceb60c757804e.jpg" length="33907" type="image/jpeg"/>
       <pubDate>Tue, 15 Jul 2025 00:17:07 -0400</pubDate>
     </item>
     <item>
@@ -163,7 +152,6 @@
       <title>Speak Low - Thriller (18 plays)</title>
       <link>https://www.last.fm/music/Speak+Low/_/Thriller</link>
       <guid isPermaLink="false">evilgnomeandy-1752554551--252fc740-adf5-4b18-9127-ef3de6ba99ea---Thriller</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/edccc3128ad04f45aa5bc6679fa7486b.jpg" length="23681" type="image/jpeg"/>
       <pubDate>Tue, 15 Jul 2025 00:42:31 -0400</pubDate>
     </item>
     <item>
@@ -205,6 +193,7 @@
       <title>Lack of Afro - Spooky (24 plays)</title>
       <link>https://www.last.fm/music/Lack+of+Afro/_/Spooky</link>
       <guid isPermaLink="false">evilgnomeandy-1752775882--1b337b9f-1562-4863-a5c8-50c9d6d5e010---Spooky</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc2a7709f6aaf1b873fee2c1ec66aa57.jpg" length="29580" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 14:11:22 -0400</pubDate>
     </item>
     <item>
@@ -308,7 +297,6 @@
       <title>Tito Puente - Oye Cómo Va (30 plays)</title>
       <link>https://www.last.fm/music/Tito+Puente/_/Oye+C%C3%B3mo+Va</link>
       <guid isPermaLink="false">evilgnomeandy-1752779225--Tito Puente---Oye Cómo Va</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fddb7c555bfba39a7a7dc338fd0322b.jpg" length="23135" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 15:07:05 -0400</pubDate>
     </item>
     <item>
@@ -347,11 +335,25 @@
       <pubDate>Sun, 20 Jul 2025 10:41:04 -0400</pubDate>
     </item>
     <item>
-      <title>Led Zeppelin - When the Levee Breaks - Remaster (2 plays)</title>
+      <title>Led Zeppelin - When the Levee Breaks - Remaster</title>
       <link>https://www.last.fm/music/Led+Zeppelin/_/When+the+Levee+Breaks+-+Remaster</link>
       <guid isPermaLink="false">evilgnomeandy-1753022778--678d88b2-87b0-403b-b63d-5da7465aecc3---When the Levee Breaks - Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c9486a6d63df1e8ba1623109b3c36fb.jpg" length="14283" type="image/jpeg"/>
       <pubDate>Sun, 20 Jul 2025 10:46:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gaby Moreno - Alma Florecida (2 plays)</title>
+      <link>https://www.last.fm/music/Gaby+Moreno/_/Alma+Florecida</link>
+      <guid isPermaLink="false">evilgnomeandy-1753136317--Gaby Moreno---Alma Florecida</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62a03c85bcb72aed8bce06cb9f7ec66b.jpg" length="16266" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 18:18:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lack of Afro - Freedom - The Gene Dudley Group Remix (12 plays)</title>
+      <link>https://www.last.fm/music/Lack+of+Afro/_/Freedom+-+The+Gene+Dudley+Group+Remix</link>
+      <guid isPermaLink="false">evilgnomeandy-1753136522--1b337b9f-1562-4863-a5c8-50c9d6d5e010---Freedom - The Gene Dudley Group Remix</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 21 Jul 2025 18:22:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
