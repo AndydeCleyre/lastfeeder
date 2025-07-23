@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 13:59:29 +0000</lastBuildDate>
-    <item>
-      <title>Ozzy Osbourne - You Can't Kill Rock And Roll (2 plays)</title>
-      <link>https://www.last.fm/music/Ozzy+Osbourne/_/You+Can%27t+Kill+Rock+And+Roll</link>
-      <guid isPermaLink="false">gameofmetal-1753226957--8aa5b65a-5b3c-4029-92bf-47a544356934---You Can't Kill Rock And Roll</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c328c57cf6f95545a936292db4925e7f.jpg" length="29444" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 19:29:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ozzy Osbourne - Believer (2 plays)</title>
-      <link>https://www.last.fm/music/Ozzy+Osbourne/_/Believer</link>
-      <guid isPermaLink="false">gameofmetal-1753227376--8aa5b65a-5b3c-4029-92bf-47a544356934---Believer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c328c57cf6f95545a936292db4925e7f.jpg" length="29444" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 19:36:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 14:33:58 +0000</lastBuildDate>
     <item>
       <title>Ozzy Osbourne - Little Dolls (2 plays)</title>
       <link>https://www.last.fm/music/Ozzy+Osbourne/_/Little+Dolls</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1753278601--Black Sabbath---Symptom of the Universe - 2013 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fe8fc05c4982cfd184eb274f6d6f4c0.jpg" length="28776" type="image/jpeg"/>
       <pubDate>Wed, 23 Jul 2025 09:50:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Sabbath - Megalomania - 2013 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Black+Sabbath/_/Megalomania+-+2013+Remaster</link>
+      <guid isPermaLink="false">gameofmetal-1753278924--Black Sabbath---Megalomania - 2013 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fe8fc05c4982cfd184eb274f6d6f4c0.jpg" length="28776" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 09:55:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Sabbath - The Thrill of it All - 2013 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Black+Sabbath/_/The+Thrill+of+it+All+-+2013+Remaster</link>
+      <guid isPermaLink="false">gameofmetal-1753280196--Black Sabbath---The Thrill of it All - 2013 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fe8fc05c4982cfd184eb274f6d6f4c0.jpg" length="28776" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 10:16:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
