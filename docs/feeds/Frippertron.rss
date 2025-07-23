@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 10:56:49 +0000</lastBuildDate>
-    <item>
-      <title>Black Sabbath - Iron Man (5 plays)</title>
-      <link>https://www.last.fm/music/Black+Sabbath/_/Iron+Man</link>
-      <guid isPermaLink="false">Frippertron-1753242901--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---Iron Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e88b3980787c4714b79c3cab44986595.png" length="98628" type="image/png"/>
-      <pubDate>Tue, 22 Jul 2025 23:55:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Black Sabbath - Electric Funeral (4 plays)</title>
-      <link>https://www.last.fm/music/Black+Sabbath/_/Electric+Funeral</link>
-      <guid isPermaLink="false">Frippertron-1753243261--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---Electric Funeral</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e88b3980787c4714b79c3cab44986595.png" length="98628" type="image/png"/>
-      <pubDate>Wed, 23 Jul 2025 00:01:01 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 14:59:01 +0000</lastBuildDate>
     <item>
       <title>Black Sabbath - Hand of Doom (4 plays)</title>
       <link>https://www.last.fm/music/Black+Sabbath/_/Hand+of+Doom</link>
@@ -352,6 +338,19 @@
       <guid isPermaLink="false">Frippertron-1753267631--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---Electric Funeral</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e88b3980787c4714b79c3cab44986595.png" length="98628" type="image/png"/>
       <pubDate>Wed, 23 Jul 2025 06:47:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cameron Winter - Love Takes Miles (16 plays)</title>
+      <link>https://www.last.fm/music/Cameron+Winter/_/Love+Takes+Miles</link>
+      <guid isPermaLink="false">Frippertron-1753282414--79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb---Love Takes Miles</guid>
+      <pubDate>Wed, 23 Jul 2025 10:53:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cameron Winter - Drinking Age (8 plays)</title>
+      <link>https://www.last.fm/music/Cameron+Winter/_/Drinking+Age</link>
+      <guid isPermaLink="false">Frippertron-1753282612--79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb---Drinking Age</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fedfb8b9aefe754a4a3ba0a6161541d5.jpg" length="23068" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 10:56:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
