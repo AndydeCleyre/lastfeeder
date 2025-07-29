@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 22:27:45 +0000</lastBuildDate>
-    <item>
-      <title>Wednesday - Pick Up That Knife (3 plays)</title>
-      <link>https://www.last.fm/music/Wednesday/_/Pick+Up+That+Knife</link>
-      <guid isPermaLink="false">atari857-1753735759--9833b455-0da2-40b5-8e63-37816c910604---Pick Up That Knife</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8bf277c97015b9f6ebb48a48cd4445d4.png" length="140110" type="image/png"/>
-      <pubDate>Mon, 28 Jul 2025 16:49:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tomb of Annihilation - Black Coffin Ride (1 play)</title>
-      <link>https://www.last.fm/music/Tomb+of+Annihilation/_/Black+Coffin+Ride</link>
-      <guid isPermaLink="false">atari857-1753736216--2be723c0-a686-44bb-a4a4-211bffea69f6---Black Coffin Ride</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 28 Jul 2025 16:56:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Jul 2025 22:48:54 +0000</lastBuildDate>
     <item>
       <title>Tomb of Annihilation - Graveward (1 play)</title>
       <link>https://www.last.fm/music/Tomb+of+Annihilation/_/Graveward</link>
@@ -86,7 +72,7 @@
       <pubDate>Tue, 29 Jul 2025 01:11:03 -0400</pubDate>
     </item>
     <item>
-      <title>The Beths - Mother, Pray For Me (1 play)</title>
+      <title>The Beths - Mother, Pray For Me (2 plays)</title>
       <link>https://www.last.fm/music/The+Beths/_/Mother,+Pray+For+Me</link>
       <guid isPermaLink="false">atari857-1753811678--4c74fc48-8108-4556-87af-154af74f2ce5---Mother, Pray For Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5ebb80aea4db979d378448a64ebefc1.jpg" length="25855" type="image/jpeg"/>
@@ -110,6 +96,7 @@
       <title>West Friends - Hell Of A Year (2 plays)</title>
       <link>https://www.last.fm/music/West+Friends/_/Hell+Of+A+Year</link>
       <guid isPermaLink="false">atari857-1753812623--West Friends---Hell Of A Year</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c8e59c63e567feb03e1a480481f2723b.jpg" length="32022" type="image/jpeg"/>
       <pubDate>Tue, 29 Jul 2025 14:10:23 -0400</pubDate>
     </item>
     <item>
@@ -151,6 +138,7 @@
       <title>William Tyler - Held (1 play)</title>
       <link>https://www.last.fm/music/William+Tyler/_/Held</link>
       <guid isPermaLink="false">atari857-1753813880--37e374de-ed4a-4bab-97ac-b6520971b0ed---Held</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f4ae73becc3f537f4464f16350a693f.jpg" length="12620" type="image/jpeg"/>
       <pubDate>Tue, 29 Jul 2025 14:31:20 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +342,20 @@
       <guid isPermaLink="false">atari857-1753827119--51c76d97-0635-433c-b26d-66beb81657f8---Life Is Strange</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/37bc64e35de9d9e7746f7e1e9853a5c3.jpg" length="14373" type="image/jpeg"/>
       <pubDate>Tue, 29 Jul 2025 18:11:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Quadeca - no questions asked (1 play)</title>
+      <link>https://www.last.fm/music/Quadeca/_/no+questions+asked</link>
+      <guid isPermaLink="false">atari857-1753827996--3a4024dc-cc62-4d9b-8bed-c22426136a52---no questions asked</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8b747b6604a145ba7503b324b2016a28.jpg" length="12996" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 18:26:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Beths - Mother, Pray For Me (2 plays)</title>
+      <link>https://www.last.fm/music/The+Beths/_/Mother,+Pray+For+Me</link>
+      <guid isPermaLink="false">atari857-1753828318--4c74fc48-8108-4556-87af-154af74f2ce5---Mother, Pray For Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5ebb80aea4db979d378448a64ebefc1.jpg" length="25855" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 18:31:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
