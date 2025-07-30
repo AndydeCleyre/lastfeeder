@@ -6,7 +6,7 @@ charset-normalizer==3.4.2
     # via requests
 click==8.2.1
     # via black
-docutils==0.21.2
+docutils==0.22
     # via flit
 flit==3.12.0
     # via -r dev-requirements.in
