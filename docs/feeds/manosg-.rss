@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 15:33:18 +0000</lastBuildDate>
-    <item>
-      <title>Pearl Jam - Why Go (7 plays)</title>
-      <link>https://www.last.fm/music/Pearl+Jam/_/Why+Go</link>
-      <guid isPermaLink="false">manosg--1753348556--83b9cbe7-9857-49e2-ab8e-b57b01038103---Why Go</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dfa0959e9534f8dcfd24d5dc5110589.jpg" length="24768" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 05:15:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pearl Jam - Black (10 plays)</title>
-      <link>https://www.last.fm/music/Pearl+Jam/_/Black</link>
-      <guid isPermaLink="false">manosg--1753348756--83b9cbe7-9857-49e2-ab8e-b57b01038103---Black</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4dfa0959e9534f8dcfd24d5dc5110589.jpg" length="24768" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 05:19:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2025 05:48:01 +0000</lastBuildDate>
     <item>
       <title>Pearl Jam - Jeremy (11 plays)</title>
       <link>https://www.last.fm/music/Pearl+Jam/_/Jeremy</link>
@@ -355,8 +341,21 @@
       <title>Black Sabbath - The Shining - 2025 Remaster (1 play)</title>
       <link>https://www.last.fm/music/Black+Sabbath/_/The+Shining+-+2025+Remaster</link>
       <guid isPermaLink="false">manosg--1753958412--Black Sabbath---The Shining - 2025 Remaster</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/819a19b4c6e5912f582b48d7178a8d1c.jpg" length="15720" type="image/jpeg"/>
       <pubDate>Thu, 31 Jul 2025 06:40:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Black Sabbath - War Pigs - 2009 Remaster (6 plays)</title>
+      <link>https://www.last.fm/music/Black+Sabbath/_/War+Pigs+-+2009+Remaster</link>
+      <guid isPermaLink="false">manosg--1753977708--5182c1d9-c7d2-4dad-afa0-ccfeada921a8---War Pigs - 2009 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e88b3980787c4714b79c3cab44986595.png" length="98628" type="image/png"/>
+      <pubDate>Thu, 31 Jul 2025 12:01:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Steely Dan - Kid Charlemagne - 2025 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Steely+Dan/_/Kid+Charlemagne+-+2025+Remaster</link>
+      <guid isPermaLink="false">manosg--1754025979--Steely Dan---Kid Charlemagne - 2025 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b167d02aa1bf2f98db4089597060c0c.jpg" length="30046" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 01:26:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
