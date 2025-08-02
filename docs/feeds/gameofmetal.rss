@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Aug 2025 17:26:04 +0000</lastBuildDate>
-    <item>
-      <title>Megan Moroney - Am I Okay? (19 plays)</title>
-      <link>https://www.last.fm/music/Megan+Moroney/_/Am+I+Okay%3F</link>
-      <guid isPermaLink="false">gameofmetal-1754009536--9eb2030a-c311-4cbf-a8f2-c57a58aa18ce---Am I Okay?</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a3c249ab7b00c5c2840f47971a70060.jpg" length="21155" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 20:52:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ozzy Osbourne - Over the Mountain (5 plays)</title>
-      <link>https://www.last.fm/music/Ozzy+Osbourne/_/Over+the+Mountain</link>
-      <guid isPermaLink="false">gameofmetal-1754009539--8aa5b65a-5b3c-4029-92bf-47a544356934---Over the Mountain</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f6cb621219ce8e3d93af1bd036a1269.jpg" length="24823" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 20:52:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Aug 2025 17:45:25 +0000</lastBuildDate>
     <item>
       <title>Big &amp; Rich - Save a Horse (Ride a Cowboy) (24 plays)</title>
       <link>https://www.last.fm/music/Big+&amp;+Rich/_/Save+a+Horse+(Ride+a+Cowboy)</link>
@@ -306,12 +292,14 @@
       <title>Grave Miasma - Seven Coils (1 play)</title>
       <link>https://www.last.fm/music/Grave+Miasma/_/Seven+Coils</link>
       <guid isPermaLink="false">gameofmetal-1754101212--012d2415-251c-4f81-8b30-c876b0b491b9---Seven Coils</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2beb4c40db3340adc081de8da7e91355.png" length="170711" type="image/png"/>
       <pubDate>Fri, 01 Aug 2025 22:20:12 -0400</pubDate>
     </item>
     <item>
       <title>Grave Miasma - Ossuary (1 play)</title>
       <link>https://www.last.fm/music/Grave+Miasma/_/Ossuary</link>
       <guid isPermaLink="false">gameofmetal-1754101724--012d2415-251c-4f81-8b30-c876b0b491b9---Ossuary</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2beb4c40db3340adc081de8da7e91355.png" length="170711" type="image/png"/>
       <pubDate>Fri, 01 Aug 2025 22:28:44 -0400</pubDate>
     </item>
     <item>
@@ -329,7 +317,7 @@
       <pubDate>Fri, 01 Aug 2025 23:16:18 -0400</pubDate>
     </item>
     <item>
-      <title>Faceless Burial - Malignant Excavation (3 plays)</title>
+      <title>Faceless Burial - Malignant Excavation (4 plays)</title>
       <link>https://www.last.fm/music/Faceless+Burial/_/Malignant+Excavation</link>
       <guid isPermaLink="false">gameofmetal-1754104765--e6552d1c-4f4a-4e79-9e5c-f11580e8f585---Malignant Excavation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04706e6c23f8b010c782a20b1ee0f6dc.jpg" length="27281" type="image/jpeg"/>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1754153699--9eb2030a-c311-4cbf-a8f2-c57a58aa18ce---Tennessee Orange</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dd1c5c4354e7e2cb0714e5a2580f5626.png" length="153157" type="image/png"/>
       <pubDate>Sat, 02 Aug 2025 12:54:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Faceless Burial - Malignant Excavation (4 plays)</title>
+      <link>https://www.last.fm/music/Faceless+Burial/_/Malignant+Excavation</link>
+      <guid isPermaLink="false">gameofmetal-1754155915--e6552d1c-4f4a-4e79-9e5c-f11580e8f585---Malignant Excavation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/04706e6c23f8b010c782a20b1ee0f6dc.jpg" length="27281" type="image/jpeg"/>
+      <pubDate>Sat, 02 Aug 2025 13:31:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Cobalt - Gin (1 play)</title>
+      <link>https://www.last.fm/music/Cobalt/_/Gin</link>
+      <guid isPermaLink="false">gameofmetal-1754155990--Cobalt---Gin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/527551c4761cdc5bdff321fce2fd720a.jpg" length="14828" type="image/jpeg"/>
+      <pubDate>Sat, 02 Aug 2025 13:33:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
