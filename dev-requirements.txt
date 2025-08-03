@@ -1,10 +1,10 @@
 black==25.1.0
     # via -r dev-requirements.in
-certifi==2025.7.14
+certifi==2025.8.3
     # via requests
 charset-normalizer==3.4.2
     # via requests
-click==8.2.2
+click==8.2.1
     # via black
 docutils==0.22
     # via flit
