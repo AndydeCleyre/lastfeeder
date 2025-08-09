@@ -2,7 +2,7 @@ black==25.1.0
     # via -r dev-requirements.in
 certifi==2025.8.3
     # via requests
-charset-normalizer==3.4.2
+charset-normalizer==3.4.3
     # via requests
 click==8.2.1
     # via black
