@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 13:32:49 +0000</lastBuildDate>
-    <item>
-      <title>Sade - Paradise (5 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Paradise</link>
-      <guid isPermaLink="false">Arcade1996-1754642933--67930b3e-e00b-469f-8c74-fd69f20522ec---Paradise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3e9f44a18466985b01748600ee4892a3.png" length="148741" type="image/png"/>
-      <pubDate>Fri, 08 Aug 2025 04:48:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Moby - In This World (7 plays)</title>
-      <link>https://www.last.fm/music/Moby/_/In+This+World</link>
-      <guid isPermaLink="false">Arcade1996-1754643151--8970d868-0723-483b-a75b-51088913d3d4---In This World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d3d3301425b649e29cd22ba99c07aa38.png" length="165628" type="image/png"/>
-      <pubDate>Fri, 08 Aug 2025 04:52:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 Aug 2025 13:53:31 +0000</lastBuildDate>
     <item>
       <title>New Order - True Faith (37 plays)</title>
       <link>https://www.last.fm/music/New+Order/_/True+Faith</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1754831546--3d79181d-f977-43fd-a0ec-37396f520224---Ammo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/83c83fd5e3d22277cd965c455f31a133.jpg" length="27308" type="image/jpeg"/>
       <pubDate>Sun, 10 Aug 2025 09:12:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Teethe - Funny (1 play)</title>
+      <link>https://www.last.fm/music/Teethe/_/Funny</link>
+      <guid isPermaLink="false">Arcade1996-1754831699--3d79181d-f977-43fd-a0ec-37396f520224---Funny</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/83c83fd5e3d22277cd965c455f31a133.jpg" length="27308" type="image/jpeg"/>
+      <pubDate>Sun, 10 Aug 2025 09:14:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Teethe - Build &amp; Crash (1 play)</title>
+      <link>https://www.last.fm/music/Teethe/_/Build+&amp;+Crash</link>
+      <guid isPermaLink="false">Arcade1996-1754833173--3d79181d-f977-43fd-a0ec-37396f520224---Build &amp; Crash</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/83c83fd5e3d22277cd965c455f31a133.jpg" length="27308" type="image/jpeg"/>
+      <pubDate>Sun, 10 Aug 2025 09:39:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
