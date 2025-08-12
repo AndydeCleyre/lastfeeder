@@ -42,5 +42,5 @@ typing-extensions==4.14.1
     # via anyio
 tzlocal==5.3.1
     # via delorean
-wrapt==1.17.2
+wrapt==1.17.3
     # via -r requirements.in
