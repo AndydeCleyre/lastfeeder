@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 20:45:14 +0000</lastBuildDate>
-    <item>
-      <title>454 - PAO DOCE (1 play)</title>
-      <link>https://www.last.fm/music/454/_/PAO+DOCE</link>
-      <guid isPermaLink="false">Arcade1996-1754917525--454---PAO DOCE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ca9912d7d4688d107ca3c8e08dc70c7.jpg" length="33090" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 09:05:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>454 - BITTERSWEET (1 play)</title>
-      <link>https://www.last.fm/music/454/_/BITTERSWEET</link>
-      <guid isPermaLink="false">Arcade1996-1754917657--fbc87e6f-e9ee-47b6-ae59-abea98a40680---BITTERSWEET</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ca9912d7d4688d107ca3c8e08dc70c7.jpg" length="33090" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 09:07:37 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 23:41:54 +0000</lastBuildDate>
     <item>
       <title>454 - OUTCAST (1 play)</title>
       <link>https://www.last.fm/music/454/_/OUTCAST</link>
@@ -352,10 +338,25 @@
       <pubDate>Tue, 12 Aug 2025 20:51:38 -0400</pubDate>
     </item>
     <item>
-      <title>Little Simz - Venom (2 plays)</title>
+      <title>Little Simz - Venom (3 plays)</title>
       <link>https://www.last.fm/music/Little+Simz/_/Venom</link>
       <guid isPermaLink="false">Arcade1996-1755094486--3cdb40fe-a63e-4bb9-b40d-17cda5f50979---Venom</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65f4fe960a64b9cd2910492175b5b12a.jpg" length="8049" type="image/jpeg"/>
       <pubDate>Wed, 13 Aug 2025 10:14:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Little Simz - Venom (3 plays)</title>
+      <link>https://www.last.fm/music/Little+Simz/_/Venom</link>
+      <guid isPermaLink="false">Arcade1996-1755094991--3cdb40fe-a63e-4bb9-b40d-17cda5f50979---Venom</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65f4fe960a64b9cd2910492175b5b12a.jpg" length="8049" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 10:23:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Naeem - Bankroll Peelers (1 play)</title>
+      <link>https://www.last.fm/music/Naeem/_/Bankroll+Peelers</link>
+      <guid isPermaLink="false">Arcade1996-1755127364--Naeem---Bankroll Peelers</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/256011af372609f9a38e4ef4bc5c70b0.jpg" length="11144" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 19:22:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
