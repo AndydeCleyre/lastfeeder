@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 22:43:52 +0000</lastBuildDate>
-    <item>
-      <title>Nick Drake - Pink Moon (4 plays)</title>
-      <link>https://www.last.fm/music/Nick+Drake/_/Pink+Moon</link>
-      <guid isPermaLink="false">TalonsOfFire-1754928322--99ea432a-e3d8-42cb-9d5e-db316a6a8458---Pink Moon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png" length="152037" type="image/png"/>
-      <pubDate>Mon, 11 Aug 2025 12:05:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 15:46:45 +0000</lastBuildDate>
     <item>
       <title>David Darling - Darkwood I (2 plays)</title>
       <link>https://www.last.fm/music/David+Darling/_/Darkwood+I</link>
@@ -194,6 +187,7 @@
       <title>Nick Drake - Three Hours (3 plays)</title>
       <link>https://www.last.fm/music/Nick+Drake/_/Three+Hours</link>
       <guid isPermaLink="false">TalonsOfFire-1755106455--99ea432a-e3d8-42cb-9d5e-db316a6a8458---Three Hours</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eb968db6df642125c2cec2d2b0042187.png" length="96867" type="image/png"/>
       <pubDate>Wed, 13 Aug 2025 13:34:15 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1755124768--49c4816a-dcbe-4dfa-866a-563a51b76f48---Eddington (Ending)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ed5ec8af3af7cf481c52d1a7559cc2d7.jpg" length="22243" type="image/jpeg"/>
       <pubDate>Wed, 13 Aug 2025 18:39:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Joe Hisaishi - Day of the River (3 plays)</title>
+      <link>https://www.last.fm/music/Joe+Hisaishi/_/Day+of+the+River</link>
+      <guid isPermaLink="false">TalonsOfFire-1755185858--Joe Hisaishi---Day of the River</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a133c5c9b1153b4fdf1c68ebf8de79f8.jpg" length="24984" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 11:37:38 -0400</pubDate>
     </item>
   </channel>
 </rss>
