@@ -7,19 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Aug 2025 09:53:56 +0000</lastBuildDate>
-    <item>
-      <title>King Crimson - Lament (158 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Lament</link>
-      <guid isPermaLink="false">Frippertron-1755140639--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Lament</guid>
-      <pubDate>Wed, 13 Aug 2025 23:03:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>King Crimson - Improv I (2 plays)</title>
-      <link>https://www.last.fm/music/King+Crimson/_/Improv+I</link>
-      <guid isPermaLink="false">Frippertron-1755140893--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Improv I</guid>
-      <pubDate>Wed, 13 Aug 2025 23:08:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 10:27:02 +0000</lastBuildDate>
     <item>
       <title>King Crimson - Exiles (66 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Exiles</link>
@@ -222,14 +210,14 @@
       <pubDate>Thu, 14 Aug 2025 01:54:13 -0400</pubDate>
     </item>
     <item>
-      <title>Akira Ishikawa &amp; Count Buffalos - Electrum (1 play)</title>
+      <title>Akira Ishikawa &amp; Count Buffalos - Electrum (2 plays)</title>
       <link>https://www.last.fm/music/Akira+Ishikawa+&amp;+Count+Buffalos/_/Electrum</link>
       <guid isPermaLink="false">Frippertron-1755151717--Akira Ishikawa &amp; Count Buffalos---Electrum</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d413ec70a2b883b12bf45d07cbf757fd.jpg" length="22862" type="image/jpeg"/>
       <pubDate>Thu, 14 Aug 2025 02:08:37 -0400</pubDate>
     </item>
     <item>
-      <title>Akira Ishikawa &amp; Count Buffalos - Revulsion (1 play)</title>
+      <title>Akira Ishikawa &amp; Count Buffalos - Revulsion (2 plays)</title>
       <link>https://www.last.fm/music/Akira+Ishikawa+&amp;+Count+Buffalos/_/Revulsion</link>
       <guid isPermaLink="false">Frippertron-1755152973--Akira Ishikawa &amp; Count Buffalos---Revulsion</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d413ec70a2b883b12bf45d07cbf757fd.jpg" length="22862" type="image/jpeg"/>
@@ -332,6 +320,20 @@
       <guid isPermaLink="false">Frippertron-1755164705--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Lizard</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 14 Aug 2025 05:45:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Akira Ishikawa &amp; Count Buffalos - Electrum (2 plays)</title>
+      <link>https://www.last.fm/music/Akira+Ishikawa+&amp;+Count+Buffalos/_/Electrum</link>
+      <guid isPermaLink="false">Frippertron-1755165721--Akira Ishikawa &amp; Count Buffalos---Electrum</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d413ec70a2b883b12bf45d07cbf757fd.jpg" length="22862" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 06:02:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Akira Ishikawa &amp; Count Buffalos - Revulsion (2 plays)</title>
+      <link>https://www.last.fm/music/Akira+Ishikawa+&amp;+Count+Buffalos/_/Revulsion</link>
+      <guid isPermaLink="false">Frippertron-1755166977--Akira Ishikawa &amp; Count Buffalos---Revulsion</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d413ec70a2b883b12bf45d07cbf757fd.jpg" length="22862" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 06:22:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
