@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 03:12:44 +0000</lastBuildDate>
-    <item>
-      <title>Goodbye World - Laugh Out Loud (1 play)</title>
-      <link>https://www.last.fm/music/Goodbye+World/_/Laugh+Out+Loud</link>
-      <guid isPermaLink="false">Frippertron-1755499061--Goodbye World---Laugh Out Loud</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0238bcbe2ff2b3c81d9769aede1306f0.png" length="54742" type="image/png"/>
-      <pubDate>Mon, 18 Aug 2025 02:37:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Goodbye World - Normal (1 play)</title>
-      <link>https://www.last.fm/music/Goodbye+World/_/Normal</link>
-      <guid isPermaLink="false">Frippertron-1755499109--Goodbye World---Normal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0238bcbe2ff2b3c81d9769aede1306f0.png" length="54742" type="image/png"/>
-      <pubDate>Mon, 18 Aug 2025 02:38:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Goodbye World - I Must Be Destroyed (1 play)</title>
-      <link>https://www.last.fm/music/Goodbye+World/_/I+Must+Be+Destroyed</link>
-      <guid isPermaLink="false">Frippertron-1755499159--Goodbye World---I Must Be Destroyed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0238bcbe2ff2b3c81d9769aede1306f0.png" length="54742" type="image/png"/>
-      <pubDate>Mon, 18 Aug 2025 02:39:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 03:49:40 +0000</lastBuildDate>
     <item>
       <title>Goodbye World - In Flames (1 play)</title>
       <link>https://www.last.fm/music/Goodbye+World/_/In+Flames</link>
@@ -137,7 +116,7 @@
       <pubDate>Mon, 18 Aug 2025 03:29:58 -0400</pubDate>
     </item>
     <item>
-      <title>José Mário Branco - A Noite (55 plays)</title>
+      <title>José Mário Branco - A Noite (56 plays)</title>
       <link>https://www.last.fm/music/Jos%C3%A9+M%C3%A1rio+Branco/_/A+Noite</link>
       <guid isPermaLink="false">Frippertron-1755502521--382f06d0-580b-4eef-b606-a5b8c2ff5117---A Noite</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43d8e7f52fde452abaaf136ab5e148ee.jpg" length="19911" type="image/jpeg"/>
@@ -342,6 +321,25 @@
       <guid isPermaLink="false">Frippertron-1755572959--2f31098d-1258-4f8f-af5f-95815b02f2d2---Abre Alas</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e57a941e22a58c942e0db84672331426.jpg" length="16448" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 23:09:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Milton Nascimento - Fazenda (57 plays)</title>
+      <link>https://www.last.fm/music/Milton+Nascimento/_/Fazenda</link>
+      <guid isPermaLink="false">Frippertron-1755573211--1bfa27e3-0376-4206-a772-4586e25a64f5---Fazenda</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/000842b33fd9494997354b7382e04604.jpg" length="6051" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 23:13:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Milton Nascimento - Leo (8 plays)</title>
+      <link>https://www.last.fm/music/Milton+Nascimento/_/Leo</link>
+      <guid isPermaLink="false">Frippertron-1755573431--1bfa27e3-0376-4206-a772-4586e25a64f5---Leo</guid>
+      <pubDate>Mon, 18 Aug 2025 23:17:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>José Mário Branco - A Noite (56 plays)</title>
+      <link>https://www.last.fm/music/Jos%C3%A9+M%C3%A1rio+Branco/_/A+Noite</link>
+      <guid isPermaLink="false">Frippertron-1755573680--382f06d0-580b-4eef-b606-a5b8c2ff5117---A Noite</guid>
+      <pubDate>Mon, 18 Aug 2025 23:21:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
