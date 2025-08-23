@@ -22,7 +22,7 @@ idna==3.10
     # via
     #   anyio
     #   httpx
-lxml==6.0.0
+lxml==6.0.1
     # via feedgen
 plumbum==1.9.0
     # via -r requirements.in
