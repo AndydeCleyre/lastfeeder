@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 04:44:57 +0000</lastBuildDate>
-    <item>
-      <title>Dijon - Automatic (1 play)</title>
-      <link>https://www.last.fm/music/Dijon/_/Automatic</link>
-      <guid isPermaLink="false">Frippertron-1756391789--cceea21d-f3ec-4586-be7a-d2e939c15c78---Automatic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/466b69fba8953227c6a0aa07e1899e45.jpg" length="20664" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 10:36:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 04:56:48 +0000</lastBuildDate>
     <item>
       <title>Dijon - Kindalove (1 play)</title>
       <link>https://www.last.fm/music/Dijon/_/Kindalove</link>
@@ -340,7 +333,7 @@
       <pubDate>Fri, 29 Aug 2025 00:22:33 -0400</pubDate>
     </item>
     <item>
-      <title>King Crimson - The Errors (11 plays)</title>
+      <title>King Crimson - The Errors</title>
       <link>https://www.last.fm/music/King+Crimson/_/The+Errors</link>
       <guid isPermaLink="false">Frippertron-1756441500--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Errors</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -352,6 +345,13 @@
       <guid isPermaLink="false">Frippertron-1756441765--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---A Scarcity of Miracles</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 29 Aug 2025 00:29:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Eiko Ishibashi &amp; Jim O'Rourke - Par (1 play)</title>
+      <link>https://www.last.fm/music/Eiko+Ishibashi+&amp;+Jim+O%27Rourke/_/Par</link>
+      <guid isPermaLink="false">Frippertron-1756442922--Eiko Ishibashi &amp; Jim O'Rourke---Par</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1a2bffa7ab1a0b54651223a1d114ae4.jpg" length="24628" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 00:48:42 -0400</pubDate>
     </item>
   </channel>
 </rss>
