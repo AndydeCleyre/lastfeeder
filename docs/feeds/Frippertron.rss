@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 21:19:24 +0000</lastBuildDate>
-    <item>
-      <title>Prefab Sprout - Bonny (59 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Bonny</link>
-      <guid isPermaLink="false">Frippertron-1756451893--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Bonny</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d011a1979fde0b1fbf90a1cf07b3fdd2.jpg" length="24717" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 03:18:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Prefab Sprout - Appetite (103 plays)</title>
-      <link>https://www.last.fm/music/Prefab+Sprout/_/Appetite</link>
-      <guid isPermaLink="false">Frippertron-1756452119--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Appetite</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d011a1979fde0b1fbf90a1cf07b3fdd2.jpg" length="24717" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 03:21:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 Aug 2025 11:38:52 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - When Love Breaks Down (75 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/When+Love+Breaks+Down</link>
@@ -343,10 +329,24 @@
       <pubDate>Fri, 29 Aug 2025 16:47:36 -0400</pubDate>
     </item>
     <item>
-      <title>King Crimson - Meltdown (8 plays)</title>
+      <title>King Crimson - Meltdown (9 plays)</title>
       <link>https://www.last.fm/music/King+Crimson/_/Meltdown</link>
       <guid isPermaLink="false">Frippertron-1756500837--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Meltdown</guid>
       <pubDate>Fri, 29 Aug 2025 16:53:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Meltdown (9 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Meltdown</link>
+      <guid isPermaLink="false">Frippertron-1756553027--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Meltdown</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 30 Aug 2025 07:23:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - Suitable Grounds for the Blues (24 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/Suitable+Grounds+for+the+Blues</link>
+      <guid isPermaLink="false">Frippertron-1756553293--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---Suitable Grounds for the Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 30 Aug 2025 07:28:13 -0400</pubDate>
     </item>
   </channel>
 </rss>
