@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 06:53:31 +0000</lastBuildDate>
-    <item>
-      <title>Yes - City of Love (3 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/City+of+Love</link>
-      <guid isPermaLink="false">Frippertron-1756771594--8353f93f-163e-48c2-bb75-9f18987a3d46---City of Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6f0c17764a124befcb88d5b22a37d1f3.jpg" length="4669" type="image/jpeg"/>
-      <pubDate>Mon, 01 Sep 2025 20:06:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Laurel Halo - Thrax (4 plays)</title>
-      <link>https://www.last.fm/music/Laurel+Halo/_/Thrax</link>
-      <guid isPermaLink="false">Frippertron-1756771596--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Thrax</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d28edeabf91c4e44ce0000572e7b49de.jpg" length="31392" type="image/jpeg"/>
-      <pubDate>Mon, 01 Sep 2025 20:06:36 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Across the Universe (19 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Across+the+Universe</link>
-      <guid isPermaLink="false">Frippertron-1756771679--5441c29d-3602-4898-b1a1-b77fa23b8e50---Across the Universe</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557b327276dfb919e9bffc6303192a1f.png" length="146761" type="image/png"/>
-      <pubDate>Mon, 01 Sep 2025 20:07:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 07:21:19 +0000</lastBuildDate>
     <item>
       <title>Laurel Halo - Shake (5 plays)</title>
       <link>https://www.last.fm/music/Laurel+Halo/_/Shake</link>
@@ -357,6 +336,25 @@
       <guid isPermaLink="false">Frippertron-1756882119--U.K.---Danger Money</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2f0af2981dfc002b0c5ee97faf1f0e85.png" length="204913" type="image/png"/>
       <pubDate>Wed, 03 Sep 2025 02:48:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>UK - Caesar's Palace Blues (68 plays)</title>
+      <link>https://www.last.fm/music/UK/_/Caesar%27s+Palace+Blues</link>
+      <guid isPermaLink="false">Frippertron-1756882633--f7c0267c-5dad-4e43-ac06-844c54a77e1c---Caesar's Palace Blues</guid>
+      <pubDate>Wed, 03 Sep 2025 02:57:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Peter Hammill - Forsaken Gardens (13 plays)</title>
+      <link>https://www.last.fm/music/Peter+Hammill/_/Forsaken+Gardens</link>
+      <guid isPermaLink="false">Frippertron-1756882955--3b972356-4410-4858-ab9c-6e3c3cf76609---Forsaken Gardens</guid>
+      <pubDate>Wed, 03 Sep 2025 03:02:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Peter Hammill - A Louse Is Not a Home (81 plays)</title>
+      <link>https://www.last.fm/music/Peter+Hammill/_/A+Louse+Is+Not+a+Home</link>
+      <guid isPermaLink="false">Frippertron-1756883336--3b972356-4410-4858-ab9c-6e3c3cf76609---A Louse Is Not a Home</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb88163072e011215888e32ec49c5fa0.jpg" length="10881" type="image/jpeg"/>
+      <pubDate>Wed, 03 Sep 2025 03:08:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
