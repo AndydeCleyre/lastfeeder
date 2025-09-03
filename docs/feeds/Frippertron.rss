@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 05:40:41 +0000</lastBuildDate>
-    <item>
-      <title>John Cale - Macbeth (58 plays)</title>
-      <link>https://www.last.fm/music/John+Cale/_/Macbeth</link>
-      <guid isPermaLink="false">Frippertron-1756771345--72c090b6-a68e-4cb9-b330-85278681a714---Macbeth</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5578cab39b47730a9ac36882c44dcf4e.jpg" length="14319" type="image/jpeg"/>
-      <pubDate>Mon, 01 Sep 2025 20:02:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Laurel Halo - Drift (6 plays)</title>
-      <link>https://www.last.fm/music/Laurel+Halo/_/Drift</link>
-      <guid isPermaLink="false">Frippertron-1756771366--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Drift</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3f71de1d7c2ddfb2dff35f281b5098f5.jpg" length="41053" type="image/jpeg"/>
-      <pubDate>Mon, 01 Sep 2025 20:02:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 05:52:24 +0000</lastBuildDate>
     <item>
       <title>Julia Holter - Boy in the Moon (4 plays)</title>
       <link>https://www.last.fm/music/Julia+Holter/_/Boy+in+the+Moon</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1756877451--15b1cbac-060a-4136-9e07-4622c52c0f60---Ne Chantez Pas La Mort</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5da8c0152de96b9867bfe909c53a726f.jpg" length="32838" type="image/jpeg"/>
       <pubDate>Wed, 03 Sep 2025 01:30:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Léo Ferré - Night And Day (2 plays)</title>
+      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/Night+And+Day</link>
+      <guid isPermaLink="false">Frippertron-1756877903--15b1cbac-060a-4136-9e07-4622c52c0f60---Night And Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5da8c0152de96b9867bfe909c53a726f.jpg" length="32838" type="image/jpeg"/>
+      <pubDate>Wed, 03 Sep 2025 01:38:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Léo Ferré - Richard (2 plays)</title>
+      <link>https://www.last.fm/music/L%C3%A9o+Ferr%C3%A9/_/Richard</link>
+      <guid isPermaLink="false">Frippertron-1756878304--15b1cbac-060a-4136-9e07-4622c52c0f60---Richard</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5da8c0152de96b9867bfe909c53a726f.jpg" length="32838" type="image/jpeg"/>
+      <pubDate>Wed, 03 Sep 2025 01:45:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
