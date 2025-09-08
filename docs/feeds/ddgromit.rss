@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 20:24:27 +0000</lastBuildDate>
-    <item>
-      <title>Askjell - sofia (2 plays)</title>
-      <link>https://www.last.fm/music/Askjell/_/sofia</link>
-      <guid isPermaLink="false">ddgromit-1757091205--Askjell---sofia</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f185a4a1d5f292dfa8bdcc92d05cc77.jpg" length="9064" type="image/jpeg"/>
-      <pubDate>Fri, 05 Sep 2025 12:53:25 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 20:41:53 +0000</lastBuildDate>
     <item>
       <title>Vangelis - Love Theme (2 plays)</title>
       <link>https://www.last.fm/music/Vangelis/_/Love+Theme</link>
@@ -173,6 +166,7 @@
       <title>Charlotte Gainsbourg - Deadly Valentine (2 plays)</title>
       <link>https://www.last.fm/music/Charlotte+Gainsbourg/_/Deadly+Valentine</link>
       <guid isPermaLink="false">ddgromit-1757294052--6efa29c6-9995-48e0-9eaf-3809464a39a7---Deadly Valentine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4c6e381a3aef4505ee35557728f03736.png" length="99743" type="image/png"/>
       <pubDate>Sun, 07 Sep 2025 21:14:12 -0400</pubDate>
     </item>
     <item>
@@ -326,6 +320,7 @@
       <title>The Blaze - EYES (6 plays)</title>
       <link>https://www.last.fm/music/The+Blaze/_/EYES</link>
       <guid isPermaLink="false">ddgromit-1757361353--d18a2838-05fa-4e4e-bbb5-284a4cfb13f5---EYES</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be00a0ae07c19f15beaff8099b7373ca.png" length="135937" type="image/png"/>
       <pubDate>Mon, 08 Sep 2025 15:55:53 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1757362510--e6de1f3b-6484-491c-88dd-6d619f142abc---Run For The Podium</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1003e8d35d385e47094e3e06984f405b.jpg" length="16347" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 16:15:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hans Zimmer - Three Laps Is A Lifetime (1 play)</title>
+      <link>https://www.last.fm/music/Hans+Zimmer/_/Three+Laps+Is+A+Lifetime</link>
+      <guid isPermaLink="false">ddgromit-1757362903--e6de1f3b-6484-491c-88dd-6d619f142abc---Three Laps Is A Lifetime</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1003e8d35d385e47094e3e06984f405b.jpg" length="16347" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 16:21:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
