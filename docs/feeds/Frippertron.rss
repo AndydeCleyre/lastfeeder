@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 23:38:51 +0000</lastBuildDate>
-    <item>
-      <title>Alan Palomo - La Madrileña (24 plays)</title>
-      <link>https://www.last.fm/music/Alan+Palomo/_/La+Madrile%C3%B1a</link>
-      <guid isPermaLink="false">Frippertron-1757312641--64ba761f-f24d-4bee-a9d6-ce0378c22ae9---La Madrileña</guid>
-      <pubDate>Mon, 08 Sep 2025 02:24:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Swans Way - Soul Train (52 plays)</title>
-      <link>https://www.last.fm/music/Swans+Way/_/Soul+Train</link>
-      <guid isPermaLink="false">Frippertron-1757312867--45d9f04f-b6c8-4d01-9e02-0071b29302df---Soul Train</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/47a9ee59b8d24813b2a0bd40a95cd31d.jpg" length="23852" type="image/jpeg"/>
-      <pubDate>Mon, 08 Sep 2025 02:27:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 23:53:37 +0000</lastBuildDate>
     <item>
       <title>Underworld - Boiler Room</title>
       <link>https://www.last.fm/music/Underworld/_/Boiler+Room</link>
@@ -32,14 +19,12 @@
       <title>The Mars Volta - Aberinkula (211 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
       <guid isPermaLink="false">Frippertron-1757318640--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 04:04:00 -0400</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Metatron (250 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
       <guid isPermaLink="false">Frippertron-1757318985--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 04:09:45 -0400</pubDate>
     </item>
     <item>
@@ -154,14 +139,12 @@
       <title>Laurel Halo - Do U Ever Happen (8 plays)</title>
       <link>https://www.last.fm/music/Laurel+Halo/_/Do+U+Ever+Happen</link>
       <guid isPermaLink="false">Frippertron-1757328927--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Do U Ever Happen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f38c8bd6cc030a5f9917e2890ec1305e.jpg" length="20478" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 06:55:27 -0400</pubDate>
     </item>
     <item>
       <title>Laurel Halo - Buh-bye (8 plays)</title>
       <link>https://www.last.fm/music/Laurel+Halo/_/Buh-bye</link>
       <guid isPermaLink="false">Frippertron-1757329243--cb5704af-3ef1-485f-bb7f-e43cf40170a7---Buh-bye</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f38c8bd6cc030a5f9917e2890ec1305e.jpg" length="20478" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 07:00:43 -0400</pubDate>
     </item>
     <item>
@@ -343,6 +326,20 @@
       <guid isPermaLink="false">Frippertron-1757374313--Shallowater---Untitled Cowboy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7cc3ca8a79f237f00f89b73b5b08ad36.jpg" length="22185" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 19:31:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Shallowater - Highway (1 play)</title>
+      <link>https://www.last.fm/music/Shallowater/_/Highway</link>
+      <guid isPermaLink="false">Frippertron-1757374815--8feeecfe-996d-4c06-a8b1-c9bb9586e14d---Highway</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7cc3ca8a79f237f00f89b73b5b08ad36.jpg" length="22185" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 19:40:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Shallowater - Ativan (1 play)</title>
+      <link>https://www.last.fm/music/Shallowater/_/Ativan</link>
+      <guid isPermaLink="false">Frippertron-1757375163--8feeecfe-996d-4c06-a8b1-c9bb9586e14d---Ativan</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7cc3ca8a79f237f00f89b73b5b08ad36.jpg" length="22185" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 19:46:03 -0400</pubDate>
     </item>
   </channel>
 </rss>
