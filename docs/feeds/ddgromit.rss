@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 17:38:32 +0000</lastBuildDate>
-    <item>
-      <title>LCD Soundsystem - All My Friends (4 plays)</title>
-      <link>https://www.last.fm/music/LCD+Soundsystem/_/All+My+Friends</link>
-      <guid isPermaLink="false">ddgromit-1757294723--2aaf7396-6ab8-40f3-9776-a41c42c8e26b---All My Friends</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/62e79d7331b34ea9ced494570a2fe797.png" length="185603" type="image/png"/>
-      <pubDate>Sun, 07 Sep 2025 21:25:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>Band of Horses - Casual Party (1 play)</title>
-      <link>https://www.last.fm/music/Band+of+Horses/_/Casual+Party</link>
-      <guid isPermaLink="false">ddgromit-1757295186--07b6020a-c539-4d68-aeef-f159f3befc76---Casual Party</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e2583a0ac99546e233200c22c45889f.jpg" length="18406" type="image/jpeg"/>
-      <pubDate>Sun, 07 Sep 2025 21:33:06 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 17:52:59 +0000</lastBuildDate>
     <item>
       <title>Vampire Weekend - Ya Hey (7 plays)</title>
       <link>https://www.last.fm/music/Vampire+Weekend/_/Ya+Hey</link>
@@ -152,7 +138,6 @@
       <title>The Blaze - EYES (6 plays)</title>
       <link>https://www.last.fm/music/The+Blaze/_/EYES</link>
       <guid isPermaLink="false">ddgromit-1757361353--d18a2838-05fa-4e4e-bbb5-284a4cfb13f5---EYES</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/be00a0ae07c19f15beaff8099b7373ca.png" length="135937" type="image/png"/>
       <pubDate>Mon, 08 Sep 2025 15:55:53 -0400</pubDate>
     </item>
     <item>
@@ -327,6 +312,7 @@
       <title>Cut Copy - Need You Now (7 plays)</title>
       <link>https://www.last.fm/music/Cut+Copy/_/Need+You+Now</link>
       <guid isPermaLink="false">ddgromit-1757437978--caaba574-dfbc-4681-8e56-19b5150897d2---Need You Now</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6902147260cd645bf32ecdbf14ff88e1.jpg" length="19355" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 13:12:58 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +342,20 @@
       <guid isPermaLink="false">ddgromit-1757439134--52074ba6-e495-4ef3-9bb4-0703888a9f68---Wake Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3278464e10e38a8119da1d9455681654.jpg" length="26383" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 13:32:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Still Corners - Black Lagoon (1 play)</title>
+      <link>https://www.last.fm/music/Still+Corners/_/Black+Lagoon</link>
+      <guid isPermaLink="false">ddgromit-1757439470--ea5493df-b8d9-4c89-bd5b-6c4aeba7a0ac---Black Lagoon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ac9b60006c6de80c80a14cd12fa30ba.jpg" length="28512" type="image/jpeg"/>
+      <pubDate>Tue, 09 Sep 2025 13:37:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hans Zimmer - Drive Fast (2 plays)</title>
+      <link>https://www.last.fm/music/Hans+Zimmer/_/Drive+Fast</link>
+      <guid isPermaLink="false">ddgromit-1757439883--e6de1f3b-6484-491c-88dd-6d619f142abc---Drive Fast</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1003e8d35d385e47094e3e06984f405b.jpg" length="16347" type="image/jpeg"/>
+      <pubDate>Tue, 09 Sep 2025 13:44:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
