@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 15:41:24 +0000</lastBuildDate>
-    <item>
-      <title>Charley Crockett - Run Horse Run (6 plays)</title>
-      <link>https://www.last.fm/music/Charley+Crockett/_/Run+Horse+Run</link>
-      <guid isPermaLink="false">gameofmetal-1757464051--cf391be8-a609-4fcf-8de1-0eff6b639ae5---Run Horse Run</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d88f01a942447fb85b68441ef10662ec.png" length="155972" type="image/png"/>
-      <pubDate>Tue, 09 Sep 2025 20:27:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Charley Crockett - Don't Cry (4 plays)</title>
-      <link>https://www.last.fm/music/Charley+Crockett/_/Don%27t+Cry</link>
-      <guid isPermaLink="false">gameofmetal-1757464212--cf391be8-a609-4fcf-8de1-0eff6b639ae5---Don't Cry</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d88f01a942447fb85b68441ef10662ec.png" length="155972" type="image/png"/>
-      <pubDate>Tue, 09 Sep 2025 20:30:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 15:53:19 +0000</lastBuildDate>
     <item>
       <title>Charley Crockett - Tennessee Special (4 plays)</title>
       <link>https://www.last.fm/music/Charley+Crockett/_/Tennessee+Special</link>
@@ -355,8 +341,20 @@
       <title>The Contortionist - The Source (7 plays)</title>
       <link>https://www.last.fm/music/The+Contortionist/_/The+Source</link>
       <guid isPermaLink="false">gameofmetal-1757518549--a630b133-bcc4-4796-9a0e-685c68b1e6ab---The Source</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0278f1d72c580189caf3d3f3fb040dc9.jpg" length="13195" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0278f1d72c580189caf3d3f3fb040dc9.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Wed, 10 Sep 2025 11:35:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Contortionist - Language I: Intuition (7 plays)</title>
+      <link>https://www.last.fm/music/The+Contortionist/_/Language+I:+Intuition</link>
+      <guid isPermaLink="false">gameofmetal-1757518708--a630b133-bcc4-4796-9a0e-685c68b1e6ab---Language I: Intuition</guid>
+      <pubDate>Wed, 10 Sep 2025 11:38:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Contortionist - Language II: Conspire (5 plays)</title>
+      <link>https://www.last.fm/music/The+Contortionist/_/Language+II:+Conspire</link>
+      <guid isPermaLink="false">gameofmetal-1757519031--a630b133-bcc4-4796-9a0e-685c68b1e6ab---Language II: Conspire</guid>
+      <pubDate>Wed, 10 Sep 2025 11:43:51 -0400</pubDate>
     </item>
   </channel>
 </rss>
