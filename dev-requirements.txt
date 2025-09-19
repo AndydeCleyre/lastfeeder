@@ -1,10 +1,10 @@
-black==25.1.0
+black==25.9.0
     # via -r dev-requirements.in
 certifi==2025.8.3
     # via requests
 charset-normalizer==3.4.3
     # via requests
-click==8.2.1
+click==8.3.0
     # via black
 docutils==0.22.1
     # via flit
@@ -23,6 +23,8 @@ packaging==25.0
 pathspec==0.12.1
     # via black
 platformdirs==4.4.0
+    # via black
+pytokens==0.1.10
     # via black
 requests==2.32.5
     # via flit
