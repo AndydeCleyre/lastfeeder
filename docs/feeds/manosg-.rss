@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 16:47:14 +0000</lastBuildDate>
-    <item>
-      <title>Dün - l'Epice (1 play)</title>
-      <link>https://www.last.fm/music/D%C3%BCn/_/l%27Epice</link>
-      <guid isPermaLink="false">manosg--1757933857--afa54368-3c41-4291-a8c8-c2955c78866e---l'Epice</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee27a175a5aae78afeea9cd3136ed35b.jpg" length="9437" type="image/jpeg"/>
-      <pubDate>Mon, 15 Sep 2025 06:57:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dün - Arrakis (1 play)</title>
-      <link>https://www.last.fm/music/D%C3%BCn/_/Arrakis</link>
-      <guid isPermaLink="false">manosg--1757934441--afa54368-3c41-4291-a8c8-c2955c78866e---Arrakis</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee27a175a5aae78afeea9cd3136ed35b.jpg" length="9437" type="image/jpeg"/>
-      <pubDate>Mon, 15 Sep 2025 07:07:21 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 17:17:11 +0000</lastBuildDate>
     <item>
       <title>Dün - Bitonio (1 play)</title>
       <link>https://www.last.fm/music/D%C3%BCn/_/Bitonio</link>
@@ -271,7 +257,6 @@
       <title>xatzifrageta - Taksiko (1 play)</title>
       <link>https://www.last.fm/music/xatzifrageta/_/Taksiko</link>
       <guid isPermaLink="false">manosg--1758187708--xatzifrageta---Taksiko</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fc4ba4639e1c44159853a7110ac96fbf.jpg" length="22717" type="image/jpeg"/>
       <pubDate>Thu, 18 Sep 2025 05:28:28 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">manosg--1758558681--Medieval Demon---Archaic Sacrificial Rites</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da00dc0005b8d04361054ea8b2945f3f.jpg" length="49751" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 12:31:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Medieval Demon - Primordial Souls of Tartarus (1 play)</title>
+      <link>https://www.last.fm/music/Medieval+Demon/_/Primordial+Souls+of+Tartarus</link>
+      <guid isPermaLink="false">manosg--1758559240--Medieval Demon---Primordial Souls of Tartarus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da00dc0005b8d04361054ea8b2945f3f.jpg" length="49751" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 12:40:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Medieval Demon - Eosforean Night (1 play)</title>
+      <link>https://www.last.fm/music/Medieval+Demon/_/Eosforean+Night</link>
+      <guid isPermaLink="false">manosg--1758559686--Medieval Demon---Eosforean Night</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da00dc0005b8d04361054ea8b2945f3f.jpg" length="49751" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 12:48:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
