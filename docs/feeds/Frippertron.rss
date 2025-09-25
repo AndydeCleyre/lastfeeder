@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 04:55:39 +0000</lastBuildDate>
-    <item>
-      <title>Portishead - It Could Be Sweet (5 plays)</title>
-      <link>https://www.last.fm/music/Portishead/_/It+Could+Be+Sweet</link>
-      <guid isPermaLink="false">Frippertron-1758701265--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---It Could Be Sweet</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29f72d0333df4193981b5ff16dd37df6.png" length="81442" type="image/png"/>
-      <pubDate>Wed, 24 Sep 2025 04:07:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 05:22:08 +0000</lastBuildDate>
     <item>
       <title>Portishead - Wandering Star (3 plays)</title>
       <link>https://www.last.fm/music/Portishead/_/Wandering+Star</link>
@@ -340,6 +333,13 @@
       <guid isPermaLink="false">Frippertron-1758775990--66cb12f6-6502-486d-bf67-efd5bdaee6ac---Meteor</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e9baddc7bff84ae6aeccb19079064034.jpg" length="18438" type="image/jpeg"/>
       <pubDate>Thu, 25 Sep 2025 00:53:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Voivod - Cosmic Conspiracy (1 play)</title>
+      <link>https://www.last.fm/music/Voivod/_/Cosmic+Conspiracy</link>
+      <guid isPermaLink="false">Frippertron-1758776260--66cb12f6-6502-486d-bf67-efd5bdaee6ac---Cosmic Conspiracy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e9baddc7bff84ae6aeccb19079064034.jpg" length="18438" type="image/jpeg"/>
+      <pubDate>Thu, 25 Sep 2025 00:57:40 -0400</pubDate>
     </item>
   </channel>
 </rss>
