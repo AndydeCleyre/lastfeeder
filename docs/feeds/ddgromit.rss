@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 22:39:32 +0000</lastBuildDate>
-    <item>
-      <title>Tom Odell - Another Love (4 plays)</title>
-      <link>https://www.last.fm/music/Tom+Odell/_/Another+Love</link>
-      <guid isPermaLink="false">ddgromit-1758833073--fee6a7fb-80d9-4290-a171-e48f1f20e381---Another Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdfebc9ffd15402c86ecf782fd4022e4.png" length="183232" type="image/png"/>
-      <pubDate>Thu, 25 Sep 2025 16:44:33 -0400</pubDate>
-    </item>
-    <item>
-      <title>Hollow Coves - Coastline (3 plays)</title>
-      <link>https://www.last.fm/music/Hollow+Coves/_/Coastline</link>
-      <guid isPermaLink="false">ddgromit-1758833318--f50e7f7a-7c45-4cd1-b541-c2302a1fda65---Coastline</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a978e5bb9d0df8c3f38459e491738db7.jpg" length="11814" type="image/jpeg"/>
-      <pubDate>Thu, 25 Sep 2025 16:48:38 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 22:52:17 +0000</lastBuildDate>
     <item>
       <title>Gregory Alan Isakov - San Luis (4 plays)</title>
       <link>https://www.last.fm/music/Gregory+Alan+Isakov/_/San+Luis</link>
@@ -285,6 +271,7 @@
       <title>RØRE - Namsos (2 plays)</title>
       <link>https://www.last.fm/music/R%C3%98RE/_/Namsos</link>
       <guid isPermaLink="false">ddgromit-1758924169--RØRE---Namsos</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52a7cfefbb075f71860ad604a282d1de.jpg" length="12860" type="image/jpeg"/>
       <pubDate>Fri, 26 Sep 2025 18:02:49 -0400</pubDate>
     </item>
     <item>
@@ -337,14 +324,14 @@
       <pubDate>Fri, 26 Sep 2025 18:24:23 -0400</pubDate>
     </item>
     <item>
-      <title>Avery Bright - The Bear (1 play)</title>
+      <title>Avery Bright - The Bear (2 plays)</title>
       <link>https://www.last.fm/music/Avery+Bright/_/The+Bear</link>
       <guid isPermaLink="false">ddgromit-1758925677--Avery Bright---The Bear</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 26 Sep 2025 18:27:57 -0400</pubDate>
     </item>
     <item>
-      <title>Avery Bright - Ocean Eyes (Havets Øyne) (1 play)</title>
+      <title>Avery Bright - Ocean Eyes (Havets Øyne) (2 plays)</title>
       <link>https://www.last.fm/music/Avery+Bright/_/Ocean+Eyes+(Havets+%C3%98yne)</link>
       <guid isPermaLink="false">ddgromit-1758925906--Avery Bright---Ocean Eyes (Havets Øyne)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">ddgromit-1758926106--Avery Bright---The Bear - Piano Version</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Fri, 26 Sep 2025 18:35:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Avery Bright - The Bear (2 plays)</title>
+      <link>https://www.last.fm/music/Avery+Bright/_/The+Bear</link>
+      <guid isPermaLink="false">ddgromit-1758926307--Avery Bright---The Bear</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 26 Sep 2025 18:38:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Avery Bright - Ocean Eyes (Havets Øyne) (2 plays)</title>
+      <link>https://www.last.fm/music/Avery+Bright/_/Ocean+Eyes+(Havets+%C3%98yne)</link>
+      <guid isPermaLink="false">ddgromit-1758926537--Avery Bright---Ocean Eyes (Havets Øyne)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Fri, 26 Sep 2025 18:42:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
