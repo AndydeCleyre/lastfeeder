@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 16:42:15 +0000</lastBuildDate>
-    <item>
-      <title>The Last Drive - Flesh Diver (2 plays)</title>
-      <link>https://www.last.fm/music/The+Last+Drive/_/Flesh+Diver</link>
-      <guid isPermaLink="false">manosg--1758174407--15996171-9cdf-4ad6-8d9b-92ca2c5e28d1---Flesh Diver</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b97b85a9caf437a808c8fc2ae5909a2.jpg" length="33364" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 01:46:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Sep 2025 16:53:16 +0000</lastBuildDate>
     <item>
       <title>The Last Drive - sweet thing (3 plays)</title>
       <link>https://www.last.fm/music/The+Last+Drive/_/sweet+thing</link>
@@ -103,7 +96,7 @@
       <title>xatzifrageta - Serifos (Den Tha Figo Ap' To Nisi) (1 play)</title>
       <link>https://www.last.fm/music/xatzifrageta/_/Serifos+(Den+Tha+Figo+Ap%27+To+Nisi)</link>
       <guid isPermaLink="false">manosg--1758188051--xatzifrageta---Serifos (Den Tha Figo Ap' To Nisi)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca410be514803600fdf4fda7c27e1520.png" length="162352" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca410be514803600fdf4fda7c27e1520.png" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Thu, 18 Sep 2025 05:34:11 -0400</pubDate>
     </item>
     <item>
@@ -152,13 +145,13 @@
       <title>xatzifrageta - Ta Xanaftiaxame (1 play)</title>
       <link>https://www.last.fm/music/xatzifrageta/_/Ta+Xanaftiaxame</link>
       <guid isPermaLink="false">manosg--1758206402--xatzifrageta---Ta Xanaftiaxame</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca410be514803600fdf4fda7c27e1520.png" length="162352" type="image/png"/>
       <pubDate>Thu, 18 Sep 2025 10:40:02 -0400</pubDate>
     </item>
     <item>
       <title>xatzifrageta - O Daskalos Ki Ego - Bonus Track (2 plays)</title>
       <link>https://www.last.fm/music/xatzifrageta/_/O+Daskalos+Ki+Ego+-+Bonus+Track</link>
       <guid isPermaLink="false">manosg--1758206629--xatzifrageta---O Daskalos Ki Ego - Bonus Track</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/573958b98519851460da43d5810aa4df.jpg" length="21854" type="image/jpeg"/>
       <pubDate>Thu, 18 Sep 2025 10:43:49 -0400</pubDate>
     </item>
     <item>
@@ -197,7 +190,7 @@
       <pubDate>Mon, 22 Sep 2025 13:08:19 -0400</pubDate>
     </item>
     <item>
-      <title>Medieval Demon - Fullmoon Over the Temple of Belial (1 play)</title>
+      <title>Medieval Demon - Fullmoon Over the Temple of Belial (2 plays)</title>
       <link>https://www.last.fm/music/Medieval+Demon/_/Fullmoon+Over+the+Temple+of+Belial</link>
       <guid isPermaLink="false">manosg--1758564450--Medieval Demon---Fullmoon Over the Temple of Belial</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da00dc0005b8d04361054ea8b2945f3f.jpg" length="49751" type="image/jpeg"/>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">manosg--1759073401--Medieval Demon---Raging Lord of the Deeps</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da00dc0005b8d04361054ea8b2945f3f.jpg" length="49751" type="image/jpeg"/>
       <pubDate>Sun, 28 Sep 2025 11:30:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Medieval Demon - Fullmoon Over the Temple of Belial (2 plays)</title>
+      <link>https://www.last.fm/music/Medieval+Demon/_/Fullmoon+Over+the+Temple+of+Belial</link>
+      <guid isPermaLink="false">manosg--1759077418--Medieval Demon---Fullmoon Over the Temple of Belial</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da00dc0005b8d04361054ea8b2945f3f.jpg" length="49751" type="image/jpeg"/>
+      <pubDate>Sun, 28 Sep 2025 12:36:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
