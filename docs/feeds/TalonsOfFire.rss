@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 16:47:11 +0000</lastBuildDate>
-    <item>
-      <title>Mogwai - Acid Food (2 plays)</title>
-      <link>https://www.last.fm/music/Mogwai/_/Acid+Food</link>
-      <guid isPermaLink="false">TalonsOfFire-1759019810--d700b3f5-45af-4d02-95ed-57d301bda93e---Acid Food</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9549e95ea6e455ba52445e13ef0649a.png" length="192372" type="image/png"/>
-      <pubDate>Sat, 27 Sep 2025 20:36:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 17:18:58 +0000</lastBuildDate>
     <item>
       <title>The Future Sound of London - Space Squids (2 plays)</title>
       <link>https://www.last.fm/music/The+Future+Sound+of+London/_/Space+Squids</link>
@@ -47,13 +40,13 @@
       <title>The Durutti Column - Katherine (3 plays)</title>
       <link>https://www.last.fm/music/The+Durutti+Column/_/Katherine</link>
       <guid isPermaLink="false">TalonsOfFire-1759241319--aaddb5e3-f8a5-4a9d-8674-f885112ecf0e---Katherine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16af1b14af004437a8cb3e8a6ba15c7c.jpg" length="18016" type="image/jpeg"/>
       <pubDate>Tue, 30 Sep 2025 10:08:39 -0400</pubDate>
     </item>
     <item>
       <title>The Durutti Column - Pauline (3 plays)</title>
       <link>https://www.last.fm/music/The+Durutti+Column/_/Pauline</link>
       <guid isPermaLink="false">TalonsOfFire-1759241659--aaddb5e3-f8a5-4a9d-8674-f885112ecf0e---Pauline</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ccfca19a0a97464695d0195d5add78a8.png" length="126212" type="image/png"/>
       <pubDate>Tue, 30 Sep 2025 10:14:19 -0400</pubDate>
     </item>
     <item>
@@ -81,6 +74,7 @@
       <title>Bohren &amp; der Club of Gore - Tief gesunken (4 plays)</title>
       <link>https://www.last.fm/music/Bohren+&amp;+der+Club+of+Gore/_/Tief+gesunken</link>
       <guid isPermaLink="false">TalonsOfFire-1759257421--938df0a0-c650-4cf8-9b23-5ad8a5cb4805---Tief gesunken</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d67216bf499f518705039ab315a4c45a.jpg" length="28471" type="image/jpeg"/>
       <pubDate>Tue, 30 Sep 2025 14:37:01 -0400</pubDate>
     </item>
     <item>
@@ -325,6 +319,7 @@
       <title>Brian Eno - New Moons (3 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/New+Moons</link>
       <guid isPermaLink="false">TalonsOfFire-1759421611--ff95eb47-41c4-4f7f-a104-cdc30f02e872---New Moons</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a63eb45739b2b48dcf90402c15a307c.jpg" length="15691" type="image/jpeg"/>
       <pubDate>Thu, 02 Oct 2025 12:13:31 -0400</pubDate>
     </item>
     <item>
@@ -345,7 +340,6 @@
       <title>Ramin Djawadi - The Prince That Was Promised (3 plays)</title>
       <link>https://www.last.fm/music/Ramin+Djawadi/_/The+Prince+That+Was+Promised</link>
       <guid isPermaLink="false">TalonsOfFire-1759422899--f089f636-6b85-4e0e-a192-0d30ed2b44d1---The Prince That Was Promised</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c92628a2ae4e00b477cb1bbe8c7b17a6.png" length="210760" type="image/png"/>
       <pubDate>Thu, 02 Oct 2025 12:34:59 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +348,12 @@
       <guid isPermaLink="false">TalonsOfFire-1759423188--f089f636-6b85-4e0e-a192-0d30ed2b44d1---Kill Them All</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9571fe00aabc53b2a2eade9ecfd811d6.png" length="142606" type="image/png"/>
       <pubDate>Thu, 02 Oct 2025 12:39:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Helios - Cross the Ocean (3 plays)</title>
+      <link>https://www.last.fm/music/Helios/_/Cross+the+Ocean</link>
+      <guid isPermaLink="false">TalonsOfFire-1759423344--Helios---Cross the Ocean</guid>
+      <pubDate>Thu, 02 Oct 2025 12:42:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
