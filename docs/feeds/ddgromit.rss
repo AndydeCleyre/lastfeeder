@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 18:33:05 +0000</lastBuildDate>
-    <item>
-      <title>Clemens Ruh - The Quest (3 plays)</title>
-      <link>https://www.last.fm/music/Clemens+Ruh/_/The+Quest</link>
-      <guid isPermaLink="false">ddgromit-1759528594--694229e1-6208-4080-9ba7-92ecb8558a13---The Quest</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 03 Oct 2025 17:56:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>James Everingham - Chasing the Wind (2 plays)</title>
-      <link>https://www.last.fm/music/James+Everingham/_/Chasing+the+Wind</link>
-      <guid isPermaLink="false">ddgromit-1759528711--cdf6a8e2-0bb3-4627-8983-d2d3839f7542---Chasing the Wind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 03 Oct 2025 17:58:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 19:18:13 +0000</lastBuildDate>
     <item>
       <title>David Celeste - Sphinx (1 play)</title>
       <link>https://www.last.fm/music/David+Celeste/_/Sphinx</link>
@@ -208,6 +194,7 @@
       <title>David Celeste - None Left (2 plays)</title>
       <link>https://www.last.fm/music/David+Celeste/_/None+Left</link>
       <guid isPermaLink="false">ddgromit-1759534200--David Celeste---None Left</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f57e62ee82c1a4b337d779bd02ef073.jpg" length="11812" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 19:30:00 -0400</pubDate>
     </item>
     <item>
@@ -305,7 +292,6 @@
       <title>David A. Molina - Flight (1 play)</title>
       <link>https://www.last.fm/music/David+A.+Molina/_/Flight</link>
       <guid isPermaLink="false">ddgromit-1759536790--b6cc2fbf-1de1-485b-a2f4-95960b18b6a3---Flight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0c12ac9f2afc4ac0a8924b9ac1a6c72.jpg" length="22931" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 20:13:10 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +342,20 @@
       <guid isPermaLink="false">ddgromit-1759773253--d58c68e0-4f1c-4744-9d09-b9a781ba7fc7---Life Without Water</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c19c957815d4dbfddaaf3a6662e16e2.jpg" length="18151" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 13:54:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jacob Shea - Hunting Buffalo Herds (1 play)</title>
+      <link>https://www.last.fm/music/Jacob+Shea/_/Hunting+Buffalo+Herds</link>
+      <guid isPermaLink="false">ddgromit-1759773413--d58c68e0-4f1c-4744-9d09-b9a781ba7fc7---Hunting Buffalo Herds</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c19c957815d4dbfddaaf3a6662e16e2.jpg" length="18151" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 13:56:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jacob Shea - Monsoon Deserts/Canyonlands (1 play)</title>
+      <link>https://www.last.fm/music/Jacob+Shea/_/Monsoon+Deserts%2FCanyonlands</link>
+      <guid isPermaLink="false">ddgromit-1759778076--d58c68e0-4f1c-4744-9d09-b9a781ba7fc7---Monsoon Deserts/Canyonlands</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c19c957815d4dbfddaaf3a6662e16e2.jpg" length="18151" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 15:14:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
