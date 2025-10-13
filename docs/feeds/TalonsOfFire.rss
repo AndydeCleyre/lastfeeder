@@ -7,26 +7,11 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 21:52:36 +0000</lastBuildDate>
-    <item>
-      <title>Yonder Dale - Benevolent (1 play)</title>
-      <link>https://www.last.fm/music/Yonder+Dale/_/Benevolent</link>
-      <guid isPermaLink="false">TalonsOfFire-1760211672--Yonder Dale---Benevolent</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d459ccd693532fb70452d3d7bfe45c9.jpg" length="7662" type="image/jpeg"/>
-      <pubDate>Sat, 11 Oct 2025 15:41:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Yonder Dale - These Steady Hands (1 play)</title>
-      <link>https://www.last.fm/music/Yonder+Dale/_/These+Steady+Hands</link>
-      <guid isPermaLink="false">TalonsOfFire-1760211860--Yonder Dale---These Steady Hands</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d459ccd693532fb70452d3d7bfe45c9.jpg" length="7662" type="image/jpeg"/>
-      <pubDate>Sat, 11 Oct 2025 15:44:20 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 18:53:21 +0000</lastBuildDate>
     <item>
       <title>Yonder Dale - Uncertain Changes (1 play)</title>
       <link>https://www.last.fm/music/Yonder+Dale/_/Uncertain+Changes</link>
       <guid isPermaLink="false">TalonsOfFire-1760212027--Yonder Dale---Uncertain Changes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1351bdf246687d9ffc8bfba90ff35ba8.jpg" length="22883" type="image/jpeg"/>
       <pubDate>Sat, 11 Oct 2025 15:47:07 -0400</pubDate>
     </item>
     <item>
@@ -68,7 +53,6 @@
       <title>Niall Byrne - Howthian (1 play)</title>
       <link>https://www.last.fm/music/Niall+Byrne/_/Howthian</link>
       <guid isPermaLink="false">TalonsOfFire-1760223891--081494a5-f7b9-4033-b45d-d1395613f075---Howthian</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d83435a5189c60d674979d075811d5e.jpg" length="10830" type="image/jpeg"/>
       <pubDate>Sat, 11 Oct 2025 19:04:51 -0400</pubDate>
     </item>
     <item>
@@ -229,7 +213,6 @@
       <title>Adam S Hurst - Death Waltz (1 play)</title>
       <link>https://www.last.fm/music/Adam+S+Hurst/_/Death+Waltz</link>
       <guid isPermaLink="false">TalonsOfFire-1760292978--Adam S Hurst---Death Waltz</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b045e3484e14cad5aa442692603e740d.jpg" length="31270" type="image/jpeg"/>
       <pubDate>Sun, 12 Oct 2025 14:16:18 -0400</pubDate>
     </item>
     <item>
@@ -352,11 +335,25 @@
       <pubDate>Sun, 12 Oct 2025 15:16:38 -0400</pubDate>
     </item>
     <item>
-      <title>Jacopo Croci - Sunday Morning (1 play)</title>
+      <title>Jacopo Croci - Sunday Morning</title>
       <link>https://www.last.fm/music/Jacopo+Croci/_/Sunday+Morning</link>
       <guid isPermaLink="false">TalonsOfFire-1760305107--Jacopo Croci---Sunday Morning</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/849c61403033b25c77ad7f00aa1fe554.jpg" length="14636" type="image/jpeg"/>
       <pubDate>Sun, 12 Oct 2025 17:38:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>amr shalaby - Midnight Whisper (1 play)</title>
+      <link>https://www.last.fm/music/amr+shalaby/_/Midnight+Whisper</link>
+      <guid isPermaLink="false">TalonsOfFire-1760380582--amr shalaby---Midnight Whisper</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 13 Oct 2025 14:36:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>amr shalaby - Frailty of Nights (1 play)</title>
+      <link>https://www.last.fm/music/amr+shalaby/_/Frailty+of+Nights</link>
+      <guid isPermaLink="false">TalonsOfFire-1760381210--amr shalaby---Frailty of Nights</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 13 Oct 2025 14:46:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
