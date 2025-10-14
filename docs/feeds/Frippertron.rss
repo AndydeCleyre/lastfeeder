@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 15:42:16 +0000</lastBuildDate>
-    <item>
-      <title>Boris - You Will Know (Ohayo Version) (2 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/You+Will+Know+(Ohayo+Version)</link>
-      <guid isPermaLink="false">Frippertron-1760394824--590702b8-e5fd-43f7-9472-5f062f8e311e---You Will Know (Ohayo Version)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/38f850257c6930439700bf28506adb39.jpg" length="19570" type="image/jpeg"/>
-      <pubDate>Mon, 13 Oct 2025 18:33:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Boris - Feedbacker, Part 4 (9 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/Feedbacker,+Part+4</link>
-      <guid isPermaLink="false">Frippertron-1760395199--590702b8-e5fd-43f7-9472-5f062f8e311e---Feedbacker, Part 4</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44adc96e2eb18d67e14d58dd7603dc46.jpg" length="14166" type="image/jpeg"/>
-      <pubDate>Mon, 13 Oct 2025 18:39:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 15:53:57 +0000</lastBuildDate>
     <item>
       <title>Boris - Vein (Part Seven) (4 plays)</title>
       <link>https://www.last.fm/music/Boris/_/Vein+(Part+Seven)</link>
@@ -30,7 +16,7 @@
       <pubDate>Mon, 13 Oct 2025 18:44:46 -0400</pubDate>
     </item>
     <item>
-      <title>Boris - Flood, Part 2 (24 plays)</title>
+      <title>Boris - Flood, Part 2</title>
       <link>https://www.last.fm/music/Boris/_/Flood,+Part+2</link>
       <guid isPermaLink="false">Frippertron-1760395664--590702b8-e5fd-43f7-9472-5f062f8e311e---Flood, Part 2</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb46dc30de653812864c1ea1e4f21d9c.jpg" length="16057" type="image/jpeg"/>
@@ -186,7 +172,7 @@
       <pubDate>Mon, 13 Oct 2025 21:14:47 -0400</pubDate>
     </item>
     <item>
-      <title>Roy Wood - Miss Clarke and the Computer (11 plays)</title>
+      <title>Roy Wood - Miss Clarke and the Computer</title>
       <link>https://www.last.fm/music/Roy+Wood/_/Miss+Clarke+and+the+Computer</link>
       <guid isPermaLink="false">Frippertron-1760404736--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---Miss Clarke and the Computer</guid>
       <pubDate>Mon, 13 Oct 2025 21:18:56 -0400</pubDate>
@@ -212,7 +198,7 @@
       <pubDate>Mon, 13 Oct 2025 21:35:23 -0400</pubDate>
     </item>
     <item>
-      <title>Roy Wood - The Song (4 plays)</title>
+      <title>Roy Wood - The Song</title>
       <link>https://www.last.fm/music/Roy+Wood/_/The+Song</link>
       <guid isPermaLink="false">Frippertron-1760405998--9b39603c-0bdf-4697-86d2-fdd3498b4c0e---The Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8dc9ef6eed478ecbdd9c3a99e6a14233.jpg" length="30796" type="image/jpeg"/>
@@ -349,6 +335,20 @@
       <link>https://www.last.fm/music/Roy+Wood/_/Earthrise</link>
       <guid isPermaLink="false">Frippertron-1760456276--Roy Wood---Earthrise</guid>
       <pubDate>Tue, 14 Oct 2025 11:37:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mount Eerie - It Wasn't The Hunting (1 play)</title>
+      <link>https://www.last.fm/music/Mount+Eerie/_/It+Wasn%27t+The+Hunting</link>
+      <guid isPermaLink="false">Frippertron-1760456962--e5306b29-16c0-4520-bb05-6b21f041b2f0---It Wasn't The Hunting</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48a13b8689d67f28d21902b79dd10c31.jpg" length="17852" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 11:49:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mount Eerie - Cold Mountain (1 play)</title>
+      <link>https://www.last.fm/music/Mount+Eerie/_/Cold+Mountain</link>
+      <guid isPermaLink="false">Frippertron-1760457140--e5306b29-16c0-4520-bb05-6b21f041b2f0---Cold Mountain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48a13b8689d67f28d21902b79dd10c31.jpg" length="17852" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 11:52:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
