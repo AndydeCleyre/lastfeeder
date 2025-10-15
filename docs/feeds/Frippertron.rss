@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 15:41:59 +0000</lastBuildDate>
-    <item>
-      <title>Boris - 1970 (25 plays)</title>
-      <link>https://www.last.fm/music/Boris/_/1970</link>
-      <guid isPermaLink="false">Frippertron-1760526433--590702b8-e5fd-43f7-9472-5f062f8e311e---1970</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6232a3b735114c4497e3fe64fcb55668.png" length="13914" type="image/png"/>
-      <pubDate>Wed, 15 Oct 2025 07:07:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Microphones - Samurai Sword (7 plays)</title>
-      <link>https://www.last.fm/music/The+Microphones/_/Samurai+Sword</link>
-      <guid isPermaLink="false">Frippertron-1760532316--6f2f87e7-3ce9-4f1c-81dd-6f068a78cf26---Samurai Sword</guid>
-      <pubDate>Wed, 15 Oct 2025 08:45:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 15:53:22 +0000</lastBuildDate>
     <item>
       <title>The Microphones - My Warm Blood (3 plays)</title>
       <link>https://www.last.fm/music/The+Microphones/_/My+Warm+Blood</link>
@@ -176,14 +163,14 @@
       <pubDate>Wed, 15 Oct 2025 10:04:56 -0400</pubDate>
     </item>
     <item>
-      <title>Mount Eerie - No Flashlight (1 play)</title>
+      <title>Mount Eerie - No Flashlight (2 plays)</title>
       <link>https://www.last.fm/music/Mount+Eerie/_/No+Flashlight</link>
       <guid isPermaLink="false">Frippertron-1760537241--e5306b29-16c0-4520-bb05-6b21f041b2f0---No Flashlight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dab838e3181321e7923b25271389180d.jpg" length="21594" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 10:07:21 -0400</pubDate>
     </item>
     <item>
-      <title>Mount Eerie - (2 Moons) (1 play)</title>
+      <title>Mount Eerie - (2 Moons) (2 plays)</title>
       <link>https://www.last.fm/music/Mount+Eerie/_/(2+Moons)</link>
       <guid isPermaLink="false">Frippertron-1760537471--e5306b29-16c0-4520-bb05-6b21f041b2f0---(2 Moons)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dab838e3181321e7923b25271389180d.jpg" length="21594" type="image/jpeg"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1760542767--e5306b29-16c0-4520-bb05-6b21f041b2f0---How?</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dab838e3181321e7923b25271389180d.jpg" length="21594" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 11:39:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mount Eerie - No Flashlight (2 plays)</title>
+      <link>https://www.last.fm/music/Mount+Eerie/_/No+Flashlight</link>
+      <guid isPermaLink="false">Frippertron-1760542912--e5306b29-16c0-4520-bb05-6b21f041b2f0---No Flashlight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dab838e3181321e7923b25271389180d.jpg" length="21594" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 11:41:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mount Eerie - (2 Moons) (2 plays)</title>
+      <link>https://www.last.fm/music/Mount+Eerie/_/(2+Moons)</link>
+      <guid isPermaLink="false">Frippertron-1760543141--e5306b29-16c0-4520-bb05-6b21f041b2f0---(2 Moons)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dab838e3181321e7923b25271389180d.jpg" length="21594" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 11:45:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
