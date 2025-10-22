@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 15:54:04 +0000</lastBuildDate>
-    <item>
-      <title>Nils Frahm - Re (1 play)</title>
-      <link>https://www.last.fm/music/Nils+Frahm/_/Re</link>
-      <guid isPermaLink="false">TalonsOfFire-1760996220--d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01---Re</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14729fe808404f8a8131e98e027db9a5.png" length="87572" type="image/png"/>
-      <pubDate>Mon, 20 Oct 2025 17:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Nils Frahm - La (1 play)</title>
-      <link>https://www.last.fm/music/Nils+Frahm/_/La</link>
-      <guid isPermaLink="false">TalonsOfFire-1760996451--d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01---La</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14729fe808404f8a8131e98e027db9a5.png" length="87572" type="image/png"/>
-      <pubDate>Mon, 20 Oct 2025 17:40:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 16:31:25 +0000</lastBuildDate>
     <item>
       <title>Nils Frahm - Late (1 play)</title>
       <link>https://www.last.fm/music/Nils+Frahm/_/Late</link>
@@ -240,7 +226,7 @@
       <pubDate>Wed, 22 Oct 2025 10:40:16 -0400</pubDate>
     </item>
     <item>
-      <title>dictaphone - The Conversation (1 play)</title>
+      <title>dictaphone - The Conversation</title>
       <link>https://www.last.fm/music/dictaphone/_/The+Conversation</link>
       <guid isPermaLink="false">TalonsOfFire-1761144206--d99a231c-bfb8-40d1-b554-d3023c1ca745---The Conversation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f5af8a3116f22a57fda1338ee0a63a83.jpg" length="8989" type="image/jpeg"/>
@@ -285,13 +271,14 @@
       <title>Hollie Kenniff - Sea Sketch (1 play)</title>
       <link>https://www.last.fm/music/Hollie+Kenniff/_/Sea+Sketch</link>
       <guid isPermaLink="false">TalonsOfFire-1761145581--Hollie Kenniff---Sea Sketch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/852504520fc0b85043f0262b226b7631.jpg" length="0" type="text/html; charset=UTF-8"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/852504520fc0b85043f0262b226b7631.jpg" length="29561" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 11:06:21 -0400</pubDate>
     </item>
     <item>
       <title>Hollie Kenniff - Amare (1 play)</title>
       <link>https://www.last.fm/music/Hollie+Kenniff/_/Amare</link>
       <guid isPermaLink="false">TalonsOfFire-1761145871--Hollie Kenniff---Amare</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/852504520fc0b85043f0262b226b7631.jpg" length="29561" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 11:11:11 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1761147778--Max Richter---The Poetry of Earth (Geophony) - Edit</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b47fd91eba15fc5f4c77d5e46a27a75a.jpg" length="10233" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 11:42:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gabríel Ólafs - Túndra (1 play)</title>
+      <link>https://www.last.fm/music/Gabr%C3%ADel+%C3%93lafs/_/T%C3%BAndra</link>
+      <guid isPermaLink="false">TalonsOfFire-1761148830--c39f7db3-7910-40a8-9ae1-f4b079de7a19---Túndra</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6c219d8cfded6d76cdbe99e06b8e9ae.jpg" length="18765" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 12:00:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gabríel Ólafs - Filma Solo (1 play)</title>
+      <link>https://www.last.fm/music/Gabr%C3%ADel+%C3%93lafs/_/Filma+Solo</link>
+      <guid isPermaLink="false">TalonsOfFire-1761148986--c39f7db3-7910-40a8-9ae1-f4b079de7a19---Filma Solo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa531128c84a788cd04b39ca3b16d236.jpg" length="13073" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 12:03:06 -0400</pubDate>
     </item>
   </channel>
 </rss>
