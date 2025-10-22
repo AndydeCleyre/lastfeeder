@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 15:41:43 +0000</lastBuildDate>
-    <item>
-      <title>Alexandre Desplat - Statues (1 play)</title>
-      <link>https://www.last.fm/music/Alexandre+Desplat/_/Statues</link>
-      <guid isPermaLink="false">TalonsOfFire-1760976434--391846f7-f09f-470c-b188-c16b3a2022e4---Statues</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a67ab55474e34cb1a4f65d1360935798.png" length="158044" type="image/png"/>
-      <pubDate>Mon, 20 Oct 2025 12:07:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Nils Frahm - You (1 play)</title>
-      <link>https://www.last.fm/music/Nils+Frahm/_/You</link>
-      <guid isPermaLink="false">TalonsOfFire-1760996033--d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01---You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14729fe808404f8a8131e98e027db9a5.png" length="87572" type="image/png"/>
-      <pubDate>Mon, 20 Oct 2025 17:33:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 15:54:04 +0000</lastBuildDate>
     <item>
       <title>Nils Frahm - Re (1 play)</title>
       <link>https://www.last.fm/music/Nils+Frahm/_/Re</link>
@@ -299,14 +285,13 @@
       <title>Hollie Kenniff - Sea Sketch (1 play)</title>
       <link>https://www.last.fm/music/Hollie+Kenniff/_/Sea+Sketch</link>
       <guid isPermaLink="false">TalonsOfFire-1761145581--Hollie Kenniff---Sea Sketch</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/852504520fc0b85043f0262b226b7631.jpg" length="29561" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/852504520fc0b85043f0262b226b7631.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Wed, 22 Oct 2025 11:06:21 -0400</pubDate>
     </item>
     <item>
       <title>Hollie Kenniff - Amare (1 play)</title>
       <link>https://www.last.fm/music/Hollie+Kenniff/_/Amare</link>
       <guid isPermaLink="false">TalonsOfFire-1761145871--Hollie Kenniff---Amare</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/852504520fc0b85043f0262b226b7631.jpg" length="29561" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 11:11:11 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">TalonsOfFire-1761147401--dd03ca01-e54a-4960-b1d0-5e7d7f0181e4---Sea Change</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f59b0409c13c7526678dc5271f4bad37.jpg" length="18953" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 11:36:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stephan Moccio - Whitby (1 play)</title>
+      <link>https://www.last.fm/music/Stephan+Moccio/_/Whitby</link>
+      <guid isPermaLink="false">TalonsOfFire-1761147577--dd03ca01-e54a-4960-b1d0-5e7d7f0181e4---Whitby</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f59b0409c13c7526678dc5271f4bad37.jpg" length="18953" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 11:39:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Max Richter - The Poetry of Earth (Geophony) - Edit (1 play)</title>
+      <link>https://www.last.fm/music/Max+Richter/_/The+Poetry+of+Earth+(Geophony)+-+Edit</link>
+      <guid isPermaLink="false">TalonsOfFire-1761147778--Max Richter---The Poetry of Earth (Geophony) - Edit</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b47fd91eba15fc5f4c77d5e46a27a75a.jpg" length="10233" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 11:42:58 -0400</pubDate>
     </item>
   </channel>
 </rss>
