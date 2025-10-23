@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 09:44:05 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Three and Nine (12 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Three+and+Nine</link>
-      <guid isPermaLink="false">Frippertron-1761195395--331ce348-1b08-40b9-8ed7-0763b92bd003---Three and Nine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f147556280904cdfbd548c75da1bf6a1.png" length="237465" type="image/png"/>
-      <pubDate>Thu, 23 Oct 2025 00:56:35 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 09:56:29 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - All I Want Is You (14 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/All+I+Want+Is+You</link>
@@ -313,7 +306,7 @@
       <pubDate>Thu, 23 Oct 2025 05:11:21 -0400</pubDate>
     </item>
     <item>
-      <title>Julia Holter - Hello Stranger (9 plays)</title>
+      <title>Julia Holter - Hello Stranger</title>
       <link>https://www.last.fm/music/Julia+Holter/_/Hello+Stranger</link>
       <guid isPermaLink="false">Frippertron-1761210929--45610c1f-41a4-44f1-9da6-227510073ffc---Hello Stranger</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6988e93906c42939d0892061944f6bd.png" length="137512" type="image/png"/>
@@ -352,6 +345,13 @@
       <guid isPermaLink="false">Frippertron-1761212380--45610c1f-41a4-44f1-9da6-227510073ffc---Feel You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7217fa1319c242872b6148740b26bcc.png" length="79229" type="image/png"/>
       <pubDate>Thu, 23 Oct 2025 05:39:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Julia Holter - Lucette Stranded on the Island (22 plays)</title>
+      <link>https://www.last.fm/music/Julia+Holter/_/Lucette+Stranded+on+the+Island</link>
+      <guid isPermaLink="false">Frippertron-1761212900--45610c1f-41a4-44f1-9da6-227510073ffc---Lucette Stranded on the Island</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7217fa1319c242872b6148740b26bcc.png" length="79229" type="image/png"/>
+      <pubDate>Thu, 23 Oct 2025 05:48:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
