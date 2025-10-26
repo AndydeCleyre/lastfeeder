@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 16:27:00 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - The Bogus Man (30 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/The+Bogus+Man</link>
-      <guid isPermaLink="false">Frippertron-1761304775--331ce348-1b08-40b9-8ed7-0763b92bd003---The Bogus Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 07:19:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Julia Holter - World (27 plays)</title>
-      <link>https://www.last.fm/music/Julia+Holter/_/World</link>
-      <guid isPermaLink="false">Frippertron-1761312069--45610c1f-41a4-44f1-9da6-227510073ffc---World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b6988e93906c42939d0892061944f6bd.png" length="137512" type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 09:21:09 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 16:44:36 +0000</lastBuildDate>
     <item>
       <title>Julia Holter - Maxim's I (16 plays)</title>
       <link>https://www.last.fm/music/Julia+Holter/_/Maxim%27s+I</link>
@@ -355,6 +341,19 @@
       <guid isPermaLink="false">Frippertron-1761495727--9cea062d-d476-447f-98b4-e67e14bfd1e4---A Pact Between Strangers</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad5076471d364b8aa969acfa8288481f.png" length="232288" type="image/png"/>
       <pubDate>Sun, 26 Oct 2025 12:22:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Oneohtrix Point Never - When I Get Back From New York (1 play)</title>
+      <link>https://www.last.fm/music/Oneohtrix+Point+Never/_/When+I+Get+Back+From+New+York</link>
+      <guid isPermaLink="false">Frippertron-1761495985--9cea062d-d476-447f-98b4-e67e14bfd1e4---When I Get Back From New York</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad5076471d364b8aa969acfa8288481f.png" length="232288" type="image/png"/>
+      <pubDate>Sun, 26 Oct 2025 12:26:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Julia Holter - Vasquez (16 plays)</title>
+      <link>https://www.last.fm/music/Julia+Holter/_/Vasquez</link>
+      <guid isPermaLink="false">Frippertron-1761496835--45610c1f-41a4-44f1-9da6-227510073ffc---Vasquez</guid>
+      <pubDate>Sun, 26 Oct 2025 12:40:35 -0400</pubDate>
     </item>
   </channel>
 </rss>
