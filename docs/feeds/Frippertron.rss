@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 04:57:07 +0000</lastBuildDate>
-    <item>
-      <title>Oneohtrix Point Never - Memory Vague (2 plays)</title>
-      <link>https://www.last.fm/music/Oneohtrix+Point+Never/_/Memory+Vague</link>
-      <guid isPermaLink="false">Frippertron-1761489773--9cea062d-d476-447f-98b4-e67e14bfd1e4---Memory Vague</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/137d228c27414af59d0c655819feace2.png" length="158331" type="image/png"/>
-      <pubDate>Sun, 26 Oct 2025 10:42:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Oneohtrix Point Never - KGB Nights (1 play)</title>
-      <link>https://www.last.fm/music/Oneohtrix+Point+Never/_/KGB+Nights</link>
-      <guid isPermaLink="false">Frippertron-1761490060--9cea062d-d476-447f-98b4-e67e14bfd1e4---KGB Nights</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/137d228c27414af59d0c655819feace2.png" length="158331" type="image/png"/>
-      <pubDate>Sun, 26 Oct 2025 10:47:40 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Oct 2025 05:28:17 +0000</lastBuildDate>
     <item>
       <title>Oneohtrix Point Never - Nil Admirari (2 plays)</title>
       <link>https://www.last.fm/music/Oneohtrix+Point+Never/_/Nil+Admirari</link>
@@ -162,7 +148,7 @@
       <pubDate>Sun, 26 Oct 2025 12:47:13 -0400</pubDate>
     </item>
     <item>
-      <title>Brian Eno - No One Receiving (82 plays)</title>
+      <title>Brian Eno - No One Receiving (83 plays)</title>
       <link>https://www.last.fm/music/Brian+Eno/_/No+One+Receiving</link>
       <guid isPermaLink="false">Frippertron-1761531277--ff95eb47-41c4-4f7f-a104-cdc30f02e872---No One Receiving</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3169d4d7ca95457ab3c52dee4fb5447b.png" length="38250" type="image/png"/>
@@ -352,6 +338,20 @@
       <guid isPermaLink="false">Frippertron-1761540595--9cea062d-d476-447f-98b4-e67e14bfd1e4---Memory Vague</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/137d228c27414af59d0c655819feace2.png" length="158331" type="image/png"/>
       <pubDate>Mon, 27 Oct 2025 00:49:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Oneohtrix Point Never - KGB Nights (2 plays)</title>
+      <link>https://www.last.fm/music/Oneohtrix+Point+Never/_/KGB+Nights</link>
+      <guid isPermaLink="false">Frippertron-1761540882--9cea062d-d476-447f-98b4-e67e14bfd1e4---KGB Nights</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/137d228c27414af59d0c655819feace2.png" length="158331" type="image/png"/>
+      <pubDate>Mon, 27 Oct 2025 00:54:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Brian Eno - No One Receiving (83 plays)</title>
+      <link>https://www.last.fm/music/Brian+Eno/_/No+One+Receiving</link>
+      <guid isPermaLink="false">Frippertron-1761541332--ff95eb47-41c4-4f7f-a104-cdc30f02e872---No One Receiving</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3169d4d7ca95457ab3c52dee4fb5447b.png" length="38250" type="image/png"/>
+      <pubDate>Mon, 27 Oct 2025 01:02:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
