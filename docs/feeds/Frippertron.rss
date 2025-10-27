@@ -7,13 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 11:52:57 +0000</lastBuildDate>
-    <item>
-      <title>The Beatles - Got to Get You Into My Life (18 plays)</title>
-      <link>https://www.last.fm/music/The+Beatles/_/Got+to+Get+You+Into+My+Life</link>
-      <guid isPermaLink="false">Frippertron-1761549296--b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d---Got to Get You Into My Life</guid>
-      <pubDate>Mon, 27 Oct 2025 03:14:56 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Oct 2025 15:24:29 +0000</lastBuildDate>
     <item>
       <title>The Beatles - Revolution (30 plays)</title>
       <link>https://www.last.fm/music/The+Beatles/_/Revolution</link>
@@ -350,6 +344,13 @@
       <guid isPermaLink="false">Frippertron-1761565513--331ce348-1b08-40b9-8ed7-0763b92bd003---Just Like You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/684261636ec5f2f2dc24e4f040f64cad.png" length="223903" type="image/png"/>
       <pubDate>Mon, 27 Oct 2025 07:45:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Danny Wilson - Davy (12 plays)</title>
+      <link>https://www.last.fm/music/Danny+Wilson/_/Davy</link>
+      <guid isPermaLink="false">Frippertron-1761578524--06cae8a2-622f-4033-a13e-f965c5289ecc---Davy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d41888d2707871ff88047b22e92d94d5.jpg" length="10578" type="image/jpeg"/>
+      <pubDate>Mon, 27 Oct 2025 11:22:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
