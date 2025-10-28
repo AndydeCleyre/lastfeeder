@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 11:38:26 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Editions of You (131 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Editions+of+You</link>
-      <guid isPermaLink="false">Frippertron-1761626177--331ce348-1b08-40b9-8ed7-0763b92bd003---Editions of You</guid>
-      <pubDate>Tue, 28 Oct 2025 00:36:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Roxy Music - Street Life (68 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Street+Life</link>
-      <guid isPermaLink="false">Frippertron-1761627402--331ce348-1b08-40b9-8ed7-0763b92bd003---Street Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/684261636ec5f2f2dc24e4f040f64cad.png" length="223903" type="image/png"/>
-      <pubDate>Tue, 28 Oct 2025 00:56:42 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Oct 2025 15:56:57 +0000</lastBuildDate>
     <item>
       <title>Roxy Music - Mother of Pearl (76 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Mother+of+Pearl</link>
@@ -54,7 +41,7 @@
       <pubDate>Tue, 28 Oct 2025 01:20:24 -0400</pubDate>
     </item>
     <item>
-      <title>Roxy Music - Bitter-Sweet (41 plays)</title>
+      <title>Roxy Music - Bitter-Sweet (42 plays)</title>
       <link>https://www.last.fm/music/Roxy+Music/_/Bitter-Sweet</link>
       <guid isPermaLink="false">Frippertron-1761629205--331ce348-1b08-40b9-8ed7-0763b92bd003---Bitter-Sweet</guid>
       <pubDate>Tue, 28 Oct 2025 01:26:45 -0400</pubDate>
@@ -348,6 +335,18 @@
       <guid isPermaLink="false">Frippertron-1761650484--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Baby's on Fire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e89c8997eb8cc31f6b4c5cdddead3419.png" length="223108" type="image/png"/>
       <pubDate>Tue, 28 Oct 2025 07:21:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Brian Eno - Driving Me Backwards (42 plays)</title>
+      <link>https://www.last.fm/music/Brian+Eno/_/Driving+Me+Backwards</link>
+      <guid isPermaLink="false">Frippertron-1761666339--ff95eb47-41c4-4f7f-a104-cdc30f02e872---Driving Me Backwards</guid>
+      <pubDate>Tue, 28 Oct 2025 11:45:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Bitter-Sweet (42 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Bitter-Sweet</link>
+      <guid isPermaLink="false">Frippertron-1761666785--331ce348-1b08-40b9-8ed7-0763b92bd003---Bitter-Sweet</guid>
+      <pubDate>Tue, 28 Oct 2025 11:53:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
