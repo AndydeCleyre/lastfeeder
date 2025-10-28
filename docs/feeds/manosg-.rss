@@ -7,26 +7,11 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 17:42:48 +0000</lastBuildDate>
-    <item>
-      <title>Opeth - Master's Apprentices (3 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/Master%27s+Apprentices</link>
-      <guid isPermaLink="false">manosg--1761151834--c14b4180-dc87-481e-b17a-64e4150f90f6---Master's Apprentices</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2799d1899f3147ff8e706827b47776ab.png" length="128214" type="image/png"/>
-      <pubDate>Wed, 22 Oct 2025 12:50:34 -0400</pubDate>
-    </item>
-    <item>
-      <title>Opeth - By the Pain I See in Others (3 plays)</title>
-      <link>https://www.last.fm/music/Opeth/_/By+the+Pain+I+See+in+Others</link>
-      <guid isPermaLink="false">manosg--1761152524--c14b4180-dc87-481e-b17a-64e4150f90f6---By the Pain I See in Others</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2799d1899f3147ff8e706827b47776ab.png" length="128214" type="image/png"/>
-      <pubDate>Wed, 22 Oct 2025 13:02:04 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Oct 2025 17:54:52 +0000</lastBuildDate>
     <item>
       <title>Opeth - The Moor (15 plays)</title>
       <link>https://www.last.fm/music/Opeth/_/The+Moor</link>
       <guid isPermaLink="false">manosg--1761236343--c14b4180-dc87-481e-b17a-64e4150f90f6---The Moor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c4586413476e432b3eba2e74fcc096a.jpg" length="17084" type="image/jpeg"/>
       <pubDate>Thu, 23 Oct 2025 12:19:03 -0400</pubDate>
     </item>
     <item>
@@ -208,7 +193,6 @@
       <title>An Abstract Illusion - The Sleeping City (1 play)</title>
       <link>https://www.last.fm/music/An+Abstract+Illusion/_/The+Sleeping+City</link>
       <guid isPermaLink="false">manosg--1761638688--c1630cd6-541b-42e0-bba6-bb2a2f751105---The Sleeping City</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0eb3d741030811aadee99ad1d8d79461.jpg" length="30589" type="image/jpeg"/>
       <pubDate>Tue, 28 Oct 2025 04:04:48 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +341,19 @@
       <guid isPermaLink="false">manosg--1761673065--d8eba52f-274b-4e84-af11-33a7842fb63c---Override</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7d7b615a0935906d7c9647f942eb9a2.jpg" length="18438" type="image/jpeg"/>
       <pubDate>Tue, 28 Oct 2025 13:37:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wanted - Power (1 play)</title>
+      <link>https://www.last.fm/music/Wanted/_/Power</link>
+      <guid isPermaLink="false">manosg--1761673357--d8eba52f-274b-4e84-af11-33a7842fb63c---Power</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7d7b615a0935906d7c9647f942eb9a2.jpg" length="18438" type="image/jpeg"/>
+      <pubDate>Tue, 28 Oct 2025 13:42:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Wanted - Wasted Heart (1 play)</title>
+      <link>https://www.last.fm/music/Wanted/_/Wasted+Heart</link>
+      <guid isPermaLink="false">manosg--1761673616--d8eba52f-274b-4e84-af11-33a7842fb63c---Wasted Heart</guid>
+      <pubDate>Tue, 28 Oct 2025 13:46:56 -0400</pubDate>
     </item>
   </channel>
 </rss>
