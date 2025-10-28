@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 10:29:38 +0000</lastBuildDate>
-    <item>
-      <title>Yola - Temporary (1 play)</title>
-      <link>https://www.last.fm/music/Yola/_/Temporary</link>
-      <guid isPermaLink="false">Arcade1996-1761474605--a690d479-091c-4c4c-aa5c-7d1d512316c6---Temporary</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4eb75958c0a05ca1b6f32b89b0e6fe35.png" length="215441" type="image/png"/>
-      <pubDate>Sun, 26 Oct 2025 06:30:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Alkoy - Río Toro Jazz (1 play)</title>
-      <link>https://www.last.fm/music/Alkoy/_/R%C3%ADo+Toro+Jazz</link>
-      <guid isPermaLink="false">Arcade1996-1761474852--Alkoy---Río Toro Jazz</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/364354b941c57583b91e0e504c7393c5.jpg" length="20320" type="image/jpeg"/>
-      <pubDate>Sun, 26 Oct 2025 06:34:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Oct 2025 10:48:10 +0000</lastBuildDate>
     <item>
       <title>Tim Reaper - Warrior Stompers (1 play)</title>
       <link>https://www.last.fm/music/Tim+Reaper/_/Warrior+Stompers</link>
@@ -233,7 +219,7 @@
       <pubDate>Mon, 27 Oct 2025 09:34:26 -0400</pubDate>
     </item>
     <item>
-      <title>Ghoulies - Magnetic Scum (8 plays)</title>
+      <title>Ghoulies - Magnetic Scum</title>
       <link>https://www.last.fm/music/Ghoulies/_/Magnetic+Scum</link>
       <guid isPermaLink="false">Arcade1996-1761572999--25a471b1-27a0-45f8-b7b7-cc39e85c9629---Magnetic Scum</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d78cd0714023b532df8a6ab1ae81f45f.jpg" length="29821" type="image/jpeg"/>
@@ -247,7 +233,7 @@
       <pubDate>Mon, 27 Oct 2025 10:02:27 -0400</pubDate>
     </item>
     <item>
-      <title>Headache - Dodge This! (4 plays)</title>
+      <title>Headache - Dodge This! (5 plays)</title>
       <link>https://www.last.fm/music/Headache/_/Dodge+This!</link>
       <guid isPermaLink="false">Arcade1996-1761573984--65b30507-4ef1-4d69-8005-36b10bc61e03---Dodge This!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a21d1760cd1f7384dbf1f1e786935f14.jpg" length="15722" type="image/jpeg"/>
@@ -357,6 +343,19 @@
       <guid isPermaLink="false">Arcade1996-1761646960--Vegyn---All I Need (feat. Beth Hirsch) - Vegyn Version</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c21c19a986c57a889082f3385e52da9a.jpg" length="15265" type="image/jpeg"/>
       <pubDate>Tue, 28 Oct 2025 06:22:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jean Dawson - Rock A Bye Baby (14 plays)</title>
+      <link>https://www.last.fm/music/Jean+Dawson/_/Rock+A+Bye+Baby</link>
+      <guid isPermaLink="false">Arcade1996-1761647273--beaa1f19-19a0-4059-93bb-8f0c097f53fe---Rock A Bye Baby</guid>
+      <pubDate>Tue, 28 Oct 2025 06:27:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Headache - Dodge This! (5 plays)</title>
+      <link>https://www.last.fm/music/Headache/_/Dodge+This!</link>
+      <guid isPermaLink="false">Arcade1996-1761647444--65b30507-4ef1-4d69-8005-36b10bc61e03---Dodge This!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a21d1760cd1f7384dbf1f1e786935f14.jpg" length="15722" type="image/jpeg"/>
+      <pubDate>Tue, 28 Oct 2025 06:30:44 -0400</pubDate>
     </item>
   </channel>
 </rss>
