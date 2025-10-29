@@ -7,19 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 07:25:49 +0000</lastBuildDate>
-    <item>
-      <title>Roxy Music - Virginia Plain (177 plays)</title>
-      <link>https://www.last.fm/music/Roxy+Music/_/Virginia+Plain</link>
-      <guid isPermaLink="false">Frippertron-1761704813--331ce348-1b08-40b9-8ed7-0763b92bd003---Virginia Plain</guid>
-      <pubDate>Tue, 28 Oct 2025 22:26:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - Laredo Tornado (83 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Laredo+Tornado</link>
-      <guid isPermaLink="false">Frippertron-1761704991--0c502791-4ee9-4c5f-9696-0602b721ff3b---Laredo Tornado</guid>
-      <pubDate>Tue, 28 Oct 2025 22:29:51 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 08:32:18 +0000</lastBuildDate>
     <item>
       <title>The Mars Volta - Take the Veil Cerpin Taxt (150 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Take+the+Veil+Cerpin+Taxt</link>
@@ -348,6 +336,20 @@
       <guid isPermaLink="false">Frippertron-1761721997--45610c1f-41a4-44f1-9da6-227510073ffc---I Shall Love 1</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ee296bc1ea8dfcc004f9749da12b48b.jpg" length="19828" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 03:13:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Julia Holter - Why Sad Song (13 plays)</title>
+      <link>https://www.last.fm/music/Julia+Holter/_/Why+Sad+Song</link>
+      <guid isPermaLink="false">Frippertron-1761726214--45610c1f-41a4-44f1-9da6-227510073ffc---Why Sad Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ee296bc1ea8dfcc004f9749da12b48b.jpg" length="19828" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 04:23:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roxy Music - Do the Strand (31 plays)</title>
+      <link>https://www.last.fm/music/Roxy+Music/_/Do+the+Strand</link>
+      <guid isPermaLink="false">Frippertron-1761726530--331ce348-1b08-40b9-8ed7-0763b92bd003---Do the Strand</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/349c1dde988f348da14bb592a64abf6b.png" length="65572" type="image/png"/>
+      <pubDate>Wed, 29 Oct 2025 04:28:50 -0400</pubDate>
     </item>
   </channel>
 </rss>
