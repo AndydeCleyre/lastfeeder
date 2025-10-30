@@ -7,27 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 15:31:03 +0000</lastBuildDate>
-    <item>
-      <title>Marcin Przybyłowicz - Kaer Morhen (1 play)</title>
-      <link>https://www.last.fm/music/Marcin+Przyby%C5%82owicz/_/Kaer+Morhen</link>
-      <guid isPermaLink="false">TalonsOfFire-1761260051--9ce4f0c8-8ce4-461a-ba1e-10460d2399a2---Kaer Morhen</guid>
-      <pubDate>Thu, 23 Oct 2025 18:54:11 -0400</pubDate>
-    </item>
-    <item>
-      <title>Erland Cooper - Holm Sound (1 play)</title>
-      <link>https://www.last.fm/music/Erland+Cooper/_/Holm+Sound</link>
-      <guid isPermaLink="false">TalonsOfFire-1761260209--2a17321c-f5fc-4cfb-afd6-fdc58d812e5f---Holm Sound</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0fbd3eb044d9f14550162b297adcb8f0.jpg" length="22665" type="image/jpeg"/>
-      <pubDate>Thu, 23 Oct 2025 18:56:49 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dmitry Evgrafov - Anthem (1 play)</title>
-      <link>https://www.last.fm/music/Dmitry+Evgrafov/_/Anthem</link>
-      <guid isPermaLink="false">TalonsOfFire-1761260413--cd4000c2-b0f1-4c4f-9633-c623f429099d---Anthem</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4af9b342cdd641bcb55662913637f435.jpg" length="19309" type="image/jpeg"/>
-      <pubDate>Thu, 23 Oct 2025 19:00:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Oct 2025 17:43:14 +0000</lastBuildDate>
     <item>
       <title>Dmitry Evgrafov - Sway (1 play)</title>
       <link>https://www.last.fm/music/Dmitry+Evgrafov/_/Sway</link>
@@ -60,6 +40,7 @@
       <title>Rachel Portman - The Pier (1 play)</title>
       <link>https://www.last.fm/music/Rachel+Portman/_/The+Pier</link>
       <guid isPermaLink="false">TalonsOfFire-1761323323--550508e3-efae-47de-83cc-e50cc471d7e4---The Pier</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8c96b0e35ef8ed2794a62e571e22ae68.jpg" length="20616" type="image/jpeg"/>
       <pubDate>Fri, 24 Oct 2025 12:28:43 -0400</pubDate>
     </item>
     <item>
@@ -311,7 +292,6 @@
       <title>Bryce Dessner - A Good Person (1 play)</title>
       <link>https://www.last.fm/music/Bryce+Dessner/_/A+Good+Person</link>
       <guid isPermaLink="false">TalonsOfFire-1761332332--20336142-85de-4e11-a1fd-a6c815b4e583---A Good Person</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aec15eff418756dfc45f499f4ff636dd.jpg" length="18326" type="image/jpeg"/>
       <pubDate>Fri, 24 Oct 2025 14:58:52 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +335,25 @@
       <guid isPermaLink="false">TalonsOfFire-1761837847--f6580b26-77f7-4a7b-8513-6db0476e8f21---A Hidden Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/202ce4574d73f18259c8515bf8d74447.jpg" length="27519" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 11:24:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Newton Howard - Run to the Church (1 play)</title>
+      <link>https://www.last.fm/music/James+Newton+Howard/_/Run+to+the+Church</link>
+      <guid isPermaLink="false">TalonsOfFire-1761845307--f6580b26-77f7-4a7b-8513-6db0476e8f21---Run to the Church</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/63877d635e794e85d61280e349d85dbc.png" length="0" type="text/html; charset=UTF-8"/>
+      <pubDate>Thu, 30 Oct 2025 13:28:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Newton Howard - Malcolm Is Dead (1 play)</title>
+      <link>https://www.last.fm/music/James+Newton+Howard/_/Malcolm+Is+Dead</link>
+      <guid isPermaLink="false">TalonsOfFire-1761845401--f6580b26-77f7-4a7b-8513-6db0476e8f21---Malcolm Is Dead</guid>
+      <pubDate>Thu, 30 Oct 2025 13:30:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>James Newton Howard - Central Park - From King Kong Original Motion Picture Soundtrack (1 play)</title>
+      <link>https://www.last.fm/music/James+Newton+Howard/_/Central+Park+-+From+King+Kong+Original+Motion+Picture+Soundtrack</link>
+      <guid isPermaLink="false">TalonsOfFire-1761845793--f6580b26-77f7-4a7b-8513-6db0476e8f21---Central Park - From King Kong Original Motion Picture Soundtrack</guid>
+      <pubDate>Thu, 30 Oct 2025 13:36:33 -0400</pubDate>
     </item>
   </channel>
 </rss>
