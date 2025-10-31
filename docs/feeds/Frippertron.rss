@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 07:23:50 +0000</lastBuildDate>
-    <item>
-      <title>Curtis Mayfield - Superfly (12 plays)</title>
-      <link>https://www.last.fm/music/Curtis+Mayfield/_/Superfly</link>
-      <guid isPermaLink="false">Frippertron-1761878601--4dca4bb2-23ba-4103-97e6-5810311db33a---Superfly</guid>
-      <pubDate>Thu, 30 Oct 2025 22:43:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>T. Rex - Metal Guru (65 plays)</title>
-      <link>https://www.last.fm/music/T.+Rex/_/Metal+Guru</link>
-      <guid isPermaLink="false">Frippertron-1761878852--c842d29f-a297-48cd-bb71-4f77fd672b16---Metal Guru</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7024b267db45463ec6284fe9e94ee9b2.png" length="135703" type="image/png"/>
-      <pubDate>Thu, 30 Oct 2025 22:47:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 07:39:32 +0000</lastBuildDate>
     <item>
       <title>T. Rex - Mystic Lady (44 plays)</title>
       <link>https://www.last.fm/music/T.+Rex/_/Mystic+Lady</link>
@@ -353,6 +340,19 @@
       <guid isPermaLink="false">Frippertron-1761895238--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
       <pubDate>Fri, 31 Oct 2025 03:20:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Metatron (255 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
+      <guid isPermaLink="false">Frippertron-1761895583--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 03:26:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Cale - Heartbreak Hotel (66 plays)</title>
+      <link>https://www.last.fm/music/John+Cale/_/Heartbreak+Hotel</link>
+      <guid isPermaLink="false">Frippertron-1761896069--72c090b6-a68e-4cb9-b330-85278681a714---Heartbreak Hotel</guid>
+      <pubDate>Fri, 31 Oct 2025 03:34:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
