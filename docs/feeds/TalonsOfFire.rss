@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 19:18:17 +0000</lastBuildDate>
-    <item>
-      <title>Tame Impala - End of Summer (3 plays)</title>
-      <link>https://www.last.fm/music/Tame+Impala/_/End+of+Summer</link>
-      <guid isPermaLink="false">TalonsOfFire-1761331824--63aa26c3-d59b-4da4-84ac-716b54f1ef4d---End of Summer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29cd52e0f2ba0d5dcf2b2684cc71ef58.jpg" length="19865" type="image/jpeg"/>
-      <pubDate>Fri, 24 Oct 2025 14:50:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bryce Dessner - A Good Person (1 play)</title>
-      <link>https://www.last.fm/music/Bryce+Dessner/_/A+Good+Person</link>
-      <guid isPermaLink="false">TalonsOfFire-1761332332--20336142-85de-4e11-a1fd-a6c815b4e583---A Good Person</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aec15eff418756dfc45f499f4ff636dd.jpg" length="18326" type="image/jpeg"/>
-      <pubDate>Fri, 24 Oct 2025 14:58:52 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 19:39:40 +0000</lastBuildDate>
     <item>
       <title>Bryce Dessner - Passageways I: Ahead, Trembling (1 play)</title>
       <link>https://www.last.fm/music/Bryce+Dessner/_/Passageways+I:+Ahead,+Trembling</link>
@@ -327,7 +313,6 @@
       <title>Michael Andrews - Slipping Away (1 play)</title>
       <link>https://www.last.fm/music/Michael+Andrews/_/Slipping+Away</link>
       <guid isPermaLink="false">TalonsOfFire-1761936926--ee6e8790-7123-40ab-b7e9-03c4fe6aa08f---Slipping Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3419027ff122adf7ddd7b325e88668fd.jpg" length="14903" type="image/jpeg"/>
       <pubDate>Fri, 31 Oct 2025 14:55:26 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">TalonsOfFire-1761937952--06d3fe7f-b5c7-4af9-a96b-5a41675e29ce---The Shape and Laurie Fight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1c08013f8b2e1f75e26233cc4ef8b67.jpg" length="16342" type="image/jpeg"/>
       <pubDate>Fri, 31 Oct 2025 15:12:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Carpenter - The Shape Returns (4 plays)</title>
+      <link>https://www.last.fm/music/John+Carpenter/_/The+Shape+Returns</link>
+      <guid isPermaLink="false">TalonsOfFire-1761938066--06d3fe7f-b5c7-4af9-a96b-5a41675e29ce---The Shape Returns</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1c08013f8b2e1f75e26233cc4ef8b67.jpg" length="16342" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 15:14:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>John Carpenter - Trap the Shape (3 plays)</title>
+      <link>https://www.last.fm/music/John+Carpenter/_/Trap+the+Shape</link>
+      <guid isPermaLink="false">TalonsOfFire-1761938341--06d3fe7f-b5c7-4af9-a96b-5a41675e29ce---Trap the Shape</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1c08013f8b2e1f75e26233cc4ef8b67.jpg" length="16342" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 15:19:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
