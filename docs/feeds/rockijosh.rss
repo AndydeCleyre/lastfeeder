@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 06:32:59 +0000</lastBuildDate>
-    <item>
-      <title>aespa - Hold On Tight (43 plays)</title>
-      <link>https://www.last.fm/music/aespa/_/Hold+On+Tight</link>
-      <guid isPermaLink="false">rockijosh-1761749249--b51c672b-85e0-48fe-8648-470a2422229f---Hold On Tight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fdca72028291b3e3ac64308389f3a669.png" length="127387" type="image/png"/>
-      <pubDate>Wed, 29 Oct 2025 10:47:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>There Will Be Fireworks - Something Borrowed (16 plays)</title>
-      <link>https://www.last.fm/music/There+Will+Be+Fireworks/_/Something+Borrowed</link>
-      <guid isPermaLink="false">rockijosh-1761749398--There Will Be Fireworks---Something Borrowed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c819d877ba8ed8a2dc2b4a9a3fa8c134.jpg" length="21395" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 10:49:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Nov 2025 07:52:11 +0000</lastBuildDate>
     <item>
       <title>League of Legends - GODS (35 plays)</title>
       <link>https://www.last.fm/music/League+of+Legends/_/GODS</link>
@@ -352,11 +338,25 @@
       <pubDate>Sat, 01 Nov 2025 12:55:45 -0400</pubDate>
     </item>
     <item>
-      <title>HUNTR/X - Golden (43 plays)</title>
+      <title>HUNTR/X - Golden (44 plays)</title>
       <link>https://www.last.fm/music/HUNTR%2FX/_/Golden</link>
       <guid isPermaLink="false">rockijosh-1762062606--HUNTR/X---Golden</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da4cf821f9af1e08cd833662a341b5d7.jpg" length="17007" type="image/jpeg"/>
       <pubDate>Sun, 02 Nov 2025 01:50:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Poppy - the cost of giving up (53 plays)</title>
+      <link>https://www.last.fm/music/Poppy/_/the+cost+of+giving+up</link>
+      <guid isPermaLink="false">rockijosh-1762062800--4ad8190b-d2fd-46f8-a3d9-c0f55c034976---the cost of giving up</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d3857b0554df47f31cdec989d399e79.jpg" length="13128" type="image/jpeg"/>
+      <pubDate>Sun, 02 Nov 2025 01:53:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>HUNTR/X - Golden (44 plays)</title>
+      <link>https://www.last.fm/music/HUNTR%2FX/_/Golden</link>
+      <guid isPermaLink="false">rockijosh-1762069601--HUNTR/X---Golden</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da4cf821f9af1e08cd833662a341b5d7.jpg" length="17007" type="image/jpeg"/>
+      <pubDate>Sun, 02 Nov 2025 02:46:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
