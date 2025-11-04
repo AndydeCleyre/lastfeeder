@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 20:44:58 +0000</lastBuildDate>
-    <item>
-      <title>TWICE - Strategy (17 plays)</title>
-      <link>https://www.last.fm/music/TWICE/_/Strategy</link>
-      <guid isPermaLink="false">ddgromit-1761872114--TWICE---Strategy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da4cf821f9af1e08cd833662a341b5d7.jpg" length="17007" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 20:55:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>HUNTR/X - Takedown (19 plays)</title>
-      <link>https://www.last.fm/music/HUNTR%2FX/_/Takedown</link>
-      <guid isPermaLink="false">ddgromit-1761872282--HUNTR/X---Takedown</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/da4cf821f9af1e08cd833662a341b5d7.jpg" length="17007" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 20:58:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 20:56:28 +0000</lastBuildDate>
     <item>
       <title>SAJA BOYS - Soda Pop (26 plays)</title>
       <link>https://www.last.fm/music/SAJA+BOYS/_/Soda+Pop</link>
@@ -110,6 +96,7 @@
       <title>Mel Tormé - The Windmills Of Your Mind (5 plays)</title>
       <link>https://www.last.fm/music/Mel+Torm%C3%A9/_/The+Windmills+Of+Your+Mind</link>
       <guid isPermaLink="false">ddgromit-1762097868--4439c2fd-a754-4f6a-b3a6-791b47726156---The Windmills Of Your Mind</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cbcc03e457e27906ff76d545787f079f.jpg" length="27027" type="image/jpeg"/>
       <pubDate>Sun, 02 Nov 2025 10:37:48 -0500</pubDate>
     </item>
     <item>
@@ -221,7 +208,6 @@
       <title>TWO LANES - Reflections (1 play)</title>
       <link>https://www.last.fm/music/TWO+LANES/_/Reflections</link>
       <guid isPermaLink="false">ddgromit-1762203024--3f808f31-4631-43f4-81b7-c98594744421---Reflections</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f7fc84ede764e6425c187f93af759a7.jpg" length="5249" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 15:50:24 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +342,20 @@
       <guid isPermaLink="false">ddgromit-1762288219--e6de1f3b-6484-491c-88dd-6d619f142abc---Why So Serious?</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18d9b2096867a064079b448327e3f7aa.jpg" length="28192" type="image/jpeg"/>
       <pubDate>Tue, 04 Nov 2025 15:30:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hans Zimmer - I'm Not a Hero (1 play)</title>
+      <link>https://www.last.fm/music/Hans+Zimmer/_/I%27m+Not+a+Hero</link>
+      <guid isPermaLink="false">ddgromit-1762288780--e6de1f3b-6484-491c-88dd-6d619f142abc---I'm Not a Hero</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18d9b2096867a064079b448327e3f7aa.jpg" length="28192" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 15:39:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hans Zimmer - Harvey Two-Face (1 play)</title>
+      <link>https://www.last.fm/music/Hans+Zimmer/_/Harvey+Two-Face</link>
+      <guid isPermaLink="false">ddgromit-1762289175--e6de1f3b-6484-491c-88dd-6d619f142abc---Harvey Two-Face</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18d9b2096867a064079b448327e3f7aa.jpg" length="28192" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 15:46:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
