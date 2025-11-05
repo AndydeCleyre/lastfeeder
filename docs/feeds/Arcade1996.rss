@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 23:40:45 +0000</lastBuildDate>
-    <item>
-      <title>Notre Dame - Notre Dame Victory March (1 play)</title>
-      <link>https://www.last.fm/music/Notre+Dame/_/Notre+Dame+Victory+March</link>
-      <guid isPermaLink="false">Arcade1996-1762125991--2469c51f-18a6-405e-9dd8-4fc624c4029b---Notre Dame Victory March</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/19771cab065c4646a020745a35cd18de.jpg" length="26504" type="image/jpeg"/>
-      <pubDate>Sun, 02 Nov 2025 18:26:31 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ray Charles - The Genius After Hours (1 play)</title>
-      <link>https://www.last.fm/music/Ray+Charles/_/The+Genius+After+Hours</link>
-      <guid isPermaLink="false">Arcade1996-1762152684--2ce02909-598b-44ef-a456-151ba0a3bd70---The Genius After Hours</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93f793715813a3a27df76d734cf9de44.jpg" length="25457" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 01:51:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 23:52:28 +0000</lastBuildDate>
     <item>
       <title>Tom Petty - Free Fallin' (4 plays)</title>
       <link>https://www.last.fm/music/Tom+Petty/_/Free+Fallin%27</link>
@@ -68,6 +54,7 @@
       <title>Oneohtrix Point Never - Cherry Blue (1 play)</title>
       <link>https://www.last.fm/music/Oneohtrix+Point+Never/_/Cherry+Blue</link>
       <guid isPermaLink="false">Arcade1996-1762323646--9cea062d-d476-447f-98b4-e67e14bfd1e4---Cherry Blue</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ad205b60bc155762e2302acf02f2029f.jpg" length="13732" type="image/jpeg"/>
       <pubDate>Wed, 05 Nov 2025 01:20:46 -0500</pubDate>
     </item>
     <item>
@@ -333,10 +320,11 @@
       <title>The Prodigy - Spitfire (1 play)</title>
       <link>https://www.last.fm/music/The+Prodigy/_/Spitfire</link>
       <guid isPermaLink="false">Arcade1996-1762350104--4a4ee089-93b1-4470-af9a-6ff575d32704---Spitfire</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7b999f4f901d5572fb0cba863c69b1a1.jpg" length="18383" type="image/jpeg"/>
       <pubDate>Wed, 05 Nov 2025 08:41:44 -0500</pubDate>
     </item>
     <item>
-      <title>Kid Creole &amp; The Coconuts - The Lifeboat Party</title>
+      <title>Kid Creole &amp; The Coconuts - The Lifeboat Party (4 plays)</title>
       <link>https://www.last.fm/music/Kid+Creole+&amp;+The+Coconuts/_/The+Lifeboat+Party</link>
       <guid isPermaLink="false">Arcade1996-1762384847--Kid Creole &amp; The Coconuts---The Lifeboat Party</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/88a076638b3749f48260389d0329df90.jpg" length="34097" type="image/jpeg"/>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">Arcade1996-1762385046--c8ea65ab-38ac-4013-bd79-e1e7144c32e3---Night Of The Iguana</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef10ab4ebe1e4d6180e1e7e2ba42f015.jpg" length="31125" type="image/jpeg"/>
       <pubDate>Wed, 05 Nov 2025 18:24:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Derek and the Dominos - Bell Bottom Blues (1 play)</title>
+      <link>https://www.last.fm/music/Derek+and+the+Dominos/_/Bell+Bottom+Blues</link>
+      <guid isPermaLink="false">Arcade1996-1762385260--2155a81a-f0c6-417a-9b16-2f86f98bb8bc---Bell Bottom Blues</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd44803f0e8fbb17d14d0a323b53ba3e.jpg" length="24435" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 18:27:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Dave Brubeck Quartet - Everybody's Jumpin' (1 play)</title>
+      <link>https://www.last.fm/music/The+Dave+Brubeck+Quartet/_/Everybody%27s+Jumpin%27</link>
+      <guid isPermaLink="false">Arcade1996-1762386401--7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7---Everybody's Jumpin'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e887aad1c6414f3e9b59a4085cebb972.png" length="163034" type="image/png"/>
+      <pubDate>Wed, 05 Nov 2025 18:46:41 -0500</pubDate>
     </item>
   </channel>
 </rss>
