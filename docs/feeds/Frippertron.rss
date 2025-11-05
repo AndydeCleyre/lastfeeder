@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 08:31:57 +0000</lastBuildDate>
-    <item>
-      <title>Buzzcocks - Something's Gone Wrong Again (1 play)</title>
-      <link>https://www.last.fm/music/Buzzcocks/_/Something%27s+Gone+Wrong+Again</link>
-      <guid isPermaLink="false">Frippertron-1762315962--31e9c35b-2675-4632-8596-f9bd9286f6c8---Something's Gone Wrong Again</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5692c18f91b64d1343ec80186145d6ea.png" length="108956" type="image/png"/>
-      <pubDate>Tue, 04 Nov 2025 23:12:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 08:58:21 +0000</lastBuildDate>
     <item>
       <title>Van Duren - This Love Inside (6 plays)</title>
       <link>https://www.last.fm/music/Van+Duren/_/This+Love+Inside</link>
@@ -342,6 +335,13 @@
       <guid isPermaLink="false">Frippertron-1762331219--20883363-1ea4-4d72-ad72-c0e767038f3e---Cotopaxi</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fd343871112bd1e24193af142a38f7e.jpg" length="26295" type="image/jpeg"/>
       <pubDate>Wed, 05 Nov 2025 03:26:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Desperate Graves (56 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Desperate+Graves</link>
+      <guid isPermaLink="false">Frippertron-1762331440--20883363-1ea4-4d72-ad72-c0e767038f3e---Desperate Graves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2fd343871112bd1e24193af142a38f7e.jpg" length="26295" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 03:30:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
