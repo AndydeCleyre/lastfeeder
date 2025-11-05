@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 16:58:17 +0000</lastBuildDate>
-    <item>
-      <title>Icon - Rock My Radio (1 play)</title>
-      <link>https://www.last.fm/music/Icon/_/Rock+My+Radio</link>
-      <guid isPermaLink="false">manosg--1761734442--Icon---Rock My Radio</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e7a16a347534319747f70eb586843f21.jpg" length="27864" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 06:40:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bergfried - Dark Wings (1 play)</title>
-      <link>https://www.last.fm/music/Bergfried/_/Dark+Wings</link>
-      <guid isPermaLink="false">manosg--1761734730--3fde7d36-8f6f-4e39-ae6e-0af0a36af3bd---Dark Wings</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5649270a39af9c35b4a54460d69869b.png" length="204622" type="image/png"/>
-      <pubDate>Wed, 29 Oct 2025 06:45:30 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 17:26:41 +0000</lastBuildDate>
     <item>
       <title>Bergfried - Fallen From Grace (1 play)</title>
       <link>https://www.last.fm/music/Bergfried/_/Fallen+From+Grace</link>
@@ -75,7 +61,6 @@
       <title>Bergfried - Back for More (1 play)</title>
       <link>https://www.last.fm/music/Bergfried/_/Back+for+More</link>
       <guid isPermaLink="false">manosg--1761761182--3fde7d36-8f6f-4e39-ae6e-0af0a36af3bd---Back for More</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5649270a39af9c35b4a54460d69869b.png" length="204622" type="image/png"/>
       <pubDate>Wed, 29 Oct 2025 14:06:22 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">manosg--1762360451--10bf95b6-30e3-44f1-817f-45762cdc0de0---This Stark Town</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bd076ed80a84801fa1ff3a84b14bca5.jpg" length="13764" type="image/jpeg"/>
       <pubDate>Wed, 05 Nov 2025 11:34:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Paradise Lost - A Life Unknown (1 play)</title>
+      <link>https://www.last.fm/music/Paradise+Lost/_/A+Life+Unknown</link>
+      <guid isPermaLink="false">manosg--1762360640--10bf95b6-30e3-44f1-817f-45762cdc0de0---A Life Unknown</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bd076ed80a84801fa1ff3a84b14bca5.jpg" length="13764" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 11:37:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Paradise Lost - Colossal Rains (4 plays)</title>
+      <link>https://www.last.fm/music/Paradise+Lost/_/Colossal+Rains</link>
+      <guid isPermaLink="false">manosg--1762361944--10bf95b6-30e3-44f1-817f-45762cdc0de0---Colossal Rains</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36f1003c904fdb1f2ffca6f08698d83b.png" length="157727" type="image/png"/>
+      <pubDate>Wed, 05 Nov 2025 11:59:04 -0500</pubDate>
     </item>
   </channel>
 </rss>
