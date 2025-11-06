@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 17:26:41 +0000</lastBuildDate>
-    <item>
-      <title>Bergfried - Fallen From Grace (1 play)</title>
-      <link>https://www.last.fm/music/Bergfried/_/Fallen+From+Grace</link>
-      <guid isPermaLink="false">manosg--1761734957--3fde7d36-8f6f-4e39-ae6e-0af0a36af3bd---Fallen From Grace</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5649270a39af9c35b4a54460d69869b.png" length="204622" type="image/png"/>
-      <pubDate>Wed, 29 Oct 2025 06:49:17 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Nov 2025 05:54:57 +0000</lastBuildDate>
     <item>
       <title>Bergfried - Queen of the Dead (1 play)</title>
       <link>https://www.last.fm/music/Bergfried/_/Queen+of+the+Dead</link>
@@ -61,6 +54,7 @@
       <title>Bergfried - Back for More (1 play)</title>
       <link>https://www.last.fm/music/Bergfried/_/Back+for+More</link>
       <guid isPermaLink="false">manosg--1761761182--3fde7d36-8f6f-4e39-ae6e-0af0a36af3bd---Back for More</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5649270a39af9c35b4a54460d69869b.png" length="204622" type="image/png"/>
       <pubDate>Wed, 29 Oct 2025 14:06:22 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1762361944--10bf95b6-30e3-44f1-817f-45762cdc0de0---Colossal Rains</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/36f1003c904fdb1f2ffca6f08698d83b.png" length="157727" type="image/png"/>
       <pubDate>Wed, 05 Nov 2025 11:59:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Unto Others - They Came From Space (2 plays)</title>
+      <link>https://www.last.fm/music/Unto+Others/_/They+Came+From+Space</link>
+      <guid isPermaLink="false">manosg--1762362293--9bd237d8-5a7f-4206-b26d-d4a15c9e5651---They Came From Space</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52af73e3132dcb709e40ef08aeef5fe0.jpg" length="14287" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 12:04:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
