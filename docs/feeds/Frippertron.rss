@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 15:45:37 +0000</lastBuildDate>
-    <item>
-      <title>Double Exposure - Ten Percent (13 plays)</title>
-      <link>https://www.last.fm/music/Double+Exposure/_/Ten+Percent</link>
-      <guid isPermaLink="false">Frippertron-1762422698--ce16a54b-d14c-428f-8721-7baed0929cc0---Ten Percent</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e784ccaf81fe4c0b97b404c8ef40e535.jpg" length="25797" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 04:51:38 -0500</pubDate>
-    </item>
-    <item>
-      <title>Double Exposure - Everyman (17 plays)</title>
-      <link>https://www.last.fm/music/Double+Exposure/_/Everyman</link>
-      <guid isPermaLink="false">Frippertron-1762423133--ce16a54b-d14c-428f-8721-7baed0929cc0---Everyman</guid>
-      <pubDate>Thu, 06 Nov 2025 04:58:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Nov 2025 03:14:02 +0000</lastBuildDate>
     <item>
       <title>The Delfonics - La La Means I Love You (5 plays)</title>
       <link>https://www.last.fm/music/The+Delfonics/_/La+La+Means+I+Love+You</link>
@@ -78,7 +65,7 @@
       <pubDate>Thu, 06 Nov 2025 05:32:32 -0500</pubDate>
     </item>
     <item>
-      <title>T. Rex - Rock On (71 plays)</title>
+      <title>T. Rex - Rock On (72 plays)</title>
       <link>https://www.last.fm/music/T.+Rex/_/Rock+On</link>
       <guid isPermaLink="false">Frippertron-1762425379--c842d29f-a297-48cd-bb71-4f77fd672b16---Rock On</guid>
       <pubDate>Thu, 06 Nov 2025 05:36:19 -0500</pubDate>
@@ -341,6 +328,20 @@
       <guid isPermaLink="false">Frippertron-1762443161--cf3ea6e9-c856-4737-a988-6b64cc9f2bf2---Just Memories</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d064df44d1f1234e9a6ad8b2637bed7b.jpg" length="15599" type="image/jpeg"/>
       <pubDate>Thu, 06 Nov 2025 10:32:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>T. Rex - Metal Guru (68 plays)</title>
+      <link>https://www.last.fm/music/T.+Rex/_/Metal+Guru</link>
+      <guid isPermaLink="false">Frippertron-1762484863--c842d29f-a297-48cd-bb71-4f77fd672b16---Metal Guru</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7024b267db45463ec6284fe9e94ee9b2.png" length="135703" type="image/png"/>
+      <pubDate>Thu, 06 Nov 2025 22:07:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>T. Rex - Rock On (72 plays)</title>
+      <link>https://www.last.fm/music/T.+Rex/_/Rock+On</link>
+      <guid isPermaLink="false">Frippertron-1762485047--c842d29f-a297-48cd-bb71-4f77fd672b16---Rock On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7024b267db45463ec6284fe9e94ee9b2.png" length="135703" type="image/png"/>
+      <pubDate>Thu, 06 Nov 2025 22:10:47 -0500</pubDate>
     </item>
   </channel>
 </rss>
