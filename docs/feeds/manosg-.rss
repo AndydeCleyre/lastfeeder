@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 11:38:38 +0000</lastBuildDate>
-    <item>
-      <title>Paradise Lost - Tyrants Serenade (1 play)</title>
-      <link>https://www.last.fm/music/Paradise+Lost/_/Tyrants+Serenade</link>
-      <guid isPermaLink="false">manosg--1761932955--10bf95b6-30e3-44f1-817f-45762cdc0de0---Tyrants Serenade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bd076ed80a84801fa1ff3a84b14bca5.jpg" length="13764" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 13:49:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Paradise Lost - Salvation (1 play)</title>
-      <link>https://www.last.fm/music/Paradise+Lost/_/Salvation</link>
-      <guid isPermaLink="false">manosg--1761933235--10bf95b6-30e3-44f1-817f-45762cdc0de0---Salvation</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bd076ed80a84801fa1ff3a84b14bca5.jpg" length="13764" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 13:53:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 11:52:16 +0000</lastBuildDate>
     <item>
       <title>Paradise Lost - Silence Like the Grave (1 play)</title>
       <link>https://www.last.fm/music/Paradise+Lost/_/Silence+Like+the+Grave</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1762598092--Graveyard---Buying Truth (Tack &amp; Förlåt)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2e640728149428bba0ae6eda5c41c21.png" length="210185" type="image/png"/>
       <pubDate>Sat, 08 Nov 2025 05:34:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Graveyard - Longing (5 plays)</title>
+      <link>https://www.last.fm/music/Graveyard/_/Longing</link>
+      <guid isPermaLink="false">manosg--1762601737--Graveyard---Longing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2e640728149428bba0ae6eda5c41c21.png" length="210185" type="image/png"/>
+      <pubDate>Sat, 08 Nov 2025 06:35:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Graveyard - Ungrateful Are the Dead (5 plays)</title>
+      <link>https://www.last.fm/music/Graveyard/_/Ungrateful+Are+the+Dead</link>
+      <guid isPermaLink="false">manosg--1762602027--Graveyard---Ungrateful Are the Dead</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2e640728149428bba0ae6eda5c41c21.png" length="210185" type="image/png"/>
+      <pubDate>Sat, 08 Nov 2025 06:40:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
