@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 15:20:41 +0000</lastBuildDate>
-    <item>
-      <title>Paradise Lost - Diluvium (1 play)</title>
-      <link>https://www.last.fm/music/Paradise+Lost/_/Diluvium</link>
-      <guid isPermaLink="false">manosg--1761938030--10bf95b6-30e3-44f1-817f-45762cdc0de0---Diluvium</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bd076ed80a84801fa1ff3a84b14bca5.jpg" length="13764" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 15:13:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Paradise Lost - Savage Days (1 play)</title>
-      <link>https://www.last.fm/music/Paradise+Lost/_/Savage+Days</link>
-      <guid isPermaLink="false">manosg--1761938405--10bf95b6-30e3-44f1-817f-45762cdc0de0---Savage Days</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bd076ed80a84801fa1ff3a84b14bca5.jpg" length="13764" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 15:20:05 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 15:39:15 +0000</lastBuildDate>
     <item>
       <title>Paradise Lost - Sirens (1 play)</title>
       <link>https://www.last.fm/music/Paradise+Lost/_/Sirens</link>
@@ -261,7 +247,7 @@
       <pubDate>Fri, 07 Nov 2025 11:08:35 -0500</pubDate>
     </item>
     <item>
-      <title>Black Sabbitch - Lord Of This World (1 play)</title>
+      <title>Black Sabbitch - Lord Of This World</title>
       <link>https://www.last.fm/music/Black+Sabbitch/_/Lord+Of+This+World</link>
       <guid isPermaLink="false">manosg--1762532073--Black Sabbitch---Lord Of This World</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2645242c924728acaa46b50a5c8e8c86.jpg" length="19353" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1762614408--Graveyard---The Siren</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2e640728149428bba0ae6eda5c41c21.png" length="210185" type="image/png"/>
       <pubDate>Sat, 08 Nov 2025 10:06:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Graveyard - Cooking Brew (1 play)</title>
+      <link>https://www.last.fm/music/Graveyard/_/Cooking+Brew</link>
+      <guid isPermaLink="false">manosg--1762614770--Graveyard---Cooking Brew</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2e640728149428bba0ae6eda5c41c21.png" length="210185" type="image/png"/>
+      <pubDate>Sat, 08 Nov 2025 10:12:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Graveyard - Evil Ways (10 plays)</title>
+      <link>https://www.last.fm/music/Graveyard/_/Evil+Ways</link>
+      <guid isPermaLink="false">manosg--1762615831--Graveyard---Evil Ways</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f531ab37fb084442a6f6966f58a647b3.jpg" length="34988" type="image/jpeg"/>
+      <pubDate>Sat, 08 Nov 2025 10:30:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
