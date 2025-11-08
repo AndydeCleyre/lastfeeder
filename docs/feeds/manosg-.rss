@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 11:52:16 +0000</lastBuildDate>
-    <item>
-      <title>Paradise Lost - Silence Like the Grave (1 play)</title>
-      <link>https://www.last.fm/music/Paradise+Lost/_/Silence+Like+the+Grave</link>
-      <guid isPermaLink="false">manosg--1761937289--10bf95b6-30e3-44f1-817f-45762cdc0de0---Silence Like the Grave</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bd076ed80a84801fa1ff3a84b14bca5.jpg" length="13764" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 15:01:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Paradise Lost - Lay a Wreath Upon the World (1 play)</title>
-      <link>https://www.last.fm/music/Paradise+Lost/_/Lay+a+Wreath+Upon+the+World</link>
-      <guid isPermaLink="false">manosg--1761937679--10bf95b6-30e3-44f1-817f-45762cdc0de0---Lay a Wreath Upon the World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7bd076ed80a84801fa1ff3a84b14bca5.jpg" length="13764" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 15:07:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 15:20:41 +0000</lastBuildDate>
     <item>
       <title>Paradise Lost - Diluvium (1 play)</title>
       <link>https://www.last.fm/music/Paradise+Lost/_/Diluvium</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1762602027--Graveyard---Ungrateful Are the Dead</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2e640728149428bba0ae6eda5c41c21.png" length="210185" type="image/png"/>
       <pubDate>Sat, 08 Nov 2025 06:40:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Graveyard - Rss (6 plays)</title>
+      <link>https://www.last.fm/music/Graveyard/_/Rss</link>
+      <guid isPermaLink="false">manosg--1762602217--Graveyard---Rss</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2e640728149428bba0ae6eda5c41c21.png" length="210185" type="image/png"/>
+      <pubDate>Sat, 08 Nov 2025 06:43:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Graveyard - The Siren (7 plays)</title>
+      <link>https://www.last.fm/music/Graveyard/_/The+Siren</link>
+      <guid isPermaLink="false">manosg--1762614408--Graveyard---The Siren</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2e640728149428bba0ae6eda5c41c21.png" length="210185" type="image/png"/>
+      <pubDate>Sat, 08 Nov 2025 10:06:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
