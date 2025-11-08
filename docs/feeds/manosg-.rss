@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 18:30:11 +0000</lastBuildDate>
-    <item>
-      <title>Paradise Lost - Forsaken (7 plays)</title>
-      <link>https://www.last.fm/music/Paradise+Lost/_/Forsaken</link>
-      <guid isPermaLink="false">manosg--1762408509--10bf95b6-30e3-44f1-817f-45762cdc0de0---Forsaken</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/06ce36733e5345e26b8a5f4e7501ef7e.jpg" length="31169" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 00:55:09 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 18:48:08 +0000</lastBuildDate>
     <item>
       <title>Amorphis - The Circle (2 plays)</title>
       <link>https://www.last.fm/music/Amorphis/_/The+Circle</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1762624664--Graveyard---Slow Motion Countdown</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd23fa3d7af94ce999b385937fa73402.png" length="130094" type="image/png"/>
       <pubDate>Sat, 08 Nov 2025 12:57:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Graveyard - Seven Seven (4 plays)</title>
+      <link>https://www.last.fm/music/Graveyard/_/Seven+Seven</link>
+      <guid isPermaLink="false">manosg--1762624999--Graveyard---Seven Seven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd23fa3d7af94ce999b385937fa73402.png" length="130094" type="image/png"/>
+      <pubDate>Sat, 08 Nov 2025 13:03:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
