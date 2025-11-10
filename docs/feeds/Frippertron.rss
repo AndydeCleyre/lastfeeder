@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 06:37:46 +0000</lastBuildDate>
-    <item>
-      <title>Tommy Mcgee - We Ought To Be Together (1 play)</title>
-      <link>https://www.last.fm/music/Tommy+Mcgee/_/We+Ought+To+Be+Together</link>
-      <guid isPermaLink="false">Frippertron-1762712862--f47d6844-ee79-4858-a1bd-ceedcc510edf---We Ought To Be Together</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6fcde34f4f0477ba716d56f09441bc7.jpg" length="17818" type="image/jpeg"/>
-      <pubDate>Sun, 09 Nov 2025 13:27:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>Esther Phillips - Baby, I'm for Real (20 plays)</title>
-      <link>https://www.last.fm/music/Esther+Phillips/_/Baby,+I%27m+for+Real</link>
-      <guid isPermaLink="false">Frippertron-1762713038--e261c42a-cbd7-4b97-8b72-218801bdc5b9---Baby, I'm for Real</guid>
-      <pubDate>Sun, 09 Nov 2025 13:30:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 06:57:50 +0000</lastBuildDate>
     <item>
       <title>Esther Phillips - Too Many Roads (1 play)</title>
       <link>https://www.last.fm/music/Esther+Phillips/_/Too+Many+Roads</link>
@@ -340,10 +327,24 @@
       <pubDate>Mon, 10 Nov 2025 01:27:54 -0500</pubDate>
     </item>
     <item>
-      <title>T. Rex - Jitterbug Love (13 plays)</title>
+      <title>T. Rex - Jitterbug Love (14 plays)</title>
       <link>https://www.last.fm/music/T.+Rex/_/Jitterbug+Love</link>
       <guid isPermaLink="false">Frippertron-1762756218--c842d29f-a297-48cd-bb71-4f77fd672b16---Jitterbug Love</guid>
       <pubDate>Mon, 10 Nov 2025 01:30:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>T. Rex - Children Of The Revolution (42 plays)</title>
+      <link>https://www.last.fm/music/T.+Rex/_/Children+Of+The+Revolution</link>
+      <guid isPermaLink="false">Frippertron-1762757596--c842d29f-a297-48cd-bb71-4f77fd672b16---Children Of The Revolution</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f817eac84c564f139cab37f4c4844498.png" length="166508" type="image/png"/>
+      <pubDate>Mon, 10 Nov 2025 01:53:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>T. Rex - Jitterbug Love (14 plays)</title>
+      <link>https://www.last.fm/music/T.+Rex/_/Jitterbug+Love</link>
+      <guid isPermaLink="false">Frippertron-1762757752--c842d29f-a297-48cd-bb71-4f77fd672b16---Jitterbug Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f817eac84c564f139cab37f4c4844498.png" length="166508" type="image/png"/>
+      <pubDate>Mon, 10 Nov 2025 01:55:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
