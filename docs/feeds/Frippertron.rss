@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 17:43:47 +0000</lastBuildDate>
-    <item>
-      <title>The Meters - Sing a Simple Song (1 play)</title>
-      <link>https://www.last.fm/music/The+Meters/_/Sing+a+Simple+Song</link>
-      <guid isPermaLink="false">Frippertron-1762849853--851827d6-ae31-4093-a166-1420cac610a4---Sing a Simple Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc3f5e326b62464ec6d4b475a9b75ece.jpg" length="34638" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 03:30:53 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 17:54:27 +0000</lastBuildDate>
     <item>
       <title>The Meters - The Look of Love (1 play)</title>
       <link>https://www.last.fm/music/The+Meters/_/The+Look+of+Love</link>
@@ -343,6 +336,13 @@
       <guid isPermaLink="false">Frippertron-1762882866--14f8a9ff-6dc5-4b13-ba5c-a481f68dea12---Sweet Charity</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db4445330e3816738130cb20f8020bde.jpg" length="20327" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 12:41:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rachid - Pride (1 play)</title>
+      <link>https://www.last.fm/music/Rachid/_/Pride</link>
+      <guid isPermaLink="false">Frippertron-1762883137--14f8a9ff-6dc5-4b13-ba5c-a481f68dea12---Pride</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db4445330e3816738130cb20f8020bde.jpg" length="20327" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 12:45:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
