@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 11:40:16 +0000</lastBuildDate>
-    <item>
-      <title>Grateful Dead - Epilogue (5 plays)</title>
-      <link>https://www.last.fm/music/Grateful+Dead/_/Epilogue</link>
-      <guid isPermaLink="false">Frippertron-1762844873--6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6---Epilogue</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75f3a435813fc4e118d17048359fe7bd.jpg" length="12910" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 02:07:53 -0500</pubDate>
-    </item>
-    <item>
-      <title>Grateful Dead - Prelude (5 plays)</title>
-      <link>https://www.last.fm/music/Grateful+Dead/_/Prelude</link>
-      <guid isPermaLink="false">Frippertron-1762845178--6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6---Prelude</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75f3a435813fc4e118d17048359fe7bd.jpg" length="12910" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 02:12:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 11:52:18 +0000</lastBuildDate>
     <item>
       <title>Grateful Dead - Morning Dew (8 plays)</title>
       <link>https://www.last.fm/music/Grateful+Dead/_/Morning+Dew</link>
@@ -52,6 +38,7 @@
       <title>Rah Band - Roll Me Down to Rio (20 plays)</title>
       <link>https://www.last.fm/music/Rah+Band/_/Roll+Me+Down+to+Rio</link>
       <guid isPermaLink="false">Frippertron-1762847060--Rah Band---Roll Me Down to Rio</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42927fc6e32ea6a984de8f26988b5df9.png" length="220569" type="image/png"/>
       <pubDate>Tue, 11 Nov 2025 02:44:20 -0500</pubDate>
     </item>
     <item>
@@ -330,19 +317,34 @@
       <title>Prefab Sprout - Spinning Belinda (14 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Spinning+Belinda</link>
       <guid isPermaLink="false">Frippertron-1762860605--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---Spinning Belinda</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b924cb29211fd3603287f70a3d9dea.jpg" length="15940" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 06:30:05 -0500</pubDate>
     </item>
     <item>
       <title>Prefab Sprout - He'll Have To Go (15 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/He%27ll+Have+To+Go</link>
       <guid isPermaLink="false">Frippertron-1762860796--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---He'll Have To Go</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b924cb29211fd3603287f70a3d9dea.jpg" length="15940" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 06:33:16 -0500</pubDate>
     </item>
     <item>
       <title>Prefab Sprout - The Yearning Loins (9 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/The+Yearning+Loins</link>
       <guid isPermaLink="false">Frippertron-1762861001--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---The Yearning Loins</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b9b924cb29211fd3603287f70a3d9dea.jpg" length="15940" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 06:36:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Double Exposure - Everyman (18 plays)</title>
+      <link>https://www.last.fm/music/Double+Exposure/_/Everyman</link>
+      <guid isPermaLink="false">Frippertron-1762861121--ce16a54b-d14c-428f-8721-7baed0929cc0---Everyman</guid>
+      <pubDate>Tue, 11 Nov 2025 06:38:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Isaac Hayes - Never Gonna Give You Up (69 plays)</title>
+      <link>https://www.last.fm/music/Isaac+Hayes/_/Never+Gonna+Give+You+Up</link>
+      <guid isPermaLink="false">Frippertron-1762861401--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Never Gonna Give You Up</guid>
+      <pubDate>Tue, 11 Nov 2025 06:43:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
