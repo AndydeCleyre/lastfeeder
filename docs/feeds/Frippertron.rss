@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 07:26:23 +0000</lastBuildDate>
-    <item>
-      <title>Isaac Hayes - Something (2 plays)</title>
-      <link>https://www.last.fm/music/Isaac+Hayes/_/Something</link>
-      <guid isPermaLink="false">Frippertron-1762887089--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Something</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53d0f6ce1610bb16bfd39d240d3e6962.png" length="238642" type="image/png"/>
-      <pubDate>Tue, 11 Nov 2025 13:51:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Joe Simon - Drowning In The Sea Of Love (3 plays)</title>
-      <link>https://www.last.fm/music/Joe+Simon/_/Drowning+In+The+Sea+Of+Love</link>
-      <guid isPermaLink="false">Frippertron-1762887823--b7635355-a40d-4b08-b441-71aa91017bfd---Drowning In The Sea Of Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5500779d942e29f7e8eb150f8c9aebfd.jpg" length="28021" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 14:03:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 07:41:50 +0000</lastBuildDate>
     <item>
       <title>Joe Simon - Glad To Be Your Lover (2 plays)</title>
       <link>https://www.last.fm/music/Joe+Simon/_/Glad+To+Be+Your+Lover</link>
@@ -352,6 +338,20 @@
       <guid isPermaLink="false">Frippertron-1762931800--eca5dd0e-edc7-4658-85f0-762e263b4acd---Miro Todo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba9fc103f3fce3a2b71cbc691ce8c930.jpg" length="19146" type="image/jpeg"/>
       <pubDate>Wed, 12 Nov 2025 02:16:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Juana Molina - Intringulado (1 play)</title>
+      <link>https://www.last.fm/music/Juana+Molina/_/Intringulado</link>
+      <guid isPermaLink="false">Frippertron-1762932333--eca5dd0e-edc7-4658-85f0-762e263b4acd---Intringulado</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba9fc103f3fce3a2b71cbc691ce8c930.jpg" length="19146" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 02:25:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>Juana Molina - Rina Soi (1 play)</title>
+      <link>https://www.last.fm/music/Juana+Molina/_/Rina+Soi</link>
+      <guid isPermaLink="false">Frippertron-1762932605--eca5dd0e-edc7-4658-85f0-762e263b4acd---Rina Soi</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba9fc103f3fce3a2b71cbc691ce8c930.jpg" length="19146" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 02:30:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
