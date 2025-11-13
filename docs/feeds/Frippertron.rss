@@ -7,34 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Nov 2025 08:31:58 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Everydays (25 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Everydays</link>
-      <guid isPermaLink="false">Frippertron-1763007024--8353f93f-163e-48c2-bb75-9f18987a3d46---Everydays</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2635348da5194f0db687d5606b62b2dd.jpg" length="18081" type="image/jpeg"/>
-      <pubDate>Wed, 12 Nov 2025 23:10:24 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gentle Giant - Just the Same (100 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/Just+the+Same</link>
-      <guid isPermaLink="false">Frippertron-1763007410--f795c501-1c41-4be2-bc2a-875eba75aa31---Just the Same</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8664d6383fbcca63f51d2a402f7064ff.jpg" length="23722" type="image/jpeg"/>
-      <pubDate>Wed, 12 Nov 2025 23:16:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gentle Giant - Playing the Game (36 plays)</title>
-      <link>https://www.last.fm/music/Gentle+Giant/_/Playing+the+Game</link>
-      <guid isPermaLink="false">Frippertron-1763007706--f795c501-1c41-4be2-bc2a-875eba75aa31---Playing the Game</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8664d6383fbcca63f51d2a402f7064ff.jpg" length="23722" type="image/jpeg"/>
-      <pubDate>Wed, 12 Nov 2025 23:21:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>Van Morrison - Satisfied (8 plays)</title>
-      <link>https://www.last.fm/music/Van+Morrison/_/Satisfied</link>
-      <guid isPermaLink="false">Frippertron-1763008027--a41ac10f-0a56-4672-9161-b83f9b223559---Satisfied</guid>
-      <pubDate>Wed, 12 Nov 2025 23:27:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Nov 2025 08:57:05 +0000</lastBuildDate>
     <item>
       <title>Prefab Sprout - Lions In My Own Garden (Exit Someone) (102 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/Lions+In+My+Own+Garden+(Exit+Someone)</link>
@@ -347,6 +320,32 @@
       <guid isPermaLink="false">Frippertron-1763022432--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Curtains</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f3b92cbedd73c0235e7d074cbfebc9b.png" length="216792" type="image/png"/>
       <pubDate>Thu, 13 Nov 2025 03:27:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Levon (79 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Levon</link>
+      <guid isPermaLink="false">Frippertron-1763022808--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Levon</guid>
+      <pubDate>Thu, 13 Nov 2025 03:33:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Madman Across the Water (66 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Madman+Across+the+Water</link>
+      <guid isPermaLink="false">Frippertron-1763023126--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Madman Across the Water</guid>
+      <pubDate>Thu, 13 Nov 2025 03:38:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Indian Sunset (6 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Indian+Sunset</link>
+      <guid isPermaLink="false">Frippertron-1763023483--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Indian Sunset</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984188826369470d90143eda7df35959.jpg" length="31587" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 03:44:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Elton John - Bennie and the Jets (128 plays)</title>
+      <link>https://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</link>
+      <guid isPermaLink="false">Frippertron-1763023834--b83bc61f-8451-4a5d-8b8e-7e9ed295e822---Bennie and the Jets</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 13 Nov 2025 03:50:34 -0500</pubDate>
     </item>
   </channel>
 </rss>
