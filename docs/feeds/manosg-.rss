@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 18:37:10 +0000</lastBuildDate>
-    <item>
-      <title>Slayer - Necrophobic (5 plays)</title>
-      <link>https://www.last.fm/music/Slayer/_/Necrophobic</link>
-      <guid isPermaLink="false">manosg--1762792724--bdacc37b-8633-4bf8-9dd5-4662ee651aec---Necrophobic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81716aef88807b4fb9818c04cf314415.jpg" length="27034" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 11:38:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>Slayer - Altar of Sacrifice (5 plays)</title>
-      <link>https://www.last.fm/music/Slayer/_/Altar+of+Sacrifice</link>
-      <guid isPermaLink="false">manosg--1762792825--bdacc37b-8633-4bf8-9dd5-4662ee651aec---Altar of Sacrifice</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81716aef88807b4fb9818c04cf314415.jpg" length="27034" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 11:40:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Slayer - Jesus Saves (5 plays)</title>
-      <link>https://www.last.fm/music/Slayer/_/Jesus+Saves</link>
-      <guid isPermaLink="false">manosg--1762792995--bdacc37b-8633-4bf8-9dd5-4662ee651aec---Jesus Saves</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81716aef88807b4fb9818c04cf314415.jpg" length="27034" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 11:43:15 -0500</pubDate>
-    </item>
-    <item>
-      <title>Slayer - Criminally Insane (5 plays)</title>
-      <link>https://www.last.fm/music/Slayer/_/Criminally+Insane</link>
-      <guid isPermaLink="false">manosg--1762793172--bdacc37b-8633-4bf8-9dd5-4662ee651aec---Criminally Insane</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81716aef88807b4fb9818c04cf314415.jpg" length="27034" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 11:46:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Nov 2025 12:51:07 +0000</lastBuildDate>
     <item>
       <title>Slayer - Reborn (5 plays)</title>
       <link>https://www.last.fm/music/Slayer/_/Reborn</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">manosg--1763489504--7dba6614-d0bd-4950-8b7b-841b31c413c2---Black Candles</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/488ecf9c3b63053cb24f8f3f77281c87.jpg" length="15570" type="image/jpeg"/>
       <pubDate>Tue, 18 Nov 2025 13:11:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Candlemass - Bewitched (Demo) (2 plays)</title>
+      <link>https://www.last.fm/music/Candlemass/_/Bewitched+(Demo)</link>
+      <guid isPermaLink="false">manosg--1763493247--7dba6614-d0bd-4950-8b7b-841b31c413c2---Bewitched (Demo)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/488ecf9c3b63053cb24f8f3f77281c87.jpg" length="15570" type="image/jpeg"/>
+      <pubDate>Tue, 18 Nov 2025 14:14:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Candlemass - Solitude (7 plays)</title>
+      <link>https://www.last.fm/music/Candlemass/_/Solitude</link>
+      <guid isPermaLink="false">manosg--1763555439--7dba6614-d0bd-4950-8b7b-841b31c413c2---Solitude</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4fdea495f59940f7c0095557d948bc73.png" length="51879" type="image/png"/>
+      <pubDate>Wed, 19 Nov 2025 07:30:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Candlemass - Demons Gate (8 plays)</title>
+      <link>https://www.last.fm/music/Candlemass/_/Demons+Gate</link>
+      <guid isPermaLink="false">manosg--1763555780--7dba6614-d0bd-4950-8b7b-841b31c413c2---Demons Gate</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4fdea495f59940f7c0095557d948bc73.png" length="51879" type="image/png"/>
+      <pubDate>Wed, 19 Nov 2025 07:36:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Candlemass - Crystal Ball (8 plays)</title>
+      <link>https://www.last.fm/music/Candlemass/_/Crystal+Ball</link>
+      <guid isPermaLink="false">manosg--1763556335--7dba6614-d0bd-4950-8b7b-841b31c413c2---Crystal Ball</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4fdea495f59940f7c0095557d948bc73.png" length="51879" type="image/png"/>
+      <pubDate>Wed, 19 Nov 2025 07:45:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
