@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 09:44:51 +0000</lastBuildDate>
-    <item>
-      <title>Yes - Going for the One (36 plays)</title>
-      <link>https://www.last.fm/music/Yes/_/Going+for+the+One</link>
-      <guid isPermaLink="false">Frippertron-1763609522--8353f93f-163e-48c2-bb75-9f18987a3d46---Going for the One</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5a6c3bd53dc5bbd768075c67a1163665.png" length="222112" type="image/png"/>
-      <pubDate>Wed, 19 Nov 2025 22:32:02 -0500</pubDate>
-    </item>
-    <item>
-      <title>Big Star - O My Soul (66 plays)</title>
-      <link>https://www.last.fm/music/Big+Star/_/O+My+Soul</link>
-      <guid isPermaLink="false">Frippertron-1763609919--21d177ba-3d51-461e-9b3f-ad9a80b419dc---O My Soul</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3530f60f301f5a56216badc4a7f7b61b.jpg" length="17086" type="image/jpeg"/>
-      <pubDate>Wed, 19 Nov 2025 22:38:39 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Nov 2025 09:56:23 +0000</lastBuildDate>
     <item>
       <title>Big Star - Life Is White (26 plays)</title>
       <link>https://www.last.fm/music/Big+Star/_/Life+Is+White</link>
@@ -350,6 +336,19 @@
       <link>https://www.last.fm/music/Gentle+Giant/_/Funny+Ways</link>
       <guid isPermaLink="false">Frippertron-1763631454--f795c501-1c41-4be2-bc2a-875eba75aa31---Funny Ways</guid>
       <pubDate>Thu, 20 Nov 2025 04:37:34 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Just the Same (103 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Just+the+Same</link>
+      <guid isPermaLink="false">Frippertron-1763631939--f795c501-1c41-4be2-bc2a-875eba75aa31---Just the Same</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a8c28d169f913c91814bcdbbd4405914.png" length="246860" type="image/png"/>
+      <pubDate>Thu, 20 Nov 2025 04:45:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - Free Hand (36 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/Free+Hand</link>
+      <guid isPermaLink="false">Frippertron-1763632281--f795c501-1c41-4be2-bc2a-875eba75aa31---Free Hand</guid>
+      <pubDate>Thu, 20 Nov 2025 04:51:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
