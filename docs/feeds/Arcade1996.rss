@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 19:52:18 +0000</lastBuildDate>
-    <item>
-      <title>Sleeper - Atomic (1 play)</title>
-      <link>https://www.last.fm/music/Sleeper/_/Atomic</link>
-      <guid isPermaLink="false">Arcade1996-1763786892--Sleeper---Atomic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/144bf09f99259ea195d1e9bc4119c631.jpg" length="25442" type="image/jpeg"/>
-      <pubDate>Fri, 21 Nov 2025 23:48:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Nov 2025 23:52:25 +0000</lastBuildDate>
     <item>
       <title>Iggy Pop - Nightclubbing (2 plays)</title>
       <link>https://www.last.fm/music/Iggy+Pop/_/Nightclubbing</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1763983485--Moby---Everthing Is Wrong</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a2e4d415cd056edb7c3231e16c3f6eb.jpg" length="27726" type="image/jpeg"/>
       <pubDate>Mon, 24 Nov 2025 06:24:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Moby - God Moving Over the Face of the Waters (2 plays)</title>
+      <link>https://www.last.fm/music/Moby/_/God+Moving+Over+the+Face+of+the+Waters</link>
+      <guid isPermaLink="false">Arcade1996-1763989136--8970d868-0723-483b-a75b-51088913d3d4---God Moving Over the Face of the Waters</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0a2e4d415cd056edb7c3231e16c3f6eb.jpg" length="27726" type="image/jpeg"/>
+      <pubDate>Mon, 24 Nov 2025 07:58:56 -0500</pubDate>
     </item>
   </channel>
 </rss>
