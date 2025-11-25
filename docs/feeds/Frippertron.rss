@@ -7,22 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 05:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 05:44:34 +0000</lastBuildDate>
     <item>
-      <title>David Bowie - Sunday (92 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Sunday</link>
-      <guid isPermaLink="false">Frippertron-1763979890--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sunday</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de189195ab834c449adfc34815549796.png" length="157830" type="image/png"/>
-      <pubDate>Mon, 24 Nov 2025 05:24:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Slip Away (56 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Slip+Away</link>
-      <guid isPermaLink="false">Frippertron-1763980207--5441c29d-3602-4898-b1a1-b77fa23b8e50---Slip Away</guid>
-      <pubDate>Mon, 24 Nov 2025 05:30:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Slow Burn (55 plays)</title>
+      <title>David Bowie - Slow Burn (56 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Slow+Burn</link>
       <guid isPermaLink="false">Frippertron-1763980572--5441c29d-3602-4898-b1a1-b77fa23b8e50---Slow Burn</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de189195ab834c449adfc34815549796.png" length="157830" type="image/png"/>
@@ -342,6 +329,19 @@
       <link>https://www.last.fm/music/Gentle+Giant/_/Funny+Ways</link>
       <guid isPermaLink="false">Frippertron-1764047701--f795c501-1c41-4be2-bc2a-875eba75aa31---Funny Ways</guid>
       <pubDate>Tue, 25 Nov 2025 00:15:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gentle Giant - The Runaway (4 plays)</title>
+      <link>https://www.last.fm/music/Gentle+Giant/_/The+Runaway</link>
+      <guid isPermaLink="false">Frippertron-1764048222--f795c501-1c41-4be2-bc2a-875eba75aa31---The Runaway</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ff768ce2e6bf181de04ce3684eab07ff.png" length="160763" type="image/png"/>
+      <pubDate>Tue, 25 Nov 2025 00:23:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Slow Burn (56 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Slow+Burn</link>
+      <guid isPermaLink="false">Frippertron-1764048517--5441c29d-3602-4898-b1a1-b77fa23b8e50---Slow Burn</guid>
+      <pubDate>Tue, 25 Nov 2025 00:28:37 -0500</pubDate>
     </item>
   </channel>
 </rss>
