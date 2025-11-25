@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 18:36:49 +0000</lastBuildDate>
-    <item>
-      <title>Birdy - Skinny Love (34 plays)</title>
-      <link>https://www.last.fm/music/Birdy/_/Skinny+Love</link>
-      <guid isPermaLink="false">rockijosh-1763976093--Birdy---Skinny Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/822c7d6cbaee5580d10830d031dae463.jpg" length="18425" type="image/jpeg"/>
-      <pubDate>Mon, 24 Nov 2025 04:21:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jessie Ware - Egoísta (65 plays)</title>
-      <link>https://www.last.fm/music/Jessie+Ware/_/Ego%C3%ADsta</link>
-      <guid isPermaLink="false">rockijosh-1763976295--6ed40778-8d03-4a5c-ad35-93cf814627c9---Egoísta</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8765754787daadb4c32262a306179f0c.jpg" length="10921" type="image/jpeg"/>
-      <pubDate>Mon, 24 Nov 2025 04:24:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 19:53:18 +0000</lastBuildDate>
     <item>
       <title>Massive Attack - Paradise Circus (30 plays)</title>
       <link>https://www.last.fm/music/Massive+Attack/_/Paradise+Circus</link>
@@ -177,7 +163,7 @@
       <pubDate>Mon, 24 Nov 2025 05:44:54 -0500</pubDate>
     </item>
     <item>
-      <title>Say Anything - Cemetery</title>
+      <title>Say Anything - Cemetery (122 plays)</title>
       <link>https://www.last.fm/music/Say+Anything/_/Cemetery</link>
       <guid isPermaLink="false">rockijosh-1763981342--ee90d1b3-a4e2-4d18-9092-111d856e7e7a---Cemetery</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15a3c007660349338c98bb9e25d54a08.jpg" length="24346" type="image/jpeg"/>
@@ -187,7 +173,6 @@
       <title>Laura Stevenson - Triangle (133 plays)</title>
       <link>https://www.last.fm/music/Laura+Stevenson/_/Triangle</link>
       <guid isPermaLink="false">rockijosh-1763981578--70b166d1-b511-49f1-ad15-8b94603515d5---Triangle</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4a4c1b32d8174e25ce721e3208f406a6.png" length="89191" type="image/png"/>
       <pubDate>Mon, 24 Nov 2025 05:52:58 -0500</pubDate>
     </item>
     <item>
@@ -219,7 +204,7 @@
       <pubDate>Mon, 24 Nov 2025 06:07:38 -0500</pubDate>
     </item>
     <item>
-      <title>Wiccan Babysitter - They Don't Know</title>
+      <title>Wiccan Babysitter - They Don't Know (95 plays)</title>
       <link>https://www.last.fm/music/Wiccan+Babysitter/_/They+Don%27t+Know</link>
       <guid isPermaLink="false">rockijosh-1763982748--Wiccan Babysitter---They Don't Know</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/579638a8db7e87707f641db31e7f8903.jpg" length="20835" type="image/jpeg"/>
@@ -352,11 +337,25 @@
       <pubDate>Tue, 25 Nov 2025 13:02:45 -0500</pubDate>
     </item>
     <item>
-      <title>Demi Lovato - Still Alive - From the Original Motion Picture Scream VI (42 plays)</title>
+      <title>Demi Lovato - Still Alive - From the Original Motion Picture Scream VI</title>
       <link>https://www.last.fm/music/Demi+Lovato/_/Still+Alive+-+From+the+Original+Motion+Picture+Scream+VI</link>
       <guid isPermaLink="false">rockijosh-1764093917--faf4cefb-036c-4c88-b93a-5b03dd0a0e6b---Still Alive - From the Original Motion Picture Scream VI</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74680b7819368c18e9d771789d482e59.jpg" length="14804" type="image/jpeg"/>
       <pubDate>Tue, 25 Nov 2025 13:05:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Salem - Fall Out Of Love (feat. Carlie Hanson) (111 plays)</title>
+      <link>https://www.last.fm/music/Salem/_/Fall+Out+Of+Love+(feat.+Carlie+Hanson)</link>
+      <guid isPermaLink="false">rockijosh-1764094101--Salem---Fall Out Of Love (feat. Carlie Hanson)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db4158ef6c8678a6106fc6e6d34bb344.png" length="93929" type="image/png"/>
+      <pubDate>Tue, 25 Nov 2025 13:08:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neko Case - Winnie (108 plays)</title>
+      <link>https://www.last.fm/music/Neko+Case/_/Winnie</link>
+      <guid isPermaLink="false">rockijosh-1764100118--e13d2935-8c42-4c0a-96d7-654062acf106---Winnie</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7873ed151074cfa1c1f65a73baf20a64.png" length="200705" type="image/png"/>
+      <pubDate>Tue, 25 Nov 2025 14:48:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
