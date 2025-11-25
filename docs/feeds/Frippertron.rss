@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 09:32:39 +0000</lastBuildDate>
-    <item>
-      <title>The Grays - Everybody's World (1 play)</title>
-      <link>https://www.last.fm/music/The+Grays/_/Everybody%27s+World</link>
-      <guid isPermaLink="false">Frippertron-1764044038--ade17a27-9d5b-43cb-b1b3-8ea1f4abde60---Everybody's World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ac68d16c9debfff5a46fa363e66bbe5.png" length="198682" type="image/png"/>
-      <pubDate>Mon, 24 Nov 2025 23:13:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Grays - Same Thing (1 play)</title>
-      <link>https://www.last.fm/music/The+Grays/_/Same+Thing</link>
-      <guid isPermaLink="false">Frippertron-1764044381--ade17a27-9d5b-43cb-b1b3-8ea1f4abde60---Same Thing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ac68d16c9debfff5a46fa363e66bbe5.png" length="198682" type="image/png"/>
-      <pubDate>Mon, 24 Nov 2025 23:19:41 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Grays - Friend of Mine (1 play)</title>
-      <link>https://www.last.fm/music/The+Grays/_/Friend+of+Mine</link>
-      <guid isPermaLink="false">Frippertron-1764044623--ade17a27-9d5b-43cb-b1b3-8ea1f4abde60---Friend of Mine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ac68d16c9debfff5a46fa363e66bbe5.png" length="198682" type="image/png"/>
-      <pubDate>Mon, 24 Nov 2025 23:23:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 09:54:35 +0000</lastBuildDate>
     <item>
       <title>The Grays - Is It Now Yet (1 play)</title>
       <link>https://www.last.fm/music/The+Grays/_/Is+It+Now+Yet</link>
@@ -214,7 +193,7 @@
       <pubDate>Tue, 25 Nov 2025 01:42:30 -0500</pubDate>
     </item>
     <item>
-      <title>Cities Aviv - Pure Infinite (1 play)</title>
+      <title>Cities Aviv - Pure Infinite</title>
       <link>https://www.last.fm/music/Cities+Aviv/_/Pure+Infinite</link>
       <guid isPermaLink="false">Frippertron-1764053118--12416eaf-f1b6-4f20-9d00-a6e4376e765b---Pure Infinite</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ddb7a939b10a45ba88ded838b3fd63c4.png" length="166450" type="image/png"/>
@@ -345,6 +324,27 @@
       <link>https://www.last.fm/music/Pink+Floyd/_/Have+a+Cigar</link>
       <guid isPermaLink="false">Frippertron-1764062869--83d91898-7763-47d7-b03b-b92132375c47---Have a Cigar</guid>
       <pubDate>Tue, 25 Nov 2025 04:27:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Fistful Of Dollars (12 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Fistful+Of+Dollars</link>
+      <guid isPermaLink="false">Frippertron-1764063275--The Mars Volta---Fistful Of Dollars</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 25 Nov 2025 04:34:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Roulette Dares (The Haunt of) (103 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Roulette+Dares+(The+Haunt+of)</link>
+      <guid isPermaLink="false">Frippertron-1764063482--20883363-1ea4-4d72-ad72-c0e767038f3e---Roulette Dares (The Haunt of)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 25 Nov 2025 04:38:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cicatriz ESP (83 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cicatriz+ESP</link>
+      <guid isPermaLink="false">Frippertron-1764064213--20883363-1ea4-4d72-ad72-c0e767038f3e---Cicatriz ESP</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 25 Nov 2025 04:50:13 -0500</pubDate>
     </item>
   </channel>
 </rss>
