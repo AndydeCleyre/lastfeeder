@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 04:34:40 +0000</lastBuildDate>
-    <item>
-      <title>The Grays - Both Belong (2 plays)</title>
-      <link>https://www.last.fm/music/The+Grays/_/Both+Belong</link>
-      <guid isPermaLink="false">Frippertron-1764084265--ade17a27-9d5b-43cb-b1b3-8ea1f4abde60---Both Belong</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ac68d16c9debfff5a46fa363e66bbe5.png" length="198682" type="image/png"/>
-      <pubDate>Tue, 25 Nov 2025 10:24:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Grays - Nothing (2 plays)</title>
-      <link>https://www.last.fm/music/The+Grays/_/Nothing</link>
-      <guid isPermaLink="false">Frippertron-1764084531--ade17a27-9d5b-43cb-b1b3-8ea1f4abde60---Nothing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ac68d16c9debfff5a46fa363e66bbe5.png" length="198682" type="image/png"/>
-      <pubDate>Tue, 25 Nov 2025 10:28:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 04:54:56 +0000</lastBuildDate>
     <item>
       <title>The Grays - Not Long for This World (2 plays)</title>
       <link>https://www.last.fm/music/The+Grays/_/Not+Long+for+This+World</link>
@@ -65,7 +51,7 @@
       <pubDate>Tue, 25 Nov 2025 10:58:18 -0500</pubDate>
     </item>
     <item>
-      <title>Neil Chotem - Prélude En Mi Mineur (17 plays)</title>
+      <title>Neil Chotem - Prélude En Mi Mineur (18 plays)</title>
       <link>https://www.last.fm/music/Neil+Chotem/_/Pr%C3%A9lude+En+Mi+Mineur</link>
       <guid isPermaLink="false">Frippertron-1764086635--5dfb48c8-770b-4f10-baf6-9bd45ab5ad46---Prélude En Mi Mineur</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -347,6 +333,20 @@
       <guid isPermaLink="false">Frippertron-1764131412--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 25 Nov 2025 23:30:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jellyfish - Joining a Fan Club (26 plays)</title>
+      <link>https://www.last.fm/music/Jellyfish/_/Joining+a+Fan+Club</link>
+      <guid isPermaLink="false">Frippertron-1764132450--635a33b9-c32c-4bdc-b9a0-19c576ae8a5b---Joining a Fan Club</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3588a9cd120d5a569551577318cc281b.jpg" length="41529" type="image/jpeg"/>
+      <pubDate>Tue, 25 Nov 2025 23:47:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neil Chotem - Prélude En Mi Mineur (18 plays)</title>
+      <link>https://www.last.fm/music/Neil+Chotem/_/Pr%C3%A9lude+En+Mi+Mineur</link>
+      <guid isPermaLink="false">Frippertron-1764132695--5dfb48c8-770b-4f10-baf6-9bd45ab5ad46---Prélude En Mi Mineur</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 25 Nov 2025 23:51:35 -0500</pubDate>
     </item>
   </channel>
 </rss>
