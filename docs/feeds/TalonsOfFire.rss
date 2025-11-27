@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Nov 2025 23:22:24 +0000</lastBuildDate>
-    <item>
-      <title>Bryce Dessner - Reunion (1 play)</title>
-      <link>https://www.last.fm/music/Bryce+Dessner/_/Reunion</link>
-      <guid isPermaLink="false">TalonsOfFire-1764007497--20336142-85de-4e11-a1fd-a6c815b4e583---Reunion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/815071fa77a3927940ac66def3bb3532.jpg" length="25237" type="image/jpeg"/>
-      <pubDate>Mon, 24 Nov 2025 13:04:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 23:39:53 +0000</lastBuildDate>
     <item>
       <title>Bryce Dessner - Home I (1 play)</title>
       <link>https://www.last.fm/music/Bryce+Dessner/_/Home+I</link>
@@ -191,7 +184,7 @@
       <pubDate>Tue, 25 Nov 2025 17:43:59 -0500</pubDate>
     </item>
     <item>
-      <title>Max Richter - Laika's Journey (1 play)</title>
+      <title>Max Richter - Laika's Journey</title>
       <link>https://www.last.fm/music/Max+Richter/_/Laika%27s+Journey</link>
       <guid isPermaLink="false">TalonsOfFire-1764113537--509f20b2-5df3-4aec-9bbc-002131fb3f99---Laika's Journey</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b0d9b4e9dc361625fd3df5e7efda246.jpg" length="23865" type="image/jpeg"/>
@@ -352,10 +345,18 @@
       <pubDate>Wed, 26 Nov 2025 14:47:57 -0500</pubDate>
     </item>
     <item>
-      <title>Max Richter - Dream 3 (in the midst of my life) (2 plays)</title>
+      <title>Max Richter - Dream 3 (in the midst of my life) (3 plays)</title>
       <link>https://www.last.fm/music/Max+Richter/_/Dream+3+(in+the+midst+of+my+life)</link>
       <guid isPermaLink="false">TalonsOfFire-1764257036--509f20b2-5df3-4aec-9bbc-002131fb3f99---Dream 3 (in the midst of my life)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/497b0a6ad5df7d4d1c7c8c2ac65ba35a.jpg" length="23126" type="image/jpeg"/>
       <pubDate>Thu, 27 Nov 2025 10:23:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Max Richter - Dream 3 (in the midst of my life) (3 plays)</title>
+      <link>https://www.last.fm/music/Max+Richter/_/Dream+3+(in+the+midst+of+my+life)</link>
+      <guid isPermaLink="false">TalonsOfFire-1764285472--509f20b2-5df3-4aec-9bbc-002131fb3f99---Dream 3 (in the midst of my life)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/497b0a6ad5df7d4d1c7c8c2ac65ba35a.jpg" length="23126" type="image/jpeg"/>
+      <pubDate>Thu, 27 Nov 2025 18:17:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
