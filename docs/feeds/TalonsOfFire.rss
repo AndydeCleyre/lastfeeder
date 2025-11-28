@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Nov 2025 23:39:53 +0000</lastBuildDate>
-    <item>
-      <title>Bryce Dessner - Home I (1 play)</title>
-      <link>https://www.last.fm/music/Bryce+Dessner/_/Home+I</link>
-      <guid isPermaLink="false">TalonsOfFire-1764007572--20336142-85de-4e11-a1fd-a6c815b4e583---Home I</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/815071fa77a3927940ac66def3bb3532.jpg" length="25237" type="image/jpeg"/>
-      <pubDate>Mon, 24 Nov 2025 13:06:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Bryce Dessner - Family Photograph (1 play)</title>
-      <link>https://www.last.fm/music/Bryce+Dessner/_/Family+Photograph</link>
-      <guid isPermaLink="false">TalonsOfFire-1764007841--20336142-85de-4e11-a1fd-a6c815b4e583---Family Photograph</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/815071fa77a3927940ac66def3bb3532.jpg" length="25237" type="image/jpeg"/>
-      <pubDate>Mon, 24 Nov 2025 13:10:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Nov 2025 01:54:13 +0000</lastBuildDate>
     <item>
       <title>Bryce Dessner - Home II (1 play)</title>
       <link>https://www.last.fm/music/Bryce+Dessner/_/Home+II</link>
@@ -184,7 +170,7 @@
       <pubDate>Tue, 25 Nov 2025 17:43:59 -0500</pubDate>
     </item>
     <item>
-      <title>Max Richter - Laika's Journey</title>
+      <title>Max Richter - Laika's Journey (1 play)</title>
       <link>https://www.last.fm/music/Max+Richter/_/Laika%27s+Journey</link>
       <guid isPermaLink="false">TalonsOfFire-1764113537--509f20b2-5df3-4aec-9bbc-002131fb3f99---Laika's Journey</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2b0d9b4e9dc361625fd3df5e7efda246.jpg" length="23865" type="image/jpeg"/>
@@ -306,14 +292,12 @@
       <title>Max Richter - A Lamenting Song (1 play)</title>
       <link>https://www.last.fm/music/Max+Richter/_/A+Lamenting+Song</link>
       <guid isPermaLink="false">TalonsOfFire-1764178218--509f20b2-5df3-4aec-9bbc-002131fb3f99---A Lamenting Song</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/531e3bd310a54a2877acf68ef254a8dd.jpg" length="15096" type="image/jpeg"/>
       <pubDate>Wed, 26 Nov 2025 12:30:18 -0500</pubDate>
     </item>
     <item>
       <title>Max Richter - Lamentation For A Lost Life (1 play)</title>
       <link>https://www.last.fm/music/Max+Richter/_/Lamentation+For+A+Lost+Life</link>
       <guid isPermaLink="false">TalonsOfFire-1764178328--509f20b2-5df3-4aec-9bbc-002131fb3f99---Lamentation For A Lost Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/531e3bd310a54a2877acf68ef254a8dd.jpg" length="15096" type="image/jpeg"/>
       <pubDate>Wed, 26 Nov 2025 12:32:08 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +341,20 @@
       <guid isPermaLink="false">TalonsOfFire-1764285472--509f20b2-5df3-4aec-9bbc-002131fb3f99---Dream 3 (in the midst of my life)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/497b0a6ad5df7d4d1c7c8c2ac65ba35a.jpg" length="23126" type="image/jpeg"/>
       <pubDate>Thu, 27 Nov 2025 18:17:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Max Richter - Path 5 (delta) (1 play)</title>
+      <link>https://www.last.fm/music/Max+Richter/_/Path+5+(delta)</link>
+      <guid isPermaLink="false">TalonsOfFire-1764286121--509f20b2-5df3-4aec-9bbc-002131fb3f99---Path 5 (delta)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/497b0a6ad5df7d4d1c7c8c2ac65ba35a.jpg" length="23126" type="image/jpeg"/>
+      <pubDate>Thu, 27 Nov 2025 18:28:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Max Richter - Space 11 (invisible pages over) (1 play)</title>
+      <link>https://www.last.fm/music/Max+Richter/_/Space+11+(invisible+pages+over)</link>
+      <guid isPermaLink="false">TalonsOfFire-1764292416--509f20b2-5df3-4aec-9bbc-002131fb3f99---Space 11 (invisible pages over)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/497b0a6ad5df7d4d1c7c8c2ac65ba35a.jpg" length="23126" type="image/jpeg"/>
+      <pubDate>Thu, 27 Nov 2025 20:13:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
