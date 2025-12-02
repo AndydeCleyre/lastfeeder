@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 23:23:32 +0000</lastBuildDate>
-    <item>
-      <title>Max Richter - Path 19 (yet frailest) (1 play)</title>
-      <link>https://www.last.fm/music/Max+Richter/_/Path+19+(yet+frailest)</link>
-      <guid isPermaLink="false">TalonsOfFire-1764370773--509f20b2-5df3-4aec-9bbc-002131fb3f99---Path 19 (yet frailest)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/497b0a6ad5df7d4d1c7c8c2ac65ba35a.jpg" length="23126" type="image/jpeg"/>
-      <pubDate>Fri, 28 Nov 2025 17:59:33 -0500</pubDate>
-    </item>
-    <item>
-      <title>Max Richter - Dream 8 (late and soon) (1 play)</title>
-      <link>https://www.last.fm/music/Max+Richter/_/Dream+8+(late+and+soon)</link>
-      <guid isPermaLink="false">TalonsOfFire-1764371336--509f20b2-5df3-4aec-9bbc-002131fb3f99---Dream 8 (late and soon)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/497b0a6ad5df7d4d1c7c8c2ac65ba35a.jpg" length="23126" type="image/jpeg"/>
-      <pubDate>Fri, 28 Nov 2025 18:08:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 15:56:16 +0000</lastBuildDate>
     <item>
       <title>Max Richter - Infra 3 (1 play)</title>
       <link>https://www.last.fm/music/Max+Richter/_/Infra+3</link>
@@ -310,7 +296,7 @@
       <pubDate>Mon, 01 Dec 2025 16:52:43 -0500</pubDate>
     </item>
     <item>
-      <title>Bibio - Weekend Wildfire (1 play)</title>
+      <title>Bibio - Weekend Wildfire</title>
       <link>https://www.last.fm/music/Bibio/_/Weekend+Wildfire</link>
       <guid isPermaLink="false">TalonsOfFire-1764626211--9f9953f0-68bb-4ce3-aace-2f44c87f0aa3---Weekend Wildfire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3d3a3366e574fa9b1b7ed7ad6e8cbeb.png" length="196161" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1764628694--9f9953f0-68bb-4ce3-aace-2f44c87f0aa3---The Garden Shelter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3d3a3366e574fa9b1b7ed7ad6e8cbeb.png" length="196161" type="image/png"/>
       <pubDate>Mon, 01 Dec 2025 17:38:14 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bibio - Wulf (1 play)</title>
+      <link>https://www.last.fm/music/Bibio/_/Wulf</link>
+      <guid isPermaLink="false">TalonsOfFire-1764690363--9f9953f0-68bb-4ce3-aace-2f44c87f0aa3---Wulf</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97792a5cfbd6437e9cdcfe44f814ddc3.png" length="181515" type="image/png"/>
+      <pubDate>Tue, 02 Dec 2025 10:46:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bibio - Mirroring All</title>
+      <link>https://www.last.fm/music/Bibio/_/Mirroring+All</link>
+      <guid isPermaLink="false">TalonsOfFire-1764690491--9f9953f0-68bb-4ce3-aace-2f44c87f0aa3---Mirroring All</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97792a5cfbd6437e9cdcfe44f814ddc3.png" length="181515" type="image/png"/>
+      <pubDate>Tue, 02 Dec 2025 10:48:11 -0500</pubDate>
     </item>
   </channel>
 </rss>
