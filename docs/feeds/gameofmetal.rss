@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 14:56:41 +0000</lastBuildDate>
-    <item>
-      <title>Pink Floyd - Pigs (Three Different Ones) (1 play)</title>
-      <link>https://www.last.fm/music/Pink+Floyd/_/Pigs+(Three+Different+Ones)</link>
-      <guid isPermaLink="false">gameofmetal-1764774349--83d91898-7763-47d7-b03b-b92132375c47---Pigs (Three Different Ones)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/903616162a8a4f1ca1ac63497e551c07.png" length="171465" type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 10:05:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Dec 2025 15:31:58 +0000</lastBuildDate>
     <item>
       <title>Pink Floyd - Sheep (1 play)</title>
       <link>https://www.last.fm/music/Pink+Floyd/_/Sheep</link>
@@ -289,7 +282,7 @@
       <pubDate>Thu, 04 Dec 2025 09:08:48 -0500</pubDate>
     </item>
     <item>
-      <title>Sturgill Simpson - Ronin (2 plays)</title>
+      <title>Sturgill Simpson - Ronin (3 plays)</title>
       <link>https://www.last.fm/music/Sturgill+Simpson/_/Ronin</link>
       <guid isPermaLink="false">gameofmetal-1764857689--f6e61750-a6b7-4d88-979b-052345cd0e4a---Ronin</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f4730eb7518ba4eb6f04aa9ea34a5c9.jpg" length="17777" type="image/jpeg"/>
@@ -352,11 +345,18 @@
       <pubDate>Thu, 04 Dec 2025 09:44:23 -0500</pubDate>
     </item>
     <item>
-      <title>Sturgill Simpson - Fastest Horse in Town (1 play)</title>
+      <title>Sturgill Simpson - Fastest Horse in Town</title>
       <link>https://www.last.fm/music/Sturgill+Simpson/_/Fastest+Horse+in+Town</link>
       <guid isPermaLink="false">gameofmetal-1764859735--f6e61750-a6b7-4d88-979b-052345cd0e4a---Fastest Horse in Town</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f4730eb7518ba4eb6f04aa9ea34a5c9.jpg" length="17777" type="image/jpeg"/>
       <pubDate>Thu, 04 Dec 2025 09:48:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sturgill Simpson - Ronin (3 plays)</title>
+      <link>https://www.last.fm/music/Sturgill+Simpson/_/Ronin</link>
+      <guid isPermaLink="false">gameofmetal-1764860162--f6e61750-a6b7-4d88-979b-052345cd0e4a---Ronin</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1f4730eb7518ba4eb6f04aa9ea34a5c9.jpg" length="17777" type="image/jpeg"/>
+      <pubDate>Thu, 04 Dec 2025 09:56:02 -0500</pubDate>
     </item>
   </channel>
 </rss>
