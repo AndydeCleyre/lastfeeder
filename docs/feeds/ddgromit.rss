@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Dec 2025 23:22:09 +0000</lastBuildDate>
-    <item>
-      <title>BPMoore - Ouroboros (1 play)</title>
-      <link>https://www.last.fm/music/BPMoore/_/Ouroboros</link>
-      <guid isPermaLink="false">ddgromit-1765316603--BPMoore---Ouroboros</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa3baf579d62ef1c6f7368c7f33672e1.jpg" length="34200" type="image/jpeg"/>
-      <pubDate>Tue, 09 Dec 2025 16:43:23 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 23:40:32 +0000</lastBuildDate>
     <item>
       <title>Dusky - Mr Man - Dusky Revisit (1 play)</title>
       <link>https://www.last.fm/music/Dusky/_/Mr+Man+-+Dusky+Revisit</link>
@@ -47,7 +40,6 @@
       <title>Adi Goldstein - Here Forever (1 play)</title>
       <link>https://www.last.fm/music/Adi+Goldstein/_/Here+Forever</link>
       <guid isPermaLink="false">ddgromit-1765317913--Adi Goldstein---Here Forever</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/530825cfef8f11e905c16783de4a4294.jpg" length="14619" type="image/jpeg"/>
       <pubDate>Tue, 09 Dec 2025 17:05:13 -0500</pubDate>
     </item>
     <item>
@@ -289,14 +281,14 @@
       <pubDate>Wed, 10 Dec 2025 12:30:21 -0500</pubDate>
     </item>
     <item>
-      <title>Laufey - The Risk - Instrumental (1 play)</title>
+      <title>Laufey - The Risk - Instrumental</title>
       <link>https://www.last.fm/music/Laufey/_/The+Risk+-+Instrumental</link>
       <guid isPermaLink="false">ddgromit-1765388032--Laufey---The Risk - Instrumental</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c57f60388306ab34de33bfe056bd31a7.jpg" length="22244" type="image/jpeg"/>
       <pubDate>Wed, 10 Dec 2025 12:33:52 -0500</pubDate>
     </item>
     <item>
-      <title>Craig Armstrong - Hollow in the Ferns (3 plays)</title>
+      <title>Craig Armstrong - Hollow in the Ferns</title>
       <link>https://www.last.fm/music/Craig+Armstrong/_/Hollow+in+the+Ferns</link>
       <guid isPermaLink="false">ddgromit-1765388271--8f7bf43e-2a13-431a-a274-19e28965fe07---Hollow in the Ferns</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4631aea9799f1b9e2e62df9b8545cfcf.png" length="175685" type="image/png"/>
@@ -310,7 +302,7 @@
       <pubDate>Wed, 10 Dec 2025 12:41:30 -0500</pubDate>
     </item>
     <item>
-      <title>John Williams - The Flight To Neverland - From "Hook" (1 play)</title>
+      <title>John Williams - The Flight To Neverland - From "Hook"</title>
       <link>https://www.last.fm/music/John+Williams/_/The+Flight+To+Neverland+-+From+%22Hook%22</link>
       <guid isPermaLink="false">ddgromit-1765388690--John Williams---The Flight To Neverland - From "Hook"</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/864d9830e5b1b6f729cab135653022d5.jpg" length="34260" type="image/jpeg"/>
@@ -324,7 +316,7 @@
       <pubDate>Wed, 10 Dec 2025 12:49:47 -0500</pubDate>
     </item>
     <item>
-      <title>Justice Der - Don't Kill My Vibe (7 plays)</title>
+      <title>Justice Der - Don't Kill My Vibe</title>
       <link>https://www.last.fm/music/Justice+Der/_/Don%27t+Kill+My+Vibe</link>
       <guid isPermaLink="false">ddgromit-1765389218--24b703b4-2fd8-472a-8cd6-dcd1862064c1---Don't Kill My Vibe</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/939c9a37f27c92a77fc5ee9c7065453a.jpg" length="17022" type="image/jpeg"/>
@@ -355,7 +347,15 @@
       <title>From Somewhere Quiet - All This Time (2 plays)</title>
       <link>https://www.last.fm/music/From+Somewhere+Quiet/_/All+This+Time</link>
       <guid isPermaLink="false">ddgromit-1765408610--276d7693-781c-4f79-ba8d-8e0f022b888c---All This Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5cd34c618a6cf4a29df38205989f3fb5.jpg" length="7932" type="image/jpeg"/>
       <pubDate>Wed, 10 Dec 2025 18:16:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Chris Isaak - Wicked Game</title>
+      <link>https://www.last.fm/music/Chris+Isaak/_/Wicked+Game</link>
+      <guid isPermaLink="false">ddgromit-1765408818--479497d4-e7c2-4e78-972e-56e78fac3995---Wicked Game</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3fd1c69333b4c0daf55a5a725a09037.png" length="166970" type="image/png"/>
+      <pubDate>Wed, 10 Dec 2025 18:20:18 -0500</pubDate>
     </item>
   </channel>
 </rss>
