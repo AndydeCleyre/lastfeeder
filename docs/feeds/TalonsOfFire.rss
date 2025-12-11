@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 21:56:32 +0000</lastBuildDate>
-    <item>
-      <title>Bonobo - Emkay (2 plays)</title>
-      <link>https://www.last.fm/music/Bonobo/_/Emkay</link>
-      <guid isPermaLink="false">TalonsOfFire-1764872765--9a709693-b4f8-4da9-8cc1-038c911a61be---Emkay</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9dd65cd202a248d6abd4f623c8d73bab.png" length="174213" type="image/png"/>
-      <pubDate>Thu, 04 Dec 2025 13:26:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Dec 2025 22:26:23 +0000</lastBuildDate>
     <item>
       <title>Bonobo - Jets (2 plays)</title>
       <link>https://www.last.fm/music/Bonobo/_/Jets</link>
@@ -68,14 +61,13 @@
       <title>Bonobo - Ghost Ship (1 play)</title>
       <link>https://www.last.fm/music/Bonobo/_/Ghost+Ship</link>
       <guid isPermaLink="false">TalonsOfFire-1764883105--9a709693-b4f8-4da9-8cc1-038c911a61be---Ghost Ship</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6ccdabbbb51407398a426617304bc5b.png" length="178042" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6ccdabbbb51407398a426617304bc5b.png" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Thu, 04 Dec 2025 16:18:25 -0500</pubDate>
     </item>
     <item>
       <title>Bonobo - Brace Brace (1 play)</title>
       <link>https://www.last.fm/music/Bonobo/_/Brace+Brace</link>
       <guid isPermaLink="false">TalonsOfFire-1764890133--9a709693-b4f8-4da9-8cc1-038c911a61be---Brace Brace</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e6ccdabbbb51407398a426617304bc5b.png" length="178042" type="image/png"/>
       <pubDate>Thu, 04 Dec 2025 18:15:33 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">TalonsOfFire-1765485544--aaddb5e3-f8a5-4a9d-8674-f885112ecf0e---Future Perfect</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65f17070964e094b30ae7957dc06c945.jpg" length="22439" type="image/jpeg"/>
       <pubDate>Thu, 11 Dec 2025 15:39:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>坂本龍一 - Energy Flow (3 plays)</title>
+      <link>https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Energy+Flow</link>
+      <guid isPermaLink="false">TalonsOfFire-1765489017--a7f7df4a-77d8-4f12-8acd-5c60c93f4de8---Energy Flow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/787ba2f5edd3e7b63cb465737e04db76.png" length="5006" type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 16:36:57 -0500</pubDate>
     </item>
   </channel>
 </rss>
