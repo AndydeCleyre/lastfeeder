@@ -30,7 +30,7 @@ requests==2.32.5
     # via flit
 tomli-w==1.2.0
     # via flit
-urllib3==2.6.1
+urllib3==2.6.2
     # via requests
 
 # The following packages are considered to be unsafe in a requirements file:
