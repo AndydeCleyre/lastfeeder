@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 14:25:27 +0000</lastBuildDate>
-    <item>
-      <title>The Stooges - I Need Somebody (60 plays)</title>
-      <link>https://www.last.fm/music/The+Stooges/_/I+Need+Somebody</link>
-      <guid isPermaLink="false">Frippertron-1765532911--794c6bf2-3241-416f-9b8f-24e2d84a1c4b---I Need Somebody</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69ebd87597be80838b0063a65ed9bd06.jpg" length="11393" type="image/jpeg"/>
-      <pubDate>Fri, 12 Dec 2025 04:48:31 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 14:42:03 +0000</lastBuildDate>
     <item>
       <title>Iggy Pop &amp; James Williamson - Kill City (48 plays)</title>
       <link>https://www.last.fm/music/Iggy+Pop+&amp;+James+Williamson/_/Kill+City</link>
@@ -347,6 +340,13 @@
       <guid isPermaLink="false">Frippertron-1765635517--Hall &amp; Oates---Some Things Are Better Left Unsaid</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
       <pubDate>Sat, 13 Dec 2025 09:18:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hall &amp; Oates - Rich Girl (37 plays)</title>
+      <link>https://www.last.fm/music/Hall+&amp;+Oates/_/Rich+Girl</link>
+      <guid isPermaLink="false">Frippertron-1765635856--Hall &amp; Oates---Rich Girl</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f6688ec35974bda6e5866af1358f4bf.jpg" length="19580" type="image/jpeg"/>
+      <pubDate>Sat, 13 Dec 2025 09:24:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
