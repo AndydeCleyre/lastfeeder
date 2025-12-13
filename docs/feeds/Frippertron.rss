@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 17:20:36 +0000</lastBuildDate>
-    <item>
-      <title>Laura Nyro - Timer (3 plays)</title>
-      <link>https://www.last.fm/music/Laura+Nyro/_/Timer</link>
-      <guid isPermaLink="false">Frippertron-1765643262--bb0a1e95-9444-4a05-a1bb-22b8d7ed7844---Timer</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/44c8fd53c08abcb3befae80942f6da16.jpg" length="11262" type="image/jpeg"/>
-      <pubDate>Sat, 13 Dec 2025 11:27:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Shadow Ring - Arthuring Tina (7 plays)</title>
-      <link>https://www.last.fm/music/The+Shadow+Ring/_/Arthuring+Tina</link>
-      <guid isPermaLink="false">Frippertron-1765643284--e9c1f1d9-ef2f-477a-b50c-05ea29487f0d---Arthuring Tina</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/57bcbe53157847d3971f9b0f09b666da.jpg" length="25669" type="image/jpeg"/>
-      <pubDate>Sat, 13 Dec 2025 11:28:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 17:40:15 +0000</lastBuildDate>
     <item>
       <title>Aunt Sally - I Was Chosen (2 plays)</title>
       <link>https://www.last.fm/music/Aunt+Sally/_/I+Was+Chosen</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">Frippertron-1765646231--3f658e7f-4f44-4493-942c-ede5033bc6f7---1-3-234</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc22a1631afbf50972d4f79e38945a45.jpg" length="15045" type="image/jpeg"/>
       <pubDate>Sat, 13 Dec 2025 12:17:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mal Waldron - Rock My Soul (2 plays)</title>
+      <link>https://www.last.fm/music/Mal+Waldron/_/Rock+My+Soul</link>
+      <guid isPermaLink="false">Frippertron-1765646476--3f658e7f-4f44-4493-942c-ede5033bc6f7---Rock My Soul</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc22a1631afbf50972d4f79e38945a45.jpg" length="15045" type="image/jpeg"/>
+      <pubDate>Sat, 13 Dec 2025 12:21:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mal Waldron - Willow Weep for Me (1 play)</title>
+      <link>https://www.last.fm/music/Mal+Waldron/_/Willow+Weep+for+Me</link>
+      <guid isPermaLink="false">Frippertron-1765647160--3f658e7f-4f44-4493-942c-ede5033bc6f7---Willow Weep for Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc22a1631afbf50972d4f79e38945a45.jpg" length="15045" type="image/jpeg"/>
+      <pubDate>Sat, 13 Dec 2025 12:32:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
