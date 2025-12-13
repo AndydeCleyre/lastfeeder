@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 17:40:15 +0000</lastBuildDate>
-    <item>
-      <title>Aunt Sally - I Was Chosen (2 plays)</title>
-      <link>https://www.last.fm/music/Aunt+Sally/_/I+Was+Chosen</link>
-      <guid isPermaLink="false">Frippertron-1765643317--05a2be43-3d39-470c-b349-a95b012a0db0---I Was Chosen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1da742b744ea3a686ea53dffe82744f0.jpg" length="11111" type="image/jpeg"/>
-      <pubDate>Sat, 13 Dec 2025 11:28:37 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 17:52:21 +0000</lastBuildDate>
     <item>
       <title>Aunt Sally - I Was Chosen (2 plays)</title>
       <link>https://www.last.fm/music/Aunt+Sally/_/I+Was+Chosen</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">Frippertron-1765647160--3f658e7f-4f44-4493-942c-ede5033bc6f7---Willow Weep for Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc22a1631afbf50972d4f79e38945a45.jpg" length="15045" type="image/jpeg"/>
       <pubDate>Sat, 13 Dec 2025 12:32:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mal Waldron - Boo (1 play)</title>
+      <link>https://www.last.fm/music/Mal+Waldron/_/Boo</link>
+      <guid isPermaLink="false">Frippertron-1765647614--3f658e7f-4f44-4493-942c-ede5033bc6f7---Boo</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bc22a1631afbf50972d4f79e38945a45.jpg" length="15045" type="image/jpeg"/>
+      <pubDate>Sat, 13 Dec 2025 12:40:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
