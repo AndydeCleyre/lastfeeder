@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 23:42:48 +0000</lastBuildDate>
-    <item>
-      <title>Tash Sultana - Big Smoke, Pt. 2 - Live (1 play)</title>
-      <link>https://www.last.fm/music/Tash+Sultana/_/Big+Smoke,+Pt.+2+-+Live</link>
-      <guid isPermaLink="false">ddgromit-1765488339--Tash Sultana---Big Smoke, Pt. 2 - Live</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d455a43a956563e482ab34d9f0e7941.jpg" length="19117" type="image/jpeg"/>
-      <pubDate>Thu, 11 Dec 2025 16:25:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tash Sultana - Notion (2 plays)</title>
-      <link>https://www.last.fm/music/Tash+Sultana/_/Notion</link>
-      <guid isPermaLink="false">ddgromit-1765488917--b3adc16a-abdb-4668-9b05-baabbf942db6---Notion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4d455a43a956563e482ab34d9f0e7941.jpg" length="19117" type="image/jpeg"/>
-      <pubDate>Thu, 11 Dec 2025 16:35:17 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 23:54:34 +0000</lastBuildDate>
     <item>
       <title>Tash Sultana - Can't Buy Happiness (1 play)</title>
       <link>https://www.last.fm/music/Tash+Sultana/_/Can%27t+Buy+Happiness</link>
@@ -334,12 +320,14 @@
       <title>Petey USA - The Wake (1 play)</title>
       <link>https://www.last.fm/music/Petey+USA/_/The+Wake</link>
       <guid isPermaLink="false">ddgromit-1765841054--Petey USA---The Wake</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/93c69a630e0f7acc33d50c7f0254551c.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Mon, 15 Dec 2025 18:24:14 -0500</pubDate>
     </item>
     <item>
       <title>Miya Folick - Haircut (1 play)</title>
       <link>https://www.last.fm/music/Miya+Folick/_/Haircut</link>
       <guid isPermaLink="false">ddgromit-1765841377--6fcdbe21-35d4-43ca-927a-96600de78e7e---Haircut</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/92b57d25bae81ecb4313e7d9b7731323.jpg" length="10107" type="image/jpeg"/>
       <pubDate>Mon, 15 Dec 2025 18:29:37 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +343,19 @@
       <guid isPermaLink="false">ddgromit-1765841862--Petey USA---Model Train Town</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0cb85caa7deaeb9541459e6bf65e688c.jpg" length="32389" type="image/jpeg"/>
       <pubDate>Mon, 15 Dec 2025 18:37:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>Petey USA - As Two People Drift Apart (1 play)</title>
+      <link>https://www.last.fm/music/Petey+USA/_/As+Two+People+Drift+Apart</link>
+      <guid isPermaLink="false">ddgromit-1765842022--Petey USA---As Two People Drift Apart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0cb85caa7deaeb9541459e6bf65e688c.jpg" length="32389" type="image/jpeg"/>
+      <pubDate>Mon, 15 Dec 2025 18:40:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Petey USA - Anything In Between (1 play)</title>
+      <link>https://www.last.fm/music/Petey+USA/_/Anything+In+Between</link>
+      <guid isPermaLink="false">ddgromit-1765842265--Petey USA---Anything In Between</guid>
+      <pubDate>Mon, 15 Dec 2025 18:44:25 -0500</pubDate>
     </item>
   </channel>
 </rss>
