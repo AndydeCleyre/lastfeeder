@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 11:43:10 +0000</lastBuildDate>
-    <item>
-      <title>Zakk Sabbath - N.I.B. (1 play)</title>
-      <link>https://www.last.fm/music/Zakk+Sabbath/_/N.I.B.</link>
-      <guid isPermaLink="false">manosg--1765445164--8564e236-ef8d-4867-a6bc-cdee1072e654---N.I.B.</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb1c1f869fc68c9143976902b09e6662.jpg" length="14099" type="image/jpeg"/>
-      <pubDate>Thu, 11 Dec 2025 04:26:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 15:59:03 +0000</lastBuildDate>
     <item>
       <title>Zakk Sabbath - Iron Man (1 play)</title>
       <link>https://www.last.fm/music/Zakk+Sabbath/_/Iron+Man</link>
@@ -268,7 +261,7 @@
       <pubDate>Wed, 17 Dec 2025 05:04:08 -0500</pubDate>
     </item>
     <item>
-      <title>Rhapsody - Rage of the Winter (3 plays)</title>
+      <title>Rhapsody - Rage of the Winter</title>
       <link>https://www.last.fm/music/Rhapsody/_/Rage+of+the+Winter</link>
       <guid isPermaLink="false">manosg--1765966206--Rhapsody---Rage of the Winter</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aa628c2ad4844962966924a66c683636.png" length="234456" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1765970160--Witchcraft---Ghosts House</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82d0dbbe11ca4aea96a265d4c0e184ac.png" length="98403" type="image/png"/>
       <pubDate>Wed, 17 Dec 2025 06:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Witchcraft - White Light Suicide (5 plays)</title>
+      <link>https://www.last.fm/music/Witchcraft/_/White+Light+Suicide</link>
+      <guid isPermaLink="false">manosg--1765971419--Witchcraft---White Light Suicide</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/82d0dbbe11ca4aea96a265d4c0e184ac.png" length="98403" type="image/png"/>
+      <pubDate>Wed, 17 Dec 2025 06:36:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
