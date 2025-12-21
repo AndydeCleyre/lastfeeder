@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Dec 2025 10:56:01 +0000</lastBuildDate>
-    <item>
-      <title>Crushed - waterlily (1 play)</title>
-      <link>https://www.last.fm/music/Crushed/_/waterlily</link>
-      <guid isPermaLink="false">Arcade1996-1766208088--4e2351c3-dcbf-4bd6-ba9b-c033315cbbdb---waterlily</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/324e7abfdf901c0c42c362f4d6e26a9d.jpg" length="17887" type="image/jpeg"/>
-      <pubDate>Sat, 20 Dec 2025 00:21:28 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Dec 2025 12:48:26 +0000</lastBuildDate>
     <item>
       <title>DJ Shadow - Midnight in a Perfect World (7 plays)</title>
       <link>https://www.last.fm/music/DJ+Shadow/_/Midnight+in+a+Perfect+World</link>
@@ -289,7 +282,7 @@
       <pubDate>Sun, 21 Dec 2025 00:59:54 -0500</pubDate>
     </item>
     <item>
-      <title>Operelly - Encyclopedia (2 plays)</title>
+      <title>Operelly - Encyclopedia</title>
       <link>https://www.last.fm/music/Operelly/_/Encyclopedia</link>
       <guid isPermaLink="false">Arcade1996-1766296987--dc1b1529-07d2-480b-8862-f0ef584f2354---Encyclopedia</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29497d48a37d1f30bd2d574d0ed8499f.jpg" length="16406" type="image/jpeg"/>
@@ -341,6 +334,7 @@
       <title>Nilüfer Yanya - Cold Heart (5 plays)</title>
       <link>https://www.last.fm/music/Nil%C3%BCfer+Yanya/_/Cold+Heart</link>
       <guid isPermaLink="false">Arcade1996-1766313479--4173ee0d-e003-496a-98eb-a2eaa90cb3f7---Cold Heart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1cde4f8d2de02cec5680275c4348fec.png" length="193840" type="image/png"/>
       <pubDate>Sun, 21 Dec 2025 05:37:59 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1766313820--1b1ecf77-6435-4c3f-9570-9ae941112ade---Scorpio</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/43df6fa03c0cb27dc1dd3ae67afe3e90.jpg" length="17300" type="image/jpeg"/>
       <pubDate>Sun, 21 Dec 2025 05:43:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Crushed - waterlily (2 plays)</title>
+      <link>https://www.last.fm/music/Crushed/_/waterlily</link>
+      <guid isPermaLink="false">Arcade1996-1766314302--4e2351c3-dcbf-4bd6-ba9b-c033315cbbdb---waterlily</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/324e7abfdf901c0c42c362f4d6e26a9d.jpg" length="17887" type="image/jpeg"/>
+      <pubDate>Sun, 21 Dec 2025 05:51:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
