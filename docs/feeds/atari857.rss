@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Dec 2025 16:29:13 +0000</lastBuildDate>
-    <item>
-      <title>Phoebe Bridgers - Funeral (9 plays)</title>
-      <link>https://www.last.fm/music/Phoebe+Bridgers/_/Funeral</link>
-      <guid isPermaLink="false">atari857-1766099383--96855c21-b832-4366-ba12-0d2330c36a86---Funeral</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/431f51f7525d2724d6f2e1eaf0867c7f.jpg" length="19809" type="image/jpeg"/>
-      <pubDate>Thu, 18 Dec 2025 18:09:43 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Dec 2025 18:58:20 +0000</lastBuildDate>
     <item>
       <title>Phoebe Bridgers - Scott Street (14 plays)</title>
       <link>https://www.last.fm/music/Phoebe+Bridgers/_/Scott+Street</link>
@@ -235,6 +228,7 @@
       <title>Have Mercy - I'm Gonna Be Ok (14 plays)</title>
       <link>https://www.last.fm/music/Have+Mercy/_/I%27m+Gonna+Be+Ok</link>
       <guid isPermaLink="false">atari857-1766245596--1f805fa9-1e4e-4a0b-9454-38055c552594---I'm Gonna Be Ok</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/591ba5603904606b4f40719c4bb4a5fa.jpg" length="29467" type="image/jpeg"/>
       <pubDate>Sat, 20 Dec 2025 10:46:36 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +349,12 @@
       <guid isPermaLink="false">atari857-1766333872--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---Weekends</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0f930a9bb56970a4f20f27a0c0563d22.png" length="78800" type="image/png"/>
       <pubDate>Sun, 21 Dec 2025 11:17:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ruby Fields - Dinosaurs (1 play)</title>
+      <link>https://www.last.fm/music/Ruby+Fields/_/Dinosaurs</link>
+      <guid isPermaLink="false">atari857-1766335110--1707e0e7-da3e-49bc-867d-5a782d7d21ff---Dinosaurs</guid>
+      <pubDate>Sun, 21 Dec 2025 11:38:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
