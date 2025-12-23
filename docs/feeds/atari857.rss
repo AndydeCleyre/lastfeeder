@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 21:23:22 +0000</lastBuildDate>
-    <item>
-      <title>The Weepies - Gotta Have You (1 play)</title>
-      <link>https://www.last.fm/music/The+Weepies/_/Gotta+Have+You</link>
-      <guid isPermaLink="false">atari857-1766112102--59d34d63-e209-4f26-8a09-b08d12202082---Gotta Have You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9f920bcd75f4900856865cb2f3e33c0.png" length="31663" type="image/png"/>
-      <pubDate>Thu, 18 Dec 2025 21:41:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Weepies - Take It from Me</title>
-      <link>https://www.last.fm/music/The+Weepies/_/Take+It+from+Me</link>
-      <guid isPermaLink="false">atari857-1766119452--59d34d63-e209-4f26-8a09-b08d12202082---Take It from Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9f920bcd75f4900856865cb2f3e33c0.png" length="31663" type="image/png"/>
-      <pubDate>Thu, 18 Dec 2025 23:44:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 21:42:43 +0000</lastBuildDate>
     <item>
       <title>The Ataris - 1*15*96 (6 plays)</title>
       <link>https://www.last.fm/music/The+Ataris/_/1*15*96</link>
@@ -215,6 +201,7 @@
       <title>Aisha Badru - Water (6 plays)</title>
       <link>https://www.last.fm/music/Aisha+Badru/_/Water</link>
       <guid isPermaLink="false">atari857-1766251814--Aisha Badru---Water</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/32f75336b09800cf6f3aa1950b70d785.jpg" length="26251" type="image/jpeg"/>
       <pubDate>Sat, 20 Dec 2025 12:30:14 -0500</pubDate>
     </item>
     <item>
@@ -260,7 +247,7 @@
       <pubDate>Sun, 21 Dec 2025 10:43:16 -0500</pubDate>
     </item>
     <item>
-      <title>Amy Shark - Beautiful Eyes (1 play)</title>
+      <title>Amy Shark - Beautiful Eyes (2 plays)</title>
       <link>https://www.last.fm/music/Amy+Shark/_/Beautiful+Eyes</link>
       <guid isPermaLink="false">atari857-1766332084--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---Beautiful Eyes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/251763542a25edb38cd3da6a08b28bb8.jpg" length="17526" type="image/jpeg"/>
@@ -333,6 +320,7 @@
       <title>Harvey Danger - Flagpole Sitta (1 play)</title>
       <link>https://www.last.fm/music/Harvey+Danger/_/Flagpole+Sitta</link>
       <guid isPermaLink="false">atari857-1766440863--822cb123-f728-4a1a-931c-fa27257bb83f---Flagpole Sitta</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/487664898eef232b839bd039deff3485.png" length="207317" type="image/png"/>
       <pubDate>Mon, 22 Dec 2025 17:01:03 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">atari857-1766481997--9092d8e1-9b38-4372-a96d-000b8561a8bc---But I Do Love You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/229d3e37863a9716f1690ae982b54821.jpg" length="24374" type="image/jpeg"/>
       <pubDate>Tue, 23 Dec 2025 04:26:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amy Shark - My Only Friend (feat. Tom DeLonge) (1 play)</title>
+      <link>https://www.last.fm/music/Amy+Shark/_/My+Only+Friend+(feat.+Tom+DeLonge)</link>
+      <guid isPermaLink="false">atari857-1766511884--Amy Shark---My Only Friend (feat. Tom DeLonge)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50bb77d6bed4bfe069ba428a396fd553.jpg" length="16814" type="image/jpeg"/>
+      <pubDate>Tue, 23 Dec 2025 12:44:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amy Shark - Beautiful Eyes (2 plays)</title>
+      <link>https://www.last.fm/music/Amy+Shark/_/Beautiful+Eyes</link>
+      <guid isPermaLink="false">atari857-1766512083--e6bbfac7-47e5-4faf-a3e2-42fdedff72d3---Beautiful Eyes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50bb77d6bed4bfe069ba428a396fd553.jpg" length="16814" type="image/jpeg"/>
+      <pubDate>Tue, 23 Dec 2025 12:48:03 -0500</pubDate>
     </item>
   </channel>
 </rss>
