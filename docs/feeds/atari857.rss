@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 23:41:36 +0000</lastBuildDate>
-    <item>
-      <title>The Ataris - The Graveyard of the Atlantic (1 play)</title>
-      <link>https://www.last.fm/music/The+Ataris/_/The+Graveyard+of+the+Atlantic</link>
-      <guid isPermaLink="false">atari857-1766125845--57805d77-f947-4851-b7fb-78baad154451---The Graveyard of the Atlantic</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Fri, 19 Dec 2025 01:30:45 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sum 41 - Pain for Pleasure (6 plays)</title>
-      <link>https://www.last.fm/music/Sum+41/_/Pain+for+Pleasure</link>
-      <guid isPermaLink="false">atari857-1766157010--f2eef649-a6d5-4114-afba-e50ab26254d2---Pain for Pleasure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/843ff87d138a53861599228e3aa75504.png" length="155219" type="image/png"/>
-      <pubDate>Fri, 19 Dec 2025 10:10:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Ataris - In Spite of The World (3 plays)</title>
-      <link>https://www.last.fm/music/The+Ataris/_/In+Spite+of+The+World</link>
-      <guid isPermaLink="false">atari857-1766157025--57805d77-f947-4851-b7fb-78baad154451---In Spite of The World</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9874f132579e7c4ee3017c346e3dc0e.jpg" length="22725" type="image/jpeg"/>
-      <pubDate>Fri, 19 Dec 2025 10:10:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 04:57:09 +0000</lastBuildDate>
     <item>
       <title>Sum 41 - Grab the Devil by the Horns and Fuck Him Up the Ass (1 play)</title>
       <link>https://www.last.fm/music/Sum+41/_/Grab+the+Devil+by+the+Horns+and+Fuck+Him+Up+the+Ass</link>
@@ -250,6 +229,7 @@
       <title>Julien Baker - Sugar in the Tank (2 plays)</title>
       <link>https://www.last.fm/music/Julien+Baker/_/Sugar+in+the+Tank</link>
       <guid isPermaLink="false">atari857-1766333436--Julien Baker---Sugar in the Tank</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7a79da19129ff84c67a31ad2da809a2.png" length="94028" type="image/png"/>
       <pubDate>Sun, 21 Dec 2025 11:10:36 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">atari857-1766532387--Brand New---Jesus Christ</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0ef2630eb3f4c158fa54b8d7e80801d.jpg" length="23303" type="image/jpeg"/>
       <pubDate>Tue, 23 Dec 2025 18:26:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Brand New - Degausser (1 play)</title>
+      <link>https://www.last.fm/music/Brand+New/_/Degausser</link>
+      <guid isPermaLink="false">atari857-1766550589--Brand New---Degausser</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0ef2630eb3f4c158fa54b8d7e80801d.jpg" length="23303" type="image/jpeg"/>
+      <pubDate>Tue, 23 Dec 2025 23:29:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bryan Adams - Have You Ever Really Loved A Woman? (Classic Version) (1 play)</title>
+      <link>https://www.last.fm/music/Bryan+Adams/_/Have+You+Ever+Really+Loved+A+Woman%3F+(Classic+Version)</link>
+      <guid isPermaLink="false">atari857-1766550590--4dbf5678-7a31-406a-abbe-232f8ac2cd63---Have You Ever Really Loved A Woman? (Classic Version)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ec95a4366fd7391dc8d2b36d7882aea5.jpg" length="12841" type="image/jpeg"/>
+      <pubDate>Tue, 23 Dec 2025 23:29:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bryan Adams - (Everything I Do) I Do It for You (1 play)</title>
+      <link>https://www.last.fm/music/Bryan+Adams/_/(Everything+I+Do)+I+Do+It+for+You</link>
+      <guid isPermaLink="false">atari857-1766551116--4dbf5678-7a31-406a-abbe-232f8ac2cd63---(Everything I Do) I Do It for You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a61aef5455ad2d5fca79cc04ca9fb13.png" length="54876" type="image/png"/>
+      <pubDate>Tue, 23 Dec 2025 23:38:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
