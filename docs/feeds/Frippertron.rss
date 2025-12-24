@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 10:27:03 +0000</lastBuildDate>
-    <item>
-      <title>Scott Walker - Big Louise (43 plays)</title>
-      <link>https://www.last.fm/music/Scott+Walker/_/Big+Louise</link>
-      <guid isPermaLink="false">Frippertron-1766566589--99524243-dc2e-4bf3-82c0-72395391d21f---Big Louise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89db5b3df5c2acbaf6797bc5b6ba6777.jpg" length="8339" type="image/jpeg"/>
-      <pubDate>Wed, 24 Dec 2025 03:56:29 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 10:47:46 +0000</lastBuildDate>
     <item>
       <title>The Flaming Lips - Brainville (13 plays)</title>
       <link>https://www.last.fm/music/The+Flaming+Lips/_/Brainville</link>
@@ -355,6 +348,13 @@
       <guid isPermaLink="false">Frippertron-1766571766--Neurosis---The Time of the Beast</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d37a462e8b9c482b59f68bb83062793.jpg" length="37426" type="image/jpeg"/>
       <pubDate>Wed, 24 Dec 2025 05:22:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Neurosis - Cleanse (1 play)</title>
+      <link>https://www.last.fm/music/Neurosis/_/Cleanse</link>
+      <guid isPermaLink="false">Frippertron-1766572244--Neurosis---Cleanse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0d37a462e8b9c482b59f68bb83062793.jpg" length="37426" type="image/jpeg"/>
+      <pubDate>Wed, 24 Dec 2025 05:30:44 -0500</pubDate>
     </item>
   </channel>
 </rss>
