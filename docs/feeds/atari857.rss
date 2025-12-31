@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 02:02:49 +0000</lastBuildDate>
-    <item>
-      <title>The Hotelier - Housebroken (12 plays)</title>
-      <link>https://www.last.fm/music/The+Hotelier/_/Housebroken</link>
-      <guid isPermaLink="false">atari857-1766897750--af63ec4d-9fe4-4001-bcb6-8dd160ee6451---Housebroken</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/34ea601d6add42eec2e3480a9f00b549.jpg" length="25059" type="image/jpeg"/>
-      <pubDate>Sat, 27 Dec 2025 23:55:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jimi Hendrix - Love Or Confusion (1 play)</title>
-      <link>https://www.last.fm/music/Jimi+Hendrix/_/Love+Or+Confusion</link>
-      <guid isPermaLink="false">atari857-1766899716--06fb1c8b-566e-4cb2-985b-b467c90781d4---Love Or Confusion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c4d0769b7a0e5e24e6e1a2e9dbb36081.jpg" length="26507" type="image/jpeg"/>
-      <pubDate>Sun, 28 Dec 2025 00:28:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 03:43:51 +0000</lastBuildDate>
     <item>
       <title>Amy Shark - Beautiful Eyes (4 plays)</title>
       <link>https://www.last.fm/music/Amy+Shark/_/Beautiful+Eyes</link>
@@ -103,7 +89,6 @@
       <title>Free Throw - Pallet Town (15 plays)</title>
       <link>https://www.last.fm/music/Free+Throw/_/Pallet+Town</link>
       <guid isPermaLink="false">atari857-1766982856--1ca441fa-7cea-4f29-939b-06d8741f74c7---Pallet Town</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c162171bb43cbdfbc8c79fe2245899ef.jpg" length="18877" type="image/jpeg"/>
       <pubDate>Sun, 28 Dec 2025 23:34:16 -0500</pubDate>
     </item>
     <item>
@@ -173,7 +158,6 @@
       <title>Aisha Badru - Enough (1 play)</title>
       <link>https://www.last.fm/music/Aisha+Badru/_/Enough</link>
       <guid isPermaLink="false">atari857-1767038390--Aisha Badru---Enough</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/040e199f1a156050b087987286d2e5da.jpg" length="27698" type="image/jpeg"/>
       <pubDate>Mon, 29 Dec 2025 14:59:50 -0500</pubDate>
     </item>
     <item>
@@ -345,7 +329,7 @@
       <pubDate>Tue, 30 Dec 2025 18:43:34 -0500</pubDate>
     </item>
     <item>
-      <title>A Day to Remember - If It Means a Lot to You (3 plays)</title>
+      <title>A Day to Remember - If It Means a Lot to You (4 plays)</title>
       <link>https://www.last.fm/music/A+Day+to+Remember/_/If+It+Means+a+Lot+to+You</link>
       <guid isPermaLink="false">atari857-1767140083--db008806-16f6-48fc-8521-3d953709689d---If It Means a Lot to You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee2c1861c992445fa15e43b4af6db55e.png" length="238737" type="image/png"/>
@@ -357,6 +341,20 @@
       <guid isPermaLink="false">atari857-1767140387--db008806-16f6-48fc-8521-3d953709689d---The Downfall of Us All</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee2c1861c992445fa15e43b4af6db55e.png" length="238737" type="image/png"/>
       <pubDate>Tue, 30 Dec 2025 19:19:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wolf Alice - Heavenward (6 plays)</title>
+      <link>https://www.last.fm/music/Wolf+Alice/_/Heavenward</link>
+      <guid isPermaLink="false">atari857-1767151289--3547f34a-db02-4ab7-b4a0-380e1ef951a9---Heavenward</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e88a61ed66713cdb3f973706d71f0e1.jpg" length="20819" type="image/jpeg"/>
+      <pubDate>Tue, 30 Dec 2025 22:21:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>A Day to Remember - If It Means a Lot to You (4 plays)</title>
+      <link>https://www.last.fm/music/A+Day+to+Remember/_/If+It+Means+a+Lot+to+You</link>
+      <guid isPermaLink="false">atari857-1767151299--db008806-16f6-48fc-8521-3d953709689d---If It Means a Lot to You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee2c1861c992445fa15e43b4af6db55e.png" length="238737" type="image/png"/>
+      <pubDate>Tue, 30 Dec 2025 22:21:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
