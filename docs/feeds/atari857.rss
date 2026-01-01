@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 22:24:34 +0000</lastBuildDate>
-    <item>
-      <title>Ethel Cain - Nettles (5 plays)</title>
-      <link>https://www.last.fm/music/Ethel+Cain/_/Nettles</link>
-      <guid isPermaLink="false">atari857-1767168850--677e31f1-4035-463c-8ca4-41175440c919---Nettles</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d9be370a86c2745ed21bfffb3ec8a9d.png" length="134939" type="image/png"/>
-      <pubDate>Wed, 31 Dec 2025 03:14:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mitski - Nobody (3 plays)</title>
-      <link>https://www.last.fm/music/Mitski/_/Nobody</link>
-      <guid isPermaLink="false">atari857-1767169250--fa58cf24-0e44-421d-8519-8bf461dcfaa5---Nobody</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a9b9c68a6ecb979e1ac95e28bb28e06b.png" length="159010" type="image/png"/>
-      <pubDate>Wed, 31 Dec 2025 03:20:50 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 23:42:58 +0000</lastBuildDate>
     <item>
       <title>Frightened Rabbit - Get Out (5 plays)</title>
       <link>https://www.last.fm/music/Frightened+Rabbit/_/Get+Out</link>
@@ -333,6 +319,7 @@
       <title>Neun Welten - Valg (2 plays)</title>
       <link>https://www.last.fm/music/Neun+Welten/_/Valg</link>
       <guid isPermaLink="false">atari857-1767261752--d14da7df-80bc-48fb-ab15-81db998b1c45---Valg</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0e43272d3b549d5b9bdfbe77148b6016.jpg" length="27915" type="image/jpeg"/>
       <pubDate>Thu, 01 Jan 2026 05:02:32 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +342,20 @@
       <guid isPermaLink="false">atari857-1767285672--83d91898-7763-47d7-b03b-b92132375c47---Wish You Were Here</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e19d2760d2c0cf4de9d2a68beda56efd.jpg" length="9768" type="image/jpeg"/>
       <pubDate>Thu, 01 Jan 2026 11:41:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lizzy McAlpine - ceilings (1 play)</title>
+      <link>https://www.last.fm/music/Lizzy+McAlpine/_/ceilings</link>
+      <guid isPermaLink="false">atari857-1767310620--ee0b11de-0c8a-4267-9886-198f4579e1db---ceilings</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5946852fca6657d281a44b43e007955.jpg" length="8022" type="image/jpeg"/>
+      <pubDate>Thu, 01 Jan 2026 18:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lizzy McAlpine - what a shame (1 play)</title>
+      <link>https://www.last.fm/music/Lizzy+McAlpine/_/what+a+shame</link>
+      <guid isPermaLink="false">atari857-1767310788--ee0b11de-0c8a-4267-9886-198f4579e1db---what a shame</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e5946852fca6657d281a44b43e007955.jpg" length="8022" type="image/jpeg"/>
+      <pubDate>Thu, 01 Jan 2026 18:39:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
