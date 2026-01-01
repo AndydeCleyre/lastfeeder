@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 02:20:16 +0000</lastBuildDate>
-    <item>
-      <title>Ulver - They're Coming! The Birds! (2 plays)</title>
-      <link>https://www.last.fm/music/Ulver/_/They%27re+Coming!+The+Birds!</link>
-      <guid isPermaLink="false">atari857-1767164387--7d209631-ccb8-4a87-8516-64abe4c22dba---They're Coming! The Birds!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c3b0d8e56bb15ad571b6c9cab4a447c.jpg" length="42900" type="image/jpeg"/>
-      <pubDate>Wed, 31 Dec 2025 01:59:47 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 21:42:59 +0000</lastBuildDate>
     <item>
       <title>Julien Baker - Claws in Your Back (1 play)</title>
       <link>https://www.last.fm/music/Julien+Baker/_/Claws+in+Your+Back</link>
@@ -96,6 +89,7 @@
       <title>Big Thief - UFOF (15 plays)</title>
       <link>https://www.last.fm/music/Big+Thief/_/UFOF</link>
       <guid isPermaLink="false">atari857-1767167738--9f81247f-7f57-42f3-a8ba-75bef554e591---UFOF</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e406f4190982b1db943f47076a3c4f28.jpg" length="34171" type="image/jpeg"/>
       <pubDate>Wed, 31 Dec 2025 02:55:38 -0500</pubDate>
     </item>
     <item>
@@ -340,6 +334,7 @@
       <title>Say Anything - Cemetery (8 plays)</title>
       <link>https://www.last.fm/music/Say+Anything/_/Cemetery</link>
       <guid isPermaLink="false">atari857-1767218111--ee90d1b3-a4e2-4d18-9092-111d856e7e7a---Cemetery</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d27e826c264948ebba2095b0b33bdc86.png" length="150174" type="image/png"/>
       <pubDate>Wed, 31 Dec 2025 16:55:11 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">atari857-1767220591--ee90d1b3-a4e2-4d18-9092-111d856e7e7a---Eloise</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15a3c007660349338c98bb9e25d54a08.jpg" length="24346" type="image/jpeg"/>
       <pubDate>Wed, 31 Dec 2025 17:36:31 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kacey Musgraves - Nothing to Be Scared Of (1 play)</title>
+      <link>https://www.last.fm/music/Kacey+Musgraves/_/Nothing+to+Be+Scared+Of</link>
+      <guid isPermaLink="false">atari857-1767227695--d1393ecb-431b-4fde-a6ea-d769f2f040cb---Nothing to Be Scared Of</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e52e66d4d0b57228614c201e5ca6dd7.jpg" length="21081" type="image/jpeg"/>
+      <pubDate>Wed, 31 Dec 2025 19:34:55 -0500</pubDate>
     </item>
   </channel>
 </rss>
