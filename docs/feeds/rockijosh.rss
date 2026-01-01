@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 15:56:27 +0000</lastBuildDate>
-    <item>
-      <title>Between the Buried and Me - The Blue Nowhere (3 plays)</title>
-      <link>https://www.last.fm/music/Between+the+Buried+and+Me/_/The+Blue+Nowhere</link>
-      <guid isPermaLink="false">rockijosh-1767229483--1870fb43-50f1-4660-a879-bb596d1519b6---The Blue Nowhere</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3eeb461cfef41c74bb3e9c43992f377a.jpg" length="15549" type="image/jpeg"/>
-      <pubDate>Wed, 31 Dec 2025 20:04:43 -0500</pubDate>
-    </item>
-    <item>
-      <title>Between the Buried and Me - Beautifully Human (2 plays)</title>
-      <link>https://www.last.fm/music/Between+the+Buried+and+Me/_/Beautifully+Human</link>
-      <guid isPermaLink="false">rockijosh-1767229844--1870fb43-50f1-4660-a879-bb596d1519b6---Beautifully Human</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3eeb461cfef41c74bb3e9c43992f377a.jpg" length="15549" type="image/jpeg"/>
-      <pubDate>Wed, 31 Dec 2025 20:10:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 16:35:14 +0000</lastBuildDate>
     <item>
       <title>Between the Buried and Me - Things We Tell Ourselves In The Dark (5 plays)</title>
       <link>https://www.last.fm/music/Between+the+Buried+and+Me/_/Things+We+Tell+Ourselves+In+The+Dark</link>
@@ -201,10 +187,11 @@
       <title>Less Gravity - Wait and Bleed (6 plays)</title>
       <link>https://www.last.fm/music/Less+Gravity/_/Wait+and+Bleed</link>
       <guid isPermaLink="false">rockijosh-1767278698--0d38ff4f-725b-4db3-bd1c-8b7456c44d65---Wait and Bleed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/39b4299175e5e2e75d36e14e66f9f422.jpg" length="6057" type="image/jpeg"/>
       <pubDate>Thu, 01 Jan 2026 09:44:58 -0500</pubDate>
     </item>
     <item>
-      <title>Hot Mulligan - *Equip Sunglasses* - Lofi (10 plays)</title>
+      <title>Hot Mulligan - *Equip Sunglasses* - Lofi</title>
       <link>https://www.last.fm/music/Hot+Mulligan/_/*Equip+Sunglasses*+-+Lofi</link>
       <guid isPermaLink="false">rockijosh-1767278785--Hot Mulligan---*Equip Sunglasses* - Lofi</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e3f9086c4491f2fd7ee5c386c1597aec.jpg" length="22344" type="image/jpeg"/>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">rockijosh-1767282784--Above &amp; Beyond---Letting Go</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e96e12a1cdeef2dbacf426ea539904f8.jpg" length="7607" type="image/jpeg"/>
       <pubDate>Thu, 01 Jan 2026 10:53:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Arm's Length - The World (2 plays)</title>
+      <link>https://www.last.fm/music/Arm%27s+Length/_/The+World</link>
+      <guid isPermaLink="false">rockijosh-1767283005--2b1e0708-7317-4b09-b6a2-6dc6cb9c0479---The World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c40d0c4f8b077b821a630049a7b99f86.jpg" length="10425" type="image/jpeg"/>
+      <pubDate>Thu, 01 Jan 2026 10:56:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Arm's Length - Fatal Flaw (3 plays)</title>
+      <link>https://www.last.fm/music/Arm%27s+Length/_/Fatal+Flaw</link>
+      <guid isPermaLink="false">rockijosh-1767283226--Arm's Length---Fatal Flaw</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c40d0c4f8b077b821a630049a7b99f86.jpg" length="10425" type="image/jpeg"/>
+      <pubDate>Thu, 01 Jan 2026 11:00:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
