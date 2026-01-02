@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 18:38:59 +0000</lastBuildDate>
-    <item>
-      <title>Yellowcard - Keeper (8 plays)</title>
-      <link>https://www.last.fm/music/Yellowcard/_/Keeper</link>
-      <guid isPermaLink="false">atari857-1767197331--3630fff3-52fc-4e97-ab01-d68fd88e4135---Keeper</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2b6d077f8ae47a99f9f7557578901d7.png" length="145392" type="image/png"/>
-      <pubDate>Wed, 31 Dec 2025 11:08:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 18:57:34 +0000</lastBuildDate>
     <item>
       <title>Ulver - Horses of the Plough (2 plays)</title>
       <link>https://www.last.fm/music/Ulver/_/Horses+of+the+Plough</link>
@@ -306,6 +299,7 @@
       <title>Tigers Jaw - Head is Like a Sinking Stone (6 plays)</title>
       <link>https://www.last.fm/music/Tigers+Jaw/_/Head+is+Like+a+Sinking+Stone</link>
       <guid isPermaLink="false">atari857-1767333688--3cdf1327-39eb-4ffe-9ce3-20599ac6a468---Head is Like a Sinking Stone</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/341f35ede35f15d30dab6c3dc9ebdbb3.jpg" length="18850" type="image/jpeg"/>
       <pubDate>Fri, 02 Jan 2026 01:01:28 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">atari857-1767369185--Jay Som---Float - feat. Jim Adkins</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bd62e4e077c0c779d6b02ce662760421.jpg" length="10947" type="image/jpeg"/>
       <pubDate>Fri, 02 Jan 2026 10:53:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>fun. - Some Nights (1 play)</title>
+      <link>https://www.last.fm/music/fun./_/Some+Nights</link>
+      <guid isPermaLink="false">atari857-1767377534--fun.---Some Nights</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2c64d81d94943443fadb2ba11315f2d.jpg" length="14160" type="image/jpeg"/>
+      <pubDate>Fri, 02 Jan 2026 13:12:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
