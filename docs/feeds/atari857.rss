@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 15:27:24 +0000</lastBuildDate>
-    <item>
-      <title>Ulver - Weeping Stone (2 plays)</title>
-      <link>https://www.last.fm/music/Ulver/_/Weeping+Stone</link>
-      <guid isPermaLink="false">atari857-1767196605--7d209631-ccb8-4a87-8516-64abe4c22dba---Weeping Stone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c3b0d8e56bb15ad571b6c9cab4a447c.jpg" length="42900" type="image/jpeg"/>
-      <pubDate>Wed, 31 Dec 2025 10:56:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 15:46:13 +0000</lastBuildDate>
     <item>
       <title>Ulver - Quivers in the Marrow (2 plays)</title>
       <link>https://www.last.fm/music/Ulver/_/Quivers+in+the+Marrow</link>
@@ -30,7 +23,7 @@
       <pubDate>Wed, 31 Dec 2025 11:00:07 -0500</pubDate>
     </item>
     <item>
-      <title>Ulver - Pandora's Box (2 plays)</title>
+      <title>Ulver - Pandora's Box</title>
       <link>https://www.last.fm/music/Ulver/_/Pandora%27s+Box</link>
       <guid isPermaLink="false">atari857-1767197060--7d209631-ccb8-4a87-8516-64abe4c22dba---Pandora's Box</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c3b0d8e56bb15ad571b6c9cab4a447c.jpg" length="42900" type="image/jpeg"/>
@@ -334,7 +327,6 @@
       <title>Tigers Jaw - Head is Like a Sinking Stone (6 plays)</title>
       <link>https://www.last.fm/music/Tigers+Jaw/_/Head+is+Like+a+Sinking+Stone</link>
       <guid isPermaLink="false">atari857-1767333688--3cdf1327-39eb-4ffe-9ce3-20599ac6a468---Head is Like a Sinking Stone</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/341f35ede35f15d30dab6c3dc9ebdbb3.jpg" length="18850" type="image/jpeg"/>
       <pubDate>Fri, 02 Jan 2026 01:01:28 -0500</pubDate>
     </item>
     <item>
@@ -348,7 +340,6 @@
       <title>Phoebe Bridgers - Sidelines (8 plays)</title>
       <link>https://www.last.fm/music/Phoebe+Bridgers/_/Sidelines</link>
       <guid isPermaLink="false">atari857-1767366369--96855c21-b832-4366-ba12-0d2330c36a86---Sidelines</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/df1f7fbed94334d0a01df4053b05d998.jpg" length="20147" type="image/jpeg"/>
       <pubDate>Fri, 02 Jan 2026 10:06:09 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +348,13 @@
       <guid isPermaLink="false">atari857-1767366533--12a9e259-f7cb-4fca-87b1-a6c5fd38c300---It Smells Like Fudge Axe in Here</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e7c680d826092427ef14948738ce51d3.png" length="160531" type="image/png"/>
       <pubDate>Fri, 02 Jan 2026 10:08:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Big Thief - Los Angeles (9 plays)</title>
+      <link>https://www.last.fm/music/Big+Thief/_/Los+Angeles</link>
+      <guid isPermaLink="false">atari857-1767366854--9f81247f-7f57-42f3-a8ba-75bef554e591---Los Angeles</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f98ca49cd131a28d80f4d99efc96d0f.png" length="105796" type="image/png"/>
+      <pubDate>Fri, 02 Jan 2026 10:14:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
