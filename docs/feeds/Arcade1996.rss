@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 09:28:31 +0000</lastBuildDate>
-    <item>
-      <title>KMD - Peachfuzz (5 plays)</title>
-      <link>https://www.last.fm/music/KMD/_/Peachfuzz</link>
-      <guid isPermaLink="false">Arcade1996-1767366140--0963d12b-d07f-442f-9a0e-97c0c7c6b889---Peachfuzz</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/022f795da3fb45a3af175b13da7a0edb.jpg" length="31632" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 10:02:20 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Mummies - That Girl (1 play)</title>
-      <link>https://www.last.fm/music/The+Mummies/_/That+Girl</link>
-      <guid isPermaLink="false">Arcade1996-1767366380--0879bdd2-e5a0-4a43-9ba5-8c7c02b65080---That Girl</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c1dc3bf9c184e0f9a3745a65e961edb.jpg" length="27460" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 10:06:20 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 11:20:11 +0000</lastBuildDate>
     <item>
       <title>Megadeth - Holy Wars...The Punishment Due (15 plays)</title>
       <link>https://www.last.fm/music/Megadeth/_/Holy+Wars...The+Punishment+Due</link>
@@ -352,11 +338,25 @@
       <pubDate>Sat, 03 Jan 2026 03:20:16 -0500</pubDate>
     </item>
     <item>
+      <title>Portishead - Half Day Closing (2 plays)</title>
+      <link>https://www.last.fm/music/Portishead/_/Half+Day+Closing</link>
+      <guid isPermaLink="false">Arcade1996-1767428417--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---Half Day Closing</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99559e668b484db9950a032fcb00139f.png" length="73916" type="image/png"/>
+      <pubDate>Sat, 03 Jan 2026 03:20:17 -0500</pubDate>
+    </item>
+    <item>
       <title>Portishead - Humming (2 plays)</title>
       <link>https://www.last.fm/music/Portishead/_/Humming</link>
       <guid isPermaLink="false">Arcade1996-1767428651--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---Humming</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99559e668b484db9950a032fcb00139f.png" length="73916" type="image/png"/>
       <pubDate>Sat, 03 Jan 2026 03:24:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Portishead - Mourning Air (2 plays)</title>
+      <link>https://www.last.fm/music/Portishead/_/Mourning+Air</link>
+      <guid isPermaLink="false">Arcade1996-1767436694--8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11---Mourning Air</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99559e668b484db9950a032fcb00139f.png" length="73916" type="image/png"/>
+      <pubDate>Sat, 03 Jan 2026 05:38:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
