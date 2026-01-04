@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 18:34:55 +0000</lastBuildDate>
-    <item>
-      <title>Moonbear - Like Clockwork (2 plays)</title>
-      <link>https://www.last.fm/music/Moonbear/_/Like+Clockwork</link>
-      <guid isPermaLink="false">walrus898-1767165538--Moonbear---Like Clockwork</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c29482f30321140ec813497a411d916.jpg" length="32028" type="image/jpeg"/>
-      <pubDate>Wed, 31 Dec 2025 02:18:58 -0500</pubDate>
-    </item>
-    <item>
-      <title>Quivers - Oyster Cuts (2 plays)</title>
-      <link>https://www.last.fm/music/Quivers/_/Oyster+Cuts</link>
-      <guid isPermaLink="false">walrus898-1767165719--a6d39b5e-ad93-4d49-a10b-4c772fce3f5d---Oyster Cuts</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0c108b751c3e1951ad9acba7a6a4e3.jpg" length="31099" type="image/jpeg"/>
-      <pubDate>Wed, 31 Dec 2025 02:21:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 20:28:10 +0000</lastBuildDate>
     <item>
       <title>Mellah - Old Friend (3 plays)</title>
       <link>https://www.last.fm/music/Mellah/_/Old+Friend</link>
@@ -191,7 +177,7 @@
       <pubDate>Sat, 03 Jan 2026 13:02:12 -0500</pubDate>
     </item>
     <item>
-      <title>Glassio - A Friend Like You (2 plays)</title>
+      <title>Glassio - A Friend Like You (3 plays)</title>
       <link>https://www.last.fm/music/Glassio/_/A+Friend+Like+You</link>
       <guid isPermaLink="false">walrus898-1767463486--Glassio---A Friend Like You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0adee95178348fc818375dc876e692.jpg" length="16404" type="image/jpeg"/>
@@ -222,12 +208,14 @@
       <title>Quivers - Oyster Cuts (2 plays)</title>
       <link>https://www.last.fm/music/Quivers/_/Oyster+Cuts</link>
       <guid isPermaLink="false">walrus898-1767464313--a6d39b5e-ad93-4d49-a10b-4c772fce3f5d---Oyster Cuts</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0c108b751c3e1951ad9acba7a6a4e3.jpg" length="31099" type="image/jpeg"/>
       <pubDate>Sat, 03 Jan 2026 13:18:33 -0500</pubDate>
     </item>
     <item>
       <title>Moonbear - Like Clockwork (2 plays)</title>
       <link>https://www.last.fm/music/Moonbear/_/Like+Clockwork</link>
       <guid isPermaLink="false">walrus898-1767464574--Moonbear---Like Clockwork</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c29482f30321140ec813497a411d916.jpg" length="32028" type="image/jpeg"/>
       <pubDate>Sat, 03 Jan 2026 13:22:54 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">walrus898-1767550384--Meija---Buttons - Take 2</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/984ecfbf168036a3dee485743f1eda1a.jpg" length="11189" type="image/jpeg"/>
       <pubDate>Sun, 04 Jan 2026 13:13:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nice Guys - Again (2 plays)</title>
+      <link>https://www.last.fm/music/Nice+Guys/_/Again</link>
+      <guid isPermaLink="false">walrus898-1767550614--Nice Guys---Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6c6d2255895106fafd4503a61ae6e917.jpg" length="11994" type="image/jpeg"/>
+      <pubDate>Sun, 04 Jan 2026 13:16:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Glassio - A Friend Like You (3 plays)</title>
+      <link>https://www.last.fm/music/Glassio/_/A+Friend+Like+You</link>
+      <guid isPermaLink="false">walrus898-1767557367--Glassio---A Friend Like You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/de0adee95178348fc818375dc876e692.jpg" length="16404" type="image/jpeg"/>
+      <pubDate>Sun, 04 Jan 2026 15:09:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
