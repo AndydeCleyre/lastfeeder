@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 04:02:32 +0000</lastBuildDate>
-    <item>
-      <title>Big Thief - Los Angeles (9 plays)</title>
-      <link>https://www.last.fm/music/Big+Thief/_/Los+Angeles</link>
-      <guid isPermaLink="false">atari857-1767366854--9f81247f-7f57-42f3-a8ba-75bef554e591---Los Angeles</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f98ca49cd131a28d80f4d99efc96d0f.png" length="105796" type="image/png"/>
-      <pubDate>Fri, 02 Jan 2026 10:14:14 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Format - Holy Roller (2 plays)</title>
-      <link>https://www.last.fm/music/The+Format/_/Holy+Roller</link>
-      <guid isPermaLink="false">atari857-1767367343--81b07a2a-cdf0-4c5e-a68c-8d910e1f0ea6---Holy Roller</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac6b9eb41d520643fc236cf4ae0e989e.jpg" length="11699" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 10:22:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Format - Boycott Heaven (2 plays)</title>
-      <link>https://www.last.fm/music/The+Format/_/Boycott+Heaven</link>
-      <guid isPermaLink="false">atari857-1767367619--The Format---Boycott Heaven</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac6b9eb41d520643fc236cf4ae0e989e.jpg" length="11699" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 10:26:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 05:33:51 +0000</lastBuildDate>
     <item>
       <title>The Format - Right Where I Belong (3 plays)</title>
       <link>https://www.last.fm/music/The+Format/_/Right+Where+I+Belong</link>
@@ -275,6 +254,13 @@
       <pubDate>Sat, 03 Jan 2026 11:08:23 -0500</pubDate>
     </item>
     <item>
+      <title>Radical Face - Holy Branches (2 plays)</title>
+      <link>https://www.last.fm/music/Radical+Face/_/Holy+Branches</link>
+      <guid isPermaLink="false">atari857-1767456796--6c25514f-1f14-4106-a142-be95ba11f117---Holy Branches</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b29f8101a19b4ea886b7d2347eed1a59.jpg" length="24842" type="image/jpeg"/>
+      <pubDate>Sat, 03 Jan 2026 11:13:16 -0500</pubDate>
+    </item>
+    <item>
       <title>Elliott Smith - Angeles (5 plays)</title>
       <link>https://www.last.fm/music/Elliott+Smith/_/Angeles</link>
       <guid isPermaLink="false">atari857-1767458612--27ad6f29-5f2c-499a-b823-8edd5e01d277---Angeles</guid>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">atari857-1767497498--350bce49-c21b-4137-b50a-0766ded07e4d---Everything Must Go</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/559b287ec9ed96920a414bd4b6ce181b.jpg" length="23807" type="image/jpeg"/>
       <pubDate>Sat, 03 Jan 2026 22:31:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lords of Acid - Rough Sex (1 play)</title>
+      <link>https://www.last.fm/music/Lords+of+Acid/_/Rough+Sex</link>
+      <guid isPermaLink="false">atari857-1767501780--b0e81c40-ea89-40b9-95b3-e63d5cad5e67---Rough Sex</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/80f7a7ff16833b4f56abd9c474c988a6.jpg" length="18584" type="image/jpeg"/>
+      <pubDate>Sat, 03 Jan 2026 23:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Max Richter - On the Nature of Daylight (1 play)</title>
+      <link>https://www.last.fm/music/Max+Richter/_/On+the+Nature+of+Daylight</link>
+      <guid isPermaLink="false">atari857-1767503963--509f20b2-5df3-4aec-9bbc-002131fb3f99---On the Nature of Daylight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca6b7dde08e6e0375e831cad4c6a9916.jpg" length="15915" type="image/jpeg"/>
+      <pubDate>Sun, 04 Jan 2026 00:19:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
