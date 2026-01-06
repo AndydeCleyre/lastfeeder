@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 19:31:56 +0000</lastBuildDate>
-    <item>
-      <title>Arm's Length - Halley (1 play)</title>
-      <link>https://www.last.fm/music/Arm%27s+Length/_/Halley</link>
-      <guid isPermaLink="false">rockijosh-1767289661--2b1e0708-7317-4b09-b6a2-6dc6cb9c0479---Halley</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c40d0c4f8b077b821a630049a7b99f86.jpg" length="10425" type="image/jpeg"/>
-      <pubDate>Thu, 01 Jan 2026 12:47:41 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 11:55:04 +0000</lastBuildDate>
     <item>
       <title>Arm's Length - Morning Person (1 play)</title>
       <link>https://www.last.fm/music/Arm%27s+Length/_/Morning+Person</link>
@@ -289,7 +282,7 @@
       <pubDate>Mon, 05 Jan 2026 11:56:46 -0500</pubDate>
     </item>
     <item>
-      <title>Ethel Cain - Waco, Texas (1 play)</title>
+      <title>Ethel Cain - Waco, Texas (2 plays)</title>
       <link>https://www.last.fm/music/Ethel+Cain/_/Waco,+Texas</link>
       <guid isPermaLink="false">rockijosh-1767632807--677e31f1-4035-463c-8ca4-41175440c919---Waco, Texas</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d9be370a86c2745ed21bfffb3ec8a9d.png" length="134939" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">rockijosh-1767639625--677e31f1-4035-463c-8ca4-41175440c919---Tempest</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d9be370a86c2745ed21bfffb3ec8a9d.png" length="134939" type="image/png"/>
       <pubDate>Mon, 05 Jan 2026 14:00:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ethel Cain - Waco, Texas (1 play)</title>
+      <link>https://www.last.fm/music/Ethel+Cain/_/Waco,+Texas</link>
+      <guid isPermaLink="false">rockijosh-1767640226--677e31f1-4035-463c-8ca4-41175440c919---Waco, Texas</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d9be370a86c2745ed21bfffb3ec8a9d.png" length="134939" type="image/png"/>
+      <pubDate>Mon, 05 Jan 2026 14:10:26 -0500</pubDate>
     </item>
   </channel>
 </rss>
