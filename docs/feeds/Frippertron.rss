@@ -7,192 +7,131 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 07:28:48 +0000</lastBuildDate>
-    <item>
-      <title>The Dead C - Voodoo Spell (1 play)</title>
-      <link>https://www.last.fm/music/The+Dead+C/_/Voodoo+Spell</link>
-      <guid isPermaLink="false">Frippertron-1767795005--45fdf967-5a18-417a-be32-7dda5c0ebbb0---Voodoo Spell</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16f0710b900a406daa4accf4bbbf373f.png" length="207666" type="image/png"/>
-      <pubDate>Wed, 07 Jan 2026 09:10:05 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Dead C - The New Snow (1 play)</title>
-      <link>https://www.last.fm/music/The+Dead+C/_/The+New+Snow</link>
-      <guid isPermaLink="false">Frippertron-1767795166--45fdf967-5a18-417a-be32-7dda5c0ebbb0---The New Snow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16f0710b900a406daa4accf4bbbf373f.png" length="207666" type="image/png"/>
-      <pubDate>Wed, 07 Jan 2026 09:12:46 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Dead C - Your Hand (1 play)</title>
-      <link>https://www.last.fm/music/The+Dead+C/_/Your+Hand</link>
-      <guid isPermaLink="false">Frippertron-1767795917--45fdf967-5a18-417a-be32-7dda5c0ebbb0---Your Hand</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16f0710b900a406daa4accf4bbbf373f.png" length="207666" type="image/png"/>
-      <pubDate>Wed, 07 Jan 2026 09:25:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Dead C - Aime-Toi Ton Prochain Comme Toi-Même (1 play)</title>
-      <link>https://www.last.fm/music/The+Dead+C/_/Aime-Toi+Ton+Prochain+Comme+Toi-M%C3%AAme</link>
-      <guid isPermaLink="false">Frippertron-1767796360--The Dead C---Aime-Toi Ton Prochain Comme Toi-Même</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16f0710b900a406daa4accf4bbbf373f.png" length="207666" type="image/png"/>
-      <pubDate>Wed, 07 Jan 2026 09:32:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Dead C - Bitcher (1 play)</title>
-      <link>https://www.last.fm/music/The+Dead+C/_/Bitcher</link>
-      <guid isPermaLink="false">Frippertron-1767796415--45fdf967-5a18-417a-be32-7dda5c0ebbb0---Bitcher</guid>
-      <pubDate>Wed, 07 Jan 2026 09:33:35 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Dead C - Outside (1 play)</title>
-      <link>https://www.last.fm/music/The+Dead+C/_/Outside</link>
-      <guid isPermaLink="false">Frippertron-1767796807--45fdf967-5a18-417a-be32-7dda5c0ebbb0---Outside</guid>
-      <pubDate>Wed, 07 Jan 2026 09:40:07 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Little Wonder (15 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Little+Wonder</link>
-      <guid isPermaLink="false">Frippertron-1767841077--5441c29d-3602-4898-b1a1-b77fa23b8e50---Little Wonder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
-      <pubDate>Wed, 07 Jan 2026 21:57:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Looking for Satellites (21 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Looking+for+Satellites</link>
-      <guid isPermaLink="false">Frippertron-1767841440--5441c29d-3602-4898-b1a1-b77fa23b8e50---Looking for Satellites</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
-      <pubDate>Wed, 07 Jan 2026 22:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>David Bowie - Battle for Britain (The Letter) (28 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Battle+for+Britain+(The+Letter)</link>
-      <guid isPermaLink="false">Frippertron-1767841761--5441c29d-3602-4898-b1a1-b77fa23b8e50---Battle for Britain (The Letter)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
-      <pubDate>Wed, 07 Jan 2026 22:09:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 08:37:11 +0000</lastBuildDate>
     <item>
       <title>David Bowie - Seven Years in Tibet (29 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Seven+Years+in+Tibet</link>
       <guid isPermaLink="false">Frippertron-1767842050--5441c29d-3602-4898-b1a1-b77fa23b8e50---Seven Years in Tibet</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:14:10 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Dead Man Walking (98 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Dead+Man+Walking</link>
       <guid isPermaLink="false">Frippertron-1767842432--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dead Man Walking</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:20:32 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Telling Lies (18 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Telling+Lies</link>
       <guid isPermaLink="false">Frippertron-1767842841--5441c29d-3602-4898-b1a1-b77fa23b8e50---Telling Lies</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:27:21 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - The Last Thing You Should Do (57 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/The+Last+Thing+You+Should+Do</link>
       <guid isPermaLink="false">Frippertron-1767843132--5441c29d-3602-4898-b1a1-b77fa23b8e50---The Last Thing You Should Do</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:32:12 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - I'm Afraid of Americans (44 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/I%27m+Afraid+of+Americans</link>
       <guid isPermaLink="false">Frippertron-1767843429--5441c29d-3602-4898-b1a1-b77fa23b8e50---I'm Afraid of Americans</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:37:09 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Law (Earthlings on Fire) (43 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Law+(Earthlings+on+Fire)</link>
       <guid isPermaLink="false">Frippertron-1767843730--5441c29d-3602-4898-b1a1-b77fa23b8e50---Law (Earthlings on Fire)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ae223e3687a304d552319806c02edcd.jpg" length="26977" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:42:10 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - It's No Game (Part 1) (91 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/It%27s+No+Game+(Part+1)</link>
       <guid isPermaLink="false">Frippertron-1767844024--5441c29d-3602-4898-b1a1-b77fa23b8e50---It's No Game (Part 1)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:47:04 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Up the Hill Backwards (74 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Up+the+Hill+Backwards</link>
       <guid isPermaLink="false">Frippertron-1767844285--5441c29d-3602-4898-b1a1-b77fa23b8e50---Up the Hill Backwards</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:51:25 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Scary Monsters (and Super Creeps) (86 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Scary+Monsters+(and+Super+Creeps)</link>
       <guid isPermaLink="false">Frippertron-1767844480--5441c29d-3602-4898-b1a1-b77fa23b8e50---Scary Monsters (and Super Creeps)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:54:40 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Ashes to Ashes (142 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Ashes+to+Ashes</link>
       <guid isPermaLink="false">Frippertron-1767844791--5441c29d-3602-4898-b1a1-b77fa23b8e50---Ashes to Ashes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 22:59:51 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Fashion (204 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Fashion</link>
       <guid isPermaLink="false">Frippertron-1767845055--5441c29d-3602-4898-b1a1-b77fa23b8e50---Fashion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 23:04:15 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Teenage Wildlife (233 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Teenage+Wildlife</link>
       <guid isPermaLink="false">Frippertron-1767845345--5441c29d-3602-4898-b1a1-b77fa23b8e50---Teenage Wildlife</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 23:09:05 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Scream Like a Baby (81 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Scream+Like+a+Baby</link>
       <guid isPermaLink="false">Frippertron-1767845761--5441c29d-3602-4898-b1a1-b77fa23b8e50---Scream Like a Baby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 23:16:01 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Kingdom Come (99 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Kingdom+Come</link>
       <guid isPermaLink="false">Frippertron-1767845976--5441c29d-3602-4898-b1a1-b77fa23b8e50---Kingdom Come</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 23:19:36 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Because You're Young (75 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Because+You%27re+Young</link>
       <guid isPermaLink="false">Frippertron-1767846201--5441c29d-3602-4898-b1a1-b77fa23b8e50---Because You're Young</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 23:23:21 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - It's No Game (Part 2) (74 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/It%27s+No+Game+(Part+2)</link>
       <guid isPermaLink="false">Frippertron-1767846496--5441c29d-3602-4898-b1a1-b77fa23b8e50---It's No Game (Part 2)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6ea07d6117805246df1c2e1f85a4df81.jpg" length="23393" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 23:28:16 -0500</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Vicarious Atonement (38 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Vicarious+Atonement</link>
       <guid isPermaLink="false">Frippertron-1767846750--20883363-1ea4-4d72-ad72-c0e767038f3e---Vicarious Atonement</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 23:32:30 -0500</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Tetragrammaton (217 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
       <guid isPermaLink="false">Frippertron-1767847190--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc316da0a77fa9e8466c6918124254ad.jpg" length="25254" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 07 Jan 2026 23:39:50 -0500</pubDate>
     </item>
     <item>
@@ -211,148 +150,208 @@
       <title>David Sylvian - Small Metal Gods (77 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Small+Metal+Gods</link>
       <guid isPermaLink="false">Frippertron-1767848579--719db6b1-0d91-458c-8d18-875ec44105bf---Small Metal Gods</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2df8d4033c9b49f68b9ec4fd2a286006.png" length="225520" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 00:02:59 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Blackstar (50 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Blackstar</link>
       <guid isPermaLink="false">Frippertron-1767849038--5441c29d-3602-4898-b1a1-b77fa23b8e50---Blackstar</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 00:10:38 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - 'Tis a Pity She Was a Whore (48 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/%27Tis+a+Pity+She+Was+a+Whore</link>
       <guid isPermaLink="false">Frippertron-1767849636--5441c29d-3602-4898-b1a1-b77fa23b8e50---'Tis a Pity She Was a Whore</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 00:20:36 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Lazarus (41 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Lazarus</link>
       <guid isPermaLink="false">Frippertron-1767849929--5441c29d-3602-4898-b1a1-b77fa23b8e50---Lazarus</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 00:25:29 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Sue (Or in a Season of Crime) (68 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Sue+(Or+in+a+Season+of+Crime)</link>
       <guid isPermaLink="false">Frippertron-1767851824--5441c29d-3602-4898-b1a1-b77fa23b8e50---Sue (Or in a Season of Crime)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 00:57:04 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Girl Loves Me (40 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Girl+Loves+Me</link>
       <guid isPermaLink="false">Frippertron-1767852104--5441c29d-3602-4898-b1a1-b77fa23b8e50---Girl Loves Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:01:44 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - Dollar Days (33 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/Dollar+Days</link>
       <guid isPermaLink="false">Frippertron-1767852397--5441c29d-3602-4898-b1a1-b77fa23b8e50---Dollar Days</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:06:37 -0500</pubDate>
     </item>
     <item>
       <title>David Bowie - I Can't Give Everything Away (40 plays)</title>
       <link>https://www.last.fm/music/David+Bowie/_/I+Can%27t+Give+Everything+Away</link>
       <guid isPermaLink="false">Frippertron-1767852681--5441c29d-3602-4898-b1a1-b77fa23b8e50---I Can't Give Everything Away</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a63919a5f152e8242b735b022ded451d.png" length="14195" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:11:21 -0500</pubDate>
     </item>
     <item>
       <title>At the Drive-In - Arcarsenal (138 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Arcarsenal</link>
       <guid isPermaLink="false">Frippertron-1767853027--At the Drive-In---Arcarsenal</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:17:07 -0500</pubDate>
     </item>
     <item>
       <title>At the Drive-In - Pattern Against User (155 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Pattern+Against+User</link>
       <guid isPermaLink="false">Frippertron-1767853203--At the Drive-In---Pattern Against User</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:20:03 -0500</pubDate>
     </item>
     <item>
       <title>At the Drive-In - One Armed Scissor (144 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/One+Armed+Scissor</link>
       <guid isPermaLink="false">Frippertron-1767853401--At the Drive-In---One Armed Scissor</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:23:21 -0500</pubDate>
     </item>
     <item>
       <title>The KLF - Doctorin' the Tardis (3 plays)</title>
       <link>https://www.last.fm/music/The+KLF/_/Doctorin%27+the+Tardis</link>
       <guid isPermaLink="false">Frippertron-1767853625--8092b8b7-235e-4844-9f72-95a9d5a73dbf---Doctorin' the Tardis</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fbc9ad02ad84b10f37c309f804ff7fa4.jpg" length="16385" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:27:05 -0500</pubDate>
     </item>
     <item>
       <title>The KLF - What Time Is Love? (live at Trancentral) (3 plays)</title>
       <link>https://www.last.fm/music/The+KLF/_/What+Time+Is+Love%3F+(live+at+Trancentral)</link>
       <guid isPermaLink="false">Frippertron-1767853842--8092b8b7-235e-4844-9f72-95a9d5a73dbf---What Time Is Love? (live at Trancentral)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fbc9ad02ad84b10f37c309f804ff7fa4.jpg" length="16385" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:30:42 -0500</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Aberinkula (223 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Aberinkula</link>
       <guid isPermaLink="false">Frippertron-1767854079--20883363-1ea4-4d72-ad72-c0e767038f3e---Aberinkula</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:34:39 -0500</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Metatron (267 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Metatron</link>
       <guid isPermaLink="false">Frippertron-1767854424--20883363-1ea4-4d72-ad72-c0e767038f3e---Metatron</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:40:24 -0500</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Ilyena (71 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Ilyena</link>
       <guid isPermaLink="false">Frippertron-1767854916--20883363-1ea4-4d72-ad72-c0e767038f3e---Ilyena</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:48:36 -0500</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Wax Simulacra (169 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Wax+Simulacra</link>
       <guid isPermaLink="false">Frippertron-1767855253--20883363-1ea4-4d72-ad72-c0e767038f3e---Wax Simulacra</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:54:13 -0500</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Goliath (205 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Goliath</link>
       <guid isPermaLink="false">Frippertron-1767855411--20883363-1ea4-4d72-ad72-c0e767038f3e---Goliath</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 01:56:51 -0500</pubDate>
     </item>
     <item>
       <title>The Mars Volta - Tourniquet Man (42 plays)</title>
       <link>https://www.last.fm/music/The+Mars+Volta/_/Tourniquet+Man</link>
       <guid isPermaLink="false">Frippertron-1767855846--20883363-1ea4-4d72-ad72-c0e767038f3e---Tourniquet Man</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/113aab20d7fdb8c991468bca9c8e6d79.jpg" length="26138" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 02:04:06 -0500</pubDate>
     </item>
     <item>
       <title>David Sylvian - Blemish (92 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/Blemish</link>
       <guid isPermaLink="false">Frippertron-1767856224--719db6b1-0d91-458c-8d18-875ec44105bf---Blemish</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9a9b3dbafbb4f328a75cee3dc15b6c6.png" length="143686" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 02:10:24 -0500</pubDate>
     </item>
     <item>
       <title>David Sylvian - The Good Son (85 plays)</title>
       <link>https://www.last.fm/music/David+Sylvian/_/The+Good+Son</link>
       <guid isPermaLink="false">Frippertron-1767857046--719db6b1-0d91-458c-8d18-875ec44105bf---The Good Son</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9a9b3dbafbb4f328a75cee3dc15b6c6.png" length="143686" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 02:24:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Right Hand Is the One I Want (94 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Right+Hand+Is+the+One+I+Want</link>
+      <guid isPermaLink="false">Frippertron-1767858306--3979eee5-c72a-4b0a-9191-a0243881250a---Right Hand Is the One I Want</guid>
+      <pubDate>Thu, 08 Jan 2026 02:45:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - The Sow Submits (47 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/The+Sow+Submits</link>
+      <guid isPermaLink="false">Frippertron-1767858721--3979eee5-c72a-4b0a-9191-a0243881250a---The Sow Submits</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 08 Jan 2026 02:52:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - The Awkward Wind Wheel (138 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/The+Awkward+Wind+Wheel</link>
+      <guid isPermaLink="false">Frippertron-1767858965--3979eee5-c72a-4b0a-9191-a0243881250a---The Awkward Wind Wheel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 08 Jan 2026 02:56:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - ___ On Limpid Form (40 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/___+On+Limpid+Form</link>
+      <guid isPermaLink="false">Frippertron-1767859179--3979eee5-c72a-4b0a-9191-a0243881250a---___ On Limpid Form</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 08 Jan 2026 02:59:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - A Pitcher of Summer (140 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/A+Pitcher+of+Summer</link>
+      <guid isPermaLink="false">Frippertron-1767859426--3979eee5-c72a-4b0a-9191-a0243881250a---A Pitcher of Summer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 08 Jan 2026 03:03:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Dismemberment Plan - Tonight We Mean It (49 plays)</title>
+      <link>https://www.last.fm/music/The+Dismemberment+Plan/_/Tonight+We+Mean+It</link>
+      <guid isPermaLink="false">Frippertron-1767859788--1131e5da-dfdf-46c9-b6ff-b7ac552c2a3c---Tonight We Mean It</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 08 Jan 2026 03:09:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Indigo (15 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Indigo</link>
+      <guid isPermaLink="false">Frippertron-1767859981--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Indigo</guid>
+      <pubDate>Thu, 08 Jan 2026 03:13:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Peter Gabriel - Darkness (82 plays)</title>
+      <link>https://www.last.fm/music/Peter+Gabriel/_/Darkness</link>
+      <guid isPermaLink="false">Frippertron-1767860193--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---Darkness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 08 Jan 2026 03:16:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Quicksand (140 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Quicksand</link>
+      <guid isPermaLink="false">Frippertron-1767860589--5441c29d-3602-4898-b1a1-b77fa23b8e50---Quicksand</guid>
+      <pubDate>Thu, 08 Jan 2026 03:23:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
