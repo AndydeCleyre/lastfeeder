@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 03:47:58 +0000</lastBuildDate>
-    <item>
-      <title>Men I Trust - Come Back Down (1 play)</title>
-      <link>https://www.last.fm/music/Men+I+Trust/_/Come+Back+Down</link>
-      <guid isPermaLink="false">walrus898-1767632724--25ab7547-a4d2-480b-b028-c7f3497bc858---Come Back Down</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd6970c6cc93e84898668af46c808285.jpg" length="16197" type="image/jpeg"/>
-      <pubDate>Mon, 05 Jan 2026 12:05:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Jan 2026 05:43:59 +0000</lastBuildDate>
     <item>
       <title>Terry vs. Tori - Hit and Miss (3 plays)</title>
       <link>https://www.last.fm/music/Terry+vs.+Tori/_/Hit+and+Miss</link>
@@ -47,12 +40,14 @@
       <title>Pizzagirl - Carseat (2 plays)</title>
       <link>https://www.last.fm/music/Pizzagirl/_/Carseat</link>
       <guid isPermaLink="false">walrus898-1767672405--5a72d0ed-b286-431b-bd7f-9ff7945a50e9---Carseat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2972ac34ba8f9d586623941c7b2a63f2.jpg" length="28264" type="image/jpeg"/>
       <pubDate>Mon, 05 Jan 2026 23:06:45 -0500</pubDate>
     </item>
     <item>
       <title>Brad stank - Endless Do (1 play)</title>
       <link>https://www.last.fm/music/Brad+stank/_/Endless+Do</link>
       <guid isPermaLink="false">walrus898-1767672433--c3acebe1-5b3d-4d77-bc30-c59ef2b04d98---Endless Do</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48d89e89ee194c832ae794770d1b61d1.png" length="175863" type="image/png"/>
       <pubDate>Mon, 05 Jan 2026 23:07:13 -0500</pubDate>
     </item>
     <item>
@@ -129,6 +124,7 @@
       <title>Love Spells - Lovers Only (1 play)</title>
       <link>https://www.last.fm/music/Love+Spells/_/Lovers+Only</link>
       <guid isPermaLink="false">walrus898-1767882947--51770605-c74f-4048-a660-cf61bd3dce3e---Lovers Only</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b2aa5cba2f16c0f83759e090cf8b554.png" length="116557" type="image/png"/>
       <pubDate>Thu, 08 Jan 2026 09:35:47 -0500</pubDate>
     </item>
     <item>
@@ -352,7 +348,14 @@
       <title>Castlebeat - Moonlight (30 plays)</title>
       <link>https://www.last.fm/music/Castlebeat/_/Moonlight</link>
       <guid isPermaLink="false">walrus898-1767928942--ccb9d51f-62a8-44c7-a433-8e961c86080b---Moonlight</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fde9dac0b67252100b6cee39db22e913.jpg" length="16765" type="image/jpeg"/>
       <pubDate>Thu, 08 Jan 2026 22:22:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Magic Al - Party For One (23 plays)</title>
+      <link>https://www.last.fm/music/Magic+Al/_/Party+For+One</link>
+      <guid isPermaLink="false">walrus898-1767929182--Magic Al---Party For One</guid>
+      <pubDate>Thu, 08 Jan 2026 22:26:22 -0500</pubDate>
     </item>
   </channel>
 </rss>

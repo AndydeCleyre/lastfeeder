@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 05:13:11 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Rock 'n' Roll Suicide (132 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Rock+%27n%27+Roll+Suicide</link>
-      <guid isPermaLink="false">Frippertron-1767871956--5441c29d-3602-4898-b1a1-b77fa23b8e50---Rock 'n' Roll Suicide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3017b2f31110e4f6de45a212fe93b4a3.png" length="185665" type="image/png"/>
-      <pubDate>Thu, 08 Jan 2026 06:32:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Jan 2026 05:44:52 +0000</lastBuildDate>
     <item>
       <title>Kayo Dot - Symmetrical Arizona (102 plays)</title>
       <link>https://www.last.fm/music/Kayo+Dot/_/Symmetrical+Arizona</link>
@@ -347,6 +340,13 @@
       <guid isPermaLink="false">Frippertron-1767935387--5441c29d-3602-4898-b1a1-b77fa23b8e50---White Light/White Heat</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ffad3e7132b92e18aa9aa6ac9a0909a.jpg" length="25194" type="image/jpeg"/>
       <pubDate>Fri, 09 Jan 2026 00:09:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>David Bowie - Moonage Daydream (253 plays)</title>
+      <link>https://www.last.fm/music/David+Bowie/_/Moonage+Daydream</link>
+      <guid isPermaLink="false">Frippertron-1767935638--5441c29d-3602-4898-b1a1-b77fa23b8e50---Moonage Daydream</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7ffad3e7132b92e18aa9aa6ac9a0909a.jpg" length="25194" type="image/jpeg"/>
+      <pubDate>Fri, 09 Jan 2026 00:13:58 -0500</pubDate>
     </item>
   </channel>
 </rss>
