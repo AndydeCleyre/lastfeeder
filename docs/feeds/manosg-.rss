@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 09:59:26 +0000</lastBuildDate>
-    <item>
-      <title>Yngwie Malmsteen - Eleventh Hour (1 play)</title>
-      <link>https://www.last.fm/music/Yngwie+Malmsteen/_/Eleventh+Hour</link>
-      <guid isPermaLink="false">manosg--1767614169--8fa5d80d-37e8-4133-9d5c-6bad446c63f0---Eleventh Hour</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d25d26bae026edfc69a252134d1d1aa.png" length="133596" type="image/png"/>
-      <pubDate>Mon, 05 Jan 2026 06:56:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Yngwie Malmsteen - Heavy Heart (1 play)</title>
-      <link>https://www.last.fm/music/Yngwie+Malmsteen/_/Heavy+Heart</link>
-      <guid isPermaLink="false">manosg--1767614699--8fa5d80d-37e8-4133-9d5c-6bad446c63f0---Heavy Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1d25d26bae026edfc69a252134d1d1aa.png" length="133596" type="image/png"/>
-      <pubDate>Mon, 05 Jan 2026 07:04:59 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Jan 2026 11:44:16 +0000</lastBuildDate>
     <item>
       <title>Yngwie Malmsteen - Rising Force (23 plays)</title>
       <link>https://www.last.fm/music/Yngwie+Malmsteen/_/Rising+Force</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">manosg--1767951833--7d209631-ccb8-4a87-8516-64abe4c22dba---Horses of the Plough</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007c508e3f22bee2b734eeb6dcf1c298.png" length="208644" type="image/png"/>
       <pubDate>Fri, 09 Jan 2026 04:43:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ulver - Pandora's Box (1 play)</title>
+      <link>https://www.last.fm/music/Ulver/_/Pandora%27s+Box</link>
+      <guid isPermaLink="false">manosg--1767952112--7d209631-ccb8-4a87-8516-64abe4c22dba---Pandora's Box</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007c508e3f22bee2b734eeb6dcf1c298.png" length="208644" type="image/png"/>
+      <pubDate>Fri, 09 Jan 2026 04:48:32 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ulver - Quivers in the Marrow (1 play)</title>
+      <link>https://www.last.fm/music/Ulver/_/Quivers+in+the+Marrow</link>
+      <guid isPermaLink="false">manosg--1767958780--7d209631-ccb8-4a87-8516-64abe4c22dba---Quivers in the Marrow</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/007c508e3f22bee2b734eeb6dcf1c298.png" length="208644" type="image/png"/>
+      <pubDate>Fri, 09 Jan 2026 06:39:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
