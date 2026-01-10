@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 06:36:50 +0000</lastBuildDate>
-    <item>
-      <title>EPMD - Rampage (6 plays)</title>
-      <link>https://www.last.fm/music/EPMD/_/Rampage</link>
-      <guid isPermaLink="false">Arcade1996-1767877765--4fa39dc8-c695-4e0e-ba04-92c63d99c9f9---Rampage</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bacd5429eb724daf8be2732a0e4882e6.jpg" length="27880" type="image/jpeg"/>
-      <pubDate>Thu, 08 Jan 2026 08:09:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lush - For Love (5 plays)</title>
-      <link>https://www.last.fm/music/Lush/_/For+Love</link>
-      <guid isPermaLink="false">Arcade1996-1767879694--Lush---For Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6a26b676d5f0ca525b510a184d7fcd95.png" length="196326" type="image/png"/>
-      <pubDate>Thu, 08 Jan 2026 08:41:34 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 14:43:28 +0000</lastBuildDate>
     <item>
       <title>KMD - Who Me? (with An Answer From Dr. Bert) (3 plays)</title>
       <link>https://www.last.fm/music/KMD/_/Who+Me%3F+(with+An+Answer+From+Dr.+Bert)</link>
@@ -226,7 +212,7 @@
       <pubDate>Fri, 09 Jan 2026 22:11:42 -0500</pubDate>
     </item>
     <item>
-      <title>Leatherface - I Want the Moon (5 plays)</title>
+      <title>Leatherface - I Want the Moon</title>
       <link>https://www.last.fm/music/Leatherface/_/I+Want+the+Moon</link>
       <guid isPermaLink="false">Arcade1996-1768014935--12cf583d-bb20-4337-83dd-61f2b3ffdf4a---I Want the Moon</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dad041f6861a4f4284161a6e6c33f2a6.jpg" length="25354" type="image/jpeg"/>
@@ -289,7 +275,7 @@
       <pubDate>Fri, 09 Jan 2026 22:48:18 -0500</pubDate>
     </item>
     <item>
-      <title>Run the Jewels - Oh My Darling Don't Cry (30 plays)</title>
+      <title>Run the Jewels - Oh My Darling Don't Cry</title>
       <link>https://www.last.fm/music/Run+the+Jewels/_/Oh+My+Darling+Don%27t+Cry</link>
       <guid isPermaLink="false">Arcade1996-1768017147--a80c5dc5-b12e-4667-9f5a-b568961f3839---Oh My Darling Don't Cry</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5591506667b045aac54e13f41def97b2.png" length="54266" type="image/png"/>
@@ -352,11 +338,25 @@
       <pubDate>Sat, 10 Jan 2026 01:25:52 -0500</pubDate>
     </item>
     <item>
-      <title>Psychedelic Porn Crumpets - Manny's Ready to Roll (9 plays)</title>
+      <title>Psychedelic Porn Crumpets - Manny's Ready to Roll</title>
       <link>https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Manny%27s+Ready+to+Roll</link>
       <guid isPermaLink="false">Arcade1996-1768026520--11d94660-1963-4020-8762-4c5907e2ea48---Manny's Ready to Roll</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9acfddd726d5889aff0fa38c335e2f78.jpg" length="19545" type="image/jpeg"/>
       <pubDate>Sat, 10 Jan 2026 01:28:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>Deftones - My Mind Is A Mountain (18 plays)</title>
+      <link>https://www.last.fm/music/Deftones/_/My+Mind+Is+A+Mountain</link>
+      <guid isPermaLink="false">Arcade1996-1768028572--7527f6c2-d762-4b88-b5e2-9244f1e34c46---My Mind Is A Mountain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c63c84a5baf41e94717f5dfc2741cb4c.jpg" length="24886" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jan 2026 02:02:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Dark &amp; Long - Remastered (6 plays)</title>
+      <link>https://www.last.fm/music/Underworld/_/Dark+&amp;+Long+-+Remastered</link>
+      <guid isPermaLink="false">Arcade1996-1768055558--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Dark &amp; Long - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8411877f7fd14d7dcdaadcc4e9a27b5d.jpg" length="32330" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jan 2026 09:32:38 -0500</pubDate>
     </item>
   </channel>
 </rss>
