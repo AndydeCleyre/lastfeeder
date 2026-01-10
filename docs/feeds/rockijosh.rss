@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 19:39:54 +0000</lastBuildDate>
-    <item>
-      <title>Ellie Goulding - By the End of the Night (45 plays)</title>
-      <link>https://www.last.fm/music/Ellie+Goulding/_/By+the+End+of+the+Night</link>
-      <guid isPermaLink="false">rockijosh-1767871958--33ca19f4-18c8-4411-98df-ac23890ce9f5---By the End of the Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4abbcb92bd07b19a15bebedf60d1e14b.jpg" length="19096" type="image/jpeg"/>
-      <pubDate>Thu, 08 Jan 2026 06:32:38 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 19:53:02 +0000</lastBuildDate>
     <item>
       <title>Citizen - If You're Lonely (14 plays)</title>
       <link>https://www.last.fm/music/Citizen/_/If+You%27re+Lonely</link>
@@ -341,6 +334,7 @@
       <title>Charli xcx - Chains of Love (5 plays)</title>
       <link>https://www.last.fm/music/Charli+xcx/_/Chains+of+Love</link>
       <guid isPermaLink="false">rockijosh-1768069014--260b6184-8828-48eb-945c-bc4cb6fc34ca---Chains of Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0b412658447c661a30067447f838d14.jpg" length="15082" type="image/jpeg"/>
       <pubDate>Sat, 10 Jan 2026 13:16:54 -0500</pubDate>
     </item>
     <item>
@@ -351,11 +345,18 @@
       <pubDate>Sat, 10 Jan 2026 13:32:14 -0500</pubDate>
     </item>
     <item>
-      <title>Hot Mulligan - And a Big Load (18 plays)</title>
+      <title>Hot Mulligan - And a Big Load (19 plays)</title>
       <link>https://www.last.fm/music/Hot+Mulligan/_/And+a+Big+Load</link>
       <guid isPermaLink="false">rockijosh-1768070089--12a9e259-f7cb-4fca-87b1-a6c5fd38c300---And a Big Load</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e7c680d826092427ef14948738ce51d3.png" length="160531" type="image/png"/>
       <pubDate>Sat, 10 Jan 2026 13:34:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hot Mulligan - And a Big Load (19 plays)</title>
+      <link>https://www.last.fm/music/Hot+Mulligan/_/And+a+Big+Load</link>
+      <guid isPermaLink="false">rockijosh-1768073826--12a9e259-f7cb-4fca-87b1-a6c5fd38c300---And a Big Load</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e7c680d826092427ef14948738ce51d3.png" length="160531" type="image/png"/>
+      <pubDate>Sat, 10 Jan 2026 14:37:06 -0500</pubDate>
     </item>
   </channel>
 </rss>
