@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 19:03:01 +0000</lastBuildDate>
-    <item>
-      <title>Jimmy Eat World - The World You Love (1 play)</title>
-      <link>https://www.last.fm/music/Jimmy+Eat+World/_/The+World+You+Love</link>
-      <guid isPermaLink="false">atari857-1767970873--bbc5b66b-d037-4f26-aecf-0b129e7f876a---The World You Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c095d73521e18dfdef3538e83dd37cda.png" length="86309" type="image/png"/>
-      <pubDate>Fri, 09 Jan 2026 10:01:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 19:34:04 +0000</lastBuildDate>
     <item>
       <title>Jimmy Eat World - Diamond (8 plays)</title>
       <link>https://www.last.fm/music/Jimmy+Eat+World/_/Diamond</link>
@@ -107,14 +100,14 @@
       <pubDate>Fri, 09 Jan 2026 14:07:12 -0500</pubDate>
     </item>
     <item>
-      <title>Sum 41 - Motivation (4 plays)</title>
+      <title>Sum 41 - Motivation</title>
       <link>https://www.last.fm/music/Sum+41/_/Motivation</link>
       <guid isPermaLink="false">atari857-1767985927--f2eef649-a6d5-4114-afba-e50ab26254d2---Motivation</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/843ff87d138a53861599228e3aa75504.png" length="155219" type="image/png"/>
       <pubDate>Fri, 09 Jan 2026 14:12:07 -0500</pubDate>
     </item>
     <item>
-      <title>Sum 41 - Makes No Difference (2 plays)</title>
+      <title>Sum 41 - Makes No Difference</title>
       <link>https://www.last.fm/music/Sum+41/_/Makes+No+Difference</link>
       <guid isPermaLink="false">atari857-1767986106--f2eef649-a6d5-4114-afba-e50ab26254d2---Makes No Difference</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8f73ce89d7d24aa6b6a1064cf04c2deb.png" length="218906" type="image/png"/>
@@ -352,11 +345,18 @@
       <pubDate>Mon, 12 Jan 2026 13:52:14 -0500</pubDate>
     </item>
     <item>
-      <title>Hayley Williams - Love Me Different (1 play)</title>
+      <title>Hayley Williams - Love Me Different (2 plays)</title>
       <link>https://www.last.fm/music/Hayley+Williams/_/Love+Me+Different</link>
       <guid isPermaLink="false">atari857-1768244138--b4b5b5a7-feff-47d0-9458-83d0d135a692---Love Me Different</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5069488bed47c7877f3c594020870dbd.jpg" length="16867" type="image/jpeg"/>
       <pubDate>Mon, 12 Jan 2026 13:55:38 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hayley Williams - Love Me Different (2 plays)</title>
+      <link>https://www.last.fm/music/Hayley+Williams/_/Love+Me+Different</link>
+      <guid isPermaLink="false">atari857-1768244371--b4b5b5a7-feff-47d0-9458-83d0d135a692---Love Me Different</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5069488bed47c7877f3c594020870dbd.jpg" length="16867" type="image/jpeg"/>
+      <pubDate>Mon, 12 Jan 2026 13:59:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
