@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 14:56:23 +0000</lastBuildDate>
-    <item>
-      <title>Angels &amp; Airwaves - The Adventure (3 plays)</title>
-      <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/The+Adventure</link>
-      <guid isPermaLink="false">atari857-1768147318--05071a7e-e71c-4306-a509-591cd3686893---The Adventure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd7c9e6dfc1f767bc785172e32b93f88.jpg" length="10639" type="image/jpeg"/>
-      <pubDate>Sun, 11 Jan 2026 11:01:58 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 15:32:35 +0000</lastBuildDate>
     <item>
       <title>Angels &amp; Airwaves - Anxiety (1 play)</title>
       <link>https://www.last.fm/music/Angels+&amp;+Airwaves/_/Anxiety</link>
@@ -310,7 +303,7 @@
       <pubDate>Mon, 12 Jan 2026 23:23:44 -0500</pubDate>
     </item>
     <item>
-      <title>Jimmy Eat World - Sweetness (1 play)</title>
+      <title>Jimmy Eat World - Sweetness</title>
       <link>https://www.last.fm/music/Jimmy+Eat+World/_/Sweetness</link>
       <guid isPermaLink="false">atari857-1768278559--bbc5b66b-d037-4f26-aecf-0b129e7f876a---Sweetness</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f6bed4795106f6a5ace9295accf4493.jpg" length="23106" type="image/jpeg"/>
@@ -324,7 +317,7 @@
       <pubDate>Mon, 12 Jan 2026 23:32:59 -0500</pubDate>
     </item>
     <item>
-      <title>Jimmy Eat World - Coffee and Cigarettes (2 plays)</title>
+      <title>Jimmy Eat World - Coffee and Cigarettes</title>
       <link>https://www.last.fm/music/Jimmy+Eat+World/_/Coffee+and+Cigarettes</link>
       <guid isPermaLink="false">atari857-1768279775--bbc5b66b-d037-4f26-aecf-0b129e7f876a---Coffee and Cigarettes</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00469fdbac2243a739fa5507cbefe425.png" length="125728" type="image/png"/>
@@ -352,11 +345,18 @@
       <pubDate>Tue, 13 Jan 2026 09:14:14 -0500</pubDate>
     </item>
     <item>
-      <title>Jimmy Eat World - Diamond (10 plays)</title>
+      <title>Jimmy Eat World - Diamond</title>
       <link>https://www.last.fm/music/Jimmy+Eat+World/_/Diamond</link>
       <guid isPermaLink="false">atari857-1768314198--bbc5b66b-d037-4f26-aecf-0b129e7f876a---Diamond</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/178a030db1ea716122fafb17eafec7be.png" length="114246" type="image/png"/>
       <pubDate>Tue, 13 Jan 2026 09:23:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jimmy Eat World - Delivery (9 plays)</title>
+      <link>https://www.last.fm/music/Jimmy+Eat+World/_/Delivery</link>
+      <guid isPermaLink="false">atari857-1768315339--bbc5b66b-d037-4f26-aecf-0b129e7f876a---Delivery</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/178a030db1ea716122fafb17eafec7be.png" length="114246" type="image/png"/>
+      <pubDate>Tue, 13 Jan 2026 09:42:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
