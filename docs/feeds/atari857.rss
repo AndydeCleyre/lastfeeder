@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 23:24:55 +0000</lastBuildDate>
-    <item>
-      <title>Snarls - I'll Follow You (11 plays)</title>
-      <link>https://www.last.fm/music/Snarls/_/I%27ll+Follow+You</link>
-      <guid isPermaLink="false">atari857-1768433723--dee28af0-55de-478a-91fd-c34c4e6df4c2---I'll Follow You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8157b3f069166c1a1f4e258bf495fc9.jpg" length="20057" type="image/jpeg"/>
-      <pubDate>Wed, 14 Jan 2026 18:35:23 -0500</pubDate>
-    </item>
-    <item>
-      <title>Story of the Year - Disconnected (1 play)</title>
-      <link>https://www.last.fm/music/Story+of+the+Year/_/Disconnected</link>
-      <guid isPermaLink="false">atari857-1768434710--Story of the Year---Disconnected</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c297ddfb8047a3c1efd2c88803f4968e.jpg" length="9104" type="image/jpeg"/>
-      <pubDate>Wed, 14 Jan 2026 18:51:50 -0500</pubDate>
-    </item>
-    <item>
-      <title>Snarls - Walk In The Woods (10 plays)</title>
-      <link>https://www.last.fm/music/Snarls/_/Walk+In+The+Woods</link>
-      <guid isPermaLink="false">atari857-1768437829--dee28af0-55de-478a-91fd-c34c4e6df4c2---Walk In The Woods</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ec1da1bee31f14962dad5d0a8432cf.jpg" length="40387" type="image/jpeg"/>
-      <pubDate>Wed, 14 Jan 2026 19:43:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 23:43:59 +0000</lastBuildDate>
     <item>
       <title>We the Kings - Stay Young (1 play)</title>
       <link>https://www.last.fm/music/We+the+Kings/_/Stay+Young</link>
@@ -166,6 +145,7 @@
       <title>Anberlin - Self-Starter (2 plays)</title>
       <link>https://www.last.fm/music/Anberlin/_/Self-Starter</link>
       <guid isPermaLink="false">atari857-1768501728--c648509e-9916-4c56-ab63-652a03da16dd---Self-Starter</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/65a13fa884414c62ab121d361169b120.png" length="192393" type="image/png"/>
       <pubDate>Thu, 15 Jan 2026 13:28:48 -0500</pubDate>
     </item>
     <item>
@@ -309,6 +289,13 @@
       <pubDate>Fri, 16 Jan 2026 13:18:33 -0500</pubDate>
     </item>
     <item>
+      <title>Snarls - Concrete (8 plays)</title>
+      <link>https://www.last.fm/music/Snarls/_/Concrete</link>
+      <guid isPermaLink="false">atari857-1768587798--dee28af0-55de-478a-91fd-c34c4e6df4c2---Concrete</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a1ec1da1bee31f14962dad5d0a8432cf.jpg" length="40387" type="image/jpeg"/>
+      <pubDate>Fri, 16 Jan 2026 13:23:18 -0500</pubDate>
+    </item>
+    <item>
       <title>Courtney Marie Andrews - Best Friend (2 plays)</title>
       <link>https://www.last.fm/music/Courtney+Marie+Andrews/_/Best+Friend</link>
       <guid isPermaLink="false">atari857-1768601392--42f0a4aa-644b-4bb6-aca0-07207562e8cb---Best Friend</guid>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">atari857-1768604216--42f0a4aa-644b-4bb6-aca0-07207562e8cb---Only the Best for Baby</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f7f7bd294283bdd8b901bf26a050390.png" length="154724" type="image/png"/>
       <pubDate>Fri, 16 Jan 2026 17:56:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Wonder Years - There, There (6 plays)</title>
+      <link>https://www.last.fm/music/The+Wonder+Years/_/There,+There</link>
+      <guid isPermaLink="false">atari857-1768606432--ae13e1fc-a2b1-4e3c-bfb9-737d3aeb7dab---There, There</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0d7e865f2f4470682c177d57266864d.jpg" length="25575" type="image/jpeg"/>
+      <pubDate>Fri, 16 Jan 2026 18:33:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Wonder Years - Came Out Swinging (3 plays)</title>
+      <link>https://www.last.fm/music/The+Wonder+Years/_/Came+Out+Swinging</link>
+      <guid isPermaLink="false">atari857-1768606596--ae13e1fc-a2b1-4e3c-bfb9-737d3aeb7dab---Came Out Swinging</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/23d98c781061499fb815ba6f80a1f11e.jpg" length="22840" type="image/jpeg"/>
+      <pubDate>Fri, 16 Jan 2026 18:36:36 -0500</pubDate>
     </item>
   </channel>
 </rss>
