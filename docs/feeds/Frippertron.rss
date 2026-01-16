@@ -7,16 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 22:51:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 19:02:13 +0000</lastBuildDate>
     <item>
-      <title>Team Dresch - #1 Chance Pirate TV (3 plays)</title>
-      <link>https://www.last.fm/music/Team+Dresch/_/%231+Chance+Pirate+TV</link>
-      <guid isPermaLink="false">Frippertron-1768410632--b506d0b1-fd16-4ba0-a3dc-a20095c93024---#1 Chance Pirate TV</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12c9ea2f1b5cc095d88622d44d7d36c6.jpg" length="29269" type="image/jpeg"/>
-      <pubDate>Wed, 14 Jan 2026 12:10:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kayo Dot - Amaranth the Peddler (17 plays)</title>
+      <title>Kayo Dot - Amaranth the Peddler</title>
       <link>https://www.last.fm/music/Kayo+Dot/_/Amaranth+the+Peddler</link>
       <guid isPermaLink="false">Frippertron-1768410651--3979eee5-c72a-4b0a-9191-a0243881250a---Amaranth the Peddler</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
@@ -324,6 +317,7 @@
       <title>Peter Gabriel - I Don't Remember (96 plays)</title>
       <link>https://www.last.fm/music/Peter+Gabriel/_/I+Don%27t+Remember</link>
       <guid isPermaLink="false">Frippertron-1768429993--8e66ea2b-b57b-47d9-8df0-df4630aeb8e5---I Don't Remember</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c2515f47b46d147c028f1f1decf4cb2.png" length="145670" type="image/png"/>
       <pubDate>Wed, 14 Jan 2026 17:33:13 -0500</pubDate>
     </item>
     <item>
@@ -338,6 +332,13 @@
       <guid isPermaLink="false">Frippertron-1768430430--1131e5da-dfdf-46c9-b6ff-b7ac552c2a3c---Tonight We Mean It</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12c12fae68c68609e4aeddf3f51f5153.jpg" length="34397" type="image/jpeg"/>
       <pubDate>Wed, 14 Jan 2026 17:40:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>The KLF - Doctorin' the Tardis (4 plays)</title>
+      <link>https://www.last.fm/music/The+KLF/_/Doctorin%27+the+Tardis</link>
+      <guid isPermaLink="false">Frippertron-1768589809--8092b8b7-235e-4844-9f72-95a9d5a73dbf---Doctorin' the Tardis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fbc9ad02ad84b10f37c309f804ff7fa4.jpg" length="16385" type="image/jpeg"/>
+      <pubDate>Fri, 16 Jan 2026 13:56:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
