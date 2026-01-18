@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 02:19:35 +0000</lastBuildDate>
-    <item>
-      <title>Richard Hawley - The Ocean (7 plays)</title>
-      <link>https://www.last.fm/music/Richard+Hawley/_/The+Ocean</link>
-      <guid isPermaLink="false">Arcade1996-1768568532--006f0783-c5a0-458b-a9da-f8551f7ebe77---The Ocean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a10ff01db2b1dcab45e0e282e510a16a.jpg" length="25338" type="image/jpeg"/>
-      <pubDate>Fri, 16 Jan 2026 08:02:12 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 03:55:31 +0000</lastBuildDate>
     <item>
       <title>Perry Blake - Ordinary Day (1 play)</title>
       <link>https://www.last.fm/music/Perry+Blake/_/Ordinary+Day</link>
@@ -177,7 +170,7 @@
       <pubDate>Sat, 17 Jan 2026 00:20:11 -0500</pubDate>
     </item>
     <item>
-      <title>A$AP Rocky - Whiskey (Release Me) (1 play)</title>
+      <title>A$AP Rocky - Whiskey (Release Me) (2 plays)</title>
       <link>https://www.last.fm/music/A$AP+Rocky/_/Whiskey+(Release+Me)</link>
       <guid isPermaLink="false">Arcade1996-1768627436--A$AP Rocky---Whiskey (Release Me)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53987e56c2fd579fa7e8822195a193a3.jpg" length="37322" type="image/jpeg"/>
@@ -352,11 +345,18 @@
       <pubDate>Sat, 17 Jan 2026 21:03:52 -0500</pubDate>
     </item>
     <item>
-      <title>A$AP Rocky - AIR FORCE (BLACK DEMARCO) (2 plays)</title>
+      <title>A$AP Rocky - AIR FORCE (BLACK DEMARCO)</title>
       <link>https://www.last.fm/music/A$AP+Rocky/_/AIR+FORCE+(BLACK+DEMARCO)</link>
       <guid isPermaLink="false">Arcade1996-1768702066--A$AP Rocky---AIR FORCE (BLACK DEMARCO)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53987e56c2fd579fa7e8822195a193a3.jpg" length="37322" type="image/jpeg"/>
       <pubDate>Sat, 17 Jan 2026 21:07:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>A$AP Rocky - Whiskey (Release Me) (2 plays)</title>
+      <link>https://www.last.fm/music/A$AP+Rocky/_/Whiskey+(Release+Me)</link>
+      <guid isPermaLink="false">Arcade1996-1768702290--A$AP Rocky---Whiskey (Release Me)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/53987e56c2fd579fa7e8822195a193a3.jpg" length="37322" type="image/jpeg"/>
+      <pubDate>Sat, 17 Jan 2026 21:11:30 -0500</pubDate>
     </item>
   </channel>
 </rss>
