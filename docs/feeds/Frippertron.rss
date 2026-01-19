@@ -7,26 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 04:57:50 +0000</lastBuildDate>
-    <item>
-      <title>David Bowie - Changes (180 plays)</title>
-      <link>https://www.last.fm/music/David+Bowie/_/Changes</link>
-      <guid isPermaLink="false">Frippertron-1768428022--5441c29d-3602-4898-b1a1-b77fa23b8e50---Changes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/16c9b96bf0f1edf31c210deca6d57430.png" length="232749" type="image/png"/>
-      <pubDate>Wed, 14 Jan 2026 17:00:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kayo Dot - A Pitcher of Summer (146 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/A+Pitcher+of+Summer</link>
-      <guid isPermaLink="false">Frippertron-1768428237--3979eee5-c72a-4b0a-9191-a0243881250a---A Pitcher of Summer</guid>
-      <pubDate>Wed, 14 Jan 2026 17:03:57 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kayo Dot - Amaranth the Peddler (17 plays)</title>
-      <link>https://www.last.fm/music/Kayo+Dot/_/Amaranth+the+Peddler</link>
-      <guid isPermaLink="false">Frippertron-1768428589--3979eee5-c72a-4b0a-9191-a0243881250a---Amaranth the Peddler</guid>
-      <pubDate>Wed, 14 Jan 2026 17:09:49 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 05:39:12 +0000</lastBuildDate>
     <item>
       <title>Alex Cameron - True Lies (29 plays)</title>
       <link>https://www.last.fm/music/Alex+Cameron/_/True+Lies</link>
@@ -332,6 +313,7 @@
       <title>Kayo Dot - Immortelle and Paper Caravelle (22 plays)</title>
       <link>https://www.last.fm/music/Kayo+Dot/_/Immortelle+and+Paper+Caravelle</link>
       <guid isPermaLink="false">Frippertron-1768796817--3979eee5-c72a-4b0a-9191-a0243881250a---Immortelle and Paper Caravelle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cedda600e7924304bb4c6d0a3c934a6c.png" length="6918" type="image/png"/>
       <pubDate>Sun, 18 Jan 2026 23:26:57 -0500</pubDate>
     </item>
     <item>
@@ -347,6 +329,27 @@
       <guid isPermaLink="false">Frippertron-1768798134--3979eee5-c72a-4b0a-9191-a0243881250a---Immortelle and Paper Caravelle</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
       <pubDate>Sun, 18 Jan 2026 23:48:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Aura on an Asylum Wall (78 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Aura+on+an+Asylum+Wall</link>
+      <guid isPermaLink="false">Frippertron-1768798717--3979eee5-c72a-4b0a-9191-a0243881250a---Aura on an Asylum Wall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
+      <pubDate>Sun, 18 Jan 2026 23:58:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - ___ On Limpid Form (44 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/___+On+Limpid+Form</link>
+      <guid isPermaLink="false">Frippertron-1768799182--3979eee5-c72a-4b0a-9191-a0243881250a---___ On Limpid Form</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
+      <pubDate>Mon, 19 Jan 2026 00:06:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kayo Dot - Amaranth the Peddler (18 plays)</title>
+      <link>https://www.last.fm/music/Kayo+Dot/_/Amaranth+the+Peddler</link>
+      <guid isPermaLink="false">Frippertron-1768800262--3979eee5-c72a-4b0a-9191-a0243881250a---Amaranth the Peddler</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c731259c3db683a547d2141615f36990.jpg" length="37513" type="image/jpeg"/>
+      <pubDate>Mon, 19 Jan 2026 00:24:22 -0500</pubDate>
     </item>
   </channel>
 </rss>
