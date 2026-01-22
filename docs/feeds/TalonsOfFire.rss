@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 21:34:16 +0000</lastBuildDate>
-    <item>
-      <title>Ramin Djawadi - The Long Night, Pt. 2 (1 play)</title>
-      <link>https://www.last.fm/music/Ramin+Djawadi/_/The+Long+Night,+Pt.+2</link>
-      <guid isPermaLink="false">TalonsOfFire-1768598335--f089f636-6b85-4e0e-a192-0d30ed2b44d1---The Long Night, Pt. 2</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9fa0e4e8020ff1ea151deca3501bf34d.jpg" length="29855" type="image/jpeg"/>
-      <pubDate>Fri, 16 Jan 2026 16:18:55 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 22:33:48 +0000</lastBuildDate>
     <item>
       <title>Ramin Djawadi - The Night King (2 plays)</title>
       <link>https://www.last.fm/music/Ramin+Djawadi/_/The+Night+King</link>
@@ -327,12 +320,14 @@
       <title>Tenhi - Varis Eloinen (4 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Varis+Eloinen</link>
       <guid isPermaLink="false">TalonsOfFire-1769113898--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Varis Eloinen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aaac9c662c9bc35fd1a3e0a9b3dcdb7d.jpg" length="15809" type="image/jpeg"/>
       <pubDate>Thu, 22 Jan 2026 15:31:38 -0500</pubDate>
     </item>
     <item>
       <title>Tenhi - Kuolleesi Jokeen (4 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Kuolleesi+Jokeen</link>
       <guid isPermaLink="false">TalonsOfFire-1769114356--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Kuolleesi Jokeen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/aaac9c662c9bc35fd1a3e0a9b3dcdb7d.jpg" length="15809" type="image/jpeg"/>
       <pubDate>Thu, 22 Jan 2026 15:39:16 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1769115497--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Salain</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90c918c31b64a020b7dab16c46e86e2a.jpg" length="10158" type="image/jpeg"/>
       <pubDate>Thu, 22 Jan 2026 15:58:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Viimeiseen (4 plays)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Viimeiseen</link>
+      <guid isPermaLink="false">TalonsOfFire-1769115820--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Viimeiseen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/90c918c31b64a020b7dab16c46e86e2a.jpg" length="10158" type="image/jpeg"/>
+      <pubDate>Thu, 22 Jan 2026 16:03:40 -0500</pubDate>
     </item>
   </channel>
 </rss>
