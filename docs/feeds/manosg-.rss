@@ -7,95 +7,39 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 19:33:31 +0000</lastBuildDate>
-    <item>
-      <title>Kreator - Conquer and Destroy (2 plays)</title>
-      <link>https://www.last.fm/music/Kreator/_/Conquer+and+Destroy</link>
-      <guid isPermaLink="false">manosg--1769096305--39822e8d-f24e-4f07-b51b-28b22e59fbdb---Conquer and Destroy</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/20fb27c7a358849f6f382448c9c3a01a.png" length="215872" type="image/png"/>
-      <pubDate>Thu, 22 Jan 2026 10:38:25 -0500</pubDate>
-    </item>
-    <item>
-      <title>Hellripper - Hunderprest (1 play)</title>
-      <link>https://www.last.fm/music/Hellripper/_/Hunderprest</link>
-      <guid isPermaLink="false">manosg--1769104809--1db52a3c-7739-4c90-935c-3458e733955e---Hunderprest</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7da06608e11b0c90d762fdd3f9e7bc40.jpg" length="29555" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jan 2026 13:00:09 -0500</pubDate>
-    </item>
-    <item>
-      <title>Megadeth - Tipping Point (1 play)</title>
-      <link>https://www.last.fm/music/Megadeth/_/Tipping+Point</link>
-      <guid isPermaLink="false">manosg--1769165117--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---Tipping Point</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jan 2026 05:45:17 -0500</pubDate>
-    </item>
-    <item>
-      <title>Megadeth - I Don't Care (1 play)</title>
-      <link>https://www.last.fm/music/Megadeth/_/I+Don%27t+Care</link>
-      <guid isPermaLink="false">manosg--1769165429--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---I Don't Care</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jan 2026 05:50:29 -0500</pubDate>
-    </item>
-    <item>
-      <title>Megadeth - Hey God?! (1 play)</title>
-      <link>https://www.last.fm/music/Megadeth/_/Hey+God%3F!</link>
-      <guid isPermaLink="false">manosg--1769189832--Megadeth---Hey God?!</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jan 2026 12:37:12 -0500</pubDate>
-    </item>
-    <item>
-      <title>Megadeth - Let There Be Shred (1 play)</title>
-      <link>https://www.last.fm/music/Megadeth/_/Let+There+Be+Shred</link>
-      <guid isPermaLink="false">manosg--1769190142--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---Let There Be Shred</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jan 2026 12:42:22 -0500</pubDate>
-    </item>
-    <item>
-      <title>Megadeth - Puppet Parade (1 play)</title>
-      <link>https://www.last.fm/music/Megadeth/_/Puppet+Parade</link>
-      <guid isPermaLink="false">manosg--1769190430--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---Puppet Parade</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jan 2026 12:47:10 -0500</pubDate>
-    </item>
-    <item>
-      <title>Megadeth - Another Bad Day (1 play)</title>
-      <link>https://www.last.fm/music/Megadeth/_/Another+Bad+Day</link>
-      <guid isPermaLink="false">manosg--1769255841--Megadeth---Another Bad Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jan 2026 06:57:21 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 09:50:17 +0000</lastBuildDate>
     <item>
       <title>Megadeth - Made to Kill (1 play)</title>
       <link>https://www.last.fm/music/Megadeth/_/Made+to+Kill</link>
-      <guid isPermaLink="false">manosg--1769256059--Megadeth---Made to Kill</guid>
+      <guid isPermaLink="false">manosg--1769256059--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---Made to Kill</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
       <pubDate>Sat, 24 Jan 2026 07:00:59 -0500</pubDate>
     </item>
     <item>
       <title>Megadeth - Obey The Call (1 play)</title>
       <link>https://www.last.fm/music/Megadeth/_/Obey+The+Call</link>
-      <guid isPermaLink="false">manosg--1769271904--Megadeth---Obey The Call</guid>
+      <guid isPermaLink="false">manosg--1769271904--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---Obey The Call</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
       <pubDate>Sat, 24 Jan 2026 11:25:04 -0500</pubDate>
     </item>
     <item>
       <title>Megadeth - I Am War (1 play)</title>
       <link>https://www.last.fm/music/Megadeth/_/I+Am+War</link>
-      <guid isPermaLink="false">manosg--1769272419--Megadeth---I Am War</guid>
+      <guid isPermaLink="false">manosg--1769272419--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---I Am War</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
       <pubDate>Sat, 24 Jan 2026 11:33:39 -0500</pubDate>
     </item>
     <item>
       <title>Megadeth - The Last Note (1 play)</title>
       <link>https://www.last.fm/music/Megadeth/_/The+Last+Note</link>
-      <guid isPermaLink="false">manosg--1769272650--Megadeth---The Last Note</guid>
+      <guid isPermaLink="false">manosg--1769272650--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---The Last Note</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
       <pubDate>Sat, 24 Jan 2026 11:37:30 -0500</pubDate>
     </item>
     <item>
       <title>Megadeth - Ride the Lightning (Bonus Track) (1 play)</title>
       <link>https://www.last.fm/music/Megadeth/_/Ride+the+Lightning+(Bonus+Track)</link>
-      <guid isPermaLink="false">manosg--1769275313--Megadeth---Ride the Lightning (Bonus Track)</guid>
+      <guid isPermaLink="false">manosg--1769275313--a9044915-8be3-4c7e-b11f-9e2d2ea0a91e---Ride the Lightning (Bonus Track)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1cd3849baf9c24fda83e901f819fc73a.jpg" length="21478" type="image/jpeg"/>
       <pubDate>Sat, 24 Jan 2026 12:21:53 -0500</pubDate>
     </item>
@@ -357,6 +301,62 @@
       <guid isPermaLink="false">manosg--1769624658--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Sir Patrick Spens - Sandy Denny Vocal Version</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8c39e87bb6875ccba53a20396648c8b.jpg" length="25947" type="image/jpeg"/>
       <pubDate>Wed, 28 Jan 2026 13:24:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Genesis Hall (5 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Genesis+Hall</link>
+      <guid isPermaLink="false">manosg--1769625063--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Genesis Hall</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c0b4bcea19c45b546dbb8c2da2b64b3.jpg" length="40730" type="image/jpeg"/>
+      <pubDate>Wed, 28 Jan 2026 13:31:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Si Tu Dois Partir (5 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Si+Tu+Dois+Partir</link>
+      <guid isPermaLink="false">manosg--1769677575--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Si Tu Dois Partir</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c0b4bcea19c45b546dbb8c2da2b64b3.jpg" length="40730" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jan 2026 04:06:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Autopsy (5 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Autopsy</link>
+      <guid isPermaLink="false">manosg--1769677787--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Autopsy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c0b4bcea19c45b546dbb8c2da2b64b3.jpg" length="40730" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jan 2026 04:09:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - A Sailor's Life (7 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/A+Sailor%27s+Life</link>
+      <guid isPermaLink="false">manosg--1769678110--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---A Sailor's Life</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c0b4bcea19c45b546dbb8c2da2b64b3.jpg" length="40730" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jan 2026 04:15:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Cajun Woman (5 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Cajun+Woman</link>
+      <guid isPermaLink="false">manosg--1769679130--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Cajun Woman</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c0b4bcea19c45b546dbb8c2da2b64b3.jpg" length="40730" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jan 2026 04:32:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Who Knows Where The Time Goes? (8 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Who+Knows+Where+The+Time+Goes%3F</link>
+      <guid isPermaLink="false">manosg--1769679293--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Who Knows Where The Time Goes?</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c0b4bcea19c45b546dbb8c2da2b64b3.jpg" length="40730" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jan 2026 04:34:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Percy's Song (5 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Percy%27s+Song</link>
+      <guid isPermaLink="false">manosg--1769679599--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Percy's Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c0b4bcea19c45b546dbb8c2da2b64b3.jpg" length="40730" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jan 2026 04:39:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fairport Convention - Million Dollar Bash (6 plays)</title>
+      <link>https://www.last.fm/music/Fairport+Convention/_/Million+Dollar+Bash</link>
+      <guid isPermaLink="false">manosg--1769680006--cc60d937-e80b-4c66-8aa2-e89cb57c8b08---Million Dollar Bash</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c0b4bcea19c45b546dbb8c2da2b64b3.jpg" length="40730" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jan 2026 04:46:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
