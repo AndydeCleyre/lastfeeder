@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 21:50:10 +0000</lastBuildDate>
-    <item>
-      <title>Tenhi - Saapuminen (3 plays)</title>
-      <link>https://www.last.fm/music/Tenhi/_/Saapuminen</link>
-      <guid isPermaLink="false">TalonsOfFire-1769270607--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Saapuminen</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3ca5103036b845fc94554588a53a8261.jpg" length="17470" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jan 2026 11:03:27 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 Jan 2026 22:28:08 +0000</lastBuildDate>
     <item>
       <title>Tenhi - Seitsensarvi (3 plays)</title>
       <link>https://www.last.fm/music/Tenhi/_/Seitsensarvi</link>
@@ -317,7 +310,7 @@
       <pubDate>Wed, 28 Jan 2026 16:15:36 -0500</pubDate>
     </item>
     <item>
-      <title>Tenhi - Saattue (4 plays)</title>
+      <title>Tenhi - Saattue</title>
       <link>https://www.last.fm/music/Tenhi/_/Saattue</link>
       <guid isPermaLink="false">TalonsOfFire-1769891917--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Saattue</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1769896005--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Laineinen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
       <pubDate>Sat, 31 Jan 2026 16:46:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tenhi - Hele (4 plays)</title>
+      <link>https://www.last.fm/music/Tenhi/_/Hele</link>
+      <guid isPermaLink="false">TalonsOfFire-1769896190--ae79e6ff-72ce-4877-a0dc-dc2a5c1ad407---Hele</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446317a5460c669043eb235cb31a0b73.jpg" length="15195" type="image/jpeg"/>
+      <pubDate>Sat, 31 Jan 2026 16:49:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
