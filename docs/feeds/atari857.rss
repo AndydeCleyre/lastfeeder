@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 19:53:08 +0000</lastBuildDate>
-    <item>
-      <title>Joyce Manor - All My Friends Are so Depressed (5 plays)</title>
-      <link>https://www.last.fm/music/Joyce+Manor/_/All+My+Friends+Are+so+Depressed</link>
-      <guid isPermaLink="false">atari857-1770236274--945d3b69-27cd-45fa-b491-52553a63dead---All My Friends Are so Depressed</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e0b84ba5ead04402bb9d39fc014ad82f.jpg" length="18156" type="image/jpeg"/>
-      <pubDate>Wed, 04 Feb 2026 15:17:54 -0500</pubDate>
-    </item>
-    <item>
-      <title>Joyce Manor - Well, Whatever It Was (2 plays)</title>
-      <link>https://www.last.fm/music/Joyce+Manor/_/Well,+Whatever+It+Was</link>
-      <guid isPermaLink="false">atari857-1770236400--945d3b69-27cd-45fa-b491-52553a63dead---Well, Whatever It Was</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e0b84ba5ead04402bb9d39fc014ad82f.jpg" length="18156" type="image/jpeg"/>
-      <pubDate>Wed, 04 Feb 2026 15:20:00 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Feb 2026 21:16:33 +0000</lastBuildDate>
     <item>
       <title>Tigers Jaw - Primary Colors (3 plays)</title>
       <link>https://www.last.fm/music/Tigers+Jaw/_/Primary+Colors</link>
@@ -72,7 +58,7 @@
       <pubDate>Wed, 04 Feb 2026 17:15:39 -0500</pubDate>
     </item>
     <item>
-      <title>NOFX - F**K The Kids (2 plays)</title>
+      <title>NOFX - F**K The Kids</title>
       <link>https://www.last.fm/music/NOFX/_/F**K+The+Kids</link>
       <guid isPermaLink="false">atari857-1770243368--dcaa4f81-bfb7-44eb-8594-4e74f004b6e4---F**K The Kids</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21ddf830b6a0a8293b517f1a4f309d52.jpg" length="29505" type="image/jpeg"/>
@@ -233,15 +219,17 @@
       <pubDate>Thu, 05 Feb 2026 10:34:23 -0500</pubDate>
     </item>
     <item>
-      <title>Emily Scott Robinson - Run (7 plays)</title>
+      <title>Emily Scott Robinson - Run (8 plays)</title>
       <link>https://www.last.fm/music/Emily+Scott+Robinson/_/Run</link>
       <guid isPermaLink="false">atari857-1770307612--acb1e937-a40f-4335-b78b-7538f806561f---Run</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8ee3c3f7e95b4ca0f5102a12a6b485b.jpg" length="20251" type="image/jpeg"/>
       <pubDate>Thu, 05 Feb 2026 11:06:52 -0500</pubDate>
     </item>
     <item>
       <title>Emily Scott Robinson - Better with Time (9 plays)</title>
       <link>https://www.last.fm/music/Emily+Scott+Robinson/_/Better+with+Time</link>
       <guid isPermaLink="false">atari857-1770307861--acb1e937-a40f-4335-b78b-7538f806561f---Better with Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8ee3c3f7e95b4ca0f5102a12a6b485b.jpg" length="20251" type="image/jpeg"/>
       <pubDate>Thu, 05 Feb 2026 11:11:01 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">atari857-1770320369--cf1021a4-ba16-4563-b4c2-e40aaf1802f6---I Was Born Swimming</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e659ff6a9fbc0e19a6b1bc907651d1ca.jpg" length="25360" type="image/jpeg"/>
       <pubDate>Thu, 05 Feb 2026 14:39:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Emily Scott Robinson - Run (8 plays)</title>
+      <link>https://www.last.fm/music/Emily+Scott+Robinson/_/Run</link>
+      <guid isPermaLink="false">atari857-1770325245--acb1e937-a40f-4335-b78b-7538f806561f---Run</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8ee3c3f7e95b4ca0f5102a12a6b485b.jpg" length="20251" type="image/jpeg"/>
+      <pubDate>Thu, 05 Feb 2026 16:00:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lights - Alive Again (1 play)</title>
+      <link>https://www.last.fm/music/Lights/_/Alive+Again</link>
+      <guid isPermaLink="false">atari857-1770325694--Lights---Alive Again</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c019286f3282154a84d5f149e2b938c.jpg" length="23742" type="image/jpeg"/>
+      <pubDate>Thu, 05 Feb 2026 16:08:14 -0500</pubDate>
     </item>
   </channel>
 </rss>
