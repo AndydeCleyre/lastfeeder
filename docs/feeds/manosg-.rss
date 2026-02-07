@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Feb 2026 07:45:43 +0000</lastBuildDate>
-    <item>
-      <title>Hällas - Carry On (1 play)</title>
-      <link>https://www.last.fm/music/H%C3%A4llas/_/Carry+On</link>
-      <guid isPermaLink="false">manosg--1770025104--dd1e923f-78b3-4e01-abac-090386893b8b---Carry On</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af38d10351ab7adae7e93877b2f20d75.jpg" length="22671" type="image/jpeg"/>
-      <pubDate>Mon, 02 Feb 2026 04:38:24 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Feb 2026 11:31:46 +0000</lastBuildDate>
     <item>
       <title>Bolt Thrower - At First Light (3 plays)</title>
       <link>https://www.last.fm/music/Bolt+Thrower/_/At+First+Light</link>
@@ -303,7 +296,7 @@
       <pubDate>Thu, 05 Feb 2026 03:54:37 -0500</pubDate>
     </item>
     <item>
-      <title>Heathen - Goblins Blade</title>
+      <title>Heathen - Goblins Blade (1 play)</title>
       <link>https://www.last.fm/music/Heathen/_/Goblins+Blade</link>
       <guid isPermaLink="false">manosg--1770281897--Heathen---Goblins Blade</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e2c7191f16aa0050c299e02fb19da1fe.png" length="210449" type="image/png"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1770449489--22a1f4d7-81ff-4216-ac06-3387da6bc118---Halo</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b3cbf95869a47c7844f02f9c49914d9.png" length="119818" type="image/png"/>
       <pubDate>Sat, 07 Feb 2026 02:31:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Machine Head - Wolves (1 play)</title>
+      <link>https://www.last.fm/music/Machine+Head/_/Wolves</link>
+      <guid isPermaLink="false">manosg--1770449839--22a1f4d7-81ff-4216-ac06-3387da6bc118---Wolves</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b3cbf95869a47c7844f02f9c49914d9.png" length="119818" type="image/png"/>
+      <pubDate>Sat, 07 Feb 2026 02:37:19 -0500</pubDate>
     </item>
   </channel>
 </rss>
