@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 19:02:39 +0000</lastBuildDate>
-    <item>
-      <title>Michael Jackson - The Girl Is Mine (with Paul McCartney) (1 play)</title>
-      <link>https://www.last.fm/music/Michael+Jackson/_/The+Girl+Is+Mine+(with+Paul+McCartney)</link>
-      <guid isPermaLink="false">manosg--1770747104--f27ec8db-af05-4f36-916e-3d57f91ecf5e---The Girl Is Mine (with Paul McCartney)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6a876bd5f927ac2ca5b72a4826f62c7.jpg" length="18640" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 13:11:44 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 19:55:19 +0000</lastBuildDate>
     <item>
       <title>Michael Jackson - Thriller (1 play)</title>
       <link>https://www.last.fm/music/Michael+Jackson/_/Thriller</link>
@@ -320,6 +313,7 @@
       <title>Graveyard - Exit 97 (3 plays)</title>
       <link>https://www.last.fm/music/Graveyard/_/Exit+97</link>
       <guid isPermaLink="false">manosg--1770916986--Graveyard---Exit 97</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba3aee03b2b16d8c501ccb10f1514260.jpg" length="36987" type="image/jpeg"/>
       <pubDate>Thu, 12 Feb 2026 12:23:06 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">manosg--1771005564--Graveyard---Uncomfortably Numb</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2e640728149428bba0ae6eda5c41c21.png" length="210185" type="image/png"/>
       <pubDate>Fri, 13 Feb 2026 12:59:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>Blues Pills - Astralplane (8 plays)</title>
+      <link>https://www.last.fm/music/Blues+Pills/_/Astralplane</link>
+      <guid isPermaLink="false">manosg--1771009189--5f982ce1-ede9-4949-b0b4-e65dcfae787e---Astralplane</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d389bd97c978cb619a771f4e9db9a33c.png" length="234858" type="image/png"/>
+      <pubDate>Fri, 13 Feb 2026 13:59:49 -0500</pubDate>
     </item>
   </channel>
 </rss>
