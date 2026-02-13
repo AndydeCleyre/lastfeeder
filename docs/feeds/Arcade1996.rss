@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 03:24:10 +0000</lastBuildDate>
-    <item>
-      <title>Celestaphone - Deep Underground (2 plays)</title>
-      <link>https://www.last.fm/music/Celestaphone/_/Deep+Underground</link>
-      <guid isPermaLink="false">Arcade1996-1770800407--Celestaphone---Deep Underground</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/14d846c5580219384db3f5e5e62b0775.jpg" length="22394" type="image/jpeg"/>
-      <pubDate>Wed, 11 Feb 2026 04:00:07 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 13:11:02 +0000</lastBuildDate>
     <item>
       <title>Celestaphone - Taos Hum (2 plays)</title>
       <link>https://www.last.fm/music/Celestaphone/_/Taos+Hum</link>
@@ -75,6 +68,7 @@
       <title>Dealers of God - Drivin' Down (5 plays)</title>
       <link>https://www.last.fm/music/Dealers+of+God/_/Drivin%27+Down</link>
       <guid isPermaLink="false">Arcade1996-1770855771--Dealers of God---Drivin' Down</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c15034c2a57566fee377ec142d5c2d6a.jpg" length="27131" type="image/jpeg"/>
       <pubDate>Wed, 11 Feb 2026 19:22:51 -0500</pubDate>
     </item>
     <item>
@@ -123,14 +117,13 @@
       <title>Pete Rock &amp; C.L. Smooth - They Reminisce Over You (T.R.O.Y.) (9 plays)</title>
       <link>https://www.last.fm/music/Pete+Rock+&amp;+C.L.+Smooth/_/They+Reminisce+Over+You+(T.R.O.Y.)</link>
       <guid isPermaLink="false">Arcade1996-1770892601--cff77480-7ba4-4206-b1a8-e1b98b38f07c---They Reminisce Over You (T.R.O.Y.)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00b5c396ff3ffb53b4e0753bb0ac841e.jpg" length="26328" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00b5c396ff3ffb53b4e0753bb0ac841e.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Thu, 12 Feb 2026 05:36:41 -0500</pubDate>
     </item>
     <item>
       <title>Pete Rock &amp; C.L. Smooth - They Reminisce Over You (T.R.O.Y.) (9 plays)</title>
       <link>https://www.last.fm/music/Pete+Rock+&amp;+C.L.+Smooth/_/They+Reminisce+Over+You+(T.R.O.Y.)</link>
       <guid isPermaLink="false">Arcade1996-1770892888--cff77480-7ba4-4206-b1a8-e1b98b38f07c---They Reminisce Over You (T.R.O.Y.)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00b5c396ff3ffb53b4e0753bb0ac841e.jpg" length="26328" type="image/jpeg"/>
       <pubDate>Thu, 12 Feb 2026 05:41:28 -0500</pubDate>
     </item>
     <item>
@@ -164,7 +157,6 @@
       <title>Dr. Dre - Nuthin' But a "G" Thang (2 plays)</title>
       <link>https://www.last.fm/music/Dr.+Dre/_/Nuthin%27+But+a+%22G%22+Thang</link>
       <guid isPermaLink="false">Arcade1996-1770893842--5f6ab597-f57a-40da-be9e-adad48708203---Nuthin' But a "G" Thang</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75176c3686ee259d2ce632889bcde3f4.jpg" length="17743" type="image/jpeg"/>
       <pubDate>Thu, 12 Feb 2026 05:57:22 -0500</pubDate>
     </item>
     <item>
@@ -350,11 +342,18 @@
       <pubDate>Thu, 12 Feb 2026 20:23:19 -0500</pubDate>
     </item>
     <item>
-      <title>James Blake - Death of Love (12 plays)</title>
+      <title>James Blake - Death of Love (13 plays)</title>
       <link>https://www.last.fm/music/James+Blake/_/Death+of+Love</link>
       <guid isPermaLink="false">Arcade1996-1770946097--8dc08b1f-e393-4f85-a5dd-300f7693a8b8---Death of Love</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11b96664dbac47835f06ee83d4b1b1a4.jpg" length="13076" type="image/jpeg"/>
       <pubDate>Thu, 12 Feb 2026 20:28:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>James Blake - Death of Love (13 plays)</title>
+      <link>https://www.last.fm/music/James+Blake/_/Death+of+Love</link>
+      <guid isPermaLink="false">Arcade1996-1770987119--8dc08b1f-e393-4f85-a5dd-300f7693a8b8---Death of Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/11b96664dbac47835f06ee83d4b1b1a4.jpg" length="13076" type="image/jpeg"/>
+      <pubDate>Fri, 13 Feb 2026 07:51:59 -0500</pubDate>
     </item>
   </channel>
 </rss>
