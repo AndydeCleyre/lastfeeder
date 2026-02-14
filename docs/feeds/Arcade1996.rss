@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 16:02:17 +0000</lastBuildDate>
-    <item>
-      <title>Joanne Robertson - Why Me (1 play)</title>
-      <link>https://www.last.fm/music/Joanne+Robertson/_/Why+Me</link>
-      <guid isPermaLink="false">Arcade1996-1770817497--daf06c03-68bc-4619-80e1-519b5fc67424---Why Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68bf8f20896bafda80dd90dd00404a75.png" length="150926" type="image/png"/>
-      <pubDate>Wed, 11 Feb 2026 08:44:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 00:00:39 +0000</lastBuildDate>
     <item>
       <title>Joanne Robertson - Friendly (1 play)</title>
       <link>https://www.last.fm/music/Joanne+Robertson/_/Friendly</link>
@@ -33,6 +26,7 @@
       <title>Dealers of God - Drivin' Down (5 plays)</title>
       <link>https://www.last.fm/music/Dealers+of+God/_/Drivin%27+Down</link>
       <guid isPermaLink="false">Arcade1996-1770855771--Dealers of God---Drivin' Down</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c15034c2a57566fee377ec142d5c2d6a.jpg" length="27131" type="image/jpeg"/>
       <pubDate>Wed, 11 Feb 2026 19:22:51 -0500</pubDate>
     </item>
     <item>
@@ -88,6 +82,7 @@
       <title>Pete Rock &amp; C.L. Smooth - They Reminisce Over You (T.R.O.Y.) (9 plays)</title>
       <link>https://www.last.fm/music/Pete+Rock+&amp;+C.L.+Smooth/_/They+Reminisce+Over+You+(T.R.O.Y.)</link>
       <guid isPermaLink="false">Arcade1996-1770892888--cff77480-7ba4-4206-b1a8-e1b98b38f07c---They Reminisce Over You (T.R.O.Y.)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/00b5c396ff3ffb53b4e0753bb0ac841e.jpg" length="26328" type="image/jpeg"/>
       <pubDate>Thu, 12 Feb 2026 05:41:28 -0500</pubDate>
     </item>
     <item>
@@ -133,7 +128,7 @@
       <pubDate>Thu, 12 Feb 2026 06:01:20 -0500</pubDate>
     </item>
     <item>
-      <title>Pavement - Trigger Cut/Wounded-Kite at :17 (16 plays)</title>
+      <title>Pavement - Trigger Cut/Wounded-Kite at :17</title>
       <link>https://www.last.fm/music/Pavement/_/Trigger+Cut%2FWounded-Kite+at+:17</link>
       <guid isPermaLink="false">Arcade1996-1770894689--Pavement---Trigger Cut/Wounded-Kite at :17</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9bb8843babc5ce958e5d9dfb92cdb6c7.jpg" length="46176" type="image/jpeg"/>
@@ -196,7 +191,7 @@
       <pubDate>Thu, 12 Feb 2026 07:25:43 -0500</pubDate>
     </item>
     <item>
-      <title>Belle and Sebastian - Nobody's Empire (1 play)</title>
+      <title>Belle and Sebastian - Nobody's Empire</title>
       <link>https://www.last.fm/music/Belle+and+Sebastian/_/Nobody%27s+Empire</link>
       <guid isPermaLink="false">Arcade1996-1770899301--e5c7b94f-e264-473c-bb0f-37c85d4d5c70---Nobody's Empire</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8ef2f9f74bf54a0fca56534da8bd4d17.png" length="99499" type="image/png"/>
@@ -224,7 +219,7 @@
       <pubDate>Thu, 12 Feb 2026 07:40:20 -0500</pubDate>
     </item>
     <item>
-      <title>Belle and Sebastian - Women's Realm (1 play)</title>
+      <title>Belle and Sebastian - Women's Realm</title>
       <link>https://www.last.fm/music/Belle+and+Sebastian/_/Women%27s+Realm</link>
       <guid isPermaLink="false">Arcade1996-1770900214--e5c7b94f-e264-473c-bb0f-37c85d4d5c70---Women's Realm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7144c3a57ba04209c2cc165afe65bab9.png" length="147603" type="image/png"/>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1770996366--000fc734-b7e1-4a01-92d1-f544261b43f5---Lazy Calm</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e457402517391a1ef89497646c66853a.jpg" length="18753" type="image/jpeg"/>
       <pubDate>Fri, 13 Feb 2026 10:26:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cocteau Twins - Fluffy Tufts (30 plays)</title>
+      <link>https://www.last.fm/music/Cocteau+Twins/_/Fluffy+Tufts</link>
+      <guid isPermaLink="false">Arcade1996-1771027032--000fc734-b7e1-4a01-92d1-f544261b43f5---Fluffy Tufts</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e457402517391a1ef89497646c66853a.jpg" length="18753" type="image/jpeg"/>
+      <pubDate>Fri, 13 Feb 2026 18:57:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
