@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 17:43:31 +0000</lastBuildDate>
-    <item>
-      <title>Sade - Is It a Crime (35 plays)</title>
-      <link>https://www.last.fm/music/Sade/_/Is+It+a+Crime</link>
-      <guid isPermaLink="false">manosg--1770802935--67930b3e-e00b-469f-8c74-fd69f20522ec---Is It a Crime</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/29ce2666eebe380a0f882755aab75798.jpg" length="14640" type="image/jpeg"/>
-      <pubDate>Wed, 11 Feb 2026 04:42:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 17:58:36 +0000</lastBuildDate>
     <item>
       <title>Marvin Gaye - Mercy Mercy Me (The Ecology) (6 plays)</title>
       <link>https://www.last.fm/music/Marvin+Gaye/_/Mercy+Mercy+Me+(The+Ecology)</link>
@@ -299,7 +292,6 @@
       <title>King Buffalo - Centurion (1 play)</title>
       <link>https://www.last.fm/music/King+Buffalo/_/Centurion</link>
       <guid isPermaLink="false">manosg--1771005271--17216b16-e706-4082-b0ba-e409a3097844---Centurion</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55b3f9ffff5d957ca35fd1017eb540c5.jpg" length="29291" type="image/jpeg"/>
       <pubDate>Fri, 13 Feb 2026 12:54:31 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">manosg--1771086654--Worm---Dragon Dreams</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfa30a5df799dff88379cb2702bb1f1c.png" length="204102" type="image/png"/>
       <pubDate>Sat, 14 Feb 2026 11:30:54 -0500</pubDate>
+    </item>
+    <item>
+      <title>Worm - Blackheart (1 play)</title>
+      <link>https://www.last.fm/music/Worm/_/Blackheart</link>
+      <guid isPermaLink="false">manosg--1771089089--Worm---Blackheart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfa30a5df799dff88379cb2702bb1f1c.png" length="204102" type="image/png"/>
+      <pubDate>Sat, 14 Feb 2026 12:11:29 -0500</pubDate>
     </item>
   </channel>
 </rss>
