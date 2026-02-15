@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/gameofmetal.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 17:12:41 +0000</lastBuildDate>
-    <item>
-      <title>Converge - Wishing Well (3 plays)</title>
-      <link>https://www.last.fm/music/Converge/_/Wishing+Well</link>
-      <guid isPermaLink="false">gameofmetal-1771164808--fa31e7d4-a03a-4110-98fc-f8826e95ec25---Wishing Well</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d291ab9ac7f0cdbae2c100c7595853e7.png" length="269074" type="image/png"/>
-      <pubDate>Sun, 15 Feb 2026 09:13:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>Converge - Damages (3 plays)</title>
-      <link>https://www.last.fm/music/Converge/_/Damages</link>
-      <guid isPermaLink="false">gameofmetal-1771164978--fa31e7d4-a03a-4110-98fc-f8826e95ec25---Damages</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d291ab9ac7f0cdbae2c100c7595853e7.png" length="269074" type="image/png"/>
-      <pubDate>Sun, 15 Feb 2026 09:16:18 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Feb 2026 17:43:53 +0000</lastBuildDate>
     <item>
       <title>Converge - Losing Battle (3 plays)</title>
       <link>https://www.last.fm/music/Converge/_/Losing+Battle</link>
@@ -163,7 +149,7 @@
       <pubDate>Sun, 15 Feb 2026 10:12:15 -0500</pubDate>
     </item>
     <item>
-      <title>Converge - All We Love We Leave Behind (3 plays)</title>
+      <title>Converge - All We Love We Leave Behind</title>
       <link>https://www.last.fm/music/Converge/_/All+We+Love+We+Leave+Behind</link>
       <guid isPermaLink="false">gameofmetal-1771168442--fa31e7d4-a03a-4110-98fc-f8826e95ec25---All We Love We Leave Behind</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/23411852e656f658d5964df7d26884a8.png" length="69852" type="image/png"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">gameofmetal-1771174610--Worm---The Night Has Fangs</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfa30a5df799dff88379cb2702bb1f1c.png" length="204102" type="image/png"/>
       <pubDate>Sun, 15 Feb 2026 11:56:50 -0500</pubDate>
+    </item>
+    <item>
+      <title>Worm - Dragon Dreams (3 plays)</title>
+      <link>https://www.last.fm/music/Worm/_/Dragon+Dreams</link>
+      <guid isPermaLink="false">gameofmetal-1771175049--Worm---Dragon Dreams</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfa30a5df799dff88379cb2702bb1f1c.png" length="204102" type="image/png"/>
+      <pubDate>Sun, 15 Feb 2026 12:04:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Worm - Blackheart (2 plays)</title>
+      <link>https://www.last.fm/music/Worm/_/Blackheart</link>
+      <guid isPermaLink="false">gameofmetal-1771175776--Worm---Blackheart</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cfa30a5df799dff88379cb2702bb1f1c.png" length="204102" type="image/png"/>
+      <pubDate>Sun, 15 Feb 2026 12:16:16 -0500</pubDate>
     </item>
   </channel>
 </rss>
