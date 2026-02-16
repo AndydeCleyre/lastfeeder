@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 19:59:28 +0000</lastBuildDate>
-    <item>
-      <title>Matt Berninger - Inland Ocean (3 plays)</title>
-      <link>https://www.last.fm/music/Matt+Berninger/_/Inland+Ocean</link>
-      <guid isPermaLink="false">TalonsOfFire-1770748242--991813f5-27c6-4ff3-88dd-90e750dad545---Inland Ocean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45ab5e5aaad298ab8252f822fdca1630.jpg" length="12102" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 13:30:42 -0500</pubDate>
-    </item>
-    <item>
-      <title>Matt Berninger - No Love (2 plays)</title>
-      <link>https://www.last.fm/music/Matt+Berninger/_/No+Love</link>
-      <guid isPermaLink="false">TalonsOfFire-1770748565--991813f5-27c6-4ff3-88dd-90e750dad545---No Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/45ab5e5aaad298ab8252f822fdca1630.jpg" length="12102" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 13:36:05 -0500</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 20:43:53 +0000</lastBuildDate>
     <item>
       <title>Matt Berninger - Bonnet of Pins (3 plays)</title>
       <link>https://www.last.fm/music/Matt+Berninger/_/Bonnet+of+Pins</link>
@@ -312,12 +298,14 @@
       <title>Jacob LaVallee - Somewhere in Between (2 plays)</title>
       <link>https://www.last.fm/music/Jacob+LaVallee/_/Somewhere+in+Between</link>
       <guid isPermaLink="false">TalonsOfFire-1771268441--fbf316cd-f23c-40f1-8bd6-e1b3b645cc05---Somewhere in Between</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a1da87ab2d7d834e2385df0e5a1a7cd.jpg" length="15752" type="image/jpeg"/>
       <pubDate>Mon, 16 Feb 2026 14:00:41 -0500</pubDate>
     </item>
     <item>
       <title>Austin Wintory - Nascence (2 plays)</title>
       <link>https://www.last.fm/music/Austin+Wintory/_/Nascence</link>
       <guid isPermaLink="false">TalonsOfFire-1771268623--78f15956-c5e1-46d6-a46b-fa6f46681ec8---Nascence</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5ee19adafbcf4024282f993a714880e6.jpg" length="8689" type="image/jpeg"/>
       <pubDate>Mon, 16 Feb 2026 14:03:43 -0500</pubDate>
     </item>
     <item>
@@ -338,6 +326,7 @@
       <title>Punch Brothers - Julep (2 plays)</title>
       <link>https://www.last.fm/music/Punch+Brothers/_/Julep</link>
       <guid isPermaLink="false">TalonsOfFire-1771269268--5508509b-5481-4341-94ae-209eb371afe7---Julep</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cff7df6cca7fd7ced6dcac86ca819e85.jpg" length="16000" type="image/jpeg"/>
       <pubDate>Mon, 16 Feb 2026 14:14:28 -0500</pubDate>
     </item>
     <item>
@@ -353,6 +342,20 @@
       <guid isPermaLink="false">TalonsOfFire-1771271353--e3c4c4af-f83b-4168-84cb-898009dd0447---Broken Sleep</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6115bf5fea43454d356227dc1b4178a.jpg" length="8257" type="image/jpeg"/>
       <pubDate>Mon, 16 Feb 2026 14:49:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Agnes Obel - Island of Doom (3 plays)</title>
+      <link>https://www.last.fm/music/Agnes+Obel/_/Island+of+Doom</link>
+      <guid isPermaLink="false">TalonsOfFire-1771271721--e3c4c4af-f83b-4168-84cb-898009dd0447---Island of Doom</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6115bf5fea43454d356227dc1b4178a.jpg" length="8257" type="image/jpeg"/>
+      <pubDate>Mon, 16 Feb 2026 14:55:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Agnes Obel - Myopia (2 plays)</title>
+      <link>https://www.last.fm/music/Agnes+Obel/_/Myopia</link>
+      <guid isPermaLink="false">TalonsOfFire-1771272075--e3c4c4af-f83b-4168-84cb-898009dd0447---Myopia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d6115bf5fea43454d356227dc1b4178a.jpg" length="8257" type="image/jpeg"/>
+      <pubDate>Mon, 16 Feb 2026 15:01:15 -0500</pubDate>
     </item>
   </channel>
 </rss>
