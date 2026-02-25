@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 21:39:02 +0000</lastBuildDate>
-    <item>
-      <title>Rosa Maria - Blood of My Blood (1 play)</title>
-      <link>https://www.last.fm/music/Rosa+Maria/_/Blood+of+My+Blood</link>
-      <guid isPermaLink="false">evilgnomeandy-1771969285--1b99cb3e-b7a0-4fd9-8721-5d8d20c3d8ec---Blood of My Blood</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b7e18454e49726d59e7a1b61d5281bd7.jpg" length="16197" type="image/jpeg"/>
-      <pubDate>Tue, 24 Feb 2026 16:41:25 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Feb 2026 22:02:05 +0000</lastBuildDate>
     <item>
       <title>Reigning Sound - Oh Christine (20 plays)</title>
       <link>https://www.last.fm/music/Reigning+Sound/_/Oh+Christine</link>
@@ -138,6 +131,7 @@
       <title>Michael Rault - I'll Be There (36 plays)</title>
       <link>https://www.last.fm/music/Michael+Rault/_/I%27ll+Be+There</link>
       <guid isPermaLink="false">evilgnomeandy-1771980830--48b30961-f656-4dc8-a100-60404311b606---I'll Be There</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8d9e45224871be939acabdea8ae8f4af.jpg" length="18467" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 19:53:50 -0500</pubDate>
     </item>
     <item>
@@ -214,6 +208,7 @@
       <title>The Shivas - Old Lightning Rod (8 plays)</title>
       <link>https://www.last.fm/music/The+Shivas/_/Old+Lightning+Rod</link>
       <guid isPermaLink="false">evilgnomeandy-1772051562--50bb2d85-7a6b-4457-b995-9c1074c17d52---Old Lightning Rod</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6817a9dc70594b75cb5a7a3667b4140c.jpg" length="27994" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 15:32:42 -0500</pubDate>
     </item>
     <item>
@@ -290,6 +285,7 @@
       <title>Red Garland - I Ain't Got Nobody - Album Version (1 play)</title>
       <link>https://www.last.fm/music/Red+Garland/_/I+Ain%27t+Got+Nobody+-+Album+Version</link>
       <guid isPermaLink="false">evilgnomeandy-1772053359--Red Garland---I Ain't Got Nobody - Album Version</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f99f01cadde68916f801f91370ff5e17.jpg" length="20742" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 16:02:39 -0500</pubDate>
     </item>
     <item>
@@ -331,13 +327,13 @@
       <title>La Luz - Easy Baby (22 plays)</title>
       <link>https://www.last.fm/music/La+Luz/_/Easy+Baby</link>
       <guid isPermaLink="false">evilgnomeandy-1772054776--9b5ae4cc-15ae-4f0b-8a4e-8c44e42ba52a---Easy Baby</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d0127bd57a1ffad37e56c2e4357e4474.jpg" length="10565" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 16:26:16 -0500</pubDate>
     </item>
     <item>
       <title>Donovan - Clara Clairvoyant (7 plays)</title>
       <link>https://www.last.fm/music/Donovan/_/Clara+Clairvoyant</link>
       <guid isPermaLink="false">evilgnomeandy-1772054960--72d7d717-0837-4f2a-9641-d0f9fdd3acf7---Clara Clairvoyant</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/18d3bda32fe014aeccea313a63629e72.png" length="154957" type="image/png"/>
       <pubDate>Wed, 25 Feb 2026 16:29:20 -0500</pubDate>
     </item>
     <item>
@@ -351,7 +347,14 @@
       <title>The Pinker Tones - Happy Everywhere (7 plays)</title>
       <link>https://www.last.fm/music/The+Pinker+Tones/_/Happy+Everywhere</link>
       <guid isPermaLink="false">evilgnomeandy-1772055385--0b2e9bf1-a93d-4c6a-90c4-396d61706fd3---Happy Everywhere</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e979e2b1b954deaa8c59fa19b33a479.jpg" length="36469" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 16:36:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Fame-Beats - Watford Stomp (2 plays)</title>
+      <link>https://www.last.fm/music/The+Fame-Beats/_/Watford+Stomp</link>
+      <guid isPermaLink="false">evilgnomeandy-1772055650--The Fame-Beats---Watford Stomp</guid>
+      <pubDate>Wed, 25 Feb 2026 16:40:50 -0500</pubDate>
     </item>
   </channel>
 </rss>
