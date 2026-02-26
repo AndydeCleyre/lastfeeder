@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 00:00:59 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - Breakout (1 play)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Breakout</link>
-      <guid isPermaLink="false">atari857-1771693296--67f66c07-6e61-4026-ade5-7e782fad3a5d---Breakout</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ecdbc728894045ae8ff27d6943ed9878.png" length="113103" type="image/png"/>
-      <pubDate>Sat, 21 Feb 2026 12:01:36 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 16:40:48 +0000</lastBuildDate>
     <item>
       <title>Foo Fighters - No Way Back (1 play)</title>
       <link>https://www.last.fm/music/Foo+Fighters/_/No+Way+Back</link>
@@ -40,7 +33,6 @@
       <title>Foo Fighters - Times Like These (1 play)</title>
       <link>https://www.last.fm/music/Foo+Fighters/_/Times+Like+These</link>
       <guid isPermaLink="false">atari857-1771714792--67f66c07-6e61-4026-ade5-7e782fad3a5d---Times Like These</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb5d607a0b3450b2ba88f22eb1eec268.jpg" length="11577" type="image/jpeg"/>
       <pubDate>Sat, 21 Feb 2026 17:59:52 -0500</pubDate>
     </item>
     <item>
@@ -264,7 +256,6 @@
       <title>Lord Huron - The Night We Met (feat. Phoebe Bridgers) (2 plays)</title>
       <link>https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met+(feat.+Phoebe+Bridgers)</link>
       <guid isPermaLink="false">atari857-1771944042--51c76d97-0635-433c-b26d-66beb81657f8---The Night We Met (feat. Phoebe Bridgers)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac4e753519e98741a9e9e0ccb1860f8c.jpg" length="15896" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 09:40:42 -0500</pubDate>
     </item>
     <item>
@@ -303,7 +294,7 @@
       <pubDate>Tue, 24 Feb 2026 15:43:20 -0500</pubDate>
     </item>
     <item>
-      <title>Panic! at the Disco - Nicotine</title>
+      <title>Panic! at the Disco - Nicotine (3 plays)</title>
       <link>https://www.last.fm/music/Panic!+at+the+Disco/_/Nicotine</link>
       <guid isPermaLink="false">atari857-1771965810--b9472588-93f3-4922-a1a2-74082cdf9ce8---Nicotine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a4774f5ef1874ef59f90a44d562c8e0d.png" length="126451" type="image/png"/>
@@ -341,7 +332,6 @@
       <title>The Menzingers - Nobody's Heroes (1 play)</title>
       <link>https://www.last.fm/music/The+Menzingers/_/Nobody%27s+Heroes</link>
       <guid isPermaLink="false">atari857-1771977075--3071d829-b9ca-4499-b4f5-74d6d8531aed---Nobody's Heroes</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db35624c25e8cc14ab0721e459a25756.jpg" length="12406" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 18:51:15 -0500</pubDate>
     </item>
     <item>
@@ -355,8 +345,14 @@
       <title>American Football - Bad Moons (1 play)</title>
       <link>https://www.last.fm/music/American+Football/_/Bad+Moons</link>
       <guid isPermaLink="false">atari857-1772053329--4ebb5ad3-9018-407d-8c24-c03011ab9ac6---Bad Moons</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b90eef5cc6a9471bf81b685fc80d038f.jpg" length="18074" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 16:02:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hot Mulligan - I Don’t Think It’s the Right Time for Emojis (4 plays)</title>
+      <link>https://www.last.fm/music/Hot+Mulligan/_/I+Don%E2%80%99t+Think+It%E2%80%99s+the+Right+Time+for+Emojis</link>
+      <guid isPermaLink="false">atari857-1772120820--Hot Mulligan---I Don’t Think It’s the Right Time for Emojis</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e9d104f4240e78434517319122079bd.jpg" length="14348" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 10:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
