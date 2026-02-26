@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 23:14:42 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - Best of You (2 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/Best+of+You</link>
-      <guid isPermaLink="false">atari857-1771735437--67f66c07-6e61-4026-ade5-7e782fad3a5d---Best of You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3b076a45d944b508d4455556b96b5ad.png" length="188854" type="image/png"/>
-      <pubDate>Sat, 21 Feb 2026 23:43:57 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 23:47:47 +0000</lastBuildDate>
     <item>
       <title>Nickelback - How You Remind Me (1 play)</title>
       <link>https://www.last.fm/music/Nickelback/_/How+You+Remind+Me</link>
@@ -348,6 +341,7 @@
       <title>Lily &amp; Madeleine - In The Middle (1 play)</title>
       <link>https://www.last.fm/music/Lily+&amp;+Madeleine/_/In+The+Middle</link>
       <guid isPermaLink="false">atari857-1772147120--b89f4c50-72f5-48ce-b08c-a643b191b24f---In The Middle</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70d44091d4c642e88c070669ff7a84d8.jpg" length="20611" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 18:05:20 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">atari857-1772147278--fa0596c3-1391-44a7-9b53-a06e6688ae38---Waiting For You</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e157e52afc5f45a7c59f9798af6f930c.jpg" length="23673" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 18:07:58 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lily &amp; Madeleine - Devil We Know (1 play)</title>
+      <link>https://www.last.fm/music/Lily+&amp;+Madeleine/_/Devil+We+Know</link>
+      <guid isPermaLink="false">atari857-1772147465--b89f4c50-72f5-48ce-b08c-a643b191b24f---Devil We Know</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42d7e63d063d4e1bcee43e06d179a2bc.jpg" length="26196" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 18:11:05 -0500</pubDate>
     </item>
   </channel>
 </rss>
