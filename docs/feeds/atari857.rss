@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 16:40:48 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - No Way Back (1 play)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/No+Way+Back</link>
-      <guid isPermaLink="false">atari857-1771707411--67f66c07-6e61-4026-ade5-7e782fad3a5d---No Way Back</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3b076a45d944b508d4455556b96b5ad.png" length="188854" type="image/png"/>
-      <pubDate>Sat, 21 Feb 2026 15:56:51 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 21:55:57 +0000</lastBuildDate>
     <item>
       <title>Foo Fighters - Long Road to Ruin (1 play)</title>
       <link>https://www.last.fm/music/Foo+Fighters/_/Long+Road+to+Ruin</link>
@@ -33,6 +26,7 @@
       <title>Foo Fighters - Times Like These (1 play)</title>
       <link>https://www.last.fm/music/Foo+Fighters/_/Times+Like+These</link>
       <guid isPermaLink="false">atari857-1771714792--67f66c07-6e61-4026-ade5-7e782fad3a5d---Times Like These</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fb5d607a0b3450b2ba88f22eb1eec268.jpg" length="11577" type="image/jpeg"/>
       <pubDate>Sat, 21 Feb 2026 17:59:52 -0500</pubDate>
     </item>
     <item>
@@ -256,6 +250,7 @@
       <title>Lord Huron - The Night We Met (feat. Phoebe Bridgers) (2 plays)</title>
       <link>https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met+(feat.+Phoebe+Bridgers)</link>
       <guid isPermaLink="false">atari857-1771944042--51c76d97-0635-433c-b26d-66beb81657f8---The Night We Met (feat. Phoebe Bridgers)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ac4e753519e98741a9e9e0ccb1860f8c.jpg" length="15896" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 09:40:42 -0500</pubDate>
     </item>
     <item>
@@ -332,19 +327,20 @@
       <title>The Menzingers - Nobody's Heroes (1 play)</title>
       <link>https://www.last.fm/music/The+Menzingers/_/Nobody%27s+Heroes</link>
       <guid isPermaLink="false">atari857-1771977075--3071d829-b9ca-4499-b4f5-74d6d8531aed---Nobody's Heroes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db35624c25e8cc14ab0721e459a25756.jpg" length="12406" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 18:51:15 -0500</pubDate>
     </item>
     <item>
       <title>Zach Bryan - Plastic Cigarette (4 plays)</title>
       <link>https://www.last.fm/music/Zach+Bryan/_/Plastic+Cigarette</link>
       <guid isPermaLink="false">atari857-1772031868--51e90731-08c0-4f60-89b6-5b78e5844de8---Plastic Cigarette</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0237bc53e6f5d7903e4f14baa2643906.jpg" length="37973" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 10:04:28 -0500</pubDate>
     </item>
     <item>
       <title>American Football - Bad Moons (1 play)</title>
       <link>https://www.last.fm/music/American+Football/_/Bad+Moons</link>
       <guid isPermaLink="false">atari857-1772053329--4ebb5ad3-9018-407d-8c24-c03011ab9ac6---Bad Moons</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b90eef5cc6a9471bf81b685fc80d038f.jpg" length="18074" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 16:02:09 -0500</pubDate>
     </item>
     <item>
@@ -353,6 +349,13 @@
       <guid isPermaLink="false">atari857-1772120820--Hot Mulligan---I Don’t Think It’s the Right Time for Emojis</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e9d104f4240e78434517319122079bd.jpg" length="14348" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 10:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hot Mulligan - Please Don't Cry, You Have Swag (7 plays)</title>
+      <link>https://www.last.fm/music/Hot+Mulligan/_/Please+Don%27t+Cry,+You+Have+Swag</link>
+      <guid isPermaLink="false">atari857-1772120952--12a9e259-f7cb-4fca-87b1-a6c5fd38c300---Please Don't Cry, You Have Swag</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/75129031481ac97479e76e5ef453b728.jpg" length="20981" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 10:49:12 -0500</pubDate>
     </item>
   </channel>
 </rss>
