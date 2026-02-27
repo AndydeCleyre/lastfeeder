@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 02:31:20 +0000</lastBuildDate>
-    <item>
-      <title>Kevin Morby - Javelin (3 plays)</title>
-      <link>https://www.last.fm/music/Kevin+Morby/_/Javelin</link>
-      <guid isPermaLink="false">atari857-1771780245--eac962e1-0295-4e69-a266-4dab2adb4f11---Javelin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a1242ad6f1044ccee894b5e35775e14.jpg" length="28451" type="image/jpeg"/>
-      <pubDate>Sun, 22 Feb 2026 12:10:45 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 21:45:27 +0000</lastBuildDate>
     <item>
       <title>Foo Fighters - Run (1 play)</title>
       <link>https://www.last.fm/music/Foo+Fighters/_/Run</link>
@@ -334,11 +327,10 @@
       <title>Lily &amp; Madeleine - Devil We Know (1 play)</title>
       <link>https://www.last.fm/music/Lily+&amp;+Madeleine/_/Devil+We+Know</link>
       <guid isPermaLink="false">atari857-1772147465--b89f4c50-72f5-48ce-b08c-a643b191b24f---Devil We Know</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/42d7e63d063d4e1bcee43e06d179a2bc.jpg" length="26196" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 18:11:05 -0500</pubDate>
     </item>
     <item>
-      <title>The Maine - Quiet Part Loud (1 play)</title>
+      <title>The Maine - Quiet Part Loud</title>
       <link>https://www.last.fm/music/The+Maine/_/Quiet+Part+Loud</link>
       <guid isPermaLink="false">atari857-1772148175--The Maine---Quiet Part Loud</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a11bb960108cf6918c8d8b5bf1f2735.jpg" length="32349" type="image/jpeg"/>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">atari857-1772150021--053c3c45-559a-4af7-adee-6cf3c7dd82c1---A Touch of Hell</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fd780549bcf2b7250ad86da55d3984b.jpg" length="25030" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 18:53:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sincere Engineer - Anemia (5 plays)</title>
+      <link>https://www.last.fm/music/Sincere+Engineer/_/Anemia</link>
+      <guid isPermaLink="false">atari857-1772150247--053c3c45-559a-4af7-adee-6cf3c7dd82c1---Anemia</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8fd780549bcf2b7250ad86da55d3984b.jpg" length="25030" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 18:57:27 -0500</pubDate>
     </item>
   </channel>
 </rss>
