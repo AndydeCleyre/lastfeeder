@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 22:59:44 +0000</lastBuildDate>
-    <item>
-      <title>Coldplay - Everyday Life (4 plays)</title>
-      <link>https://www.last.fm/music/Coldplay/_/Everyday+Life</link>
-      <guid isPermaLink="false">TalonsOfFire-1771969786--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Everyday Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b7955e365c8e73cff713a9f15d68636.png" length="174159" type="image/png"/>
-      <pubDate>Tue, 24 Feb 2026 16:49:46 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 23:58:00 +0000</lastBuildDate>
     <item>
       <title>Myrkur - Norn (3 plays)</title>
       <link>https://www.last.fm/music/Myrkur/_/Norn</link>
@@ -131,6 +124,7 @@
       <title>Beautiful Death - Their Wings Decry (1 play)</title>
       <link>https://www.last.fm/music/Beautiful+Death/_/Their+Wings+Decry</link>
       <guid isPermaLink="false">TalonsOfFire-1772135456--7a26e162-2808-4315-ace0-df6dcefc3a59---Their Wings Decry</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bbf8851cdd74bc4e63304b16a0e65497.jpg" length="10941" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 14:50:56 -0500</pubDate>
     </item>
     <item>
@@ -305,7 +299,6 @@
       <title>Arctic Monkeys - Opening Night (1 play)</title>
       <link>https://www.last.fm/music/Arctic+Monkeys/_/Opening+Night</link>
       <guid isPermaLink="false">TalonsOfFire-1772228126--ada7a83c-e3e1-40f1-93f9-3e73dbc9298a---Opening Night</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1a9f860fc28334558abb9c383978ff3d.jpg" length="11908" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 16:35:26 -0500</pubDate>
     </item>
     <item>
@@ -347,14 +340,21 @@
       <title>edbl - I'll Wait (1 play)</title>
       <link>https://www.last.fm/music/edbl/_/I%27ll+Wait</link>
       <guid isPermaLink="false">TalonsOfFire-1772231640--c5228a2f-0795-4b5c-8a0c-7c35daeb1596---I'll Wait</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/db8212c663c9f783bbc62564e071e88b.jpg" length="14152" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 17:34:00 -0500</pubDate>
     </item>
     <item>
       <title>edbl - No Pressure (1 play)</title>
       <link>https://www.last.fm/music/edbl/_/No+Pressure</link>
       <guid isPermaLink="false">TalonsOfFire-1772231866--c5228a2f-0795-4b5c-8a0c-7c35daeb1596---No Pressure</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/329204fbb172321657a5e1ea2a32660d.jpg" length="16978" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 17:37:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Yazmin Lacey - Morning Matters (1 play)</title>
+      <link>https://www.last.fm/music/Yazmin+Lacey/_/Morning+Matters</link>
+      <guid isPermaLink="false">TalonsOfFire-1772232162--451919df-764c-40cf-9aa2-fcafe599d869---Morning Matters</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f936cf26c59bb23155e5720059f09e0a.jpg" length="20819" type="image/jpeg"/>
+      <pubDate>Fri, 27 Feb 2026 17:42:42 -0500</pubDate>
     </item>
   </channel>
 </rss>
