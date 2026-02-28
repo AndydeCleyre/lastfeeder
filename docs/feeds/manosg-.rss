@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 17:28:30 +0000</lastBuildDate>
-    <item>
-      <title>Pentagram - Hurricane (14 plays)</title>
-      <link>https://www.last.fm/music/Pentagram/_/Hurricane</link>
-      <guid isPermaLink="false">manosg--1772093132--Pentagram---Hurricane</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e8a88f58813dc6429887dd85bb43f2fc.jpg" length="15848" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 03:05:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pentagram - Livin' In A Ram's Head (16 plays)</title>
-      <link>https://www.last.fm/music/Pentagram/_/Livin%27+In+A+Ram%27s+Head</link>
-      <guid isPermaLink="false">manosg--1772093259--Pentagram---Livin' In A Ram's Head</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e8a88f58813dc6429887dd85bb43f2fc.jpg" length="15848" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 03:07:39 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pentagram - Earth Flight (15 plays)</title>
-      <link>https://www.last.fm/music/Pentagram/_/Earth+Flight</link>
-      <guid isPermaLink="false">manosg--1772093396--Pentagram---Earth Flight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e8a88f58813dc6429887dd85bb43f2fc.jpg" length="15848" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 03:09:56 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Feb 2026 17:47:18 +0000</lastBuildDate>
     <item>
       <title>Pentagram - 20 Buck Spin (15 plays)</title>
       <link>https://www.last.fm/music/Pentagram/_/20+Buck+Spin</link>
@@ -205,7 +184,7 @@
       <pubDate>Thu, 26 Feb 2026 12:27:20 -0500</pubDate>
     </item>
     <item>
-      <title>Anna von Hausswolff - Aging Young Women (1 play)</title>
+      <title>Anna von Hausswolff - Aging Young Women</title>
       <link>https://www.last.fm/music/Anna+von+Hausswolff/_/Aging+Young+Women</link>
       <guid isPermaLink="false">manosg--1772178780--6bd920ac-3b7c-47e0-8f0f-c390f63f5112---Aging Young Women</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/314672517a95fc2e1a936bcd2af0c8d3.png" length="79730" type="image/png"/>
@@ -271,6 +250,7 @@
       <title>Burning Path - Another Day (1 play)</title>
       <link>https://www.last.fm/music/Burning+Path/_/Another+Day</link>
       <guid isPermaLink="false">manosg--1772213963--221b7f44-4820-404e-bb38-1c772d153da0---Another Day</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2866e73ef83c611ab3bf9994d1c30229.jpg" length="33814" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 12:39:23 -0500</pubDate>
     </item>
     <item>
@@ -356,6 +336,27 @@
       <guid isPermaLink="false">manosg--1772279847--Iron Maiden---Hallowed Be Thy Name - Live '82</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b43af095982c32a374e3530be2075ef9.jpg" length="34505" type="image/jpeg"/>
       <pubDate>Sat, 28 Feb 2026 06:57:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Phantom of the Opera - Live '82 (3 plays)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Phantom+of+the+Opera+-+Live+%2782</link>
+      <guid isPermaLink="false">manosg--1772299279--Iron Maiden---Phantom of the Opera - Live '82</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b43af095982c32a374e3530be2075ef9.jpg" length="34505" type="image/jpeg"/>
+      <pubDate>Sat, 28 Feb 2026 12:21:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Iron Maiden - Live '82 (3 plays)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Iron+Maiden+-+Live+%2782</link>
+      <guid isPermaLink="false">manosg--1772299928--Iron Maiden---Iron Maiden - Live '82</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b43af095982c32a374e3530be2075ef9.jpg" length="34505" type="image/jpeg"/>
+      <pubDate>Sat, 28 Feb 2026 12:32:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Iron Maiden - Sanctuary - Live '82 (4 plays)</title>
+      <link>https://www.last.fm/music/Iron+Maiden/_/Sanctuary+-+Live+%2782</link>
+      <guid isPermaLink="false">manosg--1772300263--Iron Maiden---Sanctuary - Live '82</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b43af095982c32a374e3530be2075ef9.jpg" length="34505" type="image/jpeg"/>
+      <pubDate>Sat, 28 Feb 2026 12:37:43 -0500</pubDate>
     </item>
   </channel>
 </rss>
