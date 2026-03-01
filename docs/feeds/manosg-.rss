@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 17:00:51 +0000</lastBuildDate>
-    <item>
-      <title>Burning Path - Chasing The Future (1 play)</title>
-      <link>https://www.last.fm/music/Burning+Path/_/Chasing+The+Future</link>
-      <guid isPermaLink="false">manosg--1772213355--221b7f44-4820-404e-bb38-1c772d153da0---Chasing The Future</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2866e73ef83c611ab3bf9994d1c30229.jpg" length="33814" type="image/jpeg"/>
-      <pubDate>Fri, 27 Feb 2026 12:29:15 -0500</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 17:34:14 +0000</lastBuildDate>
     <item>
       <title>Burning Path - Another Day (1 play)</title>
       <link>https://www.last.fm/music/Burning+Path/_/Another+Day</link>
@@ -184,7 +177,7 @@
       <pubDate>Sun, 01 Mar 2026 02:34:55 -0500</pubDate>
     </item>
     <item>
-      <title>The Stereoscopic Orchestra - Love Theme (From 'Conan the Barbarian') (1 play)</title>
+      <title>The Stereoscopic Orchestra - Love Theme (From 'Conan the Barbarian')</title>
       <link>https://www.last.fm/music/The+Stereoscopic+Orchestra/_/Love+Theme+(From+%27Conan+the+Barbarian%27)</link>
       <guid isPermaLink="false">manosg--1772350858--The Stereoscopic Orchestra---Love Theme (From 'Conan the Barbarian')</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -299,7 +292,6 @@
       <title>Grand Magus - The End Belongs to You (1 play)</title>
       <link>https://www.last.fm/music/Grand+Magus/_/The+End+Belongs+to+You</link>
       <guid isPermaLink="false">manosg--1772367414--83fbfa8e-616d-4da8-b8f7-aee37ec399f7---The End Belongs to You</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3c3aa5814aeeca3ca7c453924513c976.jpg" length="26543" type="image/jpeg"/>
       <pubDate>Sun, 01 Mar 2026 07:16:54 -0500</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">manosg--1772383572--Bruce Dickinson---Trumpets of Jericho - 2001 Remaster</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/291ad449d450421493d660146b99ebc8.jpg" length="29988" type="image/jpeg"/>
       <pubDate>Sun, 01 Mar 2026 11:46:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bruce Dickinson - Machine Men - 2001 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Bruce+Dickinson/_/Machine+Men+-+2001+Remaster</link>
+      <guid isPermaLink="false">manosg--1772384388--Bruce Dickinson---Machine Men - 2001 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/291ad449d450421493d660146b99ebc8.jpg" length="29988" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 11:59:48 -0500</pubDate>
     </item>
   </channel>
 </rss>
