@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 23:36:38 +0000</lastBuildDate>
-    <item>
-      <title>The Durutti Column - Estoril A Noite (2 plays)</title>
-      <link>https://www.last.fm/music/The+Durutti+Column/_/Estoril+A+Noite</link>
-      <guid isPermaLink="false">TalonsOfFire-1772223462--aaddb5e3-f8a5-4a9d-8674-f885112ecf0e---Estoril A Noite</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/39ff7c0438b89d8660d29b9a99004854.png" length="84998" type="image/png"/>
-      <pubDate>Fri, 27 Feb 2026 15:17:42 -0500</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 23:59:25 +0000</lastBuildDate>
     <item>
       <title>Paul Buchanan - After Dark (2 plays)</title>
       <link>https://www.last.fm/music/Paul+Buchanan/_/After+Dark</link>
@@ -103,6 +96,7 @@
       <title>edbl - Table for Two (1 play)</title>
       <link>https://www.last.fm/music/edbl/_/Table+for+Two</link>
       <guid isPermaLink="false">TalonsOfFire-1772231341--c5228a2f-0795-4b5c-8a0c-7c35daeb1596---Table for Two</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a0ee86433621b7e924205ca2336c6c56.jpg" length="12082" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 17:29:01 -0500</pubDate>
     </item>
     <item>
@@ -200,6 +194,7 @@
       <title>Yazmin Lacey - Sea Glass (2 plays)</title>
       <link>https://www.last.fm/music/Yazmin+Lacey/_/Sea+Glass</link>
       <guid isPermaLink="false">TalonsOfFire-1772399906--451919df-764c-40cf-9aa2-fcafe599d869---Sea Glass</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/60a0b9d723cae01ce72e3d270bb6771c.jpg" length="17071" type="image/jpeg"/>
       <pubDate>Sun, 01 Mar 2026 16:18:26 -0500</pubDate>
     </item>
     <item>
@@ -280,7 +275,7 @@
       <pubDate>Sun, 01 Mar 2026 17:51:01 -0500</pubDate>
     </item>
     <item>
-      <title>Esperanza Spalding - Espera (1 play)</title>
+      <title>Esperanza Spalding - Espera</title>
       <link>https://www.last.fm/music/Esperanza+Spalding/_/Espera</link>
       <guid isPermaLink="false">TalonsOfFire-1772406404--5c12b265-5e59-44e0-b657-5cf4169f7316---Espera</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dbcb0b388bc04f5359a0a03eb0819f15.jpg" length="19909" type="image/jpeg"/>
@@ -304,6 +299,7 @@
       <title>Esperanza Spalding - Black Gold (1 play)</title>
       <link>https://www.last.fm/music/Esperanza+Spalding/_/Black+Gold</link>
       <guid isPermaLink="false">TalonsOfFire-1772574460--5c12b265-5e59-44e0-b657-5cf4169f7316---Black Gold</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f8ac190a61bf4a96a50657ca509fcf9a.png" length="174170" type="image/png"/>
       <pubDate>Tue, 03 Mar 2026 16:47:40 -0500</pubDate>
     </item>
     <item>
@@ -354,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1772580659--66d4b54b-77f1-4310-a45c-60972fb47ecc---Fager som en ros</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/caaee7f0c2fd6656971b8947d8437e2e.jpg" length="21225" type="image/jpeg"/>
       <pubDate>Tue, 03 Mar 2026 18:30:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Myrkur - Tor i Helheim (2 plays)</title>
+      <link>https://www.last.fm/music/Myrkur/_/Tor+i+Helheim</link>
+      <guid isPermaLink="false">TalonsOfFire-1772580832--66d4b54b-77f1-4310-a45c-60972fb47ecc---Tor i Helheim</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/caaee7f0c2fd6656971b8947d8437e2e.jpg" length="21225" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 18:33:52 -0500</pubDate>
     </item>
   </channel>
 </rss>
