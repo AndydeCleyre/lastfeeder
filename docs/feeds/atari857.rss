@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 22:03:13 +0000</lastBuildDate>
-    <item>
-      <title>Mitski - Lightning (1 play)</title>
-      <link>https://www.last.fm/music/Mitski/_/Lightning</link>
-      <guid isPermaLink="false">atari857-1772297069--fa58cf24-0e44-421d-8519-8bf461dcfaa5---Lightning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5be1b77c3beb502c69a287b36e261996.jpg" length="26150" type="image/jpeg"/>
-      <pubDate>Sat, 28 Feb 2026 11:44:29 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 03:08:52 +0000</lastBuildDate>
     <item>
       <title>Mitski - In A Lake (2 plays)</title>
       <link>https://www.last.fm/music/Mitski/_/In+A+Lake</link>
@@ -124,12 +117,14 @@
       <title>Free Throw - The Outlaw Star (2 plays)</title>
       <link>https://www.last.fm/music/Free+Throw/_/The+Outlaw+Star</link>
       <guid isPermaLink="false">atari857-1772481425--1ca441fa-7cea-4f29-939b-06d8741f74c7---The Outlaw Star</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eed9de76b17e55f27a7466c48cc2bede.jpg" length="20471" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 14:57:05 -0500</pubDate>
     </item>
     <item>
       <title>Free Throw - A Hero’s Grave (4 plays)</title>
       <link>https://www.last.fm/music/Free+Throw/_/A+Hero%E2%80%99s+Grave</link>
       <guid isPermaLink="false">atari857-1772481687--Free Throw---A Hero’s Grave</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/eed9de76b17e55f27a7466c48cc2bede.jpg" length="20471" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 15:01:27 -0500</pubDate>
     </item>
     <item>
@@ -355,6 +350,13 @@
       <guid isPermaLink="false">atari857-1772747868--a49b5d41-7399-49ef-bcb8-a5779a30d2e9---Local Construction</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e97189ef4e92081b802ae78b9488c2b.jpg" length="15139" type="image/jpeg"/>
       <pubDate>Thu, 05 Mar 2026 16:57:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>Relient K - Mountaintop (2 plays)</title>
+      <link>https://www.last.fm/music/Relient+K/_/Mountaintop</link>
+      <guid isPermaLink="false">atari857-1772761119--a49b5d41-7399-49ef-bcb8-a5779a30d2e9---Mountaintop</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5e97189ef4e92081b802ae78b9488c2b.jpg" length="15139" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 20:38:39 -0500</pubDate>
     </item>
   </channel>
 </rss>
