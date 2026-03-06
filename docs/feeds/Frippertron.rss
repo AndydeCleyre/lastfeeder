@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 08:02:49 +0000</lastBuildDate>
-    <item>
-      <title>Boards of Canada - Sunshine Recorder (2 plays)</title>
-      <link>https://www.last.fm/music/Boards+of+Canada/_/Sunshine+Recorder</link>
-      <guid isPermaLink="false">Frippertron-1772769035--69158f97-4c07-4c4e-baf8-4e4ab1ed666e---Sunshine Recorder</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b0c1511b79b6a4a86d55fdd36ea9b3b5.jpg" length="22308" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 22:50:35 -0500</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 08:55:45 +0000</lastBuildDate>
     <item>
       <title>Boards of Canada - In the Annexe (2 plays)</title>
       <link>https://www.last.fm/music/Boards+of+Canada/_/In+the+Annexe</link>
@@ -347,6 +340,12 @@
       <link>https://www.last.fm/music/Jellyfish/_/Joining+a+Fan+Club</link>
       <guid isPermaLink="false">Frippertron-1772784018--635a33b9-c32c-4bdc-b9a0-19c576ae8a5b---Joining a Fan Club</guid>
       <pubDate>Fri, 06 Mar 2026 03:00:18 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Cygnus....Vismund Cygnus (203 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Cygnus....Vismund+Cygnus</link>
+      <guid isPermaLink="false">Frippertron-1772784293--20883363-1ea4-4d72-ad72-c0e767038f3e---Cygnus....Vismund Cygnus</guid>
+      <pubDate>Fri, 06 Mar 2026 03:04:53 -0500</pubDate>
     </item>
   </channel>
 </rss>
