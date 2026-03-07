@@ -1,4 +1,4 @@
-black==26.1.0
+black==26.3.0
     # via -r dev-requirements.in
 certifi==2026.2.25
     # via requests
