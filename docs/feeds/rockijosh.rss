@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/rockijosh.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 02:45:54 +0000</lastBuildDate>
-    <item>
-      <title>Trousdale - Save Me (20 plays)</title>
-      <link>https://www.last.fm/music/Trousdale/_/Save+Me</link>
-      <guid isPermaLink="false">rockijosh-1772720173--316f7cee-a01b-4dbc-a10f-fa8537da24eb---Save Me</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c86eee8fa9e24901ef8bdc886932dd8c.jpg" length="20529" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 09:16:13 -0500</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 13:11:54 +0000</lastBuildDate>
     <item>
       <title>No Pressure - Good Enough (11 plays)</title>
       <link>https://www.last.fm/music/No+Pressure/_/Good+Enough</link>
@@ -75,6 +68,7 @@
       <title>Charli xcx - Constant Repeat (39 plays)</title>
       <link>https://www.last.fm/music/Charli+xcx/_/Constant+Repeat</link>
       <guid isPermaLink="false">rockijosh-1772753361--260b6184-8828-48eb-945c-bc4cb6fc34ca---Constant Repeat</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/647da295e6e0696ecfcd73229d5816f3.jpg" length="21136" type="image/jpeg"/>
       <pubDate>Thu, 05 Mar 2026 18:29:21 -0500</pubDate>
     </item>
     <item>
@@ -235,6 +229,7 @@
       <title>Neko Case - Hold On, Hold On (126 plays)</title>
       <link>https://www.last.fm/music/Neko+Case/_/Hold+On,+Hold+On</link>
       <guid isPermaLink="false">rockijosh-1772936047--e13d2935-8c42-4c0a-96d7-654062acf106---Hold On, Hold On</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa529495dce44d3ecdc9e7ef7f8f9db7.png" length="161380" type="image/png"/>
       <pubDate>Sat, 07 Mar 2026 21:14:07 -0500</pubDate>
     </item>
     <item>
@@ -255,7 +250,6 @@
       <title>Neko Case - Atomic Number (107 plays)</title>
       <link>https://www.last.fm/music/Neko+Case/_/Atomic+Number</link>
       <guid isPermaLink="false">rockijosh-1772936530--e13d2935-8c42-4c0a-96d7-654062acf106---Atomic Number</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea1f933931a8fe9367c019fdd66cd6ea.jpg" length="28076" type="image/jpeg"/>
       <pubDate>Sat, 07 Mar 2026 21:22:10 -0500</pubDate>
     </item>
     <item>
@@ -304,7 +298,6 @@
       <title>Phil Collins - You'll Be In My Heart (498 plays)</title>
       <link>https://www.last.fm/music/Phil+Collins/_/You%27ll+Be+In+My+Heart</link>
       <guid isPermaLink="false">rockijosh-1773106026--401c3991-b76b-499d-8082-9f2df958ef78---You'll Be In My Heart</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49c606994e09441f87dd9c3070c777d7.jpg" length="28656" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 21:27:06 -0400</pubDate>
     </item>
     <item>
@@ -339,7 +332,6 @@
       <title>Neko Case - Winchester Mansion of Sound (154 plays)</title>
       <link>https://www.last.fm/music/Neko+Case/_/Winchester+Mansion+of+Sound</link>
       <guid isPermaLink="false">rockijosh-1773107114--e13d2935-8c42-4c0a-96d7-654062acf106---Winchester Mansion of Sound</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2983bdbcd56d42ccd11d63bfa0fa726f.jpg" length="26085" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 21:45:14 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +347,12 @@
       <guid isPermaLink="false">rockijosh-1773107681--ee90d1b3-a4e2-4d18-9092-111d856e7e7a---Cemetery</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/15a3c007660349338c98bb9e25d54a08.jpg" length="24346" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 21:54:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Laura Stevenson - Tom Sawyer / You Know Where You Can Find Me (71 plays)</title>
+      <link>https://www.last.fm/music/Laura+Stevenson/_/Tom+Sawyer+%2F+You+Know+Where+You+Can+Find+Me</link>
+      <guid isPermaLink="false">rockijosh-1773108601--70b166d1-b511-49f1-ad15-8b94603515d5---Tom Sawyer / You Know Where You Can Find Me</guid>
+      <pubDate>Mon, 09 Mar 2026 22:10:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
