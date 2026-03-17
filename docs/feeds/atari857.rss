@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 15:17:49 +0000</lastBuildDate>
-    <item>
-      <title>Robyn - Blow My Mind (1 play)</title>
-      <link>https://www.last.fm/music/Robyn/_/Blow+My+Mind</link>
-      <guid isPermaLink="false">atari857-1773262934--5a8e07d5-d932-4484-a7f7-e700793a9c94---Blow My Mind</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f047b943a073ba0cf1d356446d7d7ff7.png" length="145250" type="image/png"/>
-      <pubDate>Wed, 11 Mar 2026 17:02:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Kevin Morby - Javelin (5 plays)</title>
-      <link>https://www.last.fm/music/Kevin+Morby/_/Javelin</link>
-      <guid isPermaLink="false">atari857-1773273281--eac962e1-0295-4e69-a266-4dab2adb4f11---Javelin</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a1242ad6f1044ccee894b5e35775e14.jpg" length="28451" type="image/jpeg"/>
-      <pubDate>Wed, 11 Mar 2026 19:54:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 16:42:24 +0000</lastBuildDate>
     <item>
       <title>Kevin Morby - Javelin (5 plays)</title>
       <link>https://www.last.fm/music/Kevin+Morby/_/Javelin</link>
@@ -51,9 +37,10 @@
       <pubDate>Thu, 12 Mar 2026 12:56:02 -0400</pubDate>
     </item>
     <item>
-      <title>I Am the Avalanche - LAUGHING AND BLEEDING (1 play)</title>
+      <title>I Am the Avalanche - LAUGHING AND BLEEDING</title>
       <link>https://www.last.fm/music/I+Am+the+Avalanche/_/LAUGHING+AND+BLEEDING</link>
       <guid isPermaLink="false">atari857-1773334774--8e8e27cb-8553-496e-98bc-67bbd72e98dc---LAUGHING AND BLEEDING</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba98a8fa35363097b7033e4ec04e927d.jpg" length="30518" type="image/jpeg"/>
       <pubDate>Thu, 12 Mar 2026 12:59:34 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +343,20 @@
       <guid isPermaLink="false">atari857-1773591031--fc4706e3-f4ca-4a24-86c9-db8c4aa93b89---Synchronize</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/071d5193cd2a684b1290b629bc0d16bd.jpg" length="34647" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 12:10:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gabby Barrett - The Good Ones (2 plays)</title>
+      <link>https://www.last.fm/music/Gabby+Barrett/_/The+Good+Ones</link>
+      <guid isPermaLink="false">atari857-1773760595--b779262a-e5c0-4ca1-b412-e2fbb5ea7318---The Good Ones</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3f2d1b4bda413a7fbc797346ffd8bebc.png" length="160128" type="image/png"/>
+      <pubDate>Tue, 17 Mar 2026 11:16:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>HARDY - wait in the truck (1 play)</title>
+      <link>https://www.last.fm/music/HARDY/_/wait+in+the+truck</link>
+      <guid isPermaLink="false">atari857-1773761563--HARDY---wait in the truck</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f139f059741efacd49d9cbccb14b6776.png" length="125727" type="image/png"/>
+      <pubDate>Tue, 17 Mar 2026 11:32:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
