@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 23:44:46 +0000</lastBuildDate>
-    <item>
-      <title>Agnes Obel - Fuel to Fire (7 plays)</title>
-      <link>https://www.last.fm/music/Agnes+Obel/_/Fuel+to+Fire</link>
-      <guid isPermaLink="false">ddgromit-1773340166--e3c4c4af-f83b-4168-84cb-898009dd0447---Fuel to Fire</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cf4377f0028ebf75a745ed48615b7154.jpg" length="8109" type="image/jpeg"/>
-      <pubDate>Thu, 12 Mar 2026 14:29:26 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 00:02:10 +0000</lastBuildDate>
     <item>
       <title>Lisa Hannigan - Undertow (7 plays)</title>
       <link>https://www.last.fm/music/Lisa+Hannigan/_/Undertow</link>
@@ -82,6 +75,7 @@
       <title>Trent Reznor and Atticus Ross - Stopper (11 plays)</title>
       <link>https://www.last.fm/music/Trent+Reznor+and+Atticus+Ross/_/Stopper</link>
       <guid isPermaLink="false">ddgromit-1773422718--Trent Reznor and Atticus Ross---Stopper</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89f164d6aaa42ef3da230c0adc901d2c.jpg" length="27154" type="image/jpeg"/>
       <pubDate>Fri, 13 Mar 2026 13:25:18 -0400</pubDate>
     </item>
     <item>
@@ -260,7 +254,7 @@
       <pubDate>Mon, 16 Mar 2026 13:34:15 -0400</pubDate>
     </item>
     <item>
-      <title>Goo Goo Dolls - Big Machine (1 play)</title>
+      <title>Goo Goo Dolls - Big Machine (2 plays)</title>
       <link>https://www.last.fm/music/Goo+Goo+Dolls/_/Big+Machine</link>
       <guid isPermaLink="false">ddgromit-1773685082--e2c00c56-8365-4160-9f40-a64682917633---Big Machine</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b27b516e511a03de15d7164d4e375bf.jpg" length="30834" type="image/jpeg"/>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1773703540--e2c00c56-8365-4160-9f40-a64682917633---Let Love In</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/416b0525c72047d0c70ab9b5f137478b.png" length="55987" type="image/png"/>
       <pubDate>Mon, 16 Mar 2026 19:25:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Goo Goo Dolls - Big Machine (2 plays)</title>
+      <link>https://www.last.fm/music/Goo+Goo+Dolls/_/Big+Machine</link>
+      <guid isPermaLink="false">ddgromit-1773705384--e2c00c56-8365-4160-9f40-a64682917633---Big Machine</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9b27b516e511a03de15d7164d4e375bf.jpg" length="30834" type="image/jpeg"/>
+      <pubDate>Mon, 16 Mar 2026 19:56:24 -0400</pubDate>
     </item>
   </channel>
 </rss>
