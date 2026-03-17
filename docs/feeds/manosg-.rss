@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 10:34:33 +0000</lastBuildDate>
-    <item>
-      <title>Dead Kennedys - Rawhide (1 play)</title>
-      <link>https://www.last.fm/music/Dead+Kennedys/_/Rawhide</link>
-      <guid isPermaLink="false">manosg--1773424673--37c78aeb-d196-42b5-b991-6afb4fc9bc2e---Rawhide</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3344dbcba085dc5b56f2bd87c02b1139.jpg" length="24084" type="image/jpeg"/>
-      <pubDate>Fri, 13 Mar 2026 13:57:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 11:31:07 +0000</lastBuildDate>
     <item>
       <title>Dead Kennedys - California Über Alles (1 play)</title>
       <link>https://www.last.fm/music/Dead+Kennedys/_/California+%C3%9Cber+Alles</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">manosg--1773743208--Coverdale/Page---Over Now</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcb1bc92edac9f04c0015e25264087e1.jpg" length="18004" type="image/jpeg"/>
       <pubDate>Tue, 17 Mar 2026 06:26:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coverdale/Page - Feeling Hot (1 play)</title>
+      <link>https://www.last.fm/music/Coverdale%2FPage/_/Feeling+Hot</link>
+      <guid isPermaLink="false">manosg--1773743532--Coverdale/Page---Feeling Hot</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/dcb1bc92edac9f04c0015e25264087e1.jpg" length="18004" type="image/jpeg"/>
+      <pubDate>Tue, 17 Mar 2026 06:32:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
