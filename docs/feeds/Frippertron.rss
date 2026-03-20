@@ -7,23 +7,19 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 21:15:13 +0000</lastBuildDate>
-    <item>
-      <title>At the Drive-In - Quarantined (33 plays)</title>
-      <link>https://www.last.fm/music/At+the+Drive-In/_/Quarantined</link>
-      <guid isPermaLink="false">Frippertron-1773985080--At the Drive-In---Quarantined</guid>
-      <pubDate>Fri, 20 Mar 2026 01:38:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 21:49:23 +0000</lastBuildDate>
     <item>
       <title>At the Drive-In - Cosmonaut (32 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Cosmonaut</link>
       <guid isPermaLink="false">Frippertron-1773985404--At the Drive-In---Cosmonaut</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
       <pubDate>Fri, 20 Mar 2026 01:43:24 -0400</pubDate>
     </item>
     <item>
       <title>At the Drive-In - Non-Zero Possibility (28 plays)</title>
       <link>https://www.last.fm/music/At+the+Drive-In/_/Non-Zero+Possibility</link>
       <guid isPermaLink="false">Frippertron-1773985607--At the Drive-In---Non-Zero Possibility</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7c43868a0a3edd7696edc11d256d5f7e.jpg" length="31707" type="image/jpeg"/>
       <pubDate>Fri, 20 Mar 2026 01:46:47 -0400</pubDate>
     </item>
     <item>
@@ -142,7 +138,7 @@
       <pubDate>Fri, 20 Mar 2026 03:21:36 -0400</pubDate>
     </item>
     <item>
-      <title>Frank Zappa - Louie Louie (At the Royal Albert Hall in London) (14 plays)</title>
+      <title>Frank Zappa - Louie Louie (At the Royal Albert Hall in London)</title>
       <link>https://www.last.fm/music/Frank+Zappa/_/Louie+Louie+(At+the+Royal+Albert+Hall+in+London)</link>
       <guid isPermaLink="false">Frippertron-1773991511--e20747e7-55a4-452e-8766-7b985585082d---Louie Louie (At the Royal Albert Hall in London)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca14b8a4e31d4c2a99ca549981311f98.jpg" length="31309" type="image/jpeg"/>
@@ -344,6 +340,13 @@
       <link>https://www.last.fm/music/Frank+Zappa/_/Montana</link>
       <guid isPermaLink="false">Frippertron-1774004526--e20747e7-55a4-452e-8766-7b985585082d---Montana</guid>
       <pubDate>Fri, 20 Mar 2026 07:02:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Onyx - Slam (1 play)</title>
+      <link>https://www.last.fm/music/Onyx/_/Slam</link>
+      <guid isPermaLink="false">Frippertron-1774043104--Onyx---Slam</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6dafa58e87974e9a9f1b1a7baddf7e24.jpg" length="20161" type="image/jpeg"/>
+      <pubDate>Fri, 20 Mar 2026 17:45:04 -0400</pubDate>
     </item>
   </channel>
 </rss>
