@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 16:42:26 +0000</lastBuildDate>
-    <item>
-      <title>Jeremy Soule - Vetr (4 plays)</title>
-      <link>https://www.last.fm/music/Jeremy+Soule/_/Vetr</link>
-      <guid isPermaLink="false">TalonsOfFire-1774284277--f413369d-d72f-46b9-8744-2d09344a9c6a---Vetr</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/94665538149aef8c08ef9bf1e4b59f1a.png" length="199933" type="image/png"/>
-      <pubDate>Mon, 23 Mar 2026 12:44:37 -0400</pubDate>
-    </item>
-    <item>
-      <title>Carbon Based Lifeforms - Accede (3 plays)</title>
-      <link>https://www.last.fm/music/Carbon+Based+Lifeforms/_/Accede</link>
-      <guid isPermaLink="false">TalonsOfFire-1774287209--8229a8f1-b315-4fae-af57-b3eb71efdaf4---Accede</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d64932ed55ed55024e2a46fde1b13dc.jpg" length="22532" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 13:33:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 18:40:04 +0000</lastBuildDate>
     <item>
       <title>Ulver - Today (5 plays)</title>
       <link>https://www.last.fm/music/Ulver/_/Today</link>
@@ -165,7 +151,7 @@
     <item>
       <title>Coldplay - Rainy Day (3 plays)</title>
       <link>https://www.last.fm/music/Coldplay/_/Rainy+Day</link>
-      <guid isPermaLink="false">TalonsOfFire-1774298137--cc197bad-dc9c-440d-a5b5-d52ba2e14234---Rainy Day</guid>
+      <guid isPermaLink="false">TalonsOfFire-1774298137--Coldplay---Rainy Day</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7d77fbb254d546adb59777bd025e4648.png" length="217152" type="image/png"/>
       <pubDate>Mon, 23 Mar 2026 16:35:37 -0400</pubDate>
     </item>
@@ -243,6 +229,7 @@
       <title>Alaskan Tapes - Notes (5 plays)</title>
       <link>https://www.last.fm/music/Alaskan+Tapes/_/Notes</link>
       <guid isPermaLink="false">TalonsOfFire-1774361140--57a4c9ab-d7a6-458c-8aec-e7b968abd30a---Notes</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b55b53f2f20d7b888cffb358d4a17e8c.jpg" length="9589" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 10:05:40 -0400</pubDate>
     </item>
     <item>
@@ -256,6 +243,7 @@
       <title>Roger Eno - The Turning Year (2 plays)</title>
       <link>https://www.last.fm/music/Roger+Eno/_/The+Turning+Year</link>
       <guid isPermaLink="false">TalonsOfFire-1774361388--Roger Eno---The Turning Year</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e1baa1e830d6fa3a076adbb0b4f13b2.jpg" length="23305" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 10:09:48 -0400</pubDate>
     </item>
     <item>
@@ -269,6 +257,7 @@
       <title>Abel Korzeniowski - Table For Two (3 plays)</title>
       <link>https://www.last.fm/music/Abel+Korzeniowski/_/Table+For+Two</link>
       <guid isPermaLink="false">TalonsOfFire-1774361879--9c258098-28e4-4dfb-92b7-44ce7d37c167---Table For Two</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e28643e1ce6fbc32ccf12140c138382c.jpg" length="20963" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 10:17:59 -0400</pubDate>
     </item>
     <item>
@@ -351,8 +340,20 @@
       <title>Sufjan Stevens - Futile Devices - Live (4 plays)</title>
       <link>https://www.last.fm/music/Sufjan+Stevens/_/Futile+Devices+-+Live</link>
       <guid isPermaLink="false">TalonsOfFire-1774368523--01d3c51b-9b98-418a-8d8e-37f6fab59d8c---Futile Devices - Live</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7cf5a5c071f13f4524dcbc4bbe7e9e1e.jpg" length="26702" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 12:08:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Grouper - Alien Observer (5 plays)</title>
+      <link>https://www.last.fm/music/Grouper/_/Alien+Observer</link>
+      <guid isPermaLink="false">TalonsOfFire-1774368845--7e571e09-887e-4544-b993-eb75e7837ec1---Alien Observer</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/852866f5d298bfb1032cea6e9b8704f9.jpg" length="17925" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 12:14:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Prestige - The Prestige (2 plays)</title>
+      <link>https://www.last.fm/music/The+Prestige/_/The+Prestige</link>
+      <guid isPermaLink="false">TalonsOfFire-1774376008--e39a2602-8721-4594-91a5-3b509c9b1b06---The Prestige</guid>
+      <pubDate>Tue, 24 Mar 2026 14:13:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
