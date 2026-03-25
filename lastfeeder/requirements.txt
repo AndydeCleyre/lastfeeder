@@ -1,4 +1,4 @@
-anyio==4.12.1
+anyio==4.13.0
     # via httpx
 babel==2.18.0
     # via delorean
