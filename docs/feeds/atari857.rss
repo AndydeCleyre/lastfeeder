@@ -7,23 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 16:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 21:22:52 +0000</lastBuildDate>
     <item>
-      <title>The Front Bottoms - Father (3 plays)</title>
-      <link>https://www.last.fm/music/The+Front+Bottoms/_/Father</link>
-      <guid isPermaLink="false">atari857-1774301361--622b6000-ff0d-4ab3-9e98-c4916f3692c3---Father</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/74766785cf06e4fbcd14fdd8f56f2e6a.jpg" length="29187" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 17:29:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Front Bottoms - Backflip (5 plays)</title>
-      <link>https://www.last.fm/music/The+Front+Bottoms/_/Backflip</link>
-      <guid isPermaLink="false">atari857-1774301393--622b6000-ff0d-4ab3-9e98-c4916f3692c3---Backflip</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35462860530d9b0b3dfabe37c3bb4ec6.jpg" length="11805" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 17:29:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Front Bottoms - Backflip (5 plays)</title>
+      <title>The Front Bottoms - Backflip</title>
       <link>https://www.last.fm/music/The+Front+Bottoms/_/Backflip</link>
       <guid isPermaLink="false">atari857-1774301618--622b6000-ff0d-4ab3-9e98-c4916f3692c3---Backflip</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/35462860530d9b0b3dfabe37c3bb4ec6.jpg" length="11805" type="image/jpeg"/>
@@ -75,6 +61,7 @@
       <title>Phoebe Bridgers - That Funny Feeling (8 plays)</title>
       <link>https://www.last.fm/music/Phoebe+Bridgers/_/That+Funny+Feeling</link>
       <guid isPermaLink="false">atari857-1774314595--96855c21-b832-4366-ba12-0d2330c36a86---That Funny Feeling</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/68c3d96e1631315cc5dbea1ebcaa7b03.jpg" length="4890" type="image/jpeg"/>
       <pubDate>Mon, 23 Mar 2026 21:09:55 -0400</pubDate>
     </item>
     <item>
@@ -120,9 +107,10 @@
       <pubDate>Mon, 23 Mar 2026 23:49:32 -0400</pubDate>
     </item>
     <item>
-      <title>The Maine - Palms</title>
+      <title>The Maine - Palms (1 play)</title>
       <link>https://www.last.fm/music/The+Maine/_/Palms</link>
       <guid isPermaLink="false">atari857-1774361429--The Maine---Palms</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a11bb960108cf6918c8d8b5bf1f2735.jpg" length="32349" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 10:10:29 -0400</pubDate>
     </item>
     <item>
@@ -353,6 +341,20 @@
       <link>https://www.last.fm/music/Aubrie+Sellers/_/Subatomic</link>
       <guid isPermaLink="false">atari857-1774369358--7accd202-fd80-440d-aadd-2288e123a4f4---Subatomic</guid>
       <pubDate>Tue, 24 Mar 2026 12:22:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Vance Joy - Riptide (1 play)</title>
+      <link>https://www.last.fm/music/Vance+Joy/_/Riptide</link>
+      <guid isPermaLink="false">atari857-1774469681--df36f6db-5987-46ed-9d02-0cf36ed4e060---Riptide</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b49bb494732b87cbbfa2fd89394f155.jpg" length="14511" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 16:14:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ruth B. - Dandelions (1 play)</title>
+      <link>https://www.last.fm/music/Ruth+B./_/Dandelions</link>
+      <guid isPermaLink="false">atari857-1774471519--Ruth B.---Dandelions</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b17a9abfea511e21d39252f35f80e58e.jpg" length="18988" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 16:45:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
