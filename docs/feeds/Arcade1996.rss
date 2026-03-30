@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 03:43:34 +0000</lastBuildDate>
-    <item>
-      <title>Django Reinhardt - Minor Swing (1 play)</title>
-      <link>https://www.last.fm/music/Django+Reinhardt/_/Minor+Swing</link>
-      <guid isPermaLink="false">Arcade1996-1774518493--96f23107-8200-4618-88c1-501f1692d492---Minor Swing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/66844ac39f7406a67552f8413cd2b38b.png" length="153850" type="image/png"/>
-      <pubDate>Thu, 26 Mar 2026 05:48:13 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 10:45:08 +0000</lastBuildDate>
     <item>
       <title>Casiopea - ドミノ・ライン - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982 (1 play)</title>
       <link>https://www.last.fm/music/Casiopea/_/%E3%83%89%E3%83%9F%E3%83%8E%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982</link>
@@ -26,6 +19,7 @@
       <title>Maruja - The Tinker (1 play)</title>
       <link>https://www.last.fm/music/Maruja/_/The+Tinker</link>
       <guid isPermaLink="false">Arcade1996-1774519135--91af52ad-77b0-488e-b648-bf65ac695539---The Tinker</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a489e9c79871c6b51794c904d0d28fab.jpg" length="17995" type="image/jpeg"/>
       <pubDate>Thu, 26 Mar 2026 05:58:55 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1774830850--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Bruce Lee</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f0fda7473dae9bf008d50cd5dba17e5.jpg" length="6565" type="image/jpeg"/>
       <pubDate>Sun, 29 Mar 2026 20:34:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Kittens (1 play)</title>
+      <link>https://www.last.fm/music/Underworld/_/Kittens</link>
+      <guid isPermaLink="false">Arcade1996-1774831132--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Kittens</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7f0fda7473dae9bf008d50cd5dba17e5.jpg" length="6565" type="image/jpeg"/>
+      <pubDate>Sun, 29 Mar 2026 20:38:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
