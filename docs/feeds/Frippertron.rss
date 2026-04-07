@@ -7,20 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 18:09:35 +0000</lastBuildDate>
-    <item>
-      <title>Electric Light Orchestra - Last Train to London (12 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Last+Train+to+London</link>
-      <guid isPermaLink="false">Frippertron-1775551913--0c502791-4ee9-4c5f-9696-0602b721ff3b---Last Train to London</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/261d01d43f0276db9ff076a73fada7b5.jpg" length="20930" type="image/jpeg"/>
-      <pubDate>Tue, 07 Apr 2026 04:51:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>Golden Earring - Kill Me (Ce Soir) (42 plays)</title>
-      <link>https://www.last.fm/music/Golden+Earring/_/Kill+Me+(Ce+Soir)</link>
-      <guid isPermaLink="false">Frippertron-1775552201--75336c3d-2833-46cb-8037-b835cd7d646d---Kill Me (Ce Soir)</guid>
-      <pubDate>Tue, 07 Apr 2026 04:56:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Apr 2026 19:32:22 +0000</lastBuildDate>
     <item>
       <title>Golden Earring - The Switch (37 plays)</title>
       <link>https://www.last.fm/music/Golden+Earring/_/The+Switch</link>
@@ -251,6 +238,7 @@
       <title>Duster - Sad Boys (2 plays)</title>
       <link>https://www.last.fm/music/Duster/_/Sad+Boys</link>
       <guid isPermaLink="false">Frippertron-1775580767--Duster---Sad Boys</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a83f29336553f6a5b76d409ecdf49bcd.png" length="110976" type="image/png"/>
       <pubDate>Tue, 07 Apr 2026 12:52:47 -0400</pubDate>
     </item>
     <item>
@@ -347,6 +335,20 @@
       <link>https://www.last.fm/music/Isaac+Hayes/_/A+Few+More+Kisses+To+Go</link>
       <guid isPermaLink="false">Frippertron-1775585140--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---A Few More Kisses To Go</guid>
       <pubDate>Tue, 07 Apr 2026 14:05:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Isaac Hayes - Windows of the World (2 plays)</title>
+      <link>https://www.last.fm/music/Isaac+Hayes/_/Windows+of+the+World</link>
+      <guid isPermaLink="false">Frippertron-1775585527--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---Windows of the World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9f7daa6a9e85c69d5fe8148cc90e8c57.jpg" length="24240" type="image/jpeg"/>
+      <pubDate>Tue, 07 Apr 2026 14:12:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Isaac Hayes - (They Long to Be) Close to You (43 plays)</title>
+      <link>https://www.last.fm/music/Isaac+Hayes/_/(They+Long+to+Be)+Close+to+You</link>
+      <guid isPermaLink="false">Frippertron-1775585995--a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21---(They Long to Be) Close to You</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/bb9dd2d55dd1a1a34970c7b25c5f0a83.png" length="150722" type="image/png"/>
+      <pubDate>Tue, 07 Apr 2026 14:19:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
