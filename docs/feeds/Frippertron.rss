@@ -7,26 +7,12 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 17:37:44 +0000</lastBuildDate>
-    <item>
-      <title>Electric Light Orchestra - Nightrider (68 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Nightrider</link>
-      <guid isPermaLink="false">Frippertron-1775725780--0c502791-4ee9-4c5f-9696-0602b721ff3b---Nightrider</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/316e3c6a2cc34f9eaafa5299b4a670d1.jpg" length="20761" type="image/jpeg"/>
-      <pubDate>Thu, 09 Apr 2026 05:09:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Electric Light Orchestra - Hold on Tight (28 plays)</title>
-      <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Hold+on+Tight</link>
-      <guid isPermaLink="false">Frippertron-1775726047--0c502791-4ee9-4c5f-9696-0602b721ff3b---Hold on Tight</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c782180262d1e5ae96041bdb8bb197d5.png" length="45926" type="image/png"/>
-      <pubDate>Thu, 09 Apr 2026 05:14:07 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 18:38:50 +0000</lastBuildDate>
     <item>
       <title>Electric Light Orchestra - Shangri-La (89 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Shangri-La</link>
       <guid isPermaLink="false">Frippertron-1775726193--0c502791-4ee9-4c5f-9696-0602b721ff3b---Shangri-La</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Thu, 09 Apr 2026 05:16:33 -0400</pubDate>
     </item>
     <item>
@@ -54,7 +40,6 @@
       <title>Electric Light Orchestra - Livin' Thing (67 plays)</title>
       <link>https://www.last.fm/music/Electric+Light+Orchestra/_/Livin%27+Thing</link>
       <guid isPermaLink="false">Frippertron-1775727100--0c502791-4ee9-4c5f-9696-0602b721ff3b---Livin' Thing</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2386fdf494447122562c7d35b143720f.png" length="178366" type="image/png"/>
       <pubDate>Thu, 09 Apr 2026 05:31:40 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +339,20 @@
       <guid isPermaLink="false">Frippertron-1775756135--48e78462-2f0b-4a1a-9fa4-0585e2991e80---Everything Is Beautiful</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86376ce0562f8d5ff20ead4d0a2e010d.jpg" length="14691" type="image/jpeg"/>
       <pubDate>Thu, 09 Apr 2026 13:35:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bobby Womack - That's The Way I Feel About Cha (1 play)</title>
+      <link>https://www.last.fm/music/Bobby+Womack/_/That%27s+The+Way+I+Feel+About+Cha</link>
+      <guid isPermaLink="false">Frippertron-1775756312--48e78462-2f0b-4a1a-9fa4-0585e2991e80---That's The Way I Feel About Cha</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86376ce0562f8d5ff20ead4d0a2e010d.jpg" length="14691" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 13:38:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bobby Womack - Yield Not To Temptation (1 play)</title>
+      <link>https://www.last.fm/music/Bobby+Womack/_/Yield+Not+To+Temptation</link>
+      <guid isPermaLink="false">Frippertron-1775756505--48e78462-2f0b-4a1a-9fa4-0585e2991e80---Yield Not To Temptation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/86376ce0562f8d5ff20ead4d0a2e010d.jpg" length="14691" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 13:41:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
