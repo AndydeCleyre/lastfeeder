@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 21:40:29 +0000</lastBuildDate>
-    <item>
-      <title>VHS Dreams - Nightdrive (7 plays)</title>
-      <link>https://www.last.fm/music/VHS+Dreams/_/Nightdrive</link>
-      <guid isPermaLink="false">ddgromit-1776193353--686da4e0-eef9-48e5-bb9d-2c26d7378aa4---Nightdrive</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2d70f0983a586991a2a781e87e48662.jpg" length="9934" type="image/jpeg"/>
-      <pubDate>Tue, 14 Apr 2026 15:02:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 22:16:23 +0000</lastBuildDate>
     <item>
       <title>Adieu Aru - Release (1 play)</title>
       <link>https://www.last.fm/music/Adieu+Aru/_/Release</link>
@@ -40,6 +33,7 @@
       <title>Syst3m Glitch - Maniac (1 play)</title>
       <link>https://www.last.fm/music/Syst3m+Glitch/_/Maniac</link>
       <guid isPermaLink="false">ddgromit-1776194262--Syst3m Glitch---Maniac</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4f2caf2e650f5c840dea269dcd4c4088.jpg" length="12077" type="image/jpeg"/>
       <pubDate>Tue, 14 Apr 2026 15:17:42 -0400</pubDate>
     </item>
     <item>
@@ -347,7 +341,6 @@
       <title>Home - Oort Cloud (1 play)</title>
       <link>https://www.last.fm/music/Home/_/Oort+Cloud</link>
       <guid isPermaLink="false">ddgromit-1776626715--d7604213-38a4-4372-b682-16f9b831d3a8---Oort Cloud</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/41e1ed74a64f41c7c14a94439b422a04.jpg" length="24099" type="image/jpeg"/>
       <pubDate>Sun, 19 Apr 2026 15:25:15 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">ddgromit-1776634528--02e5ab4c-7391-4614-ab0f-961b155c5887---Knight &amp; Car</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Sun, 19 Apr 2026 17:35:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Slow Magic - Girls (18 plays)</title>
+      <link>https://www.last.fm/music/Slow+Magic/_/Girls</link>
+      <guid isPermaLink="false">ddgromit-1776634745--20cb03e2-acfd-439f-9db2-ce8fcc67b220---Girls</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e977835c021e4f40cf5a0366b4b01653.png" length="81620" type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 17:39:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
