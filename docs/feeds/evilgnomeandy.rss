@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 14:05:44 +0000</lastBuildDate>
-    <item>
-      <title>The Andrew Oldham Orchestra - (I Can't Get No) Satisfaction (4 plays)</title>
-      <link>https://www.last.fm/music/The+Andrew+Oldham+Orchestra/_/(I+Can%27t+Get+No)+Satisfaction</link>
-      <guid isPermaLink="false">evilgnomeandy-1775163139--d3e6c0f3-4061-4b79-8463-431eab6277d4---(I Can't Get No) Satisfaction</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d23af4506e54451c9ce7ae77094e9c28.jpg" length="38437" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 16:52:19 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 14:59:02 +0000</lastBuildDate>
     <item>
       <title>Chet Atkins - Mister Sandman (4 plays)</title>
       <link>https://www.last.fm/music/Chet+Atkins/_/Mister+Sandman</link>
@@ -61,6 +54,7 @@
       <title>Dismiss - The Man Who Sold The World (23 plays)</title>
       <link>https://www.last.fm/music/Dismiss/_/The+Man+Who+Sold+The+World</link>
       <guid isPermaLink="false">evilgnomeandy-1775164556--174763c0-4c3d-42b4-acf5-057449385b23---The Man Who Sold The World</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/97897f7afedcd5c2f273706a9738961a.png" length="152569" type="image/png"/>
       <pubDate>Thu, 02 Apr 2026 17:15:56 -0400</pubDate>
     </item>
     <item>
@@ -101,18 +95,21 @@
       <title>Nobunny - Ain't It a Shame (9 plays)</title>
       <link>https://www.last.fm/music/Nobunny/_/Ain%27t+It+a+Shame</link>
       <guid isPermaLink="false">evilgnomeandy-1775402937--f22a6369-8942-471b-8b9f-522dec4479e0---Ain't It a Shame</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1e6ff334053843299529086fe49570fd.jpg" length="32018" type="image/jpeg"/>
       <pubDate>Sun, 05 Apr 2026 11:28:57 -0400</pubDate>
     </item>
     <item>
       <title>Skatune Network - Langtree's Lament (3 plays)</title>
       <link>https://www.last.fm/music/Skatune+Network/_/Langtree%27s+Lament</link>
       <guid isPermaLink="false">evilgnomeandy-1775403057--473d7195-7eb6-4e99-b4f7-d21a2e86460a---Langtree's Lament</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/07aff5d0f863e787833bd1e5d79044d9.jpg" length="26829" type="image/jpeg"/>
       <pubDate>Sun, 05 Apr 2026 11:30:57 -0400</pubDate>
     </item>
     <item>
       <title>Flamin' Groovies - Headin' for the Texas Border (54 plays)</title>
       <link>https://www.last.fm/music/Flamin%27+Groovies/_/Headin%27+for+the+Texas+Border</link>
       <guid isPermaLink="false">evilgnomeandy-1775420714--c826bda4-4f4f-4746-81ba-5f66ac9c95e5---Headin' for the Texas Border</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fed320feddad397be1dcb785a6a35401.jpg" length="27649" type="image/jpeg"/>
       <pubDate>Sun, 05 Apr 2026 16:25:14 -0400</pubDate>
     </item>
     <item>
@@ -182,6 +179,7 @@
       <title>Snooks Eaglin - Saint James Infirmary (9 plays)</title>
       <link>https://www.last.fm/music/Snooks+Eaglin/_/Saint+James+Infirmary</link>
       <guid isPermaLink="false">evilgnomeandy-1775687439--8d722779-d25a-493c-a324-c21fb9024e1b---Saint James Infirmary</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/28268dbc105ff7269b1b0529467d74cc.jpg" length="24875" type="image/jpeg"/>
       <pubDate>Wed, 08 Apr 2026 18:30:39 -0400</pubDate>
     </item>
     <item>
@@ -222,12 +220,14 @@
       <title>Heart - Stairway To Heaven (5 plays)</title>
       <link>https://www.last.fm/music/Heart/_/Stairway+To+Heaven</link>
       <guid isPermaLink="false">evilgnomeandy-1776002865--Heart---Stairway To Heaven</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/12df9245ba00512e733a878631ca77fd.jpg" length="27235" type="image/jpeg"/>
       <pubDate>Sun, 12 Apr 2026 10:07:45 -0400</pubDate>
     </item>
     <item>
       <title>Louis Armstrong - Gone Fishin' (22 plays)</title>
       <link>https://www.last.fm/music/Louis+Armstrong/_/Gone+Fishin%27</link>
       <guid isPermaLink="false">evilgnomeandy-1776448269--eea8a864-fcda-4602-9569-38ab446decd6---Gone Fishin'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/81efc7e0e0b446be8d0e36da2280ae98.jpg" length="17300" type="image/jpeg"/>
       <pubDate>Fri, 17 Apr 2026 13:51:09 -0400</pubDate>
     </item>
     <item>
@@ -294,13 +294,14 @@
       <pubDate>Fri, 17 Apr 2026 19:35:25 -0400</pubDate>
     </item>
     <item>
-      <title>Jungle Fire - SNAKE PIT (STOVE MIX) (1 play)</title>
+      <title>Jungle Fire - SNAKE PIT (STOVE MIX)</title>
       <link>https://www.last.fm/music/Jungle+Fire/_/SNAKE+PIT+(STOVE+MIX)</link>
       <guid isPermaLink="false">evilgnomeandy-1776469088--6052b119-dd4e-490f-9339-b22ee9c5a578---SNAKE PIT (STOVE MIX)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d1239e3919f20be5b5f02d9be66a199a.jpg" length="26719" type="image/jpeg"/>
       <pubDate>Fri, 17 Apr 2026 19:38:08 -0400</pubDate>
     </item>
     <item>
-      <title>Booker T. Jones - Crazy (11 plays)</title>
+      <title>Booker T. Jones - Crazy</title>
       <link>https://www.last.fm/music/Booker+T.+Jones/_/Crazy</link>
       <guid isPermaLink="false">evilgnomeandy-1776469334--b0ee191c-7b75-445e-8416-b8f9918d3b6b---Crazy</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ebbc6bd6f6b48e9c8f607728cd51ae1.png" length="184373" type="image/png"/>
@@ -347,6 +348,13 @@
       <guid isPermaLink="false">evilgnomeandy-1776607187--66c662b6-6e2f-4930-8610-912e24c63ed1---Back in Black</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/3d359b955132742bc2fc3eacdff90b8c.jpg" length="5416" type="image/jpeg"/>
       <pubDate>Sun, 19 Apr 2026 09:59:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Devendra Banhart - Lover (2 plays)</title>
+      <link>https://www.last.fm/music/Devendra+Banhart/_/Lover</link>
+      <guid isPermaLink="false">evilgnomeandy-1776607592--0110e63e-0a9b-4818-af8e-41e180c20b9a---Lover</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/0fbc55f794264e67994aad2d4332a19a.png" length="177413" type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 10:06:32 -0400</pubDate>
     </item>
   </channel>
 </rss>
