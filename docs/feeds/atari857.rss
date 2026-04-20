@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 22:57:27 +0000</lastBuildDate>
-    <item>
-      <title>The xx - Heart Skipped a Beat (2 plays)</title>
-      <link>https://www.last.fm/music/The+xx/_/Heart+Skipped+a+Beat</link>
-      <guid isPermaLink="false">atari857-1776377008--c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6---Heart Skipped a Beat</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/696d1b64cd9d44bf85aad10df414e959.png" length="6107" type="image/png"/>
-      <pubDate>Thu, 16 Apr 2026 18:03:28 -0400</pubDate>
-    </item>
-    <item>
-      <title>The xx - Shelter (2 plays)</title>
-      <link>https://www.last.fm/music/The+xx/_/Shelter</link>
-      <guid isPermaLink="false">atari857-1776377035--c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6---Shelter</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/696d1b64cd9d44bf85aad10df414e959.png" length="6107" type="image/png"/>
-      <pubDate>Thu, 16 Apr 2026 18:03:55 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Apr 2026 22:51:34 +0000</lastBuildDate>
     <item>
       <title>The xx - Crystalised (3 plays)</title>
       <link>https://www.last.fm/music/The+xx/_/Crystalised</link>
@@ -75,12 +61,14 @@
       <title>Piebald - Still On The Couch (6 plays)</title>
       <link>https://www.last.fm/music/Piebald/_/Still+On+The+Couch</link>
       <guid isPermaLink="false">atari857-1776392505--403bc4cd-602c-4b59-8379-05cb24f66aa6---Still On The Couch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab2acd5b62d8dba6c5720b0d2b86289a.jpg" length="28512" type="image/jpeg"/>
       <pubDate>Thu, 16 Apr 2026 22:21:45 -0400</pubDate>
     </item>
     <item>
       <title>Piebald - Still On The Couch (6 plays)</title>
       <link>https://www.last.fm/music/Piebald/_/Still+On+The+Couch</link>
       <guid isPermaLink="false">atari857-1776392612--403bc4cd-602c-4b59-8379-05cb24f66aa6---Still On The Couch</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab2acd5b62d8dba6c5720b0d2b86289a.jpg" length="28512" type="image/jpeg"/>
       <pubDate>Thu, 16 Apr 2026 22:23:32 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">atari857-1776550980--622b6000-ff0d-4ab3-9e98-c4916f3692c3---everyone blooms</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d20f0f99e1fe5fb370fe3178853b7ae2.jpg" length="15344" type="image/jpeg"/>
       <pubDate>Sat, 18 Apr 2026 18:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Angel Olsen - Shut Up Kiss Me (5 plays)</title>
+      <link>https://www.last.fm/music/Angel+Olsen/_/Shut+Up+Kiss+Me</link>
+      <guid isPermaLink="false">atari857-1776724477--185527bf-c293-4c24-8213-ed98fb8976be---Shut Up Kiss Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/534f10077f07b253b5eec4b3dcb7a44d.png" length="167665" type="image/png"/>
+      <pubDate>Mon, 20 Apr 2026 18:34:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Relient K - Over Thinking (1 play)</title>
+      <link>https://www.last.fm/music/Relient+K/_/Over+Thinking</link>
+      <guid isPermaLink="false">atari857-1776724485--a49b5d41-7399-49ef-bcb8-a5779a30d2e9---Over Thinking</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ce050e4de8b462fbdccf7fdb220aa0f.jpg" length="33499" type="image/jpeg"/>
+      <pubDate>Mon, 20 Apr 2026 18:34:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
