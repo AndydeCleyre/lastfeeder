@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 22:50:54 +0000</lastBuildDate>
-    <item>
-      <title>Home - Falling Into Place (1 play)</title>
-      <link>https://www.last.fm/music/Home/_/Falling+Into+Place</link>
-      <guid isPermaLink="false">ddgromit-1776285509--d7604213-38a4-4372-b682-16f9b831d3a8---Falling Into Place</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27cbde7d1381c5d6caae5c601d50d215.jpg" length="24661" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 16:38:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Home - Burning (1 play)</title>
-      <link>https://www.last.fm/music/Home/_/Burning</link>
-      <guid isPermaLink="false">ddgromit-1776285736--d7604213-38a4-4372-b682-16f9b831d3a8---Burning</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/27cbde7d1381c5d6caae5c601d50d215.jpg" length="24661" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 16:42:16 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 03:21:02 +0000</lastBuildDate>
     <item>
       <title>Home - Nights (I Wish I Could Be There) (1 play)</title>
       <link>https://www.last.fm/music/Home/_/Nights+(I+Wish+I+Could+Be+There)</link>
@@ -37,7 +23,7 @@
       <pubDate>Wed, 15 Apr 2026 16:48:29 -0400</pubDate>
     </item>
     <item>
-      <title>Home - Atlas</title>
+      <title>Home - Atlas (1 play)</title>
       <link>https://www.last.fm/music/Home/_/Atlas</link>
       <guid isPermaLink="false">ddgromit-1776286324--d7604213-38a4-4372-b682-16f9b831d3a8---Atlas</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4ee7711d13712d04292a452644947a44.jpg" length="21403" type="image/jpeg"/>
@@ -292,7 +278,7 @@
       <title>Delegation - It Only Happens (1 play)</title>
       <link>https://www.last.fm/music/Delegation/_/It+Only+Happens</link>
       <guid isPermaLink="false">ddgromit-1776666890--0a4c7d0c-ffca-45a0-bfac-b328c4f0d219---It Only Happens</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557f16b0c21a91d38aca4796b51f2ff0.jpg" length="26374" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557f16b0c21a91d38aca4796b51f2ff0.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Mon, 20 Apr 2026 02:34:50 -0400</pubDate>
     </item>
     <item>
@@ -306,7 +292,6 @@
       <title>Delegation - Where Is the Love - We Used to Know (1 play)</title>
       <link>https://www.last.fm/music/Delegation/_/Where+Is+the+Love+-+We+Used+to+Know</link>
       <guid isPermaLink="false">ddgromit-1776667374--Delegation---Where Is the Love - We Used to Know</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/557f16b0c21a91d38aca4796b51f2ff0.jpg" length="26374" type="image/jpeg"/>
       <pubDate>Mon, 20 Apr 2026 02:42:54 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">ddgromit-1776725121--Tourist---Bunny</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72af53b882a1c271473554f813f24522.jpg" length="3538" type="image/jpeg"/>
       <pubDate>Mon, 20 Apr 2026 18:45:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Com Truise - Propagation (18 plays)</title>
+      <link>https://www.last.fm/music/Com+Truise/_/Propagation</link>
+      <guid isPermaLink="false">ddgromit-1776725336--51f1ca49-846a-4ef1-b4fa-187ecc88bbe5---Propagation</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c0a35f098e6d50dfb5a6e5dd9a264c1c.png" length="11258" type="image/png"/>
+      <pubDate>Mon, 20 Apr 2026 18:48:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Kiboomers - It's Raining, It's Pouring (1 play)</title>
+      <link>https://www.last.fm/music/The+Kiboomers/_/It%27s+Raining,+It%27s+Pouring</link>
+      <guid isPermaLink="false">ddgromit-1776730569--69cc6bce-286e-4511-9977-25cd06a2853e---It's Raining, It's Pouring</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Mon, 20 Apr 2026 20:16:09 -0400</pubDate>
     </item>
   </channel>
 </rss>
