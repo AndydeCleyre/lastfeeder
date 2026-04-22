@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/ddgromit.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 04:19:29 +0000</lastBuildDate>
-    <item>
-      <title>Bullion - Yawn (2 plays)</title>
-      <link>https://www.last.fm/music/Bullion/_/Yawn</link>
-      <guid isPermaLink="false">ddgromit-1776724680--9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08---Yawn</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c9d60938951b83c249f593a22383e714.png" length="56382" type="image/png"/>
-      <pubDate>Mon, 20 Apr 2026 18:38:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 06:19:19 +0000</lastBuildDate>
     <item>
       <title>Everyday Astronaut - Cryogenic (2 plays)</title>
       <link>https://www.last.fm/music/Everyday+Astronaut/_/Cryogenic</link>
@@ -23,7 +16,7 @@
       <pubDate>Mon, 20 Apr 2026 18:41:46 -0400</pubDate>
     </item>
     <item>
-      <title>Tourist - Bunny (14 plays)</title>
+      <title>Tourist - Bunny (15 plays)</title>
       <link>https://www.last.fm/music/Tourist/_/Bunny</link>
       <guid isPermaLink="false">ddgromit-1776725121--Tourist---Bunny</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72af53b882a1c271473554f813f24522.jpg" length="3538" type="image/jpeg"/>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">ddgromit-1776830670--a1c6882c-495f-4da2-8068-8cd148532afb---Cryogenic</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Wed, 22 Apr 2026 00:04:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tourist - Bunny (15 plays)</title>
+      <link>https://www.last.fm/music/Tourist/_/Bunny</link>
+      <guid isPermaLink="false">ddgromit-1776830885--Tourist---Bunny</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72af53b882a1c271473554f813f24522.jpg" length="3538" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 00:08:05 -0400</pubDate>
     </item>
   </channel>
 </rss>
