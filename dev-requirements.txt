@@ -1,10 +1,10 @@
 black==26.3.1
     # via -r dev-requirements.in
-certifi==2026.2.25
+certifi==2026.4.22
     # via requests
 charset-normalizer==3.4.7
     # via requests
-click==8.3.2
+click==8.3.3
     # via black
 docutils==0.22.4
     # via flit
@@ -12,7 +12,7 @@ flit==3.12.0
     # via -r dev-requirements.in
 flit-core==3.12.0
     # via flit
-idna==3.12
+idna==3.13
     # via requests
 isort==8.0.1
     # via -r dev-requirements.in
@@ -20,7 +20,7 @@ mypy-extensions==1.1.0
     # via black
 packaging==26.1
     # via black
-pathspec==1.0.4
+pathspec==1.1.0
     # via black
 platformdirs==4.9.6
     # via black

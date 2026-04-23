@@ -2,7 +2,7 @@ anyio==4.13.0
     # via httpx
 babel==2.18.0
     # via delorean
-certifi==2026.2.25
+certifi==2026.4.22
     # via
     #   httpcore
     #   httpx
@@ -18,7 +18,7 @@ httpx==0.28.1
     # via -r requirements.in
 humanize==4.15.0
     # via delorean
-idna==3.12
+idna==3.13
     # via
     #   anyio
     #   httpx
