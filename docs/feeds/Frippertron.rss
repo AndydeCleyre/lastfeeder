@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 11:41:41 +0000</lastBuildDate>
-    <item>
-      <title>David Allan Coe - Monkey David Wine (1 play)</title>
-      <link>https://www.last.fm/music/David+Allan+Coe/_/Monkey+David+Wine</link>
-      <guid isPermaLink="false">Frippertron-1777530838--d6ad0ad1-2a7c-4d5f-8776-331a3732360c---Monkey David Wine</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8394adab046ab5ad05c1a8a7fd80266.jpg" length="14395" type="image/jpeg"/>
-      <pubDate>Thu, 30 Apr 2026 02:33:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>David Allan Coe - Walkin' Bum (1 play)</title>
-      <link>https://www.last.fm/music/David+Allan+Coe/_/Walkin%27+Bum</link>
-      <guid isPermaLink="false">Frippertron-1777531017--d6ad0ad1-2a7c-4d5f-8776-331a3732360c---Walkin' Bum</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8394adab046ab5ad05c1a8a7fd80266.jpg" length="14395" type="image/jpeg"/>
-      <pubDate>Thu, 30 Apr 2026 02:36:57 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 13:11:59 +0000</lastBuildDate>
     <item>
       <title>David Allan Coe - One Way Ticket to Nowhere (1 play)</title>
       <link>https://www.last.fm/music/David+Allan+Coe/_/One+Way+Ticket+to+Nowhere</link>
@@ -72,9 +58,10 @@
       <pubDate>Thu, 30 Apr 2026 02:56:10 -0400</pubDate>
     </item>
     <item>
-      <title>Bun B - Get Throwed (90 plays)</title>
+      <title>Bun B - Get Throwed (91 plays)</title>
       <link>https://www.last.fm/music/Bun+B/_/Get+Throwed</link>
       <guid isPermaLink="false">Frippertron-1777532295--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Get Throwed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Thu, 30 Apr 2026 02:58:15 -0400</pubDate>
     </item>
     <item>
@@ -339,6 +326,19 @@
       <link>https://www.last.fm/music/Genesis/_/The+Fountain+of+Salmacis</link>
       <guid isPermaLink="false">Frippertron-1777547091--Genesis---The Fountain of Salmacis</guid>
       <pubDate>Thu, 30 Apr 2026 07:04:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bun B - Get Throwed (91 plays)</title>
+      <link>https://www.last.fm/music/Bun+B/_/Get+Throwed</link>
+      <guid isPermaLink="false">Frippertron-1777554113--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Get Throwed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Thu, 30 Apr 2026 09:01:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bun B - Pushin' (5 plays)</title>
+      <link>https://www.last.fm/music/Bun+B/_/Pushin%27</link>
+      <guid isPermaLink="false">Frippertron-1777554348--c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740---Pushin'</guid>
+      <pubDate>Thu, 30 Apr 2026 09:05:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
