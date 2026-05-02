@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/evilgnomeandy.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 16:55:26 +0000</lastBuildDate>
-    <item>
-      <title>Harlan T. Bobo - Julia (Fried Glass Onions) (1 play)</title>
-      <link>https://www.last.fm/music/Harlan+T.+Bobo/_/Julia+(Fried+Glass+Onions)</link>
-      <guid isPermaLink="false">evilgnomeandy-1776800918--2a2b09b3-9287-4021-84aa-a74470da1b67---Julia (Fried Glass Onions)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 21 Apr 2026 15:48:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Eddie Dattel - All My Loving (Fried Glass Onions) (1 play)</title>
-      <link>https://www.last.fm/music/Eddie+Dattel/_/All+My+Loving+(Fried+Glass+Onions)</link>
-      <guid isPermaLink="false">evilgnomeandy-1776801087--Eddie Dattel---All My Loving (Fried Glass Onions)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Tue, 21 Apr 2026 15:51:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 20:54:22 +0000</lastBuildDate>
     <item>
       <title>Misty White, Harlan T. Bobo - Lets Invite Them Over (1 play)</title>
       <link>https://www.last.fm/music/Misty+White,+Harlan+T.+Bobo/_/Lets+Invite+Them+Over</link>
@@ -61,7 +47,6 @@
       <title>Ugly Duckling - I Won't Let It Die (3 plays)</title>
       <link>https://www.last.fm/music/Ugly+Duckling/_/I+Won%27t+Let+It+Die</link>
       <guid isPermaLink="false">evilgnomeandy-1776879117--Ugly Duckling---I Won't Let It Die</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ebc03fd1e80947eab78473d6b55b9294.jpg" length="20884" type="image/jpeg"/>
       <pubDate>Wed, 22 Apr 2026 13:31:57 -0400</pubDate>
     </item>
     <item>
@@ -243,12 +228,14 @@
       <title>The The - Uncertain Smile (48 plays)</title>
       <link>https://www.last.fm/music/The+The/_/Uncertain+Smile</link>
       <guid isPermaLink="false">evilgnomeandy-1777730319--a7409219-a681-4072-adb2-5285106ce6f2---Uncertain Smile</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a5dcd969d851439db62f8253e5c7c775.jpg" length="4585" type="image/jpeg"/>
       <pubDate>Sat, 02 May 2026 09:58:39 -0400</pubDate>
     </item>
     <item>
       <title>Parquet Courts - These Boots Are Made For Walkin' (8 plays)</title>
       <link>https://www.last.fm/music/Parquet+Courts/_/These+Boots+Are+Made+For+Walkin%27</link>
       <guid isPermaLink="false">evilgnomeandy-1777730733--e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c---These Boots Are Made For Walkin'</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/76ac1b884a92f30cb122530fce11618b.jpg" length="26255" type="image/jpeg"/>
       <pubDate>Sat, 02 May 2026 10:05:33 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +342,19 @@
       <guid isPermaLink="false">evilgnomeandy-1777738609--535f06f0-7ea2-41a4-a967-743b25558805---I'm Straight</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ee5bc9cdfe592cc0f49d2a87d6ef6264.jpg" length="16892" type="image/jpeg"/>
       <pubDate>Sat, 02 May 2026 12:16:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Clean - Anything Could Happen (21 plays)</title>
+      <link>https://www.last.fm/music/The+Clean/_/Anything+Could+Happen</link>
+      <guid isPermaLink="false">evilgnomeandy-1777754733--d10c7c90-54b1-4855-a9f5-1099a8dd7f54---Anything Could Happen</guid>
+      <pubDate>Sat, 02 May 2026 16:45:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Jesus and Mary Chain - Sometimes Always (1 play)</title>
+      <link>https://www.last.fm/music/The+Jesus+and+Mary+Chain/_/Sometimes+Always</link>
+      <guid isPermaLink="false">evilgnomeandy-1777755135--e938a15c-b17e-4e7a-9f68-ff0d536cab44---Sometimes Always</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6832229012a1f18461012a168cad69a0.jpg" length="21207" type="image/jpeg"/>
+      <pubDate>Sat, 02 May 2026 16:52:15 -0400</pubDate>
     </item>
   </channel>
 </rss>
