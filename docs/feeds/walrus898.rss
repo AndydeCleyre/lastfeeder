@@ -7,282 +7,135 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/walrus898.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 16:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 04:56:54 +0000</lastBuildDate>
     <item>
-      <title>Cousin Tony's Brand New Firebird - Next Life Yeah (3 plays)</title>
-      <link>https://www.last.fm/music/Cousin+Tony%27s+Brand+New+Firebird/_/Next+Life+Yeah</link>
-      <guid isPermaLink="false">walrus898-1777490464--15996b0c-c15b-4e1d-b7c2-94df4c13b8dc---Next Life Yeah</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/50d542566e24af4e489de1bd71985800.jpg" length="21080" type="image/jpeg"/>
-      <pubDate>Wed, 29 Apr 2026 15:21:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>Big Sleep - Bruiser (3 plays)</title>
-      <link>https://www.last.fm/music/Big+Sleep/_/Bruiser</link>
-      <guid isPermaLink="false">walrus898-1777689299--Big Sleep---Bruiser</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea1801ead2cf7d230e7da3ce5c00056e.jpg" length="36569" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 22:34:59 -0400</pubDate>
-    </item>
-    <item>
-      <title>Szymon - Golden</title>
-      <link>https://www.last.fm/music/+noredirect/Szymon/_/Golden</link>
-      <guid isPermaLink="false">walrus898-1777689470--Szymon---Golden</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d7824857b6cf9f6461f926d08685edda.jpg" length="12063" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 22:37:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Gilligan Moss - Lee's Last Dance (3 plays)</title>
-      <link>https://www.last.fm/music/Gilligan+Moss/_/Lee%27s+Last+Dance</link>
-      <guid isPermaLink="false">walrus898-1777689970--b55d0453-f43f-4b88-94a9-7658cbffb972---Lee's Last Dance</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b77678e1d248e758adc391ada11a7051.jpg" length="18555" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 22:46:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>Hour Language - Purple Lady (4 plays)</title>
-      <link>https://www.last.fm/music/Hour+Language/_/Purple+Lady</link>
-      <guid isPermaLink="false">walrus898-1777690161--cbf6305d-a619-426d-b4fe-1f8dfc6f24ca---Purple Lady</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9c12a99d2cb6bbf8fd159ba5af78163e.png" length="104240" type="image/png"/>
-      <pubDate>Fri, 01 May 2026 22:49:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lutalo - Ocean Swallows Him Whole (4 plays)</title>
-      <link>https://www.last.fm/music/Lutalo/_/Ocean+Swallows+Him+Whole</link>
-      <guid isPermaLink="false">walrus898-1777690385--9f749ff2-72ee-454c-9076-6e2525e54159---Ocean Swallows Him Whole</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/63f45e05d5f1be592bfe51f60f30e887.jpg" length="15901" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 22:53:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>dyan - Days Upon Days (5 plays)</title>
-      <link>https://www.last.fm/music/dyan/_/Days+Upon+Days</link>
-      <guid isPermaLink="false">walrus898-1777690589--a02fc8df-79fe-4e48-a873-8a553d69937a---Days Upon Days</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1fd1c099903846f6ec81b397cfc0bccc.jpg" length="11448" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 22:56:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Calvin Love - Sugar Hives (4 plays)</title>
-      <link>https://www.last.fm/music/Calvin+Love/_/Sugar+Hives</link>
-      <guid isPermaLink="false">walrus898-1777690798--8df5d398-6812-4590-ad7b-97074fd58d61---Sugar Hives</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b0453537cd24b772daf6ee21abbcf52.jpg" length="11268" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 22:59:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Junip - Always (4 plays)</title>
-      <link>https://www.last.fm/music/Junip/_/Always</link>
-      <guid isPermaLink="false">walrus898-1777691117--fb2df245-81b0-4a2b-9d01-e0955ba68be7---Always</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/52831be4056c4120b9edd47521322a94.png" length="190809" type="image/png"/>
-      <pubDate>Fri, 01 May 2026 23:05:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cool Heat - Not the Same (4 plays)</title>
-      <link>https://www.last.fm/music/Cool+Heat/_/Not+the+Same</link>
-      <guid isPermaLink="false">walrus898-1777691337--Cool Heat---Not the Same</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5400f763e78097382111df6d9d319797.png" length="189143" type="image/png"/>
-      <pubDate>Fri, 01 May 2026 23:08:57 -0400</pubDate>
-    </item>
-    <item>
-      <title>Royel Otis - Without U (3 plays)</title>
-      <link>https://www.last.fm/music/Royel+Otis/_/Without+U</link>
-      <guid isPermaLink="false">walrus898-1777691549--2244c1f9-773f-4541-a4fe-ee6dc4f2ce60---Without U</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/49380a07dd59ccb9fae1aa83272485ce.jpg" length="24522" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 23:12:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>Bleach Lab - I Could Be Your Safe Place (5 plays)</title>
-      <link>https://www.last.fm/music/Bleach+Lab/_/I+Could+Be+Your+Safe+Place</link>
-      <guid isPermaLink="false">walrus898-1777691738--6029de13-221f-40f0-bb4a-1d6259e9f5d5---I Could Be Your Safe Place</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30668b1d9e76910c834b3070569d73ad.jpg" length="22806" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 23:15:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Milk &amp; Bone - FORGONE (4 plays)</title>
-      <link>https://www.last.fm/music/Milk+&amp;+Bone/_/FORGONE</link>
-      <guid isPermaLink="false">walrus898-1777691938--e0b5ecf3-3860-4080-8dc0-165224157c92---FORGONE</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ba031e4ef2c9750c90361a3875fec9c6.jpg" length="17721" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 23:18:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>A Beacon School - Algernon (6 plays)</title>
-      <link>https://www.last.fm/music/A+Beacon+School/_/Algernon</link>
-      <guid isPermaLink="false">walrus898-1777927060--d730fe90-6c9d-47dc-8e39-b00354add354---Algernon</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/032ab9e3fd0ca849ac277e8ed1069cf8.jpg" length="14659" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 16:37:40 -0400</pubDate>
-    </item>
-    <item>
-      <title>Beach Fossils - Seconds (7 plays)</title>
-      <link>https://www.last.fm/music/Beach+Fossils/_/Seconds</link>
-      <guid isPermaLink="false">walrus898-1777927081--3df3818e-7984-4c62-bee3-81f95f8c6651---Seconds</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21c3f56979daf621a4dc900c667a1ebf.png" length="102836" type="image/png"/>
-      <pubDate>Mon, 04 May 2026 16:38:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>petal redd - bend (2 plays)</title>
-      <link>https://www.last.fm/music/petal+redd/_/bend</link>
-      <guid isPermaLink="false">walrus898-1777927422--petal redd---bend</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1bdbe6387bcc527383a2c774b5153d43.png" length="191840" type="image/png"/>
-      <pubDate>Mon, 04 May 2026 16:43:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Fright Years - Evil (2 plays)</title>
-      <link>https://www.last.fm/music/Fright+Years/_/Evil</link>
-      <guid isPermaLink="false">walrus898-1777927673--Fright Years---Evil</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 04 May 2026 16:47:53 -0400</pubDate>
-    </item>
-    <item>
-      <title>The Mirrors - Silence (2 plays)</title>
-      <link>https://www.last.fm/music/The+Mirrors/_/Silence</link>
-      <guid isPermaLink="false">walrus898-1777927841--The Mirrors---Silence</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6e9413dd098ca8a28b46a4c1e8544a1c.jpg" length="19149" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 16:50:41 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tokyo Tea Room - There's a Place (4 plays)</title>
-      <link>https://www.last.fm/music/Tokyo+Tea+Room/_/There%27s+a+Place</link>
-      <guid isPermaLink="false">walrus898-1777927842--f836a8dd-6b20-4d95-9e0f-5b758ff3eeb3---There's a Place</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f1d13810c56b9626dcd3601ccade45ee.jpg" length="9830" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 16:50:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Soft Blue Shimmer - Sunpools (3 plays)</title>
-      <link>https://www.last.fm/music/Soft+Blue+Shimmer/_/Sunpools</link>
-      <guid isPermaLink="false">walrus898-1777929952--b4349c3f-a2a7-4186-882a-e0343fd7ce3c---Sunpools</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99ddd2bbeeee9ef53c964f835d075ccd.jpg" length="23558" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 17:25:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>Leif Erikson - Real Stuff (2 plays)</title>
-      <link>https://www.last.fm/music/Leif+Erikson/_/Real+Stuff</link>
-      <guid isPermaLink="false">walrus898-1777930184--1e239985-b59b-4b87-88b0-88542407a562---Real Stuff</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
-      <pubDate>Mon, 04 May 2026 17:29:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Baseball Gregg - Regatta (3 plays)</title>
-      <link>https://www.last.fm/music/Baseball+Gregg/_/Regatta</link>
-      <guid isPermaLink="false">walrus898-1777930411--628c9456-0f30-438f-8af3-69c736abf1b5---Regatta</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e18f777ee06e20f3b9d7da15492248f.jpg" length="20902" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 17:33:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Widowspeak - Even True Love (5 plays)</title>
-      <link>https://www.last.fm/music/Widowspeak/_/Even+True+Love</link>
-      <guid isPermaLink="false">walrus898-1777930595--ef9d28db-a1b7-4957-aa79-ed289a77ce10---Even True Love</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe1f027d2371a1df02bea25d2b1b3fcb.jpg" length="13440" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 17:36:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>Laurel - Change (1 play)</title>
+      <title>Laurel - Change (2 plays)</title>
       <link>https://www.last.fm/music/Laurel/_/Change</link>
       <guid isPermaLink="false">walrus898-1777930882--560875e5-1a56-431e-8803-010ae9e4871c---Change</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd8b4b026277c6f3ccea052879626c26.jpg" length="17057" type="image/jpeg"/>
       <pubDate>Mon, 04 May 2026 17:41:22 -0400</pubDate>
     </item>
     <item>
-      <title>Pish - Crime (1 play)</title>
+      <title>Pish - Crime (2 plays)</title>
       <link>https://www.last.fm/music/Pish/_/Crime</link>
       <guid isPermaLink="false">walrus898-1777987632--b8ed9ca2-cebe-4e88-bb9b-99f3e833a4b6---Crime</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446bd937af954331781c2bb8b8a91602.jpg" length="6629" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 09:27:12 -0400</pubDate>
     </item>
     <item>
-      <title>Truman Sinclair - pale horse (3 plays)</title>
+      <title>Truman Sinclair - pale horse (4 plays)</title>
       <link>https://www.last.fm/music/Truman+Sinclair/_/pale+horse</link>
       <guid isPermaLink="false">walrus898-1777987829--dad54108-729f-450e-848b-42b4c5126484---pale horse</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25a0d39ce41a7e0ff0ddf192791629cd.jpg" length="28795" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 09:30:29 -0400</pubDate>
     </item>
     <item>
-      <title>Pulyay - I Know Some Things (1 play)</title>
+      <title>Pulyay - I Know Some Things (2 plays)</title>
       <link>https://www.last.fm/music/Pulyay/_/I+Know+Some+Things</link>
       <guid isPermaLink="false">walrus898-1777987985--Pulyay---I Know Some Things</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 05 May 2026 09:33:05 -0400</pubDate>
     </item>
     <item>
-      <title>The South Hill Experiment - Maybe it Takes Time (1 play)</title>
+      <title>The South Hill Experiment - Maybe it Takes Time (2 plays)</title>
       <link>https://www.last.fm/music/The+South+Hill+Experiment/_/Maybe+it+Takes+Time</link>
       <guid isPermaLink="false">walrus898-1777988141--bca7d2e8-ed66-4704-99b4-14717de657c0---Maybe it Takes Time</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fed8d474547a9670e4408345649cbf77.jpg" length="31147" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 09:35:41 -0400</pubDate>
     </item>
     <item>
-      <title>Faerybabyy - angel (1 play)</title>
+      <title>Faerybabyy - angel (3 plays)</title>
       <link>https://www.last.fm/music/Faerybabyy/_/angel</link>
       <guid isPermaLink="false">walrus898-1777988326--Faerybabyy---angel</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e8e7c26d8caf4b6761e70982d709f0f8.jpg" length="18471" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 09:38:46 -0400</pubDate>
     </item>
     <item>
-      <title>tomy wyne - Too Right (2 plays)</title>
+      <title>tomy wyne - Too Right (4 plays)</title>
       <link>https://www.last.fm/music/tomy+wyne/_/Too+Right</link>
       <guid isPermaLink="false">walrus898-1777988454--tomy wyne---Too Right</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72d8aa7681d2c43f7744b9e4220ef8e6.jpg" length="14438" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 09:40:54 -0400</pubDate>
     </item>
     <item>
-      <title>Coward Syndrome - Itches (2 plays)</title>
+      <title>Coward Syndrome - Itches (3 plays)</title>
       <link>https://www.last.fm/music/Coward+Syndrome/_/Itches</link>
       <guid isPermaLink="false">walrus898-1777988636--aa32fbad-5735-44a1-8125-ea8256488bd0---Itches</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c919c98e845a155113f4d30169d1c524.jpg" length="31770" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 09:43:56 -0400</pubDate>
     </item>
     <item>
-      <title>Lofive - Sumimasen (1 play)</title>
+      <title>Faerybabyy - angel (3 plays)</title>
+      <link>https://www.last.fm/music/Faerybabyy/_/angel</link>
+      <guid isPermaLink="false">walrus898-1777988787--Faerybabyy---angel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e8e7c26d8caf4b6761e70982d709f0f8.jpg" length="18471" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 09:46:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lofive - Sumimasen (2 plays)</title>
       <link>https://www.last.fm/music/Lofive/_/Sumimasen</link>
       <guid isPermaLink="false">walrus898-1777988801--Lofive---Sumimasen</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2deece8c8525f700dd841912c2531f8.jpg" length="6596" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 09:46:41 -0400</pubDate>
     </item>
     <item>
-      <title>Good Skin - If Only (1 play)</title>
+      <title>tomy wyne - Too Right (4 plays)</title>
+      <link>https://www.last.fm/music/tomy+wyne/_/Too+Right</link>
+      <guid isPermaLink="false">walrus898-1777988950--tomy wyne---Too Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72d8aa7681d2c43f7744b9e4220ef8e6.jpg" length="14438" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 09:49:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Good Skin - If Only (2 plays)</title>
       <link>https://www.last.fm/music/Good+Skin/_/If+Only</link>
       <guid isPermaLink="false">walrus898-1777989004--Good Skin---If Only</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
       <pubDate>Tue, 05 May 2026 09:50:04 -0400</pubDate>
     </item>
     <item>
-      <title>Homer - So get up! (2 plays)</title>
+      <title>Homer - So get up! (3 plays)</title>
       <link>https://www.last.fm/music/Homer/_/So+get+up!</link>
       <guid isPermaLink="false">walrus898-1777989243--Homer---So get up!</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/217336f9024c2e1875e1df3c010ed7fb.jpg" length="17250" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 09:54:03 -0400</pubDate>
     </item>
     <item>
-      <title>ultrasaturated - Horsegait (1 play)</title>
+      <title>ultrasaturated - Horsegait (2 plays)</title>
       <link>https://www.last.fm/music/ultrasaturated/_/Horsegait</link>
       <guid isPermaLink="false">walrus898-1777989444--1d5076f6-d736-460f-b7d5-0adbd20d34ac---Horsegait</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c734c33dc691014231b5bbf6c3fa94ca.jpg" length="13752" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 09:57:24 -0400</pubDate>
     </item>
     <item>
-      <title>BBY - Voices In My Head, Pt. 2 (feat. Betty) (2 plays)</title>
+      <title>BBY - Voices In My Head, Pt. 2 (feat. Betty) (3 plays)</title>
       <link>https://www.last.fm/music/BBY/_/Voices+In+My+Head,+Pt.+2+(feat.+Betty)</link>
       <guid isPermaLink="false">walrus898-1777989653--BBY---Voices In My Head, Pt. 2 (feat. Betty)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/92d76044e962924a730793cc0555cdb0.png" length="178068" type="image/png"/>
       <pubDate>Tue, 05 May 2026 10:00:53 -0400</pubDate>
     </item>
     <item>
-      <title>Hospitality - Rockets And Jets (13 plays)</title>
+      <title>Hospitality - Rockets And Jets (14 plays)</title>
       <link>https://www.last.fm/music/Hospitality/_/Rockets+And+Jets</link>
       <guid isPermaLink="false">walrus898-1777989842--0ef5eb85-fddb-443b-8a14-8b5da90be3e9---Rockets And Jets</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70c3bf504c494bd1cb841b3c43b0543a.jpg" length="20322" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 10:04:02 -0400</pubDate>
     </item>
     <item>
-      <title>GLOOMIE - Not What You Thought About Growing Up (2 plays)</title>
+      <title>GLOOMIE - Not What You Thought About Growing Up (3 plays)</title>
       <link>https://www.last.fm/music/GLOOMIE/_/Not+What+You+Thought+About+Growing+Up</link>
       <guid isPermaLink="false">walrus898-1777990083--GLOOMIE---Not What You Thought About Growing Up</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee54941c810979d13d785f8709838e.jpg" length="10804" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 10:08:03 -0400</pubDate>
     </item>
     <item>
-      <title>Motorama - Two Sunny Days (1 play)</title>
+      <title>Motorama - Two Sunny Days (2 plays)</title>
       <link>https://www.last.fm/music/Motorama/_/Two+Sunny+Days</link>
       <guid isPermaLink="false">walrus898-1777990294--Motorama---Two Sunny Days</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af72c6f1c5d692d289da5b431cc0ed7d.jpg" length="25250" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 10:11:34 -0400</pubDate>
     </item>
     <item>
-      <title>The Cave - Waiting (1 play)</title>
+      <title>The Cave - Waiting (2 plays)</title>
       <link>https://www.last.fm/music/The+Cave/_/Waiting</link>
       <guid isPermaLink="false">walrus898-1777990496--The Cave---Waiting</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
@@ -310,7 +163,7 @@
       <pubDate>Tue, 05 May 2026 10:23:55 -0400</pubDate>
     </item>
     <item>
-      <title>Beach Fossils - Seconds (7 plays)</title>
+      <title>Beach Fossils - Seconds (8 plays)</title>
       <link>https://www.last.fm/music/Beach+Fossils/_/Seconds</link>
       <guid isPermaLink="false">walrus898-1777991155--3df3818e-7984-4c62-bee3-81f95f8c6651---Seconds</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21c3f56979daf621a4dc900c667a1ebf.png" length="102836" type="image/png"/>
@@ -357,6 +210,153 @@
       <guid isPermaLink="false">walrus898-1777992233--b4349c3f-a2a7-4186-882a-e0343fd7ce3c---Sunpools</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/99ddd2bbeeee9ef53c964f835d075ccd.jpg" length="23558" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 10:43:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Leif Erikson - Real Stuff (3 plays)</title>
+      <link>https://www.last.fm/music/Leif+Erikson/_/Real+Stuff</link>
+      <guid isPermaLink="false">walrus898-1777992464--1e239985-b59b-4b87-88b0-88542407a562---Real Stuff</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 05 May 2026 10:47:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Beach Fossils - Seconds (8 plays)</title>
+      <link>https://www.last.fm/music/Beach+Fossils/_/Seconds</link>
+      <guid isPermaLink="false">walrus898-1778032905--3df3818e-7984-4c62-bee3-81f95f8c6651---Seconds</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/21c3f56979daf621a4dc900c667a1ebf.png" length="102836" type="image/png"/>
+      <pubDate>Tue, 05 May 2026 22:01:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Baseball Gregg - Regatta (4 plays)</title>
+      <link>https://www.last.fm/music/Baseball+Gregg/_/Regatta</link>
+      <guid isPermaLink="false">walrus898-1778033094--628c9456-0f30-438f-8af3-69c736abf1b5---Regatta</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7e18f777ee06e20f3b9d7da15492248f.jpg" length="20902" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:04:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Widowspeak - Even True Love (6 plays)</title>
+      <link>https://www.last.fm/music/Widowspeak/_/Even+True+Love</link>
+      <guid isPermaLink="false">walrus898-1778033277--ef9d28db-a1b7-4957-aa79-ed289a77ce10---Even True Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fe1f027d2371a1df02bea25d2b1b3fcb.jpg" length="13440" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:07:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Laurel - Change (2 plays)</title>
+      <link>https://www.last.fm/music/Laurel/_/Change</link>
+      <guid isPermaLink="false">walrus898-1778033565--560875e5-1a56-431e-8803-010ae9e4871c---Change</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cd8b4b026277c6f3ccea052879626c26.jpg" length="17057" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:12:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pish - Crime (2 plays)</title>
+      <link>https://www.last.fm/music/Pish/_/Crime</link>
+      <guid isPermaLink="false">walrus898-1778033789--b8ed9ca2-cebe-4e88-bb9b-99f3e833a4b6---Crime</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/446bd937af954331781c2bb8b8a91602.jpg" length="6629" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:16:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Truman Sinclair - pale horse (4 plays)</title>
+      <link>https://www.last.fm/music/Truman+Sinclair/_/pale+horse</link>
+      <guid isPermaLink="false">walrus898-1778033987--dad54108-729f-450e-848b-42b4c5126484---pale horse</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/25a0d39ce41a7e0ff0ddf192791629cd.jpg" length="28795" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:19:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pulyay - I Know Some Things (2 plays)</title>
+      <link>https://www.last.fm/music/Pulyay/_/I+Know+Some+Things</link>
+      <guid isPermaLink="false">walrus898-1778034143--Pulyay---I Know Some Things</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 05 May 2026 22:22:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>The South Hill Experiment - Maybe it Takes Time (2 plays)</title>
+      <link>https://www.last.fm/music/The+South+Hill+Experiment/_/Maybe+it+Takes+Time</link>
+      <guid isPermaLink="false">walrus898-1778034298--bca7d2e8-ed66-4704-99b4-14717de657c0---Maybe it Takes Time</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fed8d474547a9670e4408345649cbf77.jpg" length="31147" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:24:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Faerybabyy - angel (3 plays)</title>
+      <link>https://www.last.fm/music/Faerybabyy/_/angel</link>
+      <guid isPermaLink="false">walrus898-1778034484--Faerybabyy---angel</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e8e7c26d8caf4b6761e70982d709f0f8.jpg" length="18471" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:28:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>tomy wyne - Too Right (4 plays)</title>
+      <link>https://www.last.fm/music/tomy+wyne/_/Too+Right</link>
+      <guid isPermaLink="false">walrus898-1778034612--tomy wyne---Too Right</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/72d8aa7681d2c43f7744b9e4220ef8e6.jpg" length="14438" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:30:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Coward Syndrome - Itches (3 plays)</title>
+      <link>https://www.last.fm/music/Coward+Syndrome/_/Itches</link>
+      <guid isPermaLink="false">walrus898-1778034794--aa32fbad-5735-44a1-8125-ea8256488bd0---Itches</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c919c98e845a155113f4d30169d1c524.jpg" length="31770" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:33:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lofive - Sumimasen (2 plays)</title>
+      <link>https://www.last.fm/music/Lofive/_/Sumimasen</link>
+      <guid isPermaLink="false">walrus898-1778034958--Lofive---Sumimasen</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c2deece8c8525f700dd841912c2531f8.jpg" length="6596" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:35:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Good Skin - If Only (2 plays)</title>
+      <link>https://www.last.fm/music/Good+Skin/_/If+Only</link>
+      <guid isPermaLink="false">walrus898-1778035162--Good Skin---If Only</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 05 May 2026 22:39:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homer - So get up! (3 plays)</title>
+      <link>https://www.last.fm/music/Homer/_/So+get+up!</link>
+      <guid isPermaLink="false">walrus898-1778035400--Homer---So get up!</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/217336f9024c2e1875e1df3c010ed7fb.jpg" length="17250" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:43:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>ultrasaturated - Horsegait (2 plays)</title>
+      <link>https://www.last.fm/music/ultrasaturated/_/Horsegait</link>
+      <guid isPermaLink="false">walrus898-1778035601--1d5076f6-d736-460f-b7d5-0adbd20d34ac---Horsegait</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c734c33dc691014231b5bbf6c3fa94ca.jpg" length="13752" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:46:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>BBY - Voices In My Head, Pt. 2 (feat. Betty) (3 plays)</title>
+      <link>https://www.last.fm/music/BBY/_/Voices+In+My+Head,+Pt.+2+(feat.+Betty)</link>
+      <guid isPermaLink="false">walrus898-1778035810--BBY---Voices In My Head, Pt. 2 (feat. Betty)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/92d76044e962924a730793cc0555cdb0.png" length="178068" type="image/png"/>
+      <pubDate>Tue, 05 May 2026 22:50:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hospitality - Rockets And Jets (14 plays)</title>
+      <link>https://www.last.fm/music/Hospitality/_/Rockets+And+Jets</link>
+      <guid isPermaLink="false">walrus898-1778035999--0ef5eb85-fddb-443b-8a14-8b5da90be3e9---Rockets And Jets</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/70c3bf504c494bd1cb841b3c43b0543a.jpg" length="20322" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:53:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>GLOOMIE - Not What You Thought About Growing Up (3 plays)</title>
+      <link>https://www.last.fm/music/GLOOMIE/_/Not+What+You+Thought+About+Growing+Up</link>
+      <guid isPermaLink="false">walrus898-1778036241--GLOOMIE---Not What You Thought About Growing Up</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85ee54941c810979d13d785f8709838e.jpg" length="10804" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 22:57:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Motorama - Two Sunny Days (2 plays)</title>
+      <link>https://www.last.fm/music/Motorama/_/Two+Sunny+Days</link>
+      <guid isPermaLink="false">walrus898-1778036453--Motorama---Two Sunny Days</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/af72c6f1c5d692d289da5b431cc0ed7d.jpg" length="25250" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 23:00:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Cave - Waiting (2 plays)</title>
+      <link>https://www.last.fm/music/The+Cave/_/Waiting</link>
+      <guid isPermaLink="false">walrus898-1778036663--The Cave---Waiting</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Tue, 05 May 2026 23:04:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
