@@ -4,7 +4,7 @@ certifi==2026.5.20
     # via requests
 charset-normalizer==3.4.7
     # via requests
-click==8.4.0
+click==8.4.1
     # via black
 docutils==0.22.4
     # via flit
@@ -12,7 +12,7 @@ flit==3.12.0
     # via -r dev-requirements.in
 flit-core==3.12.0
     # via flit
-idna==3.15
+idna==3.16
     # via requests
 isort==8.0.1
     # via -r dev-requirements.in
