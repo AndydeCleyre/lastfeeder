@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 04:44:43 +0000</lastBuildDate>
-    <item>
-      <title>Kevin Morby - Badlands (8 plays)</title>
-      <link>https://www.last.fm/music/Kevin+Morby/_/Badlands</link>
-      <guid isPermaLink="false">atari857-1779126092--eac962e1-0295-4e69-a266-4dab2adb4f11---Badlands</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7a1242ad6f1044ccee894b5e35775e14.jpg" length="28451" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 13:41:32 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 18:18:39 +0000</lastBuildDate>
     <item>
       <title>Kevin Morby - Cowtown (2 plays)</title>
       <link>https://www.last.fm/music/Kevin+Morby/_/Cowtown</link>
@@ -201,14 +194,13 @@
       <title>Direct Hit! - A Message to the Angels, Pt. II (Brainless God) (8 plays)</title>
       <link>https://www.last.fm/music/Direct+Hit!/_/A+Message+to+the+Angels,+Pt.+II+(Brainless+God)</link>
       <guid isPermaLink="false">atari857-1779161860--Direct Hit!---A Message to the Angels, Pt. II (Brainless God)</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/958585dbc4ec69d24377112bca1bd6b7.jpg" length="42406" type="image/jpeg"/>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/958585dbc4ec69d24377112bca1bd6b7.jpg" length="0" type="text/html; charset=UTF-8"/>
       <pubDate>Mon, 18 May 2026 23:37:40 -0400</pubDate>
     </item>
     <item>
       <title>Direct Hit! - On &amp; On (16 plays)</title>
       <link>https://www.last.fm/music/Direct+Hit!/_/On+&amp;+On</link>
       <guid isPermaLink="false">atari857-1779162038--d83540ac-97ea-408e-b9b2-5d3e6620948b---On &amp; On</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/958585dbc4ec69d24377112bca1bd6b7.jpg" length="42406" type="image/jpeg"/>
       <pubDate>Mon, 18 May 2026 23:40:38 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +349,13 @@
       <guid isPermaLink="false">atari857-1779398969--dee28af0-55de-478a-91fd-c34c4e6df4c2---Lonely</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef1d700b946775a63b1cfbf69981a894.jpg" length="21181" type="image/jpeg"/>
       <pubDate>Thu, 21 May 2026 17:29:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Green Day - Church On Sunday - 2025 Remaster (1 play)</title>
+      <link>https://www.last.fm/music/Green+Day/_/Church+On+Sunday+-+2025+Remaster</link>
+      <guid isPermaLink="false">atari857-1779469735--Green Day---Church On Sunday - 2025 Remaster</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e9fc3dec6f96582a2ea18fb386b74693.jpg" length="20869" type="image/jpeg"/>
+      <pubDate>Fri, 22 May 2026 13:08:55 -0400</pubDate>
     </item>
   </channel>
 </rss>
