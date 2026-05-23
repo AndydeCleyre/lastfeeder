@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 14:19:39 +0000</lastBuildDate>
-    <item>
-      <title>Nico Muhly - Etude 1 (1 play)</title>
-      <link>https://www.last.fm/music/Nico+Muhly/_/Etude+1</link>
-      <guid isPermaLink="false">TalonsOfFire-1779474716--cd9e43ec-12dc-4567-9c60-1e554164cf05---Etude 1</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/17b159554d80409dada62adc0c8605ba.jpg" length="7921" type="image/jpeg"/>
-      <pubDate>Fri, 22 May 2026 14:31:56 -0400</pubDate>
-    </item>
-    <item>
-      <title>Adam Hurst - From Nowhere (2 plays)</title>
-      <link>https://www.last.fm/music/Adam+Hurst/_/From+Nowhere</link>
-      <guid isPermaLink="false">TalonsOfFire-1779474947--06644779-2a54-45d6-9ce5-0e765b7aea66---From Nowhere</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1c6d53e33ee541050ccbe60f098bf30e.jpg" length="16404" type="image/jpeg"/>
-      <pubDate>Fri, 22 May 2026 14:35:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 May 2026 15:44:17 +0000</lastBuildDate>
     <item>
       <title>Nils Frahm - La (4 plays)</title>
       <link>https://www.last.fm/music/Nils+Frahm/_/La</link>
@@ -219,11 +205,18 @@
       <pubDate>Fri, 22 May 2026 17:34:09 -0400</pubDate>
     </item>
     <item>
-      <title>Andy Summers - Image And Likeness (1 play)</title>
+      <title>Andy Summers - Image And Likeness (2 plays)</title>
       <link>https://www.last.fm/music/Andy+Summers/_/Image+And+Likeness</link>
       <guid isPermaLink="false">TalonsOfFire-1779485912--7d81816f-200c-47d3-a71d-4421b3185d45---Image And Likeness</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8407af5a1207dd2e41ee6501e63febd9.jpg" length="11701" type="image/jpeg"/>
       <pubDate>Fri, 22 May 2026 17:38:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Andy Summers - Image And Likeness (2 plays)</title>
+      <link>https://www.last.fm/music/Andy+Summers/_/Image+And+Likeness</link>
+      <guid isPermaLink="false">TalonsOfFire-1779486005--7d81816f-200c-47d3-a71d-4421b3185d45---Image And Likeness</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8407af5a1207dd2e41ee6501e63febd9.jpg" length="11701" type="image/jpeg"/>
+      <pubDate>Fri, 22 May 2026 17:40:05 -0400</pubDate>
     </item>
     <item>
       <title>Martin Czerny - Dance for the Flower's Innocence (1 play)</title>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1779545660--550508e3-efae-47de-83cc-e50cc471d7e4---End Titles</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/749eb6840f3144a78762e3bc05b97dac.png" length="181200" type="image/png"/>
       <pubDate>Sat, 23 May 2026 10:14:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dmitry Evgrafov - Like Foam (2 plays)</title>
+      <link>https://www.last.fm/music/Dmitry+Evgrafov/_/Like+Foam</link>
+      <guid isPermaLink="false">TalonsOfFire-1779547917--cd4000c2-b0f1-4c4f-9633-c623f429099d---Like Foam</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d9cba0bb44c486ab85afc08ff09afb86.jpg" length="14026" type="image/jpeg"/>
+      <pubDate>Sat, 23 May 2026 10:51:57 -0400</pubDate>
     </item>
   </channel>
 </rss>
