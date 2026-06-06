@@ -7,13 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 21:59:55 +0000</lastBuildDate>
-    <item>
-      <title>J.M. Silk - Jack Your Body (1 play)</title>
-      <link>https://www.last.fm/music/J.M.+Silk/_/Jack+Your+Body</link>
-      <guid isPermaLink="false">Arcade1996-1780482031--37122bae-869d-4ea5-a3d8-55f0e9f17bf5---Jack Your Body</guid>
-      <pubDate>Wed, 03 Jun 2026 06:20:31 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Jun 2026 05:34:48 +0000</lastBuildDate>
     <item>
       <title>The Jasmine Minks - Cold Heart (1 play)</title>
       <link>https://www.last.fm/music/The+Jasmine+Minks/_/Cold+Heart</link>
@@ -88,6 +82,7 @@
       <title>The Weather Prophets - Almost Prayed (3 plays)</title>
       <link>https://www.last.fm/music/The+Weather+Prophets/_/Almost+Prayed</link>
       <guid isPermaLink="false">Arcade1996-1780486164--8bd0e8b7-081a-4b32-b855-b38134074b35---Almost Prayed</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f300cd1038084e28a4cff7d721de52f7.jpg" length="24483" type="image/jpeg"/>
       <pubDate>Wed, 03 Jun 2026 07:29:24 -0400</pubDate>
     </item>
     <item>
@@ -164,6 +159,7 @@
       <title>The Stairs - Weed Bus (3 plays)</title>
       <link>https://www.last.fm/music/The+Stairs/_/Weed+Bus</link>
       <guid isPermaLink="false">Arcade1996-1780488414--The Stairs---Weed Bus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c3a0338cb1649f7b839b8756e8c3cb5b.jpg" length="21044" type="image/jpeg"/>
       <pubDate>Wed, 03 Jun 2026 08:06:54 -0400</pubDate>
     </item>
     <item>
@@ -314,7 +310,7 @@
       <pubDate>Fri, 05 Jun 2026 05:12:55 -0400</pubDate>
     </item>
     <item>
-      <title>DJ Shadow - Nobody Speak (feat. Run the Jewels) (1 play)</title>
+      <title>DJ Shadow - Nobody Speak (feat. Run the Jewels) (2 plays)</title>
       <link>https://www.last.fm/music/DJ+Shadow/_/Nobody+Speak+(feat.+Run+the+Jewels)</link>
       <guid isPermaLink="false">Arcade1996-1780651192--efa2c11a-1a35-4b60-bc1b-66d37de88511---Nobody Speak (feat. Run the Jewels)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/586ab9ddeec8855a747b5b55b2d62f40.jpg" length="25614" type="image/jpeg"/>
@@ -354,6 +350,13 @@
       <guid isPermaLink="false">Arcade1996-1780652382--52fbc948-398c-45f6-833b-dd75164b896a---Pro : Lov : Ad</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a6e6b410ce4426925ec393a07cc40f64.jpg" length="29823" type="image/jpeg"/>
       <pubDate>Fri, 05 Jun 2026 05:39:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>DJ Shadow - Nobody Speak (feat. Run the Jewels) (2 plays)</title>
+      <link>https://www.last.fm/music/DJ+Shadow/_/Nobody+Speak+(feat.+Run+the+Jewels)</link>
+      <guid isPermaLink="false">Arcade1996-1780652942--efa2c11a-1a35-4b60-bc1b-66d37de88511---Nobody Speak (feat. Run the Jewels)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/586ab9ddeec8855a747b5b55b2d62f40.jpg" length="25614" type="image/jpeg"/>
+      <pubDate>Fri, 05 Jun 2026 05:49:02 -0400</pubDate>
     </item>
   </channel>
 </rss>
