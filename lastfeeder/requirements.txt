@@ -34,7 +34,7 @@ pytz==2026.2
     # via delorean
 six==1.17.0
     # via python-dateutil
-structlog==25.5.0
+structlog==26.1.0
     # via -r requirements.in
 typing-extensions==4.15.0
     # via
