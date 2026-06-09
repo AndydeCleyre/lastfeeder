@@ -24,7 +24,7 @@ idna==3.18
     #   httpx
 lxml==6.1.1
     # via feedgen
-plumbum==2.0.0
+plumbum==2.0.1
     # via -r requirements.in
 python-dateutil==2.9.0.post0
     # via
