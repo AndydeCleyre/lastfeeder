@@ -40,7 +40,7 @@ typing-extensions==4.15.0
     # via
     #   anyio
     #   plumbum
-tzlocal==5.3.1
+tzlocal==5.4
     # via delorean
 wrapt==2.2.1
     # via -r requirements.in
