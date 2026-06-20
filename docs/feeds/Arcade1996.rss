@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 04:08:02 +0000</lastBuildDate>
-    <item>
-      <title>Stereolab - John Cage Bubblegum (1 play)</title>
-      <link>https://www.last.fm/music/Stereolab/_/John+Cage+Bubblegum</link>
-      <guid isPermaLink="false">Arcade1996-1781606386--f1df0431-9250-4ec8-95d8-f19ce7cf7fb6---John Cage Bubblegum</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5f455d3d2c1802f88199f2e10079b7ca.jpg" length="19066" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 06:39:46 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dinosaur Jr. - Start Choppin' (4 plays)</title>
-      <link>https://www.last.fm/music/Dinosaur+Jr./_/Start+Choppin%27</link>
-      <guid isPermaLink="false">Arcade1996-1781606727--77c167d2-4965-4421-830a-9815e4956475---Start Choppin'</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f7c4679ee4da599b9b053f5723c268d8.jpg" length="20473" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 06:45:27 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Jun 2026 07:57:41 +0000</lastBuildDate>
     <item>
       <title>Cypress Hill - I Ain't Goin' Out Like That (4 plays)</title>
       <link>https://www.last.fm/music/Cypress+Hill/_/I+Ain%27t+Goin%27+Out+Like+That</link>
@@ -341,7 +327,6 @@
       <title>Kane Parsons - Local Network (1 play)</title>
       <link>https://www.last.fm/music/Kane+Parsons/_/Local+Network</link>
       <guid isPermaLink="false">Arcade1996-1781919766--deb98724-3ae4-4c23-8a2d-31b210d9e772---Local Network</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/e701c7f040445a56412f3683ea702e90.jpg" length="14909" type="image/jpeg"/>
       <pubDate>Fri, 19 Jun 2026 21:42:46 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">Arcade1996-1781923755--Underworld---Mmm...Skyscraper I Love You - Remastered</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8411877f7fd14d7dcdaadcc4e9a27b5d.jpg" length="32330" type="image/jpeg"/>
       <pubDate>Fri, 19 Jun 2026 22:49:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Surfboy - Remastered (1 play)</title>
+      <link>https://www.last.fm/music/Underworld/_/Surfboy+-+Remastered</link>
+      <guid isPermaLink="false">Arcade1996-1781928372--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Surfboy - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8411877f7fd14d7dcdaadcc4e9a27b5d.jpg" length="32330" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:06:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Underworld - Spoonman - Remastered (1 play)</title>
+      <link>https://www.last.fm/music/Underworld/_/Spoonman+-+Remastered</link>
+      <guid isPermaLink="false">Arcade1996-1781928825--ba2f4f3b-0293-4bc8-bb94-2f73b5207343---Spoonman - Remastered</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/8411877f7fd14d7dcdaadcc4e9a27b5d.jpg" length="32330" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:13:45 -0400</pubDate>
     </item>
   </channel>
 </rss>
