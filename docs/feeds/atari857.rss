@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 00:13:51 +0000</lastBuildDate>
-    <item>
-      <title>Stars Hollow - Taunt (5 plays)</title>
-      <link>https://www.last.fm/music/Stars+Hollow/_/Taunt</link>
-      <guid isPermaLink="false">atari857-1781817905--1f752d62-64df-4bcf-9a62-c28f70c2c84e---Taunt</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cf5909de25c8cddfdc2a4784b92547a6.png" length="95916" type="image/png"/>
-      <pubDate>Thu, 18 Jun 2026 17:25:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Holly Humberstone - Make It All Better (1 play)</title>
-      <link>https://www.last.fm/music/Holly+Humberstone/_/Make+It+All+Better</link>
-      <guid isPermaLink="false">atari857-1781818142--736c8ea9-b5c3-4c5f-8782-28e633f0c084---Make It All Better</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c88d234f770e2bfe8ea3844a05c4edaa.jpg" length="12290" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 17:29:02 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 18:12:29 +0000</lastBuildDate>
     <item>
       <title>Holly Humberstone - Cruel World (2 plays)</title>
       <link>https://www.last.fm/music/Holly+Humberstone/_/Cruel+World</link>
@@ -215,7 +201,6 @@
       <title>Dad Hats - Spill (9 plays)</title>
       <link>https://www.last.fm/music/Dad+Hats/_/Spill</link>
       <guid isPermaLink="false">atari857-1782077899--Dad Hats---Spill</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ef06281e1b2720400d621447a9962ed4.jpg" length="8925" type="image/jpeg"/>
       <pubDate>Sun, 21 Jun 2026 17:38:19 -0400</pubDate>
     </item>
     <item>
@@ -348,7 +333,6 @@
       <title>Emery - Numbers (1 play)</title>
       <link>https://www.last.fm/music/Emery/_/Numbers</link>
       <guid isPermaLink="false">atari857-1782256564--Emery---Numbers</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03eabcee2b9d5ad3d5e5aa44969139b1.png" length="89156" type="image/png"/>
       <pubDate>Tue, 23 Jun 2026 19:16:04 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +341,20 @@
       <guid isPermaLink="false">atari857-1782256836--c648509e-9916-4c56-ab63-652a03da16dd---Never Take Friendship Personal</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/85e6daf3af078e969ca4a9aec9cc5486.jpg" length="11467" type="image/jpeg"/>
       <pubDate>Tue, 23 Jun 2026 19:20:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Prong - Snap Your Fingers, Snap Your Neck (4 plays)</title>
+      <link>https://www.last.fm/music/Prong/_/Snap+Your+Fingers,+Snap+Your+Neck</link>
+      <guid isPermaLink="false">atari857-1782311440--366b86a0-74b2-4fcb-ba79-637258299dbb---Snap Your Fingers, Snap Your Neck</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fd7d40d6d8aca4206e86ea984bee6c1e.jpg" length="27341" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jun 2026 10:30:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>Trisha Yearwood - In Another's Eyes (2014 Re-Recorded Version) (1 play)</title>
+      <link>https://www.last.fm/music/Trisha+Yearwood/_/In+Another%27s+Eyes+(2014+Re-Recorded+Version)</link>
+      <guid isPermaLink="false">atari857-1782321996--Trisha Yearwood---In Another's Eyes (2014 Re-Recorded Version)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f462b78a3b63431ac36e6e8c591bb384.png" length="68863" type="image/png"/>
+      <pubDate>Wed, 24 Jun 2026 13:26:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
