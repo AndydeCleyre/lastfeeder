@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/manosg-.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 16:32:51 +0000</lastBuildDate>
-    <item>
-      <title>Lex - Ainta Tzoni (2 plays)</title>
-      <link>https://www.last.fm/music/Lex/_/Ainta+Tzoni</link>
-      <guid isPermaLink="false">manosg--1781534624--Lex---Ainta Tzoni</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96cc83624fb91ed974796793cec3533a.jpg" length="25979" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:43:44 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lex - Katadiki (2 plays)</title>
-      <link>https://www.last.fm/music/Lex/_/Katadiki</link>
-      <guid isPermaLink="false">manosg--1781534851--Lex---Katadiki</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96cc83624fb91ed974796793cec3533a.jpg" length="25979" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:47:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lex - To Kinigi (2 plays)</title>
-      <link>https://www.last.fm/music/Lex/_/To+Kinigi</link>
-      <guid isPermaLink="false">manosg--1781535099--Lex---To Kinigi</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/96cc83624fb91ed974796793cec3533a.jpg" length="25979" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:51:39 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 11:18:58 +0000</lastBuildDate>
     <item>
       <title>Lex - T.G.K. (2 plays)</title>
       <link>https://www.last.fm/music/Lex/_/T.G.K.</link>
@@ -159,6 +138,7 @@
       <title>Lex - Matomeni Triti (Freestyle) (1 play)</title>
       <link>https://www.last.fm/music/Lex/_/Matomeni+Triti+(Freestyle)</link>
       <guid isPermaLink="false">manosg--1781601968--Lex---Matomeni Triti (Freestyle)</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/7471aa10353ab6fd01c87d605e8a807f.jpg" length="23748" type="image/jpeg"/>
       <pubDate>Tue, 16 Jun 2026 05:26:08 -0400</pubDate>
     </item>
     <item>
@@ -263,6 +243,7 @@
       <title>Slayer - War Ensemble (16 plays)</title>
       <link>https://www.last.fm/music/Slayer/_/War+Ensemble</link>
       <guid isPermaLink="false">manosg--1781715794--bdacc37b-8633-4bf8-9dd5-4662ee651aec---War Ensemble</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d8a3044bd78c889327aac56b30b63d50.png" length="196558" type="image/png"/>
       <pubDate>Wed, 17 Jun 2026 13:03:14 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +336,27 @@
       <guid isPermaLink="false">manosg--1781880753--a8e935c6-3fcc-414c-900c-77e8170e7e7c---Ozzy's Song</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/a3f5c95d015f2631e43e8cb52c31d8b9.png" length="180655" type="image/png"/>
       <pubDate>Fri, 19 Jun 2026 10:52:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Dark Chapel - Hit of Your Love (1 play)</title>
+      <link>https://www.last.fm/music/Dark+Chapel/_/Hit+of+Your+Love</link>
+      <guid isPermaLink="false">manosg--1781884825--c54e2f5b-b688-429f-8cc4-3eff17d308e9---Hit of Your Love</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d630545ea7b3c578d80a7206fe7fdeb5.jpg" length="15287" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jun 2026 12:00:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Graham Bonnet - Long Live Rock 'n' Roll (1 play)</title>
+      <link>https://www.last.fm/music/Graham+Bonnet/_/Long+Live+Rock+%27n%27+Roll</link>
+      <guid isPermaLink="false">manosg--1782293685--e09e91de-c19f-4e7e-b431-8e9e0af1fc57---Long Live Rock 'n' Roll</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03ec18a09e2df9b14c6d46e97880a61c.jpg" length="27450" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jun 2026 05:34:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sebastian Bach - Man on the Silver Mountain (1 play)</title>
+      <link>https://www.last.fm/music/Sebastian+Bach/_/Man+on+the+Silver+Mountain</link>
+      <guid isPermaLink="false">manosg--1782294108--50f10489-c87e-4df3-800f-be1f8d6bda4b---Man on the Silver Mountain</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/03ec18a09e2df9b14c6d46e97880a61c.jpg" length="27450" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jun 2026 05:41:48 -0400</pubDate>
     </item>
   </channel>
 </rss>
