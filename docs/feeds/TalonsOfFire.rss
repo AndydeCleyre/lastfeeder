@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 15:16:27 +0000</lastBuildDate>
-    <item>
-      <title>Caribou - Odessa (3 plays)</title>
-      <link>https://www.last.fm/music/Caribou/_/Odessa</link>
-      <guid isPermaLink="false">TalonsOfFire-1783101943--735e3514-a8ae-401f-af3b-6300df1b8d2c---Odessa</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d2acc5b99b69da66acbd57d44d6c5d6f.jpg" length="28957" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 14:05:43 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 16:35:51 +0000</lastBuildDate>
     <item>
       <title>Caribou - Sun (2 plays)</title>
       <link>https://www.last.fm/music/Caribou/_/Sun</link>
@@ -355,8 +348,14 @@
       <title>Jacob LaVallee - The Mist That Surrounds (2 plays)</title>
       <link>https://www.last.fm/music/Jacob+LaVallee/_/The+Mist+That+Surrounds</link>
       <guid isPermaLink="false">TalonsOfFire-1783260679--fbf316cd-f23c-40f1-8bd6-e1b3b645cc05---The Mist That Surrounds</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2e5c8d27308b471d6d2ee2a7d49f1b3b.jpg" length="11047" type="image/jpeg"/>
       <pubDate>Sun, 05 Jul 2026 10:11:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Roger Eno - Verdigris (4 plays)</title>
+      <link>https://www.last.fm/music/Roger+Eno/_/Verdigris</link>
+      <guid isPermaLink="false">TalonsOfFire-1783261941--796dea98-57f0-4c92-8dce-990bdbc4510a---Verdigris</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/89ec402783d88c631c6858ff4295fb9b.jpg" length="11701" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 10:32:21 -0400</pubDate>
     </item>
   </channel>
 </rss>
