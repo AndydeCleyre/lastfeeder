@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 15:18:08 +0000</lastBuildDate>
-    <item>
-      <title>The Story So Far - Roam (5 plays)</title>
-      <link>https://www.last.fm/music/The+Story+So+Far/_/Roam</link>
-      <guid isPermaLink="false">atari857-1783467899--bc303c9e-3ffb-49ca-acf1-088ef4d46ed7---Roam</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cc1c00cdc85f80b3502d8410f8ce5579.jpg" length="34835" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 19:44:59 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 19:52:43 +0000</lastBuildDate>
     <item>
       <title>The Story So Far - Quicksand (8 plays)</title>
       <link>https://www.last.fm/music/The+Story+So+Far/_/Quicksand</link>
@@ -68,7 +61,6 @@
       <title>home is where - Long Distance Conjoined Twins (16 plays)</title>
       <link>https://www.last.fm/music/home+is+where/_/Long+Distance+Conjoined+Twins</link>
       <guid isPermaLink="false">atari857-1783537423--76ead0bf-51e0-43c8-ae8f-59caefdd84a2---Long Distance Conjoined Twins</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/9a55c583dd32b965b46e24963338dc8c.jpg" length="26336" type="image/jpeg"/>
       <pubDate>Wed, 08 Jul 2026 15:03:43 -0400</pubDate>
     </item>
     <item>
@@ -149,7 +141,7 @@
       <pubDate>Wed, 08 Jul 2026 21:59:32 -0400</pubDate>
     </item>
     <item>
-      <title>Brian Fallon - A Wonderful Life (7 plays)</title>
+      <title>Brian Fallon - A Wonderful Life</title>
       <link>https://www.last.fm/music/Brian+Fallon/_/A+Wonderful+Life</link>
       <guid isPermaLink="false">atari857-1783607904--20d7beef-118f-493c-99f9-3931835cb658---A Wonderful Life</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f412beaf96fe4f7eea07ec3abc5f44e7.jpg" length="22459" type="image/jpeg"/>
@@ -250,20 +242,19 @@
       <title>Cult of Luna - In The Shadow Of Your Shadow (1 play)</title>
       <link>https://www.last.fm/music/Cult+of+Luna/_/In+The+Shadow+Of+Your+Shadow</link>
       <guid isPermaLink="false">atari857-1783656637--d347406f-839d-4423-9a28-188939282afa---In The Shadow Of Your Shadow</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/67316b846921066567af6566d81b6ff9.jpg" length="18386" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 00:10:37 -0400</pubDate>
     </item>
     <item>
       <title>Anthrax - The Edge of Perfection (1 play)</title>
       <link>https://www.last.fm/music/Anthrax/_/The+Edge+of+Perfection</link>
       <guid isPermaLink="false">atari857-1783692458--Anthrax---The Edge of Perfection</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0810813393c92e6a4bb8ccf33b3ab51.jpg" length="26603" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 10:07:38 -0400</pubDate>
     </item>
     <item>
       <title>Chat Pile - PEN I S MALL (1 play)</title>
       <link>https://www.last.fm/music/Chat+Pile/_/PEN+I+S+MALL</link>
       <guid isPermaLink="false">atari857-1783712175--4ba8a084-2772-400f-9738-6736895c965d---PEN I S MALL</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/30a876c738b838c7c4260b8203b1e1c2.jpg" length="6655" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 15:36:15 -0400</pubDate>
     </item>
     <item>
@@ -351,11 +342,18 @@
       <pubDate>Fri, 10 Jul 2026 17:27:07 -0400</pubDate>
     </item>
     <item>
-      <title>Frank Turner - Get Better (12 plays)</title>
+      <title>Frank Turner - Get Better (13 plays)</title>
       <link>https://www.last.fm/music/Frank+Turner/_/Get+Better</link>
       <guid isPermaLink="false">atari857-1783731698--aca5718f-4f49-4439-b8f6-209db3f11757---Get Better</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb79a0dcf9a34c46e4d084acf59cce90.jpg" length="22704" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 21:01:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Frank Turner - Get Better (13 plays)</title>
+      <link>https://www.last.fm/music/Frank+Turner/_/Get+Better</link>
+      <guid isPermaLink="false">atari857-1783782661--aca5718f-4f49-4439-b8f6-209db3f11757---Get Better</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/cb79a0dcf9a34c46e4d084acf59cce90.jpg" length="22704" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 11:11:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
