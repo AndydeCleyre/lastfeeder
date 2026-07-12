@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 16:35:59 +0000</lastBuildDate>
-    <item>
-      <title>Foo Fighters - All My Life (3 plays)</title>
-      <link>https://www.last.fm/music/Foo+Fighters/_/All+My+Life</link>
-      <guid isPermaLink="false">atari857-1783489161--67f66c07-6e61-4026-ade5-7e782fad3a5d---All My Life</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c5da11278ee0a298360c2386f5d2d43d.jpg" length="11680" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 01:39:21 -0400</pubDate>
-    </item>
-    <item>
-      <title>Radical Face - Welcome Home (1 play)</title>
-      <link>https://www.last.fm/music/Radical+Face/_/Welcome+Home</link>
-      <guid isPermaLink="false">atari857-1783533293--6c25514f-1f14-4106-a142-be95ba11f117---Welcome Home</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/48c30c16f1b1c5924b6afa56170af6ce.jpg" length="15592" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 13:54:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 22:55:11 +0000</lastBuildDate>
     <item>
       <title>Green Day - I'm Never Gonna R.I.P. (1 play)</title>
       <link>https://www.last.fm/music/Green+Day/_/I%27m+Never+Gonna+R.I.P.</link>
@@ -222,7 +208,6 @@
       <title>Anthrax - The Edge of Perfection (1 play)</title>
       <link>https://www.last.fm/music/Anthrax/_/The+Edge+of+Perfection</link>
       <guid isPermaLink="false">atari857-1783692458--Anthrax---The Edge of Perfection</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f0810813393c92e6a4bb8ccf33b3ab51.jpg" length="26603" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 10:07:38 -0400</pubDate>
     </item>
     <item>
@@ -357,6 +342,20 @@
       <guid isPermaLink="false">atari857-1783870492--ee90d1b3-a4e2-4d18-9092-111d856e7e7a---Shiksa (Girlfriend)</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/c00d9512ef754b4cb75a92547c0fddff.jpg" length="33853" type="image/jpeg"/>
       <pubDate>Sun, 12 Jul 2026 11:34:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Something Corporate - Punk Rock Princess (4 plays)</title>
+      <link>https://www.last.fm/music/Something+Corporate/_/Punk+Rock+Princess</link>
+      <guid isPermaLink="false">atari857-1783870712--8dacf242-9bf7-44f5-b2eb-18305b904551---Punk Rock Princess</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/69dc5c5f56874c988a5750c795a63c10.png" length="216590" type="image/png"/>
+      <pubDate>Sun, 12 Jul 2026 11:38:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mudvayne - Hurt People Hurt People (5 plays)</title>
+      <link>https://www.last.fm/music/Mudvayne/_/Hurt+People+Hurt+People</link>
+      <guid isPermaLink="false">atari857-1783894361--f1c8da15-b408-4149-b863-f1cbe9971f19---Hurt People Hurt People</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f31b18c9f00bc3e7af23e2a5e8808559.jpg" length="39744" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 18:12:41 -0400</pubDate>
     </item>
   </channel>
 </rss>
