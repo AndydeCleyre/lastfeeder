@@ -7,35 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 21:00:37 +0000</lastBuildDate>
-    <item>
-      <title>Melaine Dalibert - Arabesque (1 play)</title>
-      <link>https://www.last.fm/music/Melaine+Dalibert/_/Arabesque</link>
-      <guid isPermaLink="false">TalonsOfFire-1783817657--Melaine Dalibert---Arabesque</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1ecf17f6ae7fc1d8fd8b78e9968dc007.jpg" length="7574" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 20:54:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cell - Risky Nap Under Blue Tree (6 plays)</title>
-      <link>https://www.last.fm/music/Cell/_/Risky+Nap+Under+Blue+Tree</link>
-      <guid isPermaLink="false">TalonsOfFire-1783825336--Cell---Risky Nap Under Blue Tree</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ab3880b6d8354ab0abfed9b88878c197.jpg" length="15834" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 23:02:16 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tycho - Dye (3 plays)</title>
-      <link>https://www.last.fm/music/Tycho/_/Dye</link>
-      <guid isPermaLink="false">TalonsOfFire-1783870037--cbef45a9-7acb-4325-94c9-70081ac8d1b8---Dye</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/1b321dda0064f33d510aa718130a61f8.jpg" length="8376" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 11:27:17 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tycho - Outer Sunset (3 plays)</title>
-      <link>https://www.last.fm/music/Tycho/_/Outer+Sunset</link>
-      <guid isPermaLink="false">TalonsOfFire-1783878143--cbef45a9-7acb-4325-94c9-70081ac8d1b8---Outer Sunset</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2d72b1005a141113f2ce3f5e0e2ea9d4.jpg" length="18615" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 13:42:23 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 22:10:49 +0000</lastBuildDate>
     <item>
       <title>Camel - Chord Change (1 play)</title>
       <link>https://www.last.fm/music/Camel/_/Chord+Change</link>
@@ -357,6 +329,34 @@
       <guid isPermaLink="false">TalonsOfFire-1783974765--Helios---A Rising Wind - Instrumental</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d4115ed2ff90a3b118b0a6a6b7d44567.jpg" length="12371" type="image/jpeg"/>
       <pubDate>Mon, 13 Jul 2026 16:32:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Helios - The Obeisant Vine - Instrumental (2 plays)</title>
+      <link>https://www.last.fm/music/Helios/_/The+Obeisant+Vine+-+Instrumental</link>
+      <guid isPermaLink="false">TalonsOfFire-1783975147--Helios---The Obeisant Vine - Instrumental</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d4115ed2ff90a3b118b0a6a6b7d44567.jpg" length="12371" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 16:39:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Orb - Back Side of the Moon (2 plays)</title>
+      <link>https://www.last.fm/music/The+Orb/_/Back+Side+of+the+Moon</link>
+      <guid isPermaLink="false">TalonsOfFire-1783977248--42c14c80-bd17-47e4-9bb2-a35897638c4d---Back Side of the Moon</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/930c50ef735c469ac6142fc99b767842.jpg" length="14518" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 17:14:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Everything But the Girl - Fascination (4 plays)</title>
+      <link>https://www.last.fm/music/Everything+But+the+Girl/_/Fascination</link>
+      <guid isPermaLink="false">TalonsOfFire-1783978209--959cf5bf-ee29-4af6-a85a-0b480181d988---Fascination</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/2ce18593ea8bb427efef309683b800f6.jpg" length="31785" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 17:30:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Clark - Citrus (1 play)</title>
+      <link>https://www.last.fm/music/Clark/_/Citrus</link>
+      <guid isPermaLink="false">TalonsOfFire-1783978434--5d0c202c-e30f-40c4-abf5-c0007af0d1cc---Citrus</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/4e0d81eafc57757022d2b839725d8027.jpg" length="15953" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 17:33:54 -0400</pubDate>
     </item>
   </channel>
 </rss>
