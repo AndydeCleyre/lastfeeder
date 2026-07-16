@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 20:26:46 +0000</lastBuildDate>
-    <item>
-      <title>Sting - All This Time (4 plays)</title>
-      <link>https://www.last.fm/music/Sting/_/All+This+Time</link>
-      <guid isPermaLink="false">TalonsOfFire-1784147865--7944ed53-2a58-4035-9b93-140a71e41c34---All This Time</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/235e5e8a177be8d82cc54c944bfb2bf1.jpg" length="14259" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 16:37:45 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 22:39:32 +0000</lastBuildDate>
     <item>
       <title>Felt - A Preacher in New England - Remastered Edition (3 plays)</title>
       <link>https://www.last.fm/music/Felt/_/A+Preacher+in+New+England+-+Remastered+Edition</link>
@@ -222,6 +215,7 @@
       <title>Ben Sollee - On the Atlantic Ocean (1 play)</title>
       <link>https://www.last.fm/music/Ben+Sollee/_/On+the+Atlantic+Ocean</link>
       <guid isPermaLink="false">TalonsOfFire-1784213652--7f5eb33d-4309-4520-a1c1-f2d35bc769ec---On the Atlantic Ocean</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f92e8609ac7da419f5eef3a52b6effc2.jpg" length="24545" type="image/jpeg"/>
       <pubDate>Thu, 16 Jul 2026 10:54:12 -0400</pubDate>
     </item>
     <item>
@@ -347,7 +341,6 @@
       <title>Robin Carolan - These Nightmares Exist (2 plays)</title>
       <link>https://www.last.fm/music/Robin+Carolan/_/These+Nightmares+Exist</link>
       <guid isPermaLink="false">TalonsOfFire-1784232397--Robin Carolan---These Nightmares Exist</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/b2bd4546ba65b1595ae6c8d4fc2bca4f.jpg" length="15376" type="image/jpeg"/>
       <pubDate>Thu, 16 Jul 2026 16:06:37 -0400</pubDate>
     </item>
     <item>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">TalonsOfFire-1784232525--16910df9-fef0-48a6-aceb-eac754608ab7---Academics</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/206b0fc7f2eeb25de69870d825c5837f.jpg" length="20716" type="image/jpeg"/>
       <pubDate>Thu, 16 Jul 2026 16:08:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Felt - The Stagnant Pool - Remastered Edition (2 plays)</title>
+      <link>https://www.last.fm/music/Felt/_/The+Stagnant+Pool+-+Remastered+Edition</link>
+      <guid isPermaLink="false">TalonsOfFire-1784232683--Felt---The Stagnant Pool - Remastered Edition</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/d725e398720e616dd4c084d02df8fabc.jpg" length="12443" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 16:11:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
