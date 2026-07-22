@@ -2,7 +2,7 @@ anyio==4.14.2
     # via httpx
 babel==2.18.0
     # via delorean
-certifi==2026.6.17
+certifi==2026.7.22
     # via
     #   httpcore
     #   httpx
@@ -24,7 +24,7 @@ idna==3.18
     #   httpx
 lxml==6.1.1
     # via feedgen
-plumbum==2.0.1
+plumbum==2.0.2
     # via -r requirements.in
 python-dateutil==2.9.0.post0
     # via
