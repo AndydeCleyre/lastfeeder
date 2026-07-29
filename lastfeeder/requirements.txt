@@ -42,5 +42,5 @@ typing-extensions==4.16.0
     #   plumbum
 tzlocal==5.4.4
     # via delorean
-wrapt==2.2.2
+wrapt==2.3.0
     # via -r requirements.in
