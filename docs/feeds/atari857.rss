@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 19:53:33 +0000</lastBuildDate>
-    <item>
-      <title>No Pressure - Say What You Mean (3 plays)</title>
-      <link>https://www.last.fm/music/No+Pressure/_/Say+What+You+Mean</link>
-      <guid isPermaLink="false">atari857-1785358434--bf7d815e-23d2-4cf4-b53b-994d0c661a2f---Say What You Mean</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea15a33c4d6bc5d22a9fad10473af299.jpg" length="37356" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 16:53:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>No Pressure - Our Bond (4 plays)</title>
-      <link>https://www.last.fm/music/No+Pressure/_/Our+Bond</link>
-      <guid isPermaLink="false">atari857-1785358493--bf7d815e-23d2-4cf4-b53b-994d0c661a2f---Our Bond</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ea15a33c4d6bc5d22a9fad10473af299.jpg" length="37356" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 16:54:53 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Jul 2026 23:31:25 +0000</lastBuildDate>
     <item>
       <title>No Pressure - Caught Up (3 plays)</title>
       <link>https://www.last.fm/music/No+Pressure/_/Caught+Up</link>
@@ -194,6 +180,7 @@
       <title>The Ataris - San Dimas High School Football Rules (7 plays)</title>
       <link>https://www.last.fm/music/The+Ataris/_/San+Dimas+High+School+Football+Rules</link>
       <guid isPermaLink="false">atari857-1785366211--57805d77-f947-4851-b7fb-78baad154451---San Dimas High School Football Rules</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/f9874f132579e7c4ee3017c346e3dc0e.jpg" length="22725" type="image/jpeg"/>
       <pubDate>Wed, 29 Jul 2026 19:03:31 -0400</pubDate>
     </item>
     <item>
@@ -351,11 +338,25 @@
       <pubDate>Fri, 31 Jul 2026 15:43:47 -0400</pubDate>
     </item>
     <item>
-      <title>blink-182 - Don't Leave Me (5 plays)</title>
+      <title>blink-182 - Don't Leave Me (6 plays)</title>
       <link>https://www.last.fm/music/blink-182/_/Don%27t+Leave+Me</link>
       <guid isPermaLink="false">atari857-1785527036--blink-182---Don't Leave Me</guid>
       <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa585497562506b87fd59b41dfc53ff7.jpg" length="28350" type="image/jpeg"/>
       <pubDate>Fri, 31 Jul 2026 15:43:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>American Hi-Fi - The Breakup Song (1 play)</title>
+      <link>https://www.last.fm/music/American+Hi-Fi/_/The+Breakup+Song</link>
+      <guid isPermaLink="false">atari857-1785527273--American Hi-Fi---The Breakup Song</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/5aca532573654ad6ca07d3c9f4602d95.png" length="195769" type="image/png"/>
+      <pubDate>Fri, 31 Jul 2026 15:47:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>blink-182 - Don't Leave Me (6 plays)</title>
+      <link>https://www.last.fm/music/blink-182/_/Don%27t+Leave+Me</link>
+      <guid isPermaLink="false">atari857-1785537241--blink-182---Don't Leave Me</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/fa585497562506b87fd59b41dfc53ff7.jpg" length="28350" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jul 2026 18:34:01 -0400</pubDate>
     </item>
   </channel>
 </rss>
