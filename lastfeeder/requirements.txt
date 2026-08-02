@@ -6,7 +6,7 @@ certifi==2026.7.22
     # via
     #   httpcore
     #   httpx
-delorean==1.0.0
+delorean==2.0.0
     # via -r requirements.in
 feedgen==1.0.0
     # via -r requirements.in
@@ -30,8 +30,6 @@ python-dateutil==2.9.0.post0
     # via
     #   delorean
     #   feedgen
-pytz==2026.3.post1
-    # via delorean
 six==1.17.0
     # via python-dateutil
 structlog==26.1.0
