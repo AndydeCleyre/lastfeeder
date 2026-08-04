@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Arcade1996.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 11:10:39 +0000</lastBuildDate>
-    <item>
-      <title>Perry Blake - Ordinary Day (5 plays)</title>
-      <link>https://www.last.fm/music/Perry+Blake/_/Ordinary+Day</link>
-      <guid isPermaLink="false">Arcade1996-1785643195--588aea6d-c772-4bc2-9b70-42c395e6b767---Ordinary Day</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/ca4c095c44ffd5776eaf1fe395f70c97.jpg" length="15034" type="image/jpeg"/>
-      <pubDate>Sat, 01 Aug 2026 23:59:55 -0400</pubDate>
-    </item>
-    <item>
-      <title>After - Take Me to Sunrise (1 play)</title>
-      <link>https://www.last.fm/music/After/_/Take+Me+to+Sunrise</link>
-      <guid isPermaLink="false">Arcade1996-1785651488--After---Take Me to Sunrise</guid>
-      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/6b10bba487dad28da0a5647932135db0.png" length="170352" type="image/png"/>
-      <pubDate>Sun, 02 Aug 2026 02:18:08 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 15:36:58 +0000</lastBuildDate>
     <item>
       <title>Swapmeet - I Know! (4 plays)</title>
       <link>https://www.last.fm/music/Swapmeet/_/I+Know!</link>
@@ -355,7 +341,22 @@
       <title>Geordie Greep - Holy, Holy (15 plays)</title>
       <link>https://www.last.fm/music/Geordie+Greep/_/Holy,+Holy</link>
       <guid isPermaLink="false">Arcade1996-1785838371--6ca6f49f-41f3-49ae-8403-44d07bc6f564---Holy, Holy</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
       <pubDate>Tue, 04 Aug 2026 06:12:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Geordie Greep - Bongo Season (4 plays)</title>
+      <link>https://www.last.fm/music/Geordie+Greep/_/Bongo+Season</link>
+      <guid isPermaLink="false">Arcade1996-1785856914--6ca6f49f-41f3-49ae-8403-44d07bc6f564---Bongo Season</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 11:21:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Geordie Greep - Motorbike (3 plays)</title>
+      <link>https://www.last.fm/music/Geordie+Greep/_/Motorbike</link>
+      <guid isPermaLink="false">Arcade1996-1785857069--Geordie Greep---Motorbike</guid>
+      <enclosure url="https://lastfm.freetls.fastly.net/i/u/300x300/55132b99fcb3f853fd30d5ec2aca0517.jpg" length="26506" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 11:24:29 -0400</pubDate>
     </item>
   </channel>
 </rss>
