@@ -8,9 +8,9 @@ click==8.4.2
     # via black
 docutils==0.23
     # via flit
-flit==3.12.0
+flit==4.0.2
     # via -r dev-requirements.in
-flit-core==3.12.0
+flit-core==4.0.2
     # via flit
 idna==3.18
     # via requests
@@ -18,7 +18,7 @@ isort==8.0.1
     # via -r dev-requirements.in
 mypy-extensions==1.1.0
     # via black
-packaging==26.2
+packaging==26.3
     # via black
 pathspec==1.1.1
     # via black
