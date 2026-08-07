@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 00:07:11 +0000</lastBuildDate>
-    <item>
-      <title>Bear McCreary - Harfoot Life (2 plays)</title>
-      <link>https://www.last.fm/music/Bear+McCreary/_/Harfoot+Life</link>
-      <guid isPermaLink="false">TalonsOfFire-1785956793--78192f3c-607b-4190-a02b-8e036887b9a7---Harfoot Life</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/f8d79ccecbc85a266de66c8d067fd450.jpg" length="21344" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 15:06:33 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 14:34:08 +0000</lastBuildDate>
     <item>
       <title>Bear McCreary - Bronwyn and Arondir (3 plays)</title>
       <link>https://www.last.fm/music/Bear+McCreary/_/Bronwyn+and+Arondir</link>
@@ -82,6 +75,7 @@
       <title>Bear McCreary - Strange Skies (1 play)</title>
       <link>https://www.last.fm/music/Bear+McCreary/_/Strange+Skies</link>
       <guid isPermaLink="false">TalonsOfFire-1785961428--78192f3c-607b-4190-a02b-8e036887b9a7---Strange Skies</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/25a34e001f5c4b30c3f03eac48d2ebc1.jpg" length="25972" type="image/jpeg"/>
       <pubDate>Wed, 05 Aug 2026 16:23:48 -0400</pubDate>
     </item>
     <item>
@@ -95,6 +89,7 @@
       <title>Bear McCreary - Constellation of Fireflies (1 play)</title>
       <link>https://www.last.fm/music/Bear+McCreary/_/Constellation+of+Fireflies</link>
       <guid isPermaLink="false">TalonsOfFire-1785963005--78192f3c-607b-4190-a02b-8e036887b9a7---Constellation of Fireflies</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/94259c1039243baed3f83fb96402bfd5.jpg" length="20159" type="image/jpeg"/>
       <pubDate>Wed, 05 Aug 2026 16:50:05 -0400</pubDate>
     </item>
     <item>
@@ -150,6 +145,7 @@
       <title>Bear McCreary - Infirmary (1 play)</title>
       <link>https://www.last.fm/music/Bear+McCreary/_/Infirmary</link>
       <guid isPermaLink="false">TalonsOfFire-1785970024--78192f3c-607b-4190-a02b-8e036887b9a7---Infirmary</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/979c69eb86c9e7fe647e6960e4f3bf3b.jpg" length="19367" type="image/jpeg"/>
       <pubDate>Wed, 05 Aug 2026 18:47:04 -0400</pubDate>
     </item>
     <item>
@@ -275,12 +271,14 @@
       <title>Solar Fields - Landing Party (2 plays)</title>
       <link>https://www.last.fm/music/Solar+Fields/_/Landing+Party</link>
       <guid isPermaLink="false">TalonsOfFire-1786041465--a2af1f31-c9eb-4fff-990c-c4f547a11b75---Landing Party</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/fbfa4656d3b8ee2d268c78a87ad9aef6.jpg" length="23984" type="image/jpeg"/>
       <pubDate>Thu, 06 Aug 2026 14:37:45 -0400</pubDate>
     </item>
     <item>
       <title>Solar Fields - Random Friday (1 play)</title>
       <link>https://www.last.fm/music/Solar+Fields/_/Random+Friday</link>
       <guid isPermaLink="false">TalonsOfFire-1786042083--a2af1f31-c9eb-4fff-990c-c4f547a11b75---Random Friday</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/fbfa4656d3b8ee2d268c78a87ad9aef6.jpg" length="23984" type="image/jpeg"/>
       <pubDate>Thu, 06 Aug 2026 14:48:03 -0400</pubDate>
     </item>
     <item>
@@ -352,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1786050166--b00cb756-0259-4a50-bbcb-ad22186c5518---Heart Baby</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/8355dbb0fa2f47e9aad538df26fdf9d7.png" length="176808" type="image/png"/>
       <pubDate>Thu, 06 Aug 2026 17:02:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Burial - Nova (1 play)</title>
+      <link>https://www.last.fm/music/Burial/_/Nova</link>
+      <guid isPermaLink="false">TalonsOfFire-1786051837--Burial---Nova</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/08df74bec5d87b52aadc91259690cea5.jpg" length="9864" type="image/jpeg"/>
+      <pubDate>Thu, 06 Aug 2026 17:30:37 -0400</pubDate>
     </item>
   </channel>
 </rss>
