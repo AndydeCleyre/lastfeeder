@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 22:46:22 +0000</lastBuildDate>
-    <item>
-      <title>Harold Budd - The Child With A Lion (3 plays)</title>
-      <link>https://www.last.fm/music/Harold+Budd/_/The+Child+With+A+Lion</link>
-      <guid isPermaLink="false">TalonsOfFire-1786474438--5c864a6f-146e-4225-986d-3295ce90f784---The Child With A Lion</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/8fb60aa0c7fdc5fe7cffb9bbe4c019c6.png" length="132130" type="image/png"/>
-      <pubDate>Tue, 11 Aug 2026 14:53:58 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 23:46:53 +0000</lastBuildDate>
     <item>
       <title>Martin Czerny - Forest (1 play)</title>
       <link>https://www.last.fm/music/Martin+Czerny/_/Forest</link>
@@ -72,7 +65,7 @@
       <pubDate>Tue, 11 Aug 2026 15:42:27 -0400</pubDate>
     </item>
     <item>
-      <title>Real Estate - Saturday (1 play)</title>
+      <title>Real Estate - Saturday</title>
       <link>https://www.last.fm/music/Real+Estate/_/Saturday</link>
       <guid isPermaLink="false">TalonsOfFire-1786477828--2ff0dfc6-0542-4bbc-a44a-60605c074ba6---Saturday</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/bf2174c87f55fc71e4904221cb280ad3.jpg" length="12967" type="image/jpeg"/>
@@ -82,7 +75,6 @@
       <title>Real Estate - Serve The Song (1 play)</title>
       <link>https://www.last.fm/music/Real+Estate/_/Serve+The+Song</link>
       <guid isPermaLink="false">TalonsOfFire-1786478509--2ff0dfc6-0542-4bbc-a44a-60605c074ba6---Serve The Song</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/bf2174c87f55fc71e4904221cb280ad3.jpg" length="12967" type="image/jpeg"/>
       <pubDate>Tue, 11 Aug 2026 16:01:49 -0400</pubDate>
     </item>
     <item>
@@ -271,7 +263,6 @@
       <title>Simon &amp; Garfunkel - Homeward Bound (1 play)</title>
       <link>https://www.last.fm/music/Simon+&amp;+Garfunkel/_/Homeward+Bound</link>
       <guid isPermaLink="false">TalonsOfFire-1786566799--5d02f264-e225-41ff-83f7-d9b1f0b1874a---Homeward Bound</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/9f24c7d67e1f26db86e8939d02d1833b.png" length="184915" type="image/png"/>
       <pubDate>Wed, 12 Aug 2026 16:33:19 -0400</pubDate>
     </item>
     <item>
@@ -341,6 +332,7 @@
       <title>Destroyer - Downtown (6 plays)</title>
       <link>https://www.last.fm/music/Destroyer/_/Downtown</link>
       <guid isPermaLink="false">TalonsOfFire-1786570649--Destroyer---Downtown</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/da2905ef7a8eea5ee0bc278df9c48dc2.jpg" length="13826" type="image/jpeg"/>
       <pubDate>Wed, 12 Aug 2026 17:37:29 -0400</pubDate>
     </item>
     <item>
@@ -351,11 +343,18 @@
       <pubDate>Wed, 12 Aug 2026 17:41:21 -0400</pubDate>
     </item>
     <item>
-      <title>Tame Impala - Yes I'm Changing (10 plays)</title>
+      <title>Tame Impala - Yes I'm Changing (11 plays)</title>
       <link>https://www.last.fm/music/Tame+Impala/_/Yes+I%27m+Changing</link>
       <guid isPermaLink="false">TalonsOfFire-1786571298--63aa26c3-d59b-4da4-84ac-716b54f1ef4d---Yes I'm Changing</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg" length="43574" type="image/jpeg"/>
       <pubDate>Wed, 12 Aug 2026 17:48:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tame Impala - Yes I'm Changing (11 plays)</title>
+      <link>https://www.last.fm/music/Tame+Impala/_/Yes+I%27m+Changing</link>
+      <guid isPermaLink="false">TalonsOfFire-1786574640--63aa26c3-d59b-4da4-84ac-716b54f1ef4d---Yes I'm Changing</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg" length="43574" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 18:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
