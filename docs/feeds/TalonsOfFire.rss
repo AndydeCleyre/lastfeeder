@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 21:31:35 +0000</lastBuildDate>
-    <item>
-      <title>Massive Attack - Atlas Air (5 plays)</title>
-      <link>https://www.last.fm/music/Massive+Attack/_/Atlas+Air</link>
-      <guid isPermaLink="false">TalonsOfFire-1786657614--10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8---Atlas Air</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/f14b07aa16be4462b63da652b53a7803.png" length="170641" type="image/png"/>
-      <pubDate>Thu, 13 Aug 2026 17:46:54 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 21:59:24 +0000</lastBuildDate>
     <item>
       <title>Four Tet - As Serious as Your Life (2 plays)</title>
       <link>https://www.last.fm/music/Four+Tet/_/As+Serious+as+Your+Life</link>
@@ -257,12 +250,14 @@
       <title>Max Richter - The Consolations Of Philosophy (2 plays)</title>
       <link>https://www.last.fm/music/Max+Richter/_/The+Consolations+Of+Philosophy</link>
       <guid isPermaLink="false">TalonsOfFire-1786734910--509f20b2-5df3-4aec-9bbc-002131fb3f99---The Consolations Of Philosophy</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/143e96b8f4512cee642c76b34992753d.jpg" length="9922" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 15:15:10 -0400</pubDate>
     </item>
     <item>
       <title>Prefab Sprout - I Trawl the Megahertz (4 plays)</title>
       <link>https://www.last.fm/music/Prefab+Sprout/_/I+Trawl+the+Megahertz</link>
       <guid isPermaLink="false">TalonsOfFire-1786735340--1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc---I Trawl the Megahertz</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/0b03f1129d252d5e67bca8550ab7bc56.jpg" length="36141" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 15:22:20 -0400</pubDate>
     </item>
     <item>
@@ -315,7 +310,7 @@
       <pubDate>Fri, 14 Aug 2026 16:18:54 -0400</pubDate>
     </item>
     <item>
-      <title>R.E.M. - Nightswimming (3 plays)</title>
+      <title>R.E.M. - Nightswimming</title>
       <link>https://www.last.fm/music/R.E.M./_/Nightswimming</link>
       <guid isPermaLink="false">TalonsOfFire-1786739040--ea4dfa26-f633-4da6-a52a-f49ea4897b58---Nightswimming</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/ceb7b050dee4411380a41135e7a68b16.png" length="204576" type="image/png"/>
@@ -353,7 +348,15 @@
       <title>Pompeii - Smith (1 play)</title>
       <link>https://www.last.fm/music/Pompeii/_/Smith</link>
       <guid isPermaLink="false">TalonsOfFire-1786742493--1a285280-a309-4a69-82a0-226b3e67367c---Smith</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/d21e10bc5b21decf6bcc3efad41e217c.jpg" length="15082" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 17:21:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>65daysofstatic - Heat Death Infinity Splitter (2 plays)</title>
+      <link>https://www.last.fm/music/65daysofstatic/_/Heat+Death+Infinity+Splitter</link>
+      <guid isPermaLink="false">TalonsOfFire-1786742616--0cd12ab3-9628-45ef-a97b-ff18624f14a0---Heat Death Infinity Splitter</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/da2e2c507ae44887b91f8439dd27464d.png" length="212441" type="image/png"/>
+      <pubDate>Fri, 14 Aug 2026 17:23:36 -0400</pubDate>
     </item>
   </channel>
 </rss>
