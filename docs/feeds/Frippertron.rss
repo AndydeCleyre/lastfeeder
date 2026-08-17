@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 03:53:01 +0000</lastBuildDate>
-    <item>
-      <title>Be Bop Deluxe - Jean Cocteau (3 plays)</title>
-      <link>https://www.last.fm/music/Be+Bop+Deluxe/_/Jean+Cocteau</link>
-      <guid isPermaLink="false">Frippertron-1786853851--96742ec2-b733-4ac6-b493-7e056a43b357---Jean Cocteau</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/274b693d85cd4960b09a9c99d1b3bfbe.png" length="119290" type="image/png"/>
-      <pubDate>Sun, 16 Aug 2026 00:17:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>Chelsea Wolfe - Welt (2 plays)</title>
-      <link>https://www.last.fm/music/Chelsea+Wolfe/_/Welt</link>
-      <guid isPermaLink="false">Frippertron-1786853892--60e8e938-365e-4429-a141-4c79eb49588d---Welt</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/366751374e9cf5d9c859010da8d4076e.jpg" length="5140" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 00:18:12 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 04:47:35 +0000</lastBuildDate>
     <item>
       <title>Underworld - River of Bass (1 play)</title>
       <link>https://www.last.fm/music/Underworld/_/River+of+Bass</link>
@@ -356,6 +342,20 @@
       <guid isPermaLink="false">Frippertron-1786938006--0fda50ec-8f90-46c9-bcce-a113ff7b75f9---Temple Of Aesthetic Action</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/c6e64aaba241908464e735179ebdc49b.jpg" length="15066" type="image/jpeg"/>
       <pubDate>Sun, 16 Aug 2026 23:40:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jordan De La Sierra - Music For Devotional Pastimes (1 play)</title>
+      <link>https://www.last.fm/music/Jordan+De+La+Sierra/_/Music+For+Devotional+Pastimes</link>
+      <guid isPermaLink="false">Frippertron-1786939502--0fda50ec-8f90-46c9-bcce-a113ff7b75f9---Music For Devotional Pastimes</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/c6e64aaba241908464e735179ebdc49b.jpg" length="15066" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 00:05:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Velvet Underground - White Light/White Heat (143 plays)</title>
+      <link>https://www.last.fm/music/The+Velvet+Underground/_/White+Light%2FWhite+Heat</link>
+      <guid isPermaLink="false">Frippertron-1786941779--94b0fb9d-a066-4823-b2ec-af1d324bcfcf---White Light/White Heat</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/d518e7502fe2522347e8cb4fc94e6710.jpg" length="5748" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 00:42:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
