@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 16:39:46 +0000</lastBuildDate>
-    <item>
-      <title>Be Bop Deluxe - Ships in the Night (9 plays)</title>
-      <link>https://www.last.fm/music/Be+Bop+Deluxe/_/Ships+in+the+Night</link>
-      <guid isPermaLink="false">Frippertron-1786944288--96742ec2-b733-4ac6-b493-7e056a43b357---Ships in the Night</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/4e01d838e48a7af3484dac1a3197e04c.jpg" length="15196" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 01:24:48 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 17:05:17 +0000</lastBuildDate>
     <item>
       <title>Be Bop Deluxe - Crying To The Sky (30 plays)</title>
       <link>https://www.last.fm/music/Be+Bop+Deluxe/_/Crying+To+The+Sky</link>
@@ -304,6 +297,7 @@
       <title>Paul McCartney - Coming Up (42 plays)</title>
       <link>https://www.last.fm/music/Paul+McCartney/_/Coming+Up</link>
       <guid isPermaLink="false">Frippertron-1786962654--ba550d0e-adac-4864-b88b-407cab5e76af---Coming Up</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/bbc32d92bf384d5495d871c024c6ed3d.png" length="199147" type="image/png"/>
       <pubDate>Mon, 17 Aug 2026 06:30:54 -0400</pubDate>
     </item>
     <item>
@@ -342,7 +336,14 @@
       <title>Klaus Schulze - Synphära (5 plays)</title>
       <link>https://www.last.fm/music/Klaus+Schulze/_/Synph%C3%A4ra</link>
       <guid isPermaLink="false">Frippertron-1786983211--2e710b0c-6ff3-4c21-87d5-16ebbbca212c---Synphära</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/f8fa95b53a7e4191b338eb9696b378bb.png" length="147983" type="image/png"/>
       <pubDate>Mon, 17 Aug 2026 12:13:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Klaus Schulze - Conphära (5 plays)</title>
+      <link>https://www.last.fm/music/Klaus+Schulze/_/Conph%C3%A4ra</link>
+      <guid isPermaLink="false">Frippertron-1786984576--2e710b0c-6ff3-4c21-87d5-16ebbbca212c---Conphära</guid>
+      <pubDate>Mon, 17 Aug 2026 12:36:16 -0400</pubDate>
     </item>
   </channel>
 </rss>
