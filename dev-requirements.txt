@@ -12,7 +12,7 @@ flit==4.0.2
     # via -r dev-requirements.in
 flit-core==4.0.2
     # via flit
-idna==3.18
+idna==3.19
     # via requests
 isort==8.0.1
     # via -r dev-requirements.in
