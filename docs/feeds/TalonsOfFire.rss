@@ -7,28 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 17:44:23 +0000</lastBuildDate>
-    <item>
-      <title>Hushed - Silent Letters (1 play)</title>
-      <link>https://www.last.fm/music/Hushed/_/Silent+Letters</link>
-      <guid isPermaLink="false">TalonsOfFire-1786918611--50b4522b-2ef5-4473-86eb-2d6abf53f4ed---Silent Letters</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/18212dfde92917d284e24b6e93031831.jpg" length="13416" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 18:16:51 -0400</pubDate>
-    </item>
-    <item>
-      <title>Niklas Blumenthaler - In The Flow (2 plays)</title>
-      <link>https://www.last.fm/music/Niklas+Blumenthaler/_/In+The+Flow</link>
-      <guid isPermaLink="false">TalonsOfFire-1786918981--Niklas Blumenthaler---In The Flow</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/5f868ed07e70e03f37f3776e0587e08a.jpg" length="15063" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 18:23:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Angelo Badalamenti - The Chair (2 plays)</title>
-      <link>https://www.last.fm/music/Angelo+Badalamenti/_/The+Chair</link>
-      <guid isPermaLink="false">TalonsOfFire-1786919206--5894dac5-0260-4175-b36e-e34680a859d6---The Chair</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/8fbe05e0694b4777e5004595539c02db.png" length="160128" type="image/png"/>
-      <pubDate>Sun, 16 Aug 2026 18:26:46 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 18:13:45 +0000</lastBuildDate>
     <item>
       <title>Harp of the Elvenwood - Dreamweaver's Lullaby (2 plays)</title>
       <link>https://www.last.fm/music/Harp+of+the+Elvenwood/_/Dreamweaver%27s+Lullaby</link>
@@ -198,11 +177,18 @@
       <pubDate>Mon, 17 Aug 2026 16:37:10 -0400</pubDate>
     </item>
     <item>
-      <title>Howard Shore - The House Of Beorn - Extended Version (1 play)</title>
+      <title>Howard Shore - The House Of Beorn - Extended Version (2 plays)</title>
       <link>https://www.last.fm/music/Howard+Shore/_/The+House+Of+Beorn+-+Extended+Version</link>
       <guid isPermaLink="false">TalonsOfFire-1786999452--9b58672a-e68e-4972-956e-a8985a165a1f---The House Of Beorn - Extended Version</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/094cb9ba294146f3c6efb287d8065239.jpg" length="30194" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 16:44:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Howard Shore - The House Of Beorn - Extended Version (2 plays)</title>
+      <link>https://www.last.fm/music/Howard+Shore/_/The+House+Of+Beorn+-+Extended+Version</link>
+      <guid isPermaLink="false">TalonsOfFire-1786999692--9b58672a-e68e-4972-956e-a8985a165a1f---The House Of Beorn - Extended Version</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/094cb9ba294146f3c6efb287d8065239.jpg" length="30194" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 16:48:12 -0400</pubDate>
     </item>
     <item>
       <title>Howard Shore - The Woodland Realm - Extended Version (1 play)</title>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1787074399--9b58672a-e68e-4972-956e-a8985a165a1f---The Great Eye</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/793df2135a742aefbe54fb9d6da6aaa4.png" length="234063" type="image/png"/>
       <pubDate>Tue, 18 Aug 2026 13:33:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Howard Shore - Gilraen's Memorial (2 plays)</title>
+      <link>https://www.last.fm/music/Howard+Shore/_/Gilraen%27s+Memorial</link>
+      <guid isPermaLink="false">TalonsOfFire-1787074818--9b58672a-e68e-4972-956e-a8985a165a1f---Gilraen's Memorial</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/793df2135a742aefbe54fb9d6da6aaa4.png" length="234063" type="image/png"/>
+      <pubDate>Tue, 18 Aug 2026 13:40:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Howard Shore - The Pass of Caradhras (1 play)</title>
+      <link>https://www.last.fm/music/Howard+Shore/_/The+Pass+of+Caradhras</link>
+      <guid isPermaLink="false">TalonsOfFire-1787075120--9b58672a-e68e-4972-956e-a8985a165a1f---The Pass of Caradhras</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/793df2135a742aefbe54fb9d6da6aaa4.png" length="234063" type="image/png"/>
+      <pubDate>Tue, 18 Aug 2026 13:45:20 -0400</pubDate>
     </item>
   </channel>
 </rss>
