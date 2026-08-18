@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 15:48:58 +0000</lastBuildDate>
-    <item>
-      <title>Incubus - Aqueous Transmission (1 play)</title>
-      <link>https://www.last.fm/music/Incubus/_/Aqueous+Transmission</link>
-      <guid isPermaLink="false">TalonsOfFire-1786914812--Incubus---Aqueous Transmission</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/71c45e62e5624d32cdbc3063dad0d2ed.png" length="154380" type="image/png"/>
-      <pubDate>Sun, 16 Aug 2026 17:13:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>Jon Hopkins - Monsters Theme (3 plays)</title>
-      <link>https://www.last.fm/music/Jon+Hopkins/_/Monsters+Theme</link>
-      <guid isPermaLink="false">TalonsOfFire-1786916302--0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd---Monsters Theme</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/4d04e7348fbcfe001fa4e1259f4a8b7a.jpg" length="16081" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 17:38:22 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 16:36:33 +0000</lastBuildDate>
     <item>
       <title>Air - Universal Traveler (2 plays)</title>
       <link>https://www.last.fm/music/Air/_/Universal+Traveler</link>
@@ -180,12 +166,14 @@
       <title>Howard Shore - Erebor - Bonus Track (1 play)</title>
       <link>https://www.last.fm/music/Howard+Shore/_/Erebor+-+Bonus+Track</link>
       <guid isPermaLink="false">TalonsOfFire-1786996328--Howard Shore---Erebor - Bonus Track</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/fc3e8611fae24f2bb70a32436c1ffb4c.jpg" length="31188" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 15:52:08 -0400</pubDate>
     </item>
     <item>
       <title>Howard Shore - The Dwarf Lords - Bonus Track (1 play)</title>
       <link>https://www.last.fm/music/Howard+Shore/_/The+Dwarf+Lords+-+Bonus+Track</link>
       <guid isPermaLink="false">TalonsOfFire-1786996407--Howard Shore---The Dwarf Lords - Bonus Track</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/fc3e8611fae24f2bb70a32436c1ffb4c.jpg" length="31188" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 15:53:27 -0400</pubDate>
     </item>
     <item>
@@ -355,6 +343,20 @@
       <guid isPermaLink="false">TalonsOfFire-1787067780--9b58672a-e68e-4972-956e-a8985a165a1f---Three Is Company</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/793df2135a742aefbe54fb9d6da6aaa4.png" length="234063" type="image/png"/>
       <pubDate>Tue, 18 Aug 2026 11:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Howard Shore - The Passing of the Elves (1 play)</title>
+      <link>https://www.last.fm/music/Howard+Shore/_/The+Passing+of+the+Elves</link>
+      <guid isPermaLink="false">TalonsOfFire-1787067977--9b58672a-e68e-4972-956e-a8985a165a1f---The Passing of the Elves</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/793df2135a742aefbe54fb9d6da6aaa4.png" length="234063" type="image/png"/>
+      <pubDate>Tue, 18 Aug 2026 11:46:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Howard Shore - Rivendell (3 plays)</title>
+      <link>https://www.last.fm/music/Howard+Shore/_/Rivendell</link>
+      <guid isPermaLink="false">TalonsOfFire-1787068183--9b58672a-e68e-4972-956e-a8985a165a1f---Rivendell</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/793df2135a742aefbe54fb9d6da6aaa4.png" length="234063" type="image/png"/>
+      <pubDate>Tue, 18 Aug 2026 11:49:43 -0400</pubDate>
     </item>
   </channel>
 </rss>
