@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 07:06:05 +0000</lastBuildDate>
-    <item>
-      <title>Grateful Dead - Deal (1 play)</title>
-      <link>https://www.last.fm/music/Grateful+Dead/_/Deal</link>
-      <guid isPermaLink="false">Frippertron-1787110727--6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6---Deal</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/aae54afc4aa9cbbb00e3514ce0326c6c.jpg" length="24901" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 23:38:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 07:54:32 +0000</lastBuildDate>
     <item>
       <title>Grateful Dead - Lazy Lightning (1 play)</title>
       <link>https://www.last.fm/music/Grateful+Dead/_/Lazy+Lightning</link>
@@ -355,6 +348,13 @@
       <link>https://www.last.fm/music/Bill+Nelson/_/Contemplation</link>
       <guid isPermaLink="false">Frippertron-1787122753--8d463dee-ffae-4028-a3af-ec8ccb595906---Contemplation</guid>
       <pubDate>Wed, 19 Aug 2026 02:59:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Klaus Schulze - A Few Minutes After Trancefer (2 plays)</title>
+      <link>https://www.last.fm/music/Klaus+Schulze/_/A+Few+Minutes+After+Trancefer</link>
+      <guid isPermaLink="false">Frippertron-1787123269--2e710b0c-6ff3-4c21-87d5-16ebbbca212c---A Few Minutes After Trancefer</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/9d8349b002d86598903e12e8c5fe9543.png" length="117104" type="image/png"/>
+      <pubDate>Wed, 19 Aug 2026 03:07:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
