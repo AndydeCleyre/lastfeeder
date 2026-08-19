@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 07:54:32 +0000</lastBuildDate>
-    <item>
-      <title>Grateful Dead - Lazy Lightning (1 play)</title>
-      <link>https://www.last.fm/music/Grateful+Dead/_/Lazy+Lightning</link>
-      <guid isPermaLink="false">Frippertron-1787111098--6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6---Lazy Lightning</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/aae54afc4aa9cbbb00e3514ce0326c6c.jpg" length="24901" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 23:44:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Grateful Dead - Supplication (1 play)</title>
-      <link>https://www.last.fm/music/Grateful+Dead/_/Supplication</link>
-      <guid isPermaLink="false">Frippertron-1787111304--6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6---Supplication</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/aae54afc4aa9cbbb00e3514ce0326c6c.jpg" length="24901" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 23:48:24 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 08:42:49 +0000</lastBuildDate>
     <item>
       <title>Grateful Dead - Brown-Eyed Women (3 plays)</title>
       <link>https://www.last.fm/music/Grateful+Dead/_/Brown-Eyed+Women</link>
@@ -355,6 +341,18 @@
       <guid isPermaLink="false">Frippertron-1787123269--2e710b0c-6ff3-4c21-87d5-16ebbbca212c---A Few Minutes After Trancefer</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/9d8349b002d86598903e12e8c5fe9543.png" length="117104" type="image/png"/>
       <pubDate>Wed, 19 Aug 2026 03:07:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>AC/DC - Let There Be Rock (28 plays)</title>
+      <link>https://www.last.fm/music/AC%2FDC/_/Let+There+Be+Rock</link>
+      <guid isPermaLink="false">Frippertron-1787128281--66c662b6-6e2f-4930-8610-912e24c63ed1---Let There Be Rock</guid>
+      <pubDate>Wed, 19 Aug 2026 04:31:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Mars Volta - Tetragrammaton (282 plays)</title>
+      <link>https://www.last.fm/music/The+Mars+Volta/_/Tetragrammaton</link>
+      <guid isPermaLink="false">Frippertron-1787128669--20883363-1ea4-4d72-ad72-c0e767038f3e---Tetragrammaton</guid>
+      <pubDate>Wed, 19 Aug 2026 04:37:49 -0400</pubDate>
     </item>
   </channel>
 </rss>
