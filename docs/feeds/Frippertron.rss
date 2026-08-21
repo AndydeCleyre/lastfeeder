@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 04:41:33 +0000</lastBuildDate>
-    <item>
-      <title>Julia Holter - My Lost One (4 plays)</title>
-      <link>https://www.last.fm/music/Julia+Holter/_/My+Lost+One</link>
-      <guid isPermaLink="false">Frippertron-1787235433--45610c1f-41a4-44f1-9da6-227510073ffc---My Lost One</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/92228cf808d88f0b8247df782f8616e1.png" length="76349" type="image/png"/>
-      <pubDate>Thu, 20 Aug 2026 10:17:13 -0400</pubDate>
-    </item>
-    <item>
-      <title>Julia Holter - Fantasy (3 plays)</title>
-      <link>https://www.last.fm/music/Julia+Holter/_/Fantasy</link>
-      <guid isPermaLink="false">Frippertron-1787235749--45610c1f-41a4-44f1-9da6-227510073ffc---Fantasy</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/92228cf808d88f0b8247df782f8616e1.png" length="76349" type="image/png"/>
-      <pubDate>Thu, 20 Aug 2026 10:22:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 05:16:35 +0000</lastBuildDate>
     <item>
       <title>Julia Holter - Materia 2 (3 plays)</title>
       <link>https://www.last.fm/music/Julia+Holter/_/Materia+2</link>
@@ -354,7 +340,20 @@
       <title>Terje Rypdal - Rolling Stone (1 play)</title>
       <link>https://www.last.fm/music/Terje+Rypdal/_/Rolling+Stone</link>
       <guid isPermaLink="false">Frippertron-1787286403--6a5e6105-b1c4-4c5c-97ae-5ee4b7f746b4---Rolling Stone</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/79ab4327e47d109a3d1de129112f6f97.png" length="123619" type="image/png"/>
       <pubDate>Fri, 21 Aug 2026 00:26:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lil Wayne - Fireman</title>
+      <link>https://www.last.fm/music/Lil+Wayne/_/Fireman</link>
+      <guid isPermaLink="false">Frippertron-1787288803--ac9a487a-d9d2-4f27-bb23-0f4686488345---Fireman</guid>
+      <pubDate>Fri, 21 Aug 2026 01:06:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Nona Reeves - Love Together (51 plays)</title>
+      <link>https://www.last.fm/music/Nona+Reeves/_/Love+Together</link>
+      <guid isPermaLink="false">Frippertron-1787289083--e3742063-06ef-4c81-be08-598497e26f6c---Love Together</guid>
+      <pubDate>Fri, 21 Aug 2026 01:11:23 -0400</pubDate>
     </item>
   </channel>
 </rss>
