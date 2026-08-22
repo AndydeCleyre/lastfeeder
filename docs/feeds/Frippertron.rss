@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/Frippertron.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 21:58:27 +0000</lastBuildDate>
-    <item>
-      <title>Klaus Schulze - Conphära (8 plays)</title>
-      <link>https://www.last.fm/music/Klaus+Schulze/_/Conph%C3%A4ra</link>
-      <guid isPermaLink="false">Frippertron-1787390739--2e710b0c-6ff3-4c21-87d5-16ebbbca212c---Conphära</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/f8fa95b53a7e4191b338eb9696b378bb.png" length="147983" type="image/png"/>
-      <pubDate>Sat, 22 Aug 2026 05:25:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>Deerhunter - Earthquake (19 plays)</title>
-      <link>https://www.last.fm/music/Deerhunter/_/Earthquake</link>
-      <guid isPermaLink="false">Frippertron-1787391050--4f416ed7-dda2-45de-a6f1-b986e861cf4b---Earthquake</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/70a35c54fb2d4b75b0febce9614ccf6d.png" length="101547" type="image/png"/>
-      <pubDate>Sat, 22 Aug 2026 05:30:50 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 22:30:50 +0000</lastBuildDate>
     <item>
       <title>Deerhunter - Don't Cry (17 plays)</title>
       <link>https://www.last.fm/music/Deerhunter/_/Don%27t+Cry</link>
@@ -191,7 +177,7 @@
       <pubDate>Sat, 22 Aug 2026 06:13:35 -0400</pubDate>
     </item>
     <item>
-      <title>Klaus Schulze - Neuronengesang (7 plays)</title>
+      <title>Klaus Schulze - Neuronengesang</title>
       <link>https://www.last.fm/music/Klaus+Schulze/_/Neuronengesang</link>
       <guid isPermaLink="false">Frippertron-1787393665--2e710b0c-6ff3-4c21-87d5-16ebbbca212c---Neuronengesang</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/f8fa95b53a7e4191b338eb9696b378bb.png" length="147983" type="image/png"/>
@@ -352,6 +338,20 @@
       <link>https://www.last.fm/music/King+Crimson/_/The+Court+of+the+Crimson+King</link>
       <guid isPermaLink="false">Frippertron-1787435459--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The Court of the Crimson King</guid>
       <pubDate>Sat, 22 Aug 2026 17:50:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - 21st Century Schizoid Man (424 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/21st+Century+Schizoid+Man</link>
+      <guid isPermaLink="false">Frippertron-1787435673--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---21st Century Schizoid Man</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 22 Aug 2026 17:54:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>King Crimson - The King Crimson Barber Shop (5 plays)</title>
+      <link>https://www.last.fm/music/King+Crimson/_/The+King+Crimson+Barber+Shop</link>
+      <guid isPermaLink="false">Frippertron-1787436172--b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3---The King Crimson Barber Shop</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" length="4195" type="image/png"/>
+      <pubDate>Sat, 22 Aug 2026 18:02:52 -0400</pubDate>
     </item>
   </channel>
 </rss>
