@@ -1,4 +1,4 @@
-anyio==4.14.2
+anyio==4.15.0
     # via httpx
 babel==2.18.0
     # via delorean
@@ -22,7 +22,7 @@ idna==3.19
     # via
     #   anyio
     #   httpx
-lxml==6.1.2
+lxml==6.1.3
     # via feedgen
 plumbum==2.0.2
     # via -r requirements.in
