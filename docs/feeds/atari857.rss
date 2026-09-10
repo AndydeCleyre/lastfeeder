@@ -7,16 +7,9 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 04:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:10:09 +0000</lastBuildDate>
     <item>
-      <title>Spanish Love Songs - Nuevo (28 plays)</title>
-      <link>https://www.last.fm/music/Spanish+Love+Songs/_/Nuevo</link>
-      <guid isPermaLink="false">atari857-1788304258--5c9dd772-a38f-4873-baa8-4b5d9dff3990---Nuevo</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/48db6044c10d51dbff34962827c5b85e.jpg" length="18426" type="image/jpeg"/>
-      <pubDate>Tue, 01 Sep 2026 19:10:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>Spanish Love Songs - Sequels, Remakes, &amp; Adaptations (26 plays)</title>
+      <title>Spanish Love Songs - Sequels, Remakes, &amp; Adaptations</title>
       <link>https://www.last.fm/music/Spanish+Love+Songs/_/Sequels,+Remakes,+&amp;+Adaptations</link>
       <guid isPermaLink="false">atari857-1788304672--5c9dd772-a38f-4873-baa8-4b5d9dff3990---Sequels, Remakes, &amp; Adaptations</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/48db6044c10d51dbff34962827c5b85e.jpg" length="18426" type="image/jpeg"/>
@@ -250,12 +243,14 @@
       <title>Czarface - Sirens (2 plays)</title>
       <link>https://www.last.fm/music/Czarface/_/Sirens</link>
       <guid isPermaLink="false">atari857-1788492257--66120159-5fe7-4cdb-8c9a-7ac68e393c6f---Sirens</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/a6028fa67877df0a7571acaaf5320748.jpg" length="53751" type="image/jpeg"/>
       <pubDate>Thu, 03 Sep 2026 23:24:17 -0400</pubDate>
     </item>
     <item>
       <title>oso oso - Know You Know Me Better (1 play)</title>
       <link>https://www.last.fm/music/oso+oso/_/Know+You+Know+Me+Better</link>
       <guid isPermaLink="false">atari857-1788493259--a8c4f4c9-b18a-4edf-a7d1-f5b657a9503b---Know You Know Me Better</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/0bf7523af9dc4a6f6179ee2e807beb89.jpg" length="13275" type="image/jpeg"/>
       <pubDate>Thu, 03 Sep 2026 23:40:59 -0400</pubDate>
     </item>
     <item>
@@ -315,21 +310,21 @@
       <pubDate>Mon, 07 Sep 2026 02:25:20 -0400</pubDate>
     </item>
     <item>
-      <title>Mayday Parade - It’s Hard To Be Religious When Certain People Are Never Incinerated By Bolts Of Lightning (1 play)</title>
+      <title>Mayday Parade - It’s Hard To Be Religious When Certain People Are Never Incinerated By Bolts Of Lightning</title>
       <link>https://www.last.fm/music/Mayday+Parade/_/It%E2%80%99s+Hard+To+Be+Religious+When+Certain+People+Are+Never+Incinerated+By+Bolts+Of+Lightning</link>
       <guid isPermaLink="false">atari857-1788799058--Mayday Parade---It’s Hard To Be Religious When Certain People Are Never Incinerated By Bolts Of Lightning</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/1da1a4ac2d3cda653d38d636387d0cf7.jpg" length="20016" type="image/jpeg"/>
       <pubDate>Mon, 07 Sep 2026 12:37:38 -0400</pubDate>
     </item>
     <item>
-      <title>Yellowcard - Miles Apart (4 plays)</title>
+      <title>Yellowcard - Miles Apart</title>
       <link>https://www.last.fm/music/Yellowcard/_/Miles+Apart</link>
       <guid isPermaLink="false">atari857-1788800094--3630fff3-52fc-4e97-ab01-d68fd88e4135---Miles Apart</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/2770e3f5cad964e46dbe9e2c3d84be42.png" length="142792" type="image/png"/>
       <pubDate>Mon, 07 Sep 2026 12:54:54 -0400</pubDate>
     </item>
     <item>
-      <title>Holly Humberstone - Make It All Better (2 plays)</title>
+      <title>Holly Humberstone - Make It All Better</title>
       <link>https://www.last.fm/music/Holly+Humberstone/_/Make+It+All+Better</link>
       <guid isPermaLink="false">atari857-1788816174--736c8ea9-b5c3-4c5f-8782-28e633f0c084---Make It All Better</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/c88d234f770e2bfe8ea3844a05c4edaa.jpg" length="12290" type="image/jpeg"/>
@@ -354,6 +349,13 @@
       <link>https://www.last.fm/music/Radiator+Hospital/_/Our+Song</link>
       <guid isPermaLink="false">atari857-1789000899--98f42ac3-7892-475e-ab47-0a55a3478b18---Our Song</guid>
       <pubDate>Wed, 09 Sep 2026 20:41:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Holly Humberstone - Make It All Better (3 plays)</title>
+      <link>https://www.last.fm/music/Holly+Humberstone/_/Make+It+All+Better</link>
+      <guid isPermaLink="false">atari857-1789000913--736c8ea9-b5c3-4c5f-8782-28e633f0c084---Make It All Better</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/c88d234f770e2bfe8ea3844a05c4edaa.jpg" length="12290" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 20:41:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
