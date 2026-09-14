@@ -7,21 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 01:07:53 +0000</lastBuildDate>
-    <item>
-      <title>Eric Christian - Le rêveur (1 play)</title>
-      <link>https://www.last.fm/music/Eric+Christian/_/Le+r%C3%AAveur</link>
-      <guid isPermaLink="false">TalonsOfFire-1789224195--02ba7fc5-f779-4f2c-8b49-8cabfba1f9d9---Le rêveur</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/28e45bbdfc1160637aec2df332ab4a73.jpg" length="15170" type="image/jpeg"/>
-      <pubDate>Sat, 12 Sep 2026 10:43:15 -0400</pubDate>
-    </item>
-    <item>
-      <title>Carter Burwell - Lovers (1 play)</title>
-      <link>https://www.last.fm/music/Carter+Burwell/_/Lovers</link>
-      <guid isPermaLink="false">TalonsOfFire-1789224467--b88ca659-0393-4a62-abd8-f290e6c7a7e2---Lovers</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/4a6a6cdf82952573455d2d58be342dad.jpg" length="11892" type="image/jpeg"/>
-      <pubDate>Sat, 12 Sep 2026 10:47:47 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 06:19:58 +0000</lastBuildDate>
     <item>
       <title>Gustavo Santaolalla - Home (1 play)</title>
       <link>https://www.last.fm/music/Gustavo+Santaolalla/_/Home</link>
@@ -33,6 +19,7 @@
       <title>Teesa - Moments - Voice Memo (1 play)</title>
       <link>https://www.last.fm/music/Teesa/_/Moments+-+Voice+Memo</link>
       <guid isPermaLink="false">TalonsOfFire-1789224946--Teesa---Moments - Voice Memo</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/8850f5980e096c14fb537477e4afe8cc.jpg" length="23216" type="image/jpeg"/>
       <pubDate>Sat, 12 Sep 2026 10:55:46 -0400</pubDate>
     </item>
     <item>
@@ -67,12 +54,14 @@
       <title>Dario Marianelli - Origami Birds (1 play)</title>
       <link>https://www.last.fm/music/Dario+Marianelli/_/Origami+Birds</link>
       <guid isPermaLink="false">TalonsOfFire-1789247153--9af7a998-33f9-4900-9396-9b5e1862298d---Origami Birds</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/5b2eda4859f3c5eaa1285b86942a3e70.jpg" length="29028" type="image/jpeg"/>
       <pubDate>Sat, 12 Sep 2026 17:05:53 -0400</pubDate>
     </item>
     <item>
       <title>Carlos Rafael Rivera - Beth's Story (1 play)</title>
       <link>https://www.last.fm/music/Carlos+Rafael+Rivera/_/Beth%27s+Story</link>
       <guid isPermaLink="false">TalonsOfFire-1789247473--a817428c-6c20-4c01-ae5c-51410ab77d2c---Beth's Story</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/cfd0f446a7343d598728be27eab6b32e.jpg" length="22610" type="image/jpeg"/>
       <pubDate>Sat, 12 Sep 2026 17:11:13 -0400</pubDate>
     </item>
     <item>
@@ -352,7 +341,22 @@
       <title>Brad Derrick - Pensive Meditation, with Pirates (1 play)</title>
       <link>https://www.last.fm/music/Brad+Derrick/_/Pensive+Meditation,+with+Pirates</link>
       <guid isPermaLink="false">TalonsOfFire-1789309667--36b352d3-83f9-490f-becd-187b1ce8763d---Pensive Meditation, with Pirates</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/73543200fa4ba8472897ae15e5aeac3e.jpg" length="26696" type="image/jpeg"/>
       <pubDate>Sun, 13 Sep 2026 10:27:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Brad Derrick - Ascadian Idyll (3 plays)</title>
+      <link>https://www.last.fm/music/Brad+Derrick/_/Ascadian+Idyll</link>
+      <guid isPermaLink="false">TalonsOfFire-1789346533--36b352d3-83f9-490f-becd-187b1ce8763d---Ascadian Idyll</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/330333744ba4a3e158490b50cdb59ba8.jpg" length="24444" type="image/jpeg"/>
+      <pubDate>Sun, 13 Sep 2026 20:42:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Gorillaz - El Mañana (5 plays)</title>
+      <link>https://www.last.fm/music/Gorillaz/_/El+Ma%C3%B1ana</link>
+      <guid isPermaLink="false">TalonsOfFire-1789354619--e21857d5-3256-4547-afb3-4b6ded592596---El Mañana</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/271483e955d2b255160f3361a7f5fb78.jpg" length="19173" type="image/jpeg"/>
+      <pubDate>Sun, 13 Sep 2026 22:56:59 -0400</pubDate>
     </item>
   </channel>
 </rss>
