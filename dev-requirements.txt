@@ -2,7 +2,7 @@ black==26.5.1
     # via -r dev-requirements.in
 certifi==2026.7.22
     # via requests
-charset-normalizer==3.5.1
+charset-normalizer==3.5.2
     # via requests
 click==8.5.0
     # via black
@@ -24,7 +24,7 @@ packaging==26.3
     # via black
 pathspec==1.1.1
     # via black
-platformdirs==4.12.1
+platformdirs==4.12.2
     # via black
 pytokens==0.4.1
     # via black
