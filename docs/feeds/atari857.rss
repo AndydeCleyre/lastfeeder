@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/atari857.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 16:56:25 +0000</lastBuildDate>
-    <item>
-      <title>Say Anything - Alive with the Glory of Love (7 plays)</title>
-      <link>https://www.last.fm/music/Say+Anything/_/Alive+with+the+Glory+of+Love</link>
-      <guid isPermaLink="false">atari857-1790558669--ee90d1b3-a4e2-4d18-9092-111d856e7e7a---Alive with the Glory of Love</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/3f198b644865bd04f42528d8df2fbcda.png" length="143548" type="image/png"/>
-      <pubDate>Sun, 27 Sep 2026 21:24:29 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 21:23:57 +0000</lastBuildDate>
     <item>
       <title>The Weepies - Nobody Knows Me At All (1 play)</title>
       <link>https://www.last.fm/music/The+Weepies/_/Nobody+Knows+Me+At+All</link>
@@ -33,6 +26,7 @@
       <title>Drive-By Truckers - Shake and Pine (15 plays)</title>
       <link>https://www.last.fm/music/Drive-By+Truckers/_/Shake+and+Pine</link>
       <guid isPermaLink="false">atari857-1790566938--Drive-By Truckers---Shake and Pine</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/3f7a478925306c8a4c001d249e92ec4e.jpg" length="35598" type="image/jpeg"/>
       <pubDate>Sun, 27 Sep 2026 23:42:18 -0400</pubDate>
     </item>
     <item>
@@ -78,7 +72,7 @@
       <pubDate>Mon, 28 Sep 2026 02:21:36 -0400</pubDate>
     </item>
     <item>
-      <title>Lande Hekt - Threadbare (3 plays)</title>
+      <title>Lande Hekt - Threadbare</title>
       <link>https://www.last.fm/music/Lande+Hekt/_/Threadbare</link>
       <guid isPermaLink="false">atari857-1790576552--e5886755-a4c0-48e9-8a4b-24d78e517d5c---Threadbare</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/eb1ae94180c4f9bb2a29ea6e3ea2cd30.jpg" length="18512" type="image/jpeg"/>
@@ -340,21 +334,27 @@
       <title>PUP - Anaphylaxis (13 plays)</title>
       <link>https://www.last.fm/music/PUP/_/Anaphylaxis</link>
       <guid isPermaLink="false">atari857-1790738036--3165f5e0-44ff-446a-81d7-c09ec69661ae---Anaphylaxis</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/b034621659ac12e6c6b933ed48d67d53.jpg" length="12626" type="image/jpeg"/>
       <pubDate>Tue, 29 Sep 2026 23:13:56 -0400</pubDate>
     </item>
     <item>
       <title>Kiwi Jr. - Hard Drive, Ontario (1 play)</title>
       <link>https://www.last.fm/music/Kiwi+Jr./_/Hard+Drive,+Ontario</link>
       <guid isPermaLink="false">atari857-1790738314--64598fd8-5d7c-441d-a936-e1fc13d5a4f6---Hard Drive, Ontario</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/5998a0657205b9390879937b52dce29b.jpg" length="18735" type="image/jpeg"/>
       <pubDate>Tue, 29 Sep 2026 23:18:34 -0400</pubDate>
     </item>
     <item>
       <title>New Junk City - Lonely Now (1 play)</title>
       <link>https://www.last.fm/music/New+Junk+City/_/Lonely+Now</link>
       <guid isPermaLink="false">atari857-1790738577--228df4f0-2312-4eb0-8ca2-f57a46e17558---Lonely Now</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/2c9f42527a141c043e97b2ddef3c66af.jpg" length="19658" type="image/jpeg"/>
       <pubDate>Tue, 29 Sep 2026 23:22:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>PUP - Can't Win (5 plays)</title>
+      <link>https://www.last.fm/music/PUP/_/Can%27t+Win</link>
+      <guid isPermaLink="false">atari857-1790797306--3165f5e0-44ff-446a-81d7-c09ec69661ae---Can't Win</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/ef3c7192df37a7b4b04a6c65c2376c89.jpg" length="28190" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 15:41:46 -0400</pubDate>
     </item>
   </channel>
 </rss>
