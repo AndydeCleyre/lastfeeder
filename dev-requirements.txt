@@ -24,7 +24,7 @@ packaging==26.3
     # via black
 pathspec==1.1.1
     # via black
-platformdirs==4.12.3
+platformdirs==4.12.4
     # via black
 pytokens==0.4.1
     # via black
