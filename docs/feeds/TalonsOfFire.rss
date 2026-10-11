@@ -7,14 +7,7 @@
     <atom:link href="https://andydecleyre.github.io/lastfeeder/feeds/TalonsOfFire.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 19:18:13 +0000</lastBuildDate>
-    <item>
-      <title>Ludwig Göransson - Atmospheric Ignition (2 plays)</title>
-      <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Atmospheric+Ignition</link>
-      <guid isPermaLink="false">TalonsOfFire-1791473801--78471616-3cb4-4139-a148-aeac3c7d0f79---Atmospheric Ignition</guid>
-      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/088d4d265311df770214cae6a34f4b25.gif" length="2309510" type="image/gif"/>
-      <pubDate>Thu, 08 Oct 2026 11:36:41 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 07:52:35 +0000</lastBuildDate>
     <item>
       <title>Ludwig Göransson - Los Alamos (2 plays)</title>
       <link>https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Los+Alamos</link>
@@ -219,7 +212,7 @@
       <pubDate>Thu, 08 Oct 2026 17:19:38 -0400</pubDate>
     </item>
     <item>
-      <title>Danny Elfman - To the Rescue</title>
+      <title>Danny Elfman - To the Rescue (1 play)</title>
       <link>https://www.last.fm/music/Danny+Elfman/_/To+the+Rescue</link>
       <guid isPermaLink="false">TalonsOfFire-1791494529--5b24fbab-c58f-4c37-a59d-ab232e2d98c4---To the Rescue</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/1cb8d1d68c972cf9f4d8da15fc7e3d89.jpg" length="23853" type="image/jpeg"/>
@@ -278,12 +271,14 @@
       <title>Nils Frahm - My Friend The Forest (3 plays)</title>
       <link>https://www.last.fm/music/Nils+Frahm/_/My+Friend+The+Forest</link>
       <guid isPermaLink="false">TalonsOfFire-1791644132--d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01---My Friend The Forest</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/d45f0b016b3de4c6843f874493350b69.jpg" length="14019" type="image/jpeg"/>
       <pubDate>Sat, 10 Oct 2026 10:55:32 -0400</pubDate>
     </item>
     <item>
       <title>Sylvain Chauveau - Situation initiale (2 plays)</title>
       <link>https://www.last.fm/music/Sylvain+Chauveau/_/Situation+initiale</link>
       <guid isPermaLink="false">TalonsOfFire-1791644486--e0443586-8830-4b7a-91c1-d6876c16d669---Situation initiale</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/15dc85b0ef624c5cbe23b2b3cc88f3c7.png" length="127926" type="image/png"/>
       <pubDate>Sat, 10 Oct 2026 11:01:26 -0400</pubDate>
     </item>
     <item>
@@ -297,6 +292,7 @@
       <title>Lynn Tredeau - Love Leaves a Memory (2 plays)</title>
       <link>https://www.last.fm/music/Lynn+Tredeau/_/Love+Leaves+a+Memory</link>
       <guid isPermaLink="false">TalonsOfFire-1791657739--32f902f4-2507-4990-ad3b-ed604be1b1db---Love Leaves a Memory</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/ddb802b71e9fb6945fcc3462aa5361df.jpg" length="19162" type="image/jpeg"/>
       <pubDate>Sat, 10 Oct 2026 14:42:19 -0400</pubDate>
     </item>
     <item>
@@ -354,6 +350,13 @@
       <guid isPermaLink="false">TalonsOfFire-1791659286--f22942a1-6f70-4f48-866e-238cb2308fbd---Strotha Tynhe</guid>
       <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/5fce0eeb59093ce461cde705a1307b32.png" length="147443" type="image/png"/>
       <pubDate>Sat, 10 Oct 2026 15:08:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Aphex Twin - Avril 14th (8 plays)</title>
+      <link>https://www.last.fm/music/Aphex+Twin/_/Avril+14th</link>
+      <guid isPermaLink="false">TalonsOfFire-1791659418--f22942a1-6f70-4f48-866e-238cb2308fbd---Avril 14th</guid>
+      <enclosure url="https://lastfm-img.freetls.fastly.net/i/u/300x300/5fce0eeb59093ce461cde705a1307b32.png" length="147443" type="image/png"/>
+      <pubDate>Sat, 10 Oct 2026 15:10:18 -0400</pubDate>
     </item>
   </channel>
 </rss>
