@@ -26,7 +26,7 @@ lxml==6.1.3
     # via feedgen
 plumbum==2.0.2
     # via -r requirements.in
-python-dateutil==2.9.0.post0
+python-dateutil==3.0.0
     # via
     #   delorean
     #   feedgen
@@ -35,10 +35,10 @@ six==1.17.0
 structlog==26.1.0
     # via -r requirements.in
 typing-extensions==4.16.0
-    # via
-    #   anyio
-    #   plumbum
-tzlocal==5.4.4
+    # via anyio
+tzdata==2026.5
+    # via python-dateutil
+tzlocal==5.4.5
     # via delorean
 wrapt==2.5.1
     # via -r requirements.in
