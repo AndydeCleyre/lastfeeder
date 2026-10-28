@@ -36,7 +36,7 @@ structlog==26.1.0
     # via -r requirements.in
 typing-extensions==4.16.0
     # via anyio
-tzdata==2026.5
+tzdata==2026.6
     # via python-dateutil
 tzlocal==5.4.5
     # via delorean

@@ -8,9 +8,9 @@ click==8.5.0
     # via black
 docutils==0.23
     # via flit
-flit==4.1.0
+flit==4.2.0
     # via -r dev-requirements.in
-flit-core==4.1.0
+flit-core==4.2.0
     # via flit
 idna==3.20
     # via requests
@@ -24,7 +24,7 @@ packaging==26.3
     # via black
 pathspec==1.1.1
     # via black
-platformdirs==4.13.6
+platformdirs==4.13.7
     # via black
 pytokens==0.4.1
     # via black
