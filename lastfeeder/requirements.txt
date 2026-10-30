@@ -40,5 +40,5 @@ tzdata==2026.6
     # via python-dateutil
 tzlocal==5.4.5
     # via delorean
-wrapt==2.5.1
+wrapt==2.5.2
     # via -r requirements.in
