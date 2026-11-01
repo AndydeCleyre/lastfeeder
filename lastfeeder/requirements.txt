@@ -1,4 +1,4 @@
-anyio==4.15.1
+anyio==4.16.0
     # via httpx
 babel==2.18.0
     # via delorean
@@ -26,12 +26,10 @@ lxml==6.1.3
     # via feedgen
 plumbum==2.0.2
     # via -r requirements.in
-python-dateutil==3.0.0
+python-dateutil==4.0.0
     # via
     #   delorean
     #   feedgen
-six==1.17.0
-    # via python-dateutil
 structlog==26.1.0
     # via -r requirements.in
 typing-extensions==4.16.0
